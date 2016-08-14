@@ -1,0 +1,1 @@
+{"name":"twitch-sub-sensuslive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sensusGG","image_id":25363},{"match":"sensusKappa","image_id":25412},{"match":"sensusLogo","image_id":28503},{"match":"sensusHam","image_id":28501}]}

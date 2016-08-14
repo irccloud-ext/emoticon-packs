@@ -1,0 +1,1 @@
+{"name":"twitch-sub-siegegames","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"siegeDEFEAT","image_id":64167},{"match":"siegeVICTORY","image_id":65250},{"match":"siegeLove","image_id":103448}]}

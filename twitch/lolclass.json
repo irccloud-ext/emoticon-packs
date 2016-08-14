@@ -1,0 +1,1 @@
+{"name":"twitch-sub-lolclass","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lolclassMinion","image_id":20286},{"match":"lolclassAPlus","image_id":20285},{"match":"lolclassRammus","image_id":20287}]}

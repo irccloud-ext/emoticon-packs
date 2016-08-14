@@ -1,0 +1,1 @@
+{"name":"twitch-sub-volcanotv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"volcErupt","image_id":18413},{"match":"volcHs","image_id":18669},{"match":"volc180","image_id":19188}]}

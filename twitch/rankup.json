@@ -1,0 +1,1 @@
+{"name":"twitch-sub-rankup","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rankupKitsune","image_id":39478},{"match":"rankupKuro","image_id":51470}]}

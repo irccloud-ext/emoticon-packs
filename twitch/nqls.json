@@ -1,0 +1,1 @@
+{"name":"twitch-sub-nqls","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nqlsnewsubBurger","image_id":87885},{"match":"nqlsnewsubPorc","image_id":89319},{"match":"nqlsnewsubGG","image_id":89318},{"match":"nqlsnewsubRekt","image_id":90556},{"match":"nqlsnewsubNewsub","image_id":90554}]}

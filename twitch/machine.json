@@ -1,0 +1,1 @@
+{"name":"twitch-sub-machine","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"machineTappa","image_id":57143},{"match":"machineHype","image_id":60646},{"match":"machineFlash","image_id":60388},{"match":"machineSpicy","image_id":66509}]}

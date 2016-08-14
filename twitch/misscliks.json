@@ -1,0 +1,1 @@
+{"name":"twitch-sub-misscliks","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"misscliksHotness","image_id":10031},{"match":"misscliksFail","image_id":14265},{"match":"misscliksPray","image_id":14266},{"match":"misscliksSmirk","image_id":14267}]}

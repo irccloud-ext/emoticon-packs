@@ -1,0 +1,1 @@
+{"name":"twitch-sub-imauzer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mauzFace","image_id":32623},{"match":"mauzWink","image_id":32617},{"match":"mauzMad","image_id":41581},{"match":"mauzHappy","image_id":41580}]}

@@ -1,0 +1,1 @@
+{"name":"twitch-sub-cacaotv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kkoGreedy","image_id":39640},{"match":"kkoFail","image_id":38998},{"match":"kkoChoco","image_id":39107},{"match":"kkoGg","image_id":40580},{"match":"kkoSuper","image_id":73874}]}

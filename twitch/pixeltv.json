@@ -1,0 +1,1 @@
+{"name":"twitch-sub-pixeltv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pxtvHjerte","image_id":31293},{"match":"pxtvFail","image_id":49201},{"match":"pxtvThomas","image_id":88667},{"match":"pxtvSkaeg","image_id":88670}]}

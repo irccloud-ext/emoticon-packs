@@ -1,0 +1,1 @@
+{"name":"twitch-sub-ruwin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ruwBub","image_id":2048},{"match":"ruwRage","image_id":9624},{"match":"ruwTalk","image_id":9609},{"match":"ruwHay","image_id":29696},{"match":"ruwW","image_id":32079},{"match":"ruwGrill","image_id":32655}]}

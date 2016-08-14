@@ -1,0 +1,1 @@
+{"name":"twitch-sub-pzr_stream","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"smileborodEva","image_id":91722},{"match":"smileborodPzr","image_id":91726},{"match":"smileborodAngry","image_id":101760},{"match":"smileborodLol","image_id":101762}]}

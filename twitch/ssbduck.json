@@ -1,0 +1,1 @@
+{"name":"twitch-sub-ssbduck","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ssbduckRage","image_id":97618},{"match":"ssbduckAbuFace","image_id":94615},{"match":"ssbduckChamp","image_id":96450}]}

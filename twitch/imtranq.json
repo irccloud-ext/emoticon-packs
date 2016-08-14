@@ -1,0 +1,1 @@
+{"name":"twitch-sub-imtranq","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tranqFace","image_id":28920},{"match":"tranqSandbag","image_id":28912},{"match":"tranqBeer","image_id":29228}]}

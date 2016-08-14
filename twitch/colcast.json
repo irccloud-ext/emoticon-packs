@@ -1,0 +1,1 @@
+{"name":"twitch-sub-colcast","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"colcastHam","image_id":13572},{"match":"colcastBeef","image_id":13573}]}

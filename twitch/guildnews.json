@@ -1,0 +1,1 @@
+{"name":"twitch-sub-guildnews","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gnlogoRndOrange","image_id":23455},{"match":"gnlogoQuaggan","image_id":23571},{"match":"gnlogoPinky","image_id":52489}]}

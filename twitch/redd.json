@@ -1,0 +1,1 @@
+{"name":"twitch-sub-redd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"reddBM","image_id":42186},{"match":"reddKappa","image_id":40739},{"match":"reddCappa","image_id":40759},{"match":"reddKreygasm","image_id":40811},{"match":"reddSame","image_id":40810}]}

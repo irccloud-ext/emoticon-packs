@@ -1,0 +1,1 @@
+{"name":"twitch-sub-shodan_twitch","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shodanEisberg","image_id":63797},{"match":"shodanSchiff","image_id":63937},{"match":"shodanPanzer","image_id":63842}]}

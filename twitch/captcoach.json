@@ -1,0 +1,1 @@
+{"name":"twitch-sub-captcoach","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"coachFined","image_id":64621},{"match":"coachPlug","image_id":39218},{"match":"coachPopcorn","image_id":43632},{"match":"coachSing","image_id":45312},{"match":"coachRekt","image_id":72657}]}

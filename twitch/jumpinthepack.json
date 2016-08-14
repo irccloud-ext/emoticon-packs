@@ -1,0 +1,1 @@
+{"name":"twitch-sub-jumpinthepack","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jitpSad","image_id":60977},{"match":"jitpLove","image_id":60974},{"match":"jitpEpic","image_id":47346},{"match":"jitpFail","image_id":47352}]}

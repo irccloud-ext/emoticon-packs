@@ -1,0 +1,1 @@
+{"name":"twitch-sub-nohandsken","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nohandskenNHK","image_id":37297},{"match":"nohandskenHAPPY","image_id":37298},{"match":"nohandskenSad","image_id":37300},{"match":"nohandskenHeart","image_id":36179}]}

@@ -1,0 +1,1 @@
+{"name":"twitch-sub-esportal","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"esportalHype","image_id":46939},{"match":"esportalGG","image_id":46940}]}

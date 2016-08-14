@@ -1,0 +1,1 @@
+{"name":"twitch-sub-lunchbox","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lunchMoney","image_id":36158},{"match":"lunchFace","image_id":36157},{"match":"lunchRobot","image_id":77676},{"match":"lunchTable","image_id":77677}]}

@@ -1,0 +1,1 @@
+{"name":"twitch-sub-eekcast","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"eekSpriteGlitch","image_id":3199},{"match":"eekBibleThuma","image_id":3198},{"match":"eekMewMew","image_id":13703},{"match":"eekFainted","image_id":16881}]}

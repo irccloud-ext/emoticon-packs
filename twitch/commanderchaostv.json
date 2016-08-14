@@ -1,0 +1,1 @@
+{"name":"twitch-sub-commanderchaostv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chaostvYes","image_id":38474},{"match":"chaostvLurk","image_id":39367},{"match":"chaostvFail","image_id":40049},{"match":"chaostvHype","image_id":41173}]}
