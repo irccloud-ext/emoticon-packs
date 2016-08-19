@@ -1,1 +1,1 @@
-{"name":"twitch-sub-cshk123","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cshkFurechan","image_id":109193}]}
+{"name":"twitch-sub-cshk123","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cshkFurechan","image_id":109193},{"match":"cshkSyuuko","image_id":109656},{"match":"cshkMinami","image_id":109657},{"match":"cshkKanade","image_id":109659}]}

@@ -1,1 +1,1 @@
-{"name":"twitch-sub-gleichmitte","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mitteCobweb","image_id":104731},{"match":"mitteScheisse","image_id":104611}]}
+{"name":"twitch-sub-gleichmitte","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mitteCobweb","image_id":104731},{"match":"mitteScheisse","image_id":104611},{"match":"mitteBett","image_id":109994}]}

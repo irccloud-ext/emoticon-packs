@@ -1,1 +1,1 @@
-{"name":"twitch-sub-upsiloncircuit","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gameFace","image_id":108305}]}
+{"name":"twitch-sub-upsiloncircuit","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gameFace","image_id":108305},{"match":"gameBomb","image_id":109750}]}

@@ -1,1 +1,1 @@
-{"name":"twitch-sub-vanqswisher","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vanqLaud","image_id":109576},{"match":"vanqBlast","image_id":109575}]}
+{"name":"twitch-sub-vanqswisher","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vanqFeels","image_id":109629},{"match":"vanqLaud","image_id":109576},{"match":"vanqBlast","image_id":109575}]}

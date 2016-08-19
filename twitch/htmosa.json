@@ -1,1 +1,1 @@
-{"name":"twitch-sub-htmosa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mosaToun","image_id":92831},{"match":"mosaFamily","image_id":102388}]}
+{"name":"twitch-sub-htmosa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mosaToun","image_id":92831},{"match":"mosaFamily","image_id":102388},{"match":"mosaMugi","image_id":110173}]}

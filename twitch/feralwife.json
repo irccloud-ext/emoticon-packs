@@ -1,1 +1,1 @@
-{"name":"twitch-sub-feralwife","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"feralChico","image_id":106058},{"match":"feralHello","image_id":107560},{"match":"feralShots","image_id":107546}]}
+{"name":"twitch-sub-feralwife","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"feralHello","image_id":107560},{"match":"feralShots","image_id":107546},{"match":"feralChico","image_id":109910}]}
