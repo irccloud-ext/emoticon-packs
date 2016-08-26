@@ -1,6 +1,6 @@
 {
   "name": "MSN Emoticons",
-  "template": "<img src='https://cdn.rawgit.com/irccloud-ext/emoticon-packs/msn/:href.gif' alt=':name' title=':name'>",
+  "template": "<img src='https://irccloud-ext.github.io/emoticon-packs/msn/:href.gif' alt=':name' title=':name'>",
   "match": "regex",
   "icons": [
     { "match": "\\(A|a\\)", "name": "Angel with halo", "href": "angel"},
