@@ -66,7 +66,7 @@
     { "match": "8-\\|", "name": "Smiley with glasses", "href": "nerd" },
     { "match": "\\^o\\)", "name": "Sarcastic", "href": "sarcastic" },
     { "match": ":-\\*", "name": "Gossip", "href": "gossip" },
-    { "match": "+o\\(", "name": "Sick", "href": "sick" },
+    { "match": "\\+o\\(", "name": "Sick", "href": "sick" },
     { "match": ":\\^\\)", "name": "Puzzled", "href": "puzzled" },
     { "match": "\\*-\\)", "name": "Thinking", "href": "thinking" },
     { "match": "<:o\\)", "name": "Party", "href": "party" },
