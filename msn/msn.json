@@ -27,7 +27,7 @@
     { "match": "\\(mo\\)", "name": "Money or my 2 cents", "href": "money" },
     { "match": "\\(mp\\)", "name": "Mobile Phone", "href": "cellphone" },
     { "match": ":'\\(", "name": "Crying", "href": "cry" },
-    { "match": ":(-\\$|\\$\\)", "name": "Embarrassed", "href": "embarrassed" },
+    { "match": ":-?\\$", "name": "Embarrassed", "href": "embarrassed" },
     { "match": ":(-?\\()", "name": "Sad", "href": "sad" },
     { "match": ":(-?\\))", "name": "Smiley", "href": "smiley" },
     { "match": ":(-?@\\)", "name": "Angry", "href": "angry" },
