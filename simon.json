@@ -20,6 +20,6 @@
     { "match": ":-?(\\\/|\\\\)", "id": "confused" },
     { "match": ":(-?(p|b)|b:)", "id": "stuck_out_tongue" },
     { "match": ";(-?(p|b)|b:)", "id": "stuck_out_tongue_winking_eye" },
-    { "match": ":-?*", "id": "kiss" }
+    { "match": ":-?\\*", "id": "kiss" }
   ]
 }
