@@ -1,0 +1,25 @@
+{
+  "name": "Simon's Pack",
+  "template": "<img src='http://www.tortue.me/emoji/:id.gif' alt=':id' title=':id'>",
+  "match": "regex",
+  "icons": [
+    { "match": "<3", "id": "heart" },
+    { "match": "<\\\/3", "id": "broken_heart" },
+    { "match": "8\\)", "id": "sunglasses" },
+    { "match": "D:", "id": "anguished" },
+    { "match": ":\\|", "id": "neutral_face" },
+    { "match": ":o\\)", "id": "monkey_face" },
+    { "match": "=-?\\)", "id": "smiley" },
+    { "match": ":-?D", "id": "smile" },
+    { "match": ";-?\\)", "id": "wink" },
+    { "match": ":-?>", "id": "satisfied" },
+    { "match": ":-?o", "id": "open_mouth" },
+    { "match": ">:-?\\(", "id": "angry" },
+    { "match": "(:-?\\)|\\(:)", "id": "grinning" },
+    { "match": "(:-?\\(|\\):)", "id": "disappointed" },
+    { "match": ":-?(\\\/|\\\\)", "id": "confused" },
+    { "match": ":(-?(p|b)|b:)", "id": "stuck_out_tongue" },
+    { "match": ";(-?(p|b)|b:)", "id": "stuck_out_tongue_winking_eye" },
+    { "match": ":-?*", "id": "kiss" }
+  ]
+}
