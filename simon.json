@@ -1,6 +1,6 @@
 {
   "name": "Simon's Pack",
-  "template": "<img src='http://www.tortue.me/emoji/:id.png' alt=':id' title=':id'>",
+  "template": "<img src='https://www.tortue.me/emoji/:id.png' alt=':id' title=':id'>",
   "match": "regex",
   "icons": [
     { "match": "<3", "id": "heart" },
