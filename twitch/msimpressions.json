@@ -1,0 +1,1 @@
+{"name":"twitch-sub-msimpressions","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rareGems","image_id":110347},{"match":"rareSub","image_id":110292}]}

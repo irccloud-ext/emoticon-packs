@@ -1,1 +1,1 @@
-{"name":"twitch-sub-turtle","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"turtleWater","image_id":110024}]}
+{"name":"twitch-sub-turtle","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"turtleStare","image_id":111083},{"match":"turtleSquirtle","image_id":111096},{"match":"turtleWater","image_id":110024},{"match":"turtleTert","image_id":111242}]}

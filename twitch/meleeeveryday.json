@@ -1,1 +1,1 @@
-{"name":"twitch-sub-meleeeveryday","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ssbmWebs","image_id":88412},{"match":"ssbmCampKels","image_id":109162}]}
+{"name":"twitch-sub-meleeeveryday","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ssbmWebs","image_id":88412},{"match":"ssbmDunk","image_id":110585},{"match":"ssbm4","image_id":110586},{"match":"ssbmCampKels","image_id":109162}]}

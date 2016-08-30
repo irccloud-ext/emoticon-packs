@@ -1,1 +1,1 @@
-{"name":"twitch-sub-songfully","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"songD","image_id":107079},{"match":"songSub","image_id":107081}]}
+{"name":"twitch-sub-songfully","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"songGG","image_id":111496},{"match":"songD","image_id":107079},{"match":"songSub","image_id":107081}]}

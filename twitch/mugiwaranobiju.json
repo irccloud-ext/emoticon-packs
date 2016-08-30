@@ -1,1 +1,1 @@
-{"name":"twitch-sub-mugiwaranobiju","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bijuMono","image_id":101085},{"match":"bijuCola","image_id":102655},{"match":"bijuMelon","image_id":98921},{"match":"bijuLol","image_id":98920}]}
+{"name":"twitch-sub-mugiwaranobiju","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bijuMono","image_id":101085},{"match":"bijuPapa","image_id":110647}]}

@@ -1,1 +1,1 @@
-{"name":"twitch-sub-narcosvszombies","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zombiesRock","image_id":107026},{"match":"zombiesRIP","image_id":107096}]}
+{"name":"twitch-sub-narcosvszombies","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zombiesRock","image_id":107026},{"match":"zombiesRIP","image_id":107096},{"match":"zombiesRock2","image_id":111598}]}

@@ -1,1 +1,1 @@
-{"name":"twitch-sub-gl_namax","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"namaxBounty","image_id":107947}]}
+{"name":"twitch-sub-gl_namax","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"namaxBounty","image_id":107947},{"match":"namaxSalt","image_id":110721}]}

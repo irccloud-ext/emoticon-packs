@@ -1,1 +1,1 @@
-{"name":"twitch-sub-xocliw","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xocSoon","image_id":105522},{"match":"xocClang","image_id":105485}]}
+{"name":"twitch-sub-xocliw","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xocLove","image_id":111384},{"match":"xocWave","image_id":111383},{"match":"xocSoon","image_id":105522},{"match":"xocClang","image_id":105485}]}

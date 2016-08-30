@@ -1,1 +1,1 @@
-{"name":"twitch-sub-first30minutes","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ftmCUFFS","image_id":96661},{"match":"ftmBADGE","image_id":99607}]}
+{"name":"twitch-sub-first30minutes","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ftmBADGE","image_id":110299},{"match":"ftmCUFFS","image_id":110300}]}

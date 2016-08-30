@@ -1,1 +1,1 @@
-{"name":"twitch-sub-gsmvoid","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"voidHiYo","image_id":109640}]}
+{"name":"twitch-sub-gsmvoid","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"voidHiYo","image_id":109640},{"match":"voidPPR","image_id":111036},{"match":"voidPPL","image_id":111035},{"match":"voidNerf","image_id":110573}]}
