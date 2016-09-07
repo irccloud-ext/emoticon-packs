@@ -1,1 +1,15 @@
-{"name":"twitch-sub-sanguev","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mctv322Prime","image_id":98381},{"match":"mctvTW","image_id":99998}]}
+{
+  "name": "twitch-sub-sanguev",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mctv322Prime",
+      "image_id": 98381
+    },
+    {
+      "match": "mctvTW",
+      "image_id": 99998
+    }
+  ]
+}

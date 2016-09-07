@@ -1,0 +1,39 @@
+{
+  "name": "twitch-sub-killykapowski",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "killyW",
+      "image_id": 111796
+    },
+    {
+      "match": "killyKAPOW",
+      "image_id": 111750
+    },
+    {
+      "match": "killyK",
+      "image_id": 111751
+    },
+    {
+      "match": "killyTRY",
+      "image_id": 111752
+    },
+    {
+      "match": "killyRIP",
+      "image_id": 111754
+    },
+    {
+      "match": "killyWEENIE",
+      "image_id": 112251
+    },
+    {
+      "match": "killySPRAY",
+      "image_id": 111755
+    },
+    {
+      "match": "killyLOCK",
+      "image_id": 111756
+    }
+  ]
+}

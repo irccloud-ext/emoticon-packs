@@ -1,1 +1,31 @@
-{"name":"twitch-sub-dondlow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dondO","image_id":89284},{"match":"dondSUB","image_id":89285},{"match":"dondGG","image_id":90524},{"match":"dondU","image_id":90381},{"match":"dondYOU","image_id":97425},{"match":"dondVIP","image_id":97424}]}
+{
+  "name": "twitch-sub-dondlow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dondO",
+      "image_id": 89284
+    },
+    {
+      "match": "dondSUB",
+      "image_id": 89285
+    },
+    {
+      "match": "dondGG",
+      "image_id": 90524
+    },
+    {
+      "match": "dondU",
+      "image_id": 90381
+    },
+    {
+      "match": "dondYOU",
+      "image_id": 97425
+    },
+    {
+      "match": "dondVIP",
+      "image_id": 97424
+    }
+  ]
+}

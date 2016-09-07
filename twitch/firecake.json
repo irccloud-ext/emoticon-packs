@@ -1,1 +1,19 @@
-{"name":"twitch-sub-firecake","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fcscChef","image_id":83645},{"match":"fcscKappa","image_id":86495},{"match":"fcscBag","image_id":94725}]}
+{
+  "name": "twitch-sub-firecake",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fcscChef",
+      "image_id": 83645
+    },
+    {
+      "match": "fcscKappa",
+      "image_id": 86495
+    },
+    {
+      "match": "fcscBag",
+      "image_id": 94725
+    }
+  ]
+}

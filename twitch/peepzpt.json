@@ -1,1 +1,23 @@
-{"name":"twitch-sub-peepzpt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"peepzBoom","image_id":46986},{"match":"peepzLike","image_id":47327},{"match":"peepzFail","image_id":76821},{"match":"peepzMVP","image_id":74464}]}
+{
+  "name": "twitch-sub-peepzpt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "peepzBoom",
+      "image_id": 46986
+    },
+    {
+      "match": "peepzLike",
+      "image_id": 47327
+    },
+    {
+      "match": "peepzFail",
+      "image_id": 76821
+    },
+    {
+      "match": "peepzMVP",
+      "image_id": 74464
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"name":"twitch-sub-sabotagegg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sggGenjik","image_id":103203},{"match":"sggKeska","image_id":99999},{"match":"sggSleeper","image_id":108028}]}
+{
+  "name": "twitch-sub-sabotagegg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sggGenjik",
+      "image_id": 103203
+    },
+    {
+      "match": "sggKeska",
+      "image_id": 99999
+    },
+    {
+      "match": "sggSleeper",
+      "image_id": 108028
+    }
+  ]
+}

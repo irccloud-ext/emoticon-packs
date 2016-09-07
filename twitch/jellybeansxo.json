@@ -1,1 +1,27 @@
-{"name":"twitch-sub-jellybeansxo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jaybBeanie","image_id":41486},{"match":"jaybCreep","image_id":41487},{"match":"jaybFarmer","image_id":41485},{"match":"jaybRIP","image_id":41484},{"match":"jaybGasm","image_id":41483}]}
+{
+  "name": "twitch-sub-jellybeansxo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jaybBeanie",
+      "image_id": 41486
+    },
+    {
+      "match": "jaybCreep",
+      "image_id": 41487
+    },
+    {
+      "match": "jaybFarmer",
+      "image_id": 41485
+    },
+    {
+      "match": "jaybRIP",
+      "image_id": 41484
+    },
+    {
+      "match": "jaybGasm",
+      "image_id": 41483
+    }
+  ]
+}

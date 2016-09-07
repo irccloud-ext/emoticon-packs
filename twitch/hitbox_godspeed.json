@@ -1,1 +1,23 @@
-{"name":"twitch-sub-hitbox_godspeed","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gspeedHype","image_id":64564},{"match":"gspeedKappa","image_id":62845},{"match":"gspeedClutch","image_id":66606},{"match":"gspeedFball","image_id":66184}]}
+{
+  "name": "twitch-sub-hitbox_godspeed",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gspeedHype",
+      "image_id": 64564
+    },
+    {
+      "match": "gspeedKappa",
+      "image_id": 62845
+    },
+    {
+      "match": "gspeedClutch",
+      "image_id": 66606
+    },
+    {
+      "match": "gspeedFball",
+      "image_id": 66184
+    }
+  ]
+}

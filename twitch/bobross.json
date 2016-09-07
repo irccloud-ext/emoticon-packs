@@ -1,1 +1,127 @@
-{"name":"twitch-sub-bobross","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bobrossHappy","image_id":70511},{"match":"bobrossFree","image_id":71191},{"match":"bobrossBush","image_id":72596},{"match":"bobrossEve","image_id":72597},{"match":"bobrossBeli","image_id":72598},{"match":"bobrossCanvasH","image_id":72599},{"match":"bobrossPal","image_id":72600},{"match":"bobrossVHS","image_id":71060},{"match":"bobrossTap","image_id":71061},{"match":"bobrossFan","image_id":71062},{"match":"bobrossChamp","image_id":71063},{"match":"bobrossSq","image_id":71245},{"match":"bobrossFence","image_id":71246},{"match":"bobrossMnt","image_id":71064},{"match":"bobrossSaved","image_id":71248},{"match":"bobrossTree","image_id":71371},{"match":"bobrossCanvasP","image_id":71372},{"match":"bobrossCanvasA","image_id":71373},{"match":"bobrossCanvas","image_id":71374},{"match":"bobrossMini","image_id":71375},{"match":"bobrossCanvasB","image_id":71548},{"match":"bobrossCabin","image_id":71102},{"match":"bobrossMeta","image_id":71549},{"match":"bobrossKappaR","image_id":71550},{"match":"bobrossCloud","image_id":71377},{"match":"bobrossCool","image_id":70597},{"match":"bobrossRUI","image_id":70604},{"match":"bobrossNED","image_id":70605},{"match":"bobrossOPKnife","image_id":70618},{"match":"bobrossGG","image_id":103620}]}
+{
+  "name": "twitch-sub-bobross",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bobrossHappy",
+      "image_id": 70511
+    },
+    {
+      "match": "bobrossFree",
+      "image_id": 71191
+    },
+    {
+      "match": "bobrossBush",
+      "image_id": 72596
+    },
+    {
+      "match": "bobrossEve",
+      "image_id": 72597
+    },
+    {
+      "match": "bobrossBeli",
+      "image_id": 72598
+    },
+    {
+      "match": "bobrossCanvasH",
+      "image_id": 72599
+    },
+    {
+      "match": "bobrossPal",
+      "image_id": 72600
+    },
+    {
+      "match": "bobrossVHS",
+      "image_id": 71060
+    },
+    {
+      "match": "bobrossTap",
+      "image_id": 71061
+    },
+    {
+      "match": "bobrossFan",
+      "image_id": 71062
+    },
+    {
+      "match": "bobrossChamp",
+      "image_id": 71063
+    },
+    {
+      "match": "bobrossSq",
+      "image_id": 71245
+    },
+    {
+      "match": "bobrossFence",
+      "image_id": 71246
+    },
+    {
+      "match": "bobrossMnt",
+      "image_id": 71064
+    },
+    {
+      "match": "bobrossSaved",
+      "image_id": 71248
+    },
+    {
+      "match": "bobrossTree",
+      "image_id": 71371
+    },
+    {
+      "match": "bobrossCanvasP",
+      "image_id": 71372
+    },
+    {
+      "match": "bobrossCanvasA",
+      "image_id": 71373
+    },
+    {
+      "match": "bobrossCanvas",
+      "image_id": 71374
+    },
+    {
+      "match": "bobrossMini",
+      "image_id": 71375
+    },
+    {
+      "match": "bobrossCanvasB",
+      "image_id": 71548
+    },
+    {
+      "match": "bobrossCabin",
+      "image_id": 71102
+    },
+    {
+      "match": "bobrossMeta",
+      "image_id": 71549
+    },
+    {
+      "match": "bobrossKappaR",
+      "image_id": 71550
+    },
+    {
+      "match": "bobrossCloud",
+      "image_id": 71377
+    },
+    {
+      "match": "bobrossCool",
+      "image_id": 70597
+    },
+    {
+      "match": "bobrossRUI",
+      "image_id": 70604
+    },
+    {
+      "match": "bobrossNED",
+      "image_id": 70605
+    },
+    {
+      "match": "bobrossOPKnife",
+      "image_id": 70618
+    },
+    {
+      "match": "bobrossGG",
+      "image_id": 103620
+    }
+  ]
+}

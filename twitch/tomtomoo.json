@@ -1,1 +1,39 @@
-{"name":"twitch-sub-tomtomoo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tomtomFail","image_id":30750},{"match":"tomtomBunny","image_id":30621},{"match":"tomtomNO","image_id":30620},{"match":"tomtomHerz","image_id":31751},{"match":"tomtomRip","image_id":31744},{"match":"tomtomShy","image_id":31917},{"match":"tomtomIlu","image_id":32926},{"match":"tomtomSkill","image_id":32933}]}
+{
+  "name": "twitch-sub-tomtomoo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tomtomFail",
+      "image_id": 30750
+    },
+    {
+      "match": "tomtomBunny",
+      "image_id": 30621
+    },
+    {
+      "match": "tomtomNO",
+      "image_id": 30620
+    },
+    {
+      "match": "tomtomHerz",
+      "image_id": 31751
+    },
+    {
+      "match": "tomtomRip",
+      "image_id": 31744
+    },
+    {
+      "match": "tomtomShy",
+      "image_id": 31917
+    },
+    {
+      "match": "tomtomIlu",
+      "image_id": 32926
+    },
+    {
+      "match": "tomtomSkill",
+      "image_id": 32933
+    }
+  ]
+}

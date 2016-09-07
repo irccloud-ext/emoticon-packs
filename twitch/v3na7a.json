@@ -1,1 +1,31 @@
-{"name":"twitch-sub-v3na7a","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"venataSad","image_id":80454},{"match":"venataPower","image_id":78700},{"match":"venataFace","image_id":78698},{"match":"venataLove","image_id":79876},{"match":"venataAngry","image_id":81993},{"match":"venataTroll","image_id":82882}]}
+{
+  "name": "twitch-sub-v3na7a",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "venataSad",
+      "image_id": 80454
+    },
+    {
+      "match": "venataPower",
+      "image_id": 78700
+    },
+    {
+      "match": "venataFace",
+      "image_id": 78698
+    },
+    {
+      "match": "venataLove",
+      "image_id": 79876
+    },
+    {
+      "match": "venataAngry",
+      "image_id": 81993
+    },
+    {
+      "match": "venataTroll",
+      "image_id": 82882
+    }
+  ]
+}

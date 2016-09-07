@@ -1,1 +1,23 @@
-{"name":"twitch-sub-shrugger","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shrugDog","image_id":99863},{"match":"shrugCat","image_id":99795},{"match":"shrug9HP","image_id":99962},{"match":"shrugCHAMP","image_id":102916}]}
+{
+  "name": "twitch-sub-shrugger",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shrugDog",
+      "image_id": 99863
+    },
+    {
+      "match": "shrugCat",
+      "image_id": 99795
+    },
+    {
+      "match": "shrug9HP",
+      "image_id": 99962
+    },
+    {
+      "match": "shrugCHAMP",
+      "image_id": 102916
+    }
+  ]
+}

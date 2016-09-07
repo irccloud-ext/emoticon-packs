@@ -1,1 +1,23 @@
-{"name":"twitch-sub-dzyl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dzyFist","image_id":5620},{"match":"dzyDing","image_id":5604},{"match":"dzyStorm","image_id":5621},{"match":"dzyWorth","image_id":7023}]}
+{
+  "name": "twitch-sub-dzyl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dzyFist",
+      "image_id": 5620
+    },
+    {
+      "match": "dzyDing",
+      "image_id": 5604
+    },
+    {
+      "match": "dzyStorm",
+      "image_id": 5621
+    },
+    {
+      "match": "dzyWorth",
+      "image_id": 7023
+    }
+  ]
+}

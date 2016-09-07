@@ -1,1 +1,47 @@
-{"name":"twitch-sub-jscubby","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"scubREKT","image_id":86108},{"match":"scubLURK","image_id":106035},{"match":"scubLove","image_id":82591},{"match":"scubHYPE","image_id":82580},{"match":"scubCREEP","image_id":106041},{"match":"scubCLUTCH","image_id":86110},{"match":"scubSALT","image_id":99185},{"match":"scubCHILL","image_id":99184},{"match":"scubGG","image_id":98978},{"match":"scubFEELS","image_id":105538}]}
+{
+  "name": "twitch-sub-jscubby",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "scubREKT",
+      "image_id": 86108
+    },
+    {
+      "match": "scubLURK",
+      "image_id": 106035
+    },
+    {
+      "match": "scubLove",
+      "image_id": 82591
+    },
+    {
+      "match": "scubHYPE",
+      "image_id": 82580
+    },
+    {
+      "match": "scubCREEP",
+      "image_id": 106041
+    },
+    {
+      "match": "scubCLUTCH",
+      "image_id": 86110
+    },
+    {
+      "match": "scubSALT",
+      "image_id": 99185
+    },
+    {
+      "match": "scubCHILL",
+      "image_id": 99184
+    },
+    {
+      "match": "scubGG",
+      "image_id": 98978
+    },
+    {
+      "match": "scubFEELS",
+      "image_id": 105538
+    }
+  ]
+}

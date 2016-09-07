@@ -1,1 +1,87 @@
-{"name":"twitch-sub-opsct","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"opsWinner","image_id":77811},{"match":"opsFeel","image_id":108858},{"match":"opsDolla","image_id":108859},{"match":"opsJesas","image_id":75801},{"match":"opsRekt","image_id":47518},{"match":"opsYou","image_id":75802},{"match":"opsRage","image_id":47728},{"match":"opsOp","image_id":47729},{"match":"opsCreeper","image_id":56193},{"match":"opsWoah","image_id":56194},{"match":"opsRip","image_id":77812},{"match":"opsSalt","image_id":77810},{"match":"opsHeart","image_id":72299},{"match":"opsBlind","image_id":75800},{"match":"opsDance","image_id":78408},{"match":"opsLaugh","image_id":79474},{"match":"opsP","image_id":85067},{"match":"opsGo","image_id":108860},{"match":"opsHype","image_id":109755},{"match":"opsSerious","image_id":109756}]}
+{
+  "name": "twitch-sub-opsct",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "opsWinner",
+      "image_id": 77811
+    },
+    {
+      "match": "opsFeel",
+      "image_id": 108858
+    },
+    {
+      "match": "opsDolla",
+      "image_id": 108859
+    },
+    {
+      "match": "opsJesas",
+      "image_id": 75801
+    },
+    {
+      "match": "opsRekt",
+      "image_id": 47518
+    },
+    {
+      "match": "opsYou",
+      "image_id": 75802
+    },
+    {
+      "match": "opsRage",
+      "image_id": 47728
+    },
+    {
+      "match": "opsOp",
+      "image_id": 47729
+    },
+    {
+      "match": "opsCreeper",
+      "image_id": 56193
+    },
+    {
+      "match": "opsWoah",
+      "image_id": 56194
+    },
+    {
+      "match": "opsRip",
+      "image_id": 77812
+    },
+    {
+      "match": "opsSalt",
+      "image_id": 77810
+    },
+    {
+      "match": "opsHeart",
+      "image_id": 72299
+    },
+    {
+      "match": "opsBlind",
+      "image_id": 75800
+    },
+    {
+      "match": "opsDance",
+      "image_id": 78408
+    },
+    {
+      "match": "opsLaugh",
+      "image_id": 79474
+    },
+    {
+      "match": "opsP",
+      "image_id": 85067
+    },
+    {
+      "match": "opsGo",
+      "image_id": 108860
+    },
+    {
+      "match": "opsHype",
+      "image_id": 109755
+    },
+    {
+      "match": "opsSerious",
+      "image_id": 109756
+    }
+  ]
+}

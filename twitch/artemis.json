@@ -1,1 +1,47 @@
-{"name":"twitch-sub-artemis","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ladyBubbles","image_id":11479},{"match":"ladyGed","image_id":76495},{"match":"ladyRig","image_id":76494},{"match":"ladyPizza","image_id":76493},{"match":"ladyHype","image_id":76492},{"match":"ladyBetty","image_id":76491},{"match":"ladyChoke","image_id":76483},{"match":"ladyHug","image_id":76482},{"match":"ladyEnergy","image_id":76532},{"match":"ladyNugget","image_id":76531}]}
+{
+  "name": "twitch-sub-artemis",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ladyBubbles",
+      "image_id": 11479
+    },
+    {
+      "match": "ladyGed",
+      "image_id": 76495
+    },
+    {
+      "match": "ladyRig",
+      "image_id": 76494
+    },
+    {
+      "match": "ladyPizza",
+      "image_id": 76493
+    },
+    {
+      "match": "ladyHype",
+      "image_id": 76492
+    },
+    {
+      "match": "ladyBetty",
+      "image_id": 76491
+    },
+    {
+      "match": "ladyChoke",
+      "image_id": 76483
+    },
+    {
+      "match": "ladyHug",
+      "image_id": 76482
+    },
+    {
+      "match": "ladyEnergy",
+      "image_id": 76532
+    },
+    {
+      "match": "ladyNugget",
+      "image_id": 76531
+    }
+  ]
+}

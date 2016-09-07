@@ -1,1 +1,31 @@
-{"name":"twitch-sub-kudochop","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kudoScumbag","image_id":56625},{"match":"kudoKappa","image_id":56427},{"match":"kudoThump","image_id":56583},{"match":"kudoMina","image_id":97792},{"match":"kudoWot","image_id":97794},{"match":"kudoTrump","image_id":97795}]}
+{
+  "name": "twitch-sub-kudochop",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kudoScumbag",
+      "image_id": 56625
+    },
+    {
+      "match": "kudoKappa",
+      "image_id": 56427
+    },
+    {
+      "match": "kudoThump",
+      "image_id": 56583
+    },
+    {
+      "match": "kudoMina",
+      "image_id": 97792
+    },
+    {
+      "match": "kudoWot",
+      "image_id": 97794
+    },
+    {
+      "match": "kudoTrump",
+      "image_id": 97795
+    }
+  ]
+}

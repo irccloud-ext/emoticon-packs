@@ -1,1 +1,31 @@
-{"name":"twitch-sub-inukitv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"inuHype","image_id":81106},{"match":"inuSad","image_id":83966},{"match":"inuHome","image_id":81107},{"match":"inuRip","image_id":91400},{"match":"inuSmile","image_id":92813},{"match":"inuDice","image_id":92812}]}
+{
+  "name": "twitch-sub-inukitv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "inuHype",
+      "image_id": 81106
+    },
+    {
+      "match": "inuSad",
+      "image_id": 83966
+    },
+    {
+      "match": "inuHome",
+      "image_id": 81107
+    },
+    {
+      "match": "inuRip",
+      "image_id": 91400
+    },
+    {
+      "match": "inuSmile",
+      "image_id": 92813
+    },
+    {
+      "match": "inuDice",
+      "image_id": 92812
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-gl_geekinc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gplayFaisan","image_id":80109},{"match":"gplayInternet","image_id":84379},{"match":"gplayCed","image_id":85772},{"match":"gplayGMZ","image_id":95504},{"match":"gplayFAIL","image_id":95516},{"match":"gplayPLS","image_id":95517}]}
+{
+  "name": "twitch-sub-gl_geekinc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gplayFaisan",
+      "image_id": 80109
+    },
+    {
+      "match": "gplayInternet",
+      "image_id": 84379
+    },
+    {
+      "match": "gplayCed",
+      "image_id": 85772
+    },
+    {
+      "match": "gplayGMZ",
+      "image_id": 95504
+    },
+    {
+      "match": "gplayFAIL",
+      "image_id": 95516
+    },
+    {
+      "match": "gplayPLS",
+      "image_id": 95517
+    }
+  ]
+}

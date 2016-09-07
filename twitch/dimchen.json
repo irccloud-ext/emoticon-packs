@@ -1,1 +1,31 @@
-{"name":"twitch-sub-dimchen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dimchenFace","image_id":25858},{"match":"dimchenRage","image_id":27186},{"match":"dimchenGG","image_id":27983},{"match":"dimchenLev","image_id":41379},{"match":"dimchenRak","image_id":41378},{"match":"dimchenPluha","image_id":69961}]}
+{
+  "name": "twitch-sub-dimchen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dimchenFace",
+      "image_id": 25858
+    },
+    {
+      "match": "dimchenRage",
+      "image_id": 27186
+    },
+    {
+      "match": "dimchenGG",
+      "image_id": 27983
+    },
+    {
+      "match": "dimchenLev",
+      "image_id": 41379
+    },
+    {
+      "match": "dimchenRak",
+      "image_id": 41378
+    },
+    {
+      "match": "dimchenPluha",
+      "image_id": 69961
+    }
+  ]
+}

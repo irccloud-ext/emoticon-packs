@@ -1,1 +1,23 @@
-{"name":"twitch-sub-rnqq","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"macoNyan","image_id":111362},{"match":"macoPico","image_id":110575},{"match":"macoJiru","image_id":90053},{"match":"macoCute","image_id":90052}]}
+{
+  "name": "twitch-sub-rnqq",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "macoNyan",
+      "image_id": 111362
+    },
+    {
+      "match": "macoPico",
+      "image_id": 110575
+    },
+    {
+      "match": "macoJiru",
+      "image_id": 90053
+    },
+    {
+      "match": "macoCute",
+      "image_id": 90052
+    }
+  ]
+}

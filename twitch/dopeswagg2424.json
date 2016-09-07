@@ -1,1 +1,31 @@
-{"name":"twitch-sub-dopeswagg2424","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ds24Bae","image_id":84796},{"match":"ds24RTG","image_id":84271},{"match":"ds24Tiger","image_id":84272},{"match":"ds24CLAMPS","image_id":85824},{"match":"ds24GG","image_id":90878},{"match":"ds24SUBHYPE","image_id":90875}]}
+{
+  "name": "twitch-sub-dopeswagg2424",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ds24Bae",
+      "image_id": 84796
+    },
+    {
+      "match": "ds24RTG",
+      "image_id": 84271
+    },
+    {
+      "match": "ds24Tiger",
+      "image_id": 84272
+    },
+    {
+      "match": "ds24CLAMPS",
+      "image_id": 85824
+    },
+    {
+      "match": "ds24GG",
+      "image_id": 90878
+    },
+    {
+      "match": "ds24SUBHYPE",
+      "image_id": 90875
+    }
+  ]
+}

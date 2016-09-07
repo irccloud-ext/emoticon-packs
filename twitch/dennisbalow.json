@@ -1,1 +1,23 @@
-{"name":"twitch-sub-dennisbalow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"haruuDoremi","image_id":24352},{"match":"haruuBlush","image_id":24531},{"match":"haruuBombgods","image_id":26657},{"match":"haruuRIP","image_id":26671}]}
+{
+  "name": "twitch-sub-dennisbalow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "haruuDoremi",
+      "image_id": 24352
+    },
+    {
+      "match": "haruuBlush",
+      "image_id": 24531
+    },
+    {
+      "match": "haruuBombgods",
+      "image_id": 26657
+    },
+    {
+      "match": "haruuRIP",
+      "image_id": 26671
+    }
+  ]
+}

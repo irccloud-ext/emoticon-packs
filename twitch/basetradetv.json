@@ -1,1 +1,95 @@
-{"name":"twitch-sub-basetradetv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aceRT","image_id":87050},{"match":"aceDA","image_id":30133},{"match":"aceFB","image_id":4490},{"match":"aceCate","image_id":5682},{"match":"aceTempog","image_id":6548},{"match":"aceTC","image_id":7306},{"match":"acePLS","image_id":21554},{"match":"aceNamgasm","image_id":22218},{"match":"aceCHZ","image_id":26726},{"match":"aceRAGE","image_id":26769},{"match":"aceFORK","image_id":32057},{"match":"aceFFS","image_id":33677},{"match":"ace1","image_id":35791},{"match":"ace2","image_id":35792},{"match":"aceVampire","image_id":87166},{"match":"aceFood","image_id":87167},{"match":"aceBAN","image_id":87168},{"match":"aceZG","image_id":68481},{"match":"aceT","image_id":77097},{"match":"aceMatch","image_id":77098},{"match":"aceGuncheck","image_id":86671},{"match":"aceLewd","image_id":87038}]}
+{
+  "name": "twitch-sub-basetradetv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aceRT",
+      "image_id": 87050
+    },
+    {
+      "match": "aceDA",
+      "image_id": 30133
+    },
+    {
+      "match": "aceFB",
+      "image_id": 4490
+    },
+    {
+      "match": "aceCate",
+      "image_id": 5682
+    },
+    {
+      "match": "aceTempog",
+      "image_id": 6548
+    },
+    {
+      "match": "aceTC",
+      "image_id": 7306
+    },
+    {
+      "match": "acePLS",
+      "image_id": 21554
+    },
+    {
+      "match": "aceNamgasm",
+      "image_id": 22218
+    },
+    {
+      "match": "aceCHZ",
+      "image_id": 26726
+    },
+    {
+      "match": "aceRAGE",
+      "image_id": 26769
+    },
+    {
+      "match": "aceFORK",
+      "image_id": 32057
+    },
+    {
+      "match": "aceFFS",
+      "image_id": 33677
+    },
+    {
+      "match": "ace1",
+      "image_id": 35791
+    },
+    {
+      "match": "ace2",
+      "image_id": 35792
+    },
+    {
+      "match": "aceVampire",
+      "image_id": 87166
+    },
+    {
+      "match": "aceFood",
+      "image_id": 87167
+    },
+    {
+      "match": "aceBAN",
+      "image_id": 87168
+    },
+    {
+      "match": "aceZG",
+      "image_id": 68481
+    },
+    {
+      "match": "aceT",
+      "image_id": 77097
+    },
+    {
+      "match": "aceMatch",
+      "image_id": 77098
+    },
+    {
+      "match": "aceGuncheck",
+      "image_id": 86671
+    },
+    {
+      "match": "aceLewd",
+      "image_id": 87038
+    }
+  ]
+}

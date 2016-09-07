@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mraka03","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aka03FRAGILE","image_id":91485},{"match":"aka03JONTIL","image_id":91482},{"match":"aka03JOULIE","image_id":91481},{"match":"aka03LOURD","image_id":91287},{"match":"aka03KEPED","image_id":92145},{"match":"aka03CROUVETTE","image_id":92144}]}
+{
+  "name": "twitch-sub-mraka03",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aka03FRAGILE",
+      "image_id": 91485
+    },
+    {
+      "match": "aka03JONTIL",
+      "image_id": 91482
+    },
+    {
+      "match": "aka03JOULIE",
+      "image_id": 91481
+    },
+    {
+      "match": "aka03LOURD",
+      "image_id": 91287
+    },
+    {
+      "match": "aka03KEPED",
+      "image_id": 92145
+    },
+    {
+      "match": "aka03CROUVETTE",
+      "image_id": 92144
+    }
+  ]
+}

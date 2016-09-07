@@ -1,1 +1,43 @@
-{"name":"twitch-sub-warowl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"warowlGrandpa","image_id":25702},{"match":"warowlVAC","image_id":81050},{"match":"warowlOwl","image_id":25180},{"match":"warowlKappa","image_id":25285},{"match":"warowlFedora","image_id":26274},{"match":"warowlSilver","image_id":28451},{"match":"warowlRage","image_id":38463},{"match":"warowlFacepalm","image_id":38459},{"match":"warowlForkman","image_id":81046}]}
+{
+  "name": "twitch-sub-warowl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "warowlGrandpa",
+      "image_id": 25702
+    },
+    {
+      "match": "warowlVAC",
+      "image_id": 81050
+    },
+    {
+      "match": "warowlOwl",
+      "image_id": 25180
+    },
+    {
+      "match": "warowlKappa",
+      "image_id": 25285
+    },
+    {
+      "match": "warowlFedora",
+      "image_id": 26274
+    },
+    {
+      "match": "warowlSilver",
+      "image_id": 28451
+    },
+    {
+      "match": "warowlRage",
+      "image_id": 38463
+    },
+    {
+      "match": "warowlFacepalm",
+      "image_id": 38459
+    },
+    {
+      "match": "warowlForkman",
+      "image_id": 81046
+    }
+  ]
+}

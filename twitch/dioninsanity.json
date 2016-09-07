@@ -1,1 +1,31 @@
-{"name":"twitch-sub-dioninsanity","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dionHeaven","image_id":85778},{"match":"dionOMG","image_id":103166},{"match":"dionRiikt","image_id":83640},{"match":"dionFamily","image_id":83415},{"match":"dionKoek","image_id":94896},{"match":"dionB","image_id":100955}]}
+{
+  "name": "twitch-sub-dioninsanity",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dionHeaven",
+      "image_id": 85778
+    },
+    {
+      "match": "dionOMG",
+      "image_id": 103166
+    },
+    {
+      "match": "dionRiikt",
+      "image_id": 83640
+    },
+    {
+      "match": "dionFamily",
+      "image_id": 83415
+    },
+    {
+      "match": "dionKoek",
+      "image_id": 94896
+    },
+    {
+      "match": "dionB",
+      "image_id": 100955
+    }
+  ]
+}

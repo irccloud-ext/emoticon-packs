@@ -1,1 +1,19 @@
-{"name":"twitch-sub-doflamingoh2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pifioufPIF","image_id":55048},{"match":"pifioufALLO","image_id":55047},{"match":"pifioufAhvlement","image_id":82889}]}
+{
+  "name": "twitch-sub-doflamingoh2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pifioufPIF",
+      "image_id": 55048
+    },
+    {
+      "match": "pifioufALLO",
+      "image_id": 55047
+    },
+    {
+      "match": "pifioufAhvlement",
+      "image_id": 82889
+    }
+  ]
+}

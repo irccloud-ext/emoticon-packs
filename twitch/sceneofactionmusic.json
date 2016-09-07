@@ -1,1 +1,47 @@
-{"name":"twitch-sub-sceneofactionmusic","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"soaT","image_id":83503},{"match":"soaLH","image_id":83505},{"match":"soaP","image_id":65541},{"match":"soaGO","image_id":65530},{"match":"soaN","image_id":66576},{"match":"soaS","image_id":71056},{"match":"soaL","image_id":70978},{"match":"soaF","image_id":65363},{"match":"soaH","image_id":66135},{"match":"soaK","image_id":66133}]}
+{
+  "name": "twitch-sub-sceneofactionmusic",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "soaT",
+      "image_id": 83503
+    },
+    {
+      "match": "soaLH",
+      "image_id": 83505
+    },
+    {
+      "match": "soaP",
+      "image_id": 65541
+    },
+    {
+      "match": "soaGO",
+      "image_id": 65530
+    },
+    {
+      "match": "soaN",
+      "image_id": 66576
+    },
+    {
+      "match": "soaS",
+      "image_id": 71056
+    },
+    {
+      "match": "soaL",
+      "image_id": 70978
+    },
+    {
+      "match": "soaF",
+      "image_id": 65363
+    },
+    {
+      "match": "soaH",
+      "image_id": 66135
+    },
+    {
+      "match": "soaK",
+      "image_id": 66133
+    }
+  ]
+}

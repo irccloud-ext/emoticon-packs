@@ -1,1 +1,47 @@
-{"name":"twitch-sub-thorlar","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"thorlarPony","image_id":16214},{"match":"thorlarBaby","image_id":24109},{"match":"thorlarHat","image_id":28612},{"match":"thorlarMeh","image_id":91500},{"match":"thorlarLewd","image_id":52167},{"match":"thorlarGG","image_id":51233},{"match":"thorlarCookie","image_id":85671},{"match":"thorlarMjolnir","image_id":84911},{"match":"thorlarHype","image_id":84912},{"match":"thorlarGah","image_id":87784}]}
+{
+  "name": "twitch-sub-thorlar",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "thorlarPony",
+      "image_id": 16214
+    },
+    {
+      "match": "thorlarBaby",
+      "image_id": 24109
+    },
+    {
+      "match": "thorlarHat",
+      "image_id": 28612
+    },
+    {
+      "match": "thorlarMeh",
+      "image_id": 91500
+    },
+    {
+      "match": "thorlarLewd",
+      "image_id": 52167
+    },
+    {
+      "match": "thorlarGG",
+      "image_id": 51233
+    },
+    {
+      "match": "thorlarCookie",
+      "image_id": 85671
+    },
+    {
+      "match": "thorlarMjolnir",
+      "image_id": 84911
+    },
+    {
+      "match": "thorlarHype",
+      "image_id": 84912
+    },
+    {
+      "match": "thorlarGah",
+      "image_id": 87784
+    }
+  ]
+}

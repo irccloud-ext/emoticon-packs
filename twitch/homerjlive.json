@@ -1,1 +1,39 @@
-{"name":"twitch-sub-homerjlive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hjsSPROTTEN","image_id":29809},{"match":"hjsGIGGEDY","image_id":29888},{"match":"hjsJAWOLLO","image_id":29884},{"match":"hjsKUHARSCH","image_id":29322},{"match":"hjsKULLER","image_id":29321},{"match":"hjsBEASTMODE","image_id":29330},{"match":"hjsENERJ","image_id":29324},{"match":"hjsLOKI","image_id":29336}]}
+{
+  "name": "twitch-sub-homerjlive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hjsSPROTTEN",
+      "image_id": 29809
+    },
+    {
+      "match": "hjsGIGGEDY",
+      "image_id": 29888
+    },
+    {
+      "match": "hjsJAWOLLO",
+      "image_id": 29884
+    },
+    {
+      "match": "hjsKUHARSCH",
+      "image_id": 29322
+    },
+    {
+      "match": "hjsKULLER",
+      "image_id": 29321
+    },
+    {
+      "match": "hjsBEASTMODE",
+      "image_id": 29330
+    },
+    {
+      "match": "hjsENERJ",
+      "image_id": 29324
+    },
+    {
+      "match": "hjsLOKI",
+      "image_id": 29336
+    }
+  ]
+}

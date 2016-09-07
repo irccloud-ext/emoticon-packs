@@ -1,1 +1,15 @@
-{"name":"twitch-sub-lamchops99","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lamRammed","image_id":19255},{"match":"lamRice","image_id":25757}]}
+{
+  "name": "twitch-sub-lamchops99",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lamRammed",
+      "image_id": 19255
+    },
+    {
+      "match": "lamRice",
+      "image_id": 25757
+    }
+  ]
+}

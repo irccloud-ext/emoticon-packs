@@ -1,1 +1,47 @@
-{"name":"twitch-sub-gruntartv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gruBrasil","image_id":2697},{"match":"gruCar1","image_id":2741},{"match":"gruCar2","image_id":2742},{"match":"gruParrudo","image_id":7756},{"match":"gruClan","image_id":7415},{"match":"gruRip","image_id":7483},{"match":"gruGg","image_id":9596},{"match":"gruChorao","image_id":13315},{"match":"gruHue","image_id":19126},{"match":"gruRage","image_id":19186}]}
+{
+  "name": "twitch-sub-gruntartv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gruBrasil",
+      "image_id": 2697
+    },
+    {
+      "match": "gruCar1",
+      "image_id": 2741
+    },
+    {
+      "match": "gruCar2",
+      "image_id": 2742
+    },
+    {
+      "match": "gruParrudo",
+      "image_id": 7756
+    },
+    {
+      "match": "gruClan",
+      "image_id": 7415
+    },
+    {
+      "match": "gruRip",
+      "image_id": 7483
+    },
+    {
+      "match": "gruGg",
+      "image_id": 9596
+    },
+    {
+      "match": "gruChorao",
+      "image_id": 13315
+    },
+    {
+      "match": "gruHue",
+      "image_id": 19126
+    },
+    {
+      "match": "gruRage",
+      "image_id": 19186
+    }
+  ]
+}

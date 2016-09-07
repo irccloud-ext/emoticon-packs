@@ -1,1 +1,23 @@
-{"name":"twitch-sub-pow3rtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pw3rFace","image_id":79618},{"match":"pw3rScuf","image_id":90558},{"match":"pw3rArmy","image_id":90559},{"match":"pw3rSwag","image_id":90560}]}
+{
+  "name": "twitch-sub-pow3rtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pw3rFace",
+      "image_id": 79618
+    },
+    {
+      "match": "pw3rScuf",
+      "image_id": 90558
+    },
+    {
+      "match": "pw3rArmy",
+      "image_id": 90559
+    },
+    {
+      "match": "pw3rSwag",
+      "image_id": 90560
+    }
+  ]
+}

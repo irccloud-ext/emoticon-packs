@@ -1,1 +1,43 @@
-{"name":"twitch-sub-blackfireice","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"blackRng","image_id":56360},{"match":"blackSalt","image_id":56359},{"match":"blackJanusz","image_id":34583},{"match":"blackKappa","image_id":34582},{"match":"blackRLY","image_id":34584},{"match":"blackLipton","image_id":34738},{"match":"blackTopdeck","image_id":34740},{"match":"blackGame","image_id":51690},{"match":"blackMarta","image_id":100404}]}
+{
+  "name": "twitch-sub-blackfireice",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "blackRng",
+      "image_id": 56360
+    },
+    {
+      "match": "blackSalt",
+      "image_id": 56359
+    },
+    {
+      "match": "blackJanusz",
+      "image_id": 34583
+    },
+    {
+      "match": "blackKappa",
+      "image_id": 34582
+    },
+    {
+      "match": "blackRLY",
+      "image_id": 34584
+    },
+    {
+      "match": "blackLipton",
+      "image_id": 34738
+    },
+    {
+      "match": "blackTopdeck",
+      "image_id": 34740
+    },
+    {
+      "match": "blackGame",
+      "image_id": 51690
+    },
+    {
+      "match": "blackMarta",
+      "image_id": 100404
+    }
+  ]
+}

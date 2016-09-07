@@ -1,1 +1,35 @@
-{"name":"twitch-sub-xd1x","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"d1xWOOP","image_id":14567},{"match":"d1xGasm","image_id":14484},{"match":"d1xHello","image_id":14482},{"match":"d1xMega","image_id":18736},{"match":"d1xHaxSimba","image_id":20886},{"match":"d1xBANNED","image_id":23474},{"match":"d1xPGRockin","image_id":28752}]}
+{
+  "name": "twitch-sub-xd1x",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "d1xWOOP",
+      "image_id": 14567
+    },
+    {
+      "match": "d1xGasm",
+      "image_id": 14484
+    },
+    {
+      "match": "d1xHello",
+      "image_id": 14482
+    },
+    {
+      "match": "d1xMega",
+      "image_id": 18736
+    },
+    {
+      "match": "d1xHaxSimba",
+      "image_id": 20886
+    },
+    {
+      "match": "d1xBANNED",
+      "image_id": 23474
+    },
+    {
+      "match": "d1xPGRockin",
+      "image_id": 28752
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-schaeppi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"schaVai","image_id":20559},{"match":"schaCaraje","image_id":20560}]}
+{
+  "name": "twitch-sub-schaeppi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "schaVai",
+      "image_id": 20559
+    },
+    {
+      "match": "schaCaraje",
+      "image_id": 20560
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-teamtrooper","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"trooNudel","image_id":95765},{"match":"trooNo","image_id":95764},{"match":"trooSitdown","image_id":93335},{"match":"trooWhat","image_id":93334},{"match":"trooLove","image_id":93333},{"match":"trooKappa","image_id":93332},{"match":"trooOhh","image_id":93339},{"match":"trooHype","image_id":93338},{"match":"trooChoke","image_id":93343},{"match":"trooMaybe","image_id":93341}]}
+{
+  "name": "twitch-sub-teamtrooper",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "trooNudel",
+      "image_id": 95765
+    },
+    {
+      "match": "trooNo",
+      "image_id": 95764
+    },
+    {
+      "match": "trooSitdown",
+      "image_id": 93335
+    },
+    {
+      "match": "trooWhat",
+      "image_id": 93334
+    },
+    {
+      "match": "trooLove",
+      "image_id": 93333
+    },
+    {
+      "match": "trooKappa",
+      "image_id": 93332
+    },
+    {
+      "match": "trooOhh",
+      "image_id": 93339
+    },
+    {
+      "match": "trooHype",
+      "image_id": 93338
+    },
+    {
+      "match": "trooChoke",
+      "image_id": 93343
+    },
+    {
+      "match": "trooMaybe",
+      "image_id": 93341
+    }
+  ]
+}

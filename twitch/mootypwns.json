@@ -1,1 +1,19 @@
-{"name":"twitch-sub-mootypwns","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mootyKappa","image_id":35810},{"match":"mootyLove","image_id":36028},{"match":"mootyGong","image_id":37575}]}
+{
+  "name": "twitch-sub-mootypwns",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mootyKappa",
+      "image_id": 35810
+    },
+    {
+      "match": "mootyLove",
+      "image_id": 36028
+    },
+    {
+      "match": "mootyGong",
+      "image_id": 37575
+    }
+  ]
+}

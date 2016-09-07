@@ -1,1 +1,39 @@
-{"name":"twitch-sub-herandhim","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hahHi","image_id":104804},{"match":"hahCry","image_id":81989},{"match":"hahGasm","image_id":81991},{"match":"hahRip","image_id":81990},{"match":"hahLove","image_id":81992},{"match":"hahYellow","image_id":105868},{"match":"hahRed","image_id":105867},{"match":"hahBlue","image_id":105865}]}
+{
+  "name": "twitch-sub-herandhim",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hahHi",
+      "image_id": 104804
+    },
+    {
+      "match": "hahCry",
+      "image_id": 81989
+    },
+    {
+      "match": "hahGasm",
+      "image_id": 81991
+    },
+    {
+      "match": "hahRip",
+      "image_id": 81990
+    },
+    {
+      "match": "hahLove",
+      "image_id": 81992
+    },
+    {
+      "match": "hahYellow",
+      "image_id": 105868
+    },
+    {
+      "match": "hahRed",
+      "image_id": 105867
+    },
+    {
+      "match": "hahBlue",
+      "image_id": 105865
+    }
+  ]
+}

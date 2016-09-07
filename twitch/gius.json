@@ -1,1 +1,31 @@
-{"name":"twitch-sub-gius","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"giusVnr","image_id":69489},{"match":"giusKappa","image_id":69488},{"match":"giusGasm","image_id":69487},{"match":"giusPalm","image_id":69486},{"match":"giusW","image_id":71212},{"match":"giusOmg","image_id":69597}]}
+{
+  "name": "twitch-sub-gius",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "giusVnr",
+      "image_id": 69489
+    },
+    {
+      "match": "giusKappa",
+      "image_id": 69488
+    },
+    {
+      "match": "giusGasm",
+      "image_id": 69487
+    },
+    {
+      "match": "giusPalm",
+      "image_id": 69486
+    },
+    {
+      "match": "giusW",
+      "image_id": 71212
+    },
+    {
+      "match": "giusOmg",
+      "image_id": 69597
+    }
+  ]
+}

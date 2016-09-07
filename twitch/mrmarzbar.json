@@ -1,1 +1,23 @@
-{"name":"twitch-sub-mrmarzbar","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"marzRage","image_id":48971},{"match":"marzDerp","image_id":48970},{"match":"marzHype","image_id":49746},{"match":"marzNoob","image_id":49748}]}
+{
+  "name": "twitch-sub-mrmarzbar",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "marzRage",
+      "image_id": 48971
+    },
+    {
+      "match": "marzDerp",
+      "image_id": 48970
+    },
+    {
+      "match": "marzHype",
+      "image_id": 49746
+    },
+    {
+      "match": "marzNoob",
+      "image_id": 49748
+    }
+  ]
+}

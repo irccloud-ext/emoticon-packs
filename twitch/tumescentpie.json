@@ -1,1 +1,19 @@
-{"name":"twitch-sub-tumescentpie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tumeBanes","image_id":37927},{"match":"tumeMbm","image_id":79548},{"match":"tumeIMBA","image_id":80576}]}
+{
+  "name": "twitch-sub-tumescentpie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tumeBanes",
+      "image_id": 37927
+    },
+    {
+      "match": "tumeMbm",
+      "image_id": 79548
+    },
+    {
+      "match": "tumeIMBA",
+      "image_id": 80576
+    }
+  ]
+}

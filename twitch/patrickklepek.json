@@ -1,1 +1,23 @@
-{"name":"twitch-sub-patrickklepek","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"klepekScared","image_id":77581},{"match":"klepekRyckert","image_id":74291},{"match":"klepekNote","image_id":74292},{"match":"klepekSkinny","image_id":77580}]}
+{
+  "name": "twitch-sub-patrickklepek",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "klepekScared",
+      "image_id": 77581
+    },
+    {
+      "match": "klepekRyckert",
+      "image_id": 74291
+    },
+    {
+      "match": "klepekNote",
+      "image_id": 74292
+    },
+    {
+      "match": "klepekSkinny",
+      "image_id": 77580
+    }
+  ]
+}

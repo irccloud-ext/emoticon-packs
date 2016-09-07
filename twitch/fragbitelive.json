@@ -1,1 +1,27 @@
-{"name":"twitch-sub-fragbitelive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fbmComhem","image_id":48994},{"match":"fbmFlute","image_id":48995},{"match":"fbmBigmac","image_id":48701},{"match":"fbmMod","image_id":48723},{"match":"fbmPokah","image_id":48724}]}
+{
+  "name": "twitch-sub-fragbitelive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fbmComhem",
+      "image_id": 48994
+    },
+    {
+      "match": "fbmFlute",
+      "image_id": 48995
+    },
+    {
+      "match": "fbmBigmac",
+      "image_id": 48701
+    },
+    {
+      "match": "fbmMod",
+      "image_id": 48723
+    },
+    {
+      "match": "fbmPokah",
+      "image_id": 48724
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-zisss","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zissTop","image_id":20635},{"match":"zissRogue","image_id":17910},{"match":"zissBurger","image_id":17959},{"match":"zissCow","image_id":18528},{"match":"zissMage","image_id":18529},{"match":"zissPlay","image_id":22647}]}
+{
+  "name": "twitch-sub-zisss",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zissTop",
+      "image_id": 20635
+    },
+    {
+      "match": "zissRogue",
+      "image_id": 17910
+    },
+    {
+      "match": "zissBurger",
+      "image_id": 17959
+    },
+    {
+      "match": "zissCow",
+      "image_id": 18528
+    },
+    {
+      "match": "zissMage",
+      "image_id": 18529
+    },
+    {
+      "match": "zissPlay",
+      "image_id": 22647
+    }
+  ]
+}

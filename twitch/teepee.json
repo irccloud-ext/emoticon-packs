@@ -1,1 +1,63 @@
-{"name":"twitch-sub-teepee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"teepPalm","image_id":91639},{"match":"teepOhYeah","image_id":76497},{"match":"teepGlasses","image_id":68392},{"match":"teepKMS","image_id":71030},{"match":"teepSellout","image_id":82577},{"match":"teepWorldChamp","image_id":73487},{"match":"teepSubHype","image_id":81952},{"match":"teepGasm","image_id":91647},{"match":"teep3bar","image_id":82898},{"match":"teepNerdnade","image_id":83087},{"match":"teepRekt","image_id":91173},{"match":"teepGG","image_id":91174},{"match":"teepTroop","image_id":91175},{"match":"teepWashed","image_id":96491}]}
+{
+  "name": "twitch-sub-teepee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "teepPalm",
+      "image_id": 91639
+    },
+    {
+      "match": "teepOhYeah",
+      "image_id": 76497
+    },
+    {
+      "match": "teepGlasses",
+      "image_id": 68392
+    },
+    {
+      "match": "teepKMS",
+      "image_id": 71030
+    },
+    {
+      "match": "teepSellout",
+      "image_id": 82577
+    },
+    {
+      "match": "teepWorldChamp",
+      "image_id": 73487
+    },
+    {
+      "match": "teepSubHype",
+      "image_id": 81952
+    },
+    {
+      "match": "teepGasm",
+      "image_id": 91647
+    },
+    {
+      "match": "teep3bar",
+      "image_id": 82898
+    },
+    {
+      "match": "teepNerdnade",
+      "image_id": 83087
+    },
+    {
+      "match": "teepRekt",
+      "image_id": 91173
+    },
+    {
+      "match": "teepGG",
+      "image_id": 91174
+    },
+    {
+      "match": "teepTroop",
+      "image_id": 91175
+    },
+    {
+      "match": "teepWashed",
+      "image_id": 96491
+    }
+  ]
+}

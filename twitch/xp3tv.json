@@ -1,1 +1,23 @@
-{"name":"twitch-sub-xp3tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xp3Vape","image_id":94130},{"match":"xp3Ct","image_id":94131},{"match":"xp3Fox","image_id":95444},{"match":"xp3Baguette","image_id":95445}]}
+{
+  "name": "twitch-sub-xp3tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xp3Vape",
+      "image_id": 94130
+    },
+    {
+      "match": "xp3Ct",
+      "image_id": 94131
+    },
+    {
+      "match": "xp3Fox",
+      "image_id": 95444
+    },
+    {
+      "match": "xp3Baguette",
+      "image_id": 95445
+    }
+  ]
+}

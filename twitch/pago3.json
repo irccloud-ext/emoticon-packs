@@ -1,1 +1,67 @@
-{"name":"twitch-sub-pago3","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pagoByniu","image_id":82369},{"match":"pagoWitam","image_id":80336},{"match":"pagoTroll","image_id":80335},{"match":"pagoZebiska","image_id":82371},{"match":"pagoLekutko","image_id":82370},{"match":"pagoProfesor","image_id":81180},{"match":"pagoCziter","image_id":81181},{"match":"pagoCo","image_id":81208},{"match":"pagoPatrol","image_id":80741},{"match":"pagoKogucik","image_id":80574},{"match":"pagoSpacer","image_id":80577},{"match":"pagoAcapulco","image_id":80739},{"match":"pagoTFU","image_id":106540},{"match":"pagoEmeryt","image_id":106578},{"match":"pagoRage","image_id":106733}]}
+{
+  "name": "twitch-sub-pago3",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pagoByniu",
+      "image_id": 82369
+    },
+    {
+      "match": "pagoWitam",
+      "image_id": 80336
+    },
+    {
+      "match": "pagoTroll",
+      "image_id": 80335
+    },
+    {
+      "match": "pagoZebiska",
+      "image_id": 82371
+    },
+    {
+      "match": "pagoLekutko",
+      "image_id": 82370
+    },
+    {
+      "match": "pagoProfesor",
+      "image_id": 81180
+    },
+    {
+      "match": "pagoCziter",
+      "image_id": 81181
+    },
+    {
+      "match": "pagoCo",
+      "image_id": 81208
+    },
+    {
+      "match": "pagoPatrol",
+      "image_id": 80741
+    },
+    {
+      "match": "pagoKogucik",
+      "image_id": 80574
+    },
+    {
+      "match": "pagoSpacer",
+      "image_id": 80577
+    },
+    {
+      "match": "pagoAcapulco",
+      "image_id": 80739
+    },
+    {
+      "match": "pagoTFU",
+      "image_id": 106540
+    },
+    {
+      "match": "pagoEmeryt",
+      "image_id": 106578
+    },
+    {
+      "match": "pagoRage",
+      "image_id": 106733
+    }
+  ]
+}

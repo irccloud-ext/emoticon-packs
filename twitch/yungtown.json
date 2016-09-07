@@ -1,1 +1,39 @@
-{"name":"twitch-sub-yungtown","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yungtownAsagaoAdorableness","image_id":96770},{"match":"yungtownOoh","image_id":104426},{"match":"yungtownSmile","image_id":84702},{"match":"yungtownSubscribe","image_id":97379},{"match":"yungtownMusic","image_id":103035},{"match":"yungtownLove","image_id":102765},{"match":"yungtownGrief","image_id":102766},{"match":"yungtownCute","image_id":104425}]}
+{
+  "name": "twitch-sub-yungtown",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yungtownAsagaoAdorableness",
+      "image_id": 96770
+    },
+    {
+      "match": "yungtownOoh",
+      "image_id": 104426
+    },
+    {
+      "match": "yungtownSmile",
+      "image_id": 84702
+    },
+    {
+      "match": "yungtownSubscribe",
+      "image_id": 97379
+    },
+    {
+      "match": "yungtownMusic",
+      "image_id": 103035
+    },
+    {
+      "match": "yungtownLove",
+      "image_id": 102765
+    },
+    {
+      "match": "yungtownGrief",
+      "image_id": 102766
+    },
+    {
+      "match": "yungtownCute",
+      "image_id": 104425
+    }
+  ]
+}

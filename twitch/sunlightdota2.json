@@ -1,1 +1,11 @@
-{"name":"twitch-sub-sunlightdota2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sunlightJutsu","image_id":84164}]}
+{
+  "name": "twitch-sub-sunlightdota2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sunlightJutsu",
+      "image_id": 84164
+    }
+  ]
+}

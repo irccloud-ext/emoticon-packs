@@ -1,1 +1,47 @@
-{"name":"twitch-sub-ethieenn","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ethieenLmao","image_id":82382},{"match":"ethieenCuca","image_id":32686},{"match":"ethieenPatata","image_id":35708},{"match":"ethieenGumio","image_id":35711},{"match":"ethieenHype","image_id":59845},{"match":"ethieenCry","image_id":83088},{"match":"ethieenPumba","image_id":83036},{"match":"ethieenFlamer","image_id":83125},{"match":"ethieenTemazo","image_id":84140},{"match":"ethieenCositi","image_id":83126}]}
+{
+  "name": "twitch-sub-ethieenn",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ethieenLmao",
+      "image_id": 82382
+    },
+    {
+      "match": "ethieenCuca",
+      "image_id": 32686
+    },
+    {
+      "match": "ethieenPatata",
+      "image_id": 35708
+    },
+    {
+      "match": "ethieenGumio",
+      "image_id": 35711
+    },
+    {
+      "match": "ethieenHype",
+      "image_id": 59845
+    },
+    {
+      "match": "ethieenCry",
+      "image_id": 83088
+    },
+    {
+      "match": "ethieenPumba",
+      "image_id": 83036
+    },
+    {
+      "match": "ethieenFlamer",
+      "image_id": 83125
+    },
+    {
+      "match": "ethieenTemazo",
+      "image_id": 84140
+    },
+    {
+      "match": "ethieenCositi",
+      "image_id": 83126
+    }
+  ]
+}

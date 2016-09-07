@@ -1,1 +1,39 @@
-{"name":"twitch-sub-hirona","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hiroWave","image_id":21352},{"match":"hiroHail","image_id":21353},{"match":"hiroDerp","image_id":21394},{"match":"hiroWtf","image_id":46909},{"match":"hiroP","image_id":55537},{"match":"hiroCry","image_id":68823},{"match":"hiroH","image_id":90759},{"match":"hiroNo","image_id":104406}]}
+{
+  "name": "twitch-sub-hirona",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hiroWave",
+      "image_id": 21352
+    },
+    {
+      "match": "hiroHail",
+      "image_id": 21353
+    },
+    {
+      "match": "hiroDerp",
+      "image_id": 21394
+    },
+    {
+      "match": "hiroWtf",
+      "image_id": 46909
+    },
+    {
+      "match": "hiroP",
+      "image_id": 55537
+    },
+    {
+      "match": "hiroCry",
+      "image_id": 68823
+    },
+    {
+      "match": "hiroH",
+      "image_id": 90759
+    },
+    {
+      "match": "hiroNo",
+      "image_id": 104406
+    }
+  ]
+}

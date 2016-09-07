@@ -1,1 +1,35 @@
-{"name":"twitch-sub-gshan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gshanD","image_id":97444},{"match":"gshan2","image_id":73445},{"match":"gshan1","image_id":73444},{"match":"gshan3","image_id":73558},{"match":"gshan4","image_id":73561},{"match":"gshanW","image_id":98053},{"match":"gshanM","image_id":94293}]}
+{
+  "name": "twitch-sub-gshan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gshanD",
+      "image_id": 97444
+    },
+    {
+      "match": "gshan2",
+      "image_id": 73445
+    },
+    {
+      "match": "gshan1",
+      "image_id": 73444
+    },
+    {
+      "match": "gshan3",
+      "image_id": 73558
+    },
+    {
+      "match": "gshan4",
+      "image_id": 73561
+    },
+    {
+      "match": "gshanW",
+      "image_id": 98053
+    },
+    {
+      "match": "gshanM",
+      "image_id": 94293
+    }
+  ]
+}

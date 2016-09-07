@@ -1,1 +1,23 @@
-{"name":"twitch-sub-baronvongamez","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bvgObi","image_id":68605},{"match":"bvgTorpedus","image_id":68607},{"match":"bvgAliens","image_id":68602},{"match":"bvgEmu","image_id":68603}]}
+{
+  "name": "twitch-sub-baronvongamez",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bvgObi",
+      "image_id": 68605
+    },
+    {
+      "match": "bvgTorpedus",
+      "image_id": 68607
+    },
+    {
+      "match": "bvgAliens",
+      "image_id": 68602
+    },
+    {
+      "match": "bvgEmu",
+      "image_id": 68603
+    }
+  ]
+}

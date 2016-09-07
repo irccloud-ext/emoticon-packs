@@ -1,1 +1,39 @@
-{"name":"twitch-sub-wedrylp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wedryLovelife","image_id":22841},{"match":"wedryRage","image_id":103337},{"match":"wedryKlappa","image_id":51450},{"match":"wedryW","image_id":54156},{"match":"wedryFail","image_id":55182},{"match":"wedryBus","image_id":57468},{"match":"wedryRNG","image_id":61591},{"match":"wedryRekt","image_id":103329}]}
+{
+  "name": "twitch-sub-wedrylp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wedryLovelife",
+      "image_id": 22841
+    },
+    {
+      "match": "wedryRage",
+      "image_id": 103337
+    },
+    {
+      "match": "wedryKlappa",
+      "image_id": 51450
+    },
+    {
+      "match": "wedryW",
+      "image_id": 54156
+    },
+    {
+      "match": "wedryFail",
+      "image_id": 55182
+    },
+    {
+      "match": "wedryBus",
+      "image_id": 57468
+    },
+    {
+      "match": "wedryRNG",
+      "image_id": 61591
+    },
+    {
+      "match": "wedryRekt",
+      "image_id": 103329
+    }
+  ]
+}

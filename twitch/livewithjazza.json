@@ -1,1 +1,31 @@
-{"name":"twitch-sub-livewithjazza","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jazzaPanic","image_id":40742},{"match":"jazzaHappy","image_id":39933},{"match":"jazzaAngry","image_id":39969},{"match":"jazzaMonkey","image_id":49110},{"match":"jazzaPoll","image_id":82121},{"match":"jazzaPee","image_id":82120}]}
+{
+  "name": "twitch-sub-livewithjazza",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jazzaPanic",
+      "image_id": 40742
+    },
+    {
+      "match": "jazzaHappy",
+      "image_id": 39933
+    },
+    {
+      "match": "jazzaAngry",
+      "image_id": 39969
+    },
+    {
+      "match": "jazzaMonkey",
+      "image_id": 49110
+    },
+    {
+      "match": "jazzaPoll",
+      "image_id": 82121
+    },
+    {
+      "match": "jazzaPee",
+      "image_id": 82120
+    }
+  ]
+}

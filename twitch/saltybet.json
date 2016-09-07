@@ -1,1 +1,39 @@
-{"name":"twitch-sub-saltybet","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wtfSALT","image_id":1812},{"match":"wtfDankerZ","image_id":1723},{"match":"wtfWAIFU","image_id":1724},{"match":"wtfFIGHTMONEY","image_id":3842},{"match":"wtfSALTY","image_id":5034},{"match":"wtfMINER","image_id":5035},{"match":"wtfPOTATO","image_id":5033},{"match":"wtfSTEAKS","image_id":5062}]}
+{
+  "name": "twitch-sub-saltybet",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wtfSALT",
+      "image_id": 1812
+    },
+    {
+      "match": "wtfDankerZ",
+      "image_id": 1723
+    },
+    {
+      "match": "wtfWAIFU",
+      "image_id": 1724
+    },
+    {
+      "match": "wtfFIGHTMONEY",
+      "image_id": 3842
+    },
+    {
+      "match": "wtfSALTY",
+      "image_id": 5034
+    },
+    {
+      "match": "wtfMINER",
+      "image_id": 5035
+    },
+    {
+      "match": "wtfPOTATO",
+      "image_id": 5033
+    },
+    {
+      "match": "wtfSTEAKS",
+      "image_id": 5062
+    }
+  ]
+}

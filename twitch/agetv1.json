@@ -1,1 +1,27 @@
-{"name":"twitch-sub-agetv1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"double","image_id":11533},{"match":"quadra","image_id":11534},{"match":"triple","image_id":11535},{"match":"penta","image_id":11536},{"match":"coladinhobr","image_id":11537}]}
+{
+  "name": "twitch-sub-agetv1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "double",
+      "image_id": 11533
+    },
+    {
+      "match": "quadra",
+      "image_id": 11534
+    },
+    {
+      "match": "triple",
+      "image_id": 11535
+    },
+    {
+      "match": "penta",
+      "image_id": 11536
+    },
+    {
+      "match": "coladinhobr",
+      "image_id": 11537
+    }
+  ]
+}

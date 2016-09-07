@@ -1,1 +1,15 @@
-{"name":"twitch-sub-williamchyr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chyrWallwalker","image_id":106789},{"match":"chyrCoffee","image_id":106791}]}
+{
+  "name": "twitch-sub-williamchyr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chyrWallwalker",
+      "image_id": 106789
+    },
+    {
+      "match": "chyrCoffee",
+      "image_id": 106791
+    }
+  ]
+}

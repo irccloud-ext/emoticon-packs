@@ -1,1 +1,47 @@
-{"name":"twitch-sub-domesticdan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"domesticSass","image_id":91849},{"match":"domesticPepper","image_id":91845},{"match":"domesticLove","image_id":65019},{"match":"domesticHey","image_id":65013},{"match":"domesticDamn","image_id":65249},{"match":"domesticHype","image_id":65639},{"match":"domesticLewd","image_id":68538},{"match":"domesticDrool","image_id":68537},{"match":"domesticCorgi","image_id":103433},{"match":"domesticW","image_id":105960}]}
+{
+  "name": "twitch-sub-domesticdan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "domesticSass",
+      "image_id": 91849
+    },
+    {
+      "match": "domesticPepper",
+      "image_id": 91845
+    },
+    {
+      "match": "domesticLove",
+      "image_id": 65019
+    },
+    {
+      "match": "domesticHey",
+      "image_id": 65013
+    },
+    {
+      "match": "domesticDamn",
+      "image_id": 65249
+    },
+    {
+      "match": "domesticHype",
+      "image_id": 65639
+    },
+    {
+      "match": "domesticLewd",
+      "image_id": 68538
+    },
+    {
+      "match": "domesticDrool",
+      "image_id": 68537
+    },
+    {
+      "match": "domesticCorgi",
+      "image_id": 103433
+    },
+    {
+      "match": "domesticW",
+      "image_id": 105960
+    }
+  ]
+}

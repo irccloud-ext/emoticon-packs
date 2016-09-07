@@ -1,1 +1,23 @@
-{"name":"twitch-sub-proudtobegreek1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"proudCaster","image_id":21762},{"match":"proudFriend","image_id":22059},{"match":"proudTs","image_id":20353},{"match":"proudMe","image_id":22058}]}
+{
+  "name": "twitch-sub-proudtobegreek1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "proudCaster",
+      "image_id": 21762
+    },
+    {
+      "match": "proudFriend",
+      "image_id": 22059
+    },
+    {
+      "match": "proudTs",
+      "image_id": 20353
+    },
+    {
+      "match": "proudMe",
+      "image_id": 22058
+    }
+  ]
+}

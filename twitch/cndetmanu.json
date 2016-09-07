@@ -1,1 +1,15 @@
-{"name":"twitch-sub-cndetmanu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cetmMANU","image_id":11497},{"match":"cetmCnd","image_id":11498}]}
+{
+  "name": "twitch-sub-cndetmanu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cetmMANU",
+      "image_id": 11497
+    },
+    {
+      "match": "cetmCnd",
+      "image_id": 11498
+    }
+  ]
+}

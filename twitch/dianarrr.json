@@ -1,1 +1,39 @@
-{"name":"twitch-sub-dianarrr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dernerShrug","image_id":97619},{"match":"dernerOPR8","image_id":98614},{"match":"dernerShocked","image_id":98613},{"match":"dernerBlush","image_id":97421},{"match":"dernerSmurf","image_id":97419},{"match":"dernerGun","image_id":97456},{"match":"dernerFlowers","image_id":97534},{"match":"dernerH","image_id":108648}]}
+{
+  "name": "twitch-sub-dianarrr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dernerShrug",
+      "image_id": 97619
+    },
+    {
+      "match": "dernerOPR8",
+      "image_id": 98614
+    },
+    {
+      "match": "dernerShocked",
+      "image_id": 98613
+    },
+    {
+      "match": "dernerBlush",
+      "image_id": 97421
+    },
+    {
+      "match": "dernerSmurf",
+      "image_id": 97419
+    },
+    {
+      "match": "dernerGun",
+      "image_id": 97456
+    },
+    {
+      "match": "dernerFlowers",
+      "image_id": 97534
+    },
+    {
+      "match": "dernerH",
+      "image_id": 108648
+    }
+  ]
+}

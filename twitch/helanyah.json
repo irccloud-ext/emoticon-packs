@@ -1,1 +1,39 @@
-{"name":"twitch-sub-helanyah","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"helaBan","image_id":30743},{"match":"helaTongo","image_id":30742},{"match":"helaPalm","image_id":62227},{"match":"helaPikachu","image_id":27030},{"match":"helaAu","image_id":39398},{"match":"helaCarrito","image_id":38759},{"match":"helaMiseria","image_id":62326},{"match":"helaSaga","image_id":62226}]}
+{
+  "name": "twitch-sub-helanyah",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "helaBan",
+      "image_id": 30743
+    },
+    {
+      "match": "helaTongo",
+      "image_id": 30742
+    },
+    {
+      "match": "helaPalm",
+      "image_id": 62227
+    },
+    {
+      "match": "helaPikachu",
+      "image_id": 27030
+    },
+    {
+      "match": "helaAu",
+      "image_id": 39398
+    },
+    {
+      "match": "helaCarrito",
+      "image_id": 38759
+    },
+    {
+      "match": "helaMiseria",
+      "image_id": 62326
+    },
+    {
+      "match": "helaSaga",
+      "image_id": 62226
+    }
+  ]
+}

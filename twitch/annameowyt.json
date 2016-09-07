@@ -1,1 +1,31 @@
-{"name":"twitch-sub-annameowyt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"purRage","image_id":36081},{"match":"purNya","image_id":36080},{"match":"purHeh","image_id":54078},{"match":"purMaks","image_id":54080},{"match":"purSatan","image_id":54081},{"match":"purKitty","image_id":54084}]}
+{
+  "name": "twitch-sub-annameowyt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "purRage",
+      "image_id": 36081
+    },
+    {
+      "match": "purNya",
+      "image_id": 36080
+    },
+    {
+      "match": "purHeh",
+      "image_id": 54078
+    },
+    {
+      "match": "purMaks",
+      "image_id": 54080
+    },
+    {
+      "match": "purSatan",
+      "image_id": 54081
+    },
+    {
+      "match": "purKitty",
+      "image_id": 54084
+    }
+  ]
+}

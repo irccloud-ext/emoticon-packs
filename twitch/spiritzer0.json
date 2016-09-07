@@ -1,1 +1,11 @@
-{"name":"twitch-sub-spiritzer0","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mdkS","image_id":109793}]}
+{
+  "name": "twitch-sub-spiritzer0",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mdkS",
+      "image_id": 109793
+    }
+  ]
+}

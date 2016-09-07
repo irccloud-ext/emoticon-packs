@@ -1,1 +1,39 @@
-{"name":"twitch-sub-sebahro","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sebahroSweat","image_id":39322},{"match":"sebahroKaffee","image_id":36917},{"match":"sebahroPack","image_id":39335},{"match":"sebahroJa","image_id":39382},{"match":"sebahroInform","image_id":39204},{"match":"sebahroScheich","image_id":39939},{"match":"sebahroEpic","image_id":46835},{"match":"sebahroSub","image_id":53466}]}
+{
+  "name": "twitch-sub-sebahro",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sebahroSweat",
+      "image_id": 39322
+    },
+    {
+      "match": "sebahroKaffee",
+      "image_id": 36917
+    },
+    {
+      "match": "sebahroPack",
+      "image_id": 39335
+    },
+    {
+      "match": "sebahroJa",
+      "image_id": 39382
+    },
+    {
+      "match": "sebahroInform",
+      "image_id": 39204
+    },
+    {
+      "match": "sebahroScheich",
+      "image_id": 39939
+    },
+    {
+      "match": "sebahroEpic",
+      "image_id": 46835
+    },
+    {
+      "match": "sebahroSub",
+      "image_id": 53466
+    }
+  ]
+}

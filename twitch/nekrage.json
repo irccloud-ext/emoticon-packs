@@ -1,1 +1,15 @@
-{"name":"twitch-sub-nekrage","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nekCat","image_id":12881},{"match":"nekT","image_id":12958}]}
+{
+  "name": "twitch-sub-nekrage",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nekCat",
+      "image_id": 12881
+    },
+    {
+      "match": "nekT",
+      "image_id": 12958
+    }
+  ]
+}

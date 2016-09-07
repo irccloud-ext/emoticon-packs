@@ -1,1 +1,39 @@
-{"name":"twitch-sub-brizzyvoices","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"brizPika","image_id":21940},{"match":"brizBrizzy","image_id":26070},{"match":"brizBat","image_id":21938},{"match":"brizRip","image_id":26068},{"match":"brizRocket","image_id":26066},{"match":"brizEz","image_id":26069},{"match":"brizHype","image_id":38511},{"match":"brizHeart","image_id":38510}]}
+{
+  "name": "twitch-sub-brizzyvoices",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "brizPika",
+      "image_id": 21940
+    },
+    {
+      "match": "brizBrizzy",
+      "image_id": 26070
+    },
+    {
+      "match": "brizBat",
+      "image_id": 21938
+    },
+    {
+      "match": "brizRip",
+      "image_id": 26068
+    },
+    {
+      "match": "brizRocket",
+      "image_id": 26066
+    },
+    {
+      "match": "brizEz",
+      "image_id": 26069
+    },
+    {
+      "match": "brizHype",
+      "image_id": 38511
+    },
+    {
+      "match": "brizHeart",
+      "image_id": 38510
+    }
+  ]
+}

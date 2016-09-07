@@ -1,1 +1,23 @@
-{"name":"twitch-sub-nsub","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nsubYung","image_id":109328},{"match":"nsubHurri","image_id":107226},{"match":"nsubSanna","image_id":107227},{"match":"nsubKiitos","image_id":109326}]}
+{
+  "name": "twitch-sub-nsub",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nsubYung",
+      "image_id": 109328
+    },
+    {
+      "match": "nsubHurri",
+      "image_id": 107226
+    },
+    {
+      "match": "nsubSanna",
+      "image_id": 107227
+    },
+    {
+      "match": "nsubKiitos",
+      "image_id": 109326
+    }
+  ]
+}

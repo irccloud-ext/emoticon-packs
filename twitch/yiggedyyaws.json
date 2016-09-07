@@ -1,1 +1,31 @@
-{"name":"twitch-sub-yiggedyyaws","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yawsV","image_id":95857},{"match":"yawsC","image_id":95856},{"match":"yawsEz","image_id":96807},{"match":"yawsK","image_id":96699},{"match":"yawsHype","image_id":104131},{"match":"yawsArgh","image_id":104132}]}
+{
+  "name": "twitch-sub-yiggedyyaws",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yawsV",
+      "image_id": 95857
+    },
+    {
+      "match": "yawsC",
+      "image_id": 95856
+    },
+    {
+      "match": "yawsEz",
+      "image_id": 96807
+    },
+    {
+      "match": "yawsK",
+      "image_id": 96699
+    },
+    {
+      "match": "yawsHype",
+      "image_id": 104131
+    },
+    {
+      "match": "yawsArgh",
+      "image_id": 104132
+    }
+  ]
+}

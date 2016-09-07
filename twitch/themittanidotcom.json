@@ -1,1 +1,27 @@
-{"name":"twitch-sub-themittanidotcom","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tmctvHat","image_id":76645},{"match":"tmctvGg","image_id":49617},{"match":"tmctvOpen","image_id":85727},{"match":"tmctvIMP","image_id":85728},{"match":"tmctvChair","image_id":85729}]}
+{
+  "name": "twitch-sub-themittanidotcom",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tmctvHat",
+      "image_id": 76645
+    },
+    {
+      "match": "tmctvGg",
+      "image_id": 49617
+    },
+    {
+      "match": "tmctvOpen",
+      "image_id": 85727
+    },
+    {
+      "match": "tmctvIMP",
+      "image_id": 85728
+    },
+    {
+      "match": "tmctvChair",
+      "image_id": 85729
+    }
+  ]
+}

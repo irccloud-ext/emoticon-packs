@@ -1,1 +1,23 @@
-{"name":"twitch-sub-kasmariodayon","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kastestC","image_id":105910},{"match":"kastestDayo","image_id":94619},{"match":"kastestDayon","image_id":96087},{"match":"kastestDayone","image_id":96110}]}
+{
+  "name": "twitch-sub-kasmariodayon",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kastestC",
+      "image_id": 105910
+    },
+    {
+      "match": "kastestDayo",
+      "image_id": 94619
+    },
+    {
+      "match": "kastestDayon",
+      "image_id": 96087
+    },
+    {
+      "match": "kastestDayone",
+      "image_id": 96110
+    }
+  ]
+}

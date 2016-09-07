@@ -1,1 +1,15 @@
-{"name":"twitch-sub-itsgeegeeyo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ggySick","image_id":46688},{"match":"ggyBlue","image_id":46687}]}
+{
+  "name": "twitch-sub-itsgeegeeyo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ggySick",
+      "image_id": 46688
+    },
+    {
+      "match": "ggyBlue",
+      "image_id": 46687
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-iamsp00n","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"spoonCreep","image_id":2918},{"match":"spoonLick","image_id":4181},{"match":"spoonFine","image_id":18050},{"match":"spoonNot","image_id":101220},{"match":"spoonHeart","image_id":75613},{"match":"spoonW","image_id":55200},{"match":"spoonSpoon","image_id":74117},{"match":"spoonGold","image_id":72332}]}
+{
+  "name": "twitch-sub-iamsp00n",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "spoonCreep",
+      "image_id": 2918
+    },
+    {
+      "match": "spoonLick",
+      "image_id": 4181
+    },
+    {
+      "match": "spoonFine",
+      "image_id": 18050
+    },
+    {
+      "match": "spoonNot",
+      "image_id": 101220
+    },
+    {
+      "match": "spoonHeart",
+      "image_id": 75613
+    },
+    {
+      "match": "spoonBad",
+      "image_id": 111851
+    },
+    {
+      "match": "spoonGood",
+      "image_id": 111850
+    },
+    {
+      "match": "spoonW",
+      "image_id": 55200
+    },
+    {
+      "match": "spoonSpoon",
+      "image_id": 74117
+    },
+    {
+      "match": "spoonGold",
+      "image_id": 72332
+    }
+  ]
+}

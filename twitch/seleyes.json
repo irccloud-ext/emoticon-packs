@@ -1,1 +1,23 @@
-{"name":"twitch-sub-seleyes","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"seleyesTenta","image_id":97555},{"match":"seleyesPoracc","image_id":97556},{"match":"seleyesBARD","image_id":98975},{"match":"seleyesSpeciale","image_id":98981}]}
+{
+  "name": "twitch-sub-seleyes",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "seleyesTenta",
+      "image_id": 97555
+    },
+    {
+      "match": "seleyesPoracc",
+      "image_id": 97556
+    },
+    {
+      "match": "seleyesBARD",
+      "image_id": 98975
+    },
+    {
+      "match": "seleyesSpeciale",
+      "image_id": 98981
+    }
+  ]
+}

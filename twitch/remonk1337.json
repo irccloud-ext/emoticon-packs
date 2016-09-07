@@ -1,1 +1,31 @@
-{"name":"twitch-sub-remonk1337","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dimiFACE","image_id":23728},{"match":"dimiHORSE","image_id":23729},{"match":"dimiFATHER","image_id":24125},{"match":"dimiREKT","image_id":25059},{"match":"dimiHOOK","image_id":28138},{"match":"dimiMOTHER","image_id":28151}]}
+{
+  "name": "twitch-sub-remonk1337",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dimiFACE",
+      "image_id": 23728
+    },
+    {
+      "match": "dimiHORSE",
+      "image_id": 23729
+    },
+    {
+      "match": "dimiFATHER",
+      "image_id": 24125
+    },
+    {
+      "match": "dimiREKT",
+      "image_id": 25059
+    },
+    {
+      "match": "dimiHOOK",
+      "image_id": 28138
+    },
+    {
+      "match": "dimiMOTHER",
+      "image_id": 28151
+    }
+  ]
+}

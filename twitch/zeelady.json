@@ -1,1 +1,39 @@
-{"name":"twitch-sub-zeelady","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zeeVEE","image_id":10665},{"match":"zeeMITZ","image_id":13558},{"match":"zeeSUN","image_id":15104},{"match":"zeeFIVE","image_id":15737},{"match":"zeeLURK","image_id":17477},{"match":"zeeO","image_id":77247},{"match":"zeeHEARTIS","image_id":44387},{"match":"zeeFINO","image_id":103786}]}
+{
+  "name": "twitch-sub-zeelady",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zeeVEE",
+      "image_id": 10665
+    },
+    {
+      "match": "zeeMITZ",
+      "image_id": 13558
+    },
+    {
+      "match": "zeeSUN",
+      "image_id": 15104
+    },
+    {
+      "match": "zeeFIVE",
+      "image_id": 15737
+    },
+    {
+      "match": "zeeLURK",
+      "image_id": 17477
+    },
+    {
+      "match": "zeeO",
+      "image_id": 77247
+    },
+    {
+      "match": "zeeHEARTIS",
+      "image_id": 44387
+    },
+    {
+      "match": "zeeFINO",
+      "image_id": 103786
+    }
+  ]
+}

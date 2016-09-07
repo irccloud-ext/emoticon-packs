@@ -1,1 +1,15 @@
-{"name":"twitch-sub-liquidinori","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"inoriSenpai","image_id":79150},{"match":"inoriNori","image_id":79152}]}
+{
+  "name": "twitch-sub-liquidinori",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "inoriSenpai",
+      "image_id": 79150
+    },
+    {
+      "match": "inoriNori",
+      "image_id": 79152
+    }
+  ]
+}

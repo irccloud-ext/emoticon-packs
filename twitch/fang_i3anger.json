@@ -1,1 +1,47 @@
-{"name":"twitch-sub-fang_i3anger","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jesseFangs","image_id":9866},{"match":"jesseCat","image_id":32108},{"match":"jesseKappa","image_id":34646},{"match":"jesseAmazeballs","image_id":34645},{"match":"jesseGold","image_id":53606},{"match":"jesseOh","image_id":53604},{"match":"jesseRekt","image_id":55236},{"match":"jesseUnlucky","image_id":85344},{"match":"jesseStronk","image_id":58737},{"match":"jesseLove","image_id":76024}]}
+{
+  "name": "twitch-sub-fang_i3anger",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jesseFangs",
+      "image_id": 9866
+    },
+    {
+      "match": "jesseCat",
+      "image_id": 32108
+    },
+    {
+      "match": "jesseKappa",
+      "image_id": 34646
+    },
+    {
+      "match": "jesseAmazeballs",
+      "image_id": 34645
+    },
+    {
+      "match": "jesseGold",
+      "image_id": 53606
+    },
+    {
+      "match": "jesseOh",
+      "image_id": 53604
+    },
+    {
+      "match": "jesseRekt",
+      "image_id": 55236
+    },
+    {
+      "match": "jesseUnlucky",
+      "image_id": 85344
+    },
+    {
+      "match": "jesseStronk",
+      "image_id": 58737
+    },
+    {
+      "match": "jesseLove",
+      "image_id": 76024
+    }
+  ]
+}

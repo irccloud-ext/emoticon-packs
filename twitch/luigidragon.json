@@ -1,1 +1,23 @@
-{"name":"twitch-sub-luigidragon","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"padHARAMBE","image_id":108678},{"match":"padBICH","image_id":108611},{"match":"padHAPPY","image_id":109660},{"match":"padKYS","image_id":109661}]}
+{
+  "name": "twitch-sub-luigidragon",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "padHARAMBE",
+      "image_id": 108678
+    },
+    {
+      "match": "padBICH",
+      "image_id": 108611
+    },
+    {
+      "match": "padHAPPY",
+      "image_id": 109660
+    },
+    {
+      "match": "padKYS",
+      "image_id": 109661
+    }
+  ]
+}

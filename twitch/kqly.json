@@ -1,1 +1,39 @@
-{"name":"twitch-sub-kqly","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kqlyKappa","image_id":26149},{"match":"kqlyLOVE","image_id":26950},{"match":"kqlyStyle","image_id":27014},{"match":"kqlyKqlyVAC","image_id":61570},{"match":"kqlyRIP","image_id":61679},{"match":"kqlyKqlyBAM","image_id":61569},{"match":"kqlyB","image_id":61635},{"match":"kqlySUB","image_id":62422}]}
+{
+  "name": "twitch-sub-kqly",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kqlyKappa",
+      "image_id": 26149
+    },
+    {
+      "match": "kqlyLOVE",
+      "image_id": 26950
+    },
+    {
+      "match": "kqlyStyle",
+      "image_id": 27014
+    },
+    {
+      "match": "kqlyKqlyVAC",
+      "image_id": 61570
+    },
+    {
+      "match": "kqlyRIP",
+      "image_id": 61679
+    },
+    {
+      "match": "kqlyKqlyBAM",
+      "image_id": 61569
+    },
+    {
+      "match": "kqlyB",
+      "image_id": 61635
+    },
+    {
+      "match": "kqlySUB",
+      "image_id": 62422
+    }
+  ]
+}

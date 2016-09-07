@@ -1,1 +1,23 @@
-{"name":"twitch-sub-woodysgamertag","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"woodyKappa","image_id":49722},{"match":"woodyPKA","image_id":49723},{"match":"woodyChizHat","image_id":50265},{"match":"woodySexyKyle","image_id":50263}]}
+{
+  "name": "twitch-sub-woodysgamertag",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "woodyKappa",
+      "image_id": 49722
+    },
+    {
+      "match": "woodyPKA",
+      "image_id": 49723
+    },
+    {
+      "match": "woodyChizHat",
+      "image_id": 50265
+    },
+    {
+      "match": "woodySexyKyle",
+      "image_id": 50263
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"twitch-sub-kiocsgo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"k1oS","image_id":74665},{"match":"k1oBaguette","image_id":68837},{"match":"k1oCreepy","image_id":74670},{"match":"k1oKappa","image_id":74469},{"match":"k1oGod","image_id":90105},{"match":"k1oJuan","image_id":90106},{"match":"k1oFail","image_id":90108}]}
+{
+  "name": "twitch-sub-kiocsgo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "k1oS",
+      "image_id": 74665
+    },
+    {
+      "match": "k1oBaguette",
+      "image_id": 68837
+    },
+    {
+      "match": "k1oCreepy",
+      "image_id": 74670
+    },
+    {
+      "match": "k1oKappa",
+      "image_id": 74469
+    },
+    {
+      "match": "k1oGod",
+      "image_id": 90105
+    },
+    {
+      "match": "k1oJuan",
+      "image_id": 90106
+    },
+    {
+      "match": "k1oFail",
+      "image_id": 90108
+    }
+  ]
+}

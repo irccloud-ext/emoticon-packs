@@ -1,1 +1,15 @@
-{"name":"twitch-sub-calangolive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"calangoFace","image_id":17564},{"match":"calangoPopo","image_id":17565}]}
+{
+  "name": "twitch-sub-calangolive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "calangoFace",
+      "image_id": 17564
+    },
+    {
+      "match": "calangoPopo",
+      "image_id": 17565
+    }
+  ]
+}

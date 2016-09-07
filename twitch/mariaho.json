@@ -1,1 +1,23 @@
-{"name":"twitch-sub-mariaho","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"homieFred","image_id":76062},{"match":"homieSpin","image_id":76054},{"match":"homieS","image_id":76050},{"match":"homieHo","image_id":76061}]}
+{
+  "name": "twitch-sub-mariaho",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "homieFred",
+      "image_id": 76062
+    },
+    {
+      "match": "homieSpin",
+      "image_id": 76054
+    },
+    {
+      "match": "homieS",
+      "image_id": 76050
+    },
+    {
+      "match": "homieHo",
+      "image_id": 76061
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"twitch-sub-calebdmtg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"calebdCorn","image_id":34062},{"match":"calebdHead","image_id":34061},{"match":"calebdGriseltoon","image_id":44643},{"match":"calebdLastkappa","image_id":44667},{"match":"calebdLili","image_id":44825},{"match":"calebdGar","image_id":44821},{"match":"calebdSKILL","image_id":106964}]}
+{
+  "name": "twitch-sub-calebdmtg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "calebdCorn",
+      "image_id": 34062
+    },
+    {
+      "match": "calebdHead",
+      "image_id": 34061
+    },
+    {
+      "match": "calebdGriseltoon",
+      "image_id": 44643
+    },
+    {
+      "match": "calebdLastkappa",
+      "image_id": 44667
+    },
+    {
+      "match": "calebdLili",
+      "image_id": 44825
+    },
+    {
+      "match": "calebdGar",
+      "image_id": 44821
+    },
+    {
+      "match": "calebdSKILL",
+      "image_id": 106964
+    }
+  ]
+}

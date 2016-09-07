@@ -1,1 +1,15 @@
-{"name":"twitch-sub-rhinoceros_vn","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rh1noR","image_id":74166},{"match":"rh1noY","image_id":74167}]}
+{
+  "name": "twitch-sub-rhinoceros_vn",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rh1noR",
+      "image_id": 74166
+    },
+    {
+      "match": "rh1noY",
+      "image_id": 74167
+    }
+  ]
+}

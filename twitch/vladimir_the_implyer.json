@@ -1,1 +1,15 @@
-{"name":"twitch-sub-vladimir_the_implyer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"uvladComfy","image_id":32795},{"match":"uvladRage","image_id":32799}]}
+{
+  "name": "twitch-sub-vladimir_the_implyer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "uvladComfy",
+      "image_id": 32795
+    },
+    {
+      "match": "uvladRage",
+      "image_id": 32799
+    }
+  ]
+}

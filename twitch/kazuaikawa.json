@@ -1,1 +1,31 @@
-{"name":"twitch-sub-kazuaikawa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aikaThump","image_id":95872},{"match":"aikaH","image_id":86653},{"match":"aikaLost","image_id":86652},{"match":"aikaLewd","image_id":95824},{"match":"aikaFail","image_id":98728},{"match":"aika10","image_id":98729}]}
+{
+  "name": "twitch-sub-kazuaikawa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aikaThump",
+      "image_id": 95872
+    },
+    {
+      "match": "aikaH",
+      "image_id": 86653
+    },
+    {
+      "match": "aikaLost",
+      "image_id": 86652
+    },
+    {
+      "match": "aikaLewd",
+      "image_id": 95824
+    },
+    {
+      "match": "aikaFail",
+      "image_id": 98728
+    },
+    {
+      "match": "aika10",
+      "image_id": 98729
+    }
+  ]
+}

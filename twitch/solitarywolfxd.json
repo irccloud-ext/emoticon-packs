@@ -1,1 +1,47 @@
-{"name":"twitch-sub-solitarywolfxd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"waffKevin","image_id":36186},{"match":"waffSong","image_id":36185},{"match":"waffHowl","image_id":36184},{"match":"waffCharm","image_id":36183},{"match":"waffRIP","image_id":38368},{"match":"waffGreed","image_id":38642},{"match":"waffSalt","image_id":61403},{"match":"waffLewd","image_id":61402},{"match":"waffCry","image_id":61401},{"match":"waffSheep","image_id":60250}]}
+{
+  "name": "twitch-sub-solitarywolfxd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "waffKevin",
+      "image_id": 36186
+    },
+    {
+      "match": "waffSong",
+      "image_id": 36185
+    },
+    {
+      "match": "waffHowl",
+      "image_id": 36184
+    },
+    {
+      "match": "waffCharm",
+      "image_id": 36183
+    },
+    {
+      "match": "waffRIP",
+      "image_id": 38368
+    },
+    {
+      "match": "waffGreed",
+      "image_id": 38642
+    },
+    {
+      "match": "waffSalt",
+      "image_id": 61403
+    },
+    {
+      "match": "waffLewd",
+      "image_id": 61402
+    },
+    {
+      "match": "waffCry",
+      "image_id": 61401
+    },
+    {
+      "match": "waffSheep",
+      "image_id": 60250
+    }
+  ]
+}

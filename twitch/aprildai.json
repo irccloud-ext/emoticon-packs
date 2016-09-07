@@ -1,1 +1,39 @@
-{"name":"twitch-sub-aprildai","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"daiMonti","image_id":9132},{"match":"daiBasic","image_id":10513},{"match":"daiLift","image_id":10514},{"match":"daiButt","image_id":10570},{"match":"daiTrash","image_id":14269},{"match":"daiTroll","image_id":15272},{"match":"daiH","image_id":49670},{"match":"daiThump","image_id":49586}]}
+{
+  "name": "twitch-sub-aprildai",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "daiMonti",
+      "image_id": 9132
+    },
+    {
+      "match": "daiBasic",
+      "image_id": 10513
+    },
+    {
+      "match": "daiLift",
+      "image_id": 10514
+    },
+    {
+      "match": "daiButt",
+      "image_id": 10570
+    },
+    {
+      "match": "daiTrash",
+      "image_id": 14269
+    },
+    {
+      "match": "daiTroll",
+      "image_id": 15272
+    },
+    {
+      "match": "daiH",
+      "image_id": 49670
+    },
+    {
+      "match": "daiThump",
+      "image_id": 49586
+    }
+  ]
+}

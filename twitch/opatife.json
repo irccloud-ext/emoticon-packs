@@ -1,1 +1,23 @@
-{"name":"twitch-sub-opatife","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ptfRindo","image_id":20035},{"match":"ptfDraw","image_id":20038},{"match":"ptfTeta","image_id":25805},{"match":"ptfDog","image_id":25804}]}
+{
+  "name": "twitch-sub-opatife",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ptfRindo",
+      "image_id": 20035
+    },
+    {
+      "match": "ptfDraw",
+      "image_id": 20038
+    },
+    {
+      "match": "ptfTeta",
+      "image_id": 25805
+    },
+    {
+      "match": "ptfDog",
+      "image_id": 25804
+    }
+  ]
+}

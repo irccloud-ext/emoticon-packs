@@ -1,1 +1,23 @@
-{"name":"twitch-sub-chesterccj","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wupaXX","image_id":47078},{"match":"wupaGG","image_id":31234},{"match":"wupaHAHA","image_id":31235},{"match":"wupaQQ","image_id":47074}]}
+{
+  "name": "twitch-sub-chesterccj",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wupaXX",
+      "image_id": 47078
+    },
+    {
+      "match": "wupaGG",
+      "image_id": 31234
+    },
+    {
+      "match": "wupaHAHA",
+      "image_id": 31235
+    },
+    {
+      "match": "wupaQQ",
+      "image_id": 47074
+    }
+  ]
+}

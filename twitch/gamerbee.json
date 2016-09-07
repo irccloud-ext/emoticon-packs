@@ -1,1 +1,27 @@
-{"name":"twitch-sub-gamerbee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gmbSalt","image_id":21632},{"match":"gmbGmb","image_id":95675},{"match":"gmbRyoumad","image_id":77629},{"match":"gmbWhat","image_id":78331},{"match":"gmbFlag","image_id":95371}]}
+{
+  "name": "twitch-sub-gamerbee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gmbSalt",
+      "image_id": 21632
+    },
+    {
+      "match": "gmbGmb",
+      "image_id": 95675
+    },
+    {
+      "match": "gmbRyoumad",
+      "image_id": 77629
+    },
+    {
+      "match": "gmbWhat",
+      "image_id": 78331
+    },
+    {
+      "match": "gmbFlag",
+      "image_id": 95371
+    }
+  ]
+}

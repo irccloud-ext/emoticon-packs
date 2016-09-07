@@ -1,1 +1,31 @@
-{"name":"twitch-sub-raxyz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rakinHue","image_id":30789},{"match":"rakinPai1","image_id":55659},{"match":"rakinPai2","image_id":55660},{"match":"rakinGOD","image_id":37713},{"match":"rakin2","image_id":54714},{"match":"rakin1","image_id":54673}]}
+{
+  "name": "twitch-sub-raxyz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rakinHue",
+      "image_id": 30789
+    },
+    {
+      "match": "rakinPai1",
+      "image_id": 55659
+    },
+    {
+      "match": "rakinPai2",
+      "image_id": 55660
+    },
+    {
+      "match": "rakinGOD",
+      "image_id": 37713
+    },
+    {
+      "match": "rakin2",
+      "image_id": 54714
+    },
+    {
+      "match": "rakin1",
+      "image_id": 54673
+    }
+  ]
+}

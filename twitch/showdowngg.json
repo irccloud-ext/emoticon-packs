@@ -1,1 +1,11 @@
-{"name":"twitch-sub-showdowngg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sdggOOO","image_id":54885}]}
+{
+  "name": "twitch-sub-showdowngg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sdggOOO",
+      "image_id": 54885
+    }
+  ]
+}

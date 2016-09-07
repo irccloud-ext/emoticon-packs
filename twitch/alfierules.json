@@ -1,1 +1,47 @@
-{"name":"twitch-sub-alfierules","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"alfieFacepalm","image_id":5442},{"match":"alfieBags","image_id":74127},{"match":"alfieVape","image_id":74694},{"match":"alfieHype","image_id":60536},{"match":"alfieHeadbang","image_id":81732},{"match":"alfieGasm","image_id":100490},{"match":"alfieStake","image_id":100488},{"match":"alfieWut","image_id":96552},{"match":"alfieRage","image_id":96466},{"match":"alfieVN","image_id":96755}]}
+{
+  "name": "twitch-sub-alfierules",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "alfieFacepalm",
+      "image_id": 5442
+    },
+    {
+      "match": "alfieBags",
+      "image_id": 74127
+    },
+    {
+      "match": "alfieVape",
+      "image_id": 74694
+    },
+    {
+      "match": "alfieHype",
+      "image_id": 60536
+    },
+    {
+      "match": "alfieHeadbang",
+      "image_id": 81732
+    },
+    {
+      "match": "alfieGasm",
+      "image_id": 100490
+    },
+    {
+      "match": "alfieStake",
+      "image_id": 100488
+    },
+    {
+      "match": "alfieWut",
+      "image_id": 96552
+    },
+    {
+      "match": "alfieRage",
+      "image_id": 96466
+    },
+    {
+      "match": "alfieVN",
+      "image_id": 96755
+    }
+  ]
+}

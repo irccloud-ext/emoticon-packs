@@ -1,1 +1,15 @@
-{"name":"twitch-sub-brookz_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"brkzJF","image_id":25930},{"match":"brkzNAPPA","image_id":41685}]}
+{
+  "name": "twitch-sub-brookz_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "brkzJF",
+      "image_id": 25930
+    },
+    {
+      "match": "brkzNAPPA",
+      "image_id": 41685
+    }
+  ]
+}

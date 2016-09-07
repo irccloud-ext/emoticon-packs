@@ -1,1 +1,39 @@
-{"name":"twitch-sub-helpinghans","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hansHERESY","image_id":100422},{"match":"hansRNG","image_id":23607},{"match":"hansREKT","image_id":58529},{"match":"hansGG","image_id":58528},{"match":"hansGASP","image_id":64098},{"match":"hansHYPE","image_id":110406},{"match":"hansP4","image_id":92146},{"match":"hansHAND","image_id":100003}]}
+{
+  "name": "twitch-sub-helpinghans",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hansHERESY",
+      "image_id": 100422
+    },
+    {
+      "match": "hansRNG",
+      "image_id": 23607
+    },
+    {
+      "match": "hansREKT",
+      "image_id": 58529
+    },
+    {
+      "match": "hansGG",
+      "image_id": 58528
+    },
+    {
+      "match": "hansGASP",
+      "image_id": 64098
+    },
+    {
+      "match": "hansHYPE",
+      "image_id": 110406
+    },
+    {
+      "match": "hansP4",
+      "image_id": 92146
+    },
+    {
+      "match": "hansHAND",
+      "image_id": 100003
+    }
+  ]
+}

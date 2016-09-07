@@ -1,1 +1,47 @@
-{"name":"twitch-sub-thetravelinggamer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tutuGang","image_id":106786},{"match":"tutu3","image_id":94121},{"match":"tutuWtf","image_id":94114},{"match":"tutuBax","image_id":94129},{"match":"tutuW","image_id":94145},{"match":"tutuCry","image_id":106945},{"match":"tutuLove","image_id":106946},{"match":"tutuCmills","image_id":110962},{"match":"tutuLenny","image_id":110961},{"match":"tutuShook","image_id":110975}]}
+{
+  "name": "twitch-sub-thetravelinggamer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tutuGang",
+      "image_id": 106786
+    },
+    {
+      "match": "tutu3",
+      "image_id": 94121
+    },
+    {
+      "match": "tutuWtf",
+      "image_id": 94114
+    },
+    {
+      "match": "tutuBax",
+      "image_id": 94129
+    },
+    {
+      "match": "tutuW",
+      "image_id": 94145
+    },
+    {
+      "match": "tutuCry",
+      "image_id": 106945
+    },
+    {
+      "match": "tutuLove",
+      "image_id": 106946
+    },
+    {
+      "match": "tutuCmills",
+      "image_id": 110962
+    },
+    {
+      "match": "tutuLenny",
+      "image_id": 110961
+    },
+    {
+      "match": "tutuShook",
+      "image_id": 110975
+    }
+  ]
+}

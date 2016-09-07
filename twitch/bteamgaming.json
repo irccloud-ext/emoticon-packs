@@ -1,1 +1,11 @@
-{"name":"twitch-sub-bteamgaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"btgLOGO","image_id":4602}]}
+{
+  "name": "twitch-sub-bteamgaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "btgLOGO",
+      "image_id": 4602
+    }
+  ]
+}

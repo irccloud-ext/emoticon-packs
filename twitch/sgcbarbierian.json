@@ -1,1 +1,23 @@
-{"name":"twitch-sub-sgcbarbierian","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"barbieWalrus","image_id":19547},{"match":"barbieImpala","image_id":19548},{"match":"barbieTeeth","image_id":20630},{"match":"barbieHeart","image_id":20629}]}
+{
+  "name": "twitch-sub-sgcbarbierian",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "barbieWalrus",
+      "image_id": 19547
+    },
+    {
+      "match": "barbieImpala",
+      "image_id": 19548
+    },
+    {
+      "match": "barbieTeeth",
+      "image_id": 20630
+    },
+    {
+      "match": "barbieHeart",
+      "image_id": 20629
+    }
+  ]
+}

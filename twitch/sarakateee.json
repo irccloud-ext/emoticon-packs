@@ -1,1 +1,27 @@
-{"name":"twitch-sub-sarakateee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"oliveCat","image_id":6805},{"match":"oliveRing","image_id":36083},{"match":"oliveTipsy","image_id":38598},{"match":"oliveDono","image_id":78108},{"match":"oliveHype","image_id":78104}]}
+{
+  "name": "twitch-sub-sarakateee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "oliveCat",
+      "image_id": 6805
+    },
+    {
+      "match": "oliveRing",
+      "image_id": 36083
+    },
+    {
+      "match": "oliveTipsy",
+      "image_id": 38598
+    },
+    {
+      "match": "oliveDono",
+      "image_id": 78108
+    },
+    {
+      "match": "oliveHype",
+      "image_id": 78104
+    }
+  ]
+}

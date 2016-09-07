@@ -1,1 +1,27 @@
-{"name":"twitch-sub-denisenassen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"deniseLIKE","image_id":25274},{"match":"deniseICEBLOCK","image_id":25268},{"match":"deniseRIP","image_id":29133},{"match":"deniseMic","image_id":29132},{"match":"deniseKappa","image_id":29131}]}
+{
+  "name": "twitch-sub-denisenassen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "deniseLIKE",
+      "image_id": 25274
+    },
+    {
+      "match": "deniseICEBLOCK",
+      "image_id": 25268
+    },
+    {
+      "match": "deniseRIP",
+      "image_id": 29133
+    },
+    {
+      "match": "deniseMic",
+      "image_id": 29132
+    },
+    {
+      "match": "deniseKappa",
+      "image_id": 29131
+    }
+  ]
+}

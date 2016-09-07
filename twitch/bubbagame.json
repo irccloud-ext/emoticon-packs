@@ -1,1 +1,67 @@
-{"name":"twitch-sub-bubbagame","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bubbaYEAH","image_id":8068},{"match":"bubbaSD","image_id":8930},{"match":"bubbaOP","image_id":9004},{"match":"bubbaPIZZA","image_id":17535},{"match":"bubbaRIP","image_id":20191},{"match":"bubbaDOLVAN","image_id":20499},{"match":"bubbaLOOT","image_id":24221},{"match":"bubbaKAPPA","image_id":37187},{"match":"bubbaSHOT","image_id":37177},{"match":"bubbaCREEP","image_id":37176},{"match":"bubbaHEX","image_id":37174},{"match":"bubbaGH","image_id":37175},{"match":"bubbaRIOT","image_id":57898},{"match":"bubbaTBTW","image_id":57896},{"match":"bubbaKENNY","image_id":58020}]}
+{
+  "name": "twitch-sub-bubbagame",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bubbaYEAH",
+      "image_id": 8068
+    },
+    {
+      "match": "bubbaSD",
+      "image_id": 8930
+    },
+    {
+      "match": "bubbaOP",
+      "image_id": 9004
+    },
+    {
+      "match": "bubbaPIZZA",
+      "image_id": 17535
+    },
+    {
+      "match": "bubbaRIP",
+      "image_id": 20191
+    },
+    {
+      "match": "bubbaDOLVAN",
+      "image_id": 20499
+    },
+    {
+      "match": "bubbaLOOT",
+      "image_id": 24221
+    },
+    {
+      "match": "bubbaKAPPA",
+      "image_id": 37187
+    },
+    {
+      "match": "bubbaSHOT",
+      "image_id": 37177
+    },
+    {
+      "match": "bubbaCREEP",
+      "image_id": 37176
+    },
+    {
+      "match": "bubbaHEX",
+      "image_id": 37174
+    },
+    {
+      "match": "bubbaGH",
+      "image_id": 37175
+    },
+    {
+      "match": "bubbaRIOT",
+      "image_id": 57898
+    },
+    {
+      "match": "bubbaTBTW",
+      "image_id": 57896
+    },
+    {
+      "match": "bubbaKENNY",
+      "image_id": 58020
+    }
+  ]
+}

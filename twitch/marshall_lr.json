@@ -1,1 +1,23 @@
-{"name":"twitch-sub-marshall_lr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"marshallELMER","image_id":57917},{"match":"marshallWHAT","image_id":62278},{"match":"marshallVALUE","image_id":57916},{"match":"marshallSADMONKEY","image_id":62166}]}
+{
+  "name": "twitch-sub-marshall_lr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "marshallELMER",
+      "image_id": 57917
+    },
+    {
+      "match": "marshallWHAT",
+      "image_id": 62278
+    },
+    {
+      "match": "marshallVALUE",
+      "image_id": 57916
+    },
+    {
+      "match": "marshallSADMONKEY",
+      "image_id": 62166
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-classykatie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"classykHORNS","image_id":87983},{"match":"classykTOTORO","image_id":90975},{"match":"classykBEARD","image_id":87984},{"match":"classykHOLE","image_id":80098},{"match":"classykMU","image_id":79683},{"match":"classykGASM","image_id":82736},{"match":"classykLOINS","image_id":82737},{"match":"classykHYPE","image_id":89216}]}
+{
+  "name": "twitch-sub-classykatie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "classykHORNS",
+      "image_id": 87983
+    },
+    {
+      "match": "classykTOTORO",
+      "image_id": 90975
+    },
+    {
+      "match": "classykBEARD",
+      "image_id": 87984
+    },
+    {
+      "match": "classykHOLE",
+      "image_id": 80098
+    },
+    {
+      "match": "classykMU",
+      "image_id": 79683
+    },
+    {
+      "match": "classykGASM",
+      "image_id": 82736
+    },
+    {
+      "match": "classykLOINS",
+      "image_id": 82737
+    },
+    {
+      "match": "classykHYPE",
+      "image_id": 89216
+    }
+  ]
+}

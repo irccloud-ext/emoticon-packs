@@ -1,1 +1,47 @@
-{"name":"twitch-sub-tkbreezy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tksBOYZ","image_id":25781},{"match":"tksFire","image_id":65555},{"match":"tksHorns","image_id":45932},{"match":"tksBodied","image_id":52419},{"match":"tksYGI","image_id":52418},{"match":"tksPolicia","image_id":72623},{"match":"tksG","image_id":91988},{"match":"tksClap","image_id":88589},{"match":"tksHELP","image_id":103508},{"match":"tksLORDT","image_id":104359}]}
+{
+  "name": "twitch-sub-tkbreezy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tksBOYZ",
+      "image_id": 25781
+    },
+    {
+      "match": "tksFire",
+      "image_id": 65555
+    },
+    {
+      "match": "tksHorns",
+      "image_id": 45932
+    },
+    {
+      "match": "tksBodied",
+      "image_id": 52419
+    },
+    {
+      "match": "tksYGI",
+      "image_id": 52418
+    },
+    {
+      "match": "tksPolicia",
+      "image_id": 72623
+    },
+    {
+      "match": "tksG",
+      "image_id": 91988
+    },
+    {
+      "match": "tksClap",
+      "image_id": 88589
+    },
+    {
+      "match": "tksHELP",
+      "image_id": 103508
+    },
+    {
+      "match": "tksLORDT",
+      "image_id": 104359
+    }
+  ]
+}

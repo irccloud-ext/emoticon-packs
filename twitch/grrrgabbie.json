@@ -1,1 +1,47 @@
-{"name":"twitch-sub-grrrgabbie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"grrrHype","image_id":64590},{"match":"grrrWtf","image_id":72578},{"match":"grrrLove","image_id":72577},{"match":"grrrHi","image_id":72576},{"match":"grrrBrolof","image_id":72575},{"match":"grrrSad","image_id":72790},{"match":"grrrHug","image_id":99080},{"match":"grrrCool","image_id":92815},{"match":"grrrTea","image_id":99113},{"match":"grrrPS","image_id":98790}]}
+{
+  "name": "twitch-sub-grrrgabbie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "grrrHype",
+      "image_id": 64590
+    },
+    {
+      "match": "grrrWtf",
+      "image_id": 72578
+    },
+    {
+      "match": "grrrLove",
+      "image_id": 72577
+    },
+    {
+      "match": "grrrHi",
+      "image_id": 72576
+    },
+    {
+      "match": "grrrBrolof",
+      "image_id": 72575
+    },
+    {
+      "match": "grrrSad",
+      "image_id": 72790
+    },
+    {
+      "match": "grrrHug",
+      "image_id": 99080
+    },
+    {
+      "match": "grrrCool",
+      "image_id": 92815
+    },
+    {
+      "match": "grrrTea",
+      "image_id": 99113
+    },
+    {
+      "match": "grrrPS",
+      "image_id": 98790
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-spammantha","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"spamC","image_id":1242},{"match":"spamT","image_id":1409},{"match":"spamSub","image_id":33945},{"match":"spamL","image_id":33960},{"match":"spamEGIRLS","image_id":77493},{"match":"spamH","image_id":72311},{"match":"spamKnot","image_id":75798},{"match":"spamRIP","image_id":80645}]}
+{
+  "name": "twitch-sub-spammantha",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "spamC",
+      "image_id": 1242
+    },
+    {
+      "match": "spamT",
+      "image_id": 1409
+    },
+    {
+      "match": "spamSub",
+      "image_id": 33945
+    },
+    {
+      "match": "spamL",
+      "image_id": 33960
+    },
+    {
+      "match": "spamEGIRLS",
+      "image_id": 77493
+    },
+    {
+      "match": "spamH",
+      "image_id": 72311
+    },
+    {
+      "match": "spamKnot",
+      "image_id": 75798
+    },
+    {
+      "match": "spamRIP",
+      "image_id": 80645
+    }
+  ]
+}

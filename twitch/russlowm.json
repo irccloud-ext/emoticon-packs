@@ -1,1 +1,39 @@
-{"name":"twitch-sub-russlowm","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"russRage","image_id":68875},{"match":"russKill","image_id":73635},{"match":"russBb136","image_id":68034},{"match":"russRusshype","image_id":68415},{"match":"russBbtime","image_id":68414},{"match":"russELFBS","image_id":68343},{"match":"russRussurf","image_id":68130},{"match":"russPraise","image_id":69518}]}
+{
+  "name": "twitch-sub-russlowm",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "russRage",
+      "image_id": 68875
+    },
+    {
+      "match": "russKill",
+      "image_id": 73635
+    },
+    {
+      "match": "russBb136",
+      "image_id": 68034
+    },
+    {
+      "match": "russRusshype",
+      "image_id": 68415
+    },
+    {
+      "match": "russBbtime",
+      "image_id": 68414
+    },
+    {
+      "match": "russELFBS",
+      "image_id": 68343
+    },
+    {
+      "match": "russRussurf",
+      "image_id": 68130
+    },
+    {
+      "match": "russPraise",
+      "image_id": 69518
+    }
+  ]
+}

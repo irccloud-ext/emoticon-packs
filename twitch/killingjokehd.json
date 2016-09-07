@@ -1,1 +1,15 @@
-{"name":"twitch-sub-killingjokehd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sansjokeWink","image_id":83076},{"match":"sansjokeRng","image_id":83078}]}
+{
+  "name": "twitch-sub-killingjokehd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sansjokeWink",
+      "image_id": 83076
+    },
+    {
+      "match": "sansjokeRng",
+      "image_id": 83078
+    }
+  ]
+}

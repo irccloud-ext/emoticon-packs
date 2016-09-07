@@ -1,1 +1,23 @@
-{"name":"twitch-sub-bhtt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bhtCoffee","image_id":77548},{"match":"bht1","image_id":39389},{"match":"bht2","image_id":39388},{"match":"bhtPAIN","image_id":83196}]}
+{
+  "name": "twitch-sub-bhtt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bhtCoffee",
+      "image_id": 77548
+    },
+    {
+      "match": "bht1",
+      "image_id": 39389
+    },
+    {
+      "match": "bht2",
+      "image_id": 39388
+    },
+    {
+      "match": "bhtPAIN",
+      "image_id": 83196
+    }
+  ]
+}

@@ -1,1 +1,91 @@
-{"name":"twitch-sub-thepremierleague","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"absolutelegends","image_id":560},{"match":"premierleague","image_id":561},{"match":"virtuspro","image_id":562},{"match":"teamliquid","image_id":563},{"match":"Roshan","image_id":564},{"match":"teamfnatic","image_id":565},{"match":"mouzsports","image_id":566},{"match":"teamempire","image_id":567},{"match":"teamdignitas","image_id":568},{"match":"team3d","image_id":569},{"match":"notidehunter","image_id":570},{"match":"paingaming","image_id":571},{"match":"phoenixDown","image_id":574},{"match":"BigSmile","image_id":575},{"match":"DisgusteD","image_id":576},{"match":"EcstatiC","image_id":577},{"match":"FrowN","image_id":578},{"match":"NotAmused","image_id":579},{"match":"SadFace","image_id":580},{"match":"SurpriseD","image_id":581},{"match":"TongueOut","image_id":582}]}
+{
+  "name": "twitch-sub-thepremierleague",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "absolutelegends",
+      "image_id": 560
+    },
+    {
+      "match": "premierleague",
+      "image_id": 561
+    },
+    {
+      "match": "virtuspro",
+      "image_id": 562
+    },
+    {
+      "match": "teamliquid",
+      "image_id": 563
+    },
+    {
+      "match": "Roshan",
+      "image_id": 564
+    },
+    {
+      "match": "teamfnatic",
+      "image_id": 565
+    },
+    {
+      "match": "mouzsports",
+      "image_id": 566
+    },
+    {
+      "match": "teamempire",
+      "image_id": 567
+    },
+    {
+      "match": "teamdignitas",
+      "image_id": 568
+    },
+    {
+      "match": "team3d",
+      "image_id": 569
+    },
+    {
+      "match": "notidehunter",
+      "image_id": 570
+    },
+    {
+      "match": "paingaming",
+      "image_id": 571
+    },
+    {
+      "match": "phoenixDown",
+      "image_id": 574
+    },
+    {
+      "match": "BigSmile",
+      "image_id": 575
+    },
+    {
+      "match": "DisgusteD",
+      "image_id": 576
+    },
+    {
+      "match": "EcstatiC",
+      "image_id": 577
+    },
+    {
+      "match": "FrowN",
+      "image_id": 578
+    },
+    {
+      "match": "NotAmused",
+      "image_id": 579
+    },
+    {
+      "match": "SadFace",
+      "image_id": 580
+    },
+    {
+      "match": "SurpriseD",
+      "image_id": 581
+    },
+    {
+      "match": "TongueOut",
+      "image_id": 582
+    }
+  ]
+}

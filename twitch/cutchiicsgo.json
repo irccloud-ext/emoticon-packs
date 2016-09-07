@@ -1,1 +1,15 @@
-{"name":"twitch-sub-cutchiicsgo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cutchiTEDDY","image_id":46831},{"match":"cutchiMAD","image_id":46830}]}
+{
+  "name": "twitch-sub-cutchiicsgo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cutchiTEDDY",
+      "image_id": 46831
+    },
+    {
+      "match": "cutchiMAD",
+      "image_id": 46830
+    }
+  ]
+}

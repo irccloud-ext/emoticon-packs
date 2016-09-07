@@ -1,1 +1,15 @@
-{"name":"twitch-sub-tfue","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tfueBOOTY","image_id":50543},{"match":"tfueKAPPA","image_id":50670},{"match":"tfueDAWG","image_id":70738},{"match":"tfueHYPE","image_id":74547},{"match":"tfueLOVE","image_id":74419},{"match":"tfueHEY","image_id":74420},{"match":"tfueRAGE","image_id":74421}]}
+{
+  "name": "twitch-sub-tfue",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tfueDAWG",
+      "image_id": 70738
+    },
+    {
+      "match": "tfueOCTO",
+      "image_id": 112203
+    }
+  ]
+}

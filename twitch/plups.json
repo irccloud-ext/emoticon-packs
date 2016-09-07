@@ -1,1 +1,31 @@
-{"name":"twitch-sub-plups","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"plupEZ","image_id":102191},{"match":"plupWut","image_id":102190},{"match":"plup2","image_id":104885},{"match":"plup1","image_id":104884},{"match":"plupGJ","image_id":102596},{"match":"plupW","image_id":104641}]}
+{
+  "name": "twitch-sub-plups",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "plupEZ",
+      "image_id": 102191
+    },
+    {
+      "match": "plupWut",
+      "image_id": 102190
+    },
+    {
+      "match": "plup2",
+      "image_id": 104885
+    },
+    {
+      "match": "plup1",
+      "image_id": 104884
+    },
+    {
+      "match": "plupGJ",
+      "image_id": 102596
+    },
+    {
+      "match": "plupW",
+      "image_id": 104641
+    }
+  ]
+}

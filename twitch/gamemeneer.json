@@ -1,1 +1,23 @@
-{"name":"twitch-sub-gamemeneer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"meneerLove","image_id":75012},{"match":"meneerW","image_id":75013},{"match":"meneerHype","image_id":85796},{"match":"meneerREKT","image_id":85797}]}
+{
+  "name": "twitch-sub-gamemeneer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "meneerLove",
+      "image_id": 75012
+    },
+    {
+      "match": "meneerW",
+      "image_id": 75013
+    },
+    {
+      "match": "meneerHype",
+      "image_id": 85796
+    },
+    {
+      "match": "meneerREKT",
+      "image_id": 85797
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-rendhammertv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rendFine","image_id":47341},{"match":"rendFail","image_id":66614},{"match":"rendHi","image_id":66987},{"match":"rendLol","image_id":66988},{"match":"rendGasm","image_id":88306},{"match":"rendHammer","image_id":89291},{"match":"rendNotfine","image_id":89540},{"match":"rendL","image_id":94280}]}
+{
+  "name": "twitch-sub-rendhammertv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rendFine",
+      "image_id": 47341
+    },
+    {
+      "match": "rendFail",
+      "image_id": 66614
+    },
+    {
+      "match": "rendHi",
+      "image_id": 66987
+    },
+    {
+      "match": "rendLol",
+      "image_id": 66988
+    },
+    {
+      "match": "rendGasm",
+      "image_id": 88306
+    },
+    {
+      "match": "rendHammer",
+      "image_id": 89291
+    },
+    {
+      "match": "rendNotfine",
+      "image_id": 89540
+    },
+    {
+      "match": "rendL",
+      "image_id": 94280
+    }
+  ]
+}

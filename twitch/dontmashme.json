@@ -1,1 +1,19 @@
-{"name":"twitch-sub-dontmashme","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mashGasm","image_id":4163},{"match":"mashCat","image_id":4058},{"match":"mashMad","image_id":8200}]}
+{
+  "name": "twitch-sub-dontmashme",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mashGasm",
+      "image_id": 4163
+    },
+    {
+      "match": "mashCat",
+      "image_id": 4058
+    },
+    {
+      "match": "mashMad",
+      "image_id": 8200
+    }
+  ]
+}

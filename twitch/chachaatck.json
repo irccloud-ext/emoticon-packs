@@ -1,1 +1,31 @@
-{"name":"twitch-sub-chachaatck","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chachaaNSUB","image_id":71753},{"match":"chachaaHi","image_id":88273},{"match":"chachaaChak","image_id":88275},{"match":"chachaaDON","image_id":70300},{"match":"chachaaRIP","image_id":89138},{"match":"chachaaLove","image_id":89137}]}
+{
+  "name": "twitch-sub-chachaatck",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chachaaNSUB",
+      "image_id": 71753
+    },
+    {
+      "match": "chachaaHi",
+      "image_id": 88273
+    },
+    {
+      "match": "chachaaChak",
+      "image_id": 88275
+    },
+    {
+      "match": "chachaaDON",
+      "image_id": 70300
+    },
+    {
+      "match": "chachaaRIP",
+      "image_id": 89138
+    },
+    {
+      "match": "chachaaLove",
+      "image_id": 89137
+    }
+  ]
+}

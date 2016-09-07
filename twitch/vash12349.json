@@ -1,1 +1,43 @@
-{"name":"twitch-sub-vash12349","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vashVan","image_id":31057},{"match":"vashDank","image_id":33687},{"match":"vashCake","image_id":32588},{"match":"vashSammy","image_id":34820},{"match":"vashTreefiddy","image_id":34946},{"match":"vashLisa","image_id":45030},{"match":"vashC","image_id":107571},{"match":"vashCapta","image_id":56821},{"match":"vashDadpants","image_id":78886}]}
+{
+  "name": "twitch-sub-vash12349",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vashVan",
+      "image_id": 31057
+    },
+    {
+      "match": "vashDank",
+      "image_id": 33687
+    },
+    {
+      "match": "vashCake",
+      "image_id": 32588
+    },
+    {
+      "match": "vashSammy",
+      "image_id": 34820
+    },
+    {
+      "match": "vashTreefiddy",
+      "image_id": 34946
+    },
+    {
+      "match": "vashLisa",
+      "image_id": 45030
+    },
+    {
+      "match": "vashC",
+      "image_id": 107571
+    },
+    {
+      "match": "vashCapta",
+      "image_id": 56821
+    },
+    {
+      "match": "vashDadpants",
+      "image_id": 78886
+    }
+  ]
+}

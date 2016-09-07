@@ -1,1 +1,15 @@
-{"name":"twitch-sub-jobranal327","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jobraCry","image_id":98412},{"match":"jobraPride","image_id":98406}]}
+{
+  "name": "twitch-sub-jobranal327",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jobraCry",
+      "image_id": 98412
+    },
+    {
+      "match": "jobraPride",
+      "image_id": 98406
+    }
+  ]
+}

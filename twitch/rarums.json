@@ -1,1 +1,27 @@
-{"name":"twitch-sub-rarums","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rarumsBoss","image_id":65304},{"match":"rarumsDeal","image_id":65305},{"match":"rarumsOmg","image_id":65310},{"match":"rarumsPay","image_id":65311},{"match":"rarumsRekt","image_id":65312}]}
+{
+  "name": "twitch-sub-rarums",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rarumsBoss",
+      "image_id": 65304
+    },
+    {
+      "match": "rarumsDeal",
+      "image_id": 65305
+    },
+    {
+      "match": "rarumsOmg",
+      "image_id": 65310
+    },
+    {
+      "match": "rarumsPay",
+      "image_id": 65311
+    },
+    {
+      "match": "rarumsRekt",
+      "image_id": 65312
+    }
+  ]
+}

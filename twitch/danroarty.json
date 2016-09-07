@@ -1,1 +1,19 @@
-{"name":"twitch-sub-danroarty","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"drnoHI","image_id":85615},{"match":"drnoGR","image_id":86374},{"match":"drnoAHH","image_id":85158}]}
+{
+  "name": "twitch-sub-danroarty",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "drnoHI",
+      "image_id": 85615
+    },
+    {
+      "match": "drnoGR",
+      "image_id": 86374
+    },
+    {
+      "match": "drnoAHH",
+      "image_id": 85158
+    }
+  ]
+}

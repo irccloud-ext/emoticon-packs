@@ -1,1 +1,43 @@
-{"name":"twitch-sub-stokedcali","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"scaliREKT","image_id":86523},{"match":"scaliBRAJ","image_id":86516},{"match":"scaliKEWL","image_id":86517},{"match":"scaliCRY","image_id":86518},{"match":"scaliHYPE","image_id":86520},{"match":"scaliGASM","image_id":86519},{"match":"scaliLOVE","image_id":86521},{"match":"scaliNPP","image_id":86522},{"match":"scaliPLEH","image_id":106971}]}
+{
+  "name": "twitch-sub-stokedcali",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "scaliREKT",
+      "image_id": 86523
+    },
+    {
+      "match": "scaliBRAJ",
+      "image_id": 86516
+    },
+    {
+      "match": "scaliKEWL",
+      "image_id": 86517
+    },
+    {
+      "match": "scaliCRY",
+      "image_id": 86518
+    },
+    {
+      "match": "scaliHYPE",
+      "image_id": 86520
+    },
+    {
+      "match": "scaliGASM",
+      "image_id": 86519
+    },
+    {
+      "match": "scaliLOVE",
+      "image_id": 86521
+    },
+    {
+      "match": "scaliNPP",
+      "image_id": 86522
+    },
+    {
+      "match": "scaliPLEH",
+      "image_id": 106971
+    }
+  ]
+}

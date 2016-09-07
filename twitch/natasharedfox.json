@@ -1,1 +1,23 @@
-{"name":"twitch-sub-natasharedfox","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"raposaA","image_id":90940},{"match":"raposaO","image_id":90942},{"match":"raposaP","image_id":90941},{"match":"raposaR","image_id":90938}]}
+{
+  "name": "twitch-sub-natasharedfox",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "raposaA",
+      "image_id": 90940
+    },
+    {
+      "match": "raposaO",
+      "image_id": 90942
+    },
+    {
+      "match": "raposaP",
+      "image_id": 90941
+    },
+    {
+      "match": "raposaR",
+      "image_id": 90938
+    }
+  ]
+}

@@ -1,1 +1,87 @@
-{"name":"twitch-sub-ninja","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ninjaCry","image_id":96284},{"match":"ninjaTilt","image_id":96285},{"match":"ninjaAdore","image_id":13588},{"match":"ninjaMindBlown","image_id":57899},{"match":"ninjaBits","image_id":109002},{"match":"ninjaTooth","image_id":23405},{"match":"ninjaClap","image_id":26915},{"match":"ninjaRekt","image_id":45243},{"match":"ninjaCreep","image_id":79142},{"match":"ninjaPon","image_id":64518},{"match":"ninjaKappa","image_id":79912},{"match":"ninjaOK","image_id":87482},{"match":"ninjaCash","image_id":91135},{"match":"ninjaSalt","image_id":91139},{"match":"ninjaH","image_id":104071},{"match":"ninjaHi","image_id":97801},{"match":"ninjaHype","image_id":97802},{"match":"ninjaK","image_id":97803},{"match":"ninja10","image_id":104035},{"match":"ninjaAim","image_id":103570}]}
+{
+  "name": "twitch-sub-ninja",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ninjaCry",
+      "image_id": 96284
+    },
+    {
+      "match": "ninjaTilt",
+      "image_id": 96285
+    },
+    {
+      "match": "ninjaAdore",
+      "image_id": 13588
+    },
+    {
+      "match": "ninjaMindBlown",
+      "image_id": 57899
+    },
+    {
+      "match": "ninjaBits",
+      "image_id": 109002
+    },
+    {
+      "match": "ninjaTooth",
+      "image_id": 23405
+    },
+    {
+      "match": "ninjaClap",
+      "image_id": 26915
+    },
+    {
+      "match": "ninjaRekt",
+      "image_id": 45243
+    },
+    {
+      "match": "ninjaCreep",
+      "image_id": 79142
+    },
+    {
+      "match": "ninjaPon",
+      "image_id": 64518
+    },
+    {
+      "match": "ninjaKappa",
+      "image_id": 79912
+    },
+    {
+      "match": "ninjaOK",
+      "image_id": 87482
+    },
+    {
+      "match": "ninjaCash",
+      "image_id": 91135
+    },
+    {
+      "match": "ninjaSalt",
+      "image_id": 91139
+    },
+    {
+      "match": "ninjaH",
+      "image_id": 104071
+    },
+    {
+      "match": "ninjaHi",
+      "image_id": 97801
+    },
+    {
+      "match": "ninjaHype",
+      "image_id": 97802
+    },
+    {
+      "match": "ninjaK",
+      "image_id": 97803
+    },
+    {
+      "match": "ninja10",
+      "image_id": 104035
+    },
+    {
+      "match": "ninjaAim",
+      "image_id": 103570
+    }
+  ]
+}

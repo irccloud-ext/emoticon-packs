@@ -1,1 +1,23 @@
-{"name":"twitch-sub-sda_revenant","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"reveManin","image_id":23990},{"match":"reveSexy","image_id":24058},{"match":"reveFlash","image_id":24807},{"match":"reveAmumu","image_id":24808}]}
+{
+  "name": "twitch-sub-sda_revenant",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "reveManin",
+      "image_id": 23990
+    },
+    {
+      "match": "reveSexy",
+      "image_id": 24058
+    },
+    {
+      "match": "reveFlash",
+      "image_id": 24807
+    },
+    {
+      "match": "reveAmumu",
+      "image_id": 24808
+    }
+  ]
+}

@@ -1,1 +1,87 @@
-{"name":"twitch-sub-massansc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"masGasm","image_id":12760},{"match":"masKappa","image_id":35600},{"match":"masX","image_id":83615},{"match":"masBad","image_id":68498},{"match":"masFeels","image_id":83616},{"match":"masHey","image_id":54065},{"match":"masHype","image_id":59411},{"match":"masLove","image_id":59412},{"match":"masThump","image_id":59413},{"match":"masChamp","image_id":62683},{"match":"masREKT","image_id":70429},{"match":"masGame","image_id":70432},{"match":"masB","image_id":71432},{"match":"masRNG","image_id":71433},{"match":"masFail","image_id":86496},{"match":"masRage","image_id":86497},{"match":"masRoll","image_id":86498},{"match":"masS","image_id":86499},{"match":"masWin","image_id":86500},{"match":"masGL","image_id":87711}]}
+{
+  "name": "twitch-sub-massansc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "masGasm",
+      "image_id": 12760
+    },
+    {
+      "match": "masKappa",
+      "image_id": 35600
+    },
+    {
+      "match": "masX",
+      "image_id": 83615
+    },
+    {
+      "match": "masBad",
+      "image_id": 68498
+    },
+    {
+      "match": "masFeels",
+      "image_id": 83616
+    },
+    {
+      "match": "masHey",
+      "image_id": 54065
+    },
+    {
+      "match": "masHype",
+      "image_id": 59411
+    },
+    {
+      "match": "masLove",
+      "image_id": 59412
+    },
+    {
+      "match": "masThump",
+      "image_id": 59413
+    },
+    {
+      "match": "masChamp",
+      "image_id": 62683
+    },
+    {
+      "match": "masREKT",
+      "image_id": 70429
+    },
+    {
+      "match": "masGame",
+      "image_id": 70432
+    },
+    {
+      "match": "masB",
+      "image_id": 71432
+    },
+    {
+      "match": "masRNG",
+      "image_id": 71433
+    },
+    {
+      "match": "masFail",
+      "image_id": 86496
+    },
+    {
+      "match": "masRage",
+      "image_id": 86497
+    },
+    {
+      "match": "masRoll",
+      "image_id": 86498
+    },
+    {
+      "match": "masS",
+      "image_id": 86499
+    },
+    {
+      "match": "masWin",
+      "image_id": 86500
+    },
+    {
+      "match": "masGL",
+      "image_id": 87711
+    }
+  ]
+}

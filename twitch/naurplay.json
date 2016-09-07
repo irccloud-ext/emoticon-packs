@@ -1,1 +1,31 @@
-{"name":"twitch-sub-naurplay","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"naurRage","image_id":108794},{"match":"naurGasm","image_id":108793},{"match":"naurLUL","image_id":111442},{"match":"naurImp","image_id":108578},{"match":"naurHat","image_id":108575},{"match":"naurSad","image_id":111443}]}
+{
+  "name": "twitch-sub-naurplay",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "naurRage",
+      "image_id": 108794
+    },
+    {
+      "match": "naurGasm",
+      "image_id": 108793
+    },
+    {
+      "match": "naurLUL",
+      "image_id": 111442
+    },
+    {
+      "match": "naurImp",
+      "image_id": 108578
+    },
+    {
+      "match": "naurHat",
+      "image_id": 108575
+    },
+    {
+      "match": "naurSad",
+      "image_id": 111443
+    }
+  ]
+}

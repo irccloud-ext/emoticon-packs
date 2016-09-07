@@ -1,0 +1,23 @@
+{
+  "name": "twitch-sub-lameosaurus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rennieFan",
+      "image_id": 112476
+    },
+    {
+      "match": "rennieHaha",
+      "image_id": 112232
+    },
+    {
+      "match": "rennieYell",
+      "image_id": 112069
+    },
+    {
+      "match": "rennieGun",
+      "image_id": 112070
+    }
+  ]
+}

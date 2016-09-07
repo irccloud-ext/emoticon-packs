@@ -1,1 +1,31 @@
-{"name":"twitch-sub-officialemilio","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"millegudnE","image_id":15820},{"match":"millegudnB","image_id":15821},{"match":"millegudnR","image_id":68964},{"match":"millegudnC","image_id":49539},{"match":"millegudnNL","image_id":49540},{"match":"millegudnVAC","image_id":68965}]}
+{
+  "name": "twitch-sub-officialemilio",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "millegudnE",
+      "image_id": 15820
+    },
+    {
+      "match": "millegudnB",
+      "image_id": 15821
+    },
+    {
+      "match": "millegudnR",
+      "image_id": 68964
+    },
+    {
+      "match": "millegudnC",
+      "image_id": 49539
+    },
+    {
+      "match": "millegudnNL",
+      "image_id": 49540
+    },
+    {
+      "match": "millegudnVAC",
+      "image_id": 68965
+    }
+  ]
+}

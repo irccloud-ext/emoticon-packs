@@ -1,1 +1,47 @@
-{"name":"twitch-sub-minpojke","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"minWUB","image_id":11583},{"match":"minDROP","image_id":11588},{"match":"minEU","image_id":70319},{"match":"minWELCOME2","image_id":71786},{"match":"minWELCOME1","image_id":71785},{"match":"minPOJKEPRIDE","image_id":73389},{"match":"minPOJKE","image_id":70808},{"match":"minCOACH","image_id":73374},{"match":"minLEE","image_id":78096},{"match":"minTRINKET","image_id":78103}]}
+{
+  "name": "twitch-sub-minpojke",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "minWUB",
+      "image_id": 11583
+    },
+    {
+      "match": "minDROP",
+      "image_id": 11588
+    },
+    {
+      "match": "minEU",
+      "image_id": 70319
+    },
+    {
+      "match": "minWELCOME2",
+      "image_id": 71786
+    },
+    {
+      "match": "minWELCOME1",
+      "image_id": 71785
+    },
+    {
+      "match": "minPOJKEPRIDE",
+      "image_id": 73389
+    },
+    {
+      "match": "minPOJKE",
+      "image_id": 70808
+    },
+    {
+      "match": "minCOACH",
+      "image_id": 73374
+    },
+    {
+      "match": "minLEE",
+      "image_id": 78096
+    },
+    {
+      "match": "minTRINKET",
+      "image_id": 78103
+    }
+  ]
+}

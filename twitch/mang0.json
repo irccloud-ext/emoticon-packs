@@ -1,1 +1,127 @@
-{"name":"twitch-sub-mang0","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mangoForty","image_id":28700},{"match":"mangoBANGER","image_id":28701},{"match":"mangoBaby","image_id":15163},{"match":"mangoCloud9","image_id":15164},{"match":"mangoFox","image_id":15165},{"match":"mangoFalco","image_id":15166},{"match":"mangoAT","image_id":20386},{"match":"mangoUSA","image_id":20387},{"match":"mangoChamp","image_id":24983},{"match":"mangoScorp","image_id":24984},{"match":"mangoPog","image_id":81426},{"match":"mangoBUSTER","image_id":36469},{"match":"mango19","image_id":36468},{"match":"mangoAWP","image_id":39793},{"match":"mangoW","image_id":88281},{"match":"mangoKrey","image_id":45241},{"match":"mangoWiener","image_id":49150},{"match":"mangoHamburgers","image_id":49346},{"match":"mangoANGLE","image_id":61817},{"match":"mangoAwCrud","image_id":70602},{"match":"mangoNeo","image_id":84600},{"match":"mangoRIP","image_id":85173},{"match":"mangoL8R","image_id":87498},{"match":"mangoDOWN","image_id":89561},{"match":"mangoRun","image_id":92366},{"match":"mangoWEEB","image_id":95284},{"match":"mangoSubGoal","image_id":98378},{"match":"mangoU","image_id":98695},{"match":"mangoS","image_id":98696},{"match":"mangoA","image_id":98697}]}
+{
+  "name": "twitch-sub-mang0",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mangoForty",
+      "image_id": 28700
+    },
+    {
+      "match": "mangoBANGER",
+      "image_id": 28701
+    },
+    {
+      "match": "mangoBaby",
+      "image_id": 15163
+    },
+    {
+      "match": "mangoCloud9",
+      "image_id": 15164
+    },
+    {
+      "match": "mangoFox",
+      "image_id": 15165
+    },
+    {
+      "match": "mangoFalco",
+      "image_id": 15166
+    },
+    {
+      "match": "mangoAT",
+      "image_id": 20386
+    },
+    {
+      "match": "mangoUSA",
+      "image_id": 20387
+    },
+    {
+      "match": "mangoChamp",
+      "image_id": 24983
+    },
+    {
+      "match": "mangoScorp",
+      "image_id": 24984
+    },
+    {
+      "match": "mangoPog",
+      "image_id": 81426
+    },
+    {
+      "match": "mangoBUSTER",
+      "image_id": 36469
+    },
+    {
+      "match": "mango19",
+      "image_id": 36468
+    },
+    {
+      "match": "mangoAWP",
+      "image_id": 39793
+    },
+    {
+      "match": "mangoW",
+      "image_id": 88281
+    },
+    {
+      "match": "mangoKrey",
+      "image_id": 45241
+    },
+    {
+      "match": "mangoWiener",
+      "image_id": 49150
+    },
+    {
+      "match": "mangoHamburgers",
+      "image_id": 49346
+    },
+    {
+      "match": "mangoANGLE",
+      "image_id": 61817
+    },
+    {
+      "match": "mangoAwCrud",
+      "image_id": 70602
+    },
+    {
+      "match": "mangoNeo",
+      "image_id": 84600
+    },
+    {
+      "match": "mangoRIP",
+      "image_id": 85173
+    },
+    {
+      "match": "mangoL8R",
+      "image_id": 87498
+    },
+    {
+      "match": "mangoDOWN",
+      "image_id": 89561
+    },
+    {
+      "match": "mangoRun",
+      "image_id": 92366
+    },
+    {
+      "match": "mangoWEEB",
+      "image_id": 95284
+    },
+    {
+      "match": "mangoSubGoal",
+      "image_id": 98378
+    },
+    {
+      "match": "mangoU",
+      "image_id": 98695
+    },
+    {
+      "match": "mangoS",
+      "image_id": 98696
+    },
+    {
+      "match": "mangoA",
+      "image_id": 98697
+    }
+  ]
+}

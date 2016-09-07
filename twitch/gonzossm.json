@@ -1,1 +1,39 @@
-{"name":"twitch-sub-gonzossm","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ssmSnake","image_id":10525},{"match":"ssmBert","image_id":10526},{"match":"ssmKappa","image_id":10649},{"match":"ssmSlam","image_id":10651},{"match":"ssmSalt","image_id":12018},{"match":"ssmGaren","image_id":12202},{"match":"ssmDoge","image_id":12200},{"match":"ssmPay","image_id":12239}]}
+{
+  "name": "twitch-sub-gonzossm",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ssmSnake",
+      "image_id": 10525
+    },
+    {
+      "match": "ssmBert",
+      "image_id": 10526
+    },
+    {
+      "match": "ssmKappa",
+      "image_id": 10649
+    },
+    {
+      "match": "ssmSlam",
+      "image_id": 10651
+    },
+    {
+      "match": "ssmSalt",
+      "image_id": 12018
+    },
+    {
+      "match": "ssmGaren",
+      "image_id": 12202
+    },
+    {
+      "match": "ssmDoge",
+      "image_id": 12200
+    },
+    {
+      "match": "ssmPay",
+      "image_id": 12239
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-turknukem","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"turkATA","image_id":3103},{"match":"turkBAN","image_id":3133},{"match":"turkFACE","image_id":3132},{"match":"turkNUKE","image_id":3100},{"match":"turkBABY","image_id":3251},{"match":"turkNAH","image_id":3252}]}
+{
+  "name": "twitch-sub-turknukem",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "turkATA",
+      "image_id": 3103
+    },
+    {
+      "match": "turkBAN",
+      "image_id": 3133
+    },
+    {
+      "match": "turkFACE",
+      "image_id": 3132
+    },
+    {
+      "match": "turkNUKE",
+      "image_id": 3100
+    },
+    {
+      "match": "turkBABY",
+      "image_id": 3251
+    },
+    {
+      "match": "turkNAH",
+      "image_id": 3252
+    }
+  ]
+}

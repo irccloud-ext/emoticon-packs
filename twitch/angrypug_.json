@@ -1,1 +1,103 @@
-{"name":"twitch-sub-angrypug_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pugDono","image_id":83516},{"match":"pugSea","image_id":108431},{"match":"pugLove","image_id":55101},{"match":"pugHype","image_id":54977},{"match":"pugRekt","image_id":54992},{"match":"pugTw","image_id":57960},{"match":"pugTato","image_id":72073},{"match":"pug1","image_id":64783},{"match":"pugLego","image_id":64788},{"match":"pugThump","image_id":64781},{"match":"pugB","image_id":71686},{"match":"pugLife","image_id":72919},{"match":"pugRip","image_id":74524},{"match":"pugTerm","image_id":73510},{"match":"pugSas","image_id":77451},{"match":"pugSaf","image_id":110157},{"match":"pug8","image_id":110135},{"match":"pugTrap","image_id":104969},{"match":"pugHook","image_id":107368},{"match":"pugNike","image_id":104673},{"match":"pugWow","image_id":101488},{"match":"pugDu","image_id":106999},{"match":"pugK","image_id":107000},{"match":"pugAC","image_id":108257}]}
+{
+  "name": "twitch-sub-angrypug_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pugDono",
+      "image_id": 83516
+    },
+    {
+      "match": "pugSea",
+      "image_id": 108431
+    },
+    {
+      "match": "pugLove",
+      "image_id": 55101
+    },
+    {
+      "match": "pugHype",
+      "image_id": 54977
+    },
+    {
+      "match": "pugRekt",
+      "image_id": 54992
+    },
+    {
+      "match": "pugTw",
+      "image_id": 57960
+    },
+    {
+      "match": "pugTato",
+      "image_id": 72073
+    },
+    {
+      "match": "pug1",
+      "image_id": 64783
+    },
+    {
+      "match": "pugLego",
+      "image_id": 64788
+    },
+    {
+      "match": "pugThump",
+      "image_id": 64781
+    },
+    {
+      "match": "pugB",
+      "image_id": 71686
+    },
+    {
+      "match": "pugLife",
+      "image_id": 72919
+    },
+    {
+      "match": "pugRip",
+      "image_id": 74524
+    },
+    {
+      "match": "pugTerm",
+      "image_id": 73510
+    },
+    {
+      "match": "pugSas",
+      "image_id": 77451
+    },
+    {
+      "match": "pugSaf",
+      "image_id": 110157
+    },
+    {
+      "match": "pug8",
+      "image_id": 110135
+    },
+    {
+      "match": "pugTrap",
+      "image_id": 104969
+    },
+    {
+      "match": "pugHook",
+      "image_id": 107368
+    },
+    {
+      "match": "pugNike",
+      "image_id": 104673
+    },
+    {
+      "match": "pugWow",
+      "image_id": 101488
+    },
+    {
+      "match": "pugDu",
+      "image_id": 106999
+    },
+    {
+      "match": "pugK",
+      "image_id": 107000
+    },
+    {
+      "match": "pugAC",
+      "image_id": 108257
+    }
+  ]
+}

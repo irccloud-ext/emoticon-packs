@@ -1,1 +1,39 @@
-{"name":"twitch-sub-geepm","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gpmKey","image_id":79190},{"match":"gpmBuff","image_id":84663},{"match":"gpm5","image_id":90155},{"match":"gpmBanned","image_id":85520},{"match":"gpmRiku","image_id":78752},{"match":"gpmApple","image_id":79617},{"match":"gpmSalt","image_id":104586},{"match":"gpmBuffR","image_id":85259}]}
+{
+  "name": "twitch-sub-geepm",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gpmKey",
+      "image_id": 79190
+    },
+    {
+      "match": "gpmBuff",
+      "image_id": 84663
+    },
+    {
+      "match": "gpm5",
+      "image_id": 90155
+    },
+    {
+      "match": "gpmBanned",
+      "image_id": 85520
+    },
+    {
+      "match": "gpmRiku",
+      "image_id": 78752
+    },
+    {
+      "match": "gpmApple",
+      "image_id": 79617
+    },
+    {
+      "match": "gpmSalt",
+      "image_id": 104586
+    },
+    {
+      "match": "gpmBuffR",
+      "image_id": 85259
+    }
+  ]
+}

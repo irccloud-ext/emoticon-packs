@@ -1,1 +1,27 @@
-{"name":"twitch-sub-testrunner","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bakaTR","image_id":1380},{"match":"bakaMariMadas","image_id":1378},{"match":"bakaBeep","image_id":1379},{"match":"bakaSensei","image_id":10170},{"match":"bakaDouble","image_id":10171}]}
+{
+  "name": "twitch-sub-testrunner",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bakaTR",
+      "image_id": 1380
+    },
+    {
+      "match": "bakaMariMadas",
+      "image_id": 1378
+    },
+    {
+      "match": "bakaBeep",
+      "image_id": 1379
+    },
+    {
+      "match": "bakaSensei",
+      "image_id": 10170
+    },
+    {
+      "match": "bakaDouble",
+      "image_id": 10171
+    }
+  ]
+}

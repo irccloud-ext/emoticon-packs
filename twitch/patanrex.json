@@ -1,1 +1,31 @@
-{"name":"twitch-sub-patanrex","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"peitanGool","image_id":91055},{"match":"peitanOK","image_id":82403},{"match":"peitanGOL","image_id":82402},{"match":"peitanKappa","image_id":90667},{"match":"peitanRAGE","image_id":97322},{"match":"peitanFIVE","image_id":97323}]}
+{
+  "name": "twitch-sub-patanrex",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "peitanGool",
+      "image_id": 91055
+    },
+    {
+      "match": "peitanOK",
+      "image_id": 82403
+    },
+    {
+      "match": "peitanGOL",
+      "image_id": 82402
+    },
+    {
+      "match": "peitanKappa",
+      "image_id": 90667
+    },
+    {
+      "match": "peitanRAGE",
+      "image_id": 97322
+    },
+    {
+      "match": "peitanFIVE",
+      "image_id": 97323
+    }
+  ]
+}

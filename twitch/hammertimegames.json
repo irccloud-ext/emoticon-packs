@@ -1,1 +1,15 @@
-{"name":"twitch-sub-hammertimegames","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hmrJennyboo","image_id":81234},{"match":"hmrHamma","image_id":81233}]}
+{
+  "name": "twitch-sub-hammertimegames",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hmrJennyboo",
+      "image_id": 81234
+    },
+    {
+      "match": "hmrHamma",
+      "image_id": 81233
+    }
+  ]
+}

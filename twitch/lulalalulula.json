@@ -1,1 +1,47 @@
-{"name":"twitch-sub-lulalalulula","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"luluflyLoser","image_id":86169},{"match":"luluflyFat","image_id":72027},{"match":"luluflyCheongsam","image_id":50166},{"match":"luluflyPika87","image_id":50165},{"match":"luluflyDo","image_id":50274},{"match":"luluflyLoveu","image_id":71276},{"match":"luluflyEye","image_id":71914},{"match":"luluflyLuffy","image_id":85481},{"match":"luluflyE04","image_id":85480},{"match":"luluflyTeacher","image_id":86167}]}
+{
+  "name": "twitch-sub-lulalalulula",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "luluflyLoser",
+      "image_id": 86169
+    },
+    {
+      "match": "luluflyFat",
+      "image_id": 72027
+    },
+    {
+      "match": "luluflyCheongsam",
+      "image_id": 50166
+    },
+    {
+      "match": "luluflyPika87",
+      "image_id": 50165
+    },
+    {
+      "match": "luluflyDo",
+      "image_id": 50274
+    },
+    {
+      "match": "luluflyLoveu",
+      "image_id": 71276
+    },
+    {
+      "match": "luluflyEye",
+      "image_id": 71914
+    },
+    {
+      "match": "luluflyLuffy",
+      "image_id": 85481
+    },
+    {
+      "match": "luluflyE04",
+      "image_id": 85480
+    },
+    {
+      "match": "luluflyTeacher",
+      "image_id": 86167
+    }
+  ]
+}

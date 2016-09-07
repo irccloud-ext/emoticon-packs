@@ -1,1 +1,39 @@
-{"name":"twitch-sub-datgamernation","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"datgRage","image_id":99239},{"match":"datgHype","image_id":99231},{"match":"datgRip","image_id":99240},{"match":"datgBday","image_id":99230},{"match":"datgSalt","image_id":100846},{"match":"datgHi","image_id":99483},{"match":"datgBoom","image_id":99296},{"match":"datgDatgHeart","image_id":105936}]}
+{
+  "name": "twitch-sub-datgamernation",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "datgRage",
+      "image_id": 99239
+    },
+    {
+      "match": "datgHype",
+      "image_id": 99231
+    },
+    {
+      "match": "datgRip",
+      "image_id": 99240
+    },
+    {
+      "match": "datgBday",
+      "image_id": 99230
+    },
+    {
+      "match": "datgSalt",
+      "image_id": 100846
+    },
+    {
+      "match": "datgHi",
+      "image_id": 99483
+    },
+    {
+      "match": "datgBoom",
+      "image_id": 99296
+    },
+    {
+      "match": "datgDatgHeart",
+      "image_id": 105936
+    }
+  ]
+}

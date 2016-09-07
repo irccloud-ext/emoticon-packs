@@ -1,1 +1,19 @@
-{"name":"twitch-sub-mef_f","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mefPool","image_id":111637},{"match":"mefTopdeck","image_id":111636},{"match":"mefSarcasm","image_id":111635}]}
+{
+  "name": "twitch-sub-mef_f",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mefPool",
+      "image_id": 111637
+    },
+    {
+      "match": "mefTopdeck",
+      "image_id": 111636
+    },
+    {
+      "match": "mefSarcasm",
+      "image_id": 111635
+    }
+  ]
+}

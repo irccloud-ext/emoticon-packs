@@ -1,1 +1,59 @@
-{"name":"twitch-sub-wingsofdeath","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wingJailstorm","image_id":3701},{"match":"wingAFK","image_id":10376},{"match":"wingRIP","image_id":12817},{"match":"wingKAPPADIN","image_id":33125},{"match":"wingREKT","image_id":34282},{"match":"wingRAGE","image_id":31674},{"match":"wingPOLICE","image_id":33895},{"match":"wingWAFFLE","image_id":33896},{"match":"wingBOOTY","image_id":33776},{"match":"wingWELCOME","image_id":32662},{"match":"wingLAG","image_id":41851},{"match":"wingFOOL","image_id":41852},{"match":"wingKNEE","image_id":94181}]}
+{
+  "name": "twitch-sub-wingsofdeath",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wingJailstorm",
+      "image_id": 3701
+    },
+    {
+      "match": "wingAFK",
+      "image_id": 10376
+    },
+    {
+      "match": "wingRIP",
+      "image_id": 12817
+    },
+    {
+      "match": "wingKAPPADIN",
+      "image_id": 33125
+    },
+    {
+      "match": "wingREKT",
+      "image_id": 34282
+    },
+    {
+      "match": "wingRAGE",
+      "image_id": 31674
+    },
+    {
+      "match": "wingPOLICE",
+      "image_id": 33895
+    },
+    {
+      "match": "wingWAFFLE",
+      "image_id": 33896
+    },
+    {
+      "match": "wingBOOTY",
+      "image_id": 33776
+    },
+    {
+      "match": "wingWELCOME",
+      "image_id": 32662
+    },
+    {
+      "match": "wingLAG",
+      "image_id": 41851
+    },
+    {
+      "match": "wingFOOL",
+      "image_id": 41852
+    },
+    {
+      "match": "wingKNEE",
+      "image_id": 94181
+    }
+  ]
+}

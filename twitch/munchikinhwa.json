@@ -1,1 +1,23 @@
-{"name":"twitch-sub-munchikinhwa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"munchiSoso","image_id":105613},{"match":"munchiOkay","image_id":105614},{"match":"munchiGood","image_id":105615},{"match":"munchiSad","image_id":105616}]}
+{
+  "name": "twitch-sub-munchikinhwa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "munchiSoso",
+      "image_id": 105613
+    },
+    {
+      "match": "munchiOkay",
+      "image_id": 105614
+    },
+    {
+      "match": "munchiGood",
+      "image_id": 105615
+    },
+    {
+      "match": "munchiSad",
+      "image_id": 105616
+    }
+  ]
+}

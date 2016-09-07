@@ -1,1 +1,23 @@
-{"name":"twitch-sub-indexosu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"indexHype","image_id":72006},{"match":"indexNa","image_id":93950},{"match":"indexOsu","image_id":59756},{"match":"indexLove","image_id":70778}]}
+{
+  "name": "twitch-sub-indexosu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "indexHype",
+      "image_id": 72006
+    },
+    {
+      "match": "indexNa",
+      "image_id": 93950
+    },
+    {
+      "match": "indexOsu",
+      "image_id": 59756
+    },
+    {
+      "match": "indexLove",
+      "image_id": 70778
+    }
+  ]
+}

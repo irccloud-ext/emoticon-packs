@@ -1,1 +1,31 @@
-{"name":"twitch-sub-tokyoboi808","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tokyoSplit","image_id":6121},{"match":"tokyoWat","image_id":6120},{"match":"tokyoRage","image_id":6615},{"match":"tokyoAi","image_id":7134},{"match":"tokyoPls","image_id":7218},{"match":"tokyoLewd","image_id":84975}]}
+{
+  "name": "twitch-sub-tokyoboi808",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tokyoSplit",
+      "image_id": 6121
+    },
+    {
+      "match": "tokyoWat",
+      "image_id": 6120
+    },
+    {
+      "match": "tokyoRage",
+      "image_id": 6615
+    },
+    {
+      "match": "tokyoAi",
+      "image_id": 7134
+    },
+    {
+      "match": "tokyoPls",
+      "image_id": 7218
+    },
+    {
+      "match": "tokyoLewd",
+      "image_id": 84975
+    }
+  ]
+}

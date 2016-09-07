@@ -1,1 +1,31 @@
-{"name":"twitch-sub-atrocioucat","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"atcatRIP","image_id":101262},{"match":"atcatTHUGLIFE","image_id":101068},{"match":"atcatRPDEOUF","image_id":102443},{"match":"atcatWTF","image_id":102444},{"match":"atcatHELLOW","image_id":100702},{"match":"atcatNEWSUB","image_id":100805}]}
+{
+  "name": "twitch-sub-atrocioucat",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "atcatRIP",
+      "image_id": 101262
+    },
+    {
+      "match": "atcatTHUGLIFE",
+      "image_id": 101068
+    },
+    {
+      "match": "atcatRPDEOUF",
+      "image_id": 102443
+    },
+    {
+      "match": "atcatWTF",
+      "image_id": 102444
+    },
+    {
+      "match": "atcatHELLOW",
+      "image_id": 100702
+    },
+    {
+      "match": "atcatNEWSUB",
+      "image_id": 100805
+    }
+  ]
+}

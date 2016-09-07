@@ -1,1 +1,23 @@
-{"name":"twitch-sub-dotacinema","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dcdcBOOM","image_id":2070},{"match":"dcdcTOASTY","image_id":1167},{"match":"dcdcDC","image_id":2680},{"match":"dcdcHORSE","image_id":29369}]}
+{
+  "name": "twitch-sub-dotacinema",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dcdcBOOM",
+      "image_id": 2070
+    },
+    {
+      "match": "dcdcTOASTY",
+      "image_id": 1167
+    },
+    {
+      "match": "dcdcDC",
+      "image_id": 2680
+    },
+    {
+      "match": "dcdcHORSE",
+      "image_id": 29369
+    }
+  ]
+}

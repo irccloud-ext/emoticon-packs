@@ -1,1 +1,27 @@
-{"name":"twitch-sub-uneedseattlebum","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ggmGGM","image_id":88902},{"match":"ggmSubhype","image_id":88901},{"match":"ggmGapper","image_id":88898},{"match":"ggmStevieRead","image_id":88900},{"match":"ggmRespek","image_id":98663}]}
+{
+  "name": "twitch-sub-uneedseattlebum",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ggmGGM",
+      "image_id": 88902
+    },
+    {
+      "match": "ggmSubhype",
+      "image_id": 88901
+    },
+    {
+      "match": "ggmGapper",
+      "image_id": 88898
+    },
+    {
+      "match": "ggmStevieRead",
+      "image_id": 88900
+    },
+    {
+      "match": "ggmRespek",
+      "image_id": 98663
+    }
+  ]
+}

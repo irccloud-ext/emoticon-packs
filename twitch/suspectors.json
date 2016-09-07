@@ -1,1 +1,27 @@
-{"name":"twitch-sub-suspectors","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"suspectEg","image_id":95112},{"match":"suspectKappa","image_id":95115},{"match":"suspectSub","image_id":95117},{"match":"suspectHear","image_id":95113},{"match":"suspectWoo","image_id":95116}]}
+{
+  "name": "twitch-sub-suspectors",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "suspectEg",
+      "image_id": 95112
+    },
+    {
+      "match": "suspectKappa",
+      "image_id": 95115
+    },
+    {
+      "match": "suspectSub",
+      "image_id": 95117
+    },
+    {
+      "match": "suspectHear",
+      "image_id": 95113
+    },
+    {
+      "match": "suspectWoo",
+      "image_id": 95116
+    }
+  ]
+}

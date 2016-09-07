@@ -1,1 +1,39 @@
-{"name":"twitch-sub-blackufa_twitch","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"blackufaZloi","image_id":109822},{"match":"blackufaMLG","image_id":109820},{"match":"blackufaKlevo","image_id":109819},{"match":"blackufaBivaet","image_id":109817},{"match":"blackufaTosya","image_id":68360},{"match":"blackufaWTF","image_id":109821},{"match":"blackufaOk","image_id":109818}]}
+{
+  "name": "twitch-sub-blackufa_twitch",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "blackufaZloi",
+      "image_id": 109822
+    },
+    {
+      "match": "blackufaMLG",
+      "image_id": 109820
+    },
+    {
+      "match": "blackufaKlevo",
+      "image_id": 109819
+    },
+    {
+      "match": "blackufaBivaet",
+      "image_id": 109817
+    },
+    {
+      "match": "blackufaTosya",
+      "image_id": 68360
+    },
+    {
+      "match": "blackufaWTF",
+      "image_id": 109821
+    },
+    {
+      "match": "blackufaOk",
+      "image_id": 109818
+    },
+    {
+      "match": "blackufaPRIDE",
+      "image_id": 112399
+    }
+  ]
+}

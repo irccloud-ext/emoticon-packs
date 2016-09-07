@@ -1,1 +1,39 @@
-{"name":"twitch-sub-scetchlink","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"scetch7","image_id":99087},{"match":"scetchSalt","image_id":99089},{"match":"scetchThump","image_id":98225},{"match":"scetchHi","image_id":98186},{"match":"scetchHeart","image_id":98184},{"match":"scetchGG","image_id":98183},{"match":"scetchLewd","image_id":98182},{"match":"scetchFail","image_id":98338}]}
+{
+  "name": "twitch-sub-scetchlink",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "scetch7",
+      "image_id": 99087
+    },
+    {
+      "match": "scetchSalt",
+      "image_id": 99089
+    },
+    {
+      "match": "scetchThump",
+      "image_id": 98225
+    },
+    {
+      "match": "scetchHi",
+      "image_id": 98186
+    },
+    {
+      "match": "scetchHeart",
+      "image_id": 98184
+    },
+    {
+      "match": "scetchGG",
+      "image_id": 98183
+    },
+    {
+      "match": "scetchLewd",
+      "image_id": 98182
+    },
+    {
+      "match": "scetchFail",
+      "image_id": 98338
+    }
+  ]
+}

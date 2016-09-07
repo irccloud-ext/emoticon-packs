@@ -1,1 +1,23 @@
-{"name":"twitch-sub-proxyqq","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"proxyEU","image_id":11339},{"match":"proxyNA","image_id":11340},{"match":"proxyRage","image_id":29230},{"match":"proxySad","image_id":29530}]}
+{
+  "name": "twitch-sub-proxyqq",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "proxyEU",
+      "image_id": 11339
+    },
+    {
+      "match": "proxyNA",
+      "image_id": 11340
+    },
+    {
+      "match": "proxyRage",
+      "image_id": 29230
+    },
+    {
+      "match": "proxySad",
+      "image_id": 29530
+    }
+  ]
+}

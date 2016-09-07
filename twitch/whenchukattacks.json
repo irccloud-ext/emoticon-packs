@@ -1,1 +1,35 @@
-{"name":"twitch-sub-whenchukattacks","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chukFace","image_id":1239},{"match":"chukMeh","image_id":1240},{"match":"chukHands","image_id":1981},{"match":"chukCup","image_id":2129},{"match":"chukBacon","image_id":5277},{"match":"chukDeer","image_id":11567},{"match":"chukMillie","image_id":5278}]}
+{
+  "name": "twitch-sub-whenchukattacks",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chukFace",
+      "image_id": 1239
+    },
+    {
+      "match": "chukMeh",
+      "image_id": 1240
+    },
+    {
+      "match": "chukHands",
+      "image_id": 1981
+    },
+    {
+      "match": "chukCup",
+      "image_id": 2129
+    },
+    {
+      "match": "chukBacon",
+      "image_id": 5277
+    },
+    {
+      "match": "chukDeer",
+      "image_id": 11567
+    },
+    {
+      "match": "chukMillie",
+      "image_id": 5278
+    }
+  ]
+}

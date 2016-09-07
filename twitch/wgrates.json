@@ -1,1 +1,47 @@
-{"name":"twitch-sub-wgrates","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wgrLUCK","image_id":91041},{"match":"wgrLURK","image_id":91042},{"match":"wgrRAID","image_id":91043},{"match":"wgr7","image_id":91044},{"match":"wgrLOVE","image_id":89510},{"match":"wgrBUTT","image_id":89512},{"match":"wgrHYPE","image_id":89513},{"match":"wgrLEWD","image_id":89675},{"match":"wgrSOCKS","image_id":92750},{"match":"wgrCOFFEE","image_id":92754}]}
+{
+  "name": "twitch-sub-wgrates",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wgrLUCK",
+      "image_id": 91041
+    },
+    {
+      "match": "wgrLURK",
+      "image_id": 91042
+    },
+    {
+      "match": "wgrRAID",
+      "image_id": 91043
+    },
+    {
+      "match": "wgr7",
+      "image_id": 91044
+    },
+    {
+      "match": "wgrLOVE",
+      "image_id": 89510
+    },
+    {
+      "match": "wgrBUTT",
+      "image_id": 89512
+    },
+    {
+      "match": "wgrHYPE",
+      "image_id": 89513
+    },
+    {
+      "match": "wgrLEWD",
+      "image_id": 89675
+    },
+    {
+      "match": "wgrSOCKS",
+      "image_id": 92750
+    },
+    {
+      "match": "wgrCOFFEE",
+      "image_id": 92754
+    }
+  ]
+}

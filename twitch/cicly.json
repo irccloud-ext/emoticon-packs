@@ -1,1 +1,23 @@
-{"name":"twitch-sub-cicly","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cicLy","image_id":28801},{"match":"cicDog","image_id":28798},{"match":"cicClown","image_id":28799},{"match":"cicPuke","image_id":28800}]}
+{
+  "name": "twitch-sub-cicly",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cicLy",
+      "image_id": 28801
+    },
+    {
+      "match": "cicDog",
+      "image_id": 28798
+    },
+    {
+      "match": "cicClown",
+      "image_id": 28799
+    },
+    {
+      "match": "cicPuke",
+      "image_id": 28800
+    }
+  ]
+}

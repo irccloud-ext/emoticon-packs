@@ -1,1 +1,39 @@
-{"name":"twitch-sub-exu_kefir","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kefirBeast","image_id":26022},{"match":"kefirSmile","image_id":37435},{"match":"kefirLight","image_id":37432},{"match":"kefirKing","image_id":37433},{"match":"kefirEasy","image_id":37434},{"match":"kefirPower","image_id":36583},{"match":"kefirSub","image_id":36581},{"match":"kefirWhat","image_id":36579}]}
+{
+  "name": "twitch-sub-exu_kefir",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kefirBeast",
+      "image_id": 26022
+    },
+    {
+      "match": "kefirSmile",
+      "image_id": 37435
+    },
+    {
+      "match": "kefirLight",
+      "image_id": 37432
+    },
+    {
+      "match": "kefirKing",
+      "image_id": 37433
+    },
+    {
+      "match": "kefirEasy",
+      "image_id": 37434
+    },
+    {
+      "match": "kefirPower",
+      "image_id": 36583
+    },
+    {
+      "match": "kefirSub",
+      "image_id": 36581
+    },
+    {
+      "match": "kefirWhat",
+      "image_id": 36579
+    }
+  ]
+}

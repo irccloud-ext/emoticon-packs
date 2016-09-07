@@ -1,1 +1,23 @@
-{"name":"twitch-sub-silentuschi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"uschiToothless","image_id":53652},{"match":"uschiBen","image_id":103231},{"match":"uschiHype","image_id":66458},{"match":"uschiRage","image_id":104261}]}
+{
+  "name": "twitch-sub-silentuschi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "uschiToothless",
+      "image_id": 53652
+    },
+    {
+      "match": "uschiBen",
+      "image_id": 103231
+    },
+    {
+      "match": "uschiHype",
+      "image_id": 66458
+    },
+    {
+      "match": "uschiRage",
+      "image_id": 104261
+    }
+  ]
+}

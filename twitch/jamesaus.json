@@ -1,1 +1,19 @@
-{"name":"twitch-sub-jamesaus","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jamesFIREUP","image_id":59924},{"match":"jamesPeoplesChamp","image_id":60222},{"match":"jamesIMMUNITY","image_id":63827}]}
+{
+  "name": "twitch-sub-jamesaus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jamesFIREUP",
+      "image_id": 59924
+    },
+    {
+      "match": "jamesPeoplesChamp",
+      "image_id": 60222
+    },
+    {
+      "match": "jamesIMMUNITY",
+      "image_id": 63827
+    }
+  ]
+}

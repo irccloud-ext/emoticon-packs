@@ -1,1 +1,27 @@
-{"name":"twitch-sub-gsl_2014_s3","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"expAcurse","image_id":17945},{"match":"expAmove","image_id":17946},{"match":"expKpm","image_id":17947},{"match":"expOP","image_id":17948},{"match":"expPP","image_id":17950}]}
+{
+  "name": "twitch-sub-gsl_2014_s3",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "expAcurse",
+      "image_id": 17945
+    },
+    {
+      "match": "expAmove",
+      "image_id": 17946
+    },
+    {
+      "match": "expKpm",
+      "image_id": 17947
+    },
+    {
+      "match": "expOP",
+      "image_id": 17948
+    },
+    {
+      "match": "expPP",
+      "image_id": 17950
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-scarfacedohs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"scarhsBOYS","image_id":29679},{"match":"scarhsMISS","image_id":29723},{"match":"scarhsSAD","image_id":27586},{"match":"scarhsCOMO","image_id":29733}]}
+{
+  "name": "twitch-sub-scarfacedohs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "scarhsBOYS",
+      "image_id": 29679
+    },
+    {
+      "match": "scarhsMISS",
+      "image_id": 29723
+    },
+    {
+      "match": "scarhsSAD",
+      "image_id": 27586
+    },
+    {
+      "match": "scarhsCOMO",
+      "image_id": 29733
+    }
+  ]
+}

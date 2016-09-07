@@ -1,1 +1,23 @@
-{"name":"twitch-sub-jablol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jabH","image_id":39951},{"match":"jabBoom","image_id":40157},{"match":"jabRoar","image_id":40404},{"match":"jabHug","image_id":69879}]}
+{
+  "name": "twitch-sub-jablol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jabH",
+      "image_id": 39951
+    },
+    {
+      "match": "jabBoom",
+      "image_id": 40157
+    },
+    {
+      "match": "jabRoar",
+      "image_id": 40404
+    },
+    {
+      "match": "jabHug",
+      "image_id": 69879
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-lillekanin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lilKanin","image_id":26577},{"match":"lilLama","image_id":32752},{"match":"lilRB","image_id":35584},{"match":"lilGirl","image_id":36479}]}
+{
+  "name": "twitch-sub-lillekanin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lilKanin",
+      "image_id": 26577
+    },
+    {
+      "match": "lilLama",
+      "image_id": 32752
+    },
+    {
+      "match": "lilRB",
+      "image_id": 35584
+    },
+    {
+      "match": "lilGirl",
+      "image_id": 36479
+    }
+  ]
+}

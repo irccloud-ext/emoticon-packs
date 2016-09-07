@@ -1,1 +1,47 @@
-{"name":"twitch-sub-thaajeff","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jffKanister","image_id":111628},{"match":"jffMois","image_id":107038},{"match":"jffHype","image_id":106917},{"match":"jffGG","image_id":107471},{"match":"jffLUL","image_id":107461},{"match":"jffScoots","image_id":107850},{"match":"jffHA","image_id":109419},{"match":"jffThug","image_id":109417},{"match":"jffDone","image_id":109146},{"match":"jffPog","image_id":109983}]}
+{
+  "name": "twitch-sub-thaajeff",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jffKanister",
+      "image_id": 111628
+    },
+    {
+      "match": "jffMois",
+      "image_id": 107038
+    },
+    {
+      "match": "jffHype",
+      "image_id": 106917
+    },
+    {
+      "match": "jffGG",
+      "image_id": 107471
+    },
+    {
+      "match": "jffLUL",
+      "image_id": 107461
+    },
+    {
+      "match": "jffScoots",
+      "image_id": 107850
+    },
+    {
+      "match": "jffHA",
+      "image_id": 109419
+    },
+    {
+      "match": "jffThug",
+      "image_id": 109417
+    },
+    {
+      "match": "jffDone",
+      "image_id": 109146
+    },
+    {
+      "match": "jffPog",
+      "image_id": 109983
+    }
+  ]
+}

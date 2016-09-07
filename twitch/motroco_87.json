@@ -1,1 +1,31 @@
-{"name":"twitch-sub-motroco_87","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"motrocoFanta","image_id":28787},{"match":"motrocoSwag","image_id":28835},{"match":"motrocoDraven","image_id":29105},{"match":"motrocoBuitresenyal","image_id":29103},{"match":"motrocoOso","image_id":54300},{"match":"motrocoCono","image_id":54301}]}
+{
+  "name": "twitch-sub-motroco_87",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "motrocoFanta",
+      "image_id": 28787
+    },
+    {
+      "match": "motrocoSwag",
+      "image_id": 28835
+    },
+    {
+      "match": "motrocoDraven",
+      "image_id": 29105
+    },
+    {
+      "match": "motrocoBuitresenyal",
+      "image_id": 29103
+    },
+    {
+      "match": "motrocoOso",
+      "image_id": 54300
+    },
+    {
+      "match": "motrocoCono",
+      "image_id": 54301
+    }
+  ]
+}

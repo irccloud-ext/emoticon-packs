@@ -1,1 +1,31 @@
-{"name":"twitch-sub-shadowbeatz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"beatzKappa","image_id":63023},{"match":"beatzAganos","image_id":86586},{"match":"beatzLucky","image_id":74957},{"match":"beatzMets","image_id":71297},{"match":"beatzDesu","image_id":75011},{"match":"beatzAllie","image_id":87475}]}
+{
+  "name": "twitch-sub-shadowbeatz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "beatzKappa",
+      "image_id": 63023
+    },
+    {
+      "match": "beatzAganos",
+      "image_id": 86586
+    },
+    {
+      "match": "beatzLucky",
+      "image_id": 74957
+    },
+    {
+      "match": "beatzMets",
+      "image_id": 71297
+    },
+    {
+      "match": "beatzDesu",
+      "image_id": 75011
+    },
+    {
+      "match": "beatzAllie",
+      "image_id": 87475
+    }
+  ]
+}

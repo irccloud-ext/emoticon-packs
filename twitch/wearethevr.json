@@ -1,1 +1,11 @@
-{"name":"twitch-sub-wearethevr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"thevrPisti","image_id":21350}]}
+{
+  "name": "twitch-sub-wearethevr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "thevrPisti",
+      "image_id": 21350
+    }
+  ]
+}

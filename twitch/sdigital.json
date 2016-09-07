@@ -1,1 +1,39 @@
-{"name":"twitch-sub-sdigital","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sonyBro","image_id":60008},{"match":"sonyKill","image_id":34666},{"match":"sonyW","image_id":60302},{"match":"sonyRage","image_id":68686},{"match":"sonyWolf","image_id":102678},{"match":"sonyYo","image_id":102639},{"match":"sonyL","image_id":102638},{"match":"sonyGiggle","image_id":101190}]}
+{
+  "name": "twitch-sub-sdigital",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sonyBro",
+      "image_id": 60008
+    },
+    {
+      "match": "sonyKill",
+      "image_id": 34666
+    },
+    {
+      "match": "sonyW",
+      "image_id": 60302
+    },
+    {
+      "match": "sonyRage",
+      "image_id": 68686
+    },
+    {
+      "match": "sonyWolf",
+      "image_id": 102678
+    },
+    {
+      "match": "sonyYo",
+      "image_id": 102639
+    },
+    {
+      "match": "sonyL",
+      "image_id": 102638
+    },
+    {
+      "match": "sonyGiggle",
+      "image_id": 101190
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-carritoskami","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mismoKappa","image_id":97764},{"match":"mismoRabo","image_id":97811},{"match":"mismoFichas","image_id":97765},{"match":"mismoFlash","image_id":97805}]}
+{
+  "name": "twitch-sub-carritoskami",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mismoKappa",
+      "image_id": 97764
+    },
+    {
+      "match": "mismoRabo",
+      "image_id": 97811
+    },
+    {
+      "match": "mismoFichas",
+      "image_id": 97765
+    },
+    {
+      "match": "mismoFlash",
+      "image_id": 97805
+    }
+  ]
+}

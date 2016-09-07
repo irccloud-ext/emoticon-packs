@@ -1,1 +1,23 @@
-{"name":"twitch-sub-cornel","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cornelUjelly","image_id":72977},{"match":"cornelHype","image_id":81232},{"match":"cornelPingu","image_id":72978},{"match":"cornelPink","image_id":80842}]}
+{
+  "name": "twitch-sub-cornel",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cornelUjelly",
+      "image_id": 72977
+    },
+    {
+      "match": "cornelHype",
+      "image_id": 81232
+    },
+    {
+      "match": "cornelPingu",
+      "image_id": 72978
+    },
+    {
+      "match": "cornelPink",
+      "image_id": 80842
+    }
+  ]
+}

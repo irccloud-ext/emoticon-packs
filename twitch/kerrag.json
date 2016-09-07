@@ -1,1 +1,15 @@
-{"name":"twitch-sub-kerrag","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kerragLol","image_id":21338},{"match":"kerragGG","image_id":21339}]}
+{
+  "name": "twitch-sub-kerrag",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kerragLol",
+      "image_id": 21338
+    },
+    {
+      "match": "kerragGG",
+      "image_id": 21339
+    }
+  ]
+}

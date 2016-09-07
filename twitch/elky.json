@@ -1,1 +1,47 @@
-{"name":"twitch-sub-elky","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"elkyGG","image_id":50899},{"match":"elkySosick","image_id":40221},{"match":"elkyShades","image_id":40220},{"match":"elkyRage","image_id":45434},{"match":"elkyHi","image_id":45495},{"match":"elkyBoom","image_id":51508},{"match":"elkyOnetime","image_id":51513},{"match":"elkyLove","image_id":51396},{"match":"elkyNuts","image_id":51377},{"match":"elkySickfish","image_id":51397}]}
+{
+  "name": "twitch-sub-elky",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "elkyGG",
+      "image_id": 50899
+    },
+    {
+      "match": "elkySosick",
+      "image_id": 40221
+    },
+    {
+      "match": "elkyShades",
+      "image_id": 40220
+    },
+    {
+      "match": "elkyRage",
+      "image_id": 45434
+    },
+    {
+      "match": "elkyHi",
+      "image_id": 45495
+    },
+    {
+      "match": "elkyBoom",
+      "image_id": 51508
+    },
+    {
+      "match": "elkyOnetime",
+      "image_id": 51513
+    },
+    {
+      "match": "elkyLove",
+      "image_id": 51396
+    },
+    {
+      "match": "elkyNuts",
+      "image_id": 51377
+    },
+    {
+      "match": "elkySickfish",
+      "image_id": 51397
+    }
+  ]
+}

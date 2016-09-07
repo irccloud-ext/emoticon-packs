@@ -1,1 +1,23 @@
-{"name":"twitch-sub-el_bananaa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bananaLove","image_id":109604},{"match":"bananaRage","image_id":109605},{"match":"bananaGASM","image_id":108350},{"match":"bananaSUB","image_id":108326}]}
+{
+  "name": "twitch-sub-el_bananaa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bananaLove",
+      "image_id": 109604
+    },
+    {
+      "match": "bananaRage",
+      "image_id": 109605
+    },
+    {
+      "match": "bananaGASM",
+      "image_id": 108350
+    },
+    {
+      "match": "bananaSUB",
+      "image_id": 108326
+    }
+  ]
+}

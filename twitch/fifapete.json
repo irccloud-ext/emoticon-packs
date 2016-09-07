@@ -1,1 +1,39 @@
-{"name":"twitch-sub-fifapete","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fpfcCoins","image_id":18216},{"match":"fpfcPete","image_id":19091},{"match":"fpfcShots","image_id":19092},{"match":"fpfcRing","image_id":19172},{"match":"fpfcEvil","image_id":29739},{"match":"fpfcSub","image_id":29737},{"match":"fpfcRip","image_id":41417},{"match":"fpfcRage","image_id":41657}]}
+{
+  "name": "twitch-sub-fifapete",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fpfcCoins",
+      "image_id": 18216
+    },
+    {
+      "match": "fpfcPete",
+      "image_id": 19091
+    },
+    {
+      "match": "fpfcShots",
+      "image_id": 19092
+    },
+    {
+      "match": "fpfcRing",
+      "image_id": 19172
+    },
+    {
+      "match": "fpfcEvil",
+      "image_id": 29739
+    },
+    {
+      "match": "fpfcSub",
+      "image_id": 29737
+    },
+    {
+      "match": "fpfcRip",
+      "image_id": 41417
+    },
+    {
+      "match": "fpfcRage",
+      "image_id": 41657
+    }
+  ]
+}

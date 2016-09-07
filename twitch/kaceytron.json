@@ -1,1 +1,83 @@
-{"name":"twitch-sub-kaceytron","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kacey420","image_id":10636},{"match":"kaceyTron","image_id":10629},{"match":"kaceyKnight","image_id":10626},{"match":"kaceySign","image_id":11593},{"match":"kaceyToxic","image_id":11991},{"match":"kaceyTrash","image_id":11990},{"match":"kaceyWow","image_id":11992},{"match":"kaceyWut","image_id":28354},{"match":"kaceyMask","image_id":28352},{"match":"kaceyKappa","image_id":28349},{"match":"kaceyAccept","image_id":28351},{"match":"kaceyPolice","image_id":28361},{"match":"kaceyFace","image_id":32193},{"match":"kaceyFeminism","image_id":49131},{"match":"kaceySmoke","image_id":49130},{"match":"kaceyThump","image_id":49129},{"match":"kaceyUp","image_id":49128},{"match":"kaceyCrazy","image_id":49215},{"match":"kaceyFist","image_id":49253}]}
+{
+  "name": "twitch-sub-kaceytron",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kacey420",
+      "image_id": 10636
+    },
+    {
+      "match": "kaceyTron",
+      "image_id": 10629
+    },
+    {
+      "match": "kaceyKnight",
+      "image_id": 10626
+    },
+    {
+      "match": "kaceySign",
+      "image_id": 11593
+    },
+    {
+      "match": "kaceyToxic",
+      "image_id": 11991
+    },
+    {
+      "match": "kaceyTrash",
+      "image_id": 11990
+    },
+    {
+      "match": "kaceyWow",
+      "image_id": 11992
+    },
+    {
+      "match": "kaceyWut",
+      "image_id": 28354
+    },
+    {
+      "match": "kaceyMask",
+      "image_id": 28352
+    },
+    {
+      "match": "kaceyKappa",
+      "image_id": 28349
+    },
+    {
+      "match": "kaceyAccept",
+      "image_id": 28351
+    },
+    {
+      "match": "kaceyPolice",
+      "image_id": 28361
+    },
+    {
+      "match": "kaceyFace",
+      "image_id": 32193
+    },
+    {
+      "match": "kaceyFeminism",
+      "image_id": 49131
+    },
+    {
+      "match": "kaceySmoke",
+      "image_id": 49130
+    },
+    {
+      "match": "kaceyThump",
+      "image_id": 49129
+    },
+    {
+      "match": "kaceyUp",
+      "image_id": 49128
+    },
+    {
+      "match": "kaceyCrazy",
+      "image_id": 49215
+    },
+    {
+      "match": "kaceyFist",
+      "image_id": 49253
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-ptken","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ptkSashao","image_id":96509},{"match":"ptkEZ","image_id":67384},{"match":"ptkYoshi","image_id":68707},{"match":"ptkSankyou","image_id":68235},{"match":"ptkBOBI","image_id":67561},{"match":"ptkGasm","image_id":70844},{"match":"ptkPbanana","image_id":83407},{"match":"ptkHi","image_id":96048}]}
+{
+  "name": "twitch-sub-ptken",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ptkSashao",
+      "image_id": 96509
+    },
+    {
+      "match": "ptkEZ",
+      "image_id": 67384
+    },
+    {
+      "match": "ptkYoshi",
+      "image_id": 68707
+    },
+    {
+      "match": "ptkSankyou",
+      "image_id": 68235
+    },
+    {
+      "match": "ptkBOBI",
+      "image_id": 67561
+    },
+    {
+      "match": "ptkGasm",
+      "image_id": 70844
+    },
+    {
+      "match": "ptkPbanana",
+      "image_id": 83407
+    },
+    {
+      "match": "ptkHi",
+      "image_id": 96048
+    }
+  ]
+}

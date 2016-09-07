@@ -1,1 +1,19 @@
-{"name":"twitch-sub-phantasyftw","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"phanYee","image_id":25141},{"match":"phanMug","image_id":96354},{"match":"phanAim","image_id":96355}]}
+{
+  "name": "twitch-sub-phantasyftw",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "phanYee",
+      "image_id": 25141
+    },
+    {
+      "match": "phanMug",
+      "image_id": 96354
+    },
+    {
+      "match": "phanAim",
+      "image_id": 96355
+    }
+  ]
+}

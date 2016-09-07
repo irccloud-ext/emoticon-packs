@@ -1,1 +1,31 @@
-{"name":"twitch-sub-snaychannel","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"snaysubRage","image_id":96535},{"match":"snaysubHype","image_id":96586},{"match":"snaysubCool","image_id":97084},{"match":"snaysubVac","image_id":97090},{"match":"snaysubLove","image_id":99147},{"match":"snaysubLol","image_id":100056}]}
+{
+  "name": "twitch-sub-snaychannel",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "snaysubRage",
+      "image_id": 96535
+    },
+    {
+      "match": "snaysubHype",
+      "image_id": 96586
+    },
+    {
+      "match": "snaysubCool",
+      "image_id": 97084
+    },
+    {
+      "match": "snaysubVac",
+      "image_id": 97090
+    },
+    {
+      "match": "snaysubLove",
+      "image_id": 99147
+    },
+    {
+      "match": "snaysubLol",
+      "image_id": 100056
+    }
+  ]
+}

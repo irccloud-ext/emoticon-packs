@@ -1,1 +1,19 @@
-{"name":"twitch-sub-gearboxsoftware","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"clatpSurprise","image_id":2351},{"match":"clatpSad","image_id":2352},{"match":"clatpHappy","image_id":2353}]}
+{
+  "name": "twitch-sub-gearboxsoftware",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "clatpSurprise",
+      "image_id": 2351
+    },
+    {
+      "match": "clatpSad",
+      "image_id": 2352
+    },
+    {
+      "match": "clatpHappy",
+      "image_id": 2353
+    }
+  ]
+}

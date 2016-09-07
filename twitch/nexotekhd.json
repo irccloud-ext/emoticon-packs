@@ -1,1 +1,39 @@
-{"name":"twitch-sub-nexotekhd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nexoAlert","image_id":58305},{"match":"nexoHeart","image_id":59309},{"match":"nexoEZ","image_id":59313},{"match":"nexoRage","image_id":76859},{"match":"nexoMove","image_id":76854},{"match":"nexoHype","image_id":76850},{"match":"nexoYes","image_id":78181},{"match":"nexoNo","image_id":78182}]}
+{
+  "name": "twitch-sub-nexotekhd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nexoAlert",
+      "image_id": 58305
+    },
+    {
+      "match": "nexoHeart",
+      "image_id": 59309
+    },
+    {
+      "match": "nexoEZ",
+      "image_id": 59313
+    },
+    {
+      "match": "nexoRage",
+      "image_id": 76859
+    },
+    {
+      "match": "nexoMove",
+      "image_id": 76854
+    },
+    {
+      "match": "nexoHype",
+      "image_id": 76850
+    },
+    {
+      "match": "nexoYes",
+      "image_id": 78181
+    },
+    {
+      "match": "nexoNo",
+      "image_id": 78182
+    }
+  ]
+}

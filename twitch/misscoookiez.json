@@ -1,1 +1,47 @@
-{"name":"twitch-sub-misscoookiez","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"coookiezOP","image_id":14979},{"match":"coookiezLove","image_id":17157},{"match":"coookiezHoly","image_id":72020},{"match":"coookiezEar","image_id":72019},{"match":"coookiezMus","image_id":34632},{"match":"coookiezAlien","image_id":38851},{"match":"coookiez666","image_id":38839},{"match":"coookiezNemo","image_id":50698},{"match":"coookiezO","image_id":69173},{"match":"coookiezThump","image_id":71719}]}
+{
+  "name": "twitch-sub-misscoookiez",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "coookiezOP",
+      "image_id": 14979
+    },
+    {
+      "match": "coookiezLove",
+      "image_id": 17157
+    },
+    {
+      "match": "coookiezHoly",
+      "image_id": 72020
+    },
+    {
+      "match": "coookiezEar",
+      "image_id": 72019
+    },
+    {
+      "match": "coookiezMus",
+      "image_id": 34632
+    },
+    {
+      "match": "coookiezAlien",
+      "image_id": 38851
+    },
+    {
+      "match": "coookiez666",
+      "image_id": 38839
+    },
+    {
+      "match": "coookiezNemo",
+      "image_id": 50698
+    },
+    {
+      "match": "coookiezO",
+      "image_id": 69173
+    },
+    {
+      "match": "coookiezThump",
+      "image_id": 71719
+    }
+  ]
+}

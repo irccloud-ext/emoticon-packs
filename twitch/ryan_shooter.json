@@ -1,1 +1,15 @@
-{"name":"twitch-sub-ryan_shooter","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shooterrHype","image_id":51427},{"match":"shooterrMilk","image_id":70411}]}
+{
+  "name": "twitch-sub-ryan_shooter",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shooterrHype",
+      "image_id": 51427
+    },
+    {
+      "match": "shooterrMilk",
+      "image_id": 70411
+    }
+  ]
+}

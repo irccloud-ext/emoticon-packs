@@ -1,1 +1,39 @@
-{"name":"twitch-sub-fuzzyness","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fuzzyTowel","image_id":33029},{"match":"fuzzyHi","image_id":63491},{"match":"fuzzyLove","image_id":77919},{"match":"fuzzyDuck","image_id":79706},{"match":"fuzzyW","image_id":94357},{"match":"fuzzyDex","image_id":106752},{"match":"fuzzyHype","image_id":111328},{"match":"fuzzyLewd","image_id":111426}]}
+{
+  "name": "twitch-sub-fuzzyness",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fuzzyHi",
+      "image_id": 112015
+    },
+    {
+      "match": "fuzzyHype",
+      "image_id": 111916
+    },
+    {
+      "match": "fuzzyTowel",
+      "image_id": 33029
+    },
+    {
+      "match": "fuzzyLewd",
+      "image_id": 111967
+    },
+    {
+      "match": "fuzzyLove",
+      "image_id": 77919
+    },
+    {
+      "match": "fuzzyDuck",
+      "image_id": 79706
+    },
+    {
+      "match": "fuzzyW",
+      "image_id": 94357
+    },
+    {
+      "match": "fuzzyDex",
+      "image_id": 106752
+    }
+  ]
+}

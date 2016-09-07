@@ -1,1 +1,23 @@
-{"name":"twitch-sub-mrkravin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kravinRage","image_id":110056},{"match":"kravinJoy","image_id":110055},{"match":"kravinDead","image_id":109295},{"match":"kravinWikiSmoot","image_id":110057}]}
+{
+  "name": "twitch-sub-mrkravin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kravinRage",
+      "image_id": 110056
+    },
+    {
+      "match": "kravinJoy",
+      "image_id": 110055
+    },
+    {
+      "match": "kravinDead",
+      "image_id": 109295
+    },
+    {
+      "match": "kravinWikiSmoot",
+      "image_id": 110057
+    }
+  ]
+}

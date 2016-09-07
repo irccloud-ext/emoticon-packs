@@ -1,1 +1,47 @@
-{"name":"twitch-sub-deadpine","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pineMug","image_id":16698},{"match":"pineHeart","image_id":19206},{"match":"pineRIP","image_id":19777},{"match":"pineDerp","image_id":27382},{"match":"pineRoar","image_id":29451},{"match":"pineHype","image_id":40063},{"match":"pineEww","image_id":46303},{"match":"pineCreep","image_id":53490},{"match":"pineBlind","image_id":62733},{"match":"pineFresh","image_id":62732}]}
+{
+  "name": "twitch-sub-deadpine",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pineMug",
+      "image_id": 16698
+    },
+    {
+      "match": "pineHeart",
+      "image_id": 19206
+    },
+    {
+      "match": "pineRIP",
+      "image_id": 19777
+    },
+    {
+      "match": "pineDerp",
+      "image_id": 27382
+    },
+    {
+      "match": "pineRoar",
+      "image_id": 29451
+    },
+    {
+      "match": "pineHype",
+      "image_id": 40063
+    },
+    {
+      "match": "pineEww",
+      "image_id": 46303
+    },
+    {
+      "match": "pineCreep",
+      "image_id": 53490
+    },
+    {
+      "match": "pineBlind",
+      "image_id": 62733
+    },
+    {
+      "match": "pineFresh",
+      "image_id": 62732
+    }
+  ]
+}

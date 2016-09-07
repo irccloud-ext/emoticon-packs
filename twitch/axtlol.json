@@ -1,1 +1,19 @@
-{"name":"twitch-sub-axtlol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"axtMe","image_id":10234},{"match":"axtBarca","image_id":10239},{"match":"axtLimitado","image_id":69165}]}
+{
+  "name": "twitch-sub-axtlol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "axtMe",
+      "image_id": 10234
+    },
+    {
+      "match": "axtBarca",
+      "image_id": 10239
+    },
+    {
+      "match": "axtLimitado",
+      "image_id": 69165
+    }
+  ]
+}

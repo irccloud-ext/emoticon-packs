@@ -1,1 +1,31 @@
-{"name":"twitch-sub-aquah2o","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"h2oH","image_id":71874},{"match":"h2oPout","image_id":71875},{"match":"h2oMoola","image_id":71873},{"match":"h2oWhy","image_id":89339},{"match":"h2oHide","image_id":98625},{"match":"h2oWave","image_id":100387}]}
+{
+  "name": "twitch-sub-aquah2o",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "h2oH",
+      "image_id": 71874
+    },
+    {
+      "match": "h2oPout",
+      "image_id": 71875
+    },
+    {
+      "match": "h2oMoola",
+      "image_id": 71873
+    },
+    {
+      "match": "h2oWhy",
+      "image_id": 89339
+    },
+    {
+      "match": "h2oHide",
+      "image_id": 98625
+    },
+    {
+      "match": "h2oWave",
+      "image_id": 100387
+    }
+  ]
+}

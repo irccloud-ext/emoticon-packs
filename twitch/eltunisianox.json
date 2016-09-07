@@ -1,1 +1,11 @@
-{"name":"twitch-sub-eltunisianox","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tuniSAD","image_id":94316}]}
+{
+  "name": "twitch-sub-eltunisianox",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tuniSAD",
+      "image_id": 94316
+    }
+  ]
+}

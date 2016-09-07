@@ -1,1 +1,31 @@
-{"name":"twitch-sub-darkwing_duck_sda","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dwdPun","image_id":30803},{"match":"dwdRainbowmeat","image_id":21114},{"match":"dwdIsMad","image_id":21402},{"match":"dwdBossbetrollin","image_id":26076},{"match":"dwdBabby","image_id":39935},{"match":"dwdSellout","image_id":54780}]}
+{
+  "name": "twitch-sub-darkwing_duck_sda",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dwdPun",
+      "image_id": 30803
+    },
+    {
+      "match": "dwdRainbowmeat",
+      "image_id": 21114
+    },
+    {
+      "match": "dwdIsMad",
+      "image_id": 21402
+    },
+    {
+      "match": "dwdBossbetrollin",
+      "image_id": 26076
+    },
+    {
+      "match": "dwdBabby",
+      "image_id": 39935
+    },
+    {
+      "match": "dwdSellout",
+      "image_id": 54780
+    }
+  ]
+}

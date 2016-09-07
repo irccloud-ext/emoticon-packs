@@ -1,1 +1,31 @@
-{"name":"twitch-sub-gghalibel","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"haliGASM","image_id":107466},{"match":"haliPLZ","image_id":89373},{"match":"haliLUL","image_id":107467},{"match":"haliMAD","image_id":107468},{"match":"haliFEELSBAD","image_id":107927},{"match":"haliFEELSGOOD","image_id":107928}]}
+{
+  "name": "twitch-sub-gghalibel",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "haliGASM",
+      "image_id": 107466
+    },
+    {
+      "match": "haliPLZ",
+      "image_id": 89373
+    },
+    {
+      "match": "haliLUL",
+      "image_id": 107467
+    },
+    {
+      "match": "haliMAD",
+      "image_id": 107468
+    },
+    {
+      "match": "haliFEELSBAD",
+      "image_id": 107927
+    },
+    {
+      "match": "haliFEELSGOOD",
+      "image_id": 107928
+    }
+  ]
+}

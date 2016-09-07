@@ -1,1 +1,39 @@
-{"name":"twitch-sub-talderer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"taldererShot","image_id":46162},{"match":"taldererClip","image_id":47581},{"match":"taldererLogo","image_id":46542},{"match":"taldererHead","image_id":46837},{"match":"taldererHeart","image_id":46127},{"match":"taldererRage","image_id":46128},{"match":"taldererCup","image_id":46130},{"match":"taldererEagle","image_id":46149}]}
+{
+  "name": "twitch-sub-talderer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "taldererShot",
+      "image_id": 46162
+    },
+    {
+      "match": "taldererClip",
+      "image_id": 47581
+    },
+    {
+      "match": "taldererLogo",
+      "image_id": 46542
+    },
+    {
+      "match": "taldererHead",
+      "image_id": 46837
+    },
+    {
+      "match": "taldererHeart",
+      "image_id": 46127
+    },
+    {
+      "match": "taldererRage",
+      "image_id": 46128
+    },
+    {
+      "match": "taldererCup",
+      "image_id": 46130
+    },
+    {
+      "match": "taldererEagle",
+      "image_id": 46149
+    }
+  ]
+}

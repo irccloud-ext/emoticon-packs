@@ -1,1 +1,67 @@
-{"name":"twitch-sub-ukogmonkey","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ukogFeelsCrash","image_id":87880},{"match":"ukogChoke","image_id":95906},{"match":"ukogSolo","image_id":80362},{"match":"ukogJabba","image_id":74965},{"match":"ukogAsm","image_id":87895},{"match":"ukogHmm","image_id":99883},{"match":"ukogWeej","image_id":99882},{"match":"ukogWat","image_id":95931},{"match":"ukogCheers","image_id":99881},{"match":"ukogShoe","image_id":69928},{"match":"ukogSwag","image_id":100132},{"match":"ukogHype","image_id":79391},{"match":"ukogThump","image_id":99884},{"match":"ukogFC","image_id":76339},{"match":"ukogFeelsSaiyan","image_id":87725}]}
+{
+  "name": "twitch-sub-ukogmonkey",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ukogFeelsCrash",
+      "image_id": 87880
+    },
+    {
+      "match": "ukogChoke",
+      "image_id": 95906
+    },
+    {
+      "match": "ukogSolo",
+      "image_id": 80362
+    },
+    {
+      "match": "ukogJabba",
+      "image_id": 74965
+    },
+    {
+      "match": "ukogAsm",
+      "image_id": 87895
+    },
+    {
+      "match": "ukogHmm",
+      "image_id": 99883
+    },
+    {
+      "match": "ukogWeej",
+      "image_id": 99882
+    },
+    {
+      "match": "ukogWat",
+      "image_id": 95931
+    },
+    {
+      "match": "ukogCheers",
+      "image_id": 99881
+    },
+    {
+      "match": "ukogShoe",
+      "image_id": 69928
+    },
+    {
+      "match": "ukogSwag",
+      "image_id": 100132
+    },
+    {
+      "match": "ukogHype",
+      "image_id": 79391
+    },
+    {
+      "match": "ukogThump",
+      "image_id": 99884
+    },
+    {
+      "match": "ukogFeelsSaiyan",
+      "image_id": 87725
+    },
+    {
+      "match": "ukogHarambe",
+      "image_id": 111795
+    }
+  ]
+}

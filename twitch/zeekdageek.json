@@ -1,1 +1,39 @@
-{"name":"twitch-sub-zeekdageek","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"geekAdGod","image_id":994},{"match":"geekThump","image_id":12547},{"match":"geekChip","image_id":12548},{"match":"geekCrash","image_id":12581},{"match":"geekToast","image_id":12582},{"match":"geekRage","image_id":12583},{"match":"geekPraise","image_id":16469},{"match":"geekH","image_id":16468}]}
+{
+  "name": "twitch-sub-zeekdageek",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "geekAdGod",
+      "image_id": 994
+    },
+    {
+      "match": "geekThump",
+      "image_id": 12547
+    },
+    {
+      "match": "geekChip",
+      "image_id": 12548
+    },
+    {
+      "match": "geekCrash",
+      "image_id": 12581
+    },
+    {
+      "match": "geekToast",
+      "image_id": 12582
+    },
+    {
+      "match": "geekRage",
+      "image_id": 12583
+    },
+    {
+      "match": "geekPraise",
+      "image_id": 16469
+    },
+    {
+      "match": "geekH",
+      "image_id": 16468
+    }
+  ]
+}

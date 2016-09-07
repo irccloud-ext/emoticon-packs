@@ -1,1 +1,31 @@
-{"name":"twitch-sub-silent3m","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"silent3mChamp","image_id":51332},{"match":"silent3mPalm","image_id":51026},{"match":"silent3mWhiff","image_id":53565},{"match":"silent3mSquad","image_id":56137},{"match":"silent3mBrick","image_id":53516},{"match":"silent3mVbat","image_id":60205}]}
+{
+  "name": "twitch-sub-silent3m",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "silent3mChamp",
+      "image_id": 51332
+    },
+    {
+      "match": "silent3mPalm",
+      "image_id": 51026
+    },
+    {
+      "match": "silent3mWhiff",
+      "image_id": 53565
+    },
+    {
+      "match": "silent3mSquad",
+      "image_id": 56137
+    },
+    {
+      "match": "silent3mBrick",
+      "image_id": 53516
+    },
+    {
+      "match": "silent3mVbat",
+      "image_id": 60205
+    }
+  ]
+}

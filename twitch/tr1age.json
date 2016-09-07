@@ -1,1 +1,15 @@
-{"name":"twitch-sub-tr1age","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"atttabmeTr1age","image_id":36259},{"match":"atttabmeZombcat","image_id":36258}]}
+{
+  "name": "twitch-sub-tr1age",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "atttabmeTr1age",
+      "image_id": 36259
+    },
+    {
+      "match": "atttabmeZombcat",
+      "image_id": 36258
+    }
+  ]
+}

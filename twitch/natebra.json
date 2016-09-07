@@ -1,1 +1,43 @@
-{"name":"twitch-sub-natebra","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"brahVibes","image_id":109058},{"match":"brahGf","image_id":108402},{"match":"brahNation","image_id":108400},{"match":"brahW","image_id":111671},{"match":"brahLove","image_id":111668},{"match":"brahGl","image_id":111681},{"match":"brahRedbar","image_id":107646},{"match":"brahClicks","image_id":107645},{"match":"brahGoteem","image_id":109062}]}
+{
+  "name": "twitch-sub-natebra",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "brahVibes",
+      "image_id": 109058
+    },
+    {
+      "match": "brahGf",
+      "image_id": 108402
+    },
+    {
+      "match": "brahNation",
+      "image_id": 108400
+    },
+    {
+      "match": "brahW",
+      "image_id": 111671
+    },
+    {
+      "match": "brahLove",
+      "image_id": 111668
+    },
+    {
+      "match": "brahRedbar",
+      "image_id": 107646
+    },
+    {
+      "match": "brahClicks",
+      "image_id": 107645
+    },
+    {
+      "match": "brahGoteem",
+      "image_id": 109062
+    },
+    {
+      "match": "brahLegend",
+      "image_id": 111737
+    }
+  ]
+}

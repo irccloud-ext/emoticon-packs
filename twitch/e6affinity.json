@@ -1,1 +1,15 @@
-{"name":"twitch-sub-e6affinity","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"affiCORGI","image_id":103751},{"match":"affiFADED","image_id":103750}]}
+{
+  "name": "twitch-sub-e6affinity",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "affiCORGI",
+      "image_id": 103751
+    },
+    {
+      "match": "affiFADED",
+      "image_id": 103750
+    }
+  ]
+}

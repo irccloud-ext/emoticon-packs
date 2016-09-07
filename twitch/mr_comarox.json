@@ -1,1 +1,15 @@
-{"name":"twitch-sub-mr_comarox","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"choppJJ","image_id":111664},{"match":"choppChoop","image_id":105424}]}
+{
+  "name": "twitch-sub-mr_comarox",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "choppJJ",
+      "image_id": 111664
+    },
+    {
+      "match": "choppChoop",
+      "image_id": 105424
+    }
+  ]
+}

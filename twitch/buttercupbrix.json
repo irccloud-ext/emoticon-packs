@@ -1,1 +1,23 @@
-{"name":"twitch-sub-buttercupbrix","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lyzPerfect","image_id":94715},{"match":"lyzBear","image_id":94714},{"match":"lyzPeach","image_id":94636},{"match":"lyzTrigger","image_id":94653}]}
+{
+  "name": "twitch-sub-buttercupbrix",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lyzPerfect",
+      "image_id": 94715
+    },
+    {
+      "match": "lyzBear",
+      "image_id": 94714
+    },
+    {
+      "match": "lyzPeach",
+      "image_id": 94636
+    },
+    {
+      "match": "lyzTrigger",
+      "image_id": 94653
+    }
+  ]
+}

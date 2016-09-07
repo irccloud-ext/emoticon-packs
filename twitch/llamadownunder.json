@@ -1,1 +1,31 @@
-{"name":"twitch-sub-llamadownunder","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"llaBalance","image_id":81127},{"match":"llaPraise","image_id":81483},{"match":"llaCool","image_id":85664},{"match":"llaOhMy","image_id":81493},{"match":"llaStache","image_id":87385},{"match":"llaFail","image_id":89241}]}
+{
+  "name": "twitch-sub-llamadownunder",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "llaBalance",
+      "image_id": 81127
+    },
+    {
+      "match": "llaPraise",
+      "image_id": 81483
+    },
+    {
+      "match": "llaCool",
+      "image_id": 85664
+    },
+    {
+      "match": "llaOhMy",
+      "image_id": 81493
+    },
+    {
+      "match": "llaStache",
+      "image_id": 87385
+    },
+    {
+      "match": "llaFail",
+      "image_id": 89241
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-raz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"metaruFeeder","image_id":34634},{"match":"metaruAlpha","image_id":67103},{"match":"metaruRekt","image_id":56499},{"match":"metaruCheers","image_id":74462}]}
+{
+  "name": "twitch-sub-raz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "metaruFeeder",
+      "image_id": 34634
+    },
+    {
+      "match": "metaruAlpha",
+      "image_id": 67103
+    },
+    {
+      "match": "metaruRekt",
+      "image_id": 56499
+    },
+    {
+      "match": "metaruCheers",
+      "image_id": 74462
+    }
+  ]
+}

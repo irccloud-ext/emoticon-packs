@@ -1,1 +1,31 @@
-{"name":"twitch-sub-aliastar","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aliaInSnow","image_id":1999},{"match":"aliaChan","image_id":1997},{"match":"aliaSqueakers","image_id":5502},{"match":"aliaScarf","image_id":11717},{"match":"aliaSigh","image_id":13369},{"match":"aliaL","image_id":71735}]}
+{
+  "name": "twitch-sub-aliastar",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aliaInSnow",
+      "image_id": 1999
+    },
+    {
+      "match": "aliaChan",
+      "image_id": 1997
+    },
+    {
+      "match": "aliaSqueakers",
+      "image_id": 5502
+    },
+    {
+      "match": "aliaScarf",
+      "image_id": 11717
+    },
+    {
+      "match": "aliaSigh",
+      "image_id": 13369
+    },
+    {
+      "match": "aliaL",
+      "image_id": 71735
+    }
+  ]
+}

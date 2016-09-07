@@ -1,1 +1,39 @@
-{"name":"twitch-sub-huttsgaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"huttsHappy","image_id":75167},{"match":"huttsCry","image_id":75168},{"match":"huttsHype","image_id":75169},{"match":"huttsIsaac","image_id":75170},{"match":"huttsRage","image_id":75171},{"match":"huttsBumbo","image_id":87677},{"match":"huttsRip","image_id":87674},{"match":"huttsDon","image_id":87680}]}
+{
+  "name": "twitch-sub-huttsgaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "huttsHappy",
+      "image_id": 75167
+    },
+    {
+      "match": "huttsCry",
+      "image_id": 75168
+    },
+    {
+      "match": "huttsHype",
+      "image_id": 75169
+    },
+    {
+      "match": "huttsIsaac",
+      "image_id": 75170
+    },
+    {
+      "match": "huttsRage",
+      "image_id": 75171
+    },
+    {
+      "match": "huttsBumbo",
+      "image_id": 87677
+    },
+    {
+      "match": "huttsRip",
+      "image_id": 87674
+    },
+    {
+      "match": "huttsDon",
+      "image_id": 87680
+    }
+  ]
+}

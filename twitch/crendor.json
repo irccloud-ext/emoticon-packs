@@ -1,1 +1,67 @@
-{"name":"twitch-sub-crendor","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"crendorSkittles","image_id":6519},{"match":"crendorGG","image_id":10310},{"match":"crendorAlert","image_id":10851},{"match":"crendorReally","image_id":68486},{"match":"crendorF","image_id":80266},{"match":"crendorPog","image_id":86770},{"match":"crendorSlotharm","image_id":91697},{"match":"crendorSleeper","image_id":91693},{"match":"crendorPizza","image_id":91696},{"match":"crendorNotlikethis","image_id":91695},{"match":"crendorThump","image_id":91694},{"match":"crendorNerd","image_id":93396},{"match":"crendorKappa","image_id":93395},{"match":"crendorCat","image_id":93394},{"match":"crendorSalt","image_id":93397}]}
+{
+  "name": "twitch-sub-crendor",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "crendorSkittles",
+      "image_id": 6519
+    },
+    {
+      "match": "crendorGG",
+      "image_id": 10310
+    },
+    {
+      "match": "crendorAlert",
+      "image_id": 10851
+    },
+    {
+      "match": "crendorReally",
+      "image_id": 68486
+    },
+    {
+      "match": "crendorF",
+      "image_id": 80266
+    },
+    {
+      "match": "crendorPog",
+      "image_id": 86770
+    },
+    {
+      "match": "crendorSlotharm",
+      "image_id": 91697
+    },
+    {
+      "match": "crendorSleeper",
+      "image_id": 91693
+    },
+    {
+      "match": "crendorPizza",
+      "image_id": 91696
+    },
+    {
+      "match": "crendorNotlikethis",
+      "image_id": 91695
+    },
+    {
+      "match": "crendorThump",
+      "image_id": 91694
+    },
+    {
+      "match": "crendorNerd",
+      "image_id": 93396
+    },
+    {
+      "match": "crendorKappa",
+      "image_id": 93395
+    },
+    {
+      "match": "crendorCat",
+      "image_id": 93394
+    },
+    {
+      "match": "crendorSalt",
+      "image_id": 93397
+    }
+  ]
+}

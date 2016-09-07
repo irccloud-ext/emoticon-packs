@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ckurtis","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ckurtLOL","image_id":87369},{"match":"ckurtNICE","image_id":87368},{"match":"ckurtGOGO","image_id":84638},{"match":"ckurtHLF","image_id":104802},{"match":"ckurtWIN","image_id":104803},{"match":"ckurtUNA","image_id":105657}]}
+{
+  "name": "twitch-sub-ckurtis",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ckurtLOL",
+      "image_id": 87369
+    },
+    {
+      "match": "ckurtNICE",
+      "image_id": 87368
+    },
+    {
+      "match": "ckurtGOGO",
+      "image_id": 84638
+    },
+    {
+      "match": "ckurtHLF",
+      "image_id": 104802
+    },
+    {
+      "match": "ckurtWIN",
+      "image_id": 104803
+    },
+    {
+      "match": "ckurtUNA",
+      "image_id": 105657
+    }
+  ]
+}

@@ -1,1 +1,75 @@
-{"name":"twitch-sub-beatport","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bportSensation","image_id":56052},{"match":"bportSchadel","image_id":54383},{"match":"bportJacku","image_id":40169},{"match":"bportDiplo","image_id":40170},{"match":"bportSkrillex","image_id":40171},{"match":"bportDeng","image_id":45602},{"match":"bportQdance","image_id":45603},{"match":"bportQapital","image_id":45604},{"match":"bportTurnup1","image_id":45605},{"match":"bportTurnup2","image_id":45606},{"match":"bportTurnup3","image_id":45611},{"match":"bportDillon","image_id":39298},{"match":"bportPizzaguy","image_id":40222},{"match":"bportA","image_id":53370},{"match":"bportDefqon1","image_id":54268},{"match":"bportChicago","image_id":53404},{"match":"bportHeart","image_id":53405}]}
+{
+  "name": "twitch-sub-beatport",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bportSensation",
+      "image_id": 56052
+    },
+    {
+      "match": "bportSchadel",
+      "image_id": 54383
+    },
+    {
+      "match": "bportJacku",
+      "image_id": 40169
+    },
+    {
+      "match": "bportDiplo",
+      "image_id": 40170
+    },
+    {
+      "match": "bportSkrillex",
+      "image_id": 40171
+    },
+    {
+      "match": "bportDeng",
+      "image_id": 45602
+    },
+    {
+      "match": "bportQdance",
+      "image_id": 45603
+    },
+    {
+      "match": "bportQapital",
+      "image_id": 45604
+    },
+    {
+      "match": "bportTurnup1",
+      "image_id": 45605
+    },
+    {
+      "match": "bportTurnup2",
+      "image_id": 45606
+    },
+    {
+      "match": "bportTurnup3",
+      "image_id": 45611
+    },
+    {
+      "match": "bportDillon",
+      "image_id": 39298
+    },
+    {
+      "match": "bportPizzaguy",
+      "image_id": 40222
+    },
+    {
+      "match": "bportA",
+      "image_id": 53370
+    },
+    {
+      "match": "bportDefqon1",
+      "image_id": 54268
+    },
+    {
+      "match": "bportChicago",
+      "image_id": 53404
+    },
+    {
+      "match": "bportHeart",
+      "image_id": 53405
+    }
+  ]
+}

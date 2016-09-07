@@ -1,1 +1,23 @@
-{"name":"twitch-sub-dvlzlive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nashBit","image_id":5083},{"match":"nash2ME","image_id":5084},{"match":"nashDoit","image_id":6366},{"match":"nashIbra","image_id":6367}]}
+{
+  "name": "twitch-sub-dvlzlive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nashBit",
+      "image_id": 5083
+    },
+    {
+      "match": "nash2ME",
+      "image_id": 5084
+    },
+    {
+      "match": "nashDoit",
+      "image_id": 6366
+    },
+    {
+      "match": "nashIbra",
+      "image_id": 6367
+    }
+  ]
+}

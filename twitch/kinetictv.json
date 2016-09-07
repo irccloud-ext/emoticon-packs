@@ -1,1 +1,19 @@
-{"name":"twitch-sub-kinetictv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kinRage","image_id":48494},{"match":"kinLove","image_id":48826},{"match":"kinBomb","image_id":63033}]}
+{
+  "name": "twitch-sub-kinetictv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kinRage",
+      "image_id": 48494
+    },
+    {
+      "match": "kinLove",
+      "image_id": 48826
+    },
+    {
+      "match": "kinBomb",
+      "image_id": 63033
+    }
+  ]
+}

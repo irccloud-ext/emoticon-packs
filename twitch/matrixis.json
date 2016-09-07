@@ -1,1 +1,39 @@
-{"name":"twitch-sub-matrixis","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"matxHeart","image_id":39254},{"match":"matxKappa","image_id":36615},{"match":"matx123","image_id":36622},{"match":"matxRip","image_id":38122},{"match":"matxGG","image_id":44303},{"match":"matxRiot","image_id":47950},{"match":"matxHype","image_id":47951},{"match":"matxRekt","image_id":47952}]}
+{
+  "name": "twitch-sub-matrixis",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "matxHeart",
+      "image_id": 39254
+    },
+    {
+      "match": "matxKappa",
+      "image_id": 36615
+    },
+    {
+      "match": "matx123",
+      "image_id": 36622
+    },
+    {
+      "match": "matxRip",
+      "image_id": 38122
+    },
+    {
+      "match": "matxGG",
+      "image_id": 44303
+    },
+    {
+      "match": "matxRiot",
+      "image_id": 47950
+    },
+    {
+      "match": "matxHype",
+      "image_id": 47951
+    },
+    {
+      "match": "matxRekt",
+      "image_id": 47952
+    }
+  ]
+}

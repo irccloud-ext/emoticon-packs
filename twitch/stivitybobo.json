@@ -1,1 +1,39 @@
-{"name":"twitch-sub-stivitybobo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"stivWahay","image_id":2777},{"match":"stivPosistivity","image_id":2776},{"match":"stivGlod","image_id":10997},{"match":"stivPunch","image_id":56066},{"match":"stivWee","image_id":56068},{"match":"stivNice","image_id":56069},{"match":"stivThisRun","image_id":56070},{"match":"stivGG","image_id":56117}]}
+{
+  "name": "twitch-sub-stivitybobo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "stivWahay",
+      "image_id": 2777
+    },
+    {
+      "match": "stivPosistivity",
+      "image_id": 2776
+    },
+    {
+      "match": "stivGlod",
+      "image_id": 10997
+    },
+    {
+      "match": "stivPunch",
+      "image_id": 56066
+    },
+    {
+      "match": "stivWee",
+      "image_id": 56068
+    },
+    {
+      "match": "stivNice",
+      "image_id": 56069
+    },
+    {
+      "match": "stivThisRun",
+      "image_id": 56070
+    },
+    {
+      "match": "stivGG",
+      "image_id": 56117
+    }
+  ]
+}

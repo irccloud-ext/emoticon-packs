@@ -1,1 +1,31 @@
-{"name":"twitch-sub-freegold3","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"freeWisp","image_id":14618},{"match":"freeOracle","image_id":14619},{"match":"freeBM","image_id":14510},{"match":"freeCho","image_id":14511},{"match":"freeHaha","image_id":15485},{"match":"freeBoar","image_id":15313}]}
+{
+  "name": "twitch-sub-freegold3",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "freeWisp",
+      "image_id": 14618
+    },
+    {
+      "match": "freeOracle",
+      "image_id": 14619
+    },
+    {
+      "match": "freeBM",
+      "image_id": 14510
+    },
+    {
+      "match": "freeCho",
+      "image_id": 14511
+    },
+    {
+      "match": "freeHaha",
+      "image_id": 15485
+    },
+    {
+      "match": "freeBoar",
+      "image_id": 15313
+    }
+  ]
+}

@@ -1,1 +1,195 @@
-{"name":"twitch-sub-joshog","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"weedSpaghetti","image_id":23096},{"match":"weedHype","image_id":20658},{"match":"weedFaded","image_id":27067},{"match":"weedWRT","image_id":62178},{"match":"weedKobe","image_id":16751},{"match":"weedSurf","image_id":18329},{"match":"weedDucks","image_id":18089},{"match":"weedRigged","image_id":22263},{"match":"weedTrain","image_id":23365},{"match":"weedRekt","image_id":31985},{"match":"weedWhiff","image_id":31986},{"match":"weedSalt","image_id":31987},{"match":"weedBait","image_id":26010},{"match":"weedShark","image_id":27452},{"match":"weedPray","image_id":27413},{"match":"weedWhale","image_id":40047},{"match":"weedGG","image_id":45811},{"match":"weedLove","image_id":45028},{"match":"weedButcher","image_id":91034},{"match":"weedBomb","image_id":58062},{"match":"weedCarry","image_id":58057},{"match":"weedVibes","image_id":91038},{"match":"weedWut","image_id":56702},{"match":"weedCry","image_id":56707},{"match":"weedGasm","image_id":56706},{"match":"weedFail","image_id":56703},{"match":"weedUp","image_id":58060},{"match":"weedC","image_id":57123},{"match":"weedKnife","image_id":58061},{"match":"weedBanana","image_id":60433},{"match":"weedYoutube","image_id":62180},{"match":"weedGL","image_id":62177},{"match":"weedDrops","image_id":87260},{"match":"weedAFK","image_id":90199},{"match":"weedF","image_id":90197},{"match":"weedOOO","image_id":88746},{"match":"weedWOO","image_id":88745},{"match":"weedDuck","image_id":78840},{"match":"weedSad","image_id":78851},{"match":"weed1","image_id":84018},{"match":"weed2","image_id":84019},{"match":"weed3","image_id":84020},{"match":"weed4","image_id":84022},{"match":"weedCool","image_id":83293},{"match":"weedSmurf","image_id":83073},{"match":"weedLurk","image_id":90404},{"match":"weedVAC","image_id":92716}]}
+{
+  "name": "twitch-sub-joshog",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "weedSpaghetti",
+      "image_id": 23096
+    },
+    {
+      "match": "weedHype",
+      "image_id": 20658
+    },
+    {
+      "match": "weedFaded",
+      "image_id": 27067
+    },
+    {
+      "match": "weedWRT",
+      "image_id": 62178
+    },
+    {
+      "match": "weedKobe",
+      "image_id": 16751
+    },
+    {
+      "match": "weedSurf",
+      "image_id": 18329
+    },
+    {
+      "match": "weedDucks",
+      "image_id": 18089
+    },
+    {
+      "match": "weedRigged",
+      "image_id": 22263
+    },
+    {
+      "match": "weedTrain",
+      "image_id": 23365
+    },
+    {
+      "match": "weedRekt",
+      "image_id": 31985
+    },
+    {
+      "match": "weedWhiff",
+      "image_id": 31986
+    },
+    {
+      "match": "weedSalt",
+      "image_id": 31987
+    },
+    {
+      "match": "weedBait",
+      "image_id": 26010
+    },
+    {
+      "match": "weedShark",
+      "image_id": 27452
+    },
+    {
+      "match": "weedPray",
+      "image_id": 27413
+    },
+    {
+      "match": "weedWhale",
+      "image_id": 40047
+    },
+    {
+      "match": "weedGG",
+      "image_id": 45811
+    },
+    {
+      "match": "weedLove",
+      "image_id": 45028
+    },
+    {
+      "match": "weedButcher",
+      "image_id": 91034
+    },
+    {
+      "match": "weedBomb",
+      "image_id": 58062
+    },
+    {
+      "match": "weedCarry",
+      "image_id": 58057
+    },
+    {
+      "match": "weedVibes",
+      "image_id": 91038
+    },
+    {
+      "match": "weedWut",
+      "image_id": 56702
+    },
+    {
+      "match": "weedCry",
+      "image_id": 56707
+    },
+    {
+      "match": "weedGasm",
+      "image_id": 56706
+    },
+    {
+      "match": "weedFail",
+      "image_id": 56703
+    },
+    {
+      "match": "weedUp",
+      "image_id": 58060
+    },
+    {
+      "match": "weedC",
+      "image_id": 57123
+    },
+    {
+      "match": "weedKnife",
+      "image_id": 58061
+    },
+    {
+      "match": "weedBanana",
+      "image_id": 60433
+    },
+    {
+      "match": "weedYoutube",
+      "image_id": 62180
+    },
+    {
+      "match": "weedGL",
+      "image_id": 62177
+    },
+    {
+      "match": "weedDrops",
+      "image_id": 87260
+    },
+    {
+      "match": "weedAFK",
+      "image_id": 90199
+    },
+    {
+      "match": "weedF",
+      "image_id": 90197
+    },
+    {
+      "match": "weedOOO",
+      "image_id": 88746
+    },
+    {
+      "match": "weedWOO",
+      "image_id": 88745
+    },
+    {
+      "match": "weedDuck",
+      "image_id": 78840
+    },
+    {
+      "match": "weedSad",
+      "image_id": 78851
+    },
+    {
+      "match": "weed1",
+      "image_id": 84018
+    },
+    {
+      "match": "weed2",
+      "image_id": 84019
+    },
+    {
+      "match": "weed3",
+      "image_id": 84020
+    },
+    {
+      "match": "weed4",
+      "image_id": 84022
+    },
+    {
+      "match": "weedCool",
+      "image_id": 83293
+    },
+    {
+      "match": "weedSmurf",
+      "image_id": 83073
+    },
+    {
+      "match": "weedLurk",
+      "image_id": 90404
+    },
+    {
+      "match": "weedVAC",
+      "image_id": 92716
+    }
+  ]
+}

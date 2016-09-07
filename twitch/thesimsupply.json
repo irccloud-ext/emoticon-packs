@@ -1,1 +1,19 @@
-{"name":"twitch-sub-thesimsupply","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tssHmm","image_id":24414},{"match":"tssOmg","image_id":28861},{"match":"tssGunter","image_id":43803}]}
+{
+  "name": "twitch-sub-thesimsupply",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tssHmm",
+      "image_id": 24414
+    },
+    {
+      "match": "tssOmg",
+      "image_id": 28861
+    },
+    {
+      "match": "tssGunter",
+      "image_id": 43803
+    }
+  ]
+}

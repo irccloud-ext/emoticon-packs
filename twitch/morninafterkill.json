@@ -1,1 +1,39 @@
-{"name":"twitch-sub-morninafterkill","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"makMak","image_id":11541},{"match":"makRespect","image_id":11382},{"match":"makMerica","image_id":11383},{"match":"makShot","image_id":11474},{"match":"makKappa","image_id":10945},{"match":"makLogo","image_id":10944},{"match":"makSub","image_id":12306},{"match":"makRandy","image_id":12305}]}
+{
+  "name": "twitch-sub-morninafterkill",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "makMak",
+      "image_id": 11541
+    },
+    {
+      "match": "makRespect",
+      "image_id": 11382
+    },
+    {
+      "match": "makMerica",
+      "image_id": 11383
+    },
+    {
+      "match": "makShot",
+      "image_id": 11474
+    },
+    {
+      "match": "makKappa",
+      "image_id": 10945
+    },
+    {
+      "match": "makLogo",
+      "image_id": 10944
+    },
+    {
+      "match": "makSub",
+      "image_id": 12306
+    },
+    {
+      "match": "makRandy",
+      "image_id": 12305
+    }
+  ]
+}

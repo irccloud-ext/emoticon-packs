@@ -1,1 +1,15 @@
-{"name":"twitch-sub-ffmutex","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mutexBiground","image_id":106167},{"match":"mutexDad","image_id":106168}]}
+{
+  "name": "twitch-sub-ffmutex",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mutexBiground",
+      "image_id": 106167
+    },
+    {
+      "match": "mutexDad",
+      "image_id": 106168
+    }
+  ]
+}

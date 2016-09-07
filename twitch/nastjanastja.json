@@ -1,1 +1,39 @@
-{"name":"twitch-sub-nastjanastja","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zzz5k","image_id":109410},{"match":"zzzLove","image_id":72913},{"match":"zzzWut","image_id":99918},{"match":"zzzHi","image_id":99917},{"match":"zzzMlg","image_id":99916},{"match":"zzzCry","image_id":97844},{"match":"zzzHype","image_id":108886},{"match":"zzzNya","image_id":109409}]}
+{
+  "name": "twitch-sub-nastjanastja",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zzz5k",
+      "image_id": 109410
+    },
+    {
+      "match": "zzzLove",
+      "image_id": 72913
+    },
+    {
+      "match": "zzzWut",
+      "image_id": 99918
+    },
+    {
+      "match": "zzzHi",
+      "image_id": 99917
+    },
+    {
+      "match": "zzzMlg",
+      "image_id": 99916
+    },
+    {
+      "match": "zzzCry",
+      "image_id": 97844
+    },
+    {
+      "match": "zzzHype",
+      "image_id": 108886
+    },
+    {
+      "match": "zzzNya",
+      "image_id": 109409
+    }
+  ]
+}

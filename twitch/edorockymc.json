@@ -1,1 +1,15 @@
-{"name":"twitch-sub-edorockymc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rouquinsLemon","image_id":99258},{"match":"rouquinsThug","image_id":99257}]}
+{
+  "name": "twitch-sub-edorockymc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rouquinsLemon",
+      "image_id": 99258
+    },
+    {
+      "match": "rouquinsThug",
+      "image_id": 99257
+    }
+  ]
+}

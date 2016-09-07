@@ -1,1 +1,31 @@
-{"name":"twitch-sub-xfelicia","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xfelBlacky","image_id":15933},{"match":"xfelKnife","image_id":16058},{"match":"xfelRage","image_id":16956},{"match":"xfelSpumCake","image_id":16958},{"match":"xfelTPC","image_id":18388},{"match":"xfelWoop","image_id":41274}]}
+{
+  "name": "twitch-sub-xfelicia",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xfelBlacky",
+      "image_id": 15933
+    },
+    {
+      "match": "xfelKnife",
+      "image_id": 16058
+    },
+    {
+      "match": "xfelRage",
+      "image_id": 16956
+    },
+    {
+      "match": "xfelSpumCake",
+      "image_id": 16958
+    },
+    {
+      "match": "xfelTPC",
+      "image_id": 18388
+    },
+    {
+      "match": "xfelWoop",
+      "image_id": 41274
+    }
+  ]
+}

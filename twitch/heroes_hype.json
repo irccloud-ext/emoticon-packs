@@ -1,1 +1,11 @@
-{"name":"twitch-sub-heroes_hype","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hhypePika","image_id":52490}]}
+{
+  "name": "twitch-sub-heroes_hype",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hhypePika",
+      "image_id": 52490
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-vlpshs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vlpsSoSick","image_id":74871},{"match":"vlpsW","image_id":65903},{"match":"vlpsBoys","image_id":65561},{"match":"vlpsErekt","image_id":63714},{"match":"vlpsPride","image_id":63712},{"match":"vlpsRekt","image_id":63713},{"match":"vlpsFocus","image_id":64799},{"match":"vlpsFail","image_id":64807},{"match":"vlpsHype","image_id":65697},{"match":"vlpsMaxBM","image_id":75497}]}
+{
+  "name": "twitch-sub-vlpshs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vlpsSoSick",
+      "image_id": 74871
+    },
+    {
+      "match": "vlpsW",
+      "image_id": 65903
+    },
+    {
+      "match": "vlpsBoys",
+      "image_id": 65561
+    },
+    {
+      "match": "vlpsErekt",
+      "image_id": 63714
+    },
+    {
+      "match": "vlpsPride",
+      "image_id": 63712
+    },
+    {
+      "match": "vlpsRekt",
+      "image_id": 63713
+    },
+    {
+      "match": "vlpsFocus",
+      "image_id": 64799
+    },
+    {
+      "match": "vlpsFail",
+      "image_id": 64807
+    },
+    {
+      "match": "vlpsHype",
+      "image_id": 65697
+    },
+    {
+      "match": "vlpsMaxBM",
+      "image_id": 75497
+    }
+  ]
+}

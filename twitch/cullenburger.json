@@ -1,1 +1,39 @@
-{"name":"twitch-sub-cullenburger","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"burgerTD","image_id":40528},{"match":"burgerAir","image_id":42077},{"match":"burgerSubhype","image_id":63668},{"match":"burgerL","image_id":63910},{"match":"burgerSpam","image_id":69937},{"match":"burgerClutch","image_id":69936},{"match":"burgerW","image_id":69954},{"match":"burgerDAB","image_id":76064}]}
+{
+  "name": "twitch-sub-cullenburger",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "burgerTD",
+      "image_id": 40528
+    },
+    {
+      "match": "burgerAir",
+      "image_id": 42077
+    },
+    {
+      "match": "burgerSubhype",
+      "image_id": 63668
+    },
+    {
+      "match": "burgerL",
+      "image_id": 63910
+    },
+    {
+      "match": "burgerSpam",
+      "image_id": 69937
+    },
+    {
+      "match": "burgerClutch",
+      "image_id": 69936
+    },
+    {
+      "match": "burgerW",
+      "image_id": 69954
+    },
+    {
+      "match": "burgerDAB",
+      "image_id": 76064
+    }
+  ]
+}

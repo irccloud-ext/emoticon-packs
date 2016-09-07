@@ -1,1 +1,39 @@
-{"name":"twitch-sub-furtyirl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"furtyClap","image_id":67276},{"match":"furtyKappa","image_id":66276},{"match":"furtyCat","image_id":66280},{"match":"furtyGood","image_id":66612},{"match":"furtySleeper","image_id":66278},{"match":"furtyBuffy","image_id":66281},{"match":"furtySerenity","image_id":66277},{"match":"furtyCool","image_id":67275}]}
+{
+  "name": "twitch-sub-furtyirl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "furtyClap",
+      "image_id": 67276
+    },
+    {
+      "match": "furtyKappa",
+      "image_id": 66276
+    },
+    {
+      "match": "furtyCat",
+      "image_id": 66280
+    },
+    {
+      "match": "furtyGood",
+      "image_id": 66612
+    },
+    {
+      "match": "furtySleeper",
+      "image_id": 66278
+    },
+    {
+      "match": "furtyBuffy",
+      "image_id": 66281
+    },
+    {
+      "match": "furtySerenity",
+      "image_id": 66277
+    },
+    {
+      "match": "furtyCool",
+      "image_id": 67275
+    }
+  ]
+}

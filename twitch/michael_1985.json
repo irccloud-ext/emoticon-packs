@@ -1,1 +1,31 @@
-{"name":"twitch-sub-michael_1985","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mclOom","image_id":28629},{"match":"mclOoo","image_id":28628},{"match":"mclKatz","image_id":28627},{"match":"mclPalm","image_id":30411},{"match":"mclDONUT","image_id":30258},{"match":"mclNein","image_id":33211}]}
+{
+  "name": "twitch-sub-michael_1985",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mclOom",
+      "image_id": 28629
+    },
+    {
+      "match": "mclOoo",
+      "image_id": 28628
+    },
+    {
+      "match": "mclKatz",
+      "image_id": 28627
+    },
+    {
+      "match": "mclPalm",
+      "image_id": 30411
+    },
+    {
+      "match": "mclDONUT",
+      "image_id": 30258
+    },
+    {
+      "match": "mclNein",
+      "image_id": 33211
+    }
+  ]
+}

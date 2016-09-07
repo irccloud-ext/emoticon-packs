@@ -1,1 +1,47 @@
-{"name":"twitch-sub-koopatroopa787","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"koopaHeart","image_id":18708},{"match":"koopaRip","image_id":36037},{"match":"koopaKappa","image_id":54441},{"match":"koopaGG","image_id":41466},{"match":"koopaSalute","image_id":41467},{"match":"koopaL","image_id":94220},{"match":"koopaR","image_id":94222},{"match":"koopaGotem","image_id":107169},{"match":"koopaO","image_id":107170},{"match":"koopaI","image_id":107171}]}
+{
+  "name": "twitch-sub-koopatroopa787",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "koopaHeart",
+      "image_id": 18708
+    },
+    {
+      "match": "koopaRip",
+      "image_id": 36037
+    },
+    {
+      "match": "koopaKappa",
+      "image_id": 54441
+    },
+    {
+      "match": "koopaGG",
+      "image_id": 41466
+    },
+    {
+      "match": "koopaSalute",
+      "image_id": 41467
+    },
+    {
+      "match": "koopaL",
+      "image_id": 94220
+    },
+    {
+      "match": "koopaR",
+      "image_id": 94222
+    },
+    {
+      "match": "koopaGotem",
+      "image_id": 107169
+    },
+    {
+      "match": "koopaO",
+      "image_id": 107170
+    },
+    {
+      "match": "koopaI",
+      "image_id": 107171
+    }
+  ]
+}

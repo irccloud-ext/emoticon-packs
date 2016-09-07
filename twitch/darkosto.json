@@ -1,0 +1,31 @@
+{
+  "name": "twitch-sub-darkosto",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "darkoYay",
+      "image_id": 111815
+    },
+    {
+      "match": "darkoHeart",
+      "image_id": 111800
+    },
+    {
+      "match": "darkoRekt",
+      "image_id": 111801
+    },
+    {
+      "match": "darkoHype",
+      "image_id": 111803
+    },
+    {
+      "match": "darkoCute",
+      "image_id": 111804
+    },
+    {
+      "match": "darkoDerp",
+      "image_id": 111805
+    }
+  ]
+}

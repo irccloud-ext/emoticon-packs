@@ -1,1 +1,31 @@
-{"name":"twitch-sub-pathraplays","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pathraChamp","image_id":90986},{"match":"pathraDucky","image_id":90985},{"match":"pathraH","image_id":95803},{"match":"pathraHype","image_id":95810},{"match":"pathraHi","image_id":95105},{"match":"pathraXD","image_id":111164}]}
+{
+  "name": "twitch-sub-pathraplays",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pathraChamp",
+      "image_id": 90986
+    },
+    {
+      "match": "pathraDucky",
+      "image_id": 90985
+    },
+    {
+      "match": "pathraH",
+      "image_id": 95803
+    },
+    {
+      "match": "pathraHype",
+      "image_id": 95810
+    },
+    {
+      "match": "pathraHi",
+      "image_id": 95105
+    },
+    {
+      "match": "pathraXD",
+      "image_id": 111164
+    }
+  ]
+}

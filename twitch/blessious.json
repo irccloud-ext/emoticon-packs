@@ -1,1 +1,31 @@
-{"name":"twitch-sub-blessious","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"blessGrump","image_id":111557},{"match":"blessGasp","image_id":107902},{"match":"blessHype","image_id":107929},{"match":"blessTealizard","image_id":109784},{"match":"blessHi","image_id":108064},{"match":"blessLove","image_id":111386}]}
+{
+  "name": "twitch-sub-blessious",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "blessGrump",
+      "image_id": 111557
+    },
+    {
+      "match": "blessGasp",
+      "image_id": 107902
+    },
+    {
+      "match": "blessHype",
+      "image_id": 107929
+    },
+    {
+      "match": "blessTealizard",
+      "image_id": 109784
+    },
+    {
+      "match": "blessHi",
+      "image_id": 108064
+    },
+    {
+      "match": "blessLove",
+      "image_id": 111386
+    }
+  ]
+}

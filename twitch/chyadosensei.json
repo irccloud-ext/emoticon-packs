@@ -1,1 +1,31 @@
-{"name":"twitch-sub-chyadosensei","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chyadoBall","image_id":39060},{"match":"chyadoYes","image_id":39059},{"match":"chyadoHeart","image_id":40061},{"match":"chyadoSensei","image_id":48433},{"match":"chyadoCheer","image_id":78074},{"match":"chyadoKabuki","image_id":78075}]}
+{
+  "name": "twitch-sub-chyadosensei",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chyadoBall",
+      "image_id": 39060
+    },
+    {
+      "match": "chyadoYes",
+      "image_id": 39059
+    },
+    {
+      "match": "chyadoHeart",
+      "image_id": 40061
+    },
+    {
+      "match": "chyadoSensei",
+      "image_id": 48433
+    },
+    {
+      "match": "chyadoCheer",
+      "image_id": 78074
+    },
+    {
+      "match": "chyadoKabuki",
+      "image_id": 78075
+    }
+  ]
+}

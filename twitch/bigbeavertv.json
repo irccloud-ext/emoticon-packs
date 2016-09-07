@@ -1,1 +1,27 @@
-{"name":"twitch-sub-bigbeavertv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"beavWINK","image_id":4701},{"match":"beavBANANA","image_id":4803},{"match":"beavKAPPA","image_id":4889},{"match":"beavSHADES","image_id":4852},{"match":"beavTaco","image_id":19257}]}
+{
+  "name": "twitch-sub-bigbeavertv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "beavWINK",
+      "image_id": 4701
+    },
+    {
+      "match": "beavBANANA",
+      "image_id": 4803
+    },
+    {
+      "match": "beavKAPPA",
+      "image_id": 4889
+    },
+    {
+      "match": "beavSHADES",
+      "image_id": 4852
+    },
+    {
+      "match": "beavTaco",
+      "image_id": 19257
+    }
+  ]
+}

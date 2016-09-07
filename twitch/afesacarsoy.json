@@ -1,1 +1,31 @@
-{"name":"twitch-sub-afesacarsoy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sefaO7","image_id":69223},{"match":"sefaPride","image_id":69299},{"match":"sefaSatti","image_id":95448},{"match":"sefaFail","image_id":95447},{"match":"sefaBayrak","image_id":95186},{"match":"sefaVac","image_id":95188}]}
+{
+  "name": "twitch-sub-afesacarsoy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sefaO7",
+      "image_id": 69223
+    },
+    {
+      "match": "sefaPride",
+      "image_id": 69299
+    },
+    {
+      "match": "sefaSatti",
+      "image_id": 95448
+    },
+    {
+      "match": "sefaFail",
+      "image_id": 95447
+    },
+    {
+      "match": "sefaBayrak",
+      "image_id": 95186
+    },
+    {
+      "match": "sefaVac",
+      "image_id": 95188
+    }
+  ]
+}

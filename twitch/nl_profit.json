@@ -1,1 +1,11 @@
-{"name":"twitch-sub-nl_profit","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nlprofitBarabaka","image_id":54781}]}
+{
+  "name": "twitch-sub-nl_profit",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nlprofitBarabaka",
+      "image_id": 54781
+    }
+  ]
+}

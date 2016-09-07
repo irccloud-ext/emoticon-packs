@@ -1,1 +1,27 @@
-{"name":"twitch-sub-protatomonster","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"protatoGlasses","image_id":44280},{"match":"protatoMonster","image_id":44682},{"match":"protatoLaugh","image_id":12847},{"match":"protatoTop","image_id":47757},{"match":"protatoWood","image_id":47758}]}
+{
+  "name": "twitch-sub-protatomonster",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "protatoGlasses",
+      "image_id": 44280
+    },
+    {
+      "match": "protatoMonster",
+      "image_id": 44682
+    },
+    {
+      "match": "protatoLaugh",
+      "image_id": 12847
+    },
+    {
+      "match": "protatoTop",
+      "image_id": 47757
+    },
+    {
+      "match": "protatoWood",
+      "image_id": 47758
+    }
+  ]
+}

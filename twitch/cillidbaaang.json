@@ -1,1 +1,39 @@
-{"name":"twitch-sub-cillidbaaang","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cillidDeal","image_id":84591},{"match":"cillidLove","image_id":84621},{"match":"cillidRage","image_id":83337},{"match":"cillidAbgehoben","image_id":83338},{"match":"cillidHi","image_id":83403},{"match":"cillidJunge","image_id":97058},{"match":"cillidRekt","image_id":109408},{"match":"cillidSad","image_id":109314}]}
+{
+  "name": "twitch-sub-cillidbaaang",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cillidDeal",
+      "image_id": 84591
+    },
+    {
+      "match": "cillidLove",
+      "image_id": 84621
+    },
+    {
+      "match": "cillidRage",
+      "image_id": 83337
+    },
+    {
+      "match": "cillidAbgehoben",
+      "image_id": 83338
+    },
+    {
+      "match": "cillidHi",
+      "image_id": 83403
+    },
+    {
+      "match": "cillidJunge",
+      "image_id": 97058
+    },
+    {
+      "match": "cillidRekt",
+      "image_id": 109408
+    },
+    {
+      "match": "cillidSad",
+      "image_id": 109314
+    }
+  ]
+}

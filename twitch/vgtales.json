@@ -1,1 +1,39 @@
-{"name":"twitch-sub-vgtales","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vgtMic","image_id":27291},{"match":"vgtAdd","image_id":27292},{"match":"vgtTapas","image_id":28206},{"match":"vgtSub","image_id":28205},{"match":"vgtSpam","image_id":29964},{"match":"vgtMoney","image_id":29966},{"match":"vgtFam","image_id":36523},{"match":"vgtNtou","image_id":36522}]}
+{
+  "name": "twitch-sub-vgtales",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vgtMic",
+      "image_id": 27291
+    },
+    {
+      "match": "vgtAdd",
+      "image_id": 27292
+    },
+    {
+      "match": "vgtTapas",
+      "image_id": 28206
+    },
+    {
+      "match": "vgtSub",
+      "image_id": 28205
+    },
+    {
+      "match": "vgtSpam",
+      "image_id": 29964
+    },
+    {
+      "match": "vgtMoney",
+      "image_id": 29966
+    },
+    {
+      "match": "vgtFam",
+      "image_id": 36523
+    },
+    {
+      "match": "vgtNtou",
+      "image_id": 36522
+    }
+  ]
+}

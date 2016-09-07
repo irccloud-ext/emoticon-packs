@@ -1,1 +1,31 @@
-{"name":"twitch-sub-enjiin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"enjiindtHype","image_id":71318},{"match":"enjiindtCry","image_id":71321},{"match":"enjiindtMoney","image_id":71319},{"match":"enjiindtKappa","image_id":71317},{"match":"enjiindtKebab","image_id":73798},{"match":"enjiindtRip","image_id":73797}]}
+{
+  "name": "twitch-sub-enjiin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "enjiindtHype",
+      "image_id": 71318
+    },
+    {
+      "match": "enjiindtCry",
+      "image_id": 71321
+    },
+    {
+      "match": "enjiindtMoney",
+      "image_id": 71319
+    },
+    {
+      "match": "enjiindtKappa",
+      "image_id": 71317
+    },
+    {
+      "match": "enjiindtKebab",
+      "image_id": 73798
+    },
+    {
+      "match": "enjiindtRip",
+      "image_id": 73797
+    }
+  ]
+}

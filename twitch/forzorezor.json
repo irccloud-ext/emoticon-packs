@@ -1,1 +1,39 @@
-{"name":"twitch-sub-forzorezor","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"forzoreGoodGame","image_id":21998},{"match":"forzoreRage","image_id":52825},{"match":"forzoreFacepalm","image_id":47403},{"match":"forzoreWow","image_id":47402},{"match":"forzoreRIP","image_id":48266},{"match":"forzoreCry","image_id":52824},{"match":"forzoreSub","image_id":59424},{"match":"forzoreFinatta","image_id":59425}]}
+{
+  "name": "twitch-sub-forzorezor",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "forzoreGoodGame",
+      "image_id": 21998
+    },
+    {
+      "match": "forzoreRage",
+      "image_id": 52825
+    },
+    {
+      "match": "forzoreFacepalm",
+      "image_id": 47403
+    },
+    {
+      "match": "forzoreWow",
+      "image_id": 47402
+    },
+    {
+      "match": "forzoreRIP",
+      "image_id": 48266
+    },
+    {
+      "match": "forzoreCry",
+      "image_id": 52824
+    },
+    {
+      "match": "forzoreSub",
+      "image_id": 59424
+    },
+    {
+      "match": "forzoreFinatta",
+      "image_id": 59425
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-titavion","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"titavMariohype","image_id":95682},{"match":"titavChoco","image_id":91984},{"match":"titavLinkhype","image_id":93312},{"match":"titavSoftlock","image_id":100566},{"match":"titavSonichype","image_id":103044},{"match":"titavMegahype","image_id":104146}]}
+{
+  "name": "twitch-sub-titavion",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "titavMariohype",
+      "image_id": 95682
+    },
+    {
+      "match": "titavChoco",
+      "image_id": 91984
+    },
+    {
+      "match": "titavLinkhype",
+      "image_id": 93312
+    },
+    {
+      "match": "titavSoftlock",
+      "image_id": 100566
+    },
+    {
+      "match": "titavSonichype",
+      "image_id": 103044
+    },
+    {
+      "match": "titavMegahype",
+      "image_id": 104146
+    }
+  ]
+}

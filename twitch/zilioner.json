@@ -1,1 +1,23 @@
-{"name":"twitch-sub-zilioner","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ccaHAPPY","image_id":66150},{"match":"ccaNo","image_id":87866},{"match":"ccaJustice","image_id":87865},{"match":"ccaEsports","image_id":87864}]}
+{
+  "name": "twitch-sub-zilioner",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ccaHAPPY",
+      "image_id": 66150
+    },
+    {
+      "match": "ccaNo",
+      "image_id": 87866
+    },
+    {
+      "match": "ccaJustice",
+      "image_id": 87865
+    },
+    {
+      "match": "ccaEsports",
+      "image_id": 87864
+    }
+  ]
+}

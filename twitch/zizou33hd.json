@@ -1,1 +1,31 @@
-{"name":"twitch-sub-zizou33hd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zizouPDE","image_id":27006},{"match":"zizouGOAL","image_id":27671},{"match":"zizouTURFU","image_id":32868},{"match":"zizouCACA","image_id":32980},{"match":"zizouILU","image_id":37561},{"match":"zizouKAPPA","image_id":37691}]}
+{
+  "name": "twitch-sub-zizou33hd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zizouPDE",
+      "image_id": 27006
+    },
+    {
+      "match": "zizouGOAL",
+      "image_id": 27671
+    },
+    {
+      "match": "zizouTURFU",
+      "image_id": 32868
+    },
+    {
+      "match": "zizouCACA",
+      "image_id": 32980
+    },
+    {
+      "match": "zizouILU",
+      "image_id": 37561
+    },
+    {
+      "match": "zizouKAPPA",
+      "image_id": 37691
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-maowzz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mpoopMOST","image_id":60973},{"match":"mpoopMusPOOP","image_id":60972}]}
+{
+  "name": "twitch-sub-maowzz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mpoopMOST",
+      "image_id": 60973
+    },
+    {
+      "match": "mpoopMusPOOP",
+      "image_id": 60972
+    }
+  ]
+}

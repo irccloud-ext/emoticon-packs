@@ -1,1 +1,39 @@
-{"name":"twitch-sub-cleavetv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cleaveKappa","image_id":47069},{"match":"cleaveLove","image_id":49079},{"match":"cleaveBear","image_id":47887},{"match":"cleaveBot","image_id":47153},{"match":"cleaveNana","image_id":47060},{"match":"cleaveRekt","image_id":58012},{"match":"cleaveHype","image_id":48760},{"match":"cleaveRito","image_id":52294}]}
+{
+  "name": "twitch-sub-cleavetv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cleaveKappa",
+      "image_id": 47069
+    },
+    {
+      "match": "cleaveLove",
+      "image_id": 49079
+    },
+    {
+      "match": "cleaveBear",
+      "image_id": 47887
+    },
+    {
+      "match": "cleaveBot",
+      "image_id": 47153
+    },
+    {
+      "match": "cleaveNana",
+      "image_id": 47060
+    },
+    {
+      "match": "cleaveRekt",
+      "image_id": 58012
+    },
+    {
+      "match": "cleaveHype",
+      "image_id": 48760
+    },
+    {
+      "match": "cleaveRito",
+      "image_id": 52294
+    }
+  ]
+}

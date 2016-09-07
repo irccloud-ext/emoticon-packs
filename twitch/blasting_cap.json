@@ -1,1 +1,11 @@
-{"name":"twitch-sub-blasting_cap","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"blastingKappa","image_id":105212}]}
+{
+  "name": "twitch-sub-blasting_cap",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "blastingKappa",
+      "image_id": 105212
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-dreamboum","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dreamIsDead","image_id":21034},{"match":"dreamSlime","image_id":20236},{"match":"dreamBLIMEY","image_id":21095},{"match":"dreamSnooze","image_id":21097}]}
+{
+  "name": "twitch-sub-dreamboum",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dreamIsDead",
+      "image_id": 21034
+    },
+    {
+      "match": "dreamSlime",
+      "image_id": 20236
+    },
+    {
+      "match": "dreamBLIMEY",
+      "image_id": 21095
+    },
+    {
+      "match": "dreamSnooze",
+      "image_id": 21097
+    }
+  ]
+}

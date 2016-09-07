@@ -1,1 +1,23 @@
-{"name":"twitch-sub-s_alkahlan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"k7lMoney","image_id":78398},{"match":"k7lGG","image_id":76204},{"match":"k7lAK","image_id":78394},{"match":"k7lJLD","image_id":78393}]}
+{
+  "name": "twitch-sub-s_alkahlan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "k7lMoney",
+      "image_id": 78398
+    },
+    {
+      "match": "k7lGG",
+      "image_id": 76204
+    },
+    {
+      "match": "k7lAK",
+      "image_id": 78394
+    },
+    {
+      "match": "k7lJLD",
+      "image_id": 78393
+    }
+  ]
+}

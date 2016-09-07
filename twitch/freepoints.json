@@ -1,1 +1,23 @@
-{"name":"twitch-sub-freepoints","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"derpOOH","image_id":16685},{"match":"derpLove","image_id":16464},{"match":"derpHYPE","image_id":60558},{"match":"derpBEEZY","image_id":60559}]}
+{
+  "name": "twitch-sub-freepoints",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "derpOOH",
+      "image_id": 16685
+    },
+    {
+      "match": "derpLove",
+      "image_id": 16464
+    },
+    {
+      "match": "derpHYPE",
+      "image_id": 60558
+    },
+    {
+      "match": "derpBEEZY",
+      "image_id": 60559
+    }
+  ]
+}

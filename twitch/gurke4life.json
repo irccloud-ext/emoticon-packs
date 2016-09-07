@@ -1,1 +1,67 @@
-{"name":"twitch-sub-gurke4life","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"perrickCreepy","image_id":41394},{"match":"perrickReudig","image_id":48141},{"match":"perrickWoot","image_id":48142},{"match":"perrickW","image_id":65593},{"match":"perrickHi","image_id":88349},{"match":"perrickHype","image_id":88350},{"match":"perrickFail","image_id":88351},{"match":"perrickBoosted","image_id":88354},{"match":"perrickRip","image_id":61781},{"match":"perrickWat","image_id":66127},{"match":"perrickSalt","image_id":88353},{"match":"perrickMoney","image_id":88352},{"match":"perrickCry","image_id":88348},{"match":"perrickFeels","image_id":88347},{"match":"perrickH","image_id":88346}]}
+{
+  "name": "twitch-sub-gurke4life",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "perrickCreepy",
+      "image_id": 41394
+    },
+    {
+      "match": "perrickReudig",
+      "image_id": 48141
+    },
+    {
+      "match": "perrickWoot",
+      "image_id": 48142
+    },
+    {
+      "match": "perrickW",
+      "image_id": 65593
+    },
+    {
+      "match": "perrickHi",
+      "image_id": 88349
+    },
+    {
+      "match": "perrickHype",
+      "image_id": 88350
+    },
+    {
+      "match": "perrickFail",
+      "image_id": 88351
+    },
+    {
+      "match": "perrickBoosted",
+      "image_id": 88354
+    },
+    {
+      "match": "perrickRip",
+      "image_id": 61781
+    },
+    {
+      "match": "perrickWat",
+      "image_id": 66127
+    },
+    {
+      "match": "perrickSalt",
+      "image_id": 88353
+    },
+    {
+      "match": "perrickMoney",
+      "image_id": 88352
+    },
+    {
+      "match": "perrickCry",
+      "image_id": 88348
+    },
+    {
+      "match": "perrickFeels",
+      "image_id": 88347
+    },
+    {
+      "match": "perrickH",
+      "image_id": 88346
+    }
+  ]
+}

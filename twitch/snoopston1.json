@@ -1,1 +1,39 @@
-{"name":"twitch-sub-snoopston1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"brianSalt","image_id":77981},{"match":"brianDomed","image_id":77630},{"match":"brianLove","image_id":77014},{"match":"brianKappa","image_id":77016},{"match":"brianPotato","image_id":78201},{"match":"brianRip","image_id":81819},{"match":"brianFeelsBad","image_id":81925},{"match":"brianHype","image_id":81926}]}
+{
+  "name": "twitch-sub-snoopston1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "brianSalt",
+      "image_id": 77981
+    },
+    {
+      "match": "brianDomed",
+      "image_id": 77630
+    },
+    {
+      "match": "brianLove",
+      "image_id": 77014
+    },
+    {
+      "match": "brianKappa",
+      "image_id": 77016
+    },
+    {
+      "match": "brianPotato",
+      "image_id": 78201
+    },
+    {
+      "match": "brianRip",
+      "image_id": 81819
+    },
+    {
+      "match": "brianFeelsBad",
+      "image_id": 81925
+    },
+    {
+      "match": "brianHype",
+      "image_id": 81926
+    }
+  ]
+}

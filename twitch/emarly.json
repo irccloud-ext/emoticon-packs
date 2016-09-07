@@ -1,1 +1,31 @@
-{"name":"twitch-sub-emarly","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"emarlyEY","image_id":83454},{"match":"emarlyFantas","image_id":82727},{"match":"emarlyGasm","image_id":84201},{"match":"emarlyEMADLY","image_id":84393},{"match":"emarlyCry","image_id":101063},{"match":"emarlyLove","image_id":101863}]}
+{
+  "name": "twitch-sub-emarly",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "emarlyEY",
+      "image_id": 83454
+    },
+    {
+      "match": "emarlyFantas",
+      "image_id": 82727
+    },
+    {
+      "match": "emarlyGasm",
+      "image_id": 84201
+    },
+    {
+      "match": "emarlyEMADLY",
+      "image_id": 84393
+    },
+    {
+      "match": "emarlyCry",
+      "image_id": 101063
+    },
+    {
+      "match": "emarlyLove",
+      "image_id": 101863
+    }
+  ]
+}

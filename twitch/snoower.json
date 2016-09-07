@@ -1,1 +1,31 @@
-{"name":"twitch-sub-snoower","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"snoowDerp","image_id":81388},{"match":"snoowMiecz","image_id":81074},{"match":"snoowRekt","image_id":61124},{"match":"snoowHype","image_id":61225},{"match":"snoowHey","image_id":106937},{"match":"snoowRage","image_id":105355}]}
+{
+  "name": "twitch-sub-snoower",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "snoowDerp",
+      "image_id": 81388
+    },
+    {
+      "match": "snoowMiecz",
+      "image_id": 81074
+    },
+    {
+      "match": "snoowRekt",
+      "image_id": 61124
+    },
+    {
+      "match": "snoowHype",
+      "image_id": 61225
+    },
+    {
+      "match": "snoowHey",
+      "image_id": 106937
+    },
+    {
+      "match": "snoowRage",
+      "image_id": 105355
+    }
+  ]
+}

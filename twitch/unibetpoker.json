@@ -1,1 +1,15 @@
-{"name":"twitch-sub-unibetpoker","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"unibetFist","image_id":78481},{"match":"unibetDig","image_id":95362}]}
+{
+  "name": "twitch-sub-unibetpoker",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "unibetFist",
+      "image_id": 78481
+    },
+    {
+      "match": "unibetDig",
+      "image_id": 95362
+    }
+  ]
+}

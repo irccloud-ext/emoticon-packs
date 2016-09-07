@@ -1,1 +1,23 @@
-{"name":"twitch-sub-relaxingstream","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"theM","image_id":8698},{"match":"theA","image_id":8530},{"match":"theDoge","image_id":22063},{"match":"theShotties","image_id":20849}]}
+{
+  "name": "twitch-sub-relaxingstream",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "theM",
+      "image_id": 8698
+    },
+    {
+      "match": "theA",
+      "image_id": 8530
+    },
+    {
+      "match": "theDoge",
+      "image_id": 22063
+    },
+    {
+      "match": "theShotties",
+      "image_id": 20849
+    }
+  ]
+}

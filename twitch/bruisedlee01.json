@@ -1,1 +1,39 @@
-{"name":"twitch-sub-bruisedlee01","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bruisedGong","image_id":19569},{"match":"bruisedRipped","image_id":19570},{"match":"bruisedSamurai","image_id":19572},{"match":"bruisedPoop","image_id":19571},{"match":"bruisedKitten","image_id":20345},{"match":"bruisedPizza","image_id":21594},{"match":"bruisedLove","image_id":23237},{"match":"bruisedEnergy","image_id":22434}]}
+{
+  "name": "twitch-sub-bruisedlee01",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bruisedGong",
+      "image_id": 19569
+    },
+    {
+      "match": "bruisedRipped",
+      "image_id": 19570
+    },
+    {
+      "match": "bruisedSamurai",
+      "image_id": 19572
+    },
+    {
+      "match": "bruisedPoop",
+      "image_id": 19571
+    },
+    {
+      "match": "bruisedKitten",
+      "image_id": 20345
+    },
+    {
+      "match": "bruisedPizza",
+      "image_id": 21594
+    },
+    {
+      "match": "bruisedLove",
+      "image_id": 23237
+    },
+    {
+      "match": "bruisedEnergy",
+      "image_id": 22434
+    }
+  ]
+}

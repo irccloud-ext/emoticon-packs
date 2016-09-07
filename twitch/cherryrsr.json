@@ -1,1 +1,31 @@
-{"name":"twitch-sub-cherryrsr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cherLove","image_id":47529},{"match":"cherSpud","image_id":102892},{"match":"cherMad","image_id":64007},{"match":"cherThumb","image_id":64006},{"match":"cherBurp","image_id":64005},{"match":"cherPalm","image_id":64004}]}
+{
+  "name": "twitch-sub-cherryrsr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cherLove",
+      "image_id": 47529
+    },
+    {
+      "match": "cherSpud",
+      "image_id": 102892
+    },
+    {
+      "match": "cherMad",
+      "image_id": 64007
+    },
+    {
+      "match": "cherThumb",
+      "image_id": 64006
+    },
+    {
+      "match": "cherBurp",
+      "image_id": 64005
+    },
+    {
+      "match": "cherPalm",
+      "image_id": 64004
+    }
+  ]
+}

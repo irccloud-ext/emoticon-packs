@@ -1,1 +1,39 @@
-{"name":"twitch-sub-yunka89","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yunkaHi","image_id":107630},{"match":"yunkaRAGE","image_id":105782},{"match":"yunkaThump","image_id":106029},{"match":"yunkaFail","image_id":107676},{"match":"yunka69","image_id":106374},{"match":"yunkaRip","image_id":106372},{"match":"yunkaSwag","image_id":106339},{"match":"yunkaLove","image_id":106335}]}
+{
+  "name": "twitch-sub-yunka89",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yunkaHi",
+      "image_id": 107630
+    },
+    {
+      "match": "yunkaRAGE",
+      "image_id": 105782
+    },
+    {
+      "match": "yunkaThump",
+      "image_id": 106029
+    },
+    {
+      "match": "yunkaFail",
+      "image_id": 107676
+    },
+    {
+      "match": "yunka69",
+      "image_id": 106374
+    },
+    {
+      "match": "yunkaRip",
+      "image_id": 106372
+    },
+    {
+      "match": "yunkaSwag",
+      "image_id": 106339
+    },
+    {
+      "match": "yunkaLove",
+      "image_id": 106335
+    }
+  ]
+}

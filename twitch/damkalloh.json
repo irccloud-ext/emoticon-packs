@@ -1,1 +1,27 @@
-{"name":"twitch-sub-damkalloh","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"damUnicorn","image_id":36954},{"match":"damRekt","image_id":47996},{"match":"damDoom","image_id":79378},{"match":"damTrol","image_id":79576},{"match":"damMeh","image_id":79377}]}
+{
+  "name": "twitch-sub-damkalloh",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "damUnicorn",
+      "image_id": 36954
+    },
+    {
+      "match": "damRekt",
+      "image_id": 47996
+    },
+    {
+      "match": "damDoom",
+      "image_id": 79378
+    },
+    {
+      "match": "damTrol",
+      "image_id": 79576
+    },
+    {
+      "match": "damMeh",
+      "image_id": 79377
+    }
+  ]
+}

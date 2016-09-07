@@ -1,1 +1,39 @@
-{"name":"twitch-sub-x_dr_dave_x","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"drdaveLOVE","image_id":62161},{"match":"drdaveHYPE","image_id":51212},{"match":"drdaveSPUD","image_id":51211},{"match":"drdaveREKT","image_id":53293},{"match":"drdaveNATION","image_id":61993},{"match":"drdaveLERKN","image_id":61994},{"match":"drdaveHEY","image_id":61995},{"match":"drdaveSWEAT","image_id":61991}]}
+{
+  "name": "twitch-sub-x_dr_dave_x",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "drdaveLOVE",
+      "image_id": 62161
+    },
+    {
+      "match": "drdaveHYPE",
+      "image_id": 51212
+    },
+    {
+      "match": "drdaveSPUD",
+      "image_id": 51211
+    },
+    {
+      "match": "drdaveREKT",
+      "image_id": 53293
+    },
+    {
+      "match": "drdaveNATION",
+      "image_id": 61993
+    },
+    {
+      "match": "drdaveLERKN",
+      "image_id": 61994
+    },
+    {
+      "match": "drdaveHEY",
+      "image_id": 61995
+    },
+    {
+      "match": "drdaveSWEAT",
+      "image_id": 61991
+    }
+  ]
+}

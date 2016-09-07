@@ -1,1 +1,119 @@
-{"name":"twitch-sub-forsenlol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"forsenSambool","image_id":45561},{"match":"forsenODO","image_id":17303},{"match":"forsenOP","image_id":27611},{"match":"forsenRP","image_id":31100},{"match":"forsenW","image_id":31021},{"match":"forsenBoys","image_id":31097},{"match":"forsenDDK","image_id":36391},{"match":"forsenMoney","image_id":36392},{"match":"forsenBanned","image_id":36394},{"match":"forsenSS","image_id":36535},{"match":"forsenX","image_id":60257},{"match":"forsenClown","image_id":60378},{"match":"forsenC","image_id":60379},{"match":"forsenSheffy","image_id":60390},{"match":"forsenPuke","image_id":60391},{"match":"forsenPepe","image_id":60279},{"match":"forsenWut","image_id":67684},{"match":"forsenIQ","image_id":67683},{"match":"forsenTriggered","image_id":78454},{"match":"forsenKnife","image_id":90377},{"match":"forsenWhip","image_id":89640},{"match":"forsenSleeper","image_id":89641},{"match":"forsenFajita","image_id":89677},{"match":"forsenPuke2","image_id":89678},{"match":"forsenSwag","image_id":89959},{"match":"forsenGun","image_id":89650},{"match":"forsenLewd","image_id":96553},{"match":"forsenE","image_id":93064}]}
+{
+  "name": "twitch-sub-forsenlol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "forsenSambool",
+      "image_id": 45561
+    },
+    {
+      "match": "forsenODO",
+      "image_id": 17303
+    },
+    {
+      "match": "forsenOP",
+      "image_id": 27611
+    },
+    {
+      "match": "forsenRP",
+      "image_id": 31100
+    },
+    {
+      "match": "forsenW",
+      "image_id": 31021
+    },
+    {
+      "match": "forsenBoys",
+      "image_id": 31097
+    },
+    {
+      "match": "forsenDDK",
+      "image_id": 36391
+    },
+    {
+      "match": "forsenMoney",
+      "image_id": 36392
+    },
+    {
+      "match": "forsenBanned",
+      "image_id": 36394
+    },
+    {
+      "match": "forsenSS",
+      "image_id": 36535
+    },
+    {
+      "match": "forsenX",
+      "image_id": 60257
+    },
+    {
+      "match": "forsenClown",
+      "image_id": 60378
+    },
+    {
+      "match": "forsenC",
+      "image_id": 60379
+    },
+    {
+      "match": "forsenSheffy",
+      "image_id": 60390
+    },
+    {
+      "match": "forsenPuke",
+      "image_id": 60391
+    },
+    {
+      "match": "forsenPepe",
+      "image_id": 60279
+    },
+    {
+      "match": "forsenWut",
+      "image_id": 67684
+    },
+    {
+      "match": "forsenIQ",
+      "image_id": 67683
+    },
+    {
+      "match": "forsenTriggered",
+      "image_id": 78454
+    },
+    {
+      "match": "forsenKnife",
+      "image_id": 90377
+    },
+    {
+      "match": "forsenWhip",
+      "image_id": 89640
+    },
+    {
+      "match": "forsenSleeper",
+      "image_id": 89641
+    },
+    {
+      "match": "forsenFajita",
+      "image_id": 89677
+    },
+    {
+      "match": "forsenPuke2",
+      "image_id": 89678
+    },
+    {
+      "match": "forsenSwag",
+      "image_id": 89959
+    },
+    {
+      "match": "forsenGun",
+      "image_id": 89650
+    },
+    {
+      "match": "forsenLewd",
+      "image_id": 96553
+    },
+    {
+      "match": "forsenE",
+      "image_id": 93064
+    }
+  ]
+}

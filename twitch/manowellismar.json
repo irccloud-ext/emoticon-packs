@@ -1,1 +1,23 @@
-{"name":"twitch-sub-manowellismar","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"huebrJANAI","image_id":16390},{"match":"huebrBOB","image_id":16391},{"match":"huebrDOLLAR","image_id":18519},{"match":"huebrVIOLA","image_id":18524}]}
+{
+  "name": "twitch-sub-manowellismar",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "huebrJANAI",
+      "image_id": 16390
+    },
+    {
+      "match": "huebrBOB",
+      "image_id": 16391
+    },
+    {
+      "match": "huebrDOLLAR",
+      "image_id": 18519
+    },
+    {
+      "match": "huebrVIOLA",
+      "image_id": 18524
+    }
+  ]
+}

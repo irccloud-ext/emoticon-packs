@@ -1,1 +1,23 @@
-{"name":"twitch-sub-aaravatv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aaravaAyy","image_id":79084},{"match":"aaravaDREAM","image_id":68585},{"match":"aaravaHYPE","image_id":75689},{"match":"aaravaLIT","image_id":78989}]}
+{
+  "name": "twitch-sub-aaravatv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aaravaAyy",
+      "image_id": 79084
+    },
+    {
+      "match": "aaravaDREAM",
+      "image_id": 68585
+    },
+    {
+      "match": "aaravaHYPE",
+      "image_id": 75689
+    },
+    {
+      "match": "aaravaLIT",
+      "image_id": 78989
+    }
+  ]
+}

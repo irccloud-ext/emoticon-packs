@@ -1,1 +1,15 @@
-{"name":"twitch-sub-acoimbrapoker","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"acoBANG","image_id":82544},{"match":"acoVAMOS","image_id":106017}]}
+{
+  "name": "twitch-sub-acoimbrapoker",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "acoBANG",
+      "image_id": 82544
+    },
+    {
+      "match": "acoVAMOS",
+      "image_id": 106017
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"twitch-sub-dragon","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jysSuccess","image_id":4908},{"match":"jysBBQ","image_id":4907},{"match":"jysGasm","image_id":83795},{"match":"jysUban","image_id":16394},{"match":"jysOh","image_id":24532},{"match":"jysSixtynine","image_id":53317},{"match":"jysGirl","image_id":83080}]}
+{
+  "name": "twitch-sub-dragon",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jysSuccess",
+      "image_id": 4908
+    },
+    {
+      "match": "jysBBQ",
+      "image_id": 4907
+    },
+    {
+      "match": "jysGasm",
+      "image_id": 83795
+    },
+    {
+      "match": "jysUban",
+      "image_id": 16394
+    },
+    {
+      "match": "jysOh",
+      "image_id": 24532
+    },
+    {
+      "match": "jysSixtynine",
+      "image_id": 53317
+    },
+    {
+      "match": "jysGirl",
+      "image_id": 83080
+    }
+  ]
+}

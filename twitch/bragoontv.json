@@ -1,1 +1,47 @@
-{"name":"twitch-sub-bragoontv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"layneLeaf","image_id":14549},{"match":"layneWhat","image_id":14577},{"match":"layneRoasted","image_id":14714},{"match":"laynePotato","image_id":27738},{"match":"layneRage","image_id":33515},{"match":"layneBruh","image_id":52314},{"match":"layneHype","image_id":53927},{"match":"layneMan","image_id":53928},{"match":"layneThump","image_id":93764},{"match":"layneLurk","image_id":102614}]}
+{
+  "name": "twitch-sub-bragoontv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "layneLeaf",
+      "image_id": 14549
+    },
+    {
+      "match": "layneWhat",
+      "image_id": 14577
+    },
+    {
+      "match": "layneRoasted",
+      "image_id": 14714
+    },
+    {
+      "match": "laynePotato",
+      "image_id": 27738
+    },
+    {
+      "match": "layneRage",
+      "image_id": 33515
+    },
+    {
+      "match": "layneBruh",
+      "image_id": 52314
+    },
+    {
+      "match": "layneHype",
+      "image_id": 53927
+    },
+    {
+      "match": "layneMan",
+      "image_id": 53928
+    },
+    {
+      "match": "layneThump",
+      "image_id": 93764
+    },
+    {
+      "match": "layneLurk",
+      "image_id": 102614
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-{"name":"twitch-sub-modiiie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"modiCalme","image_id":88823},{"match":"modiRage","image_id":90867},{"match":"modiRevo","image_id":90868},{"match":"modiCoeur","image_id":92240},{"match":"modiOuin","image_id":92241}]}
+{
+  "name": "twitch-sub-modiiie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "modiCalme",
+      "image_id": 88823
+    },
+    {
+      "match": "modiRage",
+      "image_id": 90867
+    },
+    {
+      "match": "modiRevo",
+      "image_id": 90868
+    },
+    {
+      "match": "modiCoeur",
+      "image_id": 92240
+    },
+    {
+      "match": "modiOuin",
+      "image_id": 92241
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mintbaby1113","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mintcat01Sleep","image_id":85255},{"match":"mintcat01Maki","image_id":85788},{"match":"mintcat01Kill","image_id":88194},{"match":"mintcat01UMR","image_id":89314},{"match":"mintcat01PAD","image_id":96327},{"match":"mintcat01Hui","image_id":96329}]}
+{
+  "name": "twitch-sub-mintbaby1113",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mintcat01Sleep",
+      "image_id": 85255
+    },
+    {
+      "match": "mintcat01Maki",
+      "image_id": 85788
+    },
+    {
+      "match": "mintcat01Kill",
+      "image_id": 88194
+    },
+    {
+      "match": "mintcat01UMR",
+      "image_id": 89314
+    },
+    {
+      "match": "mintcat01PAD",
+      "image_id": 96327
+    },
+    {
+      "match": "mintcat01Hui",
+      "image_id": 96329
+    }
+  ]
+}

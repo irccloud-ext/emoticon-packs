@@ -1,1 +1,167 @@
-{"name":"twitch-sub-imaqtpie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"qtpSPOOKY","image_id":3176},{"match":"qtpBROJOB","image_id":71789},{"match":"qtpSWAG","image_id":19673},{"match":"qtpBLESSED","image_id":12576},{"match":"qtpUSA","image_id":14303},{"match":"qtpDONG","image_id":17218},{"match":"qtpCULLED","image_id":19671},{"match":"qtpSTFU","image_id":22127},{"match":"qtpPOTATO","image_id":27309},{"match":"qtpPLEB","image_id":71790},{"match":"qtpPAID","image_id":31292},{"match":"qtp2CAN","image_id":31002},{"match":"qtpLEMONKEY","image_id":31003},{"match":"qtpWAVE","image_id":32438},{"match":"qtpB","image_id":86538},{"match":"qtpTILT","image_id":35064},{"match":"qtpA","image_id":86537},{"match":"qtpURGOD","image_id":40894},{"match":"qtpREKT","image_id":44079},{"match":"qtpASSIST","image_id":40895},{"match":"qtpMOIST","image_id":44081},{"match":"qtpLUCIAN","image_id":80386},{"match":"qtpWHAT","image_id":44083},{"match":"qtpHEART","image_id":41374},{"match":"qtpHONK","image_id":67391},{"match":"qtpMEW","image_id":69103},{"match":"qtpBABYRAGE","image_id":68194},{"match":"qtpOPENMID","image_id":68195},{"match":"qtpBAKED","image_id":69729},{"match":"qtpFEELS","image_id":69731},{"match":"qtpMELLOW","image_id":73073},{"match":"qtpWEEB","image_id":99081},{"match":"qtpOWO","image_id":99039},{"match":"qtpTHUMP","image_id":99038},{"match":"qtpMEME","image_id":99037},{"match":"qtpNO","image_id":99267},{"match":"qtp1","image_id":100186},{"match":"qtp2","image_id":100187},{"match":"qtp3","image_id":100188},{"match":"qtp4","image_id":100189}]}
+{
+  "name": "twitch-sub-imaqtpie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "qtpSPOOKY",
+      "image_id": 3176
+    },
+    {
+      "match": "qtpBROJOB",
+      "image_id": 71789
+    },
+    {
+      "match": "qtpSWAG",
+      "image_id": 19673
+    },
+    {
+      "match": "qtpBLESSED",
+      "image_id": 12576
+    },
+    {
+      "match": "qtpUSA",
+      "image_id": 14303
+    },
+    {
+      "match": "qtpDONG",
+      "image_id": 17218
+    },
+    {
+      "match": "qtpCULLED",
+      "image_id": 19671
+    },
+    {
+      "match": "qtpSTFU",
+      "image_id": 22127
+    },
+    {
+      "match": "qtpPOTATO",
+      "image_id": 27309
+    },
+    {
+      "match": "qtpPLEB",
+      "image_id": 71790
+    },
+    {
+      "match": "qtpPAID",
+      "image_id": 31292
+    },
+    {
+      "match": "qtp2CAN",
+      "image_id": 31002
+    },
+    {
+      "match": "qtpLEMONKEY",
+      "image_id": 31003
+    },
+    {
+      "match": "qtpWAVE",
+      "image_id": 32438
+    },
+    {
+      "match": "qtpB",
+      "image_id": 86538
+    },
+    {
+      "match": "qtpTILT",
+      "image_id": 35064
+    },
+    {
+      "match": "qtpA",
+      "image_id": 86537
+    },
+    {
+      "match": "qtpURGOD",
+      "image_id": 40894
+    },
+    {
+      "match": "qtpREKT",
+      "image_id": 44079
+    },
+    {
+      "match": "qtpASSIST",
+      "image_id": 40895
+    },
+    {
+      "match": "qtpMOIST",
+      "image_id": 44081
+    },
+    {
+      "match": "qtpLUCIAN",
+      "image_id": 80386
+    },
+    {
+      "match": "qtpWHAT",
+      "image_id": 44083
+    },
+    {
+      "match": "qtpHEART",
+      "image_id": 41374
+    },
+    {
+      "match": "qtpHONK",
+      "image_id": 67391
+    },
+    {
+      "match": "qtpMEW",
+      "image_id": 69103
+    },
+    {
+      "match": "qtpBABYRAGE",
+      "image_id": 68194
+    },
+    {
+      "match": "qtpOPENMID",
+      "image_id": 68195
+    },
+    {
+      "match": "qtpBAKED",
+      "image_id": 69729
+    },
+    {
+      "match": "qtpFEELS",
+      "image_id": 69731
+    },
+    {
+      "match": "qtpMELLOW",
+      "image_id": 73073
+    },
+    {
+      "match": "qtpWEEB",
+      "image_id": 99081
+    },
+    {
+      "match": "qtpOWO",
+      "image_id": 99039
+    },
+    {
+      "match": "qtpTHUMP",
+      "image_id": 99038
+    },
+    {
+      "match": "qtpMEME",
+      "image_id": 99037
+    },
+    {
+      "match": "qtpNO",
+      "image_id": 99267
+    },
+    {
+      "match": "qtp1",
+      "image_id": 100186
+    },
+    {
+      "match": "qtp2",
+      "image_id": 100187
+    },
+    {
+      "match": "qtp3",
+      "image_id": 100188
+    },
+    {
+      "match": "qtp4",
+      "image_id": 100189
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"name":"twitch-sub-zomviciadas","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"belliDans","image_id":103121},{"match":"belliRage","image_id":106500},{"match":"belliCabesa","image_id":103061}]}
+{
+  "name": "twitch-sub-zomviciadas",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "belliDans",
+      "image_id": 103121
+    },
+    {
+      "match": "belliRage",
+      "image_id": 106500
+    },
+    {
+      "match": "belliCabesa",
+      "image_id": 103061
+    }
+  ]
+}

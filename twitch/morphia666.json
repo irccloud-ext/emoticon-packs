@@ -1,1 +1,39 @@
-{"name":"twitch-sub-morphia666","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"morphFoxy","image_id":52486},{"match":"morphCry","image_id":30627},{"match":"morphSVCH","image_id":44116},{"match":"morphWr","image_id":81002},{"match":"morphHYPE","image_id":96247},{"match":"morphBOOM","image_id":96249},{"match":"morph1010","image_id":96250},{"match":"morphLOVE","image_id":96251}]}
+{
+  "name": "twitch-sub-morphia666",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "morphFoxy",
+      "image_id": 52486
+    },
+    {
+      "match": "morphCry",
+      "image_id": 30627
+    },
+    {
+      "match": "morphSVCH",
+      "image_id": 44116
+    },
+    {
+      "match": "morphWr",
+      "image_id": 81002
+    },
+    {
+      "match": "morphHYPE",
+      "image_id": 96247
+    },
+    {
+      "match": "morphBOOM",
+      "image_id": 96249
+    },
+    {
+      "match": "morph1010",
+      "image_id": 96250
+    },
+    {
+      "match": "morphLOVE",
+      "image_id": 96251
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-tritanhd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tritanSubHype","image_id":45260},{"match":"tritanGallaHorn","image_id":45251},{"match":"tritanBoot","image_id":45408},{"match":"tritanPlank","image_id":45405}]}
+{
+  "name": "twitch-sub-tritanhd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tritanSubHype",
+      "image_id": 45260
+    },
+    {
+      "match": "tritanGallaHorn",
+      "image_id": 45251
+    },
+    {
+      "match": "tritanBoot",
+      "image_id": 45408
+    },
+    {
+      "match": "tritanPlank",
+      "image_id": 45405
+    }
+  ]
+}

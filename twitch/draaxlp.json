@@ -1,1 +1,31 @@
-{"name":"twitch-sub-draaxlp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"draaxHype","image_id":79103},{"match":"draaxMask","image_id":76100},{"match":"draaxKappa","image_id":78941},{"match":"draaxLuck","image_id":87970},{"match":"draaxUsb","image_id":87639},{"match":"draaxRip","image_id":87832}]}
+{
+  "name": "twitch-sub-draaxlp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "draaxHype",
+      "image_id": 79103
+    },
+    {
+      "match": "draaxMask",
+      "image_id": 76100
+    },
+    {
+      "match": "draaxKappa",
+      "image_id": 78941
+    },
+    {
+      "match": "draaxLuck",
+      "image_id": 87970
+    },
+    {
+      "match": "draaxUsb",
+      "image_id": 87639
+    },
+    {
+      "match": "draaxRip",
+      "image_id": 87832
+    }
+  ]
+}

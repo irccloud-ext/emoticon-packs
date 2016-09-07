@@ -1,1 +1,47 @@
-{"name":"twitch-sub-larsfest","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"larsfestHype","image_id":90043},{"match":"larsfestGup","image_id":90042},{"match":"larsfestDoge","image_id":90040},{"match":"larsfestCricky","image_id":90038},{"match":"larsfestLove","image_id":90037},{"match":"larsfestPlays","image_id":90039},{"match":"larsfestRock","image_id":90044},{"match":"larsfestRng","image_id":107899},{"match":"larsfestWaow","image_id":107900},{"match":"larsfestFiya","image_id":107752}]}
+{
+  "name": "twitch-sub-larsfest",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "larsfestHype",
+      "image_id": 90043
+    },
+    {
+      "match": "larsfestGup",
+      "image_id": 90042
+    },
+    {
+      "match": "larsfestDoge",
+      "image_id": 90040
+    },
+    {
+      "match": "larsfestCricky",
+      "image_id": 90038
+    },
+    {
+      "match": "larsfestLove",
+      "image_id": 90037
+    },
+    {
+      "match": "larsfestPlays",
+      "image_id": 90039
+    },
+    {
+      "match": "larsfestRock",
+      "image_id": 90044
+    },
+    {
+      "match": "larsfestRng",
+      "image_id": 107899
+    },
+    {
+      "match": "larsfestWaow",
+      "image_id": 107900
+    },
+    {
+      "match": "larsfestFiya",
+      "image_id": 107752
+    }
+  ]
+}

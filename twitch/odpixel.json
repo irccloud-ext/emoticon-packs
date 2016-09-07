@@ -1,1 +1,23 @@
-{"name":"twitch-sub-odpixel","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"odpW","image_id":62201},{"match":"odp322","image_id":62204},{"match":"odpCar","image_id":48454},{"match":"odpBold","image_id":62202}]}
+{
+  "name": "twitch-sub-odpixel",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "odpW",
+      "image_id": 62201
+    },
+    {
+      "match": "odp322",
+      "image_id": 62204
+    },
+    {
+      "match": "odpCar",
+      "image_id": 48454
+    },
+    {
+      "match": "odpBold",
+      "image_id": 62202
+    }
+  ]
+}

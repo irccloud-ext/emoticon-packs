@@ -1,1 +1,31 @@
-{"name":"twitch-sub-bizbony","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bonyLove","image_id":103127},{"match":"bonyCry","image_id":81185},{"match":"bonyHype","image_id":101071},{"match":"bonyPleb","image_id":71900},{"match":"bonyS","image_id":101070},{"match":"bonyW","image_id":107438}]}
+{
+  "name": "twitch-sub-bizbony",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bonyLove",
+      "image_id": 103127
+    },
+    {
+      "match": "bonyCry",
+      "image_id": 81185
+    },
+    {
+      "match": "bonyHype",
+      "image_id": 101071
+    },
+    {
+      "match": "bonyPleb",
+      "image_id": 71900
+    },
+    {
+      "match": "bonyS",
+      "image_id": 101070
+    },
+    {
+      "match": "bonyW",
+      "image_id": 107438
+    }
+  ]
+}

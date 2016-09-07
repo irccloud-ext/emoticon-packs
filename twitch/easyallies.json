@@ -1,1 +1,59 @@
-{"name":"twitch-sub-easyallies","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ezaSophie","image_id":93642},{"match":"ezaJolly","image_id":93645},{"match":"ezaSadJones","image_id":93646},{"match":"ezaStar","image_id":93643},{"match":"ezaHalfStar","image_id":93644},{"match":"ezaSmugBlood","image_id":93647},{"match":"ezaBMBen","image_id":99704},{"match":"ezaBradHype","image_id":99706},{"match":"ezaEdgeHinck","image_id":99711},{"match":"ezaNopeDamiani","image_id":99713},{"match":"ezaBackseatBosman","image_id":99715},{"match":"ezaPj","image_id":99716},{"match":"ezaDirtyDon","image_id":106619}]}
+{
+  "name": "twitch-sub-easyallies",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ezaSophie",
+      "image_id": 93642
+    },
+    {
+      "match": "ezaJolly",
+      "image_id": 93645
+    },
+    {
+      "match": "ezaSadJones",
+      "image_id": 93646
+    },
+    {
+      "match": "ezaStar",
+      "image_id": 93643
+    },
+    {
+      "match": "ezaHalfStar",
+      "image_id": 93644
+    },
+    {
+      "match": "ezaSmugBlood",
+      "image_id": 93647
+    },
+    {
+      "match": "ezaBMBen",
+      "image_id": 99704
+    },
+    {
+      "match": "ezaBradHype",
+      "image_id": 99706
+    },
+    {
+      "match": "ezaEdgeHinck",
+      "image_id": 99711
+    },
+    {
+      "match": "ezaNopeDamiani",
+      "image_id": 99713
+    },
+    {
+      "match": "ezaBackseatBosman",
+      "image_id": 99715
+    },
+    {
+      "match": "ezaPj",
+      "image_id": 99716
+    },
+    {
+      "match": "ezaDirtyDon",
+      "image_id": 106619
+    }
+  ]
+}

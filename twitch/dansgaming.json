@@ -1,1 +1,147 @@
-{"name":"twitch-sub-dansgaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"danCreep","image_id":2229},{"match":"danBad","image_id":2379},{"match":"danDuck","image_id":2430},{"match":"danLol","image_id":7056},{"match":"danGasm","image_id":12082},{"match":"danPalm","image_id":12083},{"match":"danScare","image_id":12084},{"match":"danYay","image_id":12086},{"match":"danWTF","image_id":14870},{"match":"danCringe","image_id":30149},{"match":"danThink","image_id":30152},{"match":"danWave","image_id":30572},{"match":"danYes","image_id":109523},{"match":"danChamp","image_id":86559},{"match":"danNo","image_id":51265},{"match":"danCry","image_id":103381},{"match":"danSun","image_id":91057},{"match":"danSad","image_id":92013},{"match":"danW","image_id":67263},{"match":"danCash","image_id":73927},{"match":"danHype","image_id":73930},{"match":"danLove","image_id":73931},{"match":"danLewd","image_id":103778},{"match":"danK","image_id":87357},{"match":"danPuke","image_id":87358},{"match":"danDerp","image_id":88913},{"match":"danWait","image_id":87379},{"match":"danFat","image_id":89643},{"match":"danLUL","image_id":97880},{"match":"danRage","image_id":103412},{"match":"danSgame","image_id":109603},{"match":"danRekt","image_id":108911},{"match":"danHmm","image_id":110333},{"match":"danClap","image_id":109486},{"match":"danTroll","image_id":110619}]}
+{
+  "name": "twitch-sub-dansgaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "danCreep",
+      "image_id": 2229
+    },
+    {
+      "match": "danBad",
+      "image_id": 2379
+    },
+    {
+      "match": "danDuck",
+      "image_id": 2430
+    },
+    {
+      "match": "danLol",
+      "image_id": 7056
+    },
+    {
+      "match": "danGasm",
+      "image_id": 12082
+    },
+    {
+      "match": "danPalm",
+      "image_id": 12083
+    },
+    {
+      "match": "danScare",
+      "image_id": 12084
+    },
+    {
+      "match": "danYay",
+      "image_id": 12086
+    },
+    {
+      "match": "danWTF",
+      "image_id": 14870
+    },
+    {
+      "match": "danCringe",
+      "image_id": 30149
+    },
+    {
+      "match": "danThink",
+      "image_id": 30152
+    },
+    {
+      "match": "danWave",
+      "image_id": 30572
+    },
+    {
+      "match": "danChamp",
+      "image_id": 86559
+    },
+    {
+      "match": "danNo",
+      "image_id": 51265
+    },
+    {
+      "match": "danCry",
+      "image_id": 103381
+    },
+    {
+      "match": "danSun",
+      "image_id": 91057
+    },
+    {
+      "match": "danSad",
+      "image_id": 92013
+    },
+    {
+      "match": "danW",
+      "image_id": 67263
+    },
+    {
+      "match": "danCash",
+      "image_id": 73927
+    },
+    {
+      "match": "danHype",
+      "image_id": 73930
+    },
+    {
+      "match": "danLove",
+      "image_id": 73931
+    },
+    {
+      "match": "danLewd",
+      "image_id": 103778
+    },
+    {
+      "match": "danWut",
+      "image_id": 111975
+    },
+    {
+      "match": "danK",
+      "image_id": 87357
+    },
+    {
+      "match": "danPuke",
+      "image_id": 87358
+    },
+    {
+      "match": "danDerp",
+      "image_id": 88913
+    },
+    {
+      "match": "danWait",
+      "image_id": 87379
+    },
+    {
+      "match": "danFat",
+      "image_id": 89643
+    },
+    {
+      "match": "danLUL",
+      "image_id": 97880
+    },
+    {
+      "match": "danRage",
+      "image_id": 103412
+    },
+    {
+      "match": "danSgame",
+      "image_id": 109603
+    },
+    {
+      "match": "danRekt",
+      "image_id": 108911
+    },
+    {
+      "match": "danHmm",
+      "image_id": 110333
+    },
+    {
+      "match": "danClap",
+      "image_id": 109486
+    },
+    {
+      "match": "danTroll",
+      "image_id": 110619
+    }
+  ]
+}

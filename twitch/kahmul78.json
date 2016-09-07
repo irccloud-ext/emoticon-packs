@@ -1,1 +1,31 @@
-{"name":"twitch-sub-kahmul78","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mulThump","image_id":52960},{"match":"mulMule","image_id":52595},{"match":"mulDoge","image_id":52836},{"match":"mulWorm","image_id":55756},{"match":"mulLove","image_id":55695},{"match":"mulGold","image_id":53540}]}
+{
+  "name": "twitch-sub-kahmul78",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mulThump",
+      "image_id": 52960
+    },
+    {
+      "match": "mulMule",
+      "image_id": 52595
+    },
+    {
+      "match": "mulDoge",
+      "image_id": 52836
+    },
+    {
+      "match": "mulWorm",
+      "image_id": 55756
+    },
+    {
+      "match": "mulLove",
+      "image_id": 55695
+    },
+    {
+      "match": "mulGold",
+      "image_id": 53540
+    }
+  ]
+}

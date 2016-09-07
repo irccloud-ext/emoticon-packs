@@ -1,1 +1,27 @@
-{"name":"twitch-sub-superkarga","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kargaAdam","image_id":47780},{"match":"kargaEnayi","image_id":79075},{"match":"kargaEsp","image_id":47779},{"match":"kargaKarga","image_id":82253},{"match":"kargaBaba","image_id":82251}]}
+{
+  "name": "twitch-sub-superkarga",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kargaAdam",
+      "image_id": 47780
+    },
+    {
+      "match": "kargaEnayi",
+      "image_id": 79075
+    },
+    {
+      "match": "kargaEsp",
+      "image_id": 47779
+    },
+    {
+      "match": "kargaKarga",
+      "image_id": 82253
+    },
+    {
+      "match": "kargaBaba",
+      "image_id": 82251
+    }
+  ]
+}

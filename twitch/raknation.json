@@ -1,1 +1,23 @@
-{"name":"twitch-sub-raknation","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"marvFail","image_id":17227},{"match":"marvWoo","image_id":17382},{"match":"marvAlien","image_id":17522},{"match":"marvSub","image_id":22000}]}
+{
+  "name": "twitch-sub-raknation",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "marvFail",
+      "image_id": 17227
+    },
+    {
+      "match": "marvWoo",
+      "image_id": 17382
+    },
+    {
+      "match": "marvAlien",
+      "image_id": 17522
+    },
+    {
+      "match": "marvSub",
+      "image_id": 22000
+    }
+  ]
+}

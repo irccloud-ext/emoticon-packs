@@ -1,1 +1,31 @@
-{"name":"twitch-sub-theveronicous","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"thevSad","image_id":96864},{"match":"thevLove","image_id":96865},{"match":"thevSHype","image_id":82922},{"match":"thevOops","image_id":82923},{"match":"thevRage","image_id":88006},{"match":"thevFP","image_id":96863}]}
+{
+  "name": "twitch-sub-theveronicous",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "thevSad",
+      "image_id": 96864
+    },
+    {
+      "match": "thevLove",
+      "image_id": 96865
+    },
+    {
+      "match": "thevSHype",
+      "image_id": 82922
+    },
+    {
+      "match": "thevOops",
+      "image_id": 82923
+    },
+    {
+      "match": "thevRage",
+      "image_id": 88006
+    },
+    {
+      "match": "thevFP",
+      "image_id": 96863
+    }
+  ]
+}

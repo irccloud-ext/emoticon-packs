@@ -1,1 +1,31 @@
-{"name":"twitch-sub-burtgasm","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"burtgasmBurger","image_id":30146},{"match":"burtgasm1","image_id":23634},{"match":"burtgasm3","image_id":23723},{"match":"burtgasm2","image_id":23635},{"match":"burtgasmMinecraft","image_id":30148},{"match":"burtgasmLovely","image_id":30183}]}
+{
+  "name": "twitch-sub-burtgasm",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "burtgasmBurger",
+      "image_id": 30146
+    },
+    {
+      "match": "burtgasm1",
+      "image_id": 23634
+    },
+    {
+      "match": "burtgasm3",
+      "image_id": 23723
+    },
+    {
+      "match": "burtgasm2",
+      "image_id": 23635
+    },
+    {
+      "match": "burtgasmMinecraft",
+      "image_id": 30148
+    },
+    {
+      "match": "burtgasmLovely",
+      "image_id": 30183
+    }
+  ]
+}

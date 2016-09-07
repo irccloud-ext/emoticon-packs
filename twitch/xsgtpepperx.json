@@ -1,1 +1,47 @@
-{"name":"twitch-sub-xsgtpepperx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pepperHype","image_id":29973},{"match":"pepperRekt","image_id":29974},{"match":"pepperRip","image_id":29975},{"match":"pepperLurk","image_id":52584},{"match":"pepperChair","image_id":38749},{"match":"pepperOP","image_id":87927},{"match":"pepperLove","image_id":89637},{"match":"pepperFail","image_id":104918},{"match":"pepperOcean","image_id":104919},{"match":"pepper7","image_id":104920}]}
+{
+  "name": "twitch-sub-xsgtpepperx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pepperHype",
+      "image_id": 29973
+    },
+    {
+      "match": "pepperRekt",
+      "image_id": 29974
+    },
+    {
+      "match": "pepperRip",
+      "image_id": 29975
+    },
+    {
+      "match": "pepperLurk",
+      "image_id": 52584
+    },
+    {
+      "match": "pepperChair",
+      "image_id": 38749
+    },
+    {
+      "match": "pepperOP",
+      "image_id": 87927
+    },
+    {
+      "match": "pepperLove",
+      "image_id": 89637
+    },
+    {
+      "match": "pepperFail",
+      "image_id": 104918
+    },
+    {
+      "match": "pepperOcean",
+      "image_id": 104919
+    },
+    {
+      "match": "pepper7",
+      "image_id": 104920
+    }
+  ]
+}

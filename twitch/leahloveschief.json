@@ -1,1 +1,87 @@
-{"name":"twitch-sub-leahloveschief","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"leahB","image_id":105056},{"match":"leahRAY","image_id":69267},{"match":"leahUWOT","image_id":99821},{"match":"leahHYPE","image_id":99822},{"match":"leahSUN","image_id":99823},{"match":"leahWAT","image_id":50103},{"match":"leahRAGE","image_id":50102},{"match":"leahHAIR","image_id":50101},{"match":"leahLOVE","image_id":54461},{"match":"leahNO","image_id":54460},{"match":"leahYAY","image_id":57075},{"match":"leahHI","image_id":57074},{"match":"leahSUB","image_id":59046},{"match":"leahFITE","image_id":58492},{"match":"leahWONK","image_id":58732},{"match":"leahCHEWY","image_id":69791},{"match":"leahSHOCK","image_id":69790},{"match":"leahLEWD","image_id":69789},{"match":"leahFEELS","image_id":73343},{"match":"leahN","image_id":107735}]}
+{
+  "name": "twitch-sub-leahloveschief",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "leahB",
+      "image_id": 105056
+    },
+    {
+      "match": "leahRAY",
+      "image_id": 69267
+    },
+    {
+      "match": "leahUWOT",
+      "image_id": 99821
+    },
+    {
+      "match": "leahHYPE",
+      "image_id": 99822
+    },
+    {
+      "match": "leahSUN",
+      "image_id": 99823
+    },
+    {
+      "match": "leahWAT",
+      "image_id": 50103
+    },
+    {
+      "match": "leahRAGE",
+      "image_id": 50102
+    },
+    {
+      "match": "leahHAIR",
+      "image_id": 50101
+    },
+    {
+      "match": "leahLOVE",
+      "image_id": 54461
+    },
+    {
+      "match": "leahNO",
+      "image_id": 54460
+    },
+    {
+      "match": "leahYAY",
+      "image_id": 57075
+    },
+    {
+      "match": "leahHI",
+      "image_id": 57074
+    },
+    {
+      "match": "leahSUB",
+      "image_id": 59046
+    },
+    {
+      "match": "leahFITE",
+      "image_id": 58492
+    },
+    {
+      "match": "leahWONK",
+      "image_id": 58732
+    },
+    {
+      "match": "leahCHEWY",
+      "image_id": 69791
+    },
+    {
+      "match": "leahSHOCK",
+      "image_id": 69790
+    },
+    {
+      "match": "leahLEWD",
+      "image_id": 69789
+    },
+    {
+      "match": "leahFEELS",
+      "image_id": 73343
+    },
+    {
+      "match": "leahN",
+      "image_id": 107735
+    }
+  ]
+}

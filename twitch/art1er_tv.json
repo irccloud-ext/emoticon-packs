@@ -1,0 +1,15 @@
+{
+  "name": "twitch-sub-art1er_tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "art1erGasm",
+      "image_id": 112503
+    },
+    {
+      "match": "art1erDab",
+      "image_id": 112504
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-sevinth","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sevinLove","image_id":103954},{"match":"sevinHug","image_id":108701},{"match":"sevinHey","image_id":95798},{"match":"sevinGrill","image_id":95800},{"match":"sevinRip","image_id":95807},{"match":"sevinFeels","image_id":96397},{"match":"sevinFail","image_id":97368},{"match":"sevinHype","image_id":104293}]}
+{
+  "name": "twitch-sub-sevinth",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sevinLove",
+      "image_id": 103954
+    },
+    {
+      "match": "sevinHug",
+      "image_id": 108701
+    },
+    {
+      "match": "sevinHey",
+      "image_id": 95798
+    },
+    {
+      "match": "sevinGrill",
+      "image_id": 95800
+    },
+    {
+      "match": "sevinRip",
+      "image_id": 95807
+    },
+    {
+      "match": "sevinFeels",
+      "image_id": 96397
+    },
+    {
+      "match": "sevinFail",
+      "image_id": 97368
+    },
+    {
+      "match": "sevinHype",
+      "image_id": 104293
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-aurora_peachy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"peachyCry","image_id":58048},{"match":"peachyHappy","image_id":61020},{"match":"peachyParty","image_id":57742},{"match":"peachyYay","image_id":57743},{"match":"peachyHeart","image_id":58226},{"match":"peachyFire","image_id":60483},{"match":"peachyChan","image_id":68099},{"match":"peachyPup","image_id":68362}]}
+{
+  "name": "twitch-sub-aurora_peachy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "peachyCry",
+      "image_id": 58048
+    },
+    {
+      "match": "peachyHappy",
+      "image_id": 61020
+    },
+    {
+      "match": "peachyParty",
+      "image_id": 57742
+    },
+    {
+      "match": "peachyYay",
+      "image_id": 57743
+    },
+    {
+      "match": "peachyHeart",
+      "image_id": 58226
+    },
+    {
+      "match": "peachyFire",
+      "image_id": 60483
+    },
+    {
+      "match": "peachyChan",
+      "image_id": 68099
+    },
+    {
+      "match": "peachyPup",
+      "image_id": 68362
+    }
+  ]
+}

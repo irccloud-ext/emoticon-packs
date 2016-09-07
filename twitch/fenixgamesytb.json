@@ -1,1 +1,23 @@
-{"name":"twitch-sub-fenixgamesytb","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fenixyt1","image_id":54107},{"match":"fenixytWhepa","image_id":55272},{"match":"fenixytAzir","image_id":62785},{"match":"fenixytPoro","image_id":78389}]}
+{
+  "name": "twitch-sub-fenixgamesytb",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fenixyt1",
+      "image_id": 54107
+    },
+    {
+      "match": "fenixytWhepa",
+      "image_id": 55272
+    },
+    {
+      "match": "fenixytAzir",
+      "image_id": 62785
+    },
+    {
+      "match": "fenixytPoro",
+      "image_id": 78389
+    }
+  ]
+}

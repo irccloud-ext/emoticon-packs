@@ -1,1 +1,23 @@
-{"name":"twitch-sub-eskibot","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"eskibotLoot","image_id":25457},{"match":"eskibotBarch","image_id":29579},{"match":"eskibotCreep","image_id":29601},{"match":"eskibotBot","image_id":29638}]}
+{
+  "name": "twitch-sub-eskibot",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "eskibotLoot",
+      "image_id": 25457
+    },
+    {
+      "match": "eskibotBarch",
+      "image_id": 29579
+    },
+    {
+      "match": "eskibotCreep",
+      "image_id": 29601
+    },
+    {
+      "match": "eskibotBot",
+      "image_id": 29638
+    }
+  ]
+}

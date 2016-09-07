@@ -1,1 +1,47 @@
-{"name":"twitch-sub-fifa_jake_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"susanRip","image_id":55404},{"match":"susanHype","image_id":55403},{"match":"susanHeart","image_id":55402},{"match":"susanRekt","image_id":24811},{"match":"susanGoal","image_id":37411},{"match":"susanFail","image_id":52926},{"match":"susanGG","image_id":50037},{"match":"susanLOVE","image_id":50047},{"match":"susanFACE","image_id":50088},{"match":"susanCry","image_id":52925}]}
+{
+  "name": "twitch-sub-fifa_jake_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "susanRip",
+      "image_id": 55404
+    },
+    {
+      "match": "susanHype",
+      "image_id": 55403
+    },
+    {
+      "match": "susanHeart",
+      "image_id": 55402
+    },
+    {
+      "match": "susanRekt",
+      "image_id": 24811
+    },
+    {
+      "match": "susanGoal",
+      "image_id": 37411
+    },
+    {
+      "match": "susanFail",
+      "image_id": 52926
+    },
+    {
+      "match": "susanGG",
+      "image_id": 50037
+    },
+    {
+      "match": "susanLOVE",
+      "image_id": 50047
+    },
+    {
+      "match": "susanFACE",
+      "image_id": 50088
+    },
+    {
+      "match": "susanCry",
+      "image_id": 52925
+    }
+  ]
+}

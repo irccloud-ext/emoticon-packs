@@ -1,1 +1,47 @@
-{"name":"twitch-sub-coconutflake","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cocoTrain","image_id":70889},{"match":"cocoBomb","image_id":43555},{"match":"cocoCheers","image_id":43556},{"match":"cocoSlow","image_id":43559},{"match":"cocoLove","image_id":46662},{"match":"cocoHype","image_id":44620},{"match":"cocoFeels","image_id":44609},{"match":"cocoK","image_id":45231},{"match":"cocoFail","image_id":71051},{"match":"cocoHi","image_id":59962}]}
+{
+  "name": "twitch-sub-coconutflake",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cocoTrain",
+      "image_id": 70889
+    },
+    {
+      "match": "cocoBomb",
+      "image_id": 43555
+    },
+    {
+      "match": "cocoCheers",
+      "image_id": 43556
+    },
+    {
+      "match": "cocoSlow",
+      "image_id": 43559
+    },
+    {
+      "match": "cocoLove",
+      "image_id": 46662
+    },
+    {
+      "match": "cocoHype",
+      "image_id": 44620
+    },
+    {
+      "match": "cocoFeels",
+      "image_id": 44609
+    },
+    {
+      "match": "cocoK",
+      "image_id": 45231
+    },
+    {
+      "match": "cocoFail",
+      "image_id": 71051
+    },
+    {
+      "match": "cocoHi",
+      "image_id": 59962
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-{"name":"twitch-sub-roflmaoproductions","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pppPP","image_id":7412},{"match":"pppBus","image_id":11215},{"match":"pppThrust","image_id":11216},{"match":"pppDoug","image_id":11212},{"match":"pppJeremy","image_id":11214}]}
+{
+  "name": "twitch-sub-roflmaoproductions",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pppPP",
+      "image_id": 7412
+    },
+    {
+      "match": "pppBus",
+      "image_id": 11215
+    },
+    {
+      "match": "pppThrust",
+      "image_id": 11216
+    },
+    {
+      "match": "pppDoug",
+      "image_id": 11212
+    },
+    {
+      "match": "pppJeremy",
+      "image_id": 11214
+    }
+  ]
+}

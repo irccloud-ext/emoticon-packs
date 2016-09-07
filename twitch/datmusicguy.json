@@ -1,1 +1,27 @@
-{"name":"twitch-sub-datmusicguy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"musicOh","image_id":12951},{"match":"musicO","image_id":13372},{"match":"musicThump","image_id":12999},{"match":"musicHype","image_id":13000},{"match":"musicLewd","image_id":103384}]}
+{
+  "name": "twitch-sub-datmusicguy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "musicOh",
+      "image_id": 12951
+    },
+    {
+      "match": "musicO",
+      "image_id": 13372
+    },
+    {
+      "match": "musicThump",
+      "image_id": 12999
+    },
+    {
+      "match": "musicHype",
+      "image_id": 13000
+    },
+    {
+      "match": "musicLewd",
+      "image_id": 103384
+    }
+  ]
+}

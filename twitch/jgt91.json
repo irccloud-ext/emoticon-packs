@@ -1,1 +1,39 @@
-{"name":"twitch-sub-jgt91","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jgtLURK","image_id":75522},{"match":"jgtFIDDLER","image_id":75130},{"match":"jgtCORNHOLIO","image_id":75723},{"match":"jgtRAGE","image_id":76712},{"match":"jgtREKT","image_id":78189},{"match":"jgtCHOKE","image_id":76580},{"match":"jgtHYPE","image_id":76660},{"match":"jgtGG","image_id":77574}]}
+{
+  "name": "twitch-sub-jgt91",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jgtLURK",
+      "image_id": 75522
+    },
+    {
+      "match": "jgtFIDDLER",
+      "image_id": 75130
+    },
+    {
+      "match": "jgtCORNHOLIO",
+      "image_id": 75723
+    },
+    {
+      "match": "jgtRAGE",
+      "image_id": 76712
+    },
+    {
+      "match": "jgtREKT",
+      "image_id": 78189
+    },
+    {
+      "match": "jgtCHOKE",
+      "image_id": 76580
+    },
+    {
+      "match": "jgtHYPE",
+      "image_id": 76660
+    },
+    {
+      "match": "jgtGG",
+      "image_id": 77574
+    }
+  ]
+}

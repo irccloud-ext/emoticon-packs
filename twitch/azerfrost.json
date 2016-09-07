@@ -1,1 +1,39 @@
-{"name":"twitch-sub-azerfrost","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"azerQuack","image_id":18271},{"match":"azerKitty","image_id":17990},{"match":"azerNeva","image_id":36016},{"match":"azerGiveup","image_id":36046},{"match":"azerLewd","image_id":39914},{"match":"azerHappy","image_id":39913},{"match":"azerCri","image_id":39912},{"match":"azerW","image_id":39924}]}
+{
+  "name": "twitch-sub-azerfrost",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "azerQuack",
+      "image_id": 18271
+    },
+    {
+      "match": "azerKitty",
+      "image_id": 17990
+    },
+    {
+      "match": "azerNeva",
+      "image_id": 36016
+    },
+    {
+      "match": "azerGiveup",
+      "image_id": 36046
+    },
+    {
+      "match": "azerLewd",
+      "image_id": 39914
+    },
+    {
+      "match": "azerHappy",
+      "image_id": 39913
+    },
+    {
+      "match": "azerCri",
+      "image_id": 39912
+    },
+    {
+      "match": "azerW",
+      "image_id": 39924
+    }
+  ]
+}

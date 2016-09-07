@@ -1,1 +1,23 @@
-{"name":"twitch-sub-wasilijsaizev","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wasmileMasterPL","image_id":84192},{"match":"wasmileTonk","image_id":84193},{"match":"wasmileQRK","image_id":98865},{"match":"wasmileKzges","image_id":98897}]}
+{
+  "name": "twitch-sub-wasilijsaizev",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wasmileMasterPL",
+      "image_id": 84192
+    },
+    {
+      "match": "wasmileTonk",
+      "image_id": 84193
+    },
+    {
+      "match": "wasmileQRK",
+      "image_id": 98865
+    },
+    {
+      "match": "wasmileKzges",
+      "image_id": 98897
+    }
+  ]
+}

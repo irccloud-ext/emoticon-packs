@@ -1,1 +1,35 @@
-{"name":"twitch-sub-ichasegaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"icgHype","image_id":75117},{"match":"icgSmash","image_id":80246},{"match":"icgCarry","image_id":80248},{"match":"icgFail","image_id":80249},{"match":"icgLove","image_id":80466},{"match":"icgKappa","image_id":80467},{"match":"icgO7","image_id":81110}]}
+{
+  "name": "twitch-sub-ichasegaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "icgHype",
+      "image_id": 75117
+    },
+    {
+      "match": "icgSmash",
+      "image_id": 80246
+    },
+    {
+      "match": "icgCarry",
+      "image_id": 80248
+    },
+    {
+      "match": "icgFail",
+      "image_id": 80249
+    },
+    {
+      "match": "icgLove",
+      "image_id": 80466
+    },
+    {
+      "match": "icgKappa",
+      "image_id": 80467
+    },
+    {
+      "match": "icgO7",
+      "image_id": 81110
+    }
+  ]
+}

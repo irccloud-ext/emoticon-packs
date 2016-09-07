@@ -1,1 +1,23 @@
-{"name":"twitch-sub-rivid","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rivBad","image_id":59852},{"match":"rivLOL","image_id":59018},{"match":"rivCyber","image_id":59017},{"match":"rivDark","image_id":59931}]}
+{
+  "name": "twitch-sub-rivid",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rivBad",
+      "image_id": 59852
+    },
+    {
+      "match": "rivLOL",
+      "image_id": 59018
+    },
+    {
+      "match": "rivCyber",
+      "image_id": 59017
+    },
+    {
+      "match": "rivDark",
+      "image_id": 59931
+    }
+  ]
+}

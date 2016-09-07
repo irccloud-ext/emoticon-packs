@@ -1,1 +1,35 @@
-{"name":"twitch-sub-mktheworst","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mktwHOUDINI","image_id":59264},{"match":"mktwHOBBES","image_id":59263},{"match":"mktwYINYANG","image_id":59262},{"match":"mktwTARDIS","image_id":67922},{"match":"mktwWUT","image_id":46678},{"match":"mktwHYPE","image_id":59261},{"match":"mktwLOL","image_id":67701}]}
+{
+  "name": "twitch-sub-mktheworst",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mktwHOUDINI",
+      "image_id": 59264
+    },
+    {
+      "match": "mktwHOBBES",
+      "image_id": 59263
+    },
+    {
+      "match": "mktwYINYANG",
+      "image_id": 59262
+    },
+    {
+      "match": "mktwTARDIS",
+      "image_id": 67922
+    },
+    {
+      "match": "mktwWUT",
+      "image_id": 46678
+    },
+    {
+      "match": "mktwHYPE",
+      "image_id": 59261
+    },
+    {
+      "match": "mktwLOL",
+      "image_id": 67701
+    }
+  ]
+}

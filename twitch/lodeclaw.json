@@ -1,1 +1,35 @@
-{"name":"twitch-sub-lodeclaw","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lodeRippy","image_id":7151},{"match":"lodeChicken","image_id":7118},{"match":"lodePoopedOn","image_id":9406},{"match":"lodeHolyCow","image_id":13401},{"match":"lodeLurk","image_id":19780},{"match":"lodeBeard","image_id":19870},{"match":"lodeLove","image_id":103642}]}
+{
+  "name": "twitch-sub-lodeclaw",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lodeRippy",
+      "image_id": 7151
+    },
+    {
+      "match": "lodeChicken",
+      "image_id": 7118
+    },
+    {
+      "match": "lodePoopedOn",
+      "image_id": 9406
+    },
+    {
+      "match": "lodeHolyCow",
+      "image_id": 13401
+    },
+    {
+      "match": "lodeLurk",
+      "image_id": 19780
+    },
+    {
+      "match": "lodeBeard",
+      "image_id": 19870
+    },
+    {
+      "match": "lodeLove",
+      "image_id": 103642
+    }
+  ]
+}

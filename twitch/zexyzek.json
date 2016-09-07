@@ -1,1 +1,31 @@
-{"name":"twitch-sub-zexyzek","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zexyRekt","image_id":57002},{"match":"zexyLogo","image_id":56984},{"match":"zexyFace","image_id":57003},{"match":"zexyPotato","image_id":57005},{"match":"zexyWiggs","image_id":56981},{"match":"zexyYoung","image_id":56980}]}
+{
+  "name": "twitch-sub-zexyzek",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zexyRekt",
+      "image_id": 57002
+    },
+    {
+      "match": "zexyLogo",
+      "image_id": 56984
+    },
+    {
+      "match": "zexyFace",
+      "image_id": 57003
+    },
+    {
+      "match": "zexyPotato",
+      "image_id": 57005
+    },
+    {
+      "match": "zexyWiggs",
+      "image_id": 56981
+    },
+    {
+      "match": "zexyYoung",
+      "image_id": 56980
+    }
+  ]
+}

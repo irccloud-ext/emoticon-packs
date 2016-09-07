@@ -1,1 +1,39 @@
-{"name":"twitch-sub-eligorko","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"eligorkoN","image_id":46209},{"match":"eligorkoCup","image_id":23692},{"match":"eligorkoPraise","image_id":23786},{"match":"eligorkoKappa","image_id":24809},{"match":"eligorkoEvil","image_id":24075},{"match":"eligorkoNeko","image_id":24478},{"match":"eligorkoDerp","image_id":26216},{"match":"eligorkoBanana","image_id":27998}]}
+{
+  "name": "twitch-sub-eligorko",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "eligorkoN",
+      "image_id": 46209
+    },
+    {
+      "match": "eligorkoCup",
+      "image_id": 23692
+    },
+    {
+      "match": "eligorkoPraise",
+      "image_id": 23786
+    },
+    {
+      "match": "eligorkoKappa",
+      "image_id": 24809
+    },
+    {
+      "match": "eligorkoEvil",
+      "image_id": 24075
+    },
+    {
+      "match": "eligorkoNeko",
+      "image_id": 24478
+    },
+    {
+      "match": "eligorkoDerp",
+      "image_id": 26216
+    },
+    {
+      "match": "eligorkoBanana",
+      "image_id": 27998
+    }
+  ]
+}

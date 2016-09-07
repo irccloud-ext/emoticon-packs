@@ -1,1 +1,39 @@
-{"name":"twitch-sub-fazonhd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fazonEz","image_id":86216},{"match":"fazonBurn","image_id":89151},{"match":"fazonAim","image_id":85036},{"match":"fazonHype","image_id":85998},{"match":"fazonHeart","image_id":85193},{"match":"fazonRIP","image_id":85997},{"match":"fazonDiamonds","image_id":86215},{"match":"fazonMLG","image_id":90115}]}
+{
+  "name": "twitch-sub-fazonhd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fazonEz",
+      "image_id": 86216
+    },
+    {
+      "match": "fazonBurn",
+      "image_id": 89151
+    },
+    {
+      "match": "fazonAim",
+      "image_id": 85036
+    },
+    {
+      "match": "fazonHype",
+      "image_id": 85998
+    },
+    {
+      "match": "fazonHeart",
+      "image_id": 85193
+    },
+    {
+      "match": "fazonRIP",
+      "image_id": 85997
+    },
+    {
+      "match": "fazonDiamonds",
+      "image_id": 86215
+    },
+    {
+      "match": "fazonMLG",
+      "image_id": 90115
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-benaixen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"benaiBatz","image_id":68759},{"match":"benaiFilho","image_id":69785},{"match":"benaiSedex","image_id":106581},{"match":"benaiThug","image_id":106586}]}
+{
+  "name": "twitch-sub-benaixen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "benaiBatz",
+      "image_id": 68759
+    },
+    {
+      "match": "benaiFilho",
+      "image_id": 69785
+    },
+    {
+      "match": "benaiSedex",
+      "image_id": 106581
+    },
+    {
+      "match": "benaiThug",
+      "image_id": 106586
+    }
+  ]
+}

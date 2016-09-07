@@ -1,1 +1,39 @@
-{"name":"twitch-sub-rockzillah","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rockzHYPE","image_id":95868},{"match":"rockzSAD","image_id":94794},{"match":"rockzLOVE","image_id":94796},{"match":"rockzBOOM","image_id":94797},{"match":"rockzRAGE","image_id":94795},{"match":"rockzScience","image_id":97503},{"match":"rockzRIP","image_id":95962}]}
+{
+  "name": "twitch-sub-rockzillah",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rockzHype",
+      "image_id": 112031
+    },
+    {
+      "match": "rockzLove",
+      "image_id": 112030
+    },
+    {
+      "match": "rockzBoom",
+      "image_id": 112029
+    },
+    {
+      "match": "rockzRockzHI",
+      "image_id": 112027
+    },
+    {
+      "match": "rockzRockzBOOM",
+      "image_id": 112028
+    },
+    {
+      "match": "rockzRage",
+      "image_id": 112032
+    },
+    {
+      "match": "rockzRip",
+      "image_id": 112033
+    },
+    {
+      "match": "rockzSad",
+      "image_id": 112034
+    }
+  ]
+}

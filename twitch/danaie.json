@@ -1,1 +1,23 @@
-{"name":"twitch-sub-danaie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"danaGasm","image_id":53068},{"match":"danaRage","image_id":106936},{"match":"danaQQ","image_id":106935},{"match":"danaHype","image_id":106830}]}
+{
+  "name": "twitch-sub-danaie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "danaGasm",
+      "image_id": 53068
+    },
+    {
+      "match": "danaRage",
+      "image_id": 106936
+    },
+    {
+      "match": "danaQQ",
+      "image_id": 106935
+    },
+    {
+      "match": "danaHype",
+      "image_id": 106830
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-splattercatgaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"splatcatShades","image_id":19262},{"match":"splatcatCat","image_id":19263},{"match":"splatcatBalls","image_id":73826},{"match":"splatcatDJ","image_id":73830},{"match":"splatcatKill","image_id":94995},{"match":"splatcatOllie","image_id":94948},{"match":"splatcatCash","image_id":94904},{"match":"splatcatSkullz","image_id":39347}]}
+{
+  "name": "twitch-sub-splattercatgaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "splatcatShades",
+      "image_id": 19262
+    },
+    {
+      "match": "splatcatCat",
+      "image_id": 19263
+    },
+    {
+      "match": "splatcatBalls",
+      "image_id": 73826
+    },
+    {
+      "match": "splatcatDJ",
+      "image_id": 73830
+    },
+    {
+      "match": "splatcatKill",
+      "image_id": 94995
+    },
+    {
+      "match": "splatcatOllie",
+      "image_id": 94948
+    },
+    {
+      "match": "splatcatCash",
+      "image_id": 94904
+    },
+    {
+      "match": "splatcatSkullz",
+      "image_id": 39347
+    }
+  ]
+}

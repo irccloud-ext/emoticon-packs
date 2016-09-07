@@ -1,1 +1,39 @@
-{"name":"twitch-sub-jonaspsgamer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jpsWTF","image_id":90597},{"match":"jpsRapeface","image_id":59248},{"match":"jpsWAT","image_id":102385},{"match":"jpsHype","image_id":78675},{"match":"jpsEZskins","image_id":80827},{"match":"jpsFacePalm","image_id":102848},{"match":"jpsLove","image_id":99427},{"match":"jpsCrazyDaisy","image_id":99284}]}
+{
+  "name": "twitch-sub-jonaspsgamer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jpsWTF",
+      "image_id": 90597
+    },
+    {
+      "match": "jpsRapeface",
+      "image_id": 59248
+    },
+    {
+      "match": "jpsWAT",
+      "image_id": 102385
+    },
+    {
+      "match": "jpsHype",
+      "image_id": 78675
+    },
+    {
+      "match": "jpsEZskins",
+      "image_id": 80827
+    },
+    {
+      "match": "jpsFacePalm",
+      "image_id": 102848
+    },
+    {
+      "match": "jpsLove",
+      "image_id": 99427
+    },
+    {
+      "match": "jpsCrazyDaisy",
+      "image_id": 99284
+    }
+  ]
+}

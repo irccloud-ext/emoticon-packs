@@ -1,1 +1,23 @@
-{"name":"twitch-sub-chaide","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"scgAwYuss","image_id":1886},{"match":"scgRaige","image_id":1887},{"match":"scgSoChayed","image_id":1888},{"match":"scgQTip","image_id":3569}]}
+{
+  "name": "twitch-sub-chaide",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "scgAwYuss",
+      "image_id": 1886
+    },
+    {
+      "match": "scgRaige",
+      "image_id": 1887
+    },
+    {
+      "match": "scgSoChayed",
+      "image_id": 1888
+    },
+    {
+      "match": "scgQTip",
+      "image_id": 3569
+    }
+  ]
+}

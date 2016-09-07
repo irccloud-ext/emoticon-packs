@@ -1,1 +1,39 @@
-{"name":"twitch-sub-dakyl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dakylJK","image_id":58130},{"match":"dakylDD","image_id":108691},{"match":"dakylDG","image_id":108690},{"match":"dakylLOVE","image_id":98030},{"match":"dakylTDB","image_id":99289},{"match":"dakylS","image_id":103385},{"match":"dakylNTR","image_id":106080},{"match":"dakylDJAG","image_id":109396}]}
+{
+  "name": "twitch-sub-dakyl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dakylJK",
+      "image_id": 58130
+    },
+    {
+      "match": "dakylDD",
+      "image_id": 108691
+    },
+    {
+      "match": "dakylDG",
+      "image_id": 108690
+    },
+    {
+      "match": "dakylLOVE",
+      "image_id": 98030
+    },
+    {
+      "match": "dakylTDB",
+      "image_id": 99289
+    },
+    {
+      "match": "dakylS",
+      "image_id": 103385
+    },
+    {
+      "match": "dakylNTR",
+      "image_id": 106080
+    },
+    {
+      "match": "dakylDJAG",
+      "image_id": 109396
+    }
+  ]
+}

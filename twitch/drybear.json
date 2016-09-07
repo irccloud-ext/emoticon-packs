@@ -1,1 +1,35 @@
-{"name":"twitch-sub-drybear","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dryDumb","image_id":3078},{"match":"dryGiveaway","image_id":3079},{"match":"dryHappy","image_id":3080},{"match":"dryMud","image_id":6031},{"match":"dryDog","image_id":6032},{"match":"dryChair","image_id":36985},{"match":"dryEarf","image_id":37656}]}
+{
+  "name": "twitch-sub-drybear",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dryDumb",
+      "image_id": 3078
+    },
+    {
+      "match": "dryGiveaway",
+      "image_id": 3079
+    },
+    {
+      "match": "dryHappy",
+      "image_id": 3080
+    },
+    {
+      "match": "dryMud",
+      "image_id": 6031
+    },
+    {
+      "match": "dryDog",
+      "image_id": 6032
+    },
+    {
+      "match": "dryChair",
+      "image_id": 36985
+    },
+    {
+      "match": "dryEarf",
+      "image_id": 37656
+    }
+  ]
+}

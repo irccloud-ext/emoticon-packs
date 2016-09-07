@@ -1,1 +1,23 @@
-{"name":"twitch-sub-turkish_coffee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tcoffeeNA","image_id":94334},{"match":"tcoffeeAS","image_id":94335},{"match":"tcoffeeXD","image_id":102009},{"match":"tcoffeeHey","image_id":102010}]}
+{
+  "name": "twitch-sub-turkish_coffee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tcoffeeNA",
+      "image_id": 94334
+    },
+    {
+      "match": "tcoffeeAS",
+      "image_id": 94335
+    },
+    {
+      "match": "tcoffeeXD",
+      "image_id": 102009
+    },
+    {
+      "match": "tcoffeeHey",
+      "image_id": 102010
+    }
+  ]
+}

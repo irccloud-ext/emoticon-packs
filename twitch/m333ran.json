@@ -1,1 +1,47 @@
-{"name":"twitch-sub-m333ran","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"m333Nasty","image_id":12980},{"match":"m333Pizza","image_id":12978},{"match":"m333Army","image_id":12979},{"match":"m333Tired","image_id":12981},{"match":"m333Hype","image_id":13621},{"match":"m333Bruv","image_id":16590},{"match":"m333Haha","image_id":16591},{"match":"m333Rigged","image_id":44947},{"match":"m333Money","image_id":44946},{"match":"m333Hater","image_id":45081}]}
+{
+  "name": "twitch-sub-m333ran",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "m333Nasty",
+      "image_id": 12980
+    },
+    {
+      "match": "m333Pizza",
+      "image_id": 12978
+    },
+    {
+      "match": "m333Army",
+      "image_id": 12979
+    },
+    {
+      "match": "m333Tired",
+      "image_id": 12981
+    },
+    {
+      "match": "m333Hype",
+      "image_id": 13621
+    },
+    {
+      "match": "m333Bruv",
+      "image_id": 16590
+    },
+    {
+      "match": "m333Haha",
+      "image_id": 16591
+    },
+    {
+      "match": "m333Rigged",
+      "image_id": 44947
+    },
+    {
+      "match": "m333Money",
+      "image_id": 44946
+    },
+    {
+      "match": "m333Hater",
+      "image_id": 45081
+    }
+  ]
+}

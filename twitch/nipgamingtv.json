@@ -1,1 +1,63 @@
-{"name":"twitch-sub-nipgamingtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rofFiffy","image_id":2347},{"match":"rofSemmler","image_id":54360},{"match":"rofAce","image_id":54356},{"match":"rofVAC","image_id":54362},{"match":"rofSilver","image_id":54361},{"match":"rofGeneral","image_id":54359},{"match":"rofChicken","image_id":54357},{"match":"rofRekt","image_id":54364},{"match":"rofTouchdown","image_id":54363},{"match":"rofOnfire","image_id":18109},{"match":"niptvFriberg","image_id":57221},{"match":"niptvAllu","image_id":54950},{"match":"niptvKappa","image_id":54951},{"match":"niptvXizt","image_id":59507}]}
+{
+  "name": "twitch-sub-nipgamingtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rofFiffy",
+      "image_id": 2347
+    },
+    {
+      "match": "rofSemmler",
+      "image_id": 54360
+    },
+    {
+      "match": "rofAce",
+      "image_id": 54356
+    },
+    {
+      "match": "rofVAC",
+      "image_id": 54362
+    },
+    {
+      "match": "rofSilver",
+      "image_id": 54361
+    },
+    {
+      "match": "rofGeneral",
+      "image_id": 54359
+    },
+    {
+      "match": "rofChicken",
+      "image_id": 54357
+    },
+    {
+      "match": "rofRekt",
+      "image_id": 54364
+    },
+    {
+      "match": "rofTouchdown",
+      "image_id": 54363
+    },
+    {
+      "match": "rofOnfire",
+      "image_id": 18109
+    },
+    {
+      "match": "niptvFriberg",
+      "image_id": 57221
+    },
+    {
+      "match": "niptvAllu",
+      "image_id": 54950
+    },
+    {
+      "match": "niptvKappa",
+      "image_id": 54951
+    },
+    {
+      "match": "niptvXizt",
+      "image_id": 59507
+    }
+  ]
+}

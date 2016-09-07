@@ -1,1 +1,63 @@
-{"name":"twitch-sub-wolv21","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wolvRockOn","image_id":1297},{"match":"wolvCoffeeTime","image_id":1298},{"match":"wolvStabParty","image_id":1466},{"match":"wolvBZP","image_id":4461},{"match":"wolvWUT","image_id":7234},{"match":"wolvSMEXY","image_id":8460},{"match":"wolvHEART","image_id":12051},{"match":"wolvHYPE","image_id":27463},{"match":"wolvFAIL","image_id":27464},{"match":"wolvREKT","image_id":27465},{"match":"wolvRNG","image_id":27466},{"match":"wolvNOPE","image_id":31173},{"match":"wolvLEWD","image_id":32456},{"match":"wolvBC","image_id":105179}]}
+{
+  "name": "twitch-sub-wolv21",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wolvRockOn",
+      "image_id": 1297
+    },
+    {
+      "match": "wolvCoffeeTime",
+      "image_id": 1298
+    },
+    {
+      "match": "wolvStabParty",
+      "image_id": 1466
+    },
+    {
+      "match": "wolvBZP",
+      "image_id": 4461
+    },
+    {
+      "match": "wolvWUT",
+      "image_id": 7234
+    },
+    {
+      "match": "wolvSMEXY",
+      "image_id": 8460
+    },
+    {
+      "match": "wolvHEART",
+      "image_id": 12051
+    },
+    {
+      "match": "wolvHYPE",
+      "image_id": 27463
+    },
+    {
+      "match": "wolvFAIL",
+      "image_id": 27464
+    },
+    {
+      "match": "wolvREKT",
+      "image_id": 27465
+    },
+    {
+      "match": "wolvRNG",
+      "image_id": 27466
+    },
+    {
+      "match": "wolvNOPE",
+      "image_id": 31173
+    },
+    {
+      "match": "wolvLEWD",
+      "image_id": 32456
+    },
+    {
+      "match": "wolvBC",
+      "image_id": 105179
+    }
+  ]
+}

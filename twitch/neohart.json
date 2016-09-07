@@ -1,1 +1,39 @@
-{"name":"twitch-sub-neohart","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"neohO","image_id":20893},{"match":"neohThump","image_id":21278},{"match":"neohHype","image_id":21748},{"match":"neohCLOD","image_id":26772},{"match":"neohGlow","image_id":27962},{"match":"neohHA","image_id":28908},{"match":"neohHart","image_id":28917},{"match":"neohBrudda","image_id":28918}]}
+{
+  "name": "twitch-sub-neohart",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "neohO",
+      "image_id": 20893
+    },
+    {
+      "match": "neohThump",
+      "image_id": 21278
+    },
+    {
+      "match": "neohHype",
+      "image_id": 21748
+    },
+    {
+      "match": "neohCLOD",
+      "image_id": 26772
+    },
+    {
+      "match": "neohGlow",
+      "image_id": 27962
+    },
+    {
+      "match": "neohHA",
+      "image_id": 28908
+    },
+    {
+      "match": "neohHart",
+      "image_id": 28917
+    },
+    {
+      "match": "neohBrudda",
+      "image_id": 28918
+    }
+  ]
+}

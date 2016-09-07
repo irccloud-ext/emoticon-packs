@@ -1,1 +1,39 @@
-{"name":"twitch-sub-ahlexah","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"alexaSailor","image_id":8465},{"match":"alexaBYE","image_id":9787},{"match":"alexaRage","image_id":78373},{"match":"alexaRatchet","image_id":25143},{"match":"alexaJinx","image_id":37882},{"match":"alexaWave","image_id":81672},{"match":"alexaSNORTS","image_id":78372},{"match":"alexaMoans","image_id":78374}]}
+{
+  "name": "twitch-sub-ahlexah",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "alexaSailor",
+      "image_id": 8465
+    },
+    {
+      "match": "alexaBYE",
+      "image_id": 9787
+    },
+    {
+      "match": "alexaRage",
+      "image_id": 78373
+    },
+    {
+      "match": "alexaRatchet",
+      "image_id": 25143
+    },
+    {
+      "match": "alexaJinx",
+      "image_id": 37882
+    },
+    {
+      "match": "alexaWave",
+      "image_id": 81672
+    },
+    {
+      "match": "alexaSNORTS",
+      "image_id": 78372
+    },
+    {
+      "match": "alexaMoans",
+      "image_id": 78374
+    }
+  ]
+}

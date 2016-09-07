@@ -1,1 +1,47 @@
-{"name":"twitch-sub-mackenseize","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kenzSTD","image_id":48946},{"match":"kenzHoop","image_id":39522},{"match":"kenzW","image_id":39508},{"match":"kenzChair","image_id":48699},{"match":"kenzSub","image_id":48895},{"match":"kenzH","image_id":62164},{"match":"kenzTree","image_id":73101},{"match":"kenzThump","image_id":73974},{"match":"kenzChamp","image_id":73975},{"match":"kenzHaterz","image_id":100773}]}
+{
+  "name": "twitch-sub-mackenseize",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kenzSTD",
+      "image_id": 48946
+    },
+    {
+      "match": "kenzHoop",
+      "image_id": 39522
+    },
+    {
+      "match": "kenzW",
+      "image_id": 39508
+    },
+    {
+      "match": "kenzChair",
+      "image_id": 48699
+    },
+    {
+      "match": "kenzSub",
+      "image_id": 48895
+    },
+    {
+      "match": "kenzH",
+      "image_id": 62164
+    },
+    {
+      "match": "kenzTree",
+      "image_id": 73101
+    },
+    {
+      "match": "kenzThump",
+      "image_id": 73974
+    },
+    {
+      "match": "kenzChamp",
+      "image_id": 73975
+    },
+    {
+      "match": "kenzHaterz",
+      "image_id": 100773
+    }
+  ]
+}

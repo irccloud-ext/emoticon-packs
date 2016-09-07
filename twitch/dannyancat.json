@@ -1,1 +1,31 @@
-{"name":"twitch-sub-dannyancat","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"danyanTROLL","image_id":70104},{"match":"danyanPUDDI","image_id":70111},{"match":"danyanROSS","image_id":73102},{"match":"danyanKAPPA","image_id":73964},{"match":"danyanOMG","image_id":73965},{"match":"danyanGG","image_id":73966}]}
+{
+  "name": "twitch-sub-dannyancat",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "danyanTROLL",
+      "image_id": 70104
+    },
+    {
+      "match": "danyanPUDDI",
+      "image_id": 70111
+    },
+    {
+      "match": "danyanROSS",
+      "image_id": 73102
+    },
+    {
+      "match": "danyanKAPPA",
+      "image_id": 73964
+    },
+    {
+      "match": "danyanOMG",
+      "image_id": 73965
+    },
+    {
+      "match": "danyanGG",
+      "image_id": 73966
+    }
+  ]
+}

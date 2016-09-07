@@ -1,1 +1,47 @@
-{"name":"twitch-sub-gl_alexclick","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cliclemoteGg","image_id":56886},{"match":"cliclemoteDoigt","image_id":56714},{"match":"cliclemoteFail","image_id":56715},{"match":"cliclemoteSubhype","image_id":60396},{"match":"cliclemoteRip","image_id":61872},{"match":"cliclemoteApwal","image_id":100552},{"match":"cliclemoteBemonique","image_id":100551},{"match":"cliclemoteDontpanic","image_id":100550},{"match":"cliclemoteTeamclick","image_id":98017},{"match":"cliclemoteKappa","image_id":98016}]}
+{
+  "name": "twitch-sub-gl_alexclick",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cliclemoteGg",
+      "image_id": 56886
+    },
+    {
+      "match": "cliclemoteDoigt",
+      "image_id": 56714
+    },
+    {
+      "match": "cliclemoteFail",
+      "image_id": 56715
+    },
+    {
+      "match": "cliclemoteSubhype",
+      "image_id": 60396
+    },
+    {
+      "match": "cliclemoteRip",
+      "image_id": 61872
+    },
+    {
+      "match": "cliclemoteApwal",
+      "image_id": 100552
+    },
+    {
+      "match": "cliclemoteBemonique",
+      "image_id": 100551
+    },
+    {
+      "match": "cliclemoteDontpanic",
+      "image_id": 100550
+    },
+    {
+      "match": "cliclemoteTeamclick",
+      "image_id": 98017
+    },
+    {
+      "match": "cliclemoteKappa",
+      "image_id": 98016
+    }
+  ]
+}

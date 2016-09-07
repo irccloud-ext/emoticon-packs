@@ -1,1 +1,31 @@
-{"name":"twitch-sub-marinacsousa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pamufaCute","image_id":87180},{"match":"pamufaHeart","image_id":87155},{"match":"pamufaHype","image_id":87177},{"match":"pamufaRage","image_id":87178},{"match":"pamufaFacepalm","image_id":87154},{"match":"pamufaCry","image_id":87153}]}
+{
+  "name": "twitch-sub-marinacsousa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pamufaCute",
+      "image_id": 87180
+    },
+    {
+      "match": "pamufaHeart",
+      "image_id": 87155
+    },
+    {
+      "match": "pamufaHype",
+      "image_id": 87177
+    },
+    {
+      "match": "pamufaRage",
+      "image_id": 87178
+    },
+    {
+      "match": "pamufaFacepalm",
+      "image_id": 87154
+    },
+    {
+      "match": "pamufaCry",
+      "image_id": 87153
+    }
+  ]
+}

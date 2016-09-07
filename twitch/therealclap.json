@@ -1,1 +1,11 @@
-{"name":"twitch-sub-therealclap","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ripsmiteRipsmite","image_id":101650}]}
+{
+  "name": "twitch-sub-therealclap",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ripsmiteRipsmite",
+      "image_id": 101650
+    }
+  ]
+}

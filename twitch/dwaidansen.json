@@ -1,1 +1,39 @@
-{"name":"twitch-sub-dwaidansen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dansenFail","image_id":65378},{"match":"dansenLove","image_id":108399},{"match":"dansenKaffee","image_id":108407},{"match":"dansenTilt","image_id":108404},{"match":"dansenGame","image_id":64452},{"match":"dansenW","image_id":64451},{"match":"dansenMoney","image_id":64491},{"match":"dansenHi","image_id":87186}]}
+{
+  "name": "twitch-sub-dwaidansen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dansenFail",
+      "image_id": 65378
+    },
+    {
+      "match": "dansenLove",
+      "image_id": 108399
+    },
+    {
+      "match": "dansenKaffee",
+      "image_id": 108407
+    },
+    {
+      "match": "dansenTilt",
+      "image_id": 108404
+    },
+    {
+      "match": "dansenGame",
+      "image_id": 64452
+    },
+    {
+      "match": "dansenW",
+      "image_id": 64451
+    },
+    {
+      "match": "dansenMoney",
+      "image_id": 64491
+    },
+    {
+      "match": "dansenHi",
+      "image_id": 87186
+    }
+  ]
+}

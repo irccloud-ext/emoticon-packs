@@ -1,1 +1,15 @@
-{"name":"twitch-sub-gl_vicklatereur","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"glvickRekt","image_id":70447},{"match":"glvickPLS","image_id":99261}]}
+{
+  "name": "twitch-sub-gl_vicklatereur",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "glvickRekt",
+      "image_id": 70447
+    },
+    {
+      "match": "glvickPLS",
+      "image_id": 99261
+    }
+  ]
+}

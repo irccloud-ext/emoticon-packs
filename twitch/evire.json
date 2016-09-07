@@ -1,1 +1,15 @@
-{"name":"twitch-sub-evire","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"eviOpm","image_id":49198},{"match":"eviTHUMB","image_id":49195}]}
+{
+  "name": "twitch-sub-evire",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "eviOpm",
+      "image_id": 49198
+    },
+    {
+      "match": "eviTHUMB",
+      "image_id": 49195
+    }
+  ]
+}

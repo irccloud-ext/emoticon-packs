@@ -1,1 +1,23 @@
-{"name":"twitch-sub-wildhungarian","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wildhunBalloon","image_id":49990},{"match":"wildhunWictory","image_id":49991},{"match":"wildhunOwl","image_id":50379},{"match":"wildhunHeart","image_id":50689}]}
+{
+  "name": "twitch-sub-wildhungarian",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wildhunBalloon",
+      "image_id": 49990
+    },
+    {
+      "match": "wildhunWictory",
+      "image_id": 49991
+    },
+    {
+      "match": "wildhunOwl",
+      "image_id": 50379
+    },
+    {
+      "match": "wildhunHeart",
+      "image_id": 50689
+    }
+  ]
+}

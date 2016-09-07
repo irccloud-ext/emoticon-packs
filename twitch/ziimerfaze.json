@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ziimerfaze","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ziimerHAPPY","image_id":73688},{"match":"ziimerPMA","image_id":66679},{"match":"ziimerSUB","image_id":92848},{"match":"ziimerLEEROY","image_id":92847}]}
+{
+  "name": "twitch-sub-ziimerfaze",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ziimerHAPPY",
+      "image_id": 73688
+    },
+    {
+      "match": "ziimerPMA",
+      "image_id": 66679
+    },
+    {
+      "match": "ziimerSUB",
+      "image_id": 92848
+    },
+    {
+      "match": "ziimerLEEROY",
+      "image_id": 92847
+    }
+  ]
+}

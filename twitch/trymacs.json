@@ -1,1 +1,27 @@
-{"name":"twitch-sub-trymacs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xpfeileFritz","image_id":103177},{"match":"xpfeileHog","image_id":102086},{"match":"xpfeileRage","image_id":102085},{"match":"xpfeile3","image_id":102082},{"match":"xpfeileXpfeile","image_id":100024}]}
+{
+  "name": "twitch-sub-trymacs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xpfeileFritz",
+      "image_id": 103177
+    },
+    {
+      "match": "xpfeileHog",
+      "image_id": 102086
+    },
+    {
+      "match": "xpfeileRage",
+      "image_id": 102085
+    },
+    {
+      "match": "xpfeile3",
+      "image_id": 102082
+    },
+    {
+      "match": "xpfeileXpfeile",
+      "image_id": 100024
+    }
+  ]
+}

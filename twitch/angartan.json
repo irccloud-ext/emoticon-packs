@@ -1,1 +1,31 @@
-{"name":"twitch-sub-angartan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"angarFail","image_id":97913},{"match":"angarWow","image_id":97909},{"match":"angar10","image_id":95867},{"match":"angarLoco","image_id":92049},{"match":"angarCry","image_id":92050},{"match":"angarRage","image_id":91299}]}
+{
+  "name": "twitch-sub-angartan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "angarFail",
+      "image_id": 97913
+    },
+    {
+      "match": "angarWow",
+      "image_id": 97909
+    },
+    {
+      "match": "angar10",
+      "image_id": 95867
+    },
+    {
+      "match": "angarLoco",
+      "image_id": 92049
+    },
+    {
+      "match": "angarCry",
+      "image_id": 92050
+    },
+    {
+      "match": "angarRage",
+      "image_id": 91299
+    }
+  ]
+}

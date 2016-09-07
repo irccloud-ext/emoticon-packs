@@ -1,1 +1,27 @@
-{"name":"twitch-sub-mascahs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"scaBeam","image_id":91904},{"match":"scaSun","image_id":106473},{"match":"scaDiva","image_id":106474},{"match":"scaKill","image_id":106476}]}
+{
+  "name": "twitch-sub-mascahs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "scaBeam",
+      "image_id": 91904
+    },
+    {
+      "match": "scaSun",
+      "image_id": 106473
+    },
+    {
+      "match": "scaDiva",
+      "image_id": 106474
+    },
+    {
+      "match": "scaKill",
+      "image_id": 106476
+    },
+    {
+      "match": "scaBbak",
+      "image_id": 112255
+    }
+  ]
+}

@@ -1,1 +1,67 @@
-{"name":"twitch-sub-darkness_429","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"timmehRIP","image_id":71154},{"match":"timmehHi","image_id":71273},{"match":"timmehGG","image_id":86232},{"match":"timmehHype","image_id":30587},{"match":"timmehGasm","image_id":34682},{"match":"timmehCry","image_id":34688},{"match":"timmehSenpai","image_id":50628},{"match":"timmehYes","image_id":50626},{"match":"timmehLove","image_id":50625},{"match":"timmehROGUE","image_id":86472},{"match":"timmehREKT","image_id":71101},{"match":"timmehBacon","image_id":71057},{"match":"timmehHAX","image_id":86233},{"match":"timmehRAGE","image_id":86234},{"match":"timmehTP","image_id":86853}]}
+{
+  "name": "twitch-sub-darkness_429",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "timmehRIP",
+      "image_id": 71154
+    },
+    {
+      "match": "timmehHi",
+      "image_id": 71273
+    },
+    {
+      "match": "timmehGG",
+      "image_id": 86232
+    },
+    {
+      "match": "timmehHype",
+      "image_id": 30587
+    },
+    {
+      "match": "timmehGasm",
+      "image_id": 34682
+    },
+    {
+      "match": "timmehCry",
+      "image_id": 34688
+    },
+    {
+      "match": "timmehSenpai",
+      "image_id": 50628
+    },
+    {
+      "match": "timmehYes",
+      "image_id": 50626
+    },
+    {
+      "match": "timmehLove",
+      "image_id": 50625
+    },
+    {
+      "match": "timmehROGUE",
+      "image_id": 86472
+    },
+    {
+      "match": "timmehREKT",
+      "image_id": 71101
+    },
+    {
+      "match": "timmehBacon",
+      "image_id": 71057
+    },
+    {
+      "match": "timmehHAX",
+      "image_id": 86233
+    },
+    {
+      "match": "timmehRAGE",
+      "image_id": 86234
+    },
+    {
+      "match": "timmehTP",
+      "image_id": 86853
+    }
+  ]
+}

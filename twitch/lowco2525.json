@@ -1,1 +1,67 @@
-{"name":"twitch-sub-lowco2525","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lowcoWut","image_id":104720},{"match":"lowcoLove","image_id":104717},{"match":"lowcoPls","image_id":104680},{"match":"lowcoMeow","image_id":104679},{"match":"lowcoLost","image_id":104678},{"match":"lowcoAim","image_id":104677},{"match":"lowcoF1","image_id":18895},{"match":"lowcoCry","image_id":26418},{"match":"lowcoHype","image_id":81535},{"match":"lowcoBlush","image_id":35597},{"match":"lowcoHi","image_id":47075},{"match":"lowcoRIP","image_id":46972},{"match":"lowcoRage","image_id":46974},{"match":"lowcoBewm","image_id":77953},{"match":"lowcoBooker","image_id":77952}]}
+{
+  "name": "twitch-sub-lowco2525",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lowcoWut",
+      "image_id": 104720
+    },
+    {
+      "match": "lowcoLove",
+      "image_id": 104717
+    },
+    {
+      "match": "lowcoPls",
+      "image_id": 104680
+    },
+    {
+      "match": "lowcoMeow",
+      "image_id": 104679
+    },
+    {
+      "match": "lowcoLost",
+      "image_id": 104678
+    },
+    {
+      "match": "lowcoAim",
+      "image_id": 104677
+    },
+    {
+      "match": "lowcoF1",
+      "image_id": 18895
+    },
+    {
+      "match": "lowcoCry",
+      "image_id": 26418
+    },
+    {
+      "match": "lowcoHype",
+      "image_id": 81535
+    },
+    {
+      "match": "lowcoBlush",
+      "image_id": 35597
+    },
+    {
+      "match": "lowcoHi",
+      "image_id": 47075
+    },
+    {
+      "match": "lowcoRIP",
+      "image_id": 46972
+    },
+    {
+      "match": "lowcoRage",
+      "image_id": 46974
+    },
+    {
+      "match": "lowcoBewm",
+      "image_id": 77953
+    },
+    {
+      "match": "lowcoBooker",
+      "image_id": 77952
+    }
+  ]
+}

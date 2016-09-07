@@ -1,1 +1,31 @@
-{"name":"twitch-sub-winterthirteen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"winterXD","image_id":106934},{"match":"winterLOVE","image_id":107673},{"match":"winterGG","image_id":106933},{"match":"winterSIP","image_id":107672},{"match":"winterBRB","image_id":110731},{"match":"winterF","image_id":110733}]}
+{
+  "name": "twitch-sub-winterthirteen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "winterXD",
+      "image_id": 106934
+    },
+    {
+      "match": "winterLOVE",
+      "image_id": 107673
+    },
+    {
+      "match": "winterGG",
+      "image_id": 106933
+    },
+    {
+      "match": "winterSIP",
+      "image_id": 107672
+    },
+    {
+      "match": "winterBRB",
+      "image_id": 110731
+    },
+    {
+      "match": "winterF",
+      "image_id": 110733
+    }
+  ]
+}

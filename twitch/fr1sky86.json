@@ -1,1 +1,47 @@
-{"name":"twitch-sub-fr1sky86","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"friskHOLLY","image_id":110766},{"match":"friskRIP","image_id":97524},{"match":"friskLIT","image_id":94788},{"match":"friskFEELS","image_id":96891},{"match":"friskPF","image_id":96890},{"match":"friskPLS","image_id":96481},{"match":"friskSUB","image_id":94558},{"match":"friskLOVE","image_id":94560},{"match":"friskHULLO","image_id":94561},{"match":"friskHI","image_id":94563}]}
+{
+  "name": "twitch-sub-fr1sky86",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "friskHOLLY",
+      "image_id": 110766
+    },
+    {
+      "match": "friskRIP",
+      "image_id": 97524
+    },
+    {
+      "match": "friskLIT",
+      "image_id": 94788
+    },
+    {
+      "match": "friskFEELS",
+      "image_id": 96891
+    },
+    {
+      "match": "friskPF",
+      "image_id": 96890
+    },
+    {
+      "match": "friskPLS",
+      "image_id": 96481
+    },
+    {
+      "match": "friskSUB",
+      "image_id": 94558
+    },
+    {
+      "match": "friskLOVE",
+      "image_id": 94560
+    },
+    {
+      "match": "friskHULLO",
+      "image_id": 94561
+    },
+    {
+      "match": "friskCRY",
+      "image_id": 112581
+    }
+  ]
+}

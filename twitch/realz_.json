@@ -1,1 +1,23 @@
-{"name":"twitch-sub-realz_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"realzCappa","image_id":18894},{"match":"realzTopdeck","image_id":19132},{"match":"realzHYPE","image_id":19135},{"match":"realzPJHat","image_id":19134}]}
+{
+  "name": "twitch-sub-realz_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "realzCappa",
+      "image_id": 18894
+    },
+    {
+      "match": "realzTopdeck",
+      "image_id": 19132
+    },
+    {
+      "match": "realzHYPE",
+      "image_id": 19135
+    },
+    {
+      "match": "realzPJHat",
+      "image_id": 19134
+    }
+  ]
+}

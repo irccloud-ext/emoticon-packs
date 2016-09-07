@@ -1,1 +1,31 @@
-{"name":"twitch-sub-kangqui","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tearsPitiful","image_id":87139},{"match":"tearsSuprise","image_id":74033},{"match":"tearsHappy","image_id":74032},{"match":"tearsStormQui","image_id":68831},{"match":"tearsBATING","image_id":68830},{"match":"tearsOverwatch","image_id":87138}]}
+{
+  "name": "twitch-sub-kangqui",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tearsPitiful",
+      "image_id": 87139
+    },
+    {
+      "match": "tearsSuprise",
+      "image_id": 74033
+    },
+    {
+      "match": "tearsHappy",
+      "image_id": 74032
+    },
+    {
+      "match": "tearsStormQui",
+      "image_id": 68831
+    },
+    {
+      "match": "tearsBATING",
+      "image_id": 68830
+    },
+    {
+      "match": "tearsOverwatch",
+      "image_id": 87138
+    }
+  ]
+}

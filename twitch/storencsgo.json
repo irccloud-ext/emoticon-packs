@@ -1,1 +1,15 @@
-{"name":"twitch-sub-storencsgo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"storenYo","image_id":59472},{"match":"storenNewsub","image_id":108262}]}
+{
+  "name": "twitch-sub-storencsgo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "storenYo",
+      "image_id": 59472
+    },
+    {
+      "match": "storenNewsub",
+      "image_id": 108262
+    }
+  ]
+}

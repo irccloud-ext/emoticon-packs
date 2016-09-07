@@ -1,1 +1,31 @@
-{"name":"twitch-sub-celgaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"celBlameDaz","image_id":2441},{"match":"celFail","image_id":2630},{"match":"celTears","image_id":2631},{"match":"celDown","image_id":2632},{"match":"celPiggy","image_id":9140},{"match":"celDat","image_id":23016}]}
+{
+  "name": "twitch-sub-celgaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "celBlameDaz",
+      "image_id": 2441
+    },
+    {
+      "match": "celFail",
+      "image_id": 2630
+    },
+    {
+      "match": "celTears",
+      "image_id": 2631
+    },
+    {
+      "match": "celDown",
+      "image_id": 2632
+    },
+    {
+      "match": "celPiggy",
+      "image_id": 9140
+    },
+    {
+      "match": "celDat",
+      "image_id": 23016
+    }
+  ]
+}

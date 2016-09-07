@@ -1,1 +1,39 @@
-{"name":"twitch-sub-tetristhegrandmaster3","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tgm3RED","image_id":75953},{"match":"tgm3GG","image_id":74603},{"match":"tgm3OD","image_id":74592},{"match":"tgm3GOMI","image_id":78005},{"match":"tgm3SP","image_id":75954},{"match":"tgm3Cgua","image_id":74839},{"match":"tgm3GA","image_id":74840},{"match":"tgm3AMON","image_id":78084}]}
+{
+  "name": "twitch-sub-tetristhegrandmaster3",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tgm3RED",
+      "image_id": 75953
+    },
+    {
+      "match": "tgm3GG",
+      "image_id": 74603
+    },
+    {
+      "match": "tgm3OD",
+      "image_id": 74592
+    },
+    {
+      "match": "tgm3GOMI",
+      "image_id": 78005
+    },
+    {
+      "match": "tgm3SP",
+      "image_id": 75954
+    },
+    {
+      "match": "tgm3Cgua",
+      "image_id": 74839
+    },
+    {
+      "match": "tgm3GA",
+      "image_id": 74840
+    },
+    {
+      "match": "tgm3AMON",
+      "image_id": 78084
+    }
+  ]
+}

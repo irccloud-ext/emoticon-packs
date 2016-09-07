@@ -1,1 +1,11 @@
-{"name":"twitch-sub-iamdimitri","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dimitri2kill","image_id":13111}]}
+{
+  "name": "twitch-sub-iamdimitri",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dimitri2kill",
+      "image_id": 13111
+    }
+  ]
+}

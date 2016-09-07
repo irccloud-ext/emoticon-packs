@@ -1,1 +1,11 @@
-{"name":"twitch-sub-aggrosuper","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aggFace","image_id":26163}]}
+{
+  "name": "twitch-sub-aggrosuper",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aggFace",
+      "image_id": 26163
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-chillatech","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chillaRad","image_id":46332},{"match":"chillaSniff","image_id":46040}]}
+{
+  "name": "twitch-sub-chillatech",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chillaRad",
+      "image_id": 46332
+    },
+    {
+      "match": "chillaSniff",
+      "image_id": 46040
+    }
+  ]
+}

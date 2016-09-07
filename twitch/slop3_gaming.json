@@ -1,1 +1,47 @@
-{"name":"twitch-sub-slop3_gaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"slop3FRALLA","image_id":39215},{"match":"slop3LOL","image_id":22705},{"match":"slop3GOOD","image_id":25623},{"match":"slop3JINX","image_id":39837},{"match":"slop3KOEVI","image_id":39300},{"match":"slop3VIN","image_id":34030},{"match":"slop3HEY","image_id":35943},{"match":"slop3UPP","image_id":35971},{"match":"slop3TYST","image_id":108864},{"match":"slop3PUTTE","image_id":108863}]}
+{
+  "name": "twitch-sub-slop3_gaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "slop3FRALLA",
+      "image_id": 39215
+    },
+    {
+      "match": "slop3LOL",
+      "image_id": 22705
+    },
+    {
+      "match": "slop3GOOD",
+      "image_id": 25623
+    },
+    {
+      "match": "slop3JINX",
+      "image_id": 39837
+    },
+    {
+      "match": "slop3KOEVI",
+      "image_id": 39300
+    },
+    {
+      "match": "slop3VIN",
+      "image_id": 34030
+    },
+    {
+      "match": "slop3HEY",
+      "image_id": 35943
+    },
+    {
+      "match": "slop3UPP",
+      "image_id": 35971
+    },
+    {
+      "match": "slop3TYST",
+      "image_id": 108864
+    },
+    {
+      "match": "slop3PUTTE",
+      "image_id": 108863
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-{"name":"twitch-sub-xscwx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"scwChef","image_id":88554},{"match":"scwStealing","image_id":88555},{"match":"scwPekka","image_id":89438},{"match":"scwStacks","image_id":89437},{"match":"scwWave","image_id":91405}]}
+{
+  "name": "twitch-sub-xscwx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "scwChef",
+      "image_id": 88554
+    },
+    {
+      "match": "scwStealing",
+      "image_id": 88555
+    },
+    {
+      "match": "scwPekka",
+      "image_id": 89438
+    },
+    {
+      "match": "scwStacks",
+      "image_id": 89437
+    },
+    {
+      "match": "scwWave",
+      "image_id": 91405
+    }
+  ]
+}

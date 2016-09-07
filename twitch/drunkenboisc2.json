@@ -1,1 +1,11 @@
-{"name":"twitch-sub-drunkenboisc2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hennMule","image_id":45282}]}
+{
+  "name": "twitch-sub-drunkenboisc2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hennMule",
+      "image_id": 45282
+    }
+  ]
+}

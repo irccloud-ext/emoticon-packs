@@ -1,1 +1,39 @@
-{"name":"twitch-sub-hackstyl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hackrageHacktroll","image_id":101142},{"match":"hackrageHackBatawdeMed","image_id":101219},{"match":"hackrageHackstylOMG","image_id":101284},{"match":"hackrageHackRagemode","image_id":101129},{"match":"hackrageHackstylREKT","image_id":101151},{"match":"hackrageSupaSsinoi","image_id":100914},{"match":"hackrageSupaSub","image_id":100915},{"match":"hackrageSupaGG","image_id":100918}]}
+{
+  "name": "twitch-sub-hackstyl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hackrageHacktroll",
+      "image_id": 101142
+    },
+    {
+      "match": "hackrageHackBatawdeMed",
+      "image_id": 101219
+    },
+    {
+      "match": "hackrageHackstylOMG",
+      "image_id": 101284
+    },
+    {
+      "match": "hackrageHackRagemode",
+      "image_id": 101129
+    },
+    {
+      "match": "hackrageHackstylREKT",
+      "image_id": 101151
+    },
+    {
+      "match": "hackrageSupaSsinoi",
+      "image_id": 100914
+    },
+    {
+      "match": "hackrageSupaSub",
+      "image_id": 100915
+    },
+    {
+      "match": "hackrageSupaGG",
+      "image_id": 100918
+    }
+  ]
+}

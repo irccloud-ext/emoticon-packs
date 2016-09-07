@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mercenarythorrn","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mercYarr","image_id":53591},{"match":"mercAll","image_id":52342},{"match":"mercFed","image_id":52340},{"match":"mercImp","image_id":52339},{"match":"mercHunt","image_id":34864},{"match":"mercOh","image_id":45774}]}
+{
+  "name": "twitch-sub-mercenarythorrn",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mercYarr",
+      "image_id": 53591
+    },
+    {
+      "match": "mercAll",
+      "image_id": 52342
+    },
+    {
+      "match": "mercFed",
+      "image_id": 52340
+    },
+    {
+      "match": "mercImp",
+      "image_id": 52339
+    },
+    {
+      "match": "mercHunt",
+      "image_id": 34864
+    },
+    {
+      "match": "mercOh",
+      "image_id": 45774
+    }
+  ]
+}

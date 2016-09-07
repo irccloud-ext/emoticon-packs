@@ -1,1 +1,23 @@
-{"name":"twitch-sub-fpsfer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kferKEYD","image_id":45865},{"match":"kferIRMOKE","image_id":45918},{"match":"kferBAD","image_id":46031},{"match":"kferRUSHEI","image_id":45368}]}
+{
+  "name": "twitch-sub-fpsfer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kferKEYD",
+      "image_id": 45865
+    },
+    {
+      "match": "kferIRMOKE",
+      "image_id": 45918
+    },
+    {
+      "match": "kferBAD",
+      "image_id": 46031
+    },
+    {
+      "match": "kferRUSHEI",
+      "image_id": 45368
+    }
+  ]
+}

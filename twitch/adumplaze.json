@@ -1,1 +1,31 @@
-{"name":"twitch-sub-adumplaze","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"adumFace","image_id":40040},{"match":"adumHmm","image_id":40073},{"match":"adumCat","image_id":41701},{"match":"adumShower","image_id":59483},{"match":"adumBooty","image_id":59757},{"match":"adumRat","image_id":84210}]}
+{
+  "name": "twitch-sub-adumplaze",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "adumFace",
+      "image_id": 40040
+    },
+    {
+      "match": "adumHmm",
+      "image_id": 40073
+    },
+    {
+      "match": "adumCat",
+      "image_id": 41701
+    },
+    {
+      "match": "adumShower",
+      "image_id": 59483
+    },
+    {
+      "match": "adumBooty",
+      "image_id": 59757
+    },
+    {
+      "match": "adumRat",
+      "image_id": 84210
+    }
+  ]
+}

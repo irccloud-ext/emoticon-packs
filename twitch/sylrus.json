@@ -1,1 +1,23 @@
-{"name":"twitch-sub-sylrus","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sylrusKappa","image_id":36576},{"match":"sylrusAW","image_id":38446},{"match":"sylrusEve","image_id":55531},{"match":"sylrusHey","image_id":82507}]}
+{
+  "name": "twitch-sub-sylrus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sylrusKappa",
+      "image_id": 36576
+    },
+    {
+      "match": "sylrusAW",
+      "image_id": 38446
+    },
+    {
+      "match": "sylrusEve",
+      "image_id": 55531
+    },
+    {
+      "match": "sylrusHey",
+      "image_id": 82507
+    }
+  ]
+}

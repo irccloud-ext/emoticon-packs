@@ -1,1 +1,11 @@
-{"name":"twitch-sub-dephh_live","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dephhPot","image_id":108557}]}
+{
+  "name": "twitch-sub-dephh_live",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dephhPot",
+      "image_id": 108557
+    }
+  ]
+}

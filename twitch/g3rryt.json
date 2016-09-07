@@ -1,1 +1,23 @@
-{"name":"twitch-sub-g3rryt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"taliaParpy","image_id":54676},{"match":"taliaGerritThage","image_id":54677},{"match":"taliaBard","image_id":55232},{"match":"taliaMoo","image_id":55233}]}
+{
+  "name": "twitch-sub-g3rryt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "taliaParpy",
+      "image_id": 54676
+    },
+    {
+      "match": "taliaGerritThage",
+      "image_id": 54677
+    },
+    {
+      "match": "taliaBard",
+      "image_id": 55232
+    },
+    {
+      "match": "taliaMoo",
+      "image_id": 55233
+    }
+  ]
+}

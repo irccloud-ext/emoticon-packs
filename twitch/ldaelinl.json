@@ -1,1 +1,15 @@
-{"name":"twitch-sub-ldaelinl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dolinKapaPeru","image_id":4848},{"match":"dolinFace","image_id":5939}]}
+{
+  "name": "twitch-sub-ldaelinl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dolinKapaPeru",
+      "image_id": 4848
+    },
+    {
+      "match": "dolinFace",
+      "image_id": 5939
+    }
+  ]
+}

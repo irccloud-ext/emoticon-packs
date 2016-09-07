@@ -1,1 +1,19 @@
-{"name":"twitch-sub-judexgaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"judexKappa","image_id":111095},{"match":"judexWhat","image_id":109742},{"match":"judexOk","image_id":109743}]}
+{
+  "name": "twitch-sub-judexgaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "judexKappa",
+      "image_id": 111095
+    },
+    {
+      "match": "judexWhat",
+      "image_id": 109742
+    },
+    {
+      "match": "judexOk",
+      "image_id": 109743
+    }
+  ]
+}

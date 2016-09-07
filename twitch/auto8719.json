@@ -1,1 +1,23 @@
-{"name":"twitch-sub-auto8719","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"autoBoot","image_id":8033},{"match":"autoBow","image_id":8032},{"match":"autoGrave","image_id":8572},{"match":"autoChest","image_id":25756}]}
+{
+  "name": "twitch-sub-auto8719",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "autoBoot",
+      "image_id": 8033
+    },
+    {
+      "match": "autoBow",
+      "image_id": 8032
+    },
+    {
+      "match": "autoGrave",
+      "image_id": 8572
+    },
+    {
+      "match": "autoChest",
+      "image_id": 25756
+    }
+  ]
+}

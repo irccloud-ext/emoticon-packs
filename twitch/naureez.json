@@ -1,1 +1,23 @@
-{"name":"twitch-sub-naureez","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"godYeger","image_id":16370},{"match":"godR1","image_id":17605},{"match":"godWp","image_id":19272},{"match":"godKarma","image_id":19322}]}
+{
+  "name": "twitch-sub-naureez",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "godYeger",
+      "image_id": 16370
+    },
+    {
+      "match": "godR1",
+      "image_id": 17605
+    },
+    {
+      "match": "godWp",
+      "image_id": 19272
+    },
+    {
+      "match": "godKarma",
+      "image_id": 19322
+    }
+  ]
+}

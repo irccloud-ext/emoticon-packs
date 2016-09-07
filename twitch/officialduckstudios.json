@@ -1,1 +1,23 @@
-{"name":"twitch-sub-officialduckstudios","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"odsKevan","image_id":65652},{"match":"odsCircle","image_id":65299},{"match":"odsBleach","image_id":97507},{"match":"odsDuck","image_id":97506}]}
+{
+  "name": "twitch-sub-officialduckstudios",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "odsKevan",
+      "image_id": 65652
+    },
+    {
+      "match": "odsCircle",
+      "image_id": 65299
+    },
+    {
+      "match": "odsBleach",
+      "image_id": 97507
+    },
+    {
+      "match": "odsDuck",
+      "image_id": 97506
+    }
+  ]
+}

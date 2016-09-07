@@ -1,1 +1,23 @@
-{"name":"twitch-sub-tyressee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"egoEgo","image_id":21492},{"match":"egoLego","image_id":21570},{"match":"egoHook","image_id":32784},{"match":"egoRayban","image_id":32811}]}
+{
+  "name": "twitch-sub-tyressee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "egoEgo",
+      "image_id": 21492
+    },
+    {
+      "match": "egoLego",
+      "image_id": 21570
+    },
+    {
+      "match": "egoHook",
+      "image_id": 32784
+    },
+    {
+      "match": "egoRayban",
+      "image_id": 32811
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-buckfernandez","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"buckonWtf","image_id":71309},{"match":"buckonRich","image_id":71307}]}
+{
+  "name": "twitch-sub-buckfernandez",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "buckonWtf",
+      "image_id": 71309
+    },
+    {
+      "match": "buckonRich",
+      "image_id": 71307
+    }
+  ]
+}

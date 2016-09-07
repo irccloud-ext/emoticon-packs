@@ -1,1 +1,15 @@
-{"name":"twitch-sub-terratechgame","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"terratechFacepalm","image_id":102986},{"match":"terratechKing","image_id":102985}]}
+{
+  "name": "twitch-sub-terratechgame",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "terratechFacepalm",
+      "image_id": 102986
+    },
+    {
+      "match": "terratechKing",
+      "image_id": 102985
+    }
+  ]
+}

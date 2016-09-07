@@ -1,1 +1,31 @@
-{"name":"twitch-sub-corimon","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"coriHype","image_id":90209},{"match":"coriYas","image_id":82953},{"match":"coriHadouken","image_id":85577},{"match":"coriHeyBayo","image_id":85838},{"match":"coriDango","image_id":85581},{"match":"coriFireball","image_id":85692}]}
+{
+  "name": "twitch-sub-corimon",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "coriHype",
+      "image_id": 90209
+    },
+    {
+      "match": "coriYas",
+      "image_id": 82953
+    },
+    {
+      "match": "coriHadouken",
+      "image_id": 85577
+    },
+    {
+      "match": "coriHeyBayo",
+      "image_id": 85838
+    },
+    {
+      "match": "coriDango",
+      "image_id": 85581
+    },
+    {
+      "match": "coriFireball",
+      "image_id": 85692
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-strwbryshrtkate","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"strwLife","image_id":111267},{"match":"strwLove","image_id":111182},{"match":"strwWoo","image_id":111185}]}
+{
+  "name": "twitch-sub-strwbryshrtkate",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "strwLife",
+      "image_id": 111267
+    },
+    {
+      "match": "strwLove",
+      "image_id": 111182
+    },
+    {
+      "match": "strwWoo",
+      "image_id": 111185
+    },
+    {
+      "match": "strwScare",
+      "image_id": 112017
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-vitaminzk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vzkUgh","image_id":97900},{"match":"vzkKuck","image_id":71176},{"match":"vzkCrush","image_id":89838},{"match":"vzkBruh","image_id":72520},{"match":"vzkHype","image_id":71465},{"match":"vzkOutrage","image_id":74509},{"match":"vzkGasm","image_id":96176},{"match":"vzkEpic","image_id":96180}]}
+{
+  "name": "twitch-sub-vitaminzk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vzkUgh",
+      "image_id": 97900
+    },
+    {
+      "match": "vzkKuck",
+      "image_id": 71176
+    },
+    {
+      "match": "vzkCrush",
+      "image_id": 89838
+    },
+    {
+      "match": "vzkBruh",
+      "image_id": 72520
+    },
+    {
+      "match": "vzkHype",
+      "image_id": 71465
+    },
+    {
+      "match": "vzkOutrage",
+      "image_id": 74509
+    },
+    {
+      "match": "vzkGasm",
+      "image_id": 96176
+    },
+    {
+      "match": "vzkEpic",
+      "image_id": 96180
+    }
+  ]
+}

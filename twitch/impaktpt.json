@@ -1,1 +1,67 @@
-{"name":"twitch-sub-impaktpt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"impaktDark","image_id":10902},{"match":"impaktTen","image_id":63634},{"match":"impaktGrin","image_id":65720},{"match":"impaktRage","image_id":65723},{"match":"impaktRockon","image_id":65725},{"match":"impaktBoss","image_id":85485},{"match":"impaktChair","image_id":65726},{"match":"impaktRekt","image_id":65724},{"match":"impaktDerp","image_id":85486},{"match":"impaktGasm","image_id":85487},{"match":"impaktLove","image_id":85488},{"match":"impaktPotato","image_id":85489},{"match":"impaktPOTG","image_id":85490},{"match":"impaktSellout","image_id":85491},{"match":"impaktThump","image_id":85492},{"match":"impaktUp","image_id":85493}]}
+{
+  "name": "twitch-sub-impaktpt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "impaktDark",
+      "image_id": 10902
+    },
+    {
+      "match": "impaktTen",
+      "image_id": 63634
+    },
+    {
+      "match": "impaktGrin",
+      "image_id": 65720
+    },
+    {
+      "match": "impaktRage",
+      "image_id": 65723
+    },
+    {
+      "match": "impaktRockon",
+      "image_id": 65725
+    },
+    {
+      "match": "impaktBoss",
+      "image_id": 85485
+    },
+    {
+      "match": "impaktChair",
+      "image_id": 65726
+    },
+    {
+      "match": "impaktRekt",
+      "image_id": 65724
+    },
+    {
+      "match": "impaktDerp",
+      "image_id": 85486
+    },
+    {
+      "match": "impaktLove",
+      "image_id": 85488
+    },
+    {
+      "match": "impaktPotato",
+      "image_id": 85489
+    },
+    {
+      "match": "impaktPOTG",
+      "image_id": 85490
+    },
+    {
+      "match": "impaktSellout",
+      "image_id": 85491
+    },
+    {
+      "match": "impaktThump",
+      "image_id": 85492
+    },
+    {
+      "match": "impaktUp",
+      "image_id": 85493
+    }
+  ]
+}

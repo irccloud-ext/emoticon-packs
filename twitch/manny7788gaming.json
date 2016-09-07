@@ -1,1 +1,31 @@
-{"name":"twitch-sub-manny7788gaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mannyOne","image_id":62060},{"match":"mannyHype","image_id":53184},{"match":"mannyFace","image_id":53192},{"match":"mannyFam","image_id":63481},{"match":"mannyHr","image_id":91973},{"match":"mannyGG","image_id":96892}]}
+{
+  "name": "twitch-sub-manny7788gaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mannyOne",
+      "image_id": 62060
+    },
+    {
+      "match": "mannyHype",
+      "image_id": 53184
+    },
+    {
+      "match": "mannyFace",
+      "image_id": 53192
+    },
+    {
+      "match": "mannyFam",
+      "image_id": 63481
+    },
+    {
+      "match": "mannyHr",
+      "image_id": 91973
+    },
+    {
+      "match": "mannyGG",
+      "image_id": 96892
+    }
+  ]
+}

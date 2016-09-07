@@ -1,1 +1,67 @@
-{"name":"twitch-sub-lettalaquarius","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lettalQQ","image_id":54825},{"match":"lettalChuchu","image_id":97400},{"match":"lettalRip","image_id":37183},{"match":"lettalGasm","image_id":45398},{"match":"lettalHype","image_id":49436},{"match":"lettalKriko","image_id":72049},{"match":"lettalH","image_id":63530},{"match":"lettalRage","image_id":63529},{"match":"lettalDown","image_id":73263},{"match":"lettalChibi","image_id":100883},{"match":"lettalLUL","image_id":100888},{"match":"lettalChamp","image_id":100794},{"match":"lettalDeal","image_id":100795},{"match":"lettalKHA","image_id":100796},{"match":"lettalFail","image_id":100797}]}
+{
+  "name": "twitch-sub-lettalaquarius",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lettalQQ",
+      "image_id": 54825
+    },
+    {
+      "match": "lettalChuchu",
+      "image_id": 97400
+    },
+    {
+      "match": "lettalRip",
+      "image_id": 37183
+    },
+    {
+      "match": "lettalGasm",
+      "image_id": 45398
+    },
+    {
+      "match": "lettalHype",
+      "image_id": 49436
+    },
+    {
+      "match": "lettalKriko",
+      "image_id": 72049
+    },
+    {
+      "match": "lettalH",
+      "image_id": 63530
+    },
+    {
+      "match": "lettalRage",
+      "image_id": 63529
+    },
+    {
+      "match": "lettalDown",
+      "image_id": 73263
+    },
+    {
+      "match": "lettalChibi",
+      "image_id": 100883
+    },
+    {
+      "match": "lettalLUL",
+      "image_id": 100888
+    },
+    {
+      "match": "lettalChamp",
+      "image_id": 100794
+    },
+    {
+      "match": "lettalDeal",
+      "image_id": 100795
+    },
+    {
+      "match": "lettalKHA",
+      "image_id": 100796
+    },
+    {
+      "match": "lettalFail",
+      "image_id": 100797
+    }
+  ]
+}

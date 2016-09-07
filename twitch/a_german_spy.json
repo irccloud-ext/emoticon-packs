@@ -1,1 +1,19 @@
-{"name":"twitch-sub-a_german_spy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"spyPraise","image_id":98296},{"match":"spyTea","image_id":91328},{"match":"spyCappa","image_id":96132}]}
+{
+  "name": "twitch-sub-a_german_spy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "spyPraise",
+      "image_id": 98296
+    },
+    {
+      "match": "spyTea",
+      "image_id": 91328
+    },
+    {
+      "match": "spyCappa",
+      "image_id": 96132
+    }
+  ]
+}

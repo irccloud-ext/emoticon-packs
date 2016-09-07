@@ -1,1 +1,11 @@
-{"name":"twitch-sub-ghp_tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ghpFluffy","image_id":54270}]}
+{
+  "name": "twitch-sub-ghp_tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ghpFluffy",
+      "image_id": 54270
+    }
+  ]
+}

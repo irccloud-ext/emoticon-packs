@@ -1,1 +1,31 @@
-{"name":"twitch-sub-furiie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fuuKeur","image_id":61078},{"match":"fuuMybad","image_id":54197},{"match":"fuuBonbon","image_id":54198},{"match":"fuuPoppy","image_id":53444},{"match":"fuuCacagalaxy","image_id":53443},{"match":"fuuKidding","image_id":62339}]}
+{
+  "name": "twitch-sub-furiie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fuuKeur",
+      "image_id": 61078
+    },
+    {
+      "match": "fuuMybad",
+      "image_id": 54197
+    },
+    {
+      "match": "fuuBonbon",
+      "image_id": 54198
+    },
+    {
+      "match": "fuuPoppy",
+      "image_id": 53444
+    },
+    {
+      "match": "fuuCacagalaxy",
+      "image_id": 53443
+    },
+    {
+      "match": "fuuKidding",
+      "image_id": 62339
+    }
+  ]
+}

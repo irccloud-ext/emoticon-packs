@@ -1,1 +1,23 @@
-{"name":"twitch-sub-sodez","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sdzTmnt","image_id":8345},{"match":"sdzParty","image_id":10385},{"match":"sdzThirsty","image_id":9243},{"match":"sdzTreebeard","image_id":9299}]}
+{
+  "name": "twitch-sub-sodez",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sdzTmnt",
+      "image_id": 8345
+    },
+    {
+      "match": "sdzParty",
+      "image_id": 10385
+    },
+    {
+      "match": "sdzThirsty",
+      "image_id": 9243
+    },
+    {
+      "match": "sdzTreebeard",
+      "image_id": 9299
+    }
+  ]
+}

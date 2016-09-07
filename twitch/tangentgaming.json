@@ -1,1 +1,87 @@
-{"name":"twitch-sub-tangentgaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tangGong","image_id":8984},{"match":"tangRage","image_id":11854},{"match":"tangDucklikethis","image_id":108137},{"match":"tangSpit","image_id":108138},{"match":"tangTwoface","image_id":108139},{"match":"tangShock","image_id":46750},{"match":"tangCreep","image_id":108140},{"match":"tangV","image_id":108141},{"match":"tangI","image_id":108142},{"match":"tangM","image_id":108143},{"match":"tangWUT","image_id":108144},{"match":"tangBad","image_id":108145},{"match":"tangHype","image_id":108146},{"match":"tangMage","image_id":29291},{"match":"tangBall","image_id":29341},{"match":"tangLewd","image_id":32080},{"match":"tangHam","image_id":31795},{"match":"tangLove","image_id":34490},{"match":"tangO","image_id":37287},{"match":"tangSalute","image_id":53525}]}
+{
+  "name": "twitch-sub-tangentgaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tangGong",
+      "image_id": 8984
+    },
+    {
+      "match": "tangRage",
+      "image_id": 11854
+    },
+    {
+      "match": "tangDucklikethis",
+      "image_id": 108137
+    },
+    {
+      "match": "tangSpit",
+      "image_id": 108138
+    },
+    {
+      "match": "tangTwoface",
+      "image_id": 108139
+    },
+    {
+      "match": "tangShock",
+      "image_id": 46750
+    },
+    {
+      "match": "tangCreep",
+      "image_id": 108140
+    },
+    {
+      "match": "tangV",
+      "image_id": 108141
+    },
+    {
+      "match": "tangI",
+      "image_id": 108142
+    },
+    {
+      "match": "tangM",
+      "image_id": 108143
+    },
+    {
+      "match": "tangWUT",
+      "image_id": 108144
+    },
+    {
+      "match": "tangBad",
+      "image_id": 108145
+    },
+    {
+      "match": "tangHype",
+      "image_id": 108146
+    },
+    {
+      "match": "tangMage",
+      "image_id": 29291
+    },
+    {
+      "match": "tangBall",
+      "image_id": 29341
+    },
+    {
+      "match": "tangLewd",
+      "image_id": 32080
+    },
+    {
+      "match": "tangHam",
+      "image_id": 31795
+    },
+    {
+      "match": "tangLove",
+      "image_id": 34490
+    },
+    {
+      "match": "tangO",
+      "image_id": 37287
+    },
+    {
+      "match": "tangSalute",
+      "image_id": 53525
+    }
+  ]
+}

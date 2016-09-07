@@ -1,1 +1,15 @@
-{"name":"twitch-sub-audiofy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"audioLove","image_id":75776},{"match":"audioHype","image_id":75777}]}
+{
+  "name": "twitch-sub-audiofy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "audioLove",
+      "image_id": 75776
+    },
+    {
+      "match": "audioHype",
+      "image_id": 75777
+    }
+  ]
+}

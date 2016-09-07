@@ -1,1 +1,47 @@
-{"name":"twitch-sub-squillakilla","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"squilWaifu","image_id":77356},{"match":"squilLove","image_id":61204},{"match":"squilLewd","image_id":68581},{"match":"squilGasm","image_id":90048},{"match":"squilMeme","image_id":107625},{"match":"squilGG","image_id":90800},{"match":"squilPB","image_id":107965},{"match":"squilRekt","image_id":110208},{"match":"squilHype","image_id":109658},{"match":"squilEdgeLord","image_id":110076}]}
+{
+  "name": "twitch-sub-squillakilla",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "squilWaifu",
+      "image_id": 77356
+    },
+    {
+      "match": "squilLove",
+      "image_id": 61204
+    },
+    {
+      "match": "squilLewd",
+      "image_id": 68581
+    },
+    {
+      "match": "squilGasm",
+      "image_id": 90048
+    },
+    {
+      "match": "squilMeme",
+      "image_id": 107625
+    },
+    {
+      "match": "squilGG",
+      "image_id": 90800
+    },
+    {
+      "match": "squilPB",
+      "image_id": 107965
+    },
+    {
+      "match": "squilRekt",
+      "image_id": 110208
+    },
+    {
+      "match": "squilHype",
+      "image_id": 109658
+    },
+    {
+      "match": "squilEdgeLord",
+      "image_id": 110076
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"twitch-sub-cauthontv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cauthKolendos","image_id":16780},{"match":"cauthBalzam","image_id":17004},{"match":"cauthFace","image_id":15973},{"match":"cauthMops","image_id":15974},{"match":"cauthFrance","image_id":21668},{"match":"cauth6610","image_id":26496},{"match":"cauthXlebyshek","image_id":28458}]}
+{
+  "name": "twitch-sub-cauthontv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cauthKolendos",
+      "image_id": 16780
+    },
+    {
+      "match": "cauthBalzam",
+      "image_id": 17004
+    },
+    {
+      "match": "cauthFace",
+      "image_id": 15973
+    },
+    {
+      "match": "cauthMops",
+      "image_id": 15974
+    },
+    {
+      "match": "cauthFrance",
+      "image_id": 21668
+    },
+    {
+      "match": "cauth6610",
+      "image_id": 26496
+    },
+    {
+      "match": "cauthXlebyshek",
+      "image_id": 28458
+    }
+  ]
+}

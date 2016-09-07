@@ -1,1 +1,15 @@
-{"name":"twitch-sub-fakenerdboy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fnbWUFAM","image_id":91103},{"match":"fnbPIE","image_id":91102}]}
+{
+  "name": "twitch-sub-fakenerdboy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fnbWUFAM",
+      "image_id": 91103
+    },
+    {
+      "match": "fnbPIE",
+      "image_id": 91102
+    }
+  ]
+}

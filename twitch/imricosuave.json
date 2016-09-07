@@ -1,1 +1,39 @@
-{"name":"twitch-sub-imricosuave","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ricoSuave","image_id":28196},{"match":"ricoGasm","image_id":28197},{"match":"ricoFresh","image_id":29035},{"match":"ricoWAO","image_id":29034},{"match":"ricoFlex","image_id":34358},{"match":"ricoBM","image_id":34354},{"match":"ricoGg","image_id":37913},{"match":"ricoMop","image_id":37908}]}
+{
+  "name": "twitch-sub-imricosuave",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ricoSuave",
+      "image_id": 28196
+    },
+    {
+      "match": "ricoGasm",
+      "image_id": 28197
+    },
+    {
+      "match": "ricoFresh",
+      "image_id": 29035
+    },
+    {
+      "match": "ricoWAO",
+      "image_id": 29034
+    },
+    {
+      "match": "ricoFlex",
+      "image_id": 34358
+    },
+    {
+      "match": "ricoBM",
+      "image_id": 34354
+    },
+    {
+      "match": "ricoGg",
+      "image_id": 37913
+    },
+    {
+      "match": "ricoMop",
+      "image_id": 37908
+    }
+  ]
+}

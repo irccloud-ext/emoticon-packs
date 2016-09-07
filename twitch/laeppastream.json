@@ -1,1 +1,83 @@
-{"name":"twitch-sub-laeppastream","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"laeUgu","image_id":95017},{"match":"lae7","image_id":71918},{"match":"laeHAND","image_id":12884},{"match":"lae5","image_id":67948},{"match":"laeYEE","image_id":24605},{"match":"laeBAN","image_id":22522},{"match":"laeG","image_id":83510},{"match":"laeRip","image_id":72415},{"match":"laePPA","image_id":30848},{"match":"laeZps","image_id":72040},{"match":"laeREKT","image_id":47985},{"match":"laeRis","image_id":47135},{"match":"laeWut","image_id":86357},{"match":"laeSAD","image_id":68657},{"match":"laeFisu","image_id":88687},{"match":"lae3","image_id":94998},{"match":"laeRage","image_id":85962},{"match":"laeNvoi","image_id":94010},{"match":"laeFeels","image_id":97193}]}
+{
+  "name": "twitch-sub-laeppastream",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "laeUgu",
+      "image_id": 95017
+    },
+    {
+      "match": "lae7",
+      "image_id": 71918
+    },
+    {
+      "match": "laeHAND",
+      "image_id": 12884
+    },
+    {
+      "match": "lae5",
+      "image_id": 67948
+    },
+    {
+      "match": "laeYEE",
+      "image_id": 24605
+    },
+    {
+      "match": "laeBAN",
+      "image_id": 22522
+    },
+    {
+      "match": "laeG",
+      "image_id": 83510
+    },
+    {
+      "match": "laeRip",
+      "image_id": 72415
+    },
+    {
+      "match": "laePPA",
+      "image_id": 30848
+    },
+    {
+      "match": "laeZps",
+      "image_id": 72040
+    },
+    {
+      "match": "laeREKT",
+      "image_id": 47985
+    },
+    {
+      "match": "laeRis",
+      "image_id": 47135
+    },
+    {
+      "match": "laeWut",
+      "image_id": 86357
+    },
+    {
+      "match": "laeSAD",
+      "image_id": 68657
+    },
+    {
+      "match": "laeFisu",
+      "image_id": 88687
+    },
+    {
+      "match": "lae3",
+      "image_id": 94998
+    },
+    {
+      "match": "laeRage",
+      "image_id": 85962
+    },
+    {
+      "match": "laeNvoi",
+      "image_id": 94010
+    },
+    {
+      "match": "laeFeels",
+      "image_id": 97193
+    }
+  ]
+}

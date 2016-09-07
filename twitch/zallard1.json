@@ -1,1 +1,23 @@
-{"name":"twitch-sub-zallard1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zalYay","image_id":74798},{"match":"zalBogus","image_id":74758},{"match":"zalEw","image_id":83342},{"match":"zalGL","image_id":83343}]}
+{
+  "name": "twitch-sub-zallard1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zalYay",
+      "image_id": 74798
+    },
+    {
+      "match": "zalBogus",
+      "image_id": 74758
+    },
+    {
+      "match": "zalEw",
+      "image_id": 83342
+    },
+    {
+      "match": "zalGL",
+      "image_id": 83343
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-pvplab","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pvplabAlly","image_id":84601},{"match":"pvplabHorda","image_id":84602},{"match":"pvplabGASM","image_id":109903},{"match":"pvplabPATADA","image_id":109953}]}
+{
+  "name": "twitch-sub-pvplab",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pvplabAlly",
+      "image_id": 84601
+    },
+    {
+      "match": "pvplabHorda",
+      "image_id": 84602
+    },
+    {
+      "match": "pvplabGASM",
+      "image_id": 109903
+    },
+    {
+      "match": "pvplabPATADA",
+      "image_id": 109953
+    }
+  ]
+}

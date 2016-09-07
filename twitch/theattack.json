@@ -1,1 +1,83 @@
-{"name":"twitch-sub-theattack","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"attkRage","image_id":38374},{"match":"attkManRod","image_id":38339},{"match":"attkBanana","image_id":87932},{"match":"attkTpot","image_id":40164},{"match":"attkLosTato","image_id":41105},{"match":"attkYaniv","image_id":45236},{"match":"attkGreen","image_id":68544},{"match":"attkRed","image_id":68543},{"match":"attkLies","image_id":87854},{"match":"attkHam","image_id":87857},{"match":"attkZap","image_id":87859},{"match":"attkHeyGurl","image_id":88126},{"match":"attkAlex","image_id":86969},{"match":"attkSub","image_id":86971},{"match":"attkStahp","image_id":87135},{"match":"attkLogo","image_id":88943},{"match":"attkGoat","image_id":88958},{"match":"attkZack","image_id":91239},{"match":"attkDripWet","image_id":91402}]}
+{
+  "name": "twitch-sub-theattack",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "attkRage",
+      "image_id": 38374
+    },
+    {
+      "match": "attkManRod",
+      "image_id": 38339
+    },
+    {
+      "match": "attkBanana",
+      "image_id": 87932
+    },
+    {
+      "match": "attkTpot",
+      "image_id": 40164
+    },
+    {
+      "match": "attkLosTato",
+      "image_id": 41105
+    },
+    {
+      "match": "attkYaniv",
+      "image_id": 45236
+    },
+    {
+      "match": "attkGreen",
+      "image_id": 68544
+    },
+    {
+      "match": "attkRed",
+      "image_id": 68543
+    },
+    {
+      "match": "attkLies",
+      "image_id": 87854
+    },
+    {
+      "match": "attkHam",
+      "image_id": 87857
+    },
+    {
+      "match": "attkZap",
+      "image_id": 87859
+    },
+    {
+      "match": "attkHeyGurl",
+      "image_id": 88126
+    },
+    {
+      "match": "attkAlex",
+      "image_id": 86969
+    },
+    {
+      "match": "attkSub",
+      "image_id": 86971
+    },
+    {
+      "match": "attkStahp",
+      "image_id": 87135
+    },
+    {
+      "match": "attkLogo",
+      "image_id": 88943
+    },
+    {
+      "match": "attkGoat",
+      "image_id": 88958
+    },
+    {
+      "match": "attkZack",
+      "image_id": 91239
+    },
+    {
+      "match": "attkDripWet",
+      "image_id": 91402
+    }
+  ]
+}

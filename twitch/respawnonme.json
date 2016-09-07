@@ -1,1 +1,39 @@
-{"name":"twitch-sub-respawnonme","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"respawnCult","image_id":106876},{"match":"respawnW","image_id":106877},{"match":"respawnDG","image_id":106621},{"match":"respawnFaded","image_id":106622},{"match":"respawnH","image_id":106623},{"match":"respawnRage","image_id":106624},{"match":"respawnRip","image_id":106625},{"match":"respawnThump","image_id":106626}]}
+{
+  "name": "twitch-sub-respawnonme",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "respawnCult",
+      "image_id": 106876
+    },
+    {
+      "match": "respawnW",
+      "image_id": 106877
+    },
+    {
+      "match": "respawnDG",
+      "image_id": 106621
+    },
+    {
+      "match": "respawnFaded",
+      "image_id": 106622
+    },
+    {
+      "match": "respawnH",
+      "image_id": 106623
+    },
+    {
+      "match": "respawnRage",
+      "image_id": 106624
+    },
+    {
+      "match": "respawnRip",
+      "image_id": 106625
+    },
+    {
+      "match": "respawnThump",
+      "image_id": 106626
+    }
+  ]
+}

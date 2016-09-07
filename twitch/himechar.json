@@ -1,1 +1,39 @@
-{"name":"twitch-sub-himechar","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"charX","image_id":8827},{"match":"charN","image_id":13023},{"match":"charH","image_id":13031},{"match":"charI","image_id":13027},{"match":"charL","image_id":22749},{"match":"charC","image_id":22742},{"match":"charGasm","image_id":27485},{"match":"charKappa","image_id":27486}]}
+{
+  "name": "twitch-sub-himechar",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "charX",
+      "image_id": 8827
+    },
+    {
+      "match": "charN",
+      "image_id": 13023
+    },
+    {
+      "match": "charH",
+      "image_id": 13031
+    },
+    {
+      "match": "charI",
+      "image_id": 13027
+    },
+    {
+      "match": "charL",
+      "image_id": 22749
+    },
+    {
+      "match": "charC",
+      "image_id": 22742
+    },
+    {
+      "match": "charGasm",
+      "image_id": 27485
+    },
+    {
+      "match": "charKappa",
+      "image_id": 27486
+    }
+  ]
+}

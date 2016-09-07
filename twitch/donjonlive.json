@@ -1,1 +1,23 @@
-{"name":"twitch-sub-donjonlive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"donjonGG","image_id":18642},{"match":"donjonSchlekre","image_id":19704},{"match":"donjonDumm","image_id":48325},{"match":"donjonRage","image_id":48326}]}
+{
+  "name": "twitch-sub-donjonlive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "donjonGG",
+      "image_id": 18642
+    },
+    {
+      "match": "donjonSchlekre",
+      "image_id": 19704
+    },
+    {
+      "match": "donjonDumm",
+      "image_id": 48325
+    },
+    {
+      "match": "donjonRage",
+      "image_id": 48326
+    }
+  ]
+}

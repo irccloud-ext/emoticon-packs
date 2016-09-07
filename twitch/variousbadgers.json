@@ -1,1 +1,23 @@
-{"name":"twitch-sub-variousbadgers","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vbsCarl","image_id":46393},{"match":"vbsLuca","image_id":46389},{"match":"vbsLucaYell","image_id":46581},{"match":"vbsAnimal","image_id":46582}]}
+{
+  "name": "twitch-sub-variousbadgers",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vbsCarl",
+      "image_id": 46393
+    },
+    {
+      "match": "vbsLuca",
+      "image_id": 46389
+    },
+    {
+      "match": "vbsLucaYell",
+      "image_id": 46581
+    },
+    {
+      "match": "vbsAnimal",
+      "image_id": 46582
+    }
+  ]
+}

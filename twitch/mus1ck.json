@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mus1ck","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"musHue","image_id":23198},{"match":"musCasual","image_id":27423},{"match":"musEvidence","image_id":27036},{"match":"musAmmo","image_id":38830},{"match":"musAyy","image_id":38825},{"match":"musGotem","image_id":64899}]}
+{
+  "name": "twitch-sub-mus1ck",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "musHue",
+      "image_id": 23198
+    },
+    {
+      "match": "musCasual",
+      "image_id": 27423
+    },
+    {
+      "match": "musEvidence",
+      "image_id": 27036
+    },
+    {
+      "match": "musAmmo",
+      "image_id": 38830
+    },
+    {
+      "match": "musAyy",
+      "image_id": 38825
+    },
+    {
+      "match": "musGotem",
+      "image_id": 64899
+    }
+  ]
+}

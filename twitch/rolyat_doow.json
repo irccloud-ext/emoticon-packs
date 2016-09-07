@@ -1,1 +1,47 @@
-{"name":"twitch-sub-rolyat_doow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"doowCry","image_id":61798},{"match":"doowGO","image_id":22678},{"match":"doowLeft","image_id":22887},{"match":"doowRight","image_id":22888},{"match":"doowCreep","image_id":33993},{"match":"doowLove","image_id":61799},{"match":"doowFood","image_id":61800},{"match":"doowSub","image_id":61801},{"match":"doowN","image_id":61802},{"match":"doowWave","image_id":88512}]}
+{
+  "name": "twitch-sub-rolyat_doow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "doowCry",
+      "image_id": 61798
+    },
+    {
+      "match": "doowGO",
+      "image_id": 22678
+    },
+    {
+      "match": "doowLeft",
+      "image_id": 22887
+    },
+    {
+      "match": "doowRight",
+      "image_id": 22888
+    },
+    {
+      "match": "doowCreep",
+      "image_id": 33993
+    },
+    {
+      "match": "doowLove",
+      "image_id": 61799
+    },
+    {
+      "match": "doowFood",
+      "image_id": 61800
+    },
+    {
+      "match": "doowSub",
+      "image_id": 61801
+    },
+    {
+      "match": "doowN",
+      "image_id": 61802
+    },
+    {
+      "match": "doowWave",
+      "image_id": 88512
+    }
+  ]
+}

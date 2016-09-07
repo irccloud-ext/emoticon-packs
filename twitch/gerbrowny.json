@@ -1,0 +1,39 @@
+{
+  "name": "twitch-sub-gerbrowny",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "brownyHeart",
+      "image_id": 112074
+    },
+    {
+      "match": "brownyMoin",
+      "image_id": 112075
+    },
+    {
+      "match": "brownyDerp",
+      "image_id": 112128
+    },
+    {
+      "match": "brownyLove",
+      "image_id": 112129
+    },
+    {
+      "match": "brownyCry",
+      "image_id": 112088
+    },
+    {
+      "match": "brownyGrr",
+      "image_id": 112247
+    },
+    {
+      "match": "brownyGG",
+      "image_id": 112248
+    },
+    {
+      "match": "brownyHype",
+      "image_id": 112249
+    }
+  ]
+}

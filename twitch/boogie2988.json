@@ -1,1 +1,35 @@
-{"name":"twitch-sub-boogie2988","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"boogieHelm","image_id":3936},{"match":"boogieDew","image_id":3932},{"match":"boogieFace","image_id":36702},{"match":"boogieCorn","image_id":36701},{"match":"boogieSub","image_id":36700},{"match":"boogieSammy","image_id":90871},{"match":"boogieKaw","image_id":96326}]}
+{
+  "name": "twitch-sub-boogie2988",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "boogieHelm",
+      "image_id": 3936
+    },
+    {
+      "match": "boogieDew",
+      "image_id": 3932
+    },
+    {
+      "match": "boogieFace",
+      "image_id": 36702
+    },
+    {
+      "match": "boogieCorn",
+      "image_id": 36701
+    },
+    {
+      "match": "boogieSub",
+      "image_id": 36700
+    },
+    {
+      "match": "boogieSammy",
+      "image_id": 90871
+    },
+    {
+      "match": "boogieKaw",
+      "image_id": 96326
+    }
+  ]
+}

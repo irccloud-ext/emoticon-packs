@@ -1,1 +1,39 @@
-{"name":"twitch-sub-capten_planets","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"planetsHeli","image_id":84625},{"match":"planetsRad","image_id":84404},{"match":"planetsFeelsBad","image_id":87640},{"match":"planetsFeelsGood","image_id":87641},{"match":"planetsBully","image_id":86826},{"match":"planetsK","image_id":87642},{"match":"planetsEhe","image_id":87645},{"match":"planetsDab","image_id":93405}]}
+{
+  "name": "twitch-sub-capten_planets",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "planetsHeli",
+      "image_id": 84625
+    },
+    {
+      "match": "planetsRad",
+      "image_id": 84404
+    },
+    {
+      "match": "planetsFeelsBad",
+      "image_id": 87640
+    },
+    {
+      "match": "planetsFeelsGood",
+      "image_id": 87641
+    },
+    {
+      "match": "planetsBully",
+      "image_id": 86826
+    },
+    {
+      "match": "planetsK",
+      "image_id": 87642
+    },
+    {
+      "match": "planetsEhe",
+      "image_id": 87645
+    },
+    {
+      "match": "planetsDab",
+      "image_id": 93405
+    }
+  ]
+}

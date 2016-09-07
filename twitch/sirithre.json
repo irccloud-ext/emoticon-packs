@@ -1,1 +1,39 @@
-{"name":"twitch-sub-sirithre","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"siriTROLL","image_id":38086},{"match":"siriCROWN","image_id":38041},{"match":"siriLOVE","image_id":38146},{"match":"siriNOM","image_id":77906},{"match":"siriLEWD","image_id":77905},{"match":"siriFISH","image_id":77904},{"match":"siriLURK","image_id":98879},{"match":"siriSLEEP","image_id":98878}]}
+{
+  "name": "twitch-sub-sirithre",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "siriTROLL",
+      "image_id": 38086
+    },
+    {
+      "match": "siriCROWN",
+      "image_id": 38041
+    },
+    {
+      "match": "siriLOVE",
+      "image_id": 38146
+    },
+    {
+      "match": "siriNOM",
+      "image_id": 77906
+    },
+    {
+      "match": "siriLEWD",
+      "image_id": 77905
+    },
+    {
+      "match": "siriFISH",
+      "image_id": 77904
+    },
+    {
+      "match": "siriLURK",
+      "image_id": 98879
+    },
+    {
+      "match": "siriSLEEP",
+      "image_id": 98878
+    }
+  ]
+}

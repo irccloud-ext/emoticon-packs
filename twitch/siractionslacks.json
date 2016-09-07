@@ -1,1 +1,59 @@
-{"name":"twitch-sub-siractionslacks","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sourfacePug","image_id":20549},{"match":"sourfaceOmni","image_id":20550},{"match":"sourfaceSourface","image_id":20548},{"match":"sourfaceLuna","image_id":22242},{"match":"sourfaceLocke","image_id":25933},{"match":"sourfaceShades","image_id":29199},{"match":"sourfaceDed","image_id":31807},{"match":"sourfacePoo","image_id":33533},{"match":"sourfaceDosh","image_id":32194},{"match":"sourfaceBomb","image_id":38785},{"match":"sourfaceTango","image_id":41606},{"match":"sourfaceCliff","image_id":53121},{"match":"sourfaceMod","image_id":57758}]}
+{
+  "name": "twitch-sub-siractionslacks",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sourfacePug",
+      "image_id": 20549
+    },
+    {
+      "match": "sourfaceOmni",
+      "image_id": 20550
+    },
+    {
+      "match": "sourfaceSourface",
+      "image_id": 20548
+    },
+    {
+      "match": "sourfaceLuna",
+      "image_id": 22242
+    },
+    {
+      "match": "sourfaceLocke",
+      "image_id": 25933
+    },
+    {
+      "match": "sourfaceShades",
+      "image_id": 29199
+    },
+    {
+      "match": "sourfaceDed",
+      "image_id": 31807
+    },
+    {
+      "match": "sourfacePoo",
+      "image_id": 33533
+    },
+    {
+      "match": "sourfaceDosh",
+      "image_id": 32194
+    },
+    {
+      "match": "sourfaceBomb",
+      "image_id": 38785
+    },
+    {
+      "match": "sourfaceTango",
+      "image_id": 41606
+    },
+    {
+      "match": "sourfaceCliff",
+      "image_id": 53121
+    },
+    {
+      "match": "sourfaceMod",
+      "image_id": 57758
+    }
+  ]
+}

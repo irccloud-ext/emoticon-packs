@@ -1,1 +1,39 @@
-{"name":"twitch-sub-dynorox","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dynoroxZoeiro","image_id":16592},{"match":"dynoroxLoL","image_id":16593},{"match":"dynoroxDyno","image_id":15810},{"match":"dynoroxMatatuto","image_id":15813},{"match":"dynoroxHM","image_id":35354},{"match":"dynoroxVesh","image_id":35506},{"match":"dynoroxRekt","image_id":35554},{"match":"dynoroxSoco","image_id":35479}]}
+{
+  "name": "twitch-sub-dynorox",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dynoroxZoeiro",
+      "image_id": 16592
+    },
+    {
+      "match": "dynoroxLoL",
+      "image_id": 16593
+    },
+    {
+      "match": "dynoroxDyno",
+      "image_id": 15810
+    },
+    {
+      "match": "dynoroxMatatuto",
+      "image_id": 15813
+    },
+    {
+      "match": "dynoroxHM",
+      "image_id": 35354
+    },
+    {
+      "match": "dynoroxVesh",
+      "image_id": 35506
+    },
+    {
+      "match": "dynoroxRekt",
+      "image_id": 35554
+    },
+    {
+      "match": "dynoroxSoco",
+      "image_id": 35479
+    }
+  ]
+}

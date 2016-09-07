@@ -1,1 +1,15 @@
-{"name":"twitch-sub-arabgamingnetwork","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"destLOGO","image_id":42192},{"match":"destTHUG","image_id":42191}]}
+{
+  "name": "twitch-sub-arabgamingnetwork",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "destLOGO",
+      "image_id": 42192
+    },
+    {
+      "match": "destTHUG",
+      "image_id": 42191
+    }
+  ]
+}

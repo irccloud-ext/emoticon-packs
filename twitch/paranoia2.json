@@ -1,1 +1,15 @@
-{"name":"twitch-sub-paranoia2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"paranoiaKappa","image_id":40753},{"match":"paranoiaDrugoy","image_id":52232}]}
+{
+  "name": "twitch-sub-paranoia2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "paranoiaKappa",
+      "image_id": 40753
+    },
+    {
+      "match": "paranoiaDrugoy",
+      "image_id": 52232
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-qospades","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"qosAce","image_id":94870},{"match":"qosPuppy","image_id":94865}]}
+{
+  "name": "twitch-sub-qospades",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "qosAce",
+      "image_id": 94870
+    },
+    {
+      "match": "qosPuppy",
+      "image_id": 94865
+    }
+  ]
+}

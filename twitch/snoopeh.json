@@ -1,1 +1,31 @@
-{"name":"twitch-sub-snoopeh","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"snoopSing","image_id":8461},{"match":"snoopGetFit","image_id":8429},{"match":"snoopStare","image_id":8462},{"match":"snoopSmite","image_id":8476},{"match":"snoopKing","image_id":13359},{"match":"snoopScotland","image_id":12456}]}
+{
+  "name": "twitch-sub-snoopeh",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "snoopSing",
+      "image_id": 8461
+    },
+    {
+      "match": "snoopGetFit",
+      "image_id": 8429
+    },
+    {
+      "match": "snoopStare",
+      "image_id": 8462
+    },
+    {
+      "match": "snoopSmite",
+      "image_id": 8476
+    },
+    {
+      "match": "snoopKing",
+      "image_id": 13359
+    },
+    {
+      "match": "snoopScotland",
+      "image_id": 12456
+    }
+  ]
+}

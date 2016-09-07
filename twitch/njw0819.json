@@ -1,1 +1,11 @@
-{"name":"twitch-sub-njw0819","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"luciHi","image_id":108256}]}
+{
+  "name": "twitch-sub-njw0819",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "luciHi",
+      "image_id": 108256
+    }
+  ]
+}

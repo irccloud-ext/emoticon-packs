@@ -1,1 +1,31 @@
-{"name":"twitch-sub-2dgamedev","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"asdfVan","image_id":71132},{"match":"asdfPuke","image_id":71141},{"match":"asdfThump","image_id":73727},{"match":"asdfPog","image_id":74075},{"match":"asdfPete","image_id":82189},{"match":"asdfBuns","image_id":82188}]}
+{
+  "name": "twitch-sub-2dgamedev",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "asdfVan",
+      "image_id": 71132
+    },
+    {
+      "match": "asdfPuke",
+      "image_id": 71141
+    },
+    {
+      "match": "asdfThump",
+      "image_id": 73727
+    },
+    {
+      "match": "asdfPog",
+      "image_id": 74075
+    },
+    {
+      "match": "asdfPete",
+      "image_id": 82189
+    },
+    {
+      "match": "asdfBuns",
+      "image_id": 82188
+    }
+  ]
+}

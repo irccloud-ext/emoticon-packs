@@ -1,1 +1,31 @@
-{"name":"twitch-sub-lomavid","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lomaBoosted","image_id":105810},{"match":"lomaFail","image_id":70507},{"match":"lomaFuego","image_id":70503},{"match":"lomaBad","image_id":90245},{"match":"lomaSwag","image_id":89683},{"match":"lomaTilt","image_id":110661}]}
+{
+  "name": "twitch-sub-lomavid",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lomaBoosted",
+      "image_id": 105810
+    },
+    {
+      "match": "lomaFail",
+      "image_id": 70507
+    },
+    {
+      "match": "lomaFuego",
+      "image_id": 70503
+    },
+    {
+      "match": "lomaBad",
+      "image_id": 90245
+    },
+    {
+      "match": "lomaSwag",
+      "image_id": 89683
+    },
+    {
+      "match": "lomaTilt",
+      "image_id": 110661
+    }
+  ]
+}

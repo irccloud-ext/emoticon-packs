@@ -1,1 +1,39 @@
-{"name":"twitch-sub-cjtherocker","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rockerRaid","image_id":25065},{"match":"rockerMod","image_id":25112},{"match":"rockerPowah","image_id":25191},{"match":"rockerRage","image_id":25557},{"match":"rockerG4P","image_id":26750},{"match":"rockerSmug","image_id":32586},{"match":"rockerFail","image_id":32635},{"match":"rockerChop","image_id":32601}]}
+{
+  "name": "twitch-sub-cjtherocker",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rockerRaid",
+      "image_id": 25065
+    },
+    {
+      "match": "rockerMod",
+      "image_id": 25112
+    },
+    {
+      "match": "rockerPowah",
+      "image_id": 25191
+    },
+    {
+      "match": "rockerRage",
+      "image_id": 25557
+    },
+    {
+      "match": "rockerG4P",
+      "image_id": 26750
+    },
+    {
+      "match": "rockerSmug",
+      "image_id": 32586
+    },
+    {
+      "match": "rockerFail",
+      "image_id": 32635
+    },
+    {
+      "match": "rockerChop",
+      "image_id": 32601
+    }
+  ]
+}

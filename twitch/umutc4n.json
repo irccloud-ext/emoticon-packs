@@ -1,1 +1,31 @@
-{"name":"twitch-sub-umutc4n","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"umutvacSlm","image_id":105391},{"match":"umutvacSub","image_id":105372},{"match":"umutvacIyi","image_id":107326},{"match":"umutvacAta","image_id":107324},{"match":"umutvacDeagle","image_id":105011},{"match":"umutvacVac","image_id":105010}]}
+{
+  "name": "twitch-sub-umutc4n",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "umutvacSlm",
+      "image_id": 105391
+    },
+    {
+      "match": "umutvacSub",
+      "image_id": 105372
+    },
+    {
+      "match": "umutvacIyi",
+      "image_id": 107326
+    },
+    {
+      "match": "umutvacAta",
+      "image_id": 107324
+    },
+    {
+      "match": "umutvacDeagle",
+      "image_id": 105011
+    },
+    {
+      "match": "umutvacVac",
+      "image_id": 105010
+    }
+  ]
+}

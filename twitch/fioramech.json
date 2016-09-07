@@ -1,1 +1,23 @@
-{"name":"twitch-sub-fioramech","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fioramech04","image_id":30217},{"match":"fioramech01","image_id":29825},{"match":"fioramech02","image_id":30124},{"match":"fioramech03","image_id":30128}]}
+{
+  "name": "twitch-sub-fioramech",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fioramech04",
+      "image_id": 30217
+    },
+    {
+      "match": "fioramech01",
+      "image_id": 29825
+    },
+    {
+      "match": "fioramech02",
+      "image_id": 30124
+    },
+    {
+      "match": "fioramech03",
+      "image_id": 30128
+    }
+  ]
+}

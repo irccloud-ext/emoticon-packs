@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ixixghostxixi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nrcLove","image_id":60674},{"match":"nrcGasm","image_id":57731},{"match":"nrcHey","image_id":57524},{"match":"nrcLewd","image_id":57525},{"match":"nrcSass","image_id":58750},{"match":"nrcFail","image_id":58749}]}
+{
+  "name": "twitch-sub-ixixghostxixi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nrcLove",
+      "image_id": 60674
+    },
+    {
+      "match": "nrcGasm",
+      "image_id": 57731
+    },
+    {
+      "match": "nrcHey",
+      "image_id": 57524
+    },
+    {
+      "match": "nrcLewd",
+      "image_id": 57525
+    },
+    {
+      "match": "nrcSass",
+      "image_id": 58750
+    },
+    {
+      "match": "nrcFail",
+      "image_id": 58749
+    }
+  ]
+}

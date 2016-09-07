@@ -1,1 +1,67 @@
-{"name":"twitch-sub-mushisgosu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sogosuGodsu","image_id":19428},{"match":"sogosuSub","image_id":19183},{"match":"sogosuEzreal","image_id":48335},{"match":"sogosuLag","image_id":48336},{"match":"sogosuFeelsGood","image_id":90054},{"match":"sogosuThump","image_id":72376},{"match":"sogosuHype","image_id":72378},{"match":"sogosuHeart","image_id":72379},{"match":"sogosuSame","image_id":76238},{"match":"sogosuRip","image_id":76237},{"match":"sogosuFail","image_id":76235},{"match":"sogosuWave","image_id":76239},{"match":"sogosuOmg","image_id":76236},{"match":"sogosuGasm","image_id":95295},{"match":"sogosuGasm2","image_id":95566}]}
+{
+  "name": "twitch-sub-mushisgosu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sogosuGodsu",
+      "image_id": 19428
+    },
+    {
+      "match": "sogosuSub",
+      "image_id": 19183
+    },
+    {
+      "match": "sogosuEzreal",
+      "image_id": 48335
+    },
+    {
+      "match": "sogosuLag",
+      "image_id": 48336
+    },
+    {
+      "match": "sogosuFeelsGood",
+      "image_id": 90054
+    },
+    {
+      "match": "sogosuThump",
+      "image_id": 72376
+    },
+    {
+      "match": "sogosuHype",
+      "image_id": 72378
+    },
+    {
+      "match": "sogosuHeart",
+      "image_id": 72379
+    },
+    {
+      "match": "sogosuSame",
+      "image_id": 76238
+    },
+    {
+      "match": "sogosuRip",
+      "image_id": 76237
+    },
+    {
+      "match": "sogosuFail",
+      "image_id": 76235
+    },
+    {
+      "match": "sogosuWave",
+      "image_id": 76239
+    },
+    {
+      "match": "sogosuOmg",
+      "image_id": 76236
+    },
+    {
+      "match": "sogosuGasm",
+      "image_id": 95295
+    },
+    {
+      "match": "sogosuGasm2",
+      "image_id": 95566
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-showdown1983","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gtvLegs","image_id":32136},{"match":"gtvRoxy","image_id":32134},{"match":"gtvMatt","image_id":32131},{"match":"gtvWave","image_id":79069},{"match":"gtvSub","image_id":79068},{"match":"gtvRekt","image_id":44114},{"match":"gtvWin","image_id":44164},{"match":"gtvTen","image_id":57664},{"match":"gtvC","image_id":90487},{"match":"gtvG","image_id":90486}]}
+{
+  "name": "twitch-sub-showdown1983",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gtvLegs",
+      "image_id": 32136
+    },
+    {
+      "match": "gtvRoxy",
+      "image_id": 32134
+    },
+    {
+      "match": "gtvMatt",
+      "image_id": 32131
+    },
+    {
+      "match": "gtvWave",
+      "image_id": 79069
+    },
+    {
+      "match": "gtvSub",
+      "image_id": 79068
+    },
+    {
+      "match": "gtvRekt",
+      "image_id": 44114
+    },
+    {
+      "match": "gtvWin",
+      "image_id": 44164
+    },
+    {
+      "match": "gtvTen",
+      "image_id": 57664
+    },
+    {
+      "match": "gtvC",
+      "image_id": 90487
+    },
+    {
+      "match": "gtvG",
+      "image_id": 90486
+    }
+  ]
+}

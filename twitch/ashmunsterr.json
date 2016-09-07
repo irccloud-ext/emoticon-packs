@@ -1,1 +1,35 @@
-{"name":"twitch-sub-ashmunsterr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"monsterLove","image_id":104686},{"match":"monsterJabba","image_id":56517},{"match":"monsterRekt","image_id":59371},{"match":"monsterSad","image_id":103651},{"match":"monsterRage","image_id":106383},{"match":"monsterHey","image_id":106385},{"match":"monsterHype","image_id":106384}]}
+{
+  "name": "twitch-sub-ashmunsterr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "monsterLove",
+      "image_id": 104686
+    },
+    {
+      "match": "monsterJabba",
+      "image_id": 56517
+    },
+    {
+      "match": "monsterRekt",
+      "image_id": 59371
+    },
+    {
+      "match": "monsterSad",
+      "image_id": 103651
+    },
+    {
+      "match": "monsterRage",
+      "image_id": 106383
+    },
+    {
+      "match": "monsterHey",
+      "image_id": 106385
+    },
+    {
+      "match": "monsterHype",
+      "image_id": 106384
+    }
+  ]
+}

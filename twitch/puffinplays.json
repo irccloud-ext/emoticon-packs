@@ -1,1 +1,27 @@
-{"name":"twitch-sub-puffinplays","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"puffinBM","image_id":11015},{"match":"puffinKing","image_id":9941},{"match":"puffinRage","image_id":11381},{"match":"puffinCorgi","image_id":13119},{"match":"puffinThump","image_id":14657}]}
+{
+  "name": "twitch-sub-puffinplays",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "puffinBM",
+      "image_id": 11015
+    },
+    {
+      "match": "puffinKing",
+      "image_id": 9941
+    },
+    {
+      "match": "puffinRage",
+      "image_id": 11381
+    },
+    {
+      "match": "puffinCorgi",
+      "image_id": 13119
+    },
+    {
+      "match": "puffinThump",
+      "image_id": 14657
+    }
+  ]
+}

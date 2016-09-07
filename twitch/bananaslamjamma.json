@@ -1,1 +1,39 @@
-{"name":"twitch-sub-bananaslamjamma","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bsjFeels","image_id":89819},{"match":"bsjCough","image_id":44395},{"match":"bsjPower","image_id":44398},{"match":"bsjSalt","image_id":50760},{"match":"bsjDump","image_id":72773},{"match":"bsjTilt","image_id":86779},{"match":"bsjSmooth","image_id":98673},{"match":"bsjLUL","image_id":109630}]}
+{
+  "name": "twitch-sub-bananaslamjamma",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bsjFeels",
+      "image_id": 89819
+    },
+    {
+      "match": "bsjCough",
+      "image_id": 44395
+    },
+    {
+      "match": "bsjPower",
+      "image_id": 44398
+    },
+    {
+      "match": "bsjSalt",
+      "image_id": 50760
+    },
+    {
+      "match": "bsjDump",
+      "image_id": 72773
+    },
+    {
+      "match": "bsjTilt",
+      "image_id": 86779
+    },
+    {
+      "match": "bsjSmooth",
+      "image_id": 98673
+    },
+    {
+      "match": "bsjLUL",
+      "image_id": 109630
+    }
+  ]
+}

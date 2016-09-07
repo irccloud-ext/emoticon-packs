@@ -1,1 +1,39 @@
-{"name":"twitch-sub-giganterichard","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"giganteStudio","image_id":67774},{"match":"giganteTear","image_id":65518},{"match":"giganteWar","image_id":65784},{"match":"giganteCoin","image_id":104504},{"match":"giganteLove","image_id":65183},{"match":"giganteBeer","image_id":65182},{"match":"giganteFear","image_id":104621},{"match":"giganteThug","image_id":104620}]}
+{
+  "name": "twitch-sub-giganterichard",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "giganteStudio",
+      "image_id": 67774
+    },
+    {
+      "match": "giganteTear",
+      "image_id": 65518
+    },
+    {
+      "match": "giganteWar",
+      "image_id": 65784
+    },
+    {
+      "match": "giganteCoin",
+      "image_id": 104504
+    },
+    {
+      "match": "giganteLove",
+      "image_id": 65183
+    },
+    {
+      "match": "giganteBeer",
+      "image_id": 65182
+    },
+    {
+      "match": "giganteFear",
+      "image_id": 104621
+    },
+    {
+      "match": "giganteThug",
+      "image_id": 104620
+    }
+  ]
+}

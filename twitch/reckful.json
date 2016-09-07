@@ -1,1 +1,107 @@
-{"name":"twitch-sub-reckful","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"reckWut","image_id":87053},{"match":"reckS","image_id":1383},{"match":"reckFarmer","image_id":24129},{"match":"reckHey","image_id":106252},{"match":"reckT","image_id":1463},{"match":"reckGL","image_id":84049},{"match":"reckF","image_id":61954},{"match":"reckW","image_id":31837},{"match":"reckGR","image_id":84050},{"match":"reckRage","image_id":78421},{"match":"reck7","image_id":78426},{"match":"reck1","image_id":71091},{"match":"reckC","image_id":74931},{"match":"reckBald","image_id":76093},{"match":"reckSpace","image_id":76763},{"match":"reckDDOS","image_id":77110},{"match":"reckLiar","image_id":81160},{"match":"reckH","image_id":83335},{"match":"reckD","image_id":86676},{"match":"reckP","image_id":86847},{"match":"reckQ","image_id":103837},{"match":"reckDJ","image_id":103838},{"match":"reckChamp","image_id":103839},{"match":"reckL","image_id":90822},{"match":"reckKers","image_id":103416}]}
+{
+  "name": "twitch-sub-reckful",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "reckWut",
+      "image_id": 87053
+    },
+    {
+      "match": "reckS",
+      "image_id": 1383
+    },
+    {
+      "match": "reckFarmer",
+      "image_id": 24129
+    },
+    {
+      "match": "reckHey",
+      "image_id": 106252
+    },
+    {
+      "match": "reckT",
+      "image_id": 1463
+    },
+    {
+      "match": "reckGL",
+      "image_id": 84049
+    },
+    {
+      "match": "reckF",
+      "image_id": 61954
+    },
+    {
+      "match": "reckW",
+      "image_id": 31837
+    },
+    {
+      "match": "reckGR",
+      "image_id": 84050
+    },
+    {
+      "match": "reckRage",
+      "image_id": 78421
+    },
+    {
+      "match": "reck7",
+      "image_id": 78426
+    },
+    {
+      "match": "reck1",
+      "image_id": 71091
+    },
+    {
+      "match": "reckC",
+      "image_id": 74931
+    },
+    {
+      "match": "reckBald",
+      "image_id": 76093
+    },
+    {
+      "match": "reckSpace",
+      "image_id": 76763
+    },
+    {
+      "match": "reckDDOS",
+      "image_id": 77110
+    },
+    {
+      "match": "reckLiar",
+      "image_id": 81160
+    },
+    {
+      "match": "reckH",
+      "image_id": 83335
+    },
+    {
+      "match": "reckD",
+      "image_id": 86676
+    },
+    {
+      "match": "reckP",
+      "image_id": 86847
+    },
+    {
+      "match": "reckQ",
+      "image_id": 103837
+    },
+    {
+      "match": "reckChamp",
+      "image_id": 103839
+    },
+    {
+      "match": "reckB",
+      "image_id": 111992
+    },
+    {
+      "match": "reckL",
+      "image_id": 90822
+    },
+    {
+      "match": "reckKers",
+      "image_id": 103416
+    }
+  ]
+}

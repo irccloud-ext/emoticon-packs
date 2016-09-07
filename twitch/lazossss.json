@@ -1,1 +1,11 @@
-{"name":"twitch-sub-lazossss","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lazoJudge1","image_id":36476}]}
+{
+  "name": "twitch-sub-lazossss",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lazoJudge1",
+      "image_id": 36476
+    }
+  ]
+}

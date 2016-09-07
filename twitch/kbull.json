@@ -1,1 +1,15 @@
-{"name":"twitch-sub-kbull","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kbullJuandig","image_id":38864},{"match":"kbullKbull4zero","image_id":106300}]}
+{
+  "name": "twitch-sub-kbull",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kbullJuandig",
+      "image_id": 38864
+    },
+    {
+      "match": "kbullKbull4zero",
+      "image_id": 106300
+    }
+  ]
+}

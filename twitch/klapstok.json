@@ -1,1 +1,39 @@
-{"name":"twitch-sub-klapstok","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"klapRIP","image_id":52989},{"match":"klapCRY","image_id":52987},{"match":"klapLOV","image_id":52965},{"match":"klapVNR","image_id":52957},{"match":"klapLOL","image_id":52812},{"match":"klapTROL","image_id":55198},{"match":"klapFEAR","image_id":55199},{"match":"klapBAV","image_id":73477}]}
+{
+  "name": "twitch-sub-klapstok",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "klapRIP",
+      "image_id": 52989
+    },
+    {
+      "match": "klapCRY",
+      "image_id": 52987
+    },
+    {
+      "match": "klapLOV",
+      "image_id": 52965
+    },
+    {
+      "match": "klapVNR",
+      "image_id": 52957
+    },
+    {
+      "match": "klapLOL",
+      "image_id": 52812
+    },
+    {
+      "match": "klapTROL",
+      "image_id": 55198
+    },
+    {
+      "match": "klapFEAR",
+      "image_id": 55199
+    },
+    {
+      "match": "klapBAV",
+      "image_id": 73477
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"twitch-sub-darkest_mage","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"darkestNo","image_id":15803},{"match":"darkestSilly","image_id":30783},{"match":"darkestHam","image_id":68257},{"match":"darkestMcl","image_id":83067},{"match":"darkestHh","image_id":83068},{"match":"darkestTf","image_id":83069},{"match":"darkestSillyg","image_id":84352}]}
+{
+  "name": "twitch-sub-darkest_mage",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "darkestNo",
+      "image_id": 15803
+    },
+    {
+      "match": "darkestSilly",
+      "image_id": 30783
+    },
+    {
+      "match": "darkestHam",
+      "image_id": 68257
+    },
+    {
+      "match": "darkestMcl",
+      "image_id": 83067
+    },
+    {
+      "match": "darkestHh",
+      "image_id": 83068
+    },
+    {
+      "match": "darkestTf",
+      "image_id": 83069
+    },
+    {
+      "match": "darkestSillyg",
+      "image_id": 84352
+    }
+  ]
+}

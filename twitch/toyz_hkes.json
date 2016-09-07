@@ -1,1 +1,63 @@
-{"name":"twitch-sub-toyz_hkes","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"toyzLaughing","image_id":19689},{"match":"toyzTrollface","image_id":19690},{"match":"toyzFatSheep","image_id":20004},{"match":"toyzImsohigh","image_id":20009},{"match":"toyzNice","image_id":23240},{"match":"toyzFlamemaster","image_id":22832},{"match":"toyzWoodrank","image_id":41192},{"match":"toyzFkingkid","image_id":41202},{"match":"toyzDoor","image_id":41330},{"match":"toyzFkingkid2","image_id":41572},{"match":"toyzBear","image_id":51467},{"match":"toyzWow","image_id":51176},{"match":"toyzHehe","image_id":50861},{"match":"toyzDog","image_id":70414}]}
+{
+  "name": "twitch-sub-toyz_hkes",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "toyzLaughing",
+      "image_id": 19689
+    },
+    {
+      "match": "toyzTrollface",
+      "image_id": 19690
+    },
+    {
+      "match": "toyzFatSheep",
+      "image_id": 20004
+    },
+    {
+      "match": "toyzImsohigh",
+      "image_id": 20009
+    },
+    {
+      "match": "toyzNice",
+      "image_id": 23240
+    },
+    {
+      "match": "toyzFlamemaster",
+      "image_id": 22832
+    },
+    {
+      "match": "toyzWoodrank",
+      "image_id": 41192
+    },
+    {
+      "match": "toyzFkingkid",
+      "image_id": 41202
+    },
+    {
+      "match": "toyzDoor",
+      "image_id": 41330
+    },
+    {
+      "match": "toyzFkingkid2",
+      "image_id": 41572
+    },
+    {
+      "match": "toyzBear",
+      "image_id": 51467
+    },
+    {
+      "match": "toyzWow",
+      "image_id": 51176
+    },
+    {
+      "match": "toyzHehe",
+      "image_id": 50861
+    },
+    {
+      "match": "toyzDog",
+      "image_id": 70414
+    }
+  ]
+}

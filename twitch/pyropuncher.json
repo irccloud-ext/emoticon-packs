@@ -1,1 +1,11 @@
-{"name":"twitch-sub-pyropuncher","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pyraoPonder","image_id":64150}]}
+{
+  "name": "twitch-sub-pyropuncher",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pyraoPonder",
+      "image_id": 64150
+    }
+  ]
+}

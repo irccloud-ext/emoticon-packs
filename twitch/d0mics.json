@@ -1,1 +1,23 @@
-{"name":"twitch-sub-d0mics","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"domicsWink","image_id":33126},{"match":"domicsThirst","image_id":33123},{"match":"domicsBlush","image_id":30937},{"match":"domicsWat","image_id":30938}]}
+{
+  "name": "twitch-sub-d0mics",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "domicsWink",
+      "image_id": 33126
+    },
+    {
+      "match": "domicsThirst",
+      "image_id": 33123
+    },
+    {
+      "match": "domicsBlush",
+      "image_id": 30937
+    },
+    {
+      "match": "domicsWat",
+      "image_id": 30938
+    }
+  ]
+}

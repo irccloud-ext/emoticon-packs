@@ -1,1 +1,31 @@
-{"name":"twitch-sub-drift0r","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"batdog1","image_id":8771},{"match":"batdogOk","image_id":25455},{"match":"batdogHat","image_id":40538},{"match":"batdogBumi","image_id":40536},{"match":"batdogBread","image_id":40537},{"match":"batdogBlewIt","image_id":40539}]}
+{
+  "name": "twitch-sub-drift0r",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "batdog1",
+      "image_id": 8771
+    },
+    {
+      "match": "batdogOk",
+      "image_id": 25455
+    },
+    {
+      "match": "batdogHat",
+      "image_id": 40538
+    },
+    {
+      "match": "batdogBumi",
+      "image_id": 40536
+    },
+    {
+      "match": "batdogBread",
+      "image_id": 40537
+    },
+    {
+      "match": "batdogBlewIt",
+      "image_id": 40539
+    }
+  ]
+}

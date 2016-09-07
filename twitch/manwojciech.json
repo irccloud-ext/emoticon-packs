@@ -1,1 +1,43 @@
-{"name":"twitch-sub-manwojciech","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"manwojPLASTER","image_id":28676},{"match":"manwojXMOTION","image_id":29626},{"match":"manwojANLAKI","image_id":57551},{"match":"manwojWITAJ","image_id":57552},{"match":"manwojTOXIC","image_id":77744},{"match":"manwojVBOT","image_id":81809},{"match":"manwojWUKONG","image_id":81810},{"match":"manwojPROSBA","image_id":81814},{"match":"manwojREFLINK","image_id":81815}]}
+{
+  "name": "twitch-sub-manwojciech",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "manwojPLASTER",
+      "image_id": 28676
+    },
+    {
+      "match": "manwojXMOTION",
+      "image_id": 29626
+    },
+    {
+      "match": "manwojANLAKI",
+      "image_id": 57551
+    },
+    {
+      "match": "manwojWITAJ",
+      "image_id": 57552
+    },
+    {
+      "match": "manwojTOXIC",
+      "image_id": 77744
+    },
+    {
+      "match": "manwojVBOT",
+      "image_id": 81809
+    },
+    {
+      "match": "manwojWUKONG",
+      "image_id": 81810
+    },
+    {
+      "match": "manwojPROSBA",
+      "image_id": 81814
+    },
+    {
+      "match": "manwojREFLINK",
+      "image_id": 81815
+    }
+  ]
+}

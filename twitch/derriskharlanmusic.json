@@ -1,1 +1,31 @@
-{"name":"twitch-sub-derriskharlanmusic","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dkmWFJ","image_id":45685},{"match":"dkmPLS","image_id":38636},{"match":"dkmHEY","image_id":38637},{"match":"dkmSASKA","image_id":38643},{"match":"dkmETAL","image_id":38727},{"match":"dkmHEIDI","image_id":45239}]}
+{
+  "name": "twitch-sub-derriskharlanmusic",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dkmWFJ",
+      "image_id": 45685
+    },
+    {
+      "match": "dkmPLS",
+      "image_id": 38636
+    },
+    {
+      "match": "dkmHEY",
+      "image_id": 38637
+    },
+    {
+      "match": "dkmSASKA",
+      "image_id": 38643
+    },
+    {
+      "match": "dkmETAL",
+      "image_id": 38727
+    },
+    {
+      "match": "dkmHEIDI",
+      "image_id": 45239
+    }
+  ]
+}

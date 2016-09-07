@@ -1,1 +1,23 @@
-{"name":"twitch-sub-signup4ko","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"limeyOk","image_id":87257},{"match":"limeySad","image_id":96628},{"match":"limeyDds","image_id":96629},{"match":"limeyLime","image_id":96624}]}
+{
+  "name": "twitch-sub-signup4ko",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "limeyOk",
+      "image_id": 87257
+    },
+    {
+      "match": "limeySad",
+      "image_id": 96628
+    },
+    {
+      "match": "limeyDds",
+      "image_id": 96629
+    },
+    {
+      "match": "limeyLime",
+      "image_id": 96624
+    }
+  ]
+}

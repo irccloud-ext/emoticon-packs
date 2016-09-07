@@ -1,1 +1,31 @@
-{"name":"twitch-sub-kandytung","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mushroomGirl","image_id":88027},{"match":"mushroomGG","image_id":88026},{"match":"mushroomKuku","image_id":107128},{"match":"mushroomBlack","image_id":79176},{"match":"mushroomChin","image_id":79539},{"match":"mushroomBurn","image_id":107129}]}
+{
+  "name": "twitch-sub-kandytung",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mushroomGirl",
+      "image_id": 88027
+    },
+    {
+      "match": "mushroomGG",
+      "image_id": 88026
+    },
+    {
+      "match": "mushroomKuku",
+      "image_id": 107128
+    },
+    {
+      "match": "mushroomBlack",
+      "image_id": 79176
+    },
+    {
+      "match": "mushroomChin",
+      "image_id": 79539
+    },
+    {
+      "match": "mushroomBurn",
+      "image_id": 107129
+    }
+  ]
+}

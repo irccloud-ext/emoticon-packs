@@ -1,1 +1,31 @@
-{"name":"twitch-sub-i3uiietproof","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bulletSKULL","image_id":23223},{"match":"bulletCHIBI","image_id":23482},{"match":"bulletHOLY","image_id":23236},{"match":"bulletGUN","image_id":23443},{"match":"bulletPEW","image_id":30532},{"match":"bulletFEELS","image_id":30531}]}
+{
+  "name": "twitch-sub-i3uiietproof",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bulletSKULL",
+      "image_id": 23223
+    },
+    {
+      "match": "bulletCHIBI",
+      "image_id": 23482
+    },
+    {
+      "match": "bulletHOLY",
+      "image_id": 23236
+    },
+    {
+      "match": "bulletGUN",
+      "image_id": 23443
+    },
+    {
+      "match": "bulletPEW",
+      "image_id": 30532
+    },
+    {
+      "match": "bulletFEELS",
+      "image_id": 30531
+    }
+  ]
+}

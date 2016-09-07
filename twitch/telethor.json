@@ -1,1 +1,23 @@
-{"name":"twitch-sub-telethor","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"teleW","image_id":51030},{"match":"teleKappa","image_id":54181},{"match":"telePatada","image_id":54182},{"match":"teleHamster","image_id":54183}]}
+{
+  "name": "twitch-sub-telethor",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "teleW",
+      "image_id": 51030
+    },
+    {
+      "match": "teleKappa",
+      "image_id": 54181
+    },
+    {
+      "match": "telePatada",
+      "image_id": 54182
+    },
+    {
+      "match": "teleHamster",
+      "image_id": 54183
+    }
+  ]
+}

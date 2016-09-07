@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ninja_n8","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ninjafamRIP","image_id":101545},{"match":"ninjafamHYPE","image_id":102197},{"match":"ninjafamLURK","image_id":101764},{"match":"ninjafamWUT","image_id":99221}]}
+{
+  "name": "twitch-sub-ninja_n8",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ninjafamRIP",
+      "image_id": 101545
+    },
+    {
+      "match": "ninjafamHYPE",
+      "image_id": 102197
+    },
+    {
+      "match": "ninjafamLURK",
+      "image_id": 101764
+    },
+    {
+      "match": "ninjafamWUT",
+      "image_id": 99221
+    }
+  ]
+}

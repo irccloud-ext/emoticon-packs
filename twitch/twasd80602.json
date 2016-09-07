@@ -1,1 +1,15 @@
-{"name":"twitch-sub-twasd80602","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"twasd80602Good","image_id":111373},{"match":"twasd80602Clap","image_id":111178}]}
+{
+  "name": "twitch-sub-twasd80602",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "twasd80602Good",
+      "image_id": 111373
+    },
+    {
+      "match": "twasd80602Clap",
+      "image_id": 111178
+    }
+  ]
+}

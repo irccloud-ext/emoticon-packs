@@ -1,1 +1,31 @@
-{"name":"twitch-sub-akiss4luck","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"akiss4BELLAWAT","image_id":54719},{"match":"akiss4LOVE","image_id":54720},{"match":"akiss4MOARTREES","image_id":54721},{"match":"akiss4EMMA","image_id":56259},{"match":"akiss4Stealth","image_id":110138},{"match":"akiss4Happy","image_id":98779}]}
+{
+  "name": "twitch-sub-akiss4luck",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "akiss4BELLAWAT",
+      "image_id": 54719
+    },
+    {
+      "match": "akiss4LOVE",
+      "image_id": 54720
+    },
+    {
+      "match": "akiss4MOARTREES",
+      "image_id": 54721
+    },
+    {
+      "match": "akiss4EMMA",
+      "image_id": 56259
+    },
+    {
+      "match": "akiss4Stealth",
+      "image_id": 110138
+    },
+    {
+      "match": "akiss4Happy",
+      "image_id": 98779
+    }
+  ]
+}

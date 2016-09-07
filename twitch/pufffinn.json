@@ -1,1 +1,31 @@
-{"name":"twitch-sub-pufffinn","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"puffRekt","image_id":25962},{"match":"puffHeart","image_id":23386},{"match":"puffThirst","image_id":67783},{"match":"puffDerp","image_id":53542},{"match":"puffThump","image_id":67534},{"match":"puffHrtbrk","image_id":69476}]}
+{
+  "name": "twitch-sub-pufffinn",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "puffRekt",
+      "image_id": 25962
+    },
+    {
+      "match": "puffHeart",
+      "image_id": 23386
+    },
+    {
+      "match": "puffThirst",
+      "image_id": 67783
+    },
+    {
+      "match": "puffDerp",
+      "image_id": 53542
+    },
+    {
+      "match": "puffThump",
+      "image_id": 67534
+    },
+    {
+      "match": "puffHrtbrk",
+      "image_id": 69476
+    }
+  ]
+}

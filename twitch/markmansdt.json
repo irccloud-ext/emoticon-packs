@@ -1,1 +1,31 @@
-{"name":"twitch-sub-markmansdt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sdtDMSENT","image_id":53993},{"match":"sdtHAYGURL","image_id":53994},{"match":"sdtKICKS","image_id":53995},{"match":"sdtSTICKS","image_id":53996},{"match":"sdtBROFIST","image_id":90232},{"match":"sdtHEITHUMP","image_id":90231}]}
+{
+  "name": "twitch-sub-markmansdt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sdtDMSENT",
+      "image_id": 53993
+    },
+    {
+      "match": "sdtHAYGURL",
+      "image_id": 53994
+    },
+    {
+      "match": "sdtKICKS",
+      "image_id": 53995
+    },
+    {
+      "match": "sdtSTICKS",
+      "image_id": 53996
+    },
+    {
+      "match": "sdtBROFIST",
+      "image_id": 90232
+    },
+    {
+      "match": "sdtHEITHUMP",
+      "image_id": 90231
+    }
+  ]
+}

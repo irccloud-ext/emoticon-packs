@@ -1,1 +1,47 @@
-{"name":"twitch-sub-mcloken","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lokeHI","image_id":105030},{"match":"lokeCHEERS","image_id":106860},{"match":"lokeSELFIE","image_id":106862},{"match":"lokeLEWD","image_id":106858},{"match":"lokeLURK","image_id":106861},{"match":"lokeBUTT","image_id":106859},{"match":"lokeSALT","image_id":105034},{"match":"lokeLOVE","image_id":105576},{"match":"lokeHYPE","image_id":105577},{"match":"lokeSLAP","image_id":105579}]}
+{
+  "name": "twitch-sub-mcloken",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lokeHI",
+      "image_id": 105030
+    },
+    {
+      "match": "lokeCHEERS",
+      "image_id": 106860
+    },
+    {
+      "match": "lokeSELFIE",
+      "image_id": 106862
+    },
+    {
+      "match": "lokeLEWD",
+      "image_id": 106858
+    },
+    {
+      "match": "lokeLURK",
+      "image_id": 106861
+    },
+    {
+      "match": "lokeBUTT",
+      "image_id": 106859
+    },
+    {
+      "match": "lokeSALT",
+      "image_id": 105034
+    },
+    {
+      "match": "lokeLOVE",
+      "image_id": 105576
+    },
+    {
+      "match": "lokeHYPE",
+      "image_id": 105577
+    },
+    {
+      "match": "lokeSLAP",
+      "image_id": 105579
+    }
+  ]
+}

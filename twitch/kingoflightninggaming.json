@@ -1,1 +1,19 @@
-{"name":"twitch-sub-kingoflightninggaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kolYO","image_id":97804},{"match":"kolBigmom","image_id":97806},{"match":"kolHF","image_id":97807}]}
+{
+  "name": "twitch-sub-kingoflightninggaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kolYO",
+      "image_id": 97804
+    },
+    {
+      "match": "kolBigmom",
+      "image_id": 97806
+    },
+    {
+      "match": "kolHF",
+      "image_id": 97807
+    }
+  ]
+}

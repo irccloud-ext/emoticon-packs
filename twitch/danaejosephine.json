@@ -1,1 +1,39 @@
-{"name":"twitch-sub-danaejosephine","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"danaeW","image_id":59230},{"match":"danaeYas","image_id":70820},{"match":"danaeFail","image_id":70819},{"match":"danaeBae","image_id":70817},{"match":"danaeL","image_id":86531},{"match":"danaeLove","image_id":79009},{"match":"danaeC","image_id":79008},{"match":"danaeWow","image_id":81853}]}
+{
+  "name": "twitch-sub-danaejosephine",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "danaeW",
+      "image_id": 59230
+    },
+    {
+      "match": "danaeYas",
+      "image_id": 70820
+    },
+    {
+      "match": "danaeFail",
+      "image_id": 70819
+    },
+    {
+      "match": "danaeBae",
+      "image_id": 70817
+    },
+    {
+      "match": "danaeL",
+      "image_id": 86531
+    },
+    {
+      "match": "danaeLove",
+      "image_id": 79009
+    },
+    {
+      "match": "danaeC",
+      "image_id": 79008
+    },
+    {
+      "match": "danaeWow",
+      "image_id": 81853
+    }
+  ]
+}

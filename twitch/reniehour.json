@@ -1,1 +1,15 @@
-{"name":"twitch-sub-reniehour","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"renieW","image_id":54976},{"match":"renieHappy","image_id":65221}]}
+{
+  "name": "twitch-sub-reniehour",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "renieW",
+      "image_id": 54976
+    },
+    {
+      "match": "renieHappy",
+      "image_id": 65221
+    }
+  ]
+}

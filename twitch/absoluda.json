@@ -1,1 +1,15 @@
-{"name":"twitch-sub-absoluda","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ludaFinn","image_id":8549},{"match":"ludaStachio","image_id":27078}]}
+{
+  "name": "twitch-sub-absoluda",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ludaFinn",
+      "image_id": 8549
+    },
+    {
+      "match": "ludaStachio",
+      "image_id": 27078
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-psychicpebbles","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pebblesHB1","image_id":89849},{"match":"pebblesZACH","image_id":91433},{"match":"pebblesCHRIS","image_id":91432},{"match":"pebblesIRATE","image_id":89511},{"match":"pebblesHB2","image_id":90672},{"match":"pebblesHB3","image_id":90673},{"match":"pebblesRAT","image_id":92916},{"match":"pebblesXD","image_id":95184}]}
+{
+  "name": "twitch-sub-psychicpebbles",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pebblesHB1",
+      "image_id": 89849
+    },
+    {
+      "match": "pebblesZACH",
+      "image_id": 91433
+    },
+    {
+      "match": "pebblesCHRIS",
+      "image_id": 91432
+    },
+    {
+      "match": "pebblesIRATE",
+      "image_id": 89511
+    },
+    {
+      "match": "pebblesHB2",
+      "image_id": 90672
+    },
+    {
+      "match": "pebblesHB3",
+      "image_id": 90673
+    },
+    {
+      "match": "pebblesRAT",
+      "image_id": 92916
+    },
+    {
+      "match": "pebblesXD",
+      "image_id": 95184
+    }
+  ]
+}

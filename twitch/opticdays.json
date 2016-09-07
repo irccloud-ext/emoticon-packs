@@ -1,1 +1,47 @@
-{"name":"twitch-sub-opticdays","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"daysTen","image_id":63047},{"match":"daysDuck","image_id":63048},{"match":"daysHype","image_id":63051},{"match":"daysAim","image_id":63049},{"match":"daysRip","image_id":63046},{"match":"daysGod","image_id":63042},{"match":"daysLove","image_id":63043},{"match":"daysSad","image_id":63044},{"match":"daysTime","image_id":63045},{"match":"daysSub","image_id":63931}]}
+{
+  "name": "twitch-sub-opticdays",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "daysTen",
+      "image_id": 63047
+    },
+    {
+      "match": "daysDuck",
+      "image_id": 63048
+    },
+    {
+      "match": "daysHype",
+      "image_id": 63051
+    },
+    {
+      "match": "daysAim",
+      "image_id": 63049
+    },
+    {
+      "match": "daysRip",
+      "image_id": 63046
+    },
+    {
+      "match": "daysGod",
+      "image_id": 63042
+    },
+    {
+      "match": "daysLove",
+      "image_id": 63043
+    },
+    {
+      "match": "daysSad",
+      "image_id": 63044
+    },
+    {
+      "match": "daysTime",
+      "image_id": 63045
+    },
+    {
+      "match": "daysSub",
+      "image_id": 63931
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-lunalovebad","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lunaE","image_id":94932},{"match":"lunaYikes","image_id":94931},{"match":"lunaThump","image_id":94930},{"match":"lunaTru","image_id":92431},{"match":"lunaH","image_id":93656},{"match":"lunaP","image_id":96988},{"match":"lunaB","image_id":92993},{"match":"lunaBurrito","image_id":93071},{"match":"lunaBuns","image_id":96476},{"match":"lunaMoon","image_id":94660}]}
+{
+  "name": "twitch-sub-lunalovebad",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lunaE",
+      "image_id": 94932
+    },
+    {
+      "match": "lunaYikes",
+      "image_id": 94931
+    },
+    {
+      "match": "lunaThump",
+      "image_id": 94930
+    },
+    {
+      "match": "lunaTru",
+      "image_id": 92431
+    },
+    {
+      "match": "lunaH",
+      "image_id": 93656
+    },
+    {
+      "match": "lunaP",
+      "image_id": 96988
+    },
+    {
+      "match": "lunaB",
+      "image_id": 92993
+    },
+    {
+      "match": "lunaBurrito",
+      "image_id": 93071
+    },
+    {
+      "match": "lunaBuns",
+      "image_id": 96476
+    },
+    {
+      "match": "lunaMoon",
+      "image_id": 94660
+    }
+  ]
+}

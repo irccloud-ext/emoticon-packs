@@ -1,1 +1,31 @@
-{"name":"twitch-sub-lefoubruiteur","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lfbTilt","image_id":96828},{"match":"lfbHello","image_id":79571},{"match":"lfbBobby","image_id":79567},{"match":"lfbBrubru","image_id":79582},{"match":"lfbMarsu","image_id":79763},{"match":"lfbGrouik","image_id":96823}]}
+{
+  "name": "twitch-sub-lefoubruiteur",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lfbTilt",
+      "image_id": 96828
+    },
+    {
+      "match": "lfbHello",
+      "image_id": 79571
+    },
+    {
+      "match": "lfbBobby",
+      "image_id": 79567
+    },
+    {
+      "match": "lfbBrubru",
+      "image_id": 79582
+    },
+    {
+      "match": "lfbMarsu",
+      "image_id": 79763
+    },
+    {
+      "match": "lfbGrouik",
+      "image_id": 96823
+    }
+  ]
+}

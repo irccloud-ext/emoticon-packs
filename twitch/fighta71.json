@@ -1,1 +1,19 @@
-{"name":"twitch-sub-fighta71","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fightaMflogo","image_id":100104},{"match":"fightaHeadmf","image_id":100103},{"match":"fightaDenzMF","image_id":100000}]}
+{
+  "name": "twitch-sub-fighta71",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fightaMflogo",
+      "image_id": 100104
+    },
+    {
+      "match": "fightaHeadmf",
+      "image_id": 100103
+    },
+    {
+      "match": "fightaDenzMF",
+      "image_id": 100000
+    }
+  ]
+}

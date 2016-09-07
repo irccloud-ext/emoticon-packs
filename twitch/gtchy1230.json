@@ -1,1 +1,15 @@
-{"name":"twitch-sub-gtchy1230","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gtchyBigtruckin","image_id":11359},{"match":"gtchyFacepalm","image_id":11106}]}
+{
+  "name": "twitch-sub-gtchy1230",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gtchyBigtruckin",
+      "image_id": 11359
+    },
+    {
+      "match": "gtchyFacepalm",
+      "image_id": 11106
+    }
+  ]
+}

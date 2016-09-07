@@ -1,1 +1,87 @@
-{"name":"twitch-sub-officialflaw","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"flawHi","image_id":90034},{"match":"flawHype","image_id":90035},{"match":"flawRage","image_id":90036},{"match":"flawThump","image_id":90029},{"match":"flawGasm","image_id":90031},{"match":"flawPotato","image_id":90026},{"match":"flawAngel","image_id":90027},{"match":"flawDevil","image_id":90028},{"match":"flawGo","image_id":70329},{"match":"flawVac","image_id":69007},{"match":"flawHeart","image_id":69006},{"match":"flawLess","image_id":65421},{"match":"flawFitta","image_id":71597},{"match":"flawFace","image_id":71632},{"match":"flawChill","image_id":72131},{"match":"flawGrill","image_id":71401},{"match":"flawSalt","image_id":90025},{"match":"flawPalm","image_id":90030},{"match":"flawRIP","image_id":90032},{"match":"flawGG","image_id":90033}]}
+{
+  "name": "twitch-sub-officialflaw",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "flawHi",
+      "image_id": 90034
+    },
+    {
+      "match": "flawHype",
+      "image_id": 90035
+    },
+    {
+      "match": "flawRage",
+      "image_id": 90036
+    },
+    {
+      "match": "flawThump",
+      "image_id": 90029
+    },
+    {
+      "match": "flawGasm",
+      "image_id": 90031
+    },
+    {
+      "match": "flawPotato",
+      "image_id": 90026
+    },
+    {
+      "match": "flawAngel",
+      "image_id": 90027
+    },
+    {
+      "match": "flawDevil",
+      "image_id": 90028
+    },
+    {
+      "match": "flawGo",
+      "image_id": 70329
+    },
+    {
+      "match": "flawVac",
+      "image_id": 69007
+    },
+    {
+      "match": "flawHeart",
+      "image_id": 69006
+    },
+    {
+      "match": "flawLess",
+      "image_id": 65421
+    },
+    {
+      "match": "flawFitta",
+      "image_id": 71597
+    },
+    {
+      "match": "flawFace",
+      "image_id": 71632
+    },
+    {
+      "match": "flawChill",
+      "image_id": 72131
+    },
+    {
+      "match": "flawGrill",
+      "image_id": 71401
+    },
+    {
+      "match": "flawSalt",
+      "image_id": 90025
+    },
+    {
+      "match": "flawPalm",
+      "image_id": 90030
+    },
+    {
+      "match": "flawRIP",
+      "image_id": 90032
+    },
+    {
+      "match": "flawGG",
+      "image_id": 90033
+    }
+  ]
+}

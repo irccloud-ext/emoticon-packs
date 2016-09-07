@@ -1,1 +1,15 @@
-{"name":"twitch-sub-2siqq","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"siqqRawr","image_id":37029},{"match":"siqqPunch","image_id":37684}]}
+{
+  "name": "twitch-sub-2siqq",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "siqqRawr",
+      "image_id": 37029
+    },
+    {
+      "match": "siqqPunch",
+      "image_id": 37684
+    }
+  ]
+}

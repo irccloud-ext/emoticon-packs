@@ -1,1 +1,31 @@
-{"name":"twitch-sub-bigdaddy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bdnGasm","image_id":24167},{"match":"bdnRage","image_id":24168},{"match":"bdnDWI","image_id":24248},{"match":"bdnFlowa","image_id":24249},{"match":"bdnChamp","image_id":26048},{"match":"bdnChair","image_id":25220}]}
+{
+  "name": "twitch-sub-bigdaddy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bdnGasm",
+      "image_id": 24167
+    },
+    {
+      "match": "bdnRage",
+      "image_id": 24168
+    },
+    {
+      "match": "bdnDWI",
+      "image_id": 24248
+    },
+    {
+      "match": "bdnFlowa",
+      "image_id": 24249
+    },
+    {
+      "match": "bdnChamp",
+      "image_id": 26048
+    },
+    {
+      "match": "bdnChair",
+      "image_id": 25220
+    }
+  ]
+}

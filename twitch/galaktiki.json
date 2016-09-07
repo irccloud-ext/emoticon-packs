@@ -1,1 +1,31 @@
-{"name":"twitch-sub-galaktiki","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"galOLEN","image_id":27512},{"match":"galSOIDET","image_id":27516},{"match":"galHI","image_id":27784},{"match":"galLOOT","image_id":27901},{"match":"galPALM","image_id":29364},{"match":"galTOST","image_id":29454}]}
+{
+  "name": "twitch-sub-galaktiki",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "galOLEN",
+      "image_id": 27512
+    },
+    {
+      "match": "galSOIDET",
+      "image_id": 27516
+    },
+    {
+      "match": "galHI",
+      "image_id": 27784
+    },
+    {
+      "match": "galLOOT",
+      "image_id": 27901
+    },
+    {
+      "match": "galPALM",
+      "image_id": 29364
+    },
+    {
+      "match": "galTOST",
+      "image_id": 29454
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-xuuuura","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gokongKing","image_id":4508},{"match":"gokongIntrosa","image_id":15953},{"match":"gokongKappa","image_id":15955},{"match":"gokongPanda","image_id":15958},{"match":"gokongGhost","image_id":34505},{"match":"gokongPato","image_id":34504}]}
+{
+  "name": "twitch-sub-xuuuura",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gokongKing",
+      "image_id": 4508
+    },
+    {
+      "match": "gokongIntrosa",
+      "image_id": 15953
+    },
+    {
+      "match": "gokongKappa",
+      "image_id": 15955
+    },
+    {
+      "match": "gokongPanda",
+      "image_id": 15958
+    },
+    {
+      "match": "gokongGhost",
+      "image_id": 34505
+    },
+    {
+      "match": "gokongPato",
+      "image_id": 34504
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"twitch-sub-swaggerleetv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"leewRage","image_id":105218},{"match":"leewBang","image_id":104891},{"match":"leewW","image_id":104481},{"match":"leewChamp","image_id":106666},{"match":"leewHype","image_id":105597},{"match":"leewOMG","image_id":109952},{"match":"leewPotato","image_id":109780}]}
+{
+  "name": "twitch-sub-swaggerleetv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "leewRage",
+      "image_id": 105218
+    },
+    {
+      "match": "leewBang",
+      "image_id": 104891
+    },
+    {
+      "match": "leewW",
+      "image_id": 104481
+    },
+    {
+      "match": "leewChamp",
+      "image_id": 106666
+    },
+    {
+      "match": "leewHype",
+      "image_id": 105597
+    },
+    {
+      "match": "leewOMG",
+      "image_id": 109952
+    },
+    {
+      "match": "leewPotato",
+      "image_id": 109780
+    }
+  ]
+}

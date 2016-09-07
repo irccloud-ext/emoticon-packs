@@ -1,1 +1,15 @@
-{"name":"twitch-sub-wonderboyhalo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wonderNinja","image_id":104236},{"match":"wonderLit","image_id":104237}]}
+{
+  "name": "twitch-sub-wonderboyhalo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wonderNinja",
+      "image_id": 104236
+    },
+    {
+      "match": "wonderLit",
+      "image_id": 104237
+    }
+  ]
+}

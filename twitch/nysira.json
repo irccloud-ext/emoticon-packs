@@ -1,1 +1,47 @@
-{"name":"twitch-sub-nysira","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nysCake","image_id":8829},{"match":"nysTrain","image_id":14194},{"match":"nysQQ","image_id":34213},{"match":"nysDerp","image_id":27011},{"match":"nysLove","image_id":34496},{"match":"nysHype","image_id":34515},{"match":"nysHug","image_id":34620},{"match":"nysCool","image_id":34798},{"match":"nysRage","image_id":34804},{"match":"nysHi","image_id":34800}]}
+{
+  "name": "twitch-sub-nysira",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nysCake",
+      "image_id": 8829
+    },
+    {
+      "match": "nysTrain",
+      "image_id": 14194
+    },
+    {
+      "match": "nysQQ",
+      "image_id": 34213
+    },
+    {
+      "match": "nysDerp",
+      "image_id": 27011
+    },
+    {
+      "match": "nysLove",
+      "image_id": 34496
+    },
+    {
+      "match": "nysHype",
+      "image_id": 34515
+    },
+    {
+      "match": "nysHug",
+      "image_id": 34620
+    },
+    {
+      "match": "nysCool",
+      "image_id": 34798
+    },
+    {
+      "match": "nysRage",
+      "image_id": 34804
+    },
+    {
+      "match": "nysHi",
+      "image_id": 34800
+    }
+  ]
+}

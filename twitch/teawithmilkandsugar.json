@@ -1,1 +1,67 @@
-{"name":"twitch-sub-teawithmilkandsugar","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"twmCry","image_id":77268},{"match":"twmP1","image_id":102425},{"match":"twmP2","image_id":102426},{"match":"twmDank","image_id":84542},{"match":"twmLOL","image_id":45582},{"match":"twmLore","image_id":26266},{"match":"twmBag","image_id":26796},{"match":"twmGasm","image_id":26797},{"match":"twmHype","image_id":26798},{"match":"twmKappa","image_id":56394},{"match":"twmRekt","image_id":43854},{"match":"twmLove","image_id":77346},{"match":"twm1","image_id":81738},{"match":"twmSuh","image_id":95581},{"match":"twmDude","image_id":95582}]}
+{
+  "name": "twitch-sub-teawithmilkandsugar",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "twmCry",
+      "image_id": 77268
+    },
+    {
+      "match": "twmP1",
+      "image_id": 102425
+    },
+    {
+      "match": "twmP2",
+      "image_id": 102426
+    },
+    {
+      "match": "twmDank",
+      "image_id": 84542
+    },
+    {
+      "match": "twmLOL",
+      "image_id": 45582
+    },
+    {
+      "match": "twmLore",
+      "image_id": 26266
+    },
+    {
+      "match": "twmBag",
+      "image_id": 26796
+    },
+    {
+      "match": "twmGasm",
+      "image_id": 26797
+    },
+    {
+      "match": "twmHype",
+      "image_id": 26798
+    },
+    {
+      "match": "twmKappa",
+      "image_id": 56394
+    },
+    {
+      "match": "twmRekt",
+      "image_id": 43854
+    },
+    {
+      "match": "twmLove",
+      "image_id": 77346
+    },
+    {
+      "match": "twm1",
+      "image_id": 81738
+    },
+    {
+      "match": "twmSuh",
+      "image_id": 95581
+    },
+    {
+      "match": "twmDude",
+      "image_id": 95582
+    }
+  ]
+}

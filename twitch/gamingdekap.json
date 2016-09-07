@@ -1,1 +1,31 @@
-{"name":"twitch-sub-gamingdekap","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dekapWow","image_id":89435},{"match":"dekapEcpc","image_id":78176},{"match":"dekapFatty","image_id":78177},{"match":"dekapPa","image_id":88875},{"match":"dekap3","image_id":89576},{"match":"dekapBad","image_id":108594}]}
+{
+  "name": "twitch-sub-gamingdekap",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dekapWow",
+      "image_id": 89435
+    },
+    {
+      "match": "dekapEcpc",
+      "image_id": 78176
+    },
+    {
+      "match": "dekapFatty",
+      "image_id": 78177
+    },
+    {
+      "match": "dekapPa",
+      "image_id": 88875
+    },
+    {
+      "match": "dekap3",
+      "image_id": 89576
+    },
+    {
+      "match": "dekapBad",
+      "image_id": 108594
+    }
+  ]
+}

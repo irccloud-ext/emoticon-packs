@@ -1,1 +1,39 @@
-{"name":"twitch-sub-onclsam_hd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"oshdRage","image_id":24280},{"match":"oshdMdr","image_id":28643},{"match":"oshdSub","image_id":52633},{"match":"oshdDon","image_id":109298},{"match":"oshdSalut","image_id":79465},{"match":"oshdFail","image_id":109299},{"match":"oshdGg","image_id":109294},{"match":"oshdTalent","image_id":109289}]}
+{
+  "name": "twitch-sub-onclsam_hd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "oshdRage",
+      "image_id": 24280
+    },
+    {
+      "match": "oshdMdr",
+      "image_id": 28643
+    },
+    {
+      "match": "oshdSub",
+      "image_id": 52633
+    },
+    {
+      "match": "oshdDon",
+      "image_id": 109298
+    },
+    {
+      "match": "oshdSalut",
+      "image_id": 79465
+    },
+    {
+      "match": "oshdFail",
+      "image_id": 109299
+    },
+    {
+      "match": "oshdGg",
+      "image_id": 109294
+    },
+    {
+      "match": "oshdTalent",
+      "image_id": 109289
+    }
+  ]
+}

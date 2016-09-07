@@ -1,1 +1,23 @@
-{"name":"twitch-sub-strandedorange","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pstewSad","image_id":105160},{"match":"pstewYara","image_id":102201},{"match":"pstewHype","image_id":101134},{"match":"pstewOh","image_id":104222}]}
+{
+  "name": "twitch-sub-strandedorange",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pstewSad",
+      "image_id": 105160
+    },
+    {
+      "match": "pstewYara",
+      "image_id": 102201
+    },
+    {
+      "match": "pstewHype",
+      "image_id": 101134
+    },
+    {
+      "match": "pstewOh",
+      "image_id": 104222
+    }
+  ]
+}

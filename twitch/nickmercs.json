@@ -1,1 +1,127 @@
-{"name":"twitch-sub-nickmercs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nickmercsRIP","image_id":17396},{"match":"nickmercsLFG","image_id":18150},{"match":"nickmercsKAPPA","image_id":20512},{"match":"nickmercsRE","image_id":49844},{"match":"nickmercsRAGE","image_id":17291},{"match":"nickmercsOD","image_id":39915},{"match":"nickmercsCH","image_id":46640},{"match":"nickmercsRO","image_id":47716},{"match":"nickmercsGG","image_id":49088},{"match":"nickmercsHOT","image_id":56931},{"match":"nickmercsFAM","image_id":55849},{"match":"nickmercsVIBE","image_id":56928},{"match":"nickmercsYOU","image_id":59591},{"match":"nickmercs11","image_id":61173},{"match":"nickmercsACE","image_id":61290},{"match":"nickmercsSTEVE","image_id":62955},{"match":"nickmercsLOVE","image_id":67411},{"match":"nickmercsAMPZ","image_id":67421},{"match":"nickmercsRITE","image_id":71106},{"match":"nickmercsNS","image_id":75415},{"match":"nickmercsF","image_id":77727},{"match":"nickmercsFLEX","image_id":77728},{"match":"nickmercsB","image_id":80687},{"match":"nickmercsL","image_id":85070},{"match":"nickmercsSS","image_id":85071},{"match":"nickmercsSH","image_id":87360},{"match":"nickmercsC","image_id":86138},{"match":"nickmercsYA","image_id":90745},{"match":"nickmercsHY","image_id":90756},{"match":"nickmercsLY","image_id":96083}]}
+{
+  "name": "twitch-sub-nickmercs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nickmercsRIP",
+      "image_id": 17396
+    },
+    {
+      "match": "nickmercsLFG",
+      "image_id": 18150
+    },
+    {
+      "match": "nickmercsKAPPA",
+      "image_id": 20512
+    },
+    {
+      "match": "nickmercsRE",
+      "image_id": 49844
+    },
+    {
+      "match": "nickmercsRAGE",
+      "image_id": 17291
+    },
+    {
+      "match": "nickmercsOD",
+      "image_id": 39915
+    },
+    {
+      "match": "nickmercsCH",
+      "image_id": 46640
+    },
+    {
+      "match": "nickmercsRO",
+      "image_id": 47716
+    },
+    {
+      "match": "nickmercsGG",
+      "image_id": 49088
+    },
+    {
+      "match": "nickmercsHOT",
+      "image_id": 56931
+    },
+    {
+      "match": "nickmercsFAM",
+      "image_id": 55849
+    },
+    {
+      "match": "nickmercsVIBE",
+      "image_id": 56928
+    },
+    {
+      "match": "nickmercsYOU",
+      "image_id": 59591
+    },
+    {
+      "match": "nickmercs11",
+      "image_id": 61173
+    },
+    {
+      "match": "nickmercsACE",
+      "image_id": 61290
+    },
+    {
+      "match": "nickmercsSTEVE",
+      "image_id": 62955
+    },
+    {
+      "match": "nickmercsLOVE",
+      "image_id": 67411
+    },
+    {
+      "match": "nickmercsAMPZ",
+      "image_id": 67421
+    },
+    {
+      "match": "nickmercsRITE",
+      "image_id": 71106
+    },
+    {
+      "match": "nickmercsNS",
+      "image_id": 75415
+    },
+    {
+      "match": "nickmercsF",
+      "image_id": 77727
+    },
+    {
+      "match": "nickmercsFLEX",
+      "image_id": 77728
+    },
+    {
+      "match": "nickmercsB",
+      "image_id": 80687
+    },
+    {
+      "match": "nickmercsL",
+      "image_id": 85070
+    },
+    {
+      "match": "nickmercsSS",
+      "image_id": 85071
+    },
+    {
+      "match": "nickmercsSH",
+      "image_id": 87360
+    },
+    {
+      "match": "nickmercsC",
+      "image_id": 86138
+    },
+    {
+      "match": "nickmercsYA",
+      "image_id": 90745
+    },
+    {
+      "match": "nickmercsHY",
+      "image_id": 90756
+    },
+    {
+      "match": "nickmercsLY",
+      "image_id": 96083
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-gamingawesomeyt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"awesomeCat","image_id":66435},{"match":"awesomeCupcake","image_id":66436}]}
+{
+  "name": "twitch-sub-gamingawesomeyt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "awesomeCat",
+      "image_id": 66435
+    },
+    {
+      "match": "awesomeCupcake",
+      "image_id": 66436
+    }
+  ]
+}

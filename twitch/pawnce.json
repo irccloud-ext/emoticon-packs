@@ -1,1 +1,39 @@
-{"name":"twitch-sub-pawnce","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pawnArch","image_id":23854},{"match":"pawnLance","image_id":75784},{"match":"pawnFlag","image_id":75786},{"match":"pawnJarvan","image_id":71679},{"match":"pawnTsu","image_id":85509},{"match":"pawnYakuza","image_id":74211},{"match":"pawnGendo","image_id":106734},{"match":"pawnQ","image_id":106620}]}
+{
+  "name": "twitch-sub-pawnce",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pawnArch",
+      "image_id": 23854
+    },
+    {
+      "match": "pawnLance",
+      "image_id": 75784
+    },
+    {
+      "match": "pawnFlag",
+      "image_id": 75786
+    },
+    {
+      "match": "pawnJarvan",
+      "image_id": 71679
+    },
+    {
+      "match": "pawnTsu",
+      "image_id": 85509
+    },
+    {
+      "match": "pawnYakuza",
+      "image_id": 74211
+    },
+    {
+      "match": "pawnGendo",
+      "image_id": 106734
+    },
+    {
+      "match": "pawnQ",
+      "image_id": 106620
+    }
+  ]
+}

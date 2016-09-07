@@ -1,1 +1,47 @@
-{"name":"twitch-sub-pantoufl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pantouflBORDEL","image_id":49698},{"match":"pantouflRIP","image_id":51527},{"match":"pantouflETBIM","image_id":51515},{"match":"pantouflPRO","image_id":56109},{"match":"pantouflPASRP","image_id":69176},{"match":"pantouflRAGE","image_id":68760},{"match":"pantouflNEWSUB","image_id":97470},{"match":"pantouflGUITARE","image_id":97469},{"match":"pantouflFRAGILE","image_id":89401},{"match":"pantouflBILLET","image_id":106596}]}
+{
+  "name": "twitch-sub-pantoufl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pantouflBORDEL",
+      "image_id": 49698
+    },
+    {
+      "match": "pantouflRIP",
+      "image_id": 51527
+    },
+    {
+      "match": "pantouflETBIM",
+      "image_id": 51515
+    },
+    {
+      "match": "pantouflPRO",
+      "image_id": 56109
+    },
+    {
+      "match": "pantouflPASRP",
+      "image_id": 69176
+    },
+    {
+      "match": "pantouflRAGE",
+      "image_id": 68760
+    },
+    {
+      "match": "pantouflNEWSUB",
+      "image_id": 97470
+    },
+    {
+      "match": "pantouflGUITARE",
+      "image_id": 97469
+    },
+    {
+      "match": "pantouflFRAGILE",
+      "image_id": 89401
+    },
+    {
+      "match": "pantouflBILLET",
+      "image_id": 106596
+    }
+  ]
+}

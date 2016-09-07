@@ -1,1 +1,31 @@
-{"name":"twitch-sub-jayex23","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jayUscrib","image_id":10342},{"match":"jayRekt","image_id":10341},{"match":"jayScrib","image_id":12095},{"match":"jayFreddo","image_id":28290},{"match":"jaySub","image_id":64502},{"match":"jayLove","image_id":64499}]}
+{
+  "name": "twitch-sub-jayex23",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jayUscrib",
+      "image_id": 10342
+    },
+    {
+      "match": "jayRekt",
+      "image_id": 10341
+    },
+    {
+      "match": "jayScrib",
+      "image_id": 12095
+    },
+    {
+      "match": "jayFreddo",
+      "image_id": 28290
+    },
+    {
+      "match": "jaySub",
+      "image_id": 64502
+    },
+    {
+      "match": "jayLove",
+      "image_id": 64499
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"twitch-sub-cosmowright","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"narciBONK","image_id":1434},{"match":"narciRushJet","image_id":3745},{"match":"narciPizza","image_id":10028},{"match":"narciStamp","image_id":108873},{"match":"narciLook","image_id":81770},{"match":"narciSmile","image_id":81771},{"match":"narciTongue","image_id":110702}]}
+{
+  "name": "twitch-sub-cosmowright",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "narciBONK",
+      "image_id": 1434
+    },
+    {
+      "match": "narciRushJet",
+      "image_id": 3745
+    },
+    {
+      "match": "narciPizza",
+      "image_id": 10028
+    },
+    {
+      "match": "narciStamp",
+      "image_id": 108873
+    },
+    {
+      "match": "narciLook",
+      "image_id": 81770
+    },
+    {
+      "match": "narciSmile",
+      "image_id": 81771
+    },
+    {
+      "match": "narciTongue",
+      "image_id": 110702
+    }
+  ]
+}

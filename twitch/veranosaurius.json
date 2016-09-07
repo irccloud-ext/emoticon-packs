@@ -1,1 +1,31 @@
-{"name":"twitch-sub-veranosaurius","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"veraPanties","image_id":39959},{"match":"veraShark","image_id":46691},{"match":"veraRage","image_id":84429},{"match":"veraPalm","image_id":86431},{"match":"veraHype","image_id":85247},{"match":"veraBan","image_id":101201}]}
+{
+  "name": "twitch-sub-veranosaurius",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "veraPanties",
+      "image_id": 39959
+    },
+    {
+      "match": "veraShark",
+      "image_id": 46691
+    },
+    {
+      "match": "veraRage",
+      "image_id": 84429
+    },
+    {
+      "match": "veraPalm",
+      "image_id": 86431
+    },
+    {
+      "match": "veraHype",
+      "image_id": 85247
+    },
+    {
+      "match": "veraBan",
+      "image_id": 101201
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-zmiju97","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zmiTutaj","image_id":23229},{"match":"zmiSub","image_id":48003},{"match":"zmiSiemka","image_id":48410},{"match":"zmiLufa","image_id":111367}]}
+{
+  "name": "twitch-sub-zmiju97",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zmiTutaj",
+      "image_id": 23229
+    },
+    {
+      "match": "zmiSub",
+      "image_id": 48003
+    },
+    {
+      "match": "zmiSiemka",
+      "image_id": 48410
+    },
+    {
+      "match": "zmiLufa",
+      "image_id": 111367
+    }
+  ]
+}

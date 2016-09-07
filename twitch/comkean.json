@@ -1,1 +1,23 @@
-{"name":"twitch-sub-comkean","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"comkeanHype","image_id":58111},{"match":"comkeanRIP","image_id":58112},{"match":"comkeanDudeArmy","image_id":56278},{"match":"comkeanHeydude","image_id":56279}]}
+{
+  "name": "twitch-sub-comkean",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "comkeanHype",
+      "image_id": 58111
+    },
+    {
+      "match": "comkeanRIP",
+      "image_id": 58112
+    },
+    {
+      "match": "comkeanDudeArmy",
+      "image_id": 56278
+    },
+    {
+      "match": "comkeanHeydude",
+      "image_id": 56279
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-garryschool","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"choucrouteKiss","image_id":46247},{"match":"choucrouteTwerk","image_id":99813},{"match":"choucrouteRip","image_id":99811},{"match":"choucrouteGs","image_id":99810},{"match":"choucrouteGg","image_id":70787},{"match":"choucrouteMoney","image_id":70789},{"match":"choucroutePsy","image_id":70016},{"match":"choucrouteSub","image_id":86827},{"match":"choucrouteThug","image_id":106423},{"match":"choucrouteNorp","image_id":106424}]}
+{
+  "name": "twitch-sub-garryschool",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "choucrouteKiss",
+      "image_id": 46247
+    },
+    {
+      "match": "choucrouteTwerk",
+      "image_id": 99813
+    },
+    {
+      "match": "choucrouteRip",
+      "image_id": 99811
+    },
+    {
+      "match": "choucrouteGs",
+      "image_id": 99810
+    },
+    {
+      "match": "choucrouteGg",
+      "image_id": 70787
+    },
+    {
+      "match": "choucrouteMoney",
+      "image_id": 70789
+    },
+    {
+      "match": "choucroutePsy",
+      "image_id": 70016
+    },
+    {
+      "match": "choucrouteSub",
+      "image_id": 86827
+    },
+    {
+      "match": "choucrouteThug",
+      "image_id": 106423
+    },
+    {
+      "match": "choucrouteNorp",
+      "image_id": 106424
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-adrelina","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"adrelinaS","image_id":74318},{"match":"adrelinaC","image_id":72896},{"match":"adrelinaV","image_id":72895},{"match":"adrelinaE","image_id":71927},{"match":"adrelinaP","image_id":72135},{"match":"adrelinaF","image_id":74233}]}
+{
+  "name": "twitch-sub-adrelina",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "adrelinaS",
+      "image_id": 74318
+    },
+    {
+      "match": "adrelinaC",
+      "image_id": 72896
+    },
+    {
+      "match": "adrelinaV",
+      "image_id": 72895
+    },
+    {
+      "match": "adrelinaE",
+      "image_id": 71927
+    },
+    {
+      "match": "adrelinaP",
+      "image_id": 72135
+    },
+    {
+      "match": "adrelinaF",
+      "image_id": 74233
+    }
+  ]
+}

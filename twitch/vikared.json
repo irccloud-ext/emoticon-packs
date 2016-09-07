@@ -1,1 +1,31 @@
-{"name":"twitch-sub-vikared","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vikaLemon","image_id":75730},{"match":"vikaLove","image_id":75564},{"match":"vikaSad","image_id":71652},{"match":"vikaWow","image_id":71892},{"match":"vikaGasm","image_id":90778},{"match":"vikaVIKA","image_id":90791}]}
+{
+  "name": "twitch-sub-vikared",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vikaLemon",
+      "image_id": 75730
+    },
+    {
+      "match": "vikaLove",
+      "image_id": 75564
+    },
+    {
+      "match": "vikaSad",
+      "image_id": 71652
+    },
+    {
+      "match": "vikaWow",
+      "image_id": 71892
+    },
+    {
+      "match": "vikaGasm",
+      "image_id": 90778
+    },
+    {
+      "match": "vikaVIKA",
+      "image_id": 90791
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-kusieru","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kusikusiTiger","image_id":111640},{"match":"kusikusiOve","image_id":87476},{"match":"kusikusiKusi","image_id":87474},{"match":"kusikusiOhanapu","image_id":110747}]}
+{
+  "name": "twitch-sub-kusieru",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kusikusiTiger",
+      "image_id": 111640
+    },
+    {
+      "match": "kusikusiOve",
+      "image_id": 87476
+    },
+    {
+      "match": "kusikusiKusi",
+      "image_id": 87474
+    },
+    {
+      "match": "kusikusiOhanapu",
+      "image_id": 110747
+    }
+  ]
+}

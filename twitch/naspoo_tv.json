@@ -1,1 +1,23 @@
-{"name":"twitch-sub-naspoo_tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"naspoomadKrivogledovo","image_id":85787},{"match":"naspoomadNaspooshock","image_id":85786},{"match":"naspoomadSmile","image_id":87374},{"match":"naspoomadAce","image_id":87376}]}
+{
+  "name": "twitch-sub-naspoo_tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "naspoomadKrivogledovo",
+      "image_id": 85787
+    },
+    {
+      "match": "naspoomadNaspooshock",
+      "image_id": 85786
+    },
+    {
+      "match": "naspoomadSmile",
+      "image_id": 87374
+    },
+    {
+      "match": "naspoomadAce",
+      "image_id": 87376
+    }
+  ]
+}

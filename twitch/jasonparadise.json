@@ -1,1 +1,39 @@
-{"name":"twitch-sub-jasonparadise","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jpara100","image_id":99855},{"match":"jparaLove","image_id":80122},{"match":"jparaLewd","image_id":80125},{"match":"jparaGasm","image_id":80126},{"match":"jparaHype","image_id":80123},{"match":"jparaWave","image_id":80121},{"match":"jparaMLG","image_id":80124},{"match":"jparaRekt","image_id":102028}]}
+{
+  "name": "twitch-sub-jasonparadise",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jpara100",
+      "image_id": 99855
+    },
+    {
+      "match": "jparaLove",
+      "image_id": 80122
+    },
+    {
+      "match": "jparaLewd",
+      "image_id": 80125
+    },
+    {
+      "match": "jparaGasm",
+      "image_id": 80126
+    },
+    {
+      "match": "jparaHype",
+      "image_id": 80123
+    },
+    {
+      "match": "jparaWave",
+      "image_id": 80121
+    },
+    {
+      "match": "jparaMLG",
+      "image_id": 80124
+    },
+    {
+      "match": "jparaRekt",
+      "image_id": 102028
+    }
+  ]
+}

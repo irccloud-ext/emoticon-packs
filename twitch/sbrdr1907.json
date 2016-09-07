@@ -1,1 +1,31 @@
-{"name":"twitch-sub-sbrdr1907","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sbr10","image_id":44170},{"match":"sbrHype","image_id":44171},{"match":"sbrGasm","image_id":66833},{"match":"sbrEhh","image_id":70221},{"match":"sbrFeels","image_id":70222},{"match":"sbrNo","image_id":70223}]}
+{
+  "name": "twitch-sub-sbrdr1907",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sbr10",
+      "image_id": 44170
+    },
+    {
+      "match": "sbrHype",
+      "image_id": 44171
+    },
+    {
+      "match": "sbrGasm",
+      "image_id": 66833
+    },
+    {
+      "match": "sbrEhh",
+      "image_id": 70221
+    },
+    {
+      "match": "sbrFeels",
+      "image_id": 70222
+    },
+    {
+      "match": "sbrNo",
+      "image_id": 70223
+    }
+  ]
+}

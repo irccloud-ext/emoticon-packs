@@ -1,1 +1,47 @@
-{"name":"twitch-sub-fatefalls","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wurfFizz","image_id":2485},{"match":"wurfFisherZ","image_id":8889},{"match":"wurfDoge","image_id":8888},{"match":"wurfRIP","image_id":8991},{"match":"wurfMessage","image_id":13974},{"match":"wurfCalculated","image_id":13975},{"match":"wurfBait","image_id":13976},{"match":"wurfToxic","image_id":13977},{"match":"wurfKawaiiD","image_id":19611},{"match":"wurfH","image_id":98139}]}
+{
+  "name": "twitch-sub-fatefalls",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wurfFizz",
+      "image_id": 2485
+    },
+    {
+      "match": "wurfFisherZ",
+      "image_id": 8889
+    },
+    {
+      "match": "wurfDoge",
+      "image_id": 8888
+    },
+    {
+      "match": "wurfRIP",
+      "image_id": 8991
+    },
+    {
+      "match": "wurfMessage",
+      "image_id": 13974
+    },
+    {
+      "match": "wurfCalculated",
+      "image_id": 13975
+    },
+    {
+      "match": "wurfBait",
+      "image_id": 13976
+    },
+    {
+      "match": "wurfToxic",
+      "image_id": 13977
+    },
+    {
+      "match": "wurfKawaiiD",
+      "image_id": 19611
+    },
+    {
+      "match": "wurfH",
+      "image_id": 98139
+    }
+  ]
+}

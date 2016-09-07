@@ -1,1 +1,39 @@
-{"name":"twitch-sub-justjamiehdg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hdgLove","image_id":105192},{"match":"hdgGasm","image_id":85624},{"match":"hdgHype","image_id":83436},{"match":"hdgSubHype","image_id":83704},{"match":"hdgYoBro","image_id":83703},{"match":"hdgArmy","image_id":85679},{"match":"hdgKitty","image_id":105047},{"match":"hdgTcats","image_id":105048}]}
+{
+  "name": "twitch-sub-justjamiehdg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hdgLove",
+      "image_id": 105192
+    },
+    {
+      "match": "hdgGasm",
+      "image_id": 85624
+    },
+    {
+      "match": "hdgHype",
+      "image_id": 83436
+    },
+    {
+      "match": "hdgSubHype",
+      "image_id": 83704
+    },
+    {
+      "match": "hdgYoBro",
+      "image_id": 83703
+    },
+    {
+      "match": "hdgArmy",
+      "image_id": 85679
+    },
+    {
+      "match": "hdgJappa",
+      "image_id": 112098
+    },
+    {
+      "match": "hdgKitty",
+      "image_id": 112177
+    }
+  ]
+}

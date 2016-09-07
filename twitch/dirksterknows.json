@@ -1,1 +1,19 @@
-{"name":"twitch-sub-dirksterknows","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dirkHYPE","image_id":109781},{"match":"dirkLOSER","image_id":82817},{"match":"dirkRAGE","image_id":109947}]}
+{
+  "name": "twitch-sub-dirksterknows",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dirkHYPE",
+      "image_id": 109781
+    },
+    {
+      "match": "dirkLOSER",
+      "image_id": 82817
+    },
+    {
+      "match": "dirkRAGE",
+      "image_id": 109947
+    }
+  ]
+}

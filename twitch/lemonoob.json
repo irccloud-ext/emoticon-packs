@@ -1,1 +1,31 @@
-{"name":"twitch-sub-lemonoob","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lemonbLIMAO","image_id":27274},{"match":"lemonbPUG","image_id":33314},{"match":"lemonbGG","image_id":25104},{"match":"lemonbCry","image_id":25324},{"match":"lemonbRage","image_id":27279},{"match":"lemonbPagodinho","image_id":33315}]}
+{
+  "name": "twitch-sub-lemonoob",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lemonbLIMAO",
+      "image_id": 27274
+    },
+    {
+      "match": "lemonbPUG",
+      "image_id": 33314
+    },
+    {
+      "match": "lemonbGG",
+      "image_id": 25104
+    },
+    {
+      "match": "lemonbCry",
+      "image_id": 25324
+    },
+    {
+      "match": "lemonbRage",
+      "image_id": 27279
+    },
+    {
+      "match": "lemonbPagodinho",
+      "image_id": 33315
+    }
+  ]
+}

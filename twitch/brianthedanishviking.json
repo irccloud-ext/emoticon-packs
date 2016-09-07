@@ -1,1 +1,39 @@
-{"name":"twitch-sub-brianthedanishviking","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"btdvKappa","image_id":35364},{"match":"btdvVikqq","image_id":30663},{"match":"btdvVikgasm","image_id":30661},{"match":"btdvOpmedhammeren","image_id":30660},{"match":"btdvPDejlig","image_id":40975},{"match":"btdvBoosted","image_id":49333},{"match":"btdvRIP","image_id":48813},{"match":"btdvMadlife","image_id":48881}]}
+{
+  "name": "twitch-sub-brianthedanishviking",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "btdvKappa",
+      "image_id": 35364
+    },
+    {
+      "match": "btdvVikqq",
+      "image_id": 30663
+    },
+    {
+      "match": "btdvVikgasm",
+      "image_id": 30661
+    },
+    {
+      "match": "btdvOpmedhammeren",
+      "image_id": 30660
+    },
+    {
+      "match": "btdvPDejlig",
+      "image_id": 40975
+    },
+    {
+      "match": "btdvBoosted",
+      "image_id": 49333
+    },
+    {
+      "match": "btdvRIP",
+      "image_id": 48813
+    },
+    {
+      "match": "btdvMadlife",
+      "image_id": 48881
+    }
+  ]
+}

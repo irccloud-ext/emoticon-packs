@@ -1,1 +1,39 @@
-{"name":"twitch-sub-netotigr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tigrRage","image_id":59803},{"match":"tigrSub","image_id":49236},{"match":"tigrSuck","image_id":59976},{"match":"tigrLove","image_id":59765},{"match":"tigrCry","image_id":59766},{"match":"tigrTWE","image_id":69685},{"match":"tigrRekt","image_id":69684},{"match":"tigrGG","image_id":71906}]}
+{
+  "name": "twitch-sub-netotigr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tigrRage",
+      "image_id": 59803
+    },
+    {
+      "match": "tigrSub",
+      "image_id": 49236
+    },
+    {
+      "match": "tigrSuck",
+      "image_id": 59976
+    },
+    {
+      "match": "tigrLove",
+      "image_id": 59765
+    },
+    {
+      "match": "tigrCry",
+      "image_id": 59766
+    },
+    {
+      "match": "tigrTWE",
+      "image_id": 69685
+    },
+    {
+      "match": "tigrRekt",
+      "image_id": 69684
+    },
+    {
+      "match": "tigrGG",
+      "image_id": 71906
+    }
+  ]
+}

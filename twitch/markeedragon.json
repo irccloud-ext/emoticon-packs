@@ -1,1 +1,39 @@
-{"name":"twitch-sub-markeedragon","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"markeeDragon","image_id":15130},{"match":"markeeKappa","image_id":15186},{"match":"markeeRip","image_id":15879},{"match":"markeeSurprised","image_id":15880},{"match":"markeeYippee","image_id":32633},{"match":"markeeEve","image_id":32632},{"match":"markeeOcd","image_id":80849},{"match":"markeePie","image_id":83033}]}
+{
+  "name": "twitch-sub-markeedragon",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "markeeDragon",
+      "image_id": 15130
+    },
+    {
+      "match": "markeeKappa",
+      "image_id": 15186
+    },
+    {
+      "match": "markeeRip",
+      "image_id": 15879
+    },
+    {
+      "match": "markeeSurprised",
+      "image_id": 15880
+    },
+    {
+      "match": "markeeYippee",
+      "image_id": 32633
+    },
+    {
+      "match": "markeeEve",
+      "image_id": 32632
+    },
+    {
+      "match": "markeeOcd",
+      "image_id": 80849
+    },
+    {
+      "match": "markeePie",
+      "image_id": 83033
+    }
+  ]
+}

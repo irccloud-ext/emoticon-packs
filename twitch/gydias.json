@@ -1,1 +1,39 @@
-{"name":"twitch-sub-gydias","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gydGood","image_id":66584},{"match":"gydSad","image_id":66583},{"match":"gydSubhype","image_id":37293},{"match":"gydJoie","image_id":66331},{"match":"gydPain","image_id":66330},{"match":"gydHi","image_id":66332},{"match":"gydWOW","image_id":98763},{"match":"gydSalo","image_id":98724}]}
+{
+  "name": "twitch-sub-gydias",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gydGood",
+      "image_id": 66584
+    },
+    {
+      "match": "gydSad",
+      "image_id": 66583
+    },
+    {
+      "match": "gydSubhype",
+      "image_id": 37293
+    },
+    {
+      "match": "gydJoie",
+      "image_id": 66331
+    },
+    {
+      "match": "gydPain",
+      "image_id": 66330
+    },
+    {
+      "match": "gydHi",
+      "image_id": 66332
+    },
+    {
+      "match": "gydWOW",
+      "image_id": 98763
+    },
+    {
+      "match": "gydSalo",
+      "image_id": 98724
+    }
+  ]
+}

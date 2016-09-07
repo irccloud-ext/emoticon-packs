@@ -1,1 +1,31 @@
-{"name":"twitch-sub-lost_pause_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"doyPanterbell","image_id":54551},{"match":"doyHelicopter","image_id":55317},{"match":"doyNep","image_id":55313},{"match":"doyFacepalm","image_id":55311},{"match":"doyNoble","image_id":54552},{"match":"doyBoosto","image_id":56878},{"match":"doyDelay","image_id":57631},{"match":"doyNeko","image_id":83763},{"match":"doyBlanc","image_id":82337},{"match":"doyLag","image_id":88219}]}
+{
+  "name": "twitch-sub-lost_pause_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "doyNep",
+      "image_id": 55313
+    },
+    {
+      "match": "doyFacepalm",
+      "image_id": 55311
+    },
+    {
+      "match": "doyNoble",
+      "image_id": 54552
+    },
+    {
+      "match": "doyNeko",
+      "image_id": 83763
+    },
+    {
+      "match": "doyBlanc",
+      "image_id": 82337
+    },
+    {
+      "match": "doyLag",
+      "image_id": 88219
+    }
+  ]
+}

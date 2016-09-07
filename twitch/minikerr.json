@@ -1,1 +1,43 @@
-{"name":"twitch-sub-minikerr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kerrFirefly","image_id":19394},{"match":"kerrBluesteel","image_id":19393},{"match":"kerrTX","image_id":36778},{"match":"kerrRealtalk","image_id":36777},{"match":"kerrStorytime","image_id":36776},{"match":"kerrDBZ","image_id":36775},{"match":"kerrJuan","image_id":36774},{"match":"kerrAce","image_id":36773},{"match":"kerrHundred","image_id":36772}]}
+{
+  "name": "twitch-sub-minikerr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kerrFirefly",
+      "image_id": 19394
+    },
+    {
+      "match": "kerrBluesteel",
+      "image_id": 19393
+    },
+    {
+      "match": "kerrTX",
+      "image_id": 36778
+    },
+    {
+      "match": "kerrRealtalk",
+      "image_id": 36777
+    },
+    {
+      "match": "kerrStorytime",
+      "image_id": 36776
+    },
+    {
+      "match": "kerrDBZ",
+      "image_id": 36775
+    },
+    {
+      "match": "kerrJuan",
+      "image_id": 36774
+    },
+    {
+      "match": "kerrAce",
+      "image_id": 36773
+    },
+    {
+      "match": "kerrHundred",
+      "image_id": 36772
+    }
+  ]
+}

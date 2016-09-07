@@ -1,1 +1,43 @@
-{"name":"twitch-sub-iobagglive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bagDaca","image_id":16508},{"match":"bagGG","image_id":16507},{"match":"bagNinja","image_id":17134},{"match":"bagPulta","image_id":17135},{"match":"bagShluba","image_id":18118},{"match":"bagAs","image_id":18121},{"match":"bagPizza","image_id":18122},{"match":"bagBorcanie","image_id":35592},{"match":"bagPish","image_id":45409}]}
+{
+  "name": "twitch-sub-iobagglive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bagDaca",
+      "image_id": 16508
+    },
+    {
+      "match": "bagGG",
+      "image_id": 16507
+    },
+    {
+      "match": "bagNinja",
+      "image_id": 17134
+    },
+    {
+      "match": "bagPulta",
+      "image_id": 17135
+    },
+    {
+      "match": "bagShluba",
+      "image_id": 18118
+    },
+    {
+      "match": "bagAs",
+      "image_id": 18121
+    },
+    {
+      "match": "bagPizza",
+      "image_id": 18122
+    },
+    {
+      "match": "bagBorcanie",
+      "image_id": 35592
+    },
+    {
+      "match": "bagPish",
+      "image_id": 45409
+    }
+  ]
+}

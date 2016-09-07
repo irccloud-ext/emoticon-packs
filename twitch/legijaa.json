@@ -1,1 +1,15 @@
-{"name":"twitch-sub-legijaa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lgjHype","image_id":72888},{"match":"lgjKappa","image_id":72949}]}
+{
+  "name": "twitch-sub-legijaa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lgjHype",
+      "image_id": 72888
+    },
+    {
+      "match": "lgjKappa",
+      "image_id": 72949
+    }
+  ]
+}

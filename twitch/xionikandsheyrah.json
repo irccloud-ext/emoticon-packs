@@ -1,1 +1,39 @@
-{"name":"twitch-sub-xionikandsheyrah","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xionGold","image_id":79855},{"match":"xionRage","image_id":79693},{"match":"xionDing","image_id":79699},{"match":"xionHeart","image_id":83227},{"match":"xionSub","image_id":83292},{"match":"xionFarm","image_id":84103},{"match":"xionSnipe","image_id":84110},{"match":"xionMusic","image_id":84111}]}
+{
+  "name": "twitch-sub-xionikandsheyrah",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xionGold",
+      "image_id": 79855
+    },
+    {
+      "match": "xionRage",
+      "image_id": 79693
+    },
+    {
+      "match": "xionDing",
+      "image_id": 79699
+    },
+    {
+      "match": "xionHeart",
+      "image_id": 83227
+    },
+    {
+      "match": "xionSub",
+      "image_id": 83292
+    },
+    {
+      "match": "xionFarm",
+      "image_id": 84103
+    },
+    {
+      "match": "xionSnipe",
+      "image_id": 84110
+    },
+    {
+      "match": "xionMusic",
+      "image_id": 84111
+    }
+  ]
+}

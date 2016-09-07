@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mrshadezz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shadeKappa","image_id":15421},{"match":"shadeRip","image_id":15486},{"match":"shadeAll","image_id":16407},{"match":"shadeRekt","image_id":16408},{"match":"shadeW","image_id":16411},{"match":"shadeMel","image_id":17541}]}
+{
+  "name": "twitch-sub-mrshadezz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shadeKappa",
+      "image_id": 15421
+    },
+    {
+      "match": "shadeRip",
+      "image_id": 15486
+    },
+    {
+      "match": "shadeAll",
+      "image_id": 16407
+    },
+    {
+      "match": "shadeRekt",
+      "image_id": 16408
+    },
+    {
+      "match": "shadeW",
+      "image_id": 16411
+    },
+    {
+      "match": "shadeMel",
+      "image_id": 17541
+    }
+  ]
+}

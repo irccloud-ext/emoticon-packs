@@ -1,1 +1,11 @@
-{"name":"twitch-sub-tehchanceshow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tcsaEmblem","image_id":86514}]}
+{
+  "name": "twitch-sub-tehchanceshow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tcsaEmblem",
+      "image_id": 86514
+    }
+  ]
+}

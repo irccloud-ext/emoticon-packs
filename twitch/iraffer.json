@@ -1,1 +1,39 @@
-{"name":"twitch-sub-iraffer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"raffMwah","image_id":47687},{"match":"raffHemlig","image_id":82877},{"match":"raffEasy","image_id":80860},{"match":"raffGame","image_id":80861},{"match":"raffLife","image_id":80862},{"match":"raffHype","image_id":80863},{"match":"raffBlubb","image_id":83118},{"match":"raffRIP","image_id":95249}]}
+{
+  "name": "twitch-sub-iraffer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "raffEmilitoo",
+      "image_id": 112486
+    },
+    {
+      "match": "raffHype",
+      "image_id": 80863
+    },
+    {
+      "match": "raffBlubb",
+      "image_id": 83118
+    },
+    {
+      "match": "raffNRG",
+      "image_id": 112162
+    },
+    {
+      "match": "raffYammyn",
+      "image_id": 112188
+    },
+    {
+      "match": "raffRaffer",
+      "image_id": 112189
+    },
+    {
+      "match": "raffAdapting",
+      "image_id": 112190
+    },
+    {
+      "match": "raffDimi",
+      "image_id": 112191
+    }
+  ]
+}

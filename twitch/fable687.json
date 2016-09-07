@@ -1,1 +1,31 @@
-{"name":"twitch-sub-fable687","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fabbyWabby","image_id":5647},{"match":"fabbyJaximus","image_id":7408},{"match":"fabbyHail","image_id":13615},{"match":"fabbyDraven","image_id":24964},{"match":"fabbyGatekeeper","image_id":24965},{"match":"fabbyVayne","image_id":25039}]}
+{
+  "name": "twitch-sub-fable687",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fabbyWabby",
+      "image_id": 5647
+    },
+    {
+      "match": "fabbyJaximus",
+      "image_id": 7408
+    },
+    {
+      "match": "fabbyHail",
+      "image_id": 13615
+    },
+    {
+      "match": "fabbyDraven",
+      "image_id": 24964
+    },
+    {
+      "match": "fabbyGatekeeper",
+      "image_id": 24965
+    },
+    {
+      "match": "fabbyVayne",
+      "image_id": 25039
+    }
+  ]
+}

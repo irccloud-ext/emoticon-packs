@@ -1,1 +1,39 @@
-{"name":"twitch-sub-bunkernerd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bunkerBan","image_id":53840},{"match":"bunkerRenato","image_id":29002},{"match":"bunkerSirene","image_id":29003},{"match":"bunkerNoob","image_id":48618},{"match":"bunkerVac","image_id":48614},{"match":"bunkerTransa","image_id":54584},{"match":"bunkerLove","image_id":96799},{"match":"bunkerWut","image_id":96796}]}
+{
+  "name": "twitch-sub-bunkernerd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bunkerBan",
+      "image_id": 53840
+    },
+    {
+      "match": "bunkerRenato",
+      "image_id": 29002
+    },
+    {
+      "match": "bunkerSirene",
+      "image_id": 29003
+    },
+    {
+      "match": "bunkerNoob",
+      "image_id": 48618
+    },
+    {
+      "match": "bunkerVac",
+      "image_id": 48614
+    },
+    {
+      "match": "bunkerTransa",
+      "image_id": 54584
+    },
+    {
+      "match": "bunkerLove",
+      "image_id": 96799
+    },
+    {
+      "match": "bunkerWut",
+      "image_id": 96796
+    }
+  ]
+}

@@ -1,1 +1,43 @@
-{"name":"twitch-sub-thejustinflynn","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tjfJsweg","image_id":3822},{"match":"tjfPizza","image_id":3865},{"match":"tjfBlame","image_id":3904},{"match":"tjfGooble","image_id":4004},{"match":"tjfLord","image_id":5270},{"match":"tjfSweat","image_id":6943},{"match":"tjfBat","image_id":6944},{"match":"tjfRekt","image_id":13891},{"match":"tjfGg","image_id":13893}]}
+{
+  "name": "twitch-sub-thejustinflynn",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tjfJsweg",
+      "image_id": 3822
+    },
+    {
+      "match": "tjfPizza",
+      "image_id": 3865
+    },
+    {
+      "match": "tjfBlame",
+      "image_id": 3904
+    },
+    {
+      "match": "tjfGooble",
+      "image_id": 4004
+    },
+    {
+      "match": "tjfLord",
+      "image_id": 5270
+    },
+    {
+      "match": "tjfSweat",
+      "image_id": 6943
+    },
+    {
+      "match": "tjfBat",
+      "image_id": 6944
+    },
+    {
+      "match": "tjfRekt",
+      "image_id": 13891
+    },
+    {
+      "match": "tjfGg",
+      "image_id": 13893
+    }
+  ]
+}

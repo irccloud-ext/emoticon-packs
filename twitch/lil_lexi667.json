@@ -1,1 +1,47 @@
-{"name":"twitch-sub-lil_lexi667","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lillexiWookie","image_id":88056},{"match":"lillexiHot","image_id":78469},{"match":"lillexiHype","image_id":76200},{"match":"lillexiLove","image_id":76199},{"match":"lillexiRip","image_id":76793},{"match":"lillexiBlush","image_id":76784},{"match":"lillexiRage","image_id":76787},{"match":"lillexiThump","image_id":79262},{"match":"lillexiSWR","image_id":79263},{"match":"lillexiGG","image_id":79527}]}
+{
+  "name": "twitch-sub-lil_lexi667",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lillexiWookie",
+      "image_id": 88056
+    },
+    {
+      "match": "lillexiHot",
+      "image_id": 78469
+    },
+    {
+      "match": "lillexiHype",
+      "image_id": 76200
+    },
+    {
+      "match": "lillexiLove",
+      "image_id": 76199
+    },
+    {
+      "match": "lillexiRip",
+      "image_id": 76793
+    },
+    {
+      "match": "lillexiBlush",
+      "image_id": 76784
+    },
+    {
+      "match": "lillexiRage",
+      "image_id": 76787
+    },
+    {
+      "match": "lillexiThump",
+      "image_id": 79262
+    },
+    {
+      "match": "lillexiSWR",
+      "image_id": 79263
+    },
+    {
+      "match": "lillexiGG",
+      "image_id": 79527
+    }
+  ]
+}

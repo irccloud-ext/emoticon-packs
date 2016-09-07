@@ -1,1 +1,39 @@
-{"name":"twitch-sub-duxativa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"duxaKappa","image_id":38653},{"match":"duxaGato","image_id":44493},{"match":"duxaJado","image_id":86396},{"match":"duxaQueso","image_id":52539},{"match":"duxaWebon","image_id":56036},{"match":"duxaHigato","image_id":84481},{"match":"duxaRata","image_id":84535},{"match":"duxaOld","image_id":104776}]}
+{
+  "name": "twitch-sub-duxativa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "duxaKappa",
+      "image_id": 38653
+    },
+    {
+      "match": "duxaGato",
+      "image_id": 44493
+    },
+    {
+      "match": "duxaJado",
+      "image_id": 86396
+    },
+    {
+      "match": "duxaQueso",
+      "image_id": 52539
+    },
+    {
+      "match": "duxaWebon",
+      "image_id": 56036
+    },
+    {
+      "match": "duxaHigato",
+      "image_id": 84481
+    },
+    {
+      "match": "duxaRata",
+      "image_id": 84535
+    },
+    {
+      "match": "duxaOld",
+      "image_id": 104776
+    }
+  ]
+}

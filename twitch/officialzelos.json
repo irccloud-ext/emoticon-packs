@@ -1,1 +1,19 @@
-{"name":"twitch-sub-officialzelos","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zelosGG","image_id":92190},{"match":"zelosOMG","image_id":92193},{"match":"zelos007","image_id":92206}]}
+{
+  "name": "twitch-sub-officialzelos",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zelosGG",
+      "image_id": 92190
+    },
+    {
+      "match": "zelosOMG",
+      "image_id": 92193
+    },
+    {
+      "match": "zelos007",
+      "image_id": 92206
+    }
+  ]
+}

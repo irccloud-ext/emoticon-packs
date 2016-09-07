@@ -1,1 +1,39 @@
-{"name":"twitch-sub-dailytradingtips","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dttSNIPE","image_id":54393},{"match":"dttRIP","image_id":54392},{"match":"dttGG","image_id":54355},{"match":"dttHYPE","image_id":35119},{"match":"dttFAIL","image_id":39648},{"match":"dttLOVE","image_id":55801},{"match":"dttREKT","image_id":56699},{"match":"dttSONDRE","image_id":54342}]}
+{
+  "name": "twitch-sub-dailytradingtips",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dttSNIPE",
+      "image_id": 54393
+    },
+    {
+      "match": "dttRIP",
+      "image_id": 54392
+    },
+    {
+      "match": "dttGG",
+      "image_id": 54355
+    },
+    {
+      "match": "dttHYPE",
+      "image_id": 35119
+    },
+    {
+      "match": "dttFAIL",
+      "image_id": 39648
+    },
+    {
+      "match": "dttLOVE",
+      "image_id": 55801
+    },
+    {
+      "match": "dttREKT",
+      "image_id": 56699
+    },
+    {
+      "match": "dttSONDRE",
+      "image_id": 54342
+    }
+  ]
+}

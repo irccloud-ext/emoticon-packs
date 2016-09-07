@@ -1,1 +1,15 @@
-{"name":"twitch-sub-themasterbucks","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tmbDealWithIt","image_id":83769},{"match":"tmbShockedFace","image_id":83770}]}
+{
+  "name": "twitch-sub-themasterbucks",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tmbDealWithIt",
+      "image_id": 83769
+    },
+    {
+      "match": "tmbShockedFace",
+      "image_id": 83770
+    }
+  ]
+}

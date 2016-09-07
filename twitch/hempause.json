@@ -1,1 +1,23 @@
-{"name":"twitch-sub-hempause","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hmpHYPE","image_id":88393},{"match":"hmpLOVE","image_id":88392},{"match":"hmpCHEER","image_id":88768},{"match":"hmpGASM","image_id":88769}]}
+{
+  "name": "twitch-sub-hempause",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hmpHYPE",
+      "image_id": 88393
+    },
+    {
+      "match": "hmpLOVE",
+      "image_id": 88392
+    },
+    {
+      "match": "hmpCHEER",
+      "image_id": 88768
+    },
+    {
+      "match": "hmpGASM",
+      "image_id": 88769
+    }
+  ]
+}

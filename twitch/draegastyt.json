@@ -1,1 +1,23 @@
-{"name":"twitch-sub-draegastyt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"draeGasm","image_id":50765},{"match":"draeSub","image_id":50761},{"match":"draePoop","image_id":53505},{"match":"draeKawaii","image_id":57973}]}
+{
+  "name": "twitch-sub-draegastyt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "draeGasm",
+      "image_id": 50765
+    },
+    {
+      "match": "draeSub",
+      "image_id": 50761
+    },
+    {
+      "match": "draePoop",
+      "image_id": 53505
+    },
+    {
+      "match": "draeKawaii",
+      "image_id": 57973
+    }
+  ]
+}

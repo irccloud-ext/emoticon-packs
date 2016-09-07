@@ -1,1 +1,47 @@
-{"name":"twitch-sub-xisuma","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xvxBAM","image_id":82849},{"match":"xvxDERP","image_id":82853},{"match":"xvxNAME","image_id":82854},{"match":"xvxEAR","image_id":82846},{"match":"xvxEVIL","image_id":82852},{"match":"xvxEAT","image_id":82851},{"match":"xvxBANANA","image_id":82848},{"match":"xvxTEA","image_id":82847},{"match":"xvxOMD","image_id":95499},{"match":"xvxRAID","image_id":95500}]}
+{
+  "name": "twitch-sub-xisuma",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xvxBAM",
+      "image_id": 82849
+    },
+    {
+      "match": "xvxDERP",
+      "image_id": 82853
+    },
+    {
+      "match": "xvxNAME",
+      "image_id": 82854
+    },
+    {
+      "match": "xvxEAR",
+      "image_id": 82846
+    },
+    {
+      "match": "xvxEVIL",
+      "image_id": 82852
+    },
+    {
+      "match": "xvxEAT",
+      "image_id": 82851
+    },
+    {
+      "match": "xvxBANANA",
+      "image_id": 82848
+    },
+    {
+      "match": "xvxTEA",
+      "image_id": 82847
+    },
+    {
+      "match": "xvxOMD",
+      "image_id": 95499
+    },
+    {
+      "match": "xvxRAID",
+      "image_id": 95500
+    }
+  ]
+}

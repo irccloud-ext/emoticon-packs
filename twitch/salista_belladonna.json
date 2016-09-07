@@ -1,1 +1,47 @@
-{"name":"twitch-sub-salista_belladonna","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"saliCat","image_id":103163},{"match":"saliSad","image_id":103844},{"match":"saliEvil","image_id":103718},{"match":"saliHerz","image_id":103714},{"match":"saliWow","image_id":93550},{"match":"saliKiss","image_id":93548},{"match":"saliWTF","image_id":101969},{"match":"saliHype","image_id":103916}]}
+{
+  "name": "twitch-sub-salista_belladonna",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "saliCat",
+      "image_id": 103163
+    },
+    {
+      "match": "saliSad",
+      "image_id": 103844
+    },
+    {
+      "match": "saliEvil",
+      "image_id": 103718
+    },
+    {
+      "match": "saliHerz",
+      "image_id": 103714
+    },
+    {
+      "match": "saliWow",
+      "image_id": 93550
+    },
+    {
+      "match": "saliTroll",
+      "image_id": 111932
+    },
+    {
+      "match": "saliKiss",
+      "image_id": 93548
+    },
+    {
+      "match": "saliOMG",
+      "image_id": 112477
+    },
+    {
+      "match": "saliWTF",
+      "image_id": 101969
+    },
+    {
+      "match": "saliHype",
+      "image_id": 103916
+    }
+  ]
+}

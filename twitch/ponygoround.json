@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ponygoround","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ponygrCry","image_id":103173},{"match":"ponygrHansim","image_id":89629},{"match":"ponygrKk","image_id":102767},{"match":"ponygrCat","image_id":102772}]}
+{
+  "name": "twitch-sub-ponygoround",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ponygrCry",
+      "image_id": 103173
+    },
+    {
+      "match": "ponygrHansim",
+      "image_id": 89629
+    },
+    {
+      "match": "ponygrKk",
+      "image_id": 102767
+    },
+    {
+      "match": "ponygrCat",
+      "image_id": 102772
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-esportshtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"eshRekt","image_id":46513},{"match":"eshGG","image_id":46394}]}
+{
+  "name": "twitch-sub-esportshtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "eshRekt",
+      "image_id": 46513
+    },
+    {
+      "match": "eshGG",
+      "image_id": 46394
+    }
+  ]
+}

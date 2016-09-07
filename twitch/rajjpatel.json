@@ -1,1 +1,47 @@
-{"name":"twitch-sub-rajjpatel","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rajjKappa","image_id":3562},{"match":"rajjMic","image_id":4456},{"match":"rajjSlurpee","image_id":4457},{"match":"rajjFire","image_id":19563},{"match":"rajjThump","image_id":22350},{"match":"rajjCHEA","image_id":37318},{"match":"rajjSwipe","image_id":38314},{"match":"rajjElite","image_id":63028},{"match":"rajjTT","image_id":53643},{"match":"rajjAMEN","image_id":51157}]}
+{
+  "name": "twitch-sub-rajjpatel",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rajjKappa",
+      "image_id": 3562
+    },
+    {
+      "match": "rajjMic",
+      "image_id": 4456
+    },
+    {
+      "match": "rajjSlurpee",
+      "image_id": 4457
+    },
+    {
+      "match": "rajjFire",
+      "image_id": 19563
+    },
+    {
+      "match": "rajjThump",
+      "image_id": 22350
+    },
+    {
+      "match": "rajjCHEA",
+      "image_id": 37318
+    },
+    {
+      "match": "rajjSwipe",
+      "image_id": 38314
+    },
+    {
+      "match": "rajjElite",
+      "image_id": 63028
+    },
+    {
+      "match": "rajjTT",
+      "image_id": 53643
+    },
+    {
+      "match": "rajjAMEN",
+      "image_id": 51157
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ghost","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"spookEYE","image_id":95905},{"match":"spookU","image_id":95896},{"match":"spookHYPE","image_id":103807},{"match":"spookPUP","image_id":93407}]}
+{
+  "name": "twitch-sub-ghost",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "spookEYE",
+      "image_id": 95905
+    },
+    {
+      "match": "spookU",
+      "image_id": 95896
+    },
+    {
+      "match": "spookHYPE",
+      "image_id": 103807
+    },
+    {
+      "match": "spookPUP",
+      "image_id": 93407
+    }
+  ]
+}

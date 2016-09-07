@@ -1,1 +1,11 @@
-{"name":"twitch-sub-drollercaster","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"drollerKot","image_id":102481}]}
+{
+  "name": "twitch-sub-drollercaster",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "drollerKot",
+      "image_id": 102481
+    }
+  ]
+}

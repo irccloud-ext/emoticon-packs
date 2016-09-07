@@ -1,1 +1,39 @@
-{"name":"twitch-sub-solek1337","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"solekShila","image_id":38100},{"match":"solekTroll","image_id":38099},{"match":"solekBrocken","image_id":38248},{"match":"solekTroopyhype","image_id":38247},{"match":"solekShilaswag","image_id":38280},{"match":"solekLegit","image_id":41247},{"match":"solekEhh","image_id":41246},{"match":"solekAwp","image_id":41245}]}
+{
+  "name": "twitch-sub-solek1337",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "solekShila",
+      "image_id": 38100
+    },
+    {
+      "match": "solekTroll",
+      "image_id": 38099
+    },
+    {
+      "match": "solekBrocken",
+      "image_id": 38248
+    },
+    {
+      "match": "solekTroopyhype",
+      "image_id": 38247
+    },
+    {
+      "match": "solekShilaswag",
+      "image_id": 38280
+    },
+    {
+      "match": "solekLegit",
+      "image_id": 41247
+    },
+    {
+      "match": "solekEhh",
+      "image_id": 41246
+    },
+    {
+      "match": "solekAwp",
+      "image_id": 41245
+    }
+  ]
+}

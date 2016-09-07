@@ -1,1 +1,31 @@
-{"name":"twitch-sub-reasten","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"reastHype","image_id":64588},{"match":"reastEZ","image_id":66125},{"match":"reastVAC","image_id":66124},{"match":"reastRekt","image_id":66123},{"match":"reastWax","image_id":64516},{"match":"reastRIP","image_id":66129}]}
+{
+  "name": "twitch-sub-reasten",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "reastHype",
+      "image_id": 64588
+    },
+    {
+      "match": "reastEZ",
+      "image_id": 66125
+    },
+    {
+      "match": "reastVAC",
+      "image_id": 66124
+    },
+    {
+      "match": "reastRekt",
+      "image_id": 66123
+    },
+    {
+      "match": "reastWax",
+      "image_id": 64516
+    },
+    {
+      "match": "reastRIP",
+      "image_id": 66129
+    }
+  ]
+}

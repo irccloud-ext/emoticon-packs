@@ -1,1 +1,23 @@
-{"name":"twitch-sub-thewindoh","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"erradoCOMEQUIE","image_id":101832},{"match":"erradoErrado","image_id":101376},{"match":"erradoFade","image_id":101377},{"match":"erradoWHAT","image_id":101509}]}
+{
+  "name": "twitch-sub-thewindoh",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "erradoCOMEQUIE",
+      "image_id": 101832
+    },
+    {
+      "match": "erradoErrado",
+      "image_id": 101376
+    },
+    {
+      "match": "erradoFade",
+      "image_id": 101377
+    },
+    {
+      "match": "erradoWHAT",
+      "image_id": 101509
+    }
+  ]
+}

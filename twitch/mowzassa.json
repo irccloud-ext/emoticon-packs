@@ -1,1 +1,39 @@
-{"name":"twitch-sub-mowzassa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mowLee","image_id":36671},{"match":"mowGank","image_id":36670},{"match":"mowRekt","image_id":37188},{"match":"mowKing","image_id":41437},{"match":"mowSalt","image_id":41435},{"match":"mowGtfo","image_id":41434},{"match":"mowImpakt","image_id":41459},{"match":"mowBeer","image_id":41583}]}
+{
+  "name": "twitch-sub-mowzassa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mowLee",
+      "image_id": 36671
+    },
+    {
+      "match": "mowGank",
+      "image_id": 36670
+    },
+    {
+      "match": "mowRekt",
+      "image_id": 37188
+    },
+    {
+      "match": "mowKing",
+      "image_id": 41437
+    },
+    {
+      "match": "mowSalt",
+      "image_id": 41435
+    },
+    {
+      "match": "mowGtfo",
+      "image_id": 41434
+    },
+    {
+      "match": "mowImpakt",
+      "image_id": 41459
+    },
+    {
+      "match": "mowBeer",
+      "image_id": 41583
+    }
+  ]
+}

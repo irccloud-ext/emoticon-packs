@@ -1,1 +1,147 @@
-{"name":"twitch-sub-castro_1021","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"twerkMM","image_id":65138},{"match":"twerkHype","image_id":65137},{"match":"twerkWoo","image_id":65135},{"match":"twerkEAID","image_id":11858},{"match":"twerkRaid","image_id":69468},{"match":"twerkShhh","image_id":20998},{"match":"twerkRekt","image_id":69227},{"match":"twerkTrain","image_id":26700},{"match":"twerkFail","image_id":26702},{"match":"twerkTrophy","image_id":76877},{"match":"twerkCry","image_id":76876},{"match":"twerkGasm","image_id":29863},{"match":"twerkFDB","image_id":29864},{"match":"twerkYaya","image_id":67055},{"match":"twerkLove","image_id":76879},{"match":"twerkNuke","image_id":34571},{"match":"twerkSalty","image_id":35825},{"match":"twerkRigged","image_id":36116},{"match":"twerkGG","image_id":66221},{"match":"twerkDAB","image_id":104793},{"match":"twerkSup","image_id":101666},{"match":"twerkChamp","image_id":49196},{"match":"twerkPoo","image_id":48606},{"match":"twerkRiot","image_id":51540},{"match":"twerkRIP","image_id":57769},{"match":"twerkWow","image_id":59378},{"match":"twerkWut","image_id":108696},{"match":"twerkKolo","image_id":67056},{"match":"twerkLyin","image_id":68724},{"match":"twerkBut","image_id":67722},{"match":"twerkFat","image_id":85927},{"match":"twerkPita","image_id":85924},{"match":"twerkMug","image_id":99078},{"match":"twerkFeels","image_id":95140},{"match":"twerkThrow","image_id":108549}]}
+{
+  "name": "twitch-sub-castro_1021",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "twerkMM",
+      "image_id": 65138
+    },
+    {
+      "match": "twerkHype",
+      "image_id": 65137
+    },
+    {
+      "match": "twerkWoo",
+      "image_id": 65135
+    },
+    {
+      "match": "twerkEAID",
+      "image_id": 11858
+    },
+    {
+      "match": "twerkRaid",
+      "image_id": 69468
+    },
+    {
+      "match": "twerkShhh",
+      "image_id": 20998
+    },
+    {
+      "match": "twerkRekt",
+      "image_id": 69227
+    },
+    {
+      "match": "twerkTrain",
+      "image_id": 26700
+    },
+    {
+      "match": "twerkFail",
+      "image_id": 26702
+    },
+    {
+      "match": "twerkTrophy",
+      "image_id": 76877
+    },
+    {
+      "match": "twerkCry",
+      "image_id": 76876
+    },
+    {
+      "match": "twerkGasm",
+      "image_id": 29863
+    },
+    {
+      "match": "twerkFDB",
+      "image_id": 29864
+    },
+    {
+      "match": "twerkYaya",
+      "image_id": 67055
+    },
+    {
+      "match": "twerkLove",
+      "image_id": 76879
+    },
+    {
+      "match": "twerkNuke",
+      "image_id": 34571
+    },
+    {
+      "match": "twerkSalty",
+      "image_id": 35825
+    },
+    {
+      "match": "twerkRigged",
+      "image_id": 36116
+    },
+    {
+      "match": "twerkGG",
+      "image_id": 66221
+    },
+    {
+      "match": "twerkDAB",
+      "image_id": 104793
+    },
+    {
+      "match": "twerkSup",
+      "image_id": 101666
+    },
+    {
+      "match": "twerkChamp",
+      "image_id": 49196
+    },
+    {
+      "match": "twerkPoo",
+      "image_id": 48606
+    },
+    {
+      "match": "twerkRiot",
+      "image_id": 51540
+    },
+    {
+      "match": "twerkRIP",
+      "image_id": 57769
+    },
+    {
+      "match": "twerkWow",
+      "image_id": 59378
+    },
+    {
+      "match": "twerkWut",
+      "image_id": 108696
+    },
+    {
+      "match": "twerkKolo",
+      "image_id": 67056
+    },
+    {
+      "match": "twerkLyin",
+      "image_id": 68724
+    },
+    {
+      "match": "twerkBut",
+      "image_id": 67722
+    },
+    {
+      "match": "twerkFat",
+      "image_id": 85927
+    },
+    {
+      "match": "twerkPita",
+      "image_id": 85924
+    },
+    {
+      "match": "twerkMug",
+      "image_id": 99078
+    },
+    {
+      "match": "twerkFeels",
+      "image_id": 95140
+    },
+    {
+      "match": "twerkThrow",
+      "image_id": 108549
+    }
+  ]
+}

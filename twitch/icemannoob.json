@@ -1,1 +1,31 @@
-{"name":"twitch-sub-icemannoob","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"icemanPoogie","image_id":25658},{"match":"icemanFacepalm","image_id":25864},{"match":"icemanRage","image_id":25908},{"match":"icemanFelyne","image_id":25289},{"match":"icemanCheese","image_id":29738},{"match":"icemanDead","image_id":29157}]}
+{
+  "name": "twitch-sub-icemannoob",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "icemanPoogie",
+      "image_id": 25658
+    },
+    {
+      "match": "icemanFacepalm",
+      "image_id": 25864
+    },
+    {
+      "match": "icemanRage",
+      "image_id": 25908
+    },
+    {
+      "match": "icemanFelyne",
+      "image_id": 25289
+    },
+    {
+      "match": "icemanCheese",
+      "image_id": 29738
+    },
+    {
+      "match": "icemanDead",
+      "image_id": 29157
+    }
+  ]
+}

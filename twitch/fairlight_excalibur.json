@@ -1,1 +1,79 @@
-{"name":"twitch-sub-fairlight_excalibur","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fairBro","image_id":18491},{"match":"fairTemp","image_id":18494},{"match":"fairKatana","image_id":28049},{"match":"fairSword","image_id":33877},{"match":"fairHeadshot","image_id":32958},{"match":"fairRain","image_id":32959},{"match":"fairFun","image_id":32957},{"match":"fairDice","image_id":34827},{"match":"fairLove","image_id":109515},{"match":"fairRawr","image_id":53266},{"match":"fairRage","image_id":88450},{"match":"fairTroll","image_id":90346},{"match":"fairPalm","image_id":89879},{"match":"fairChair","image_id":90004},{"match":"fairRIP","image_id":89886},{"match":"fairHype","image_id":89878},{"match":"fairEvil","image_id":89876},{"match":"fairWave","image_id":105937}]}
+{
+  "name": "twitch-sub-fairlight_excalibur",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fairBro",
+      "image_id": 18491
+    },
+    {
+      "match": "fairTemp",
+      "image_id": 18494
+    },
+    {
+      "match": "fairKatana",
+      "image_id": 28049
+    },
+    {
+      "match": "fairSword",
+      "image_id": 33877
+    },
+    {
+      "match": "fairHeadshot",
+      "image_id": 32958
+    },
+    {
+      "match": "fairRain",
+      "image_id": 32959
+    },
+    {
+      "match": "fairFun",
+      "image_id": 32957
+    },
+    {
+      "match": "fairDice",
+      "image_id": 34827
+    },
+    {
+      "match": "fairLove",
+      "image_id": 109515
+    },
+    {
+      "match": "fairRawr",
+      "image_id": 53266
+    },
+    {
+      "match": "fairRage",
+      "image_id": 88450
+    },
+    {
+      "match": "fairTroll",
+      "image_id": 90346
+    },
+    {
+      "match": "fairPalm",
+      "image_id": 89879
+    },
+    {
+      "match": "fairChair",
+      "image_id": 90004
+    },
+    {
+      "match": "fairRIP",
+      "image_id": 89886
+    },
+    {
+      "match": "fairHype",
+      "image_id": 89878
+    },
+    {
+      "match": "fairEvil",
+      "image_id": 89876
+    },
+    {
+      "match": "fairWave",
+      "image_id": 105937
+    }
+  ]
+}

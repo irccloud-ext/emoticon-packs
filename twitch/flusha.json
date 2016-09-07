@@ -1,1 +1,15 @@
-{"name":"twitch-sub-flusha","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"flushaNumba","image_id":65497},{"match":"flushaChamp","image_id":65496}]}
+{
+  "name": "twitch-sub-flusha",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "flushaNumba",
+      "image_id": 65497
+    },
+    {
+      "match": "flushaChamp",
+      "image_id": 65496
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-tejbz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tejbzFace","image_id":7639},{"match":"tejbzZorro","image_id":20097},{"match":"tejbzLbiceps","image_id":68078},{"match":"tejbzRbiceps","image_id":68080},{"match":"tejbzLove","image_id":68260},{"match":"tejbzGasm","image_id":81966},{"match":"tejbzKappa","image_id":81937},{"match":"tejbzWTF","image_id":82172},{"match":"tejbzW","image_id":82170},{"match":"tejbzRage","image_id":82168}]}
+{
+  "name": "twitch-sub-tejbz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tejbzFace",
+      "image_id": 7639
+    },
+    {
+      "match": "tejbzZorro",
+      "image_id": 20097
+    },
+    {
+      "match": "tejbzLbiceps",
+      "image_id": 68078
+    },
+    {
+      "match": "tejbzRbiceps",
+      "image_id": 68080
+    },
+    {
+      "match": "tejbzLove",
+      "image_id": 68260
+    },
+    {
+      "match": "tejbzGasm",
+      "image_id": 81966
+    },
+    {
+      "match": "tejbzKappa",
+      "image_id": 81937
+    },
+    {
+      "match": "tejbzWTF",
+      "image_id": 82172
+    },
+    {
+      "match": "tejbzW",
+      "image_id": 82170
+    },
+    {
+      "match": "tejbzRage",
+      "image_id": 82168
+    }
+  ]
+}

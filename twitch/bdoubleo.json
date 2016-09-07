@@ -1,1 +1,27 @@
-{"name":"twitch-sub-bdoubleo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bdubsSub","image_id":6723},{"match":"bdubsBteam","image_id":6576},{"match":"bdubsGlasses","image_id":6577},{"match":"bdubsPalm","image_id":6578},{"match":"bdubsRage","image_id":6579}]}
+{
+  "name": "twitch-sub-bdoubleo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bdubsSub",
+      "image_id": 6723
+    },
+    {
+      "match": "bdubsBteam",
+      "image_id": 6576
+    },
+    {
+      "match": "bdubsGlasses",
+      "image_id": 6577
+    },
+    {
+      "match": "bdubsPalm",
+      "image_id": 6578
+    },
+    {
+      "match": "bdubsRage",
+      "image_id": 6579
+    }
+  ]
+}

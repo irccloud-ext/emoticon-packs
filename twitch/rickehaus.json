@@ -1,1 +1,23 @@
-{"name":"twitch-sub-rickehaus","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rickehCake","image_id":56488},{"match":"rickehEmag","image_id":56489},{"match":"rickehLore","image_id":56490},{"match":"rickehFace","image_id":56491}]}
+{
+  "name": "twitch-sub-rickehaus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rickehCake",
+      "image_id": 56488
+    },
+    {
+      "match": "rickehEmag",
+      "image_id": 56489
+    },
+    {
+      "match": "rickehLore",
+      "image_id": 56490
+    },
+    {
+      "match": "rickehFace",
+      "image_id": 56491
+    }
+  ]
+}

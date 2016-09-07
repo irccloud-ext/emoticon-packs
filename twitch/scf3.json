@@ -1,1 +1,31 @@
-{"name":"twitch-sub-scf3","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"scfSquad","image_id":94964},{"match":"scfHey","image_id":94984},{"match":"scfW","image_id":94396},{"match":"scfFBM","image_id":94398},{"match":"scfHype","image_id":94264},{"match":"scfRekt","image_id":94265}]}
+{
+  "name": "twitch-sub-scf3",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "scfSquad",
+      "image_id": 94964
+    },
+    {
+      "match": "scfHey",
+      "image_id": 94984
+    },
+    {
+      "match": "scfW",
+      "image_id": 94396
+    },
+    {
+      "match": "scfFBM",
+      "image_id": 94398
+    },
+    {
+      "match": "scfHype",
+      "image_id": 94264
+    },
+    {
+      "match": "scfRekt",
+      "image_id": 94265
+    }
+  ]
+}

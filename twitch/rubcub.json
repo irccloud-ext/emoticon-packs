@@ -1,1 +1,27 @@
-{"name":"twitch-sub-rubcub","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rub100","image_id":105329},{"match":"rubMonkey","image_id":105334},{"match":"rubW","image_id":104560},{"match":"rubLove","image_id":105198},{"match":"rubLeg","image_id":110051}]}
+{
+  "name": "twitch-sub-rubcub",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rub100",
+      "image_id": 105329
+    },
+    {
+      "match": "rubMonkey",
+      "image_id": 105334
+    },
+    {
+      "match": "rubW",
+      "image_id": 104560
+    },
+    {
+      "match": "rubLove",
+      "image_id": 105198
+    },
+    {
+      "match": "rubLeg",
+      "image_id": 110051
+    }
+  ]
+}

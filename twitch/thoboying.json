@@ -1,1 +1,39 @@
-{"name":"twitch-sub-thoboying","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"thoFnice","image_id":21881},{"match":"thoKappa","image_id":22098},{"match":"thoBeer","image_id":37190},{"match":"thoTune","image_id":39090},{"match":"thoRage","image_id":49083},{"match":"thoFail","image_id":63424},{"match":"thoRip","image_id":65413},{"match":"thoWut","image_id":97194}]}
+{
+  "name": "twitch-sub-thoboying",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "thoFnice",
+      "image_id": 21881
+    },
+    {
+      "match": "thoKappa",
+      "image_id": 22098
+    },
+    {
+      "match": "thoBeer",
+      "image_id": 37190
+    },
+    {
+      "match": "thoTune",
+      "image_id": 39090
+    },
+    {
+      "match": "thoRage",
+      "image_id": 49083
+    },
+    {
+      "match": "thoFail",
+      "image_id": 63424
+    },
+    {
+      "match": "thoRip",
+      "image_id": 65413
+    },
+    {
+      "match": "thoWut",
+      "image_id": 97194
+    }
+  ]
+}

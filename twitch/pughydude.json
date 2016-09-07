@@ -1,1 +1,15 @@
-{"name":"twitch-sub-pughydude","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pewFP","image_id":31152},{"match":"pewLazy","image_id":111685}]}
+{
+  "name": "twitch-sub-pughydude",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pewFP",
+      "image_id": 31152
+    },
+    {
+      "match": "pewLazy",
+      "image_id": 111685
+    }
+  ]
+}

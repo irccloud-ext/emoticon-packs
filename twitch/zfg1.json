@@ -1,1 +1,39 @@
-{"name":"twitch-sub-zfg1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zfgStabStabStab","image_id":1126},{"match":"zfgDampePls","image_id":11941},{"match":"zfgSpoonStrats","image_id":11942},{"match":"zfgRunOgre","image_id":12152},{"match":"zfgHungry","image_id":13321},{"match":"zfgSoldOut","image_id":14469},{"match":"zfgSpeedFrog","image_id":20426},{"match":"zfgToucan","image_id":41776}]}
+{
+  "name": "twitch-sub-zfg1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zfgStabStabStab",
+      "image_id": 1126
+    },
+    {
+      "match": "zfgDampePls",
+      "image_id": 11941
+    },
+    {
+      "match": "zfgSpoonStrats",
+      "image_id": 11942
+    },
+    {
+      "match": "zfgRunOgre",
+      "image_id": 12152
+    },
+    {
+      "match": "zfgHungry",
+      "image_id": 13321
+    },
+    {
+      "match": "zfgSoldOut",
+      "image_id": 14469
+    },
+    {
+      "match": "zfgSpeedFrog",
+      "image_id": 20426
+    },
+    {
+      "match": "zfgToucan",
+      "image_id": 41776
+    }
+  ]
+}

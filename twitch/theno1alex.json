@@ -1,1 +1,67 @@
-{"name":"twitch-sub-theno1alex","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"no1GAH","image_id":92730},{"match":"no1MEH","image_id":92734},{"match":"no1YEE","image_id":92740},{"match":"no1WAVE","image_id":92739},{"match":"no1WHAT","image_id":92738},{"match":"no1RINK","image_id":92737},{"match":"no1PLS","image_id":92736},{"match":"no1OOO","image_id":92735},{"match":"no1LOVE","image_id":92733},{"match":"no1HYPE","image_id":92732},{"match":"no1HUH","image_id":92731},{"match":"no1BLUSH","image_id":92726},{"match":"no1CREEP","image_id":99018},{"match":"no1CRY","image_id":99017},{"match":"no1DOWN","image_id":99130}]}
+{
+  "name": "twitch-sub-theno1alex",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "no1GAH",
+      "image_id": 92730
+    },
+    {
+      "match": "no1MEH",
+      "image_id": 92734
+    },
+    {
+      "match": "no1YEE",
+      "image_id": 92740
+    },
+    {
+      "match": "no1WAVE",
+      "image_id": 92739
+    },
+    {
+      "match": "no1WHAT",
+      "image_id": 92738
+    },
+    {
+      "match": "no1RINK",
+      "image_id": 92737
+    },
+    {
+      "match": "no1PLS",
+      "image_id": 92736
+    },
+    {
+      "match": "no1OOO",
+      "image_id": 92735
+    },
+    {
+      "match": "no1LOVE",
+      "image_id": 92733
+    },
+    {
+      "match": "no1HYPE",
+      "image_id": 92732
+    },
+    {
+      "match": "no1HUH",
+      "image_id": 92731
+    },
+    {
+      "match": "no1BLUSH",
+      "image_id": 92726
+    },
+    {
+      "match": "no1CREEP",
+      "image_id": 99018
+    },
+    {
+      "match": "no1CRY",
+      "image_id": 99017
+    },
+    {
+      "match": "no1DOWN",
+      "image_id": 99130
+    }
+  ]
+}

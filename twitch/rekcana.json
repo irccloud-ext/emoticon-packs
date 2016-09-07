@@ -1,1 +1,39 @@
-{"name":"twitch-sub-rekcana","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rek3","image_id":108385},{"match":"rek2","image_id":108384},{"match":"rek1","image_id":108383},{"match":"rekClap","image_id":45234},{"match":"rekHype","image_id":65746},{"match":"rekLove","image_id":65747},{"match":"rekCry","image_id":98931},{"match":"rekWave","image_id":98930}]}
+{
+  "name": "twitch-sub-rekcana",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rek3",
+      "image_id": 108385
+    },
+    {
+      "match": "rek2",
+      "image_id": 108384
+    },
+    {
+      "match": "rek1",
+      "image_id": 108383
+    },
+    {
+      "match": "rekClap",
+      "image_id": 45234
+    },
+    {
+      "match": "rekHype",
+      "image_id": 65746
+    },
+    {
+      "match": "rekLove",
+      "image_id": 65747
+    },
+    {
+      "match": "rekCry",
+      "image_id": 98931
+    },
+    {
+      "match": "rekWave",
+      "image_id": 98930
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ant_hs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"antsHiYo","image_id":94951},{"match":"antsSpooky","image_id":70228},{"match":"antsLikeThis","image_id":69694},{"match":"antsIdiot","image_id":85494}]}
+{
+  "name": "twitch-sub-ant_hs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "antsHiYo",
+      "image_id": 94951
+    },
+    {
+      "match": "antsSpooky",
+      "image_id": 70228
+    },
+    {
+      "match": "antsLikeThis",
+      "image_id": 69694
+    },
+    {
+      "match": "antsIdiot",
+      "image_id": 85494
+    }
+  ]
+}

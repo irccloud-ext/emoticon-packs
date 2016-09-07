@@ -1,1 +1,39 @@
-{"name":"twitch-sub-supergamestv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sugatvBienchen","image_id":73627},{"match":"sugatvBarlow","image_id":67262},{"match":"sugatvJockl","image_id":68337},{"match":"sugatvPhteven","image_id":67676},{"match":"sugatvMett","image_id":67675},{"match":"sugatvLegy","image_id":69821},{"match":"sugatvPepe","image_id":69819},{"match":"sugatvHubert","image_id":74371}]}
+{
+  "name": "twitch-sub-supergamestv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sugatvBienchen",
+      "image_id": 73627
+    },
+    {
+      "match": "sugatvBarlow",
+      "image_id": 67262
+    },
+    {
+      "match": "sugatvJockl",
+      "image_id": 68337
+    },
+    {
+      "match": "sugatvPhteven",
+      "image_id": 67676
+    },
+    {
+      "match": "sugatvMett",
+      "image_id": 67675
+    },
+    {
+      "match": "sugatvLegy",
+      "image_id": 69821
+    },
+    {
+      "match": "sugatvPepe",
+      "image_id": 69819
+    },
+    {
+      "match": "sugatvHubert",
+      "image_id": 74371
+    }
+  ]
+}

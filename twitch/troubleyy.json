@@ -1,1 +1,23 @@
-{"name":"twitch-sub-troubleyy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"troubleyBRAUE","image_id":4921},{"match":"troubleyWHAT","image_id":4956},{"match":"troubleyFACE2","image_id":4955},{"match":"troubleyFLAME","image_id":5013}]}
+{
+  "name": "twitch-sub-troubleyy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "troubleyBRAUE",
+      "image_id": 4921
+    },
+    {
+      "match": "troubleyWHAT",
+      "image_id": 4956
+    },
+    {
+      "match": "troubleyFACE2",
+      "image_id": 4955
+    },
+    {
+      "match": "troubleyFLAME",
+      "image_id": 5013
+    }
+  ]
+}

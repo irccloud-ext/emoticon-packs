@@ -1,1 +1,39 @@
-{"name":"twitch-sub-pvtwiggles","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pvtFeels","image_id":85345},{"match":"pvtHandle","image_id":87297},{"match":"pvtC","image_id":85324},{"match":"pvtDoge","image_id":85021},{"match":"pvtOld","image_id":86718},{"match":"pvtChamp","image_id":86912},{"match":"pvtWeeb","image_id":96647},{"match":"pvtBear","image_id":96665}]}
+{
+  "name": "twitch-sub-pvtwiggles",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pvtFeels",
+      "image_id": 85345
+    },
+    {
+      "match": "pvtHandle",
+      "image_id": 87297
+    },
+    {
+      "match": "pvtC",
+      "image_id": 85324
+    },
+    {
+      "match": "pvtDoge",
+      "image_id": 85021
+    },
+    {
+      "match": "pvtOld",
+      "image_id": 86718
+    },
+    {
+      "match": "pvtChamp",
+      "image_id": 86912
+    },
+    {
+      "match": "pvtWeeb",
+      "image_id": 96647
+    },
+    {
+      "match": "pvtBear",
+      "image_id": 96665
+    }
+  ]
+}

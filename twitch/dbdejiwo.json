@@ -1,1 +1,15 @@
-{"name":"twitch-sub-dbdejiwo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dejiwoGGreim","image_id":81928},{"match":"dejiwoDejiwo","image_id":81794}]}
+{
+  "name": "twitch-sub-dbdejiwo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dejiwoGGreim",
+      "image_id": 81928
+    },
+    {
+      "match": "dejiwoDejiwo",
+      "image_id": 81794
+    }
+  ]
+}

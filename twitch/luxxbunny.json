@@ -1,1 +1,47 @@
-{"name":"twitch-sub-luxxbunny","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"luxxLewd","image_id":52090},{"match":"luxxLit","image_id":71116},{"match":"luxxWut","image_id":96061},{"match":"luxxThump","image_id":107220},{"match":"luxxGasm","image_id":106967},{"match":"luxxWeeb","image_id":106776},{"match":"luxxOMG","image_id":106775},{"match":"luxx420","image_id":107221},{"match":"luxxLove","image_id":106773},{"match":"luxxRage","image_id":106772}]}
+{
+  "name": "twitch-sub-luxxbunny",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "luxxLewd",
+      "image_id": 52090
+    },
+    {
+      "match": "luxxLit",
+      "image_id": 71116
+    },
+    {
+      "match": "luxxWut",
+      "image_id": 96061
+    },
+    {
+      "match": "luxxThump",
+      "image_id": 107220
+    },
+    {
+      "match": "luxxGasm",
+      "image_id": 106967
+    },
+    {
+      "match": "luxxWeeb",
+      "image_id": 106776
+    },
+    {
+      "match": "luxxOMG",
+      "image_id": 106775
+    },
+    {
+      "match": "luxx420",
+      "image_id": 107221
+    },
+    {
+      "match": "luxxLove",
+      "image_id": 106773
+    },
+    {
+      "match": "luxxRage",
+      "image_id": 106772
+    }
+  ]
+}

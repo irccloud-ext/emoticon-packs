@@ -1,1 +1,15 @@
-{"name":"twitch-sub-leviadraconia","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"levAdmin","image_id":97532},{"match":"levL","image_id":97530}]}
+{
+  "name": "twitch-sub-leviadraconia",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "levAdmin",
+      "image_id": 97532
+    },
+    {
+      "match": "levL",
+      "image_id": 97530
+    }
+  ]
+}

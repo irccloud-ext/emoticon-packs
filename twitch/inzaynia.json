@@ -1,1 +1,47 @@
-{"name":"twitch-sub-inzaynia","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"inzNomsi","image_id":103109},{"match":"inzHeul","image_id":106598},{"match":"inzGesicht","image_id":106599},{"match":"inzGood","image_id":106600},{"match":"inzLuv","image_id":106601},{"match":"inzSpeziell","image_id":106603},{"match":"inzWut","image_id":106604},{"match":"inzWah","image_id":107118}]}
+{
+  "name": "twitch-sub-inzaynia",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "inzMitz",
+      "image_id": 112564
+    },
+    {
+      "match": "inzGib",
+      "image_id": 112413
+    },
+    {
+      "match": "inzWut",
+      "image_id": 112427
+    },
+    {
+      "match": "inzWah",
+      "image_id": 112428
+    },
+    {
+      "match": "inzNom",
+      "image_id": 112429
+    },
+    {
+      "match": "inzLuv",
+      "image_id": 112430
+    },
+    {
+      "match": "inzHeul",
+      "image_id": 112431
+    },
+    {
+      "match": "inzGood",
+      "image_id": 112432
+    },
+    {
+      "match": "inzFail",
+      "image_id": 112433
+    },
+    {
+      "match": "inzSpeziell",
+      "image_id": 112434
+    }
+  ]
+}

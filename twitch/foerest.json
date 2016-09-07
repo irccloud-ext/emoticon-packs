@@ -1,1 +1,31 @@
-{"name":"twitch-sub-foerest","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"foeBro","image_id":73436},{"match":"foeW","image_id":72784},{"match":"foeFail","image_id":72786},{"match":"foeSalt","image_id":73000},{"match":"foeTato","image_id":76245},{"match":"foeSub","image_id":76309}]}
+{
+  "name": "twitch-sub-foerest",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "foeBro",
+      "image_id": 73436
+    },
+    {
+      "match": "foeW",
+      "image_id": 72784
+    },
+    {
+      "match": "foeFail",
+      "image_id": 72786
+    },
+    {
+      "match": "foeSalt",
+      "image_id": 73000
+    },
+    {
+      "match": "foeTato",
+      "image_id": 76245
+    },
+    {
+      "match": "foeSub",
+      "image_id": 76309
+    }
+  ]
+}

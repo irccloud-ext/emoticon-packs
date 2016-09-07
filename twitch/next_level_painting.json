@@ -1,1 +1,31 @@
-{"name":"twitch-sub-next_level_painting","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yodawgICY","image_id":108743},{"match":"yodawgFLEX","image_id":108744},{"match":"yodawgFACE","image_id":109228},{"match":"yodawgYO","image_id":110568},{"match":"yodawgWUTANG","image_id":110675},{"match":"yodawgBEASTMODE","image_id":111428}]}
+{
+  "name": "twitch-sub-next_level_painting",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yodawgICY",
+      "image_id": 108743
+    },
+    {
+      "match": "yodawgFLEX",
+      "image_id": 108744
+    },
+    {
+      "match": "yodawgFACE",
+      "image_id": 109228
+    },
+    {
+      "match": "yodawgYO",
+      "image_id": 110568
+    },
+    {
+      "match": "yodawgWUTANG",
+      "image_id": 110675
+    },
+    {
+      "match": "yodawgBEASTMODE",
+      "image_id": 111428
+    }
+  ]
+}

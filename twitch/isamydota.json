@@ -1,1 +1,15 @@
-{"name":"twitch-sub-isamydota","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"isamyGIVE","image_id":59150},{"match":"isamyLUL","image_id":107530}]}
+{
+  "name": "twitch-sub-isamydota",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "isamyGIVE",
+      "image_id": 59150
+    },
+    {
+      "match": "isamyLUL",
+      "image_id": 107530
+    }
+  ]
+}

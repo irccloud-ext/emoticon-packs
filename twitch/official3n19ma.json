@@ -1,1 +1,31 @@
-{"name":"twitch-sub-official3n19ma","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tugoSexy","image_id":97299},{"match":"tugo7L","image_id":97127},{"match":"tugoBadMan","image_id":93320},{"match":"tugoGoodMan","image_id":93319},{"match":"tugoMain","image_id":111152},{"match":"tugoUnited","image_id":110939}]}
+{
+  "name": "twitch-sub-official3n19ma",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tugoSexy",
+      "image_id": 97299
+    },
+    {
+      "match": "tugo7L",
+      "image_id": 97127
+    },
+    {
+      "match": "tugoBadMan",
+      "image_id": 93320
+    },
+    {
+      "match": "tugoGoodMan",
+      "image_id": 93319
+    },
+    {
+      "match": "tugoMain",
+      "image_id": 111152
+    },
+    {
+      "match": "tugoUnited",
+      "image_id": 110939
+    }
+  ]
+}

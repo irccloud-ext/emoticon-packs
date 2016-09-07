@@ -1,1 +1,39 @@
-{"name":"twitch-sub-epsyloncat","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"epsySAD","image_id":104854},{"match":"epsyF","image_id":104853},{"match":"epsyK","image_id":28577},{"match":"epsyWAT","image_id":61426},{"match":"epsyTILT","image_id":98287},{"match":"epsyHYPE","image_id":58748},{"match":"epsyOMG","image_id":104852},{"match":"epsyH","image_id":104851}]}
+{
+  "name": "twitch-sub-epsyloncat",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "epsyTILT",
+      "image_id": 98287
+    },
+    {
+      "match": "epsyAW",
+      "image_id": 112553
+    },
+    {
+      "match": "epsyH",
+      "image_id": 112559
+    },
+    {
+      "match": "epsyHI",
+      "image_id": 112241
+    },
+    {
+      "match": "epsyOMG",
+      "image_id": 112242
+    },
+    {
+      "match": "epsyMAD",
+      "image_id": 112243
+    },
+    {
+      "match": "epsySAD",
+      "image_id": 112244
+    },
+    {
+      "match": "epsyWTF",
+      "image_id": 112245
+    }
+  ]
+}

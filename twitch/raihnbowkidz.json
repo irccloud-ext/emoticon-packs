@@ -1,1 +1,47 @@
-{"name":"twitch-sub-raihnbowkidz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"raihnHey","image_id":35387},{"match":"raihnBird","image_id":32465},{"match":"raihnW","image_id":32466},{"match":"raihnHype","image_id":67316},{"match":"raihnWut","image_id":78088},{"match":"raihnGasm","image_id":78087},{"match":"raihnDad","image_id":94470},{"match":"raihnThump","image_id":105645},{"match":"raihnBlitz","image_id":105646},{"match":"raihnGive","image_id":105647}]}
+{
+  "name": "twitch-sub-raihnbowkidz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "raihnHey",
+      "image_id": 35387
+    },
+    {
+      "match": "raihnBird",
+      "image_id": 32465
+    },
+    {
+      "match": "raihnW",
+      "image_id": 32466
+    },
+    {
+      "match": "raihnHype",
+      "image_id": 67316
+    },
+    {
+      "match": "raihnWut",
+      "image_id": 78088
+    },
+    {
+      "match": "raihnGasm",
+      "image_id": 78087
+    },
+    {
+      "match": "raihnDad",
+      "image_id": 94470
+    },
+    {
+      "match": "raihnThump",
+      "image_id": 105645
+    },
+    {
+      "match": "raihnBlitz",
+      "image_id": 105646
+    },
+    {
+      "match": "raihnGive",
+      "image_id": 105647
+    }
+  ]
+}

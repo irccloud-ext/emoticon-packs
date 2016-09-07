@@ -1,1 +1,31 @@
-{"name":"twitch-sub-chudatz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chudatYayuhhzz","image_id":40762},{"match":"chudatPose","image_id":43903},{"match":"chudatHugs","image_id":58879},{"match":"chudatGFUEL","image_id":93243},{"match":"chudatAlex","image_id":108459},{"match":"chudatKirby","image_id":108458}]}
+{
+  "name": "twitch-sub-chudatz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chudatYayuhhzz",
+      "image_id": 40762
+    },
+    {
+      "match": "chudatPose",
+      "image_id": 43903
+    },
+    {
+      "match": "chudatHugs",
+      "image_id": 58879
+    },
+    {
+      "match": "chudatGFUEL",
+      "image_id": 93243
+    },
+    {
+      "match": "chudatAlex",
+      "image_id": 108459
+    },
+    {
+      "match": "chudatKirby",
+      "image_id": 108458
+    }
+  ]
+}

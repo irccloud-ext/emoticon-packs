@@ -1,1 +1,23 @@
-{"name":"twitch-sub-gosucrew","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"teamgcGaming","image_id":6844},{"match":"teamgcFLEET","image_id":75790},{"match":"teamgcMacho","image_id":58193},{"match":"teamgcHAM","image_id":75774}]}
+{
+  "name": "twitch-sub-gosucrew",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "teamgcGaming",
+      "image_id": 6844
+    },
+    {
+      "match": "teamgcFLEET",
+      "image_id": 75790
+    },
+    {
+      "match": "teamgcMacho",
+      "image_id": 58193
+    },
+    {
+      "match": "teamgcHAM",
+      "image_id": 75774
+    }
+  ]
+}

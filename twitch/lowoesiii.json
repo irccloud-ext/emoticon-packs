@@ -1,0 +1,39 @@
+{
+  "name": "twitch-sub-lowoesiii",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "oesiPush",
+      "image_id": 111956
+    },
+    {
+      "match": "oesiHallo",
+      "image_id": 111953
+    },
+    {
+      "match": "oesiNie",
+      "image_id": 111955
+    },
+    {
+      "match": "oesiBittschn",
+      "image_id": 111952
+    },
+    {
+      "match": "oesiHype",
+      "image_id": 111954
+    },
+    {
+      "match": "oesiLove",
+      "image_id": 111977
+    },
+    {
+      "match": "oesiRIP",
+      "image_id": 112109
+    },
+    {
+      "match": "oesiRage",
+      "image_id": 112102
+    }
+  ]
+}

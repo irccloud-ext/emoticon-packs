@@ -1,1 +1,23 @@
-{"name":"twitch-sub-rol_7","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rolW","image_id":89544},{"match":"rolGasm","image_id":100401},{"match":"rolWut","image_id":100402},{"match":"rolAs","image_id":109207}]}
+{
+  "name": "twitch-sub-rol_7",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rolW",
+      "image_id": 89544
+    },
+    {
+      "match": "rolGasm",
+      "image_id": 100401
+    },
+    {
+      "match": "rolWut",
+      "image_id": 100402
+    },
+    {
+      "match": "rolAs",
+      "image_id": 109207
+    }
+  ]
+}

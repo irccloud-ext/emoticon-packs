@@ -1,1 +1,55 @@
-{"name":"twitch-sub-dead_flip","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"flipDTK","image_id":104721},{"match":"flipJP","image_id":104722},{"match":"flipLflip","image_id":53837},{"match":"flipBT","image_id":104742},{"match":"flipBTR","image_id":104743},{"match":"flipRflip","image_id":50897},{"match":"flipTilt","image_id":50896},{"match":"flipDeal","image_id":51223},{"match":"flipPop","image_id":83631},{"match":"flipLaz","image_id":52285},{"match":"flipDrain","image_id":52286},{"match":"flipMulti","image_id":83638}]}
+{
+  "name": "twitch-sub-dead_flip",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "flipDTK",
+      "image_id": 104721
+    },
+    {
+      "match": "flipJP",
+      "image_id": 104722
+    },
+    {
+      "match": "flipLflip",
+      "image_id": 53837
+    },
+    {
+      "match": "flipBT",
+      "image_id": 104742
+    },
+    {
+      "match": "flipBTR",
+      "image_id": 104743
+    },
+    {
+      "match": "flipRflip",
+      "image_id": 50897
+    },
+    {
+      "match": "flipTilt",
+      "image_id": 50896
+    },
+    {
+      "match": "flipDeal",
+      "image_id": 51223
+    },
+    {
+      "match": "flipPop",
+      "image_id": 83631
+    },
+    {
+      "match": "flipLaz",
+      "image_id": 52285
+    },
+    {
+      "match": "flipDrain",
+      "image_id": 52286
+    },
+    {
+      "match": "flipMulti",
+      "image_id": 83638
+    }
+  ]
+}

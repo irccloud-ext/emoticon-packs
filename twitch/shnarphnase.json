@@ -1,1 +1,47 @@
-{"name":"twitch-sub-shnarphnase","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"naseShnarph","image_id":33109},{"match":"naseLove","image_id":33108},{"match":"naseMilch","image_id":34270},{"match":"naseFlag","image_id":32769},{"match":"naseRip","image_id":32764},{"match":"naseHype","image_id":32817},{"match":"naseBomb","image_id":32813},{"match":"naseBoxen","image_id":34747},{"match":"naseBox2","image_id":37410},{"match":"nasePvp","image_id":37687}]}
+{
+  "name": "twitch-sub-shnarphnase",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "naseShnarph",
+      "image_id": 33109
+    },
+    {
+      "match": "naseLove",
+      "image_id": 33108
+    },
+    {
+      "match": "naseMilch",
+      "image_id": 34270
+    },
+    {
+      "match": "naseFlag",
+      "image_id": 32769
+    },
+    {
+      "match": "naseRip",
+      "image_id": 32764
+    },
+    {
+      "match": "naseHype",
+      "image_id": 32817
+    },
+    {
+      "match": "naseBomb",
+      "image_id": 32813
+    },
+    {
+      "match": "naseBoxen",
+      "image_id": 34747
+    },
+    {
+      "match": "naseBox2",
+      "image_id": 37410
+    },
+    {
+      "match": "nasePvp",
+      "image_id": 37687
+    }
+  ]
+}

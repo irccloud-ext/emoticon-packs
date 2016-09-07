@@ -1,1 +1,39 @@
-{"name":"twitch-sub-apdrop","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dropGhost","image_id":7002},{"match":"dropMonster","image_id":6541},{"match":"dropDino","image_id":7771},{"match":"dropSquirrel","image_id":7772},{"match":"dropPls","image_id":16513},{"match":"dropWellMet","image_id":9619},{"match":"dropH","image_id":43826},{"match":"dropRage","image_id":55819}]}
+{
+  "name": "twitch-sub-apdrop",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dropGhost",
+      "image_id": 7002
+    },
+    {
+      "match": "dropMonster",
+      "image_id": 6541
+    },
+    {
+      "match": "dropDino",
+      "image_id": 7771
+    },
+    {
+      "match": "dropSquirrel",
+      "image_id": 7772
+    },
+    {
+      "match": "dropPls",
+      "image_id": 16513
+    },
+    {
+      "match": "dropWellMet",
+      "image_id": 9619
+    },
+    {
+      "match": "dropH",
+      "image_id": 43826
+    },
+    {
+      "match": "dropRage",
+      "image_id": 55819
+    }
+  ]
+}

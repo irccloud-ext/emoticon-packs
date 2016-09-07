@@ -1,1 +1,15 @@
-{"name":"twitch-sub-aircougar","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cougsMad","image_id":104501},{"match":"cougsCute","image_id":104497}]}
+{
+  "name": "twitch-sub-aircougar",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cougsMad",
+      "image_id": 104501
+    },
+    {
+      "match": "cougsCute",
+      "image_id": 104497
+    }
+  ]
+}

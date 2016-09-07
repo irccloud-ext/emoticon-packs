@@ -1,1 +1,23 @@
-{"name":"twitch-sub-mattvisual","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"visualYeah","image_id":12551},{"match":"visualColin","image_id":12733},{"match":"visualSword","image_id":12362},{"match":"visualWhat","image_id":13538}]}
+{
+  "name": "twitch-sub-mattvisual",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "visualYeah",
+      "image_id": 12551
+    },
+    {
+      "match": "visualColin",
+      "image_id": 12733
+    },
+    {
+      "match": "visualSword",
+      "image_id": 12362
+    },
+    {
+      "match": "visualWhat",
+      "image_id": 13538
+    }
+  ]
+}

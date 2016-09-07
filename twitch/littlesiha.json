@@ -1,1 +1,47 @@
-{"name":"twitch-sub-littlesiha","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sihaWut","image_id":82843},{"match":"sihaLewd","image_id":105847},{"match":"sihaBlind","image_id":103514},{"match":"sihaDerp","image_id":103515},{"match":"sihaBreathe","image_id":103517},{"match":"sihaOmg","image_id":103518},{"match":"sihaLove","image_id":104048},{"match":"sihaHype","image_id":103519},{"match":"sihaFP","image_id":103520},{"match":"sihaSpoop","image_id":105076}]}
+{
+  "name": "twitch-sub-littlesiha",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sihaWut",
+      "image_id": 82843
+    },
+    {
+      "match": "sihaLewd",
+      "image_id": 105847
+    },
+    {
+      "match": "sihaBlind",
+      "image_id": 103514
+    },
+    {
+      "match": "sihaDerp",
+      "image_id": 103515
+    },
+    {
+      "match": "sihaBreathe",
+      "image_id": 103517
+    },
+    {
+      "match": "sihaOmg",
+      "image_id": 103518
+    },
+    {
+      "match": "sihaLove",
+      "image_id": 104048
+    },
+    {
+      "match": "sihaHype",
+      "image_id": 103519
+    },
+    {
+      "match": "sihaFP",
+      "image_id": 103520
+    },
+    {
+      "match": "sihaSpoop",
+      "image_id": 105076
+    }
+  ]
+}

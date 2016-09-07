@@ -1,1 +1,23 @@
-{"name":"twitch-sub-crafterlynx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"crafterLove","image_id":85531},{"match":"crafterHi","image_id":85159},{"match":"crafterMoney","image_id":85161},{"match":"crafterOh","image_id":86959}]}
+{
+  "name": "twitch-sub-crafterlynx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "crafterLove",
+      "image_id": 85531
+    },
+    {
+      "match": "crafterHi",
+      "image_id": 85159
+    },
+    {
+      "match": "crafterMoney",
+      "image_id": 85161
+    },
+    {
+      "match": "crafterOh",
+      "image_id": 86959
+    }
+  ]
+}

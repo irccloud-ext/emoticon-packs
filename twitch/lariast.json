@@ -1,1 +1,15 @@
-{"name":"twitch-sub-lariast","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lariHype","image_id":103824},{"match":"lariFail","image_id":103825}]}
+{
+  "name": "twitch-sub-lariast",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lariHype",
+      "image_id": 103824
+    },
+    {
+      "match": "lariFail",
+      "image_id": 103825
+    }
+  ]
+}

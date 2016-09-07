@@ -1,1 +1,67 @@
-{"name":"twitch-sub-a1taoda","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"veriGJ","image_id":15050},{"match":"veriLOVE","image_id":78584},{"match":"veri322","image_id":28048},{"match":"veriVGolos","image_id":52630},{"match":"veriPRIDE","image_id":79110},{"match":"veriSAD","image_id":79109},{"match":"veriDUCK","image_id":79112},{"match":"veriRAGE","image_id":49956},{"match":"veriPloho","image_id":50017},{"match":"veriCHSV","image_id":78598},{"match":"veriMOPS","image_id":78578},{"match":"veriSICH","image_id":78579},{"match":"veriAVE","image_id":78573},{"match":"veriRAK","image_id":78575},{"match":"veriKUNAY","image_id":78557}]}
+{
+  "name": "twitch-sub-a1taoda",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "veriGJ",
+      "image_id": 15050
+    },
+    {
+      "match": "veriLOVE",
+      "image_id": 78584
+    },
+    {
+      "match": "veri322",
+      "image_id": 28048
+    },
+    {
+      "match": "veriVGolos",
+      "image_id": 52630
+    },
+    {
+      "match": "veriPRIDE",
+      "image_id": 79110
+    },
+    {
+      "match": "veriSAD",
+      "image_id": 79109
+    },
+    {
+      "match": "veriDUCK",
+      "image_id": 79112
+    },
+    {
+      "match": "veriRAGE",
+      "image_id": 49956
+    },
+    {
+      "match": "veriPloho",
+      "image_id": 50017
+    },
+    {
+      "match": "veriCHSV",
+      "image_id": 78598
+    },
+    {
+      "match": "veriMOPS",
+      "image_id": 78578
+    },
+    {
+      "match": "veriSICH",
+      "image_id": 78579
+    },
+    {
+      "match": "veriAVE",
+      "image_id": 78573
+    },
+    {
+      "match": "veriRAK",
+      "image_id": 78575
+    },
+    {
+      "match": "veriKUNAY",
+      "image_id": 78557
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-geneth","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"genethScary","image_id":11716},{"match":"genethL","image_id":39752},{"match":"geneth7","image_id":66066},{"match":"genethH","image_id":66055},{"match":"genethTEN","image_id":66056},{"match":"genethHUG","image_id":66058},{"match":"genethHYPE","image_id":66059},{"match":"genethSAD","image_id":66060}]}
+{
+  "name": "twitch-sub-geneth",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "genethScary",
+      "image_id": 11716
+    },
+    {
+      "match": "genethL",
+      "image_id": 39752
+    },
+    {
+      "match": "geneth7",
+      "image_id": 66066
+    },
+    {
+      "match": "genethH",
+      "image_id": 66055
+    },
+    {
+      "match": "genethTEN",
+      "image_id": 66056
+    },
+    {
+      "match": "genethHUG",
+      "image_id": 66058
+    },
+    {
+      "match": "genethHYPE",
+      "image_id": 66059
+    },
+    {
+      "match": "genethSAD",
+      "image_id": 66060
+    }
+  ]
+}

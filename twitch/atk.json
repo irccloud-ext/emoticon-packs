@@ -1,1 +1,55 @@
-{"name":"twitch-sub-atk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"atkFrog","image_id":3441},{"match":"atkKnives","image_id":3442},{"match":"atkCry","image_id":1776},{"match":"atkWaifu","image_id":1782},{"match":"atkLove","image_id":1779},{"match":"atkFlan","image_id":1949},{"match":"atkKappa","image_id":3492},{"match":"atkReimu","image_id":1950},{"match":"atkPotato","image_id":3162},{"match":"atkMokou","image_id":3733},{"match":"atkGrill","image_id":61986},{"match":"atkBird","image_id":60156}]}
+{
+  "name": "twitch-sub-atk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "atkFrog",
+      "image_id": 3441
+    },
+    {
+      "match": "atkKnives",
+      "image_id": 3442
+    },
+    {
+      "match": "atkCry",
+      "image_id": 1776
+    },
+    {
+      "match": "atkWaifu",
+      "image_id": 1782
+    },
+    {
+      "match": "atkLove",
+      "image_id": 1779
+    },
+    {
+      "match": "atkFlan",
+      "image_id": 1949
+    },
+    {
+      "match": "atkKappa",
+      "image_id": 3492
+    },
+    {
+      "match": "atkReimu",
+      "image_id": 1950
+    },
+    {
+      "match": "atkPotato",
+      "image_id": 3162
+    },
+    {
+      "match": "atkMokou",
+      "image_id": 3733
+    },
+    {
+      "match": "atkGrill",
+      "image_id": 61986
+    },
+    {
+      "match": "atkBird",
+      "image_id": 60156
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-brodri4","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"borisRed","image_id":80010},{"match":"borisMoney","image_id":80009},{"match":"borisSilver","image_id":80008},{"match":"borisUDG","image_id":72368}]}
+{
+  "name": "twitch-sub-brodri4",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "borisRed",
+      "image_id": 80010
+    },
+    {
+      "match": "borisMoney",
+      "image_id": 80009
+    },
+    {
+      "match": "borisSilver",
+      "image_id": 80008
+    },
+    {
+      "match": "borisUDG",
+      "image_id": 72368
+    }
+  ]
+}

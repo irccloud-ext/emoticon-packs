@@ -1,1 +1,23 @@
-{"name":"twitch-sub-goplay_gc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gouGG","image_id":105931},{"match":"gouRage","image_id":102908},{"match":"gouJaip","image_id":103055},{"match":"gouKappa","image_id":105932}]}
+{
+  "name": "twitch-sub-goplay_gc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gouGG",
+      "image_id": 105931
+    },
+    {
+      "match": "gouRage",
+      "image_id": 102908
+    },
+    {
+      "match": "gouJaip",
+      "image_id": 103055
+    },
+    {
+      "match": "gouKappa",
+      "image_id": 105932
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"name":"twitch-sub-fureurwebtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fureurMouton","image_id":27960},{"match":"fureurCharrlie","image_id":28064},{"match":"fureurPyro","image_id":73226}]}
+{
+  "name": "twitch-sub-fureurwebtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fureurMouton",
+      "image_id": 27960
+    },
+    {
+      "match": "fureurCharrlie",
+      "image_id": 28064
+    },
+    {
+      "match": "fureurPyro",
+      "image_id": 73226
+    }
+  ]
+}

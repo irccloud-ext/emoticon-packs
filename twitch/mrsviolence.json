@@ -1,1 +1,51 @@
-{"name":"twitch-sub-mrsviolence","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mrsvMellowOut","image_id":2124},{"match":"mrsvCharBinx","image_id":2135},{"match":"mrsvProsu","image_id":3194},{"match":"mrsvDatArrow","image_id":2326},{"match":"mrsvCoco","image_id":3247},{"match":"mrsvGun","image_id":5622},{"match":"mrsvSubrawr","image_id":7905},{"match":"mrsvKelly","image_id":16271},{"match":"mrsvPro","image_id":21535},{"match":"mrsvLOVE","image_id":44108},{"match":"mrsvSORCHA","image_id":91183}]}
+{
+  "name": "twitch-sub-mrsviolence",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mrsvMellowOut",
+      "image_id": 2124
+    },
+    {
+      "match": "mrsvCharBinx",
+      "image_id": 2135
+    },
+    {
+      "match": "mrsvProsu",
+      "image_id": 3194
+    },
+    {
+      "match": "mrsvDatArrow",
+      "image_id": 2326
+    },
+    {
+      "match": "mrsvCoco",
+      "image_id": 3247
+    },
+    {
+      "match": "mrsvGun",
+      "image_id": 5622
+    },
+    {
+      "match": "mrsvSubrawr",
+      "image_id": 7905
+    },
+    {
+      "match": "mrsvKelly",
+      "image_id": 16271
+    },
+    {
+      "match": "mrsvPro",
+      "image_id": 21535
+    },
+    {
+      "match": "mrsvLOVE",
+      "image_id": 44108
+    },
+    {
+      "match": "mrsvSORCHA",
+      "image_id": 91183
+    }
+  ]
+}

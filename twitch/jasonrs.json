@@ -1,1 +1,23 @@
-{"name":"twitch-sub-jasonrs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jasonKappa","image_id":4595},{"match":"jasonOmg","image_id":5501},{"match":"jasonShield","image_id":4945},{"match":"jasonGhost","image_id":5563}]}
+{
+  "name": "twitch-sub-jasonrs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jasonKappa",
+      "image_id": 4595
+    },
+    {
+      "match": "jasonOmg",
+      "image_id": 5501
+    },
+    {
+      "match": "jasonShield",
+      "image_id": 4945
+    },
+    {
+      "match": "jasonGhost",
+      "image_id": 5563
+    }
+  ]
+}

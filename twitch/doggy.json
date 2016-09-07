@@ -1,1 +1,15 @@
-{"name":"twitch-sub-doggy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"doggyOmg","image_id":37926},{"match":"doggyKoaratel","image_id":38091}]}
+{
+  "name": "twitch-sub-doggy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "doggyOmg",
+      "image_id": 37926
+    },
+    {
+      "match": "doggyKoaratel",
+      "image_id": 38091
+    }
+  ]
+}

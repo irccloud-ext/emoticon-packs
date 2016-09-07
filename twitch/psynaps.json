@@ -1,1 +1,27 @@
-{"name":"twitch-sub-psynaps","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"psylogoCheers","image_id":13302},{"match":"psylogoKappa","image_id":27502},{"match":"psylogoKnight","image_id":27511},{"match":"psylogoB","image_id":36448},{"match":"psylogoHYPE","image_id":97840}]}
+{
+  "name": "twitch-sub-psynaps",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "psylogoCheers",
+      "image_id": 13302
+    },
+    {
+      "match": "psylogoKappa",
+      "image_id": 27502
+    },
+    {
+      "match": "psylogoKnight",
+      "image_id": 27511
+    },
+    {
+      "match": "psylogoB",
+      "image_id": 36448
+    },
+    {
+      "match": "psylogoHYPE",
+      "image_id": 97840
+    }
+  ]
+}

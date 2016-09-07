@@ -1,1 +1,31 @@
-{"name":"twitch-sub-astirit","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"astiFail","image_id":39780},{"match":"asti2","image_id":67824},{"match":"astiKappa","image_id":48727},{"match":"astiL","image_id":59448},{"match":"astiHype","image_id":59450},{"match":"astiH","image_id":81271}]}
+{
+  "name": "twitch-sub-astirit",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "astiFail",
+      "image_id": 39780
+    },
+    {
+      "match": "asti2",
+      "image_id": 67824
+    },
+    {
+      "match": "astiKappa",
+      "image_id": 48727
+    },
+    {
+      "match": "astiL",
+      "image_id": 59448
+    },
+    {
+      "match": "astiHype",
+      "image_id": 59450
+    },
+    {
+      "match": "astiH",
+      "image_id": 81271
+    }
+  ]
+}

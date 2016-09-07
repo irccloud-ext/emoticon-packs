@@ -1,1 +1,27 @@
-{"name":"twitch-sub-endahlol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"endahSp","image_id":28493},{"match":"endahJoe","image_id":74104},{"match":"endahWhy","image_id":72856},{"match":"endahRibs","image_id":82880},{"match":"endahRec","image_id":84162}]}
+{
+  "name": "twitch-sub-endahlol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "endahSp",
+      "image_id": 28493
+    },
+    {
+      "match": "endahJoe",
+      "image_id": 74104
+    },
+    {
+      "match": "endahWhy",
+      "image_id": 72856
+    },
+    {
+      "match": "endahRibs",
+      "image_id": 82880
+    },
+    {
+      "match": "endahRec",
+      "image_id": 84162
+    }
+  ]
+}

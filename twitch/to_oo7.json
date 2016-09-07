@@ -1,1 +1,31 @@
-{"name":"twitch-sub-to_oo7","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"oo7Aye","image_id":27978},{"match":"oo7Dna","image_id":52252},{"match":"oo7Choke","image_id":54245},{"match":"oo7Slide","image_id":61484},{"match":"oo7Real","image_id":62636},{"match":"oo7Hype","image_id":62638}]}
+{
+  "name": "twitch-sub-to_oo7",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "oo7Aye",
+      "image_id": 27978
+    },
+    {
+      "match": "oo7Dna",
+      "image_id": 52252
+    },
+    {
+      "match": "oo7Choke",
+      "image_id": 54245
+    },
+    {
+      "match": "oo7Slide",
+      "image_id": 61484
+    },
+    {
+      "match": "oo7Real",
+      "image_id": 62636
+    },
+    {
+      "match": "oo7Hype",
+      "image_id": 62638
+    }
+  ]
+}

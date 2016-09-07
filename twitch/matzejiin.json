@@ -1,1 +1,11 @@
-{"name":"twitch-sub-matzejiin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"matzeBam","image_id":85601}]}
+{
+  "name": "twitch-sub-matzejiin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "matzeBam",
+      "image_id": 85601
+    }
+  ]
+}

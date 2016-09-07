@@ -1,1 +1,23 @@
-{"name":"twitch-sub-basti_bg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bastiSowa","image_id":85669},{"match":"bastiBat","image_id":83000},{"match":"bastiArr","image_id":97518},{"match":"bastiEsport","image_id":106053}]}
+{
+  "name": "twitch-sub-basti_bg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bastiSowa",
+      "image_id": 85669
+    },
+    {
+      "match": "bastiBat",
+      "image_id": 83000
+    },
+    {
+      "match": "bastiArr",
+      "image_id": 97518
+    },
+    {
+      "match": "bastiEsport",
+      "image_id": 106053
+    }
+  ]
+}

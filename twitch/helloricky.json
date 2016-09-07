@@ -1,1 +1,19 @@
-{"name":"twitch-sub-helloricky","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rickiCHUNLI","image_id":88954},{"match":"rickiKITTY","image_id":89356},{"match":"rickiSTANDUP","image_id":88953}]}
+{
+  "name": "twitch-sub-helloricky",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rickiCHUNLI",
+      "image_id": 88954
+    },
+    {
+      "match": "rickiKITTY",
+      "image_id": 89356
+    },
+    {
+      "match": "rickiSTANDUP",
+      "image_id": 88953
+    }
+  ]
+}

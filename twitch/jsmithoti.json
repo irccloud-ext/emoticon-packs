@@ -1,1 +1,39 @@
-{"name":"twitch-sub-jsmithoti","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"otiWash","image_id":2585},{"match":"otiHorse","image_id":2586},{"match":"otiDrac","image_id":4598},{"match":"otiSmith","image_id":3273},{"match":"otiFern","image_id":3423},{"match":"otiBrak","image_id":4420},{"match":"otiHeart","image_id":5272},{"match":"otiGhost","image_id":19934}]}
+{
+  "name": "twitch-sub-jsmithoti",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "otiWash",
+      "image_id": 2585
+    },
+    {
+      "match": "otiHorse",
+      "image_id": 2586
+    },
+    {
+      "match": "otiDrac",
+      "image_id": 4598
+    },
+    {
+      "match": "otiSmith",
+      "image_id": 3273
+    },
+    {
+      "match": "otiFern",
+      "image_id": 3423
+    },
+    {
+      "match": "otiBrak",
+      "image_id": 4420
+    },
+    {
+      "match": "otiHeart",
+      "image_id": 5272
+    },
+    {
+      "match": "otiGhost",
+      "image_id": 19934
+    }
+  ]
+}

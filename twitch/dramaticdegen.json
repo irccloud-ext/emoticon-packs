@@ -1,1 +1,47 @@
-{"name":"twitch-sub-dramaticdegen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"degHux","image_id":95937},{"match":"degKO","image_id":95936},{"match":"degHeld","image_id":82603},{"match":"degHold","image_id":79519},{"match":"degRvr","image_id":79520},{"match":"degBoi","image_id":80625},{"match":"degDood","image_id":78991},{"match":"degGods","image_id":78992},{"match":"degThx","image_id":80623},{"match":"degRead","image_id":93267}]}
+{
+  "name": "twitch-sub-dramaticdegen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "degHux",
+      "image_id": 95937
+    },
+    {
+      "match": "degKO",
+      "image_id": 95936
+    },
+    {
+      "match": "degHeld",
+      "image_id": 82603
+    },
+    {
+      "match": "degHold",
+      "image_id": 79519
+    },
+    {
+      "match": "degRvr",
+      "image_id": 79520
+    },
+    {
+      "match": "degBoi",
+      "image_id": 80625
+    },
+    {
+      "match": "degDood",
+      "image_id": 78991
+    },
+    {
+      "match": "degGods",
+      "image_id": 78992
+    },
+    {
+      "match": "degThx",
+      "image_id": 80623
+    },
+    {
+      "match": "degRead",
+      "image_id": 93267
+    }
+  ]
+}

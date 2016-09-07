@@ -1,1 +1,39 @@
-{"name":"twitch-sub-nommynomm","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nommHurt","image_id":65484},{"match":"nommYo","image_id":65483},{"match":"nommLol","image_id":65482},{"match":"nommLove","image_id":63844},{"match":"nommLewd","image_id":63845},{"match":"nommShock","image_id":63846},{"match":"nommSmug","image_id":75704},{"match":"nommGrump","image_id":92255}]}
+{
+  "name": "twitch-sub-nommynomm",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nommHurt",
+      "image_id": 65484
+    },
+    {
+      "match": "nommYo",
+      "image_id": 65483
+    },
+    {
+      "match": "nommLol",
+      "image_id": 65482
+    },
+    {
+      "match": "nommLove",
+      "image_id": 63844
+    },
+    {
+      "match": "nommLewd",
+      "image_id": 63845
+    },
+    {
+      "match": "nommShock",
+      "image_id": 63846
+    },
+    {
+      "match": "nommSmug",
+      "image_id": 75704
+    },
+    {
+      "match": "nommGrump",
+      "image_id": 92255
+    }
+  ]
+}

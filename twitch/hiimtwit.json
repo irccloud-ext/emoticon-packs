@@ -1,1 +1,35 @@
-{"name":"twitch-sub-hiimtwit","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"twitLol","image_id":54800},{"match":"twitSalt","image_id":76507},{"match":"twitDerp","image_id":32597},{"match":"twitSalute","image_id":76519},{"match":"twitSHINY","image_id":45725},{"match":"twitDDD","image_id":45912},{"match":"twitHype","image_id":54799}]}
+{
+  "name": "twitch-sub-hiimtwit",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "twitLol",
+      "image_id": 54800
+    },
+    {
+      "match": "twitSalt",
+      "image_id": 76507
+    },
+    {
+      "match": "twitDerp",
+      "image_id": 32597
+    },
+    {
+      "match": "twitSalute",
+      "image_id": 76519
+    },
+    {
+      "match": "twitSHINY",
+      "image_id": 45725
+    },
+    {
+      "match": "twitDDD",
+      "image_id": 45912
+    },
+    {
+      "match": "twitHype",
+      "image_id": 54799
+    }
+  ]
+}

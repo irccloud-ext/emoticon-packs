@@ -1,1 +1,39 @@
-{"name":"twitch-sub-surefour","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sureVo","image_id":106371},{"match":"sureGasm","image_id":107745},{"match":"sureAIMFACE","image_id":95578},{"match":"sureC9","image_id":102525},{"match":"sureLOCK","image_id":101842},{"match":"sureChamp","image_id":107746},{"match":"sureM","image_id":104437},{"match":"sureKappa","image_id":107747}]}
+{
+  "name": "twitch-sub-surefour",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sureVo",
+      "image_id": 106371
+    },
+    {
+      "match": "sureGasm",
+      "image_id": 107745
+    },
+    {
+      "match": "sureAIMFACE",
+      "image_id": 95578
+    },
+    {
+      "match": "sureC9",
+      "image_id": 102525
+    },
+    {
+      "match": "sureLOCK",
+      "image_id": 101842
+    },
+    {
+      "match": "sureChamp",
+      "image_id": 107746
+    },
+    {
+      "match": "sureM",
+      "image_id": 104437
+    },
+    {
+      "match": "sureKappa",
+      "image_id": 107747
+    }
+  ]
+}

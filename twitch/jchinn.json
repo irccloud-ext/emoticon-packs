@@ -1,1 +1,39 @@
-{"name":"twitch-sub-jchinn","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chinnDany","image_id":102342},{"match":"chinnBaby","image_id":102341},{"match":"chinnWink","image_id":104193},{"match":"chinnLove","image_id":102816},{"match":"chinnRage","image_id":102817},{"match":"chinnCool","image_id":102818},{"match":"chinnTheGrey","image_id":102819},{"match":"chinnW","image_id":103646}]}
+{
+  "name": "twitch-sub-jchinn",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chinnDany",
+      "image_id": 102342
+    },
+    {
+      "match": "chinnBaby",
+      "image_id": 102341
+    },
+    {
+      "match": "chinnWink",
+      "image_id": 104193
+    },
+    {
+      "match": "chinnLove",
+      "image_id": 102816
+    },
+    {
+      "match": "chinnRage",
+      "image_id": 102817
+    },
+    {
+      "match": "chinnCool",
+      "image_id": 102818
+    },
+    {
+      "match": "chinnTheGrey",
+      "image_id": 102819
+    },
+    {
+      "match": "chinnW",
+      "image_id": 103646
+    }
+  ]
+}

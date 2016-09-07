@@ -1,1 +1,31 @@
-{"name":"twitch-sub-shirox1980","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shiroxBig","image_id":97380},{"match":"shiroxRip","image_id":108728},{"match":"shiroxOmg","image_id":53023},{"match":"shiroxChair","image_id":106831},{"match":"shiroxRobb","image_id":108800},{"match":"shiroxFail","image_id":107225}]}
+{
+  "name": "twitch-sub-shirox1980",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shiroxBig",
+      "image_id": 97380
+    },
+    {
+      "match": "shiroxRip",
+      "image_id": 108728
+    },
+    {
+      "match": "shiroxOmg",
+      "image_id": 53023
+    },
+    {
+      "match": "shiroxChair",
+      "image_id": 106831
+    },
+    {
+      "match": "shiroxRobb",
+      "image_id": 108800
+    },
+    {
+      "match": "shiroxFail",
+      "image_id": 107225
+    }
+  ]
+}

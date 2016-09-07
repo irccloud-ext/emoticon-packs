@@ -1,1 +1,15 @@
-{"name":"twitch-sub-dustknocker","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dstkVoudas","image_id":108593},{"match":"dstkSalt","image_id":108660}]}
+{
+  "name": "twitch-sub-dustknocker",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dstkVoudas",
+      "image_id": 108593
+    },
+    {
+      "match": "dstkSalt",
+      "image_id": 108660
+    }
+  ]
+}

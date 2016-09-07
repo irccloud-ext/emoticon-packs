@@ -1,1 +1,31 @@
-{"name":"twitch-sub-wizzzrobe","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wizzSonic","image_id":28744},{"match":"wizzFace","image_id":29127},{"match":"wizzStudrage","image_id":62363},{"match":"wizzPlup","image_id":62457},{"match":"wizzTellDavid","image_id":101769},{"match":"wizz64","image_id":99183}]}
+{
+  "name": "twitch-sub-wizzzrobe",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wizzSonic",
+      "image_id": 28744
+    },
+    {
+      "match": "wizzFace",
+      "image_id": 29127
+    },
+    {
+      "match": "wizzStudrage",
+      "image_id": 62363
+    },
+    {
+      "match": "wizzPlup",
+      "image_id": 62457
+    },
+    {
+      "match": "wizzTellDavid",
+      "image_id": 101769
+    },
+    {
+      "match": "wizz64",
+      "image_id": 99183
+    }
+  ]
+}

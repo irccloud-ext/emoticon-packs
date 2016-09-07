@@ -1,1 +1,23 @@
-{"name":"twitch-sub-clashongan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ganHAMMER","image_id":16234},{"match":"ganCHEST","image_id":87683},{"match":"ganTV","image_id":99370},{"match":"ganHYPE","image_id":98914}]}
+{
+  "name": "twitch-sub-clashongan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ganHAMMER",
+      "image_id": 16234
+    },
+    {
+      "match": "ganCHEST",
+      "image_id": 87683
+    },
+    {
+      "match": "ganTV",
+      "image_id": 99370
+    },
+    {
+      "match": "ganHYPE",
+      "image_id": 98914
+    }
+  ]
+}

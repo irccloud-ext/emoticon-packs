@@ -1,1 +1,23 @@
-{"name":"twitch-sub-tuboware","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tuboLobEmUp","image_id":61704},{"match":"tuboBased","image_id":63365},{"match":"tuboTrash","image_id":76620},{"match":"tuboScoops","image_id":77054}]}
+{
+  "name": "twitch-sub-tuboware",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tuboLobEmUp",
+      "image_id": 61704
+    },
+    {
+      "match": "tuboBased",
+      "image_id": 63365
+    },
+    {
+      "match": "tuboTrash",
+      "image_id": 76620
+    },
+    {
+      "match": "tuboScoops",
+      "image_id": 77054
+    }
+  ]
+}

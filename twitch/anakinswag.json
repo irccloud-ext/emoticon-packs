@@ -1,1 +1,15 @@
-{"name":"twitch-sub-anakinswag","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"anakinForce","image_id":92861},{"match":"anakinCard","image_id":92855}]}
+{
+  "name": "twitch-sub-anakinswag",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "anakinForce",
+      "image_id": 92861
+    },
+    {
+      "match": "anakinCard",
+      "image_id": 92855
+    }
+  ]
+}

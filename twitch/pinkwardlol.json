@@ -1,1 +1,27 @@
-{"name":"twitch-sub-pinkwardlol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pwdPi","image_id":58167},{"match":"pwdRIP","image_id":58168},{"match":"pwdW","image_id":58170},{"match":"pwdRage","image_id":99347},{"match":"pwdMug","image_id":109344}]}
+{
+  "name": "twitch-sub-pinkwardlol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pwdPi",
+      "image_id": 58167
+    },
+    {
+      "match": "pwdRIP",
+      "image_id": 58168
+    },
+    {
+      "match": "pwdW",
+      "image_id": 58170
+    },
+    {
+      "match": "pwdRage",
+      "image_id": 99347
+    },
+    {
+      "match": "pwdMug",
+      "image_id": 109344
+    }
+  ]
+}

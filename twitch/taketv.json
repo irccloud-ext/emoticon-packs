@@ -1,1 +1,59 @@
-{"name":"twitch-sub-taketv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"taketvKappa","image_id":69458},{"match":"taketvTake","image_id":40705},{"match":"taketvLEMONGO","image_id":27111},{"match":"taketvR3Z","image_id":27643},{"match":"taketvGG","image_id":27635},{"match":"taketvULTRA","image_id":27109},{"match":"taketvOlli","image_id":39877},{"match":"taketvWhat","image_id":40279},{"match":"taketvHAHA","image_id":41929},{"match":"taketvMollum","image_id":50770},{"match":"taketvZwiebel","image_id":50769},{"match":"taketvAuto","image_id":50768},{"match":"taketvApfelsaft","image_id":91989}]}
+{
+  "name": "twitch-sub-taketv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "taketvKappa",
+      "image_id": 69458
+    },
+    {
+      "match": "taketvTake",
+      "image_id": 40705
+    },
+    {
+      "match": "taketvLEMONGO",
+      "image_id": 27111
+    },
+    {
+      "match": "taketvR3Z",
+      "image_id": 27643
+    },
+    {
+      "match": "taketvGG",
+      "image_id": 27635
+    },
+    {
+      "match": "taketvULTRA",
+      "image_id": 27109
+    },
+    {
+      "match": "taketvOlli",
+      "image_id": 39877
+    },
+    {
+      "match": "taketvWhat",
+      "image_id": 40279
+    },
+    {
+      "match": "taketvHAHA",
+      "image_id": 41929
+    },
+    {
+      "match": "taketvMollum",
+      "image_id": 50770
+    },
+    {
+      "match": "taketvZwiebel",
+      "image_id": 50769
+    },
+    {
+      "match": "taketvAuto",
+      "image_id": 50768
+    },
+    {
+      "match": "taketvApfelsaft",
+      "image_id": 91989
+    }
+  ]
+}

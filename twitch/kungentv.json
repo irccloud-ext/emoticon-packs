@@ -1,1 +1,83 @@
-{"name":"twitch-sub-kungentv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ktvYeah","image_id":6020},{"match":"ktvRage","image_id":6018},{"match":"ktvSwag","image_id":6042},{"match":"ktvWellmet","image_id":10683},{"match":"ktvBm","image_id":19040},{"match":"ktvRekt","image_id":19043},{"match":"ktvZlatan1","image_id":23913},{"match":"ktvZlatan2","image_id":23914},{"match":"ktvTf","image_id":23924},{"match":"ktvHype","image_id":23925},{"match":"ktvKappa","image_id":24160},{"match":"ktvBan","image_id":24952},{"match":"ktvDkp","image_id":24953},{"match":"ktvRevenge","image_id":24954},{"match":"ktvWipe","image_id":24955},{"match":"ktvRip","image_id":24956},{"match":"ktvSub","image_id":24957},{"match":"ktvDots1","image_id":24958},{"match":"ktvDots2","image_id":24959}]}
+{
+  "name": "twitch-sub-kungentv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ktvYeah",
+      "image_id": 6020
+    },
+    {
+      "match": "ktvRage",
+      "image_id": 6018
+    },
+    {
+      "match": "ktvSwag",
+      "image_id": 6042
+    },
+    {
+      "match": "ktvWellmet",
+      "image_id": 10683
+    },
+    {
+      "match": "ktvBm",
+      "image_id": 19040
+    },
+    {
+      "match": "ktvRekt",
+      "image_id": 19043
+    },
+    {
+      "match": "ktvZlatan1",
+      "image_id": 23913
+    },
+    {
+      "match": "ktvZlatan2",
+      "image_id": 23914
+    },
+    {
+      "match": "ktvTf",
+      "image_id": 23924
+    },
+    {
+      "match": "ktvHype",
+      "image_id": 23925
+    },
+    {
+      "match": "ktvKappa",
+      "image_id": 24160
+    },
+    {
+      "match": "ktvBan",
+      "image_id": 24952
+    },
+    {
+      "match": "ktvDkp",
+      "image_id": 24953
+    },
+    {
+      "match": "ktvRevenge",
+      "image_id": 24954
+    },
+    {
+      "match": "ktvWipe",
+      "image_id": 24955
+    },
+    {
+      "match": "ktvRip",
+      "image_id": 24956
+    },
+    {
+      "match": "ktvSub",
+      "image_id": 24957
+    },
+    {
+      "match": "ktvDots1",
+      "image_id": 24958
+    },
+    {
+      "match": "ktvDots2",
+      "image_id": 24959
+    }
+  ]
+}

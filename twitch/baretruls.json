@@ -1,1 +1,19 @@
-{"name":"twitch-sub-baretruls","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"trulsSmil","image_id":59509},{"match":"trulsOh","image_id":100828},{"match":"trulsOmg","image_id":106696}]}
+{
+  "name": "twitch-sub-baretruls",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "trulsSmil",
+      "image_id": 59509
+    },
+    {
+      "match": "trulsOh",
+      "image_id": 100828
+    },
+    {
+      "match": "trulsOmg",
+      "image_id": 106696
+    }
+  ]
+}

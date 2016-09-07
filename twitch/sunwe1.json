@@ -1,1 +1,27 @@
-{"name":"twitch-sub-sunwe1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sunweBullet","image_id":41747},{"match":"sunweLove","image_id":41746},{"match":"sunweDeal","image_id":41842},{"match":"sunweWololo","image_id":43475},{"match":"sunweCreep","image_id":44894}]}
+{
+  "name": "twitch-sub-sunwe1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sunweBullet",
+      "image_id": 41747
+    },
+    {
+      "match": "sunweLove",
+      "image_id": 41746
+    },
+    {
+      "match": "sunweDeal",
+      "image_id": 41842
+    },
+    {
+      "match": "sunweWololo",
+      "image_id": 43475
+    },
+    {
+      "match": "sunweCreep",
+      "image_id": 44894
+    }
+  ]
+}

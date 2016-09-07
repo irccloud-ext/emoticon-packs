@@ -1,1 +1,19 @@
-{"name":"twitch-sub-gamersoriginheroes","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hotvKelzo","image_id":35057},{"match":"hotvFouz","image_id":35056},{"match":"hotvLuiji","image_id":36143}]}
+{
+  "name": "twitch-sub-gamersoriginheroes",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hotvKelzo",
+      "image_id": 35057
+    },
+    {
+      "match": "hotvFouz",
+      "image_id": 35056
+    },
+    {
+      "match": "hotvLuiji",
+      "image_id": 36143
+    }
+  ]
+}

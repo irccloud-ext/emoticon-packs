@@ -1,1 +1,39 @@
-{"name":"twitch-sub-omgezniki","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nici10","image_id":64631},{"match":"niciRage","image_id":64630},{"match":"niciL","image_id":64629},{"match":"niciCry","image_id":64627},{"match":"niciRIP","image_id":63339},{"match":"niciHype","image_id":63338},{"match":"niciHi","image_id":63341},{"match":"niciGasm","image_id":63340}]}
+{
+  "name": "twitch-sub-omgezniki",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nici10",
+      "image_id": 64631
+    },
+    {
+      "match": "niciRage",
+      "image_id": 64630
+    },
+    {
+      "match": "niciL",
+      "image_id": 64629
+    },
+    {
+      "match": "niciCry",
+      "image_id": 64627
+    },
+    {
+      "match": "niciRIP",
+      "image_id": 63339
+    },
+    {
+      "match": "niciHype",
+      "image_id": 63338
+    },
+    {
+      "match": "niciHi",
+      "image_id": 63341
+    },
+    {
+      "match": "niciGasm",
+      "image_id": 63340
+    }
+  ]
+}

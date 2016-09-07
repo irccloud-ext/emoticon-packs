@@ -1,1 +1,31 @@
-{"name":"twitch-sub-blaze","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"guybFlow","image_id":69853},{"match":"guybLive","image_id":86857},{"match":"guybBH","image_id":87850},{"match":"guybST","image_id":87851},{"match":"guybHype","image_id":100893},{"match":"guybSquad","image_id":100894}]}
+{
+  "name": "twitch-sub-blaze",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "guybFlow",
+      "image_id": 69853
+    },
+    {
+      "match": "guybLive",
+      "image_id": 86857
+    },
+    {
+      "match": "guybBH",
+      "image_id": 87850
+    },
+    {
+      "match": "guybST",
+      "image_id": 87851
+    },
+    {
+      "match": "guybHype",
+      "image_id": 100893
+    },
+    {
+      "match": "guybSquad",
+      "image_id": 100894
+    }
+  ]
+}

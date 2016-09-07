@@ -1,1 +1,19 @@
-{"name":"twitch-sub-jessicanigri","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nigriHue","image_id":87612},{"match":"nigriChuu","image_id":86978},{"match":"nigriHYPE","image_id":86977}]}
+{
+  "name": "twitch-sub-jessicanigri",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nigriHue",
+      "image_id": 87612
+    },
+    {
+      "match": "nigriChuu",
+      "image_id": 86978
+    },
+    {
+      "match": "nigriHYPE",
+      "image_id": 86977
+    }
+  ]
+}

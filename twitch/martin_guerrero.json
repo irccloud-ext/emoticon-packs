@@ -1,1 +1,39 @@
-{"name":"twitch-sub-martin_guerrero","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mgwweLogo","image_id":97983},{"match":"mgwweYes","image_id":68082},{"match":"mgwweFace","image_id":68081},{"match":"mgwweMgbelt","image_id":86470},{"match":"mgwweNo","image_id":86467},{"match":"mgwweSawft","image_id":97967},{"match":"mgwweCena","image_id":103649},{"match":"mgwweTaker","image_id":103650}]}
+{
+  "name": "twitch-sub-martin_guerrero",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mgwweLogo",
+      "image_id": 97983
+    },
+    {
+      "match": "mgwweYes",
+      "image_id": 68082
+    },
+    {
+      "match": "mgwweFace",
+      "image_id": 68081
+    },
+    {
+      "match": "mgwweMgbelt",
+      "image_id": 86470
+    },
+    {
+      "match": "mgwweNo",
+      "image_id": 86467
+    },
+    {
+      "match": "mgwweSawft",
+      "image_id": 97967
+    },
+    {
+      "match": "mgwweCena",
+      "image_id": 103649
+    },
+    {
+      "match": "mgwweTaker",
+      "image_id": 103650
+    }
+  ]
+}

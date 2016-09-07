@@ -1,1 +1,31 @@
-{"name":"twitch-sub-teddygrams18","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"teddygLOVE","image_id":26934},{"match":"teddygOOPS","image_id":27510},{"match":"teddygNo","image_id":43806},{"match":"teddygRage","image_id":56913},{"match":"teddygThirst","image_id":94063},{"match":"teddygRip","image_id":94064}]}
+{
+  "name": "twitch-sub-teddygrams18",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "teddygLOVE",
+      "image_id": 26934
+    },
+    {
+      "match": "teddygOOPS",
+      "image_id": 27510
+    },
+    {
+      "match": "teddygNo",
+      "image_id": 43806
+    },
+    {
+      "match": "teddygRage",
+      "image_id": 56913
+    },
+    {
+      "match": "teddygThirst",
+      "image_id": 94063
+    },
+    {
+      "match": "teddygRip",
+      "image_id": 94064
+    }
+  ]
+}

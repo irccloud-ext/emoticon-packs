@@ -1,1 +1,39 @@
-{"name":"twitch-sub-wolf__girl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wolfyOk","image_id":103378},{"match":"wolfyFat","image_id":74786},{"match":"wolfyH","image_id":40664},{"match":"wolfyRIP","image_id":41285},{"match":"wolfyBrave","image_id":41343},{"match":"wolfyThump","image_id":74644},{"match":"wolfyLewd","image_id":74326},{"match":"wolfyTriggered","image_id":73528}]}
+{
+  "name": "twitch-sub-wolf__girl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wolfyOk",
+      "image_id": 103378
+    },
+    {
+      "match": "wolfyFat",
+      "image_id": 74786
+    },
+    {
+      "match": "wolfyH",
+      "image_id": 40664
+    },
+    {
+      "match": "wolfyRIP",
+      "image_id": 41285
+    },
+    {
+      "match": "wolfyBrave",
+      "image_id": 41343
+    },
+    {
+      "match": "wolfyThump",
+      "image_id": 74644
+    },
+    {
+      "match": "wolfyLewd",
+      "image_id": 74326
+    },
+    {
+      "match": "wolfyTriggered",
+      "image_id": 73528
+    }
+  ]
+}

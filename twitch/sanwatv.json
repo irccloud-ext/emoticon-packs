@@ -1,1 +1,39 @@
-{"name":"twitch-sub-sanwatv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sanwaFacepalm","image_id":111090},{"match":"sanwaHAHA","image_id":110389},{"match":"sanwaQQ","image_id":110387},{"match":"sanwaLOVE","image_id":110386},{"match":"sanwaRIP","image_id":96662},{"match":"sanwaSUB","image_id":96663},{"match":"sanwaHi","image_id":92151},{"match":"sanwaKappa","image_id":111091}]}
+{
+  "name": "twitch-sub-sanwatv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sanwaFacepalm",
+      "image_id": 111090
+    },
+    {
+      "match": "sanwaHAHA",
+      "image_id": 110389
+    },
+    {
+      "match": "sanwaQQ",
+      "image_id": 110387
+    },
+    {
+      "match": "sanwaLOVE",
+      "image_id": 110386
+    },
+    {
+      "match": "sanwaRIP",
+      "image_id": 96662
+    },
+    {
+      "match": "sanwaSUB",
+      "image_id": 96663
+    },
+    {
+      "match": "sanwaHi",
+      "image_id": 92151
+    },
+    {
+      "match": "sanwaKappa",
+      "image_id": 111091
+    }
+  ]
+}

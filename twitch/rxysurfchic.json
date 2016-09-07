@@ -1,1 +1,39 @@
-{"name":"twitch-sub-rxysurfchic","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rxyRage","image_id":9111},{"match":"rxyWut","image_id":4529},{"match":"rxyJudge","image_id":7163},{"match":"rxyThirst","image_id":7786},{"match":"rxyFail","image_id":13341},{"match":"rxyNerd","image_id":24755},{"match":"rxySnipe","image_id":52410},{"match":"rxyHype","image_id":52421}]}
+{
+  "name": "twitch-sub-rxysurfchic",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rxyRage",
+      "image_id": 9111
+    },
+    {
+      "match": "rxyWut",
+      "image_id": 4529
+    },
+    {
+      "match": "rxyJudge",
+      "image_id": 7163
+    },
+    {
+      "match": "rxyThirst",
+      "image_id": 7786
+    },
+    {
+      "match": "rxyFail",
+      "image_id": 13341
+    },
+    {
+      "match": "rxyNerd",
+      "image_id": 24755
+    },
+    {
+      "match": "rxySnipe",
+      "image_id": 52410
+    },
+    {
+      "match": "rxyHype",
+      "image_id": 52421
+    }
+  ]
+}

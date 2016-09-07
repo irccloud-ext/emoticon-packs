@@ -1,1 +1,15 @@
-{"name":"twitch-sub-lizekatz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"katzSneaky","image_id":22804},{"match":"katzPizza","image_id":26394}]}
+{
+  "name": "twitch-sub-lizekatz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "katzSneaky",
+      "image_id": 22804
+    },
+    {
+      "match": "katzPizza",
+      "image_id": 26394
+    }
+  ]
+}

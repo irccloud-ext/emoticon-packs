@@ -1,1 +1,31 @@
-{"name":"twitch-sub-apparitionsgotgame","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gotgameRage","image_id":84078},{"match":"gotgameHappy","image_id":84077},{"match":"gotgameHype","image_id":84363},{"match":"gotgameSpaceship","image_id":84362},{"match":"gotgameTeamAGG","image_id":84977},{"match":"gotgameLove","image_id":84974}]}
+{
+  "name": "twitch-sub-apparitionsgotgame",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gotgameRage",
+      "image_id": 84078
+    },
+    {
+      "match": "gotgameHappy",
+      "image_id": 84077
+    },
+    {
+      "match": "gotgameHype",
+      "image_id": 84363
+    },
+    {
+      "match": "gotgameSpaceship",
+      "image_id": 84362
+    },
+    {
+      "match": "gotgameTeamAGG",
+      "image_id": 84977
+    },
+    {
+      "match": "gotgameLove",
+      "image_id": 84974
+    }
+  ]
+}

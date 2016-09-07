@@ -1,1 +1,35 @@
-{"name":"twitch-sub-treyvancleave","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tvcWhee","image_id":45763},{"match":"tvcYolo","image_id":44435},{"match":"tvcOhwow","image_id":44490},{"match":"tvcBeyaa","image_id":45253},{"match":"tvcDino","image_id":45388},{"match":"tvcClock","image_id":48327},{"match":"tvcHello","image_id":48579}]}
+{
+  "name": "twitch-sub-treyvancleave",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tvcWhee",
+      "image_id": 45763
+    },
+    {
+      "match": "tvcYolo",
+      "image_id": 44435
+    },
+    {
+      "match": "tvcOhwow",
+      "image_id": 44490
+    },
+    {
+      "match": "tvcBeyaa",
+      "image_id": 45253
+    },
+    {
+      "match": "tvcDino",
+      "image_id": 45388
+    },
+    {
+      "match": "tvcClock",
+      "image_id": 48327
+    },
+    {
+      "match": "tvcHello",
+      "image_id": 48579
+    }
+  ]
+}

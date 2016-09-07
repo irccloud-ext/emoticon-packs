@@ -1,1 +1,63 @@
-{"name":"twitch-sub-heyitsmesalty","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"saltPEW","image_id":36680},{"match":"saltVADER","image_id":36679},{"match":"saltSODA","image_id":19736},{"match":"saltPLS","image_id":17723},{"match":"saltGASM","image_id":18534},{"match":"saltKAPPA","image_id":39268},{"match":"saltPENNY","image_id":27409},{"match":"saltREKT","image_id":35134},{"match":"saltPSYCHO","image_id":35137},{"match":"saltWAT","image_id":36374},{"match":"saltLAD","image_id":36393},{"match":"saltRAGE","image_id":36452},{"match":"saltWINGS","image_id":38101},{"match":"saltONWARD","image_id":37918}]}
+{
+  "name": "twitch-sub-heyitsmesalty",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "saltPEW",
+      "image_id": 36680
+    },
+    {
+      "match": "saltVADER",
+      "image_id": 36679
+    },
+    {
+      "match": "saltSODA",
+      "image_id": 19736
+    },
+    {
+      "match": "saltPLS",
+      "image_id": 17723
+    },
+    {
+      "match": "saltGASM",
+      "image_id": 18534
+    },
+    {
+      "match": "saltKAPPA",
+      "image_id": 39268
+    },
+    {
+      "match": "saltPENNY",
+      "image_id": 27409
+    },
+    {
+      "match": "saltREKT",
+      "image_id": 35134
+    },
+    {
+      "match": "saltPSYCHO",
+      "image_id": 35137
+    },
+    {
+      "match": "saltWAT",
+      "image_id": 36374
+    },
+    {
+      "match": "saltLAD",
+      "image_id": 36393
+    },
+    {
+      "match": "saltRAGE",
+      "image_id": 36452
+    },
+    {
+      "match": "saltWINGS",
+      "image_id": 38101
+    },
+    {
+      "match": "saltONWARD",
+      "image_id": 37918
+    }
+  ]
+}

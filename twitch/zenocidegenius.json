@@ -1,1 +1,47 @@
-{"name":"twitch-sub-zenocidegenius","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zenoJam","image_id":11688},{"match":"zenoOscar","image_id":11633},{"match":"zenoNinja","image_id":10881},{"match":"zenoSlap","image_id":11844},{"match":"zenoK","image_id":32408},{"match":"zenoChare","image_id":96589},{"match":"zenoKeepoPride","image_id":65088},{"match":"zenoRage","image_id":80013},{"match":"zenoScam","image_id":79975},{"match":"zenoW","image_id":77418}]}
+{
+  "name": "twitch-sub-zenocidegenius",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zenoJam",
+      "image_id": 11688
+    },
+    {
+      "match": "zenoOscar",
+      "image_id": 11633
+    },
+    {
+      "match": "zenoNinja",
+      "image_id": 10881
+    },
+    {
+      "match": "zenoSlap",
+      "image_id": 11844
+    },
+    {
+      "match": "zenoK",
+      "image_id": 32408
+    },
+    {
+      "match": "zenoChare",
+      "image_id": 96589
+    },
+    {
+      "match": "zenoKeepoPride",
+      "image_id": 65088
+    },
+    {
+      "match": "zenoRage",
+      "image_id": 80013
+    },
+    {
+      "match": "zenoScam",
+      "image_id": 79975
+    },
+    {
+      "match": "zenoW",
+      "image_id": 77418
+    }
+  ]
+}

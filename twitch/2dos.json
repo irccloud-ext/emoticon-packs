@@ -1,1 +1,31 @@
-{"name":"twitch-sub-2dos","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dosWink","image_id":15725},{"match":"dosBag","image_id":51125},{"match":"dosHey","image_id":74424},{"match":"dosCheatBig","image_id":46676},{"match":"dosPapoosed","image_id":74698},{"match":"dosNice","image_id":74816}]}
+{
+  "name": "twitch-sub-2dos",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dosWink",
+      "image_id": 15725
+    },
+    {
+      "match": "dosBag",
+      "image_id": 51125
+    },
+    {
+      "match": "dosHey",
+      "image_id": 74424
+    },
+    {
+      "match": "dosCheatBig",
+      "image_id": 46676
+    },
+    {
+      "match": "dosPapoosed",
+      "image_id": 74698
+    },
+    {
+      "match": "dosNice",
+      "image_id": 74816
+    }
+  ]
+}

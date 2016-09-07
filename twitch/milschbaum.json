@@ -1,1 +1,39 @@
-{"name":"twitch-sub-milschbaum","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"milschBabuschka","image_id":99073},{"match":"milschHi","image_id":99076},{"match":"milschSHACO","image_id":97112},{"match":"milschGuentherLove","image_id":97118},{"match":"milschCHO","image_id":96695},{"match":"milschHYPE","image_id":97121},{"match":"milschKog","image_id":105290},{"match":"milschPupskuss","image_id":105166}]}
+{
+  "name": "twitch-sub-milschbaum",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "milschBabuschka",
+      "image_id": 99073
+    },
+    {
+      "match": "milschHi",
+      "image_id": 99076
+    },
+    {
+      "match": "milschSHACO",
+      "image_id": 97112
+    },
+    {
+      "match": "milschGuentherLove",
+      "image_id": 97118
+    },
+    {
+      "match": "milschCHO",
+      "image_id": 96695
+    },
+    {
+      "match": "milschHYPE",
+      "image_id": 97121
+    },
+    {
+      "match": "milschKog",
+      "image_id": 105290
+    },
+    {
+      "match": "milschPupskuss",
+      "image_id": 105166
+    }
+  ]
+}

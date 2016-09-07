@@ -1,1 +1,39 @@
-{"name":"twitch-sub-ichibadass","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ichiFeels","image_id":89037},{"match":"ichiHype","image_id":90466},{"match":"ichi69","image_id":87911},{"match":"ichiGG","image_id":87914},{"match":"ichiH","image_id":87483},{"match":"ichiGasm","image_id":93197},{"match":"ichiCool","image_id":93196},{"match":"ichiRage","image_id":93193}]}
+{
+  "name": "twitch-sub-ichibadass",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ichiFeels",
+      "image_id": 89037
+    },
+    {
+      "match": "ichiHype",
+      "image_id": 90466
+    },
+    {
+      "match": "ichi69",
+      "image_id": 87911
+    },
+    {
+      "match": "ichiGG",
+      "image_id": 87914
+    },
+    {
+      "match": "ichiH",
+      "image_id": 87483
+    },
+    {
+      "match": "ichiGasm",
+      "image_id": 93197
+    },
+    {
+      "match": "ichiCool",
+      "image_id": 93196
+    },
+    {
+      "match": "ichiRage",
+      "image_id": 93193
+    }
+  ]
+}

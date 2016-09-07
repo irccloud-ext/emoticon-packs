@@ -1,1 +1,23 @@
-{"name":"twitch-sub-lopyg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lopygNasos","image_id":21915},{"match":"lopygWellPlayed","image_id":21916},{"match":"lopygSoidjot","image_id":21669},{"match":"lopygTsar","image_id":21719}]}
+{
+  "name": "twitch-sub-lopyg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lopygNasos",
+      "image_id": 21915
+    },
+    {
+      "match": "lopygWellPlayed",
+      "image_id": 21916
+    },
+    {
+      "match": "lopygSoidjot",
+      "image_id": 21669
+    },
+    {
+      "match": "lopygTsar",
+      "image_id": 21719
+    }
+  ]
+}

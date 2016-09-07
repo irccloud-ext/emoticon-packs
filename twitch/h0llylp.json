@@ -1,1 +1,63 @@
-{"name":"twitch-sub-h0llylp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hlyRip","image_id":80960},{"match":"hlyPower","image_id":30009},{"match":"hlyKappa","image_id":94915},{"match":"hlySad","image_id":56757},{"match":"hlyHi","image_id":80435},{"match":"hlyFail","image_id":80433},{"match":"hlyWut","image_id":99489},{"match":"hlyH","image_id":99488},{"match":"hlyOmg","image_id":82863},{"match":"hlyGasm","image_id":82866},{"match":"hlyHax","image_id":82879},{"match":"hlyTissue","image_id":82870},{"match":"hlyDerp","image_id":82865},{"match":"hlyHype","image_id":96259}]}
+{
+  "name": "twitch-sub-h0llylp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hlyRip",
+      "image_id": 80960
+    },
+    {
+      "match": "hlyPower",
+      "image_id": 30009
+    },
+    {
+      "match": "hlyKappa",
+      "image_id": 94915
+    },
+    {
+      "match": "hlySad",
+      "image_id": 56757
+    },
+    {
+      "match": "hlyHi",
+      "image_id": 80435
+    },
+    {
+      "match": "hlyFail",
+      "image_id": 80433
+    },
+    {
+      "match": "hlyWut",
+      "image_id": 99489
+    },
+    {
+      "match": "hlyH",
+      "image_id": 99488
+    },
+    {
+      "match": "hlyOmg",
+      "image_id": 82863
+    },
+    {
+      "match": "hlyGasm",
+      "image_id": 82866
+    },
+    {
+      "match": "hlyHax",
+      "image_id": 82879
+    },
+    {
+      "match": "hlyTissue",
+      "image_id": 82870
+    },
+    {
+      "match": "hlyDerp",
+      "image_id": 82865
+    },
+    {
+      "match": "hlyHype",
+      "image_id": 96259
+    }
+  ]
+}

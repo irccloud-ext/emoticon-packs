@@ -1,1 +1,15 @@
-{"name":"twitch-sub-truthful","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"truthMATE","image_id":96870},{"match":"truthFUL","image_id":84239}]}
+{
+  "name": "twitch-sub-truthful",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "truthMATE",
+      "image_id": 96870
+    },
+    {
+      "match": "truthFUL",
+      "image_id": 84239
+    }
+  ]
+}

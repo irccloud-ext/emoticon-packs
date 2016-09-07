@@ -1,1 +1,31 @@
-{"name":"twitch-sub-zigueira","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"galudaoUranus","image_id":31957},{"match":"galudaoGaludao","image_id":30284},{"match":"galudaoZig","image_id":30444},{"match":"galudao2bala","image_id":31402},{"match":"galudaoPistola","image_id":31625},{"match":"galudaoWilson","image_id":33882}]}
+{
+  "name": "twitch-sub-zigueira",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "galudaoUranus",
+      "image_id": 31957
+    },
+    {
+      "match": "galudaoGaludao",
+      "image_id": 30284
+    },
+    {
+      "match": "galudaoZig",
+      "image_id": 30444
+    },
+    {
+      "match": "galudao2bala",
+      "image_id": 31402
+    },
+    {
+      "match": "galudaoPistola",
+      "image_id": 31625
+    },
+    {
+      "match": "galudaoWilson",
+      "image_id": 33882
+    }
+  ]
+}

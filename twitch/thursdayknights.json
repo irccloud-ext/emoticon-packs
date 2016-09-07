@@ -1,1 +1,15 @@
-{"name":"twitch-sub-thursdayknights","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tknStoyla","image_id":19662},{"match":"tknArora","image_id":19350}]}
+{
+  "name": "twitch-sub-thursdayknights",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tknStoyla",
+      "image_id": 19662
+    },
+    {
+      "match": "tknArora",
+      "image_id": 19350
+    }
+  ]
+}

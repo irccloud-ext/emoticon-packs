@@ -1,1 +1,39 @@
-{"name":"twitch-sub-glassmancometh","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"goonDUCK","image_id":73010},{"match":"goonFEET","image_id":72037},{"match":"goonLOVE","image_id":72098},{"match":"goonSTORY","image_id":76924},{"match":"goonKAPPA","image_id":74297},{"match":"goonCREEP","image_id":86380},{"match":"goonPD","image_id":104602},{"match":"goonGHOST","image_id":109740}]}
+{
+  "name": "twitch-sub-glassmancometh",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "goonDUCK",
+      "image_id": 73010
+    },
+    {
+      "match": "goonFEET",
+      "image_id": 72037
+    },
+    {
+      "match": "goonLOVE",
+      "image_id": 72098
+    },
+    {
+      "match": "goonSTORY",
+      "image_id": 76924
+    },
+    {
+      "match": "goonKAPPA",
+      "image_id": 74297
+    },
+    {
+      "match": "goonCREEP",
+      "image_id": 86380
+    },
+    {
+      "match": "goonPD",
+      "image_id": 104602
+    },
+    {
+      "match": "goonGHOST",
+      "image_id": 109740
+    }
+  ]
+}

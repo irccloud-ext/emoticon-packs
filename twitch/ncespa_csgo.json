@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ncespa_csgo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ncespaInternet","image_id":25276},{"match":"ncespaRekt","image_id":25277},{"match":"ncespaRIP","image_id":25278},{"match":"ncespaRito","image_id":25279},{"match":"ncespaClutch","image_id":25545},{"match":"ncespaVolvo","image_id":25546}]}
+{
+  "name": "twitch-sub-ncespa_csgo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ncespaInternet",
+      "image_id": 25276
+    },
+    {
+      "match": "ncespaRekt",
+      "image_id": 25277
+    },
+    {
+      "match": "ncespaRIP",
+      "image_id": 25278
+    },
+    {
+      "match": "ncespaRito",
+      "image_id": 25279
+    },
+    {
+      "match": "ncespaClutch",
+      "image_id": 25545
+    },
+    {
+      "match": "ncespaVolvo",
+      "image_id": 25546
+    }
+  ]
+}

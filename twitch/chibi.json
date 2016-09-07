@@ -1,1 +1,47 @@
-{"name":"twitch-sub-chibi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chibiFeels","image_id":38000},{"match":"chibiSquee","image_id":29514},{"match":"chibiHOI","image_id":73764},{"match":"chibiSghetti","image_id":73765},{"match":"chibiPapyross","image_id":73767},{"match":"chibiChill","image_id":37874},{"match":"chibiLewd","image_id":37872},{"match":"chibiHi","image_id":38343},{"match":"chibiLove","image_id":38352},{"match":"chibiBadTime","image_id":74293}]}
+{
+  "name": "twitch-sub-chibi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chibiFeels",
+      "image_id": 38000
+    },
+    {
+      "match": "chibiSquee",
+      "image_id": 29514
+    },
+    {
+      "match": "chibiHOI",
+      "image_id": 73764
+    },
+    {
+      "match": "chibiSghetti",
+      "image_id": 73765
+    },
+    {
+      "match": "chibiPapyross",
+      "image_id": 73767
+    },
+    {
+      "match": "chibiChill",
+      "image_id": 37874
+    },
+    {
+      "match": "chibiLewd",
+      "image_id": 37872
+    },
+    {
+      "match": "chibiHi",
+      "image_id": 38343
+    },
+    {
+      "match": "chibiLove",
+      "image_id": 38352
+    },
+    {
+      "match": "chibiBadTime",
+      "image_id": 74293
+    }
+  ]
+}

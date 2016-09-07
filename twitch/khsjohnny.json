@@ -1,1 +1,31 @@
-{"name":"twitch-sub-khsjohnny","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"khsjohnnyDaughter","image_id":66675},{"match":"khsjohnnyKillyou","image_id":66172},{"match":"khsjohnnyEmperor","image_id":65938},{"match":"khsjohnnyBadmanner","image_id":70415},{"match":"khsjohnnyVerylucky","image_id":69914},{"match":"khsjohnnyGoodjob","image_id":70005}]}
+{
+  "name": "twitch-sub-khsjohnny",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "khsjohnnyDaughter",
+      "image_id": 66675
+    },
+    {
+      "match": "khsjohnnyKillyou",
+      "image_id": 66172
+    },
+    {
+      "match": "khsjohnnyEmperor",
+      "image_id": 65938
+    },
+    {
+      "match": "khsjohnnyBadmanner",
+      "image_id": 70415
+    },
+    {
+      "match": "khsjohnnyVerylucky",
+      "image_id": 69914
+    },
+    {
+      "match": "khsjohnnyGoodjob",
+      "image_id": 70005
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-barbiegirll","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"barbiegGasm","image_id":70275},{"match":"barbieg1337","image_id":87204},{"match":"barbiegDoge","image_id":66650},{"match":"barbiegLove","image_id":69563},{"match":"barbiegBooty","image_id":69562},{"match":"barbiegAwp","image_id":69560},{"match":"barbiegRip","image_id":67464},{"match":"barbiegNutz","image_id":67463},{"match":"barbiegRage","image_id":74417},{"match":"barbiegFeels","image_id":86686}]}
+{
+  "name": "twitch-sub-barbiegirll",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "barbiegGasm",
+      "image_id": 70275
+    },
+    {
+      "match": "barbieg1337",
+      "image_id": 87204
+    },
+    {
+      "match": "barbiegDoge",
+      "image_id": 66650
+    },
+    {
+      "match": "barbiegLove",
+      "image_id": 69563
+    },
+    {
+      "match": "barbiegBooty",
+      "image_id": 69562
+    },
+    {
+      "match": "barbiegAwp",
+      "image_id": 69560
+    },
+    {
+      "match": "barbiegRip",
+      "image_id": 67464
+    },
+    {
+      "match": "barbiegNutz",
+      "image_id": 67463
+    },
+    {
+      "match": "barbiegRage",
+      "image_id": 74417
+    },
+    {
+      "match": "barbiegFeels",
+      "image_id": 86686
+    }
+  ]
+}

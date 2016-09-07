@@ -1,1 +1,39 @@
-{"name":"twitch-sub-gnarlyrita","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ritaHype","image_id":107037},{"match":"ritaSalt","image_id":107036},{"match":"ritaRage","image_id":107035},{"match":"ritaBeta","image_id":110038},{"match":"ritaAlpha","image_id":110039},{"match":"ritaRekt","image_id":108368},{"match":"ritaWave","image_id":108371},{"match":"ritaThirst","image_id":108370}]}
+{
+  "name": "twitch-sub-gnarlyrita",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ritaHype",
+      "image_id": 107037
+    },
+    {
+      "match": "ritaSalt",
+      "image_id": 107036
+    },
+    {
+      "match": "ritaRage",
+      "image_id": 107035
+    },
+    {
+      "match": "ritaBeta",
+      "image_id": 110038
+    },
+    {
+      "match": "ritaAlpha",
+      "image_id": 110039
+    },
+    {
+      "match": "ritaRekt",
+      "image_id": 108368
+    },
+    {
+      "match": "ritaWave",
+      "image_id": 108371
+    },
+    {
+      "match": "ritaThirst",
+      "image_id": 108370
+    }
+  ]
+}

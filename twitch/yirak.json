@@ -1,1 +1,31 @@
-{"name":"twitch-sub-yirak","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yirakSAD","image_id":82361},{"match":"yirakOMG","image_id":82359},{"match":"yirakRAGE","image_id":84717},{"match":"yirakRIP","image_id":84718},{"match":"yirakSUN","image_id":84719},{"match":"yirakCUTE","image_id":84720}]}
+{
+  "name": "twitch-sub-yirak",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yirakSAD",
+      "image_id": 82361
+    },
+    {
+      "match": "yirakOMG",
+      "image_id": 82359
+    },
+    {
+      "match": "yirakRAGE",
+      "image_id": 84717
+    },
+    {
+      "match": "yirakRIP",
+      "image_id": 84718
+    },
+    {
+      "match": "yirakSUN",
+      "image_id": 84719
+    },
+    {
+      "match": "yirakCUTE",
+      "image_id": 84720
+    }
+  ]
+}

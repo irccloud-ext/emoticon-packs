@@ -1,1 +1,35 @@
-{"name":"twitch-sub-shaperka","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shaperS","image_id":84537},{"match":"shaperLee","image_id":91496},{"match":"shaperGasm","image_id":60778},{"match":"shaperFam","image_id":68144},{"match":"shaperShoecat","image_id":68141},{"match":"shaperKnight","image_id":78233},{"match":"shaperW","image_id":95583}]}
+{
+  "name": "twitch-sub-shaperka",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shaperS",
+      "image_id": 84537
+    },
+    {
+      "match": "shaperLee",
+      "image_id": 91496
+    },
+    {
+      "match": "shaperGasm",
+      "image_id": 60778
+    },
+    {
+      "match": "shaperFam",
+      "image_id": 68144
+    },
+    {
+      "match": "shaperShoecat",
+      "image_id": 68141
+    },
+    {
+      "match": "shaperKnight",
+      "image_id": 78233
+    },
+    {
+      "match": "shaperW",
+      "image_id": 95583
+    }
+  ]
+}

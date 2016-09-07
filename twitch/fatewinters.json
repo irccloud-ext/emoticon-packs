@@ -1,1 +1,39 @@
-{"name":"twitch-sub-fatewinters","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fateCar","image_id":49720},{"match":"fateTub","image_id":49716},{"match":"fateLove","image_id":51945},{"match":"fateJesus","image_id":51946},{"match":"fateHype","image_id":50180},{"match":"fateRage","image_id":50179},{"match":"fateRIP","image_id":50181},{"match":"fateScream","image_id":107378}]}
+{
+  "name": "twitch-sub-fatewinters",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fateCar",
+      "image_id": 49720
+    },
+    {
+      "match": "fateTub",
+      "image_id": 49716
+    },
+    {
+      "match": "fateLove",
+      "image_id": 51945
+    },
+    {
+      "match": "fateJesus",
+      "image_id": 51946
+    },
+    {
+      "match": "fateHype",
+      "image_id": 50180
+    },
+    {
+      "match": "fateRage",
+      "image_id": 50179
+    },
+    {
+      "match": "fateRIP",
+      "image_id": 50181
+    },
+    {
+      "match": "fateScream",
+      "image_id": 107378
+    }
+  ]
+}

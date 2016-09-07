@@ -1,1 +1,39 @@
-{"name":"twitch-sub-nugiyen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nugiFace","image_id":3777},{"match":"nugiMusic","image_id":10399},{"match":"nugi5050","image_id":10400},{"match":"nugiHappy","image_id":10392},{"match":"nugi300","image_id":10394},{"match":"nugiCartman","image_id":11608},{"match":"nugiTrain","image_id":10393},{"match":"nugiJam","image_id":11609}]}
+{
+  "name": "twitch-sub-nugiyen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nugiFace",
+      "image_id": 3777
+    },
+    {
+      "match": "nugiMusic",
+      "image_id": 10399
+    },
+    {
+      "match": "nugi5050",
+      "image_id": 10400
+    },
+    {
+      "match": "nugiHappy",
+      "image_id": 10392
+    },
+    {
+      "match": "nugi300",
+      "image_id": 10394
+    },
+    {
+      "match": "nugiCartman",
+      "image_id": 11608
+    },
+    {
+      "match": "nugiTrain",
+      "image_id": 10393
+    },
+    {
+      "match": "nugiJam",
+      "image_id": 11609
+    }
+  ]
+}

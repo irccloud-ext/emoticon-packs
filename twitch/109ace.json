@@ -1,1 +1,19 @@
-{"name":"twitch-sub-109ace","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ace109Jinbae","image_id":104978},{"match":"ace109Cream","image_id":104980},{"match":"ace109Jiryong","image_id":104979}]}
+{
+  "name": "twitch-sub-109ace",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ace109Jinbae",
+      "image_id": 104978
+    },
+    {
+      "match": "ace109Cream",
+      "image_id": 104980
+    },
+    {
+      "match": "ace109Jyryomg",
+      "image_id": 112478
+    }
+  ]
+}

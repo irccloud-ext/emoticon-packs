@@ -1,1 +1,47 @@
-{"name":"twitch-sub-galacticelliot","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"galacticRIOT","image_id":51148},{"match":"galacticLOVE","image_id":51147},{"match":"galacticREGI","image_id":47989},{"match":"galacticHYPE","image_id":48160},{"match":"galacticREKT","image_id":54736},{"match":"galacticCHILLIN","image_id":54737},{"match":"galacticTHUMP","image_id":73159},{"match":"galacticWAVE","image_id":73164},{"match":"galacticRAGE","image_id":73235},{"match":"galacticLUCK","image_id":104113}]}
+{
+  "name": "twitch-sub-galacticelliot",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "galacticRIOT",
+      "image_id": 51148
+    },
+    {
+      "match": "galacticLOVE",
+      "image_id": 51147
+    },
+    {
+      "match": "galacticREGI",
+      "image_id": 47989
+    },
+    {
+      "match": "galacticHYPE",
+      "image_id": 48160
+    },
+    {
+      "match": "galacticREKT",
+      "image_id": 54736
+    },
+    {
+      "match": "galacticCHILLIN",
+      "image_id": 54737
+    },
+    {
+      "match": "galacticTHUMP",
+      "image_id": 73159
+    },
+    {
+      "match": "galacticWAVE",
+      "image_id": 73164
+    },
+    {
+      "match": "galacticRAGE",
+      "image_id": 73235
+    },
+    {
+      "match": "galacticLUCK",
+      "image_id": 104113
+    }
+  ]
+}

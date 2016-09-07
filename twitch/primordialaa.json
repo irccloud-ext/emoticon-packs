@@ -1,1 +1,39 @@
-{"name":"twitch-sub-primordialaa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"primoTrash","image_id":48320},{"match":"primoHigh","image_id":49412},{"match":"primoCool","image_id":49413},{"match":"primoSpin","image_id":49416},{"match":"primoShip","image_id":48719},{"match":"primoHold","image_id":48820},{"match":"primoFish","image_id":50423},{"match":"primoLady","image_id":50687}]}
+{
+  "name": "twitch-sub-primordialaa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "primoTrash",
+      "image_id": 48320
+    },
+    {
+      "match": "primoHigh",
+      "image_id": 49412
+    },
+    {
+      "match": "primoCool",
+      "image_id": 49413
+    },
+    {
+      "match": "primoSpin",
+      "image_id": 49416
+    },
+    {
+      "match": "primoShip",
+      "image_id": 48719
+    },
+    {
+      "match": "primoHold",
+      "image_id": 48820
+    },
+    {
+      "match": "primoFish",
+      "image_id": 50423
+    },
+    {
+      "match": "primoLady",
+      "image_id": 50687
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-waytoomanyllamas","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"llamaGF","image_id":11678},{"match":"llamaHeart","image_id":10717},{"match":"llamaFace","image_id":10718},{"match":"llamaTurd","image_id":11672},{"match":"llamaSpoon","image_id":53060},{"match":"llamaIll","image_id":53059},{"match":"llamaCarr","image_id":74564},{"match":"llamaL","image_id":74565}]}
+{
+  "name": "twitch-sub-waytoomanyllamas",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "llamaGF",
+      "image_id": 11678
+    },
+    {
+      "match": "llamaHeart",
+      "image_id": 10717
+    },
+    {
+      "match": "llamaFace",
+      "image_id": 10718
+    },
+    {
+      "match": "llamaTurd",
+      "image_id": 11672
+    },
+    {
+      "match": "llamaSpoon",
+      "image_id": 53060
+    },
+    {
+      "match": "llamaIll",
+      "image_id": 53059
+    },
+    {
+      "match": "llamaCarr",
+      "image_id": 74564
+    },
+    {
+      "match": "llamaL",
+      "image_id": 74565
+    }
+  ]
+}

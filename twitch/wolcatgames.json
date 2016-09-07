@@ -1,1 +1,19 @@
-{"name":"twitch-sub-wolcatgames","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wolHey","image_id":62544},{"match":"wolStfu","image_id":62543},{"match":"wolEvi","image_id":98804}]}
+{
+  "name": "twitch-sub-wolcatgames",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wolHey",
+      "image_id": 62544
+    },
+    {
+      "match": "wolStfu",
+      "image_id": 62543
+    },
+    {
+      "match": "wolEvi",
+      "image_id": 98804
+    }
+  ]
+}

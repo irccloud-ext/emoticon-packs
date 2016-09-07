@@ -1,1 +1,67 @@
-{"name":"twitch-sub-sips_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sipsStrawpoll","image_id":57346},{"match":"sipsSmug","image_id":15168},{"match":"sipsRip","image_id":15873},{"match":"sipsTriangles","image_id":57347},{"match":"sipsDiddit","image_id":57345},{"match":"sipsGasm","image_id":67846},{"match":"sipsNotfire","image_id":50690},{"match":"sipsUthgerd","image_id":50695},{"match":"sipsGonk","image_id":50692},{"match":"sipsGallon","image_id":50752},{"match":"sipsPlant","image_id":50691},{"match":"sipsYes","image_id":57488},{"match":"sipsNo","image_id":57489},{"match":"sipsHurt","image_id":57487},{"match":"sipsSoon","image_id":57486}]}
+{
+  "name": "twitch-sub-sips_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sipsStrawpoll",
+      "image_id": 57346
+    },
+    {
+      "match": "sipsSmug",
+      "image_id": 15168
+    },
+    {
+      "match": "sipsRip",
+      "image_id": 15873
+    },
+    {
+      "match": "sipsTriangles",
+      "image_id": 57347
+    },
+    {
+      "match": "sipsDiddit",
+      "image_id": 57345
+    },
+    {
+      "match": "sipsGasm",
+      "image_id": 67846
+    },
+    {
+      "match": "sipsNotfire",
+      "image_id": 50690
+    },
+    {
+      "match": "sipsUthgerd",
+      "image_id": 50695
+    },
+    {
+      "match": "sipsGonk",
+      "image_id": 50692
+    },
+    {
+      "match": "sipsGallon",
+      "image_id": 50752
+    },
+    {
+      "match": "sipsPlant",
+      "image_id": 50691
+    },
+    {
+      "match": "sipsYes",
+      "image_id": 57488
+    },
+    {
+      "match": "sipsNo",
+      "image_id": 57489
+    },
+    {
+      "match": "sipsHurt",
+      "image_id": 57487
+    },
+    {
+      "match": "sipsSoon",
+      "image_id": 57486
+    }
+  ]
+}

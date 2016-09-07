@@ -1,1 +1,87 @@
-{"name":"twitch-sub-tigerwriter","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tigerRenee","image_id":87870},{"match":"tigerRage","image_id":36211},{"match":"tigerBlush","image_id":36508},{"match":"tigerParty","image_id":36511},{"match":"tigerO","image_id":46819},{"match":"tigerOMG","image_id":39163},{"match":"tigerHi","image_id":46478},{"match":"tigerJen","image_id":97984},{"match":"tigerATK","image_id":46452},{"match":"tigerDFD","image_id":46453},{"match":"tigerUh","image_id":68041},{"match":"tigerLove","image_id":67969},{"match":"tigerS","image_id":67971},{"match":"tigerD","image_id":67972},{"match":"tigerG","image_id":67974},{"match":"tigerUp","image_id":67978},{"match":"tigerZ","image_id":67981},{"match":"tigerTigerGUY","image_id":77709},{"match":"tigerB","image_id":105042},{"match":"tigerKappa","image_id":103438}]}
+{
+  "name": "twitch-sub-tigerwriter",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tigerRenee",
+      "image_id": 87870
+    },
+    {
+      "match": "tigerRage",
+      "image_id": 36211
+    },
+    {
+      "match": "tigerBlush",
+      "image_id": 36508
+    },
+    {
+      "match": "tigerParty",
+      "image_id": 36511
+    },
+    {
+      "match": "tigerO",
+      "image_id": 46819
+    },
+    {
+      "match": "tigerOMG",
+      "image_id": 39163
+    },
+    {
+      "match": "tigerHi",
+      "image_id": 46478
+    },
+    {
+      "match": "tigerJen",
+      "image_id": 97984
+    },
+    {
+      "match": "tigerATK",
+      "image_id": 46452
+    },
+    {
+      "match": "tigerDFD",
+      "image_id": 46453
+    },
+    {
+      "match": "tigerUh",
+      "image_id": 68041
+    },
+    {
+      "match": "tigerLove",
+      "image_id": 67969
+    },
+    {
+      "match": "tigerS",
+      "image_id": 67971
+    },
+    {
+      "match": "tigerD",
+      "image_id": 67972
+    },
+    {
+      "match": "tigerG",
+      "image_id": 67974
+    },
+    {
+      "match": "tigerUp",
+      "image_id": 67978
+    },
+    {
+      "match": "tigerZ",
+      "image_id": 67981
+    },
+    {
+      "match": "tigerTigerGUY",
+      "image_id": 77709
+    },
+    {
+      "match": "tigerB",
+      "image_id": 105042
+    },
+    {
+      "match": "tigerKappa",
+      "image_id": 103438
+    }
+  ]
+}

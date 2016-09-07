@@ -1,1 +1,19 @@
-{"name":"twitch-sub-misslaia","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"missCry","image_id":108381},{"match":"missMad","image_id":108382},{"match":"missRip","image_id":109279}]}
+{
+  "name": "twitch-sub-misslaia",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "missCry",
+      "image_id": 108381
+    },
+    {
+      "match": "missMad",
+      "image_id": 108382
+    },
+    {
+      "match": "missRip",
+      "image_id": 109279
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-sidecarangel","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"angelarmyLW","image_id":101877},{"match":"angelarmySidecar","image_id":52109},{"match":"angelarmyHype","image_id":52111},{"match":"angelarmyALSPALS","image_id":57100},{"match":"angelarmyLove","image_id":101875},{"match":"angelarmyRW","image_id":101878}]}
+{
+  "name": "twitch-sub-sidecarangel",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "angelarmyLW",
+      "image_id": 101877
+    },
+    {
+      "match": "angelarmySidecar",
+      "image_id": 52109
+    },
+    {
+      "match": "angelarmyHype",
+      "image_id": 52111
+    },
+    {
+      "match": "angelarmyALSPALS",
+      "image_id": 57100
+    },
+    {
+      "match": "angelarmyLove",
+      "image_id": 101875
+    },
+    {
+      "match": "angelarmyRW",
+      "image_id": 101878
+    }
+  ]
+}

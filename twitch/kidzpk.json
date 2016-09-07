@@ -1,1 +1,39 @@
-{"name":"twitch-sub-kidzpk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kidzKappa","image_id":5323},{"match":"kidzHamster","image_id":5271},{"match":"kidzTroll","image_id":5845},{"match":"kidzSit","image_id":6443},{"match":"kidzLove","image_id":11211},{"match":"kidzSkull","image_id":11207},{"match":"kidzBan","image_id":11546},{"match":"kidzNoob","image_id":11548}]}
+{
+  "name": "twitch-sub-kidzpk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kidzKappa",
+      "image_id": 5323
+    },
+    {
+      "match": "kidzHamster",
+      "image_id": 5271
+    },
+    {
+      "match": "kidzTroll",
+      "image_id": 5845
+    },
+    {
+      "match": "kidzSit",
+      "image_id": 6443
+    },
+    {
+      "match": "kidzLove",
+      "image_id": 11211
+    },
+    {
+      "match": "kidzSkull",
+      "image_id": 11207
+    },
+    {
+      "match": "kidzBan",
+      "image_id": 11546
+    },
+    {
+      "match": "kidzNoob",
+      "image_id": 11548
+    }
+  ]
+}

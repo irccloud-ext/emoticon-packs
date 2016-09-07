@@ -1,1 +1,39 @@
-{"name":"twitch-sub-gl_metalchewbacca","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"metalchewDroite","image_id":85533},{"match":"metalchewTamer","image_id":85524},{"match":"metalchew3","image_id":96653},{"match":"metalchew2","image_id":96652},{"match":"metalchew1","image_id":96651},{"match":"metalchewRip","image_id":95292},{"match":"metalchewLol","image_id":95192},{"match":"metalchewTammy","image_id":95194}]}
+{
+  "name": "twitch-sub-gl_metalchewbacca",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "metalchewDroite",
+      "image_id": 85533
+    },
+    {
+      "match": "metalchewTamer",
+      "image_id": 85524
+    },
+    {
+      "match": "metalchew3",
+      "image_id": 96653
+    },
+    {
+      "match": "metalchew2",
+      "image_id": 96652
+    },
+    {
+      "match": "metalchew1",
+      "image_id": 96651
+    },
+    {
+      "match": "metalchewRip",
+      "image_id": 95292
+    },
+    {
+      "match": "metalchewLol",
+      "image_id": 95192
+    },
+    {
+      "match": "metalchewTammy",
+      "image_id": 95194
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-rhabby_v","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rhabBK","image_id":72947},{"match":"rhabHYPE","image_id":71406},{"match":"rhabRIP","image_id":83475},{"match":"rhabRAGE","image_id":78448},{"match":"rhabBAG","image_id":79720},{"match":"rhabLOVE","image_id":79038},{"match":"rhabSALT","image_id":79037},{"match":"rhabBSK","image_id":95380},{"match":"rhabRLY","image_id":108267},{"match":"rhabChamp","image_id":109904}]}
+{
+  "name": "twitch-sub-rhabby_v",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rhabHYPE",
+      "image_id": 71406
+    },
+    {
+      "match": "rhabRIP",
+      "image_id": 83475
+    },
+    {
+      "match": "rhabRAGE",
+      "image_id": 78448
+    },
+    {
+      "match": "rhabBAG",
+      "image_id": 79720
+    },
+    {
+      "match": "rhabLOVE",
+      "image_id": 79038
+    },
+    {
+      "match": "rhabSALT",
+      "image_id": 79037
+    },
+    {
+      "match": "rhabC",
+      "image_id": 112004
+    },
+    {
+      "match": "rhabBSK",
+      "image_id": 95380
+    },
+    {
+      "match": "rhabRLY",
+      "image_id": 108267
+    },
+    {
+      "match": "rhabChamp",
+      "image_id": 109904
+    }
+  ]
+}

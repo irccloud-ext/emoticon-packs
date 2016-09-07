@@ -1,1 +1,15 @@
-{"name":"twitch-sub-riolutm","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rioluK","image_id":99596},{"match":"rioluNice","image_id":100361}]}
+{
+  "name": "twitch-sub-riolutm",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rioluK",
+      "image_id": 99596
+    },
+    {
+      "match": "rioluNice",
+      "image_id": 100361
+    }
+  ]
+}

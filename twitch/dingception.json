@@ -1,1 +1,23 @@
-{"name":"twitch-sub-dingception","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dingyPlane","image_id":91616},{"match":"dingyHou","image_id":89258},{"match":"dingyAirdrop","image_id":91434},{"match":"dingyRip","image_id":91576}]}
+{
+  "name": "twitch-sub-dingception",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dingyPlane",
+      "image_id": 91616
+    },
+    {
+      "match": "dingyHou",
+      "image_id": 89258
+    },
+    {
+      "match": "dingyAirdrop",
+      "image_id": 91434
+    },
+    {
+      "match": "dingyRip",
+      "image_id": 91576
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-yogscastkim","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fluxAccurate","image_id":97541},{"match":"fluxActually","image_id":97540},{"match":"fluxGoth","image_id":97539},{"match":"fluxNoodle","image_id":104974},{"match":"fluxHug","image_id":104564},{"match":"fluxPraise","image_id":104565}]}
+{
+  "name": "twitch-sub-yogscastkim",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fluxAccurate",
+      "image_id": 97541
+    },
+    {
+      "match": "fluxActually",
+      "image_id": 97540
+    },
+    {
+      "match": "fluxGoth",
+      "image_id": 97539
+    },
+    {
+      "match": "fluxNoodle",
+      "image_id": 104974
+    },
+    {
+      "match": "fluxHug",
+      "image_id": 104564
+    },
+    {
+      "match": "fluxPraise",
+      "image_id": 104565
+    }
+  ]
+}

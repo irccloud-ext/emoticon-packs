@@ -1,1 +1,15 @@
-{"name":"twitch-sub-trekza","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"trkzWTF","image_id":103959},{"match":"trkzFeels","image_id":103956}]}
+{
+  "name": "twitch-sub-trekza",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "trkzWTF",
+      "image_id": 103959
+    },
+    {
+      "match": "trkzFeels",
+      "image_id": 103956
+    }
+  ]
+}

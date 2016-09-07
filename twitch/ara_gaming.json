@@ -1,1 +1,59 @@
-{"name":"twitch-sub-ara_gaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"araHype","image_id":20683},{"match":"araLove","image_id":14703},{"match":"araBeard","image_id":14875},{"match":"araCat","image_id":14235},{"match":"araTea","image_id":14295},{"match":"araMite","image_id":15299},{"match":"araRIP","image_id":16609},{"match":"araKappa","image_id":20897},{"match":"araTC","image_id":21964},{"match":"araRaid","image_id":22971},{"match":"araFail","image_id":22972},{"match":"araSeal","image_id":23038},{"match":"araFeels","image_id":23065}]}
+{
+  "name": "twitch-sub-ara_gaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "araHype",
+      "image_id": 20683
+    },
+    {
+      "match": "araLove",
+      "image_id": 14703
+    },
+    {
+      "match": "araBeard",
+      "image_id": 14875
+    },
+    {
+      "match": "araCat",
+      "image_id": 14235
+    },
+    {
+      "match": "araTea",
+      "image_id": 14295
+    },
+    {
+      "match": "araMite",
+      "image_id": 15299
+    },
+    {
+      "match": "araRIP",
+      "image_id": 16609
+    },
+    {
+      "match": "araKappa",
+      "image_id": 20897
+    },
+    {
+      "match": "araTC",
+      "image_id": 21964
+    },
+    {
+      "match": "araRaid",
+      "image_id": 22971
+    },
+    {
+      "match": "araFail",
+      "image_id": 22972
+    },
+    {
+      "match": "araSeal",
+      "image_id": 23038
+    },
+    {
+      "match": "araFeels",
+      "image_id": 23065
+    }
+  ]
+}

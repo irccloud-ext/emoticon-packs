@@ -1,1 +1,23 @@
-{"name":"twitch-sub-csb_yt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"csbRIP","image_id":105390},{"match":"csbChoke","image_id":105385},{"match":"csbDab","image_id":105651},{"match":"csbHype","image_id":105652}]}
+{
+  "name": "twitch-sub-csb_yt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "csbRIP",
+      "image_id": 105390
+    },
+    {
+      "match": "csbChoke",
+      "image_id": 105385
+    },
+    {
+      "match": "csbDab",
+      "image_id": 105651
+    },
+    {
+      "match": "csbHype",
+      "image_id": 105652
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-srkfunkdoc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"srkThat38","image_id":22150},{"match":"srkMysty","image_id":22151},{"match":"srkJason","image_id":111477}]}
+{
+  "name": "twitch-sub-srkfunkdoc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "srkThat38",
+      "image_id": 22150
+    },
+    {
+      "match": "srkMysty",
+      "image_id": 22151
+    },
+    {
+      "match": "srkJason",
+      "image_id": 111866
+    },
+    {
+      "match": "srkZodiak",
+      "image_id": 111867
+    }
+  ]
+}

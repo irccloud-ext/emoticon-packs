@@ -1,1 +1,35 @@
-{"name":"twitch-sub-xcaligrrlx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"caligLove","image_id":87071},{"match":"caligKarpa","image_id":68901},{"match":"caligBobcat","image_id":68902},{"match":"caligSad","image_id":68903},{"match":"caligHype","image_id":69004},{"match":"caligRip","image_id":69164},{"match":"caligWidow","image_id":69703}]}
+{
+  "name": "twitch-sub-xcaligrrlx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "caligLove",
+      "image_id": 87071
+    },
+    {
+      "match": "caligKarpa",
+      "image_id": 68901
+    },
+    {
+      "match": "caligBobcat",
+      "image_id": 68902
+    },
+    {
+      "match": "caligSad",
+      "image_id": 68903
+    },
+    {
+      "match": "caligHype",
+      "image_id": 69004
+    },
+    {
+      "match": "caligRip",
+      "image_id": 69164
+    },
+    {
+      "match": "caligWidow",
+      "image_id": 69703
+    }
+  ]
+}

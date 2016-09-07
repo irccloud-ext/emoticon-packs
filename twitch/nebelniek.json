@@ -1,1 +1,31 @@
-{"name":"twitch-sub-nebelniek","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nebelBappa","image_id":62321},{"match":"nebelFacepalm","image_id":59183},{"match":"nebelKappa","image_id":59182},{"match":"nebelNice","image_id":59036},{"match":"nebelKevin","image_id":59038},{"match":"nebelWow","image_id":62323}]}
+{
+  "name": "twitch-sub-nebelniek",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nebelBappa",
+      "image_id": 62321
+    },
+    {
+      "match": "nebelFacepalm",
+      "image_id": 59183
+    },
+    {
+      "match": "nebelKappa",
+      "image_id": 59182
+    },
+    {
+      "match": "nebelNice",
+      "image_id": 59036
+    },
+    {
+      "match": "nebelKevin",
+      "image_id": 59038
+    },
+    {
+      "match": "nebelWow",
+      "image_id": 62323
+    }
+  ]
+}

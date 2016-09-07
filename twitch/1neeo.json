@@ -1,1 +1,11 @@
-{"name":"twitch-sub-1neeo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"virilisGalo","image_id":55992}]}
+{
+  "name": "twitch-sub-1neeo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "virilisGalo",
+      "image_id": 55992
+    }
+  ]
+}

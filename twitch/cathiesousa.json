@@ -1,1 +1,31 @@
-{"name":"twitch-sub-cathiesousa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rawrrRekt","image_id":68153},{"match":"rawrrKappa","image_id":68147},{"match":"rawrrGasm","image_id":60703},{"match":"rawrrLove","image_id":60704},{"match":"rawrrCry","image_id":60705},{"match":"rawrrCookie","image_id":60706}]}
+{
+  "name": "twitch-sub-cathiesousa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rawrrRekt",
+      "image_id": 68153
+    },
+    {
+      "match": "rawrrKappa",
+      "image_id": 68147
+    },
+    {
+      "match": "rawrrGasm",
+      "image_id": 60703
+    },
+    {
+      "match": "rawrrLove",
+      "image_id": 60704
+    },
+    {
+      "match": "rawrrCry",
+      "image_id": 60705
+    },
+    {
+      "match": "rawrrCookie",
+      "image_id": 60706
+    }
+  ]
+}

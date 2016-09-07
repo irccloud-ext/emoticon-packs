@@ -1,1 +1,39 @@
-{"name":"twitch-sub-yuckyboyztv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ybtvBiidy","image_id":26144},{"match":"ybtvGun","image_id":23954},{"match":"ybtvSjp","image_id":23949},{"match":"ybtvSub","image_id":23965},{"match":"ybtvMorg","image_id":24191},{"match":"ybtvChoke","image_id":24206},{"match":"ybtvLove","image_id":34529},{"match":"ybtvAce","image_id":34051}]}
+{
+  "name": "twitch-sub-yuckyboyztv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ybtvBiidy",
+      "image_id": 26144
+    },
+    {
+      "match": "ybtvGun",
+      "image_id": 23954
+    },
+    {
+      "match": "ybtvSjp",
+      "image_id": 23949
+    },
+    {
+      "match": "ybtvSub",
+      "image_id": 23965
+    },
+    {
+      "match": "ybtvMorg",
+      "image_id": 24191
+    },
+    {
+      "match": "ybtvChoke",
+      "image_id": 24206
+    },
+    {
+      "match": "ybtvLove",
+      "image_id": 34529
+    },
+    {
+      "match": "ybtvAce",
+      "image_id": 34051
+    }
+  ]
+}

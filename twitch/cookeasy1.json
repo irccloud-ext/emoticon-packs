@@ -1,1 +1,31 @@
-{"name":"twitch-sub-cookeasy1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"easySheep","image_id":18644},{"match":"easyZi","image_id":19014},{"match":"easyYay","image_id":60102},{"match":"easyCool","image_id":60116},{"match":"easyCappa","image_id":60589},{"match":"easyFail","image_id":60115}]}
+{
+  "name": "twitch-sub-cookeasy1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "easySheep",
+      "image_id": 18644
+    },
+    {
+      "match": "easyZi",
+      "image_id": 19014
+    },
+    {
+      "match": "easyYay",
+      "image_id": 60102
+    },
+    {
+      "match": "easyCool",
+      "image_id": 60116
+    },
+    {
+      "match": "easyCappa",
+      "image_id": 60589
+    },
+    {
+      "match": "easyFail",
+      "image_id": 60115
+    }
+  ]
+}

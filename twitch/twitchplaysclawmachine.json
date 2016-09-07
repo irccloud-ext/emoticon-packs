@@ -1,1 +1,23 @@
-{"name":"twitch-sub-twitchplaysclawmachine","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tpcmClaw","image_id":91923},{"match":"tpcmBoss","image_id":91922},{"match":"tpcmHand","image_id":82692},{"match":"tpcmFeed","image_id":83182}]}
+{
+  "name": "twitch-sub-twitchplaysclawmachine",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tpcmClaw",
+      "image_id": 91923
+    },
+    {
+      "match": "tpcmBoss",
+      "image_id": 91922
+    },
+    {
+      "match": "tpcmHand",
+      "image_id": 82692
+    },
+    {
+      "match": "tpcmFeed",
+      "image_id": 83182
+    }
+  ]
+}

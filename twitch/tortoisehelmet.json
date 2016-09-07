@@ -1,1 +1,39 @@
-{"name":"twitch-sub-tortoisehelmet","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tortRAGE","image_id":23094},{"match":"tortDRILL","image_id":22986},{"match":"tortLEWD","image_id":23040},{"match":"tortLURK","image_id":23067},{"match":"tortHELM","image_id":23066},{"match":"tortNERD","image_id":33709},{"match":"tortYOU","image_id":36554},{"match":"tortDIED","image_id":36553}]}
+{
+  "name": "twitch-sub-tortoisehelmet",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tortRAGE",
+      "image_id": 23094
+    },
+    {
+      "match": "tortDRILL",
+      "image_id": 22986
+    },
+    {
+      "match": "tortLEWD",
+      "image_id": 23040
+    },
+    {
+      "match": "tortLURK",
+      "image_id": 23067
+    },
+    {
+      "match": "tortHELM",
+      "image_id": 23066
+    },
+    {
+      "match": "tortNERD",
+      "image_id": 33709
+    },
+    {
+      "match": "tortYOU",
+      "image_id": 36554
+    },
+    {
+      "match": "tortDIED",
+      "image_id": 36553
+    }
+  ]
+}

@@ -1,1 +1,63 @@
-{"name":"twitch-sub-cincinbear","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cincinFail","image_id":50951},{"match":"cincinHype","image_id":50954},{"match":"cincinLove","image_id":50955},{"match":"cincinRage","image_id":50956},{"match":"cincinYAS","image_id":50958},{"match":"cincinHi","image_id":35680},{"match":"cincinRigged","image_id":53247},{"match":"cincinVlinks","image_id":101581},{"match":"cincinTen","image_id":53194},{"match":"cincinCreep","image_id":104536},{"match":"cincinAwk","image_id":104538},{"match":"cincinRekt","image_id":104544},{"match":"cincinBaka","image_id":96383},{"match":"cincinCry","image_id":94611}]}
+{
+  "name": "twitch-sub-cincinbear",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cincinFail",
+      "image_id": 50951
+    },
+    {
+      "match": "cincinHype",
+      "image_id": 50954
+    },
+    {
+      "match": "cincinLove",
+      "image_id": 50955
+    },
+    {
+      "match": "cincinRage",
+      "image_id": 50956
+    },
+    {
+      "match": "cincinYAS",
+      "image_id": 50958
+    },
+    {
+      "match": "cincinHi",
+      "image_id": 35680
+    },
+    {
+      "match": "cincinRigged",
+      "image_id": 53247
+    },
+    {
+      "match": "cincinVlinks",
+      "image_id": 101581
+    },
+    {
+      "match": "cincinTen",
+      "image_id": 53194
+    },
+    {
+      "match": "cincinCreep",
+      "image_id": 104536
+    },
+    {
+      "match": "cincinAwk",
+      "image_id": 104538
+    },
+    {
+      "match": "cincinRekt",
+      "image_id": 104544
+    },
+    {
+      "match": "cincinBaka",
+      "image_id": 96383
+    },
+    {
+      "match": "cincinCry",
+      "image_id": 94611
+    }
+  ]
+}

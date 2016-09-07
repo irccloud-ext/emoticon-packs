@@ -1,1 +1,47 @@
-{"name":"twitch-sub-eeddspeaks","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ediEppa","image_id":7612},{"match":"ediVene","image_id":15089},{"match":"ediGg","image_id":19222},{"match":"ediMoti","image_id":52377},{"match":"ediRig","image_id":56381},{"match":"ediPepe","image_id":103373},{"match":"ediSil","image_id":56509},{"match":"ediGasm","image_id":100973},{"match":"ediNopee","image_id":100974},{"match":"ediSalt","image_id":103271}]}
+{
+  "name": "twitch-sub-eeddspeaks",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ediEppa",
+      "image_id": 7612
+    },
+    {
+      "match": "ediVene",
+      "image_id": 15089
+    },
+    {
+      "match": "ediGg",
+      "image_id": 19222
+    },
+    {
+      "match": "ediMoti",
+      "image_id": 52377
+    },
+    {
+      "match": "ediRig",
+      "image_id": 56381
+    },
+    {
+      "match": "ediPepe",
+      "image_id": 103373
+    },
+    {
+      "match": "ediSil",
+      "image_id": 56509
+    },
+    {
+      "match": "ediGasm",
+      "image_id": 100973
+    },
+    {
+      "match": "ediNopee",
+      "image_id": 100974
+    },
+    {
+      "match": "ediSalt",
+      "image_id": 103271
+    }
+  ]
+}

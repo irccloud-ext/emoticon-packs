@@ -1,1 +1,31 @@
-{"name":"twitch-sub-flyguncz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"flygunFlygun","image_id":31970},{"match":"flygunHat","image_id":31981},{"match":"flygunNoob","image_id":32315},{"match":"flygunRiplej","image_id":35108},{"match":"flygunKebab","image_id":35107},{"match":"flygunHype","image_id":38885}]}
+{
+  "name": "twitch-sub-flyguncz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "flygunFlygun",
+      "image_id": 31970
+    },
+    {
+      "match": "flygunHat",
+      "image_id": 31981
+    },
+    {
+      "match": "flygunNoob",
+      "image_id": 32315
+    },
+    {
+      "match": "flygunRiplej",
+      "image_id": 35108
+    },
+    {
+      "match": "flygunKebab",
+      "image_id": 35107
+    },
+    {
+      "match": "flygunHype",
+      "image_id": 38885
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-taintedterror","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ttrSly","image_id":71068},{"match":"ttrRage","image_id":71989},{"match":"ttrSleep","image_id":71107},{"match":"ttrLuck","image_id":71903},{"match":"ttrHey","image_id":78291},{"match":"ttrLove","image_id":78292},{"match":"ttrCry","image_id":78293},{"match":"ttrHype","image_id":78295}]}
+{
+  "name": "twitch-sub-taintedterror",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ttrSly",
+      "image_id": 71068
+    },
+    {
+      "match": "ttrRage",
+      "image_id": 71989
+    },
+    {
+      "match": "ttrSleep",
+      "image_id": 71107
+    },
+    {
+      "match": "ttrLuck",
+      "image_id": 71903
+    },
+    {
+      "match": "ttrHey",
+      "image_id": 78291
+    },
+    {
+      "match": "ttrLove",
+      "image_id": 78292
+    },
+    {
+      "match": "ttrCry",
+      "image_id": 78293
+    },
+    {
+      "match": "ttrHype",
+      "image_id": 78295
+    }
+  ]
+}

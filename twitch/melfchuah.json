@@ -1,1 +1,31 @@
-{"name":"twitch-sub-melfchuah","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"melfSub5","image_id":46380},{"match":"melfBaka","image_id":47968},{"match":"melfFan","image_id":49426},{"match":"melfGao","image_id":48948},{"match":"melfYandere","image_id":52548},{"match":"melfIka","image_id":52923}]}
+{
+  "name": "twitch-sub-melfchuah",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "melfSub5",
+      "image_id": 46380
+    },
+    {
+      "match": "melfBaka",
+      "image_id": 47968
+    },
+    {
+      "match": "melfFan",
+      "image_id": 49426
+    },
+    {
+      "match": "melfGao",
+      "image_id": 48948
+    },
+    {
+      "match": "melfYandere",
+      "image_id": 52548
+    },
+    {
+      "match": "melfIka",
+      "image_id": 52923
+    }
+  ]
+}

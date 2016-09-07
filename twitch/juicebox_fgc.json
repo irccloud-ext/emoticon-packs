@@ -1,1 +1,19 @@
-{"name":"twitch-sub-juicebox_fgc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jbxDerp","image_id":87867},{"match":"jbxKof","image_id":88802},{"match":"jbxFoot","image_id":84311}]}
+{
+  "name": "twitch-sub-juicebox_fgc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jbxDerp",
+      "image_id": 87867
+    },
+    {
+      "match": "jbxKof",
+      "image_id": 88802
+    },
+    {
+      "match": "jbxFoot",
+      "image_id": 84311
+    }
+  ]
+}

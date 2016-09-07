@@ -1,1 +1,43 @@
-{"name":"twitch-sub-kingnappy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nappySub","image_id":35384},{"match":"nappyMo","image_id":32733},{"match":"nappyBna","image_id":45827},{"match":"nappyHype","image_id":44655},{"match":"nappyBless","image_id":60087},{"match":"nappyShh","image_id":47468},{"match":"nappySadie","image_id":55083},{"match":"nappyUCL","image_id":57276},{"match":"nappyResub","image_id":68145}]}
+{
+  "name": "twitch-sub-kingnappy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nappySub",
+      "image_id": 35384
+    },
+    {
+      "match": "nappyMo",
+      "image_id": 32733
+    },
+    {
+      "match": "nappyBna",
+      "image_id": 45827
+    },
+    {
+      "match": "nappyHype",
+      "image_id": 44655
+    },
+    {
+      "match": "nappyBless",
+      "image_id": 60087
+    },
+    {
+      "match": "nappyShh",
+      "image_id": 47468
+    },
+    {
+      "match": "nappySadie",
+      "image_id": 55083
+    },
+    {
+      "match": "nappyUCL",
+      "image_id": 57276
+    },
+    {
+      "match": "nappyResub",
+      "image_id": 68145
+    }
+  ]
+}

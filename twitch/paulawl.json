@@ -1,1 +1,15 @@
-{"name":"twitch-sub-paulawl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pdmSpikes","image_id":102853},{"match":"pdmBristleback","image_id":102852}]}
+{
+  "name": "twitch-sub-paulawl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pdmSpikes",
+      "image_id": 102853
+    },
+    {
+      "match": "pdmBristleback",
+      "image_id": 102852
+    }
+  ]
+}

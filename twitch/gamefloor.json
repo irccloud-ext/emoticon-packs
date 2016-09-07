@@ -1,1 +1,39 @@
-{"name":"twitch-sub-gamefloor","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gfbrosLoL","image_id":12209},{"match":"gfbrosYeS","image_id":12210},{"match":"gfbrosMrParker","image_id":26407},{"match":"gfbrosHighFive","image_id":26408},{"match":"gfbrosBroFist","image_id":29155},{"match":"gfbrosUltimatePeace","image_id":29156},{"match":"gfbrosLaFamilia","image_id":52939},{"match":"gfbrosEpicfail","image_id":52940}]}
+{
+  "name": "twitch-sub-gamefloor",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gfbrosLoL",
+      "image_id": 12209
+    },
+    {
+      "match": "gfbrosYeS",
+      "image_id": 12210
+    },
+    {
+      "match": "gfbrosMrParker",
+      "image_id": 26407
+    },
+    {
+      "match": "gfbrosHighFive",
+      "image_id": 26408
+    },
+    {
+      "match": "gfbrosBroFist",
+      "image_id": 29155
+    },
+    {
+      "match": "gfbrosUltimatePeace",
+      "image_id": 29156
+    },
+    {
+      "match": "gfbrosLaFamilia",
+      "image_id": 52939
+    },
+    {
+      "match": "gfbrosEpicfail",
+      "image_id": 52940
+    }
+  ]
+}

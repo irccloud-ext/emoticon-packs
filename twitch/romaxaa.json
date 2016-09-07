@@ -1,1 +1,27 @@
-{"name":"twitch-sub-romaxaa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"batyalolBATYA","image_id":45985},{"match":"batyalolDDOS","image_id":45993},{"match":"batyalolKA","image_id":48065},{"match":"batyalolOivse","image_id":48364},{"match":"batyalolPro","image_id":70146}]}
+{
+  "name": "twitch-sub-romaxaa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "batyalolBATYA",
+      "image_id": 45985
+    },
+    {
+      "match": "batyalolDDOS",
+      "image_id": 45993
+    },
+    {
+      "match": "batyalolKA",
+      "image_id": 48065
+    },
+    {
+      "match": "batyalolOivse",
+      "image_id": 48364
+    },
+    {
+      "match": "batyalolPro",
+      "image_id": 70146
+    }
+  ]
+}

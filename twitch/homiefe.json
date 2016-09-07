@@ -1,1 +1,23 @@
-{"name":"twitch-sub-homiefe","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"homiHype","image_id":106544},{"match":"homiW","image_id":106543},{"match":"homiThor","image_id":108070},{"match":"homiUlt","image_id":108069}]}
+{
+  "name": "twitch-sub-homiefe",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "homiHype",
+      "image_id": 106544
+    },
+    {
+      "match": "homiW",
+      "image_id": 106543
+    },
+    {
+      "match": "homiThor",
+      "image_id": 108070
+    },
+    {
+      "match": "homiUlt",
+      "image_id": 108069
+    }
+  ]
+}

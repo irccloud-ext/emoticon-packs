@@ -1,1 +1,39 @@
-{"name":"twitch-sub-adwcta","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gotGoat","image_id":101214},{"match":"gotOmg","image_id":102302},{"match":"gotValue","image_id":57102},{"match":"gotSad","image_id":57104},{"match":"got12","image_id":99014},{"match":"gotFine","image_id":102381},{"match":"gotRiot","image_id":106926},{"match":"gotGG","image_id":106927}]}
+{
+  "name": "twitch-sub-adwcta",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gotGoat",
+      "image_id": 101214
+    },
+    {
+      "match": "gotOmg",
+      "image_id": 102302
+    },
+    {
+      "match": "gotValue",
+      "image_id": 57102
+    },
+    {
+      "match": "gotSad",
+      "image_id": 57104
+    },
+    {
+      "match": "got12",
+      "image_id": 99014
+    },
+    {
+      "match": "gotFine",
+      "image_id": 102381
+    },
+    {
+      "match": "gotRiot",
+      "image_id": 106926
+    },
+    {
+      "match": "gotGG",
+      "image_id": 106927
+    }
+  ]
+}

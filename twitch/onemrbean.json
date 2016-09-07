@@ -1,1 +1,39 @@
-{"name":"twitch-sub-onemrbean","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ombBODY","image_id":70525},{"match":"ombAFFE","image_id":48685},{"match":"ombGIR","image_id":48684},{"match":"ombLUB","image_id":70526},{"match":"ombWELP","image_id":97435},{"match":"ombTEEF","image_id":97436},{"match":"ombPAI","image_id":100646},{"match":"omb99","image_id":109492}]}
+{
+  "name": "twitch-sub-onemrbean",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ombBODY",
+      "image_id": 70525
+    },
+    {
+      "match": "ombAFFE",
+      "image_id": 48685
+    },
+    {
+      "match": "ombGIR",
+      "image_id": 48684
+    },
+    {
+      "match": "ombLUB",
+      "image_id": 70526
+    },
+    {
+      "match": "ombWELP",
+      "image_id": 97435
+    },
+    {
+      "match": "ombTEEF",
+      "image_id": 97436
+    },
+    {
+      "match": "ombPAI",
+      "image_id": 100646
+    },
+    {
+      "match": "omb99",
+      "image_id": 109492
+    }
+  ]
+}

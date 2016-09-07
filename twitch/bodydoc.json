@@ -1,1 +1,23 @@
-{"name":"twitch-sub-bodydoc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bodyRNG","image_id":21424},{"match":"bodyMUG","image_id":21588},{"match":"bodyHYPE","image_id":23347},{"match":"bodyH","image_id":39529}]}
+{
+  "name": "twitch-sub-bodydoc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bodyRNG",
+      "image_id": 21424
+    },
+    {
+      "match": "bodyMUG",
+      "image_id": 21588
+    },
+    {
+      "match": "bodyHYPE",
+      "image_id": 23347
+    },
+    {
+      "match": "bodyH",
+      "image_id": 39529
+    }
+  ]
+}

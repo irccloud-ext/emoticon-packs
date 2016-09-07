@@ -1,1 +1,31 @@
-{"name":"twitch-sub-chrissigte","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sigteGD","image_id":25639},{"match":"sigteGG","image_id":30058},{"match":"sigteHype","image_id":40861},{"match":"sigteVAC","image_id":77965},{"match":"sigteFail","image_id":56855},{"match":"sigteEasy","image_id":77658}]}
+{
+  "name": "twitch-sub-chrissigte",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sigteGD",
+      "image_id": 25639
+    },
+    {
+      "match": "sigteGG",
+      "image_id": 30058
+    },
+    {
+      "match": "sigteHype",
+      "image_id": 40861
+    },
+    {
+      "match": "sigteVAC",
+      "image_id": 77965
+    },
+    {
+      "match": "sigteFail",
+      "image_id": 56855
+    },
+    {
+      "match": "sigteEasy",
+      "image_id": 77658
+    }
+  ]
+}

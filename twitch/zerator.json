@@ -1,1 +1,87 @@
-{"name":"twitch-sub-zerator","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zrtHaaa","image_id":35771},{"match":"zrtSonpere","image_id":35889},{"match":"zrtBg","image_id":35772},{"match":"zrtLogo","image_id":35720},{"match":"zrtZorro","image_id":37281},{"match":"zrtAient","image_id":37283},{"match":"zrtOmg","image_id":36085},{"match":"zrtKappa","image_id":36084},{"match":"zrtArgent","image_id":43886},{"match":"zrtPorc","image_id":46281},{"match":"zrtW","image_id":50390},{"match":"zrtFaker","image_id":50387},{"match":"zrtVod","image_id":59310},{"match":"zrtPUB","image_id":59311},{"match":"zrtMoustache","image_id":61037},{"match":"zrtSub","image_id":61039},{"match":"zrtPalm","image_id":63690},{"match":"zrtGasm","image_id":63689},{"match":"zrtLunettes","image_id":75122},{"match":"zrtCplus","image_id":75124}]}
+{
+  "name": "twitch-sub-zerator",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zrtHaaa",
+      "image_id": 35771
+    },
+    {
+      "match": "zrtSonpere",
+      "image_id": 35889
+    },
+    {
+      "match": "zrtBg",
+      "image_id": 35772
+    },
+    {
+      "match": "zrtLogo",
+      "image_id": 35720
+    },
+    {
+      "match": "zrtZorro",
+      "image_id": 37281
+    },
+    {
+      "match": "zrtAient",
+      "image_id": 37283
+    },
+    {
+      "match": "zrtOmg",
+      "image_id": 36085
+    },
+    {
+      "match": "zrtKappa",
+      "image_id": 36084
+    },
+    {
+      "match": "zrtArgent",
+      "image_id": 43886
+    },
+    {
+      "match": "zrtPorc",
+      "image_id": 46281
+    },
+    {
+      "match": "zrtW",
+      "image_id": 50390
+    },
+    {
+      "match": "zrtFaker",
+      "image_id": 50387
+    },
+    {
+      "match": "zrtVod",
+      "image_id": 59310
+    },
+    {
+      "match": "zrtPUB",
+      "image_id": 59311
+    },
+    {
+      "match": "zrtMoustache",
+      "image_id": 61037
+    },
+    {
+      "match": "zrtSub",
+      "image_id": 61039
+    },
+    {
+      "match": "zrtPalm",
+      "image_id": 63690
+    },
+    {
+      "match": "zrtGasm",
+      "image_id": 63689
+    },
+    {
+      "match": "zrtLunettes",
+      "image_id": 75122
+    },
+    {
+      "match": "zrtCplus",
+      "image_id": 75124
+    }
+  ]
+}

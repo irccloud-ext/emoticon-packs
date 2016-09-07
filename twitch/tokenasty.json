@@ -1,1 +1,39 @@
-{"name":"twitch-sub-tokenasty","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tokePlays","image_id":65568},{"match":"tokeFace","image_id":39272},{"match":"tokeHype","image_id":39271},{"match":"tokeHyped","image_id":65533},{"match":"tokeBeast","image_id":65534},{"match":"tokeBruh","image_id":65532},{"match":"tokeDude","image_id":65531},{"match":"tokeLurk","image_id":40102}]}
+{
+  "name": "twitch-sub-tokenasty",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tokePlays",
+      "image_id": 65568
+    },
+    {
+      "match": "tokeFace",
+      "image_id": 39272
+    },
+    {
+      "match": "tokeHype",
+      "image_id": 39271
+    },
+    {
+      "match": "tokeHyped",
+      "image_id": 65533
+    },
+    {
+      "match": "tokeBeast",
+      "image_id": 65534
+    },
+    {
+      "match": "tokeBruh",
+      "image_id": 65532
+    },
+    {
+      "match": "tokeDude",
+      "image_id": 65531
+    },
+    {
+      "match": "tokeLurk",
+      "image_id": 40102
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-madfisherr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fishyBanBtch","image_id":44019},{"match":"fishyRagePup","image_id":42113},{"match":"fishyIdisuda","image_id":41841},{"match":"fishyRignipls","image_id":41592},{"match":"fishyFishFace","image_id":41591},{"match":"fishyPopFish","image_id":41616}]}
+{
+  "name": "twitch-sub-madfisherr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fishyBanBtch",
+      "image_id": 44019
+    },
+    {
+      "match": "fishyRagePup",
+      "image_id": 42113
+    },
+    {
+      "match": "fishyIdisuda",
+      "image_id": 41841
+    },
+    {
+      "match": "fishyRignipls",
+      "image_id": 41592
+    },
+    {
+      "match": "fishyFishFace",
+      "image_id": 41591
+    },
+    {
+      "match": "fishyPopFish",
+      "image_id": 41616
+    }
+  ]
+}

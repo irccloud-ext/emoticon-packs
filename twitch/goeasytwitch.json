@@ -1,1 +1,31 @@
-{"name":"twitch-sub-goeasytwitch","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gneEEENTE","image_id":106671},{"match":"gneLove","image_id":106706},{"match":"gneLOL","image_id":110183},{"match":"gneVil","image_id":110036},{"match":"gneHi","image_id":108596},{"match":"gneCry","image_id":109753}]}
+{
+  "name": "twitch-sub-goeasytwitch",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gneEEENTE",
+      "image_id": 106671
+    },
+    {
+      "match": "gneLove",
+      "image_id": 106706
+    },
+    {
+      "match": "gneLOL",
+      "image_id": 110183
+    },
+    {
+      "match": "gneVil",
+      "image_id": 110036
+    },
+    {
+      "match": "gneHi",
+      "image_id": 108596
+    },
+    {
+      "match": "gneCry",
+      "image_id": 109753
+    }
+  ]
+}

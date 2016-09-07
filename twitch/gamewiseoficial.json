@@ -1,1 +1,39 @@
-{"name":"twitch-sub-gamewiseoficial","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hueCoelhinha","image_id":14726},{"match":"hueBr","image_id":14682},{"match":"hueGamewise","image_id":29524},{"match":"hueQueissojovem","image_id":29547},{"match":"hueNyvi","image_id":30941},{"match":"hueAiquedeliciacara","image_id":31781},{"match":"hueWtf","image_id":31772},{"match":"hueOMG","image_id":32514}]}
+{
+  "name": "twitch-sub-gamewiseoficial",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hueCoelhinha",
+      "image_id": 14726
+    },
+    {
+      "match": "hueBr",
+      "image_id": 14682
+    },
+    {
+      "match": "hueGamewise",
+      "image_id": 29524
+    },
+    {
+      "match": "hueQueissojovem",
+      "image_id": 29547
+    },
+    {
+      "match": "hueNyvi",
+      "image_id": 30941
+    },
+    {
+      "match": "hueAiquedeliciacara",
+      "image_id": 31781
+    },
+    {
+      "match": "hueWtf",
+      "image_id": 31772
+    },
+    {
+      "match": "hueOMG",
+      "image_id": 32514
+    }
+  ]
+}

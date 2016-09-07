@@ -1,1 +1,15 @@
-{"name":"twitch-sub-alfreditogames21","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"alfreditenPepito","image_id":14218},{"match":"alfreditenChipi","image_id":14337}]}
+{
+  "name": "twitch-sub-alfreditogames21",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "alfreditenPepito",
+      "image_id": 14218
+    },
+    {
+      "match": "alfreditenChipi",
+      "image_id": 14337
+    }
+  ]
+}

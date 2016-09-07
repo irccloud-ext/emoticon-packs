@@ -1,1 +1,27 @@
-{"name":"twitch-sub-tiermonster","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tmxEye","image_id":8450},{"match":"tmxPro","image_id":8451},{"match":"tmxCg","image_id":8452},{"match":"tmxHead","image_id":13624},{"match":"tmxBow","image_id":15322}]}
+{
+  "name": "twitch-sub-tiermonster",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tmxEye",
+      "image_id": 8450
+    },
+    {
+      "match": "tmxPro",
+      "image_id": 8451
+    },
+    {
+      "match": "tmxCg",
+      "image_id": 8452
+    },
+    {
+      "match": "tmxHead",
+      "image_id": 13624
+    },
+    {
+      "match": "tmxBow",
+      "image_id": 15322
+    }
+  ]
+}

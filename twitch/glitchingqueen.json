@@ -1,1 +1,31 @@
-{"name":"twitch-sub-glitchingqueen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gqueenLove","image_id":34247},{"match":"gqueenSmile","image_id":26334},{"match":"gqueenHype","image_id":28261},{"match":"gqueenFbomb","image_id":28260},{"match":"gqueenSad","image_id":35903},{"match":"gqueenSliq","image_id":62541}]}
+{
+  "name": "twitch-sub-glitchingqueen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gqueenLove",
+      "image_id": 34247
+    },
+    {
+      "match": "gqueenSmile",
+      "image_id": 26334
+    },
+    {
+      "match": "gqueenHype",
+      "image_id": 28261
+    },
+    {
+      "match": "gqueenFbomb",
+      "image_id": 28260
+    },
+    {
+      "match": "gqueenSad",
+      "image_id": 35903
+    },
+    {
+      "match": "gqueenSliq",
+      "image_id": 62541
+    }
+  ]
+}

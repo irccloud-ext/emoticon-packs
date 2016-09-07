@@ -1,1 +1,47 @@
-{"name":"twitch-sub-wootystyle","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wootyW","image_id":8674},{"match":"wootyRage","image_id":8748},{"match":"wootyKappa","image_id":11786},{"match":"wootyHype","image_id":11842},{"match":"wootyRekt","image_id":11855},{"match":"wootyPeet","image_id":11918},{"match":"wootyNick","image_id":13484},{"match":"wootyGive","image_id":16945},{"match":"wootyAce","image_id":30102},{"match":"wootyToasty","image_id":31747}]}
+{
+  "name": "twitch-sub-wootystyle",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wootyW",
+      "image_id": 8674
+    },
+    {
+      "match": "wootyRage",
+      "image_id": 8748
+    },
+    {
+      "match": "wootyKappa",
+      "image_id": 11786
+    },
+    {
+      "match": "wootyHype",
+      "image_id": 11842
+    },
+    {
+      "match": "wootyRekt",
+      "image_id": 11855
+    },
+    {
+      "match": "wootyPeet",
+      "image_id": 11918
+    },
+    {
+      "match": "wootyNick",
+      "image_id": 13484
+    },
+    {
+      "match": "wootyGive",
+      "image_id": 16945
+    },
+    {
+      "match": "wootyAce",
+      "image_id": 30102
+    },
+    {
+      "match": "wootyToasty",
+      "image_id": 31747
+    }
+  ]
+}

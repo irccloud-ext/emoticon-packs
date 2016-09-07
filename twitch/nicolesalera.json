@@ -1,1 +1,39 @@
-{"name":"twitch-sub-nicolesalera","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nicoGg","image_id":101340},{"match":"nicoDoge","image_id":101548},{"match":"nicoSpoopy","image_id":101215},{"match":"nicoCheer","image_id":101546},{"match":"nicoRip","image_id":101844},{"match":"nicoSanic","image_id":103799},{"match":"nicoHype","image_id":101498},{"match":"nicoHeart","image_id":101205}]}
+{
+  "name": "twitch-sub-nicolesalera",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nicoGg",
+      "image_id": 101340
+    },
+    {
+      "match": "nicoDoge",
+      "image_id": 101548
+    },
+    {
+      "match": "nicoSpoopy",
+      "image_id": 101215
+    },
+    {
+      "match": "nicoCheer",
+      "image_id": 101546
+    },
+    {
+      "match": "nicoRip",
+      "image_id": 101844
+    },
+    {
+      "match": "nicoSanic",
+      "image_id": 103799
+    },
+    {
+      "match": "nicoHype",
+      "image_id": 101498
+    },
+    {
+      "match": "nicoHeart",
+      "image_id": 101205
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-gafallen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fallenKappa","image_id":30230},{"match":"fallenSKBR","image_id":111559},{"match":"fallenSK","image_id":111558},{"match":"fallenG","image_id":111560},{"match":"fallenScream","image_id":111561},{"match":"fallenHey","image_id":111562},{"match":"fallenBald","image_id":111563},{"match":"fallenSide","image_id":111564},{"match":"fallenBR","image_id":111565},{"match":"fallenMAD","image_id":111566}]}
+{
+  "name": "twitch-sub-gafallen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fallenKappa",
+      "image_id": 30230
+    },
+    {
+      "match": "fallenSKBR",
+      "image_id": 111559
+    },
+    {
+      "match": "fallenSK",
+      "image_id": 111558
+    },
+    {
+      "match": "fallenG",
+      "image_id": 111560
+    },
+    {
+      "match": "fallenScream",
+      "image_id": 111561
+    },
+    {
+      "match": "fallenHey",
+      "image_id": 111562
+    },
+    {
+      "match": "fallenBald",
+      "image_id": 111563
+    },
+    {
+      "match": "fallenSide",
+      "image_id": 111564
+    },
+    {
+      "match": "fallenBR",
+      "image_id": 111565
+    },
+    {
+      "match": "fallenMAD",
+      "image_id": 111566
+    }
+  ]
+}

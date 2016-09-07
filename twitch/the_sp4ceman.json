@@ -1,1 +1,15 @@
-{"name":"twitch-sub-the_sp4ceman","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sp4ceKappa","image_id":40191},{"match":"sp4ceWeeb","image_id":105653}]}
+{
+  "name": "twitch-sub-the_sp4ceman",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sp4ceKappa",
+      "image_id": 40191
+    },
+    {
+      "match": "sp4ceWeeb",
+      "image_id": 105653
+    }
+  ]
+}

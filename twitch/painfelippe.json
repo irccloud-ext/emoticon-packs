@@ -1,1 +1,23 @@
-{"name":"twitch-sub-painfelippe","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"felippeHe","image_id":13249},{"match":"felippe1","image_id":13252},{"match":"felippeNTC","image_id":14716},{"match":"felippeCash","image_id":14717}]}
+{
+  "name": "twitch-sub-painfelippe",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "felippeHe",
+      "image_id": 13249
+    },
+    {
+      "match": "felippe1",
+      "image_id": 13252
+    },
+    {
+      "match": "felippeNTC",
+      "image_id": 14716
+    },
+    {
+      "match": "felippeCash",
+      "image_id": 14717
+    }
+  ]
+}

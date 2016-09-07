@@ -1,1 +1,67 @@
-{"name":"twitch-sub-broskian","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"broskiHype","image_id":72529},{"match":"broskiFeelsgood","image_id":78538},{"match":"broskiHi","image_id":78275},{"match":"broskiXur","image_id":78514},{"match":"broskiSad","image_id":78718},{"match":"broskiCool","image_id":78282},{"match":"broskiGasm","image_id":78284},{"match":"broskiCreep","image_id":107132},{"match":"broskiFeels","image_id":107133},{"match":"broskiLove","image_id":107136},{"match":"broskiMad","image_id":107138},{"match":"broskiTroll","image_id":107140},{"match":"broskiDR","image_id":107141},{"match":"broskiLurk","image_id":107142},{"match":"broskiRIP","image_id":107143}]}
+{
+  "name": "twitch-sub-broskian",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "broskiHype",
+      "image_id": 72529
+    },
+    {
+      "match": "broskiFeelsgood",
+      "image_id": 78538
+    },
+    {
+      "match": "broskiHi",
+      "image_id": 78275
+    },
+    {
+      "match": "broskiXur",
+      "image_id": 78514
+    },
+    {
+      "match": "broskiSad",
+      "image_id": 78718
+    },
+    {
+      "match": "broskiCool",
+      "image_id": 78282
+    },
+    {
+      "match": "broskiGasm",
+      "image_id": 78284
+    },
+    {
+      "match": "broskiCreep",
+      "image_id": 107132
+    },
+    {
+      "match": "broskiFeels",
+      "image_id": 107133
+    },
+    {
+      "match": "broskiLove",
+      "image_id": 107136
+    },
+    {
+      "match": "broskiMad",
+      "image_id": 107138
+    },
+    {
+      "match": "broskiTroll",
+      "image_id": 107140
+    },
+    {
+      "match": "broskiDR",
+      "image_id": 107141
+    },
+    {
+      "match": "broskiLurk",
+      "image_id": 107142
+    },
+    {
+      "match": "broskiRIP",
+      "image_id": 107143
+    }
+  ]
+}

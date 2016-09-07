@@ -1,1 +1,31 @@
-{"name":"twitch-sub-shahzam","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zamKnife","image_id":7734},{"match":"zamNS","image_id":6687},{"match":"zamFace","image_id":6516},{"match":"zamKappa","image_id":9096},{"match":"zamSpider","image_id":15653},{"match":"zamWoo","image_id":31783}]}
+{
+  "name": "twitch-sub-shahzam",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zamKnife",
+      "image_id": 7734
+    },
+    {
+      "match": "zamNS",
+      "image_id": 6687
+    },
+    {
+      "match": "zamFace",
+      "image_id": 6516
+    },
+    {
+      "match": "zamKappa",
+      "image_id": 9096
+    },
+    {
+      "match": "zamSpider",
+      "image_id": 15653
+    },
+    {
+      "match": "zamWoo",
+      "image_id": 31783
+    }
+  ]
+}

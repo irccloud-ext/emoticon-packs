@@ -1,1 +1,39 @@
-{"name":"twitch-sub-jaxstyle","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jaxiChamp","image_id":101051},{"match":"jaxiSkaal","image_id":101031},{"match":"jaxiGasm","image_id":98207},{"match":"jaxiHirk","image_id":98384},{"match":"jaxiMonner","image_id":98727},{"match":"jaxiCringe","image_id":100164},{"match":"jaxiFedora","image_id":102141},{"match":"jaxiFeelsGood","image_id":105124}]}
+{
+  "name": "twitch-sub-jaxstyle",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jaxiChamp",
+      "image_id": 101051
+    },
+    {
+      "match": "jaxiSkaal",
+      "image_id": 101031
+    },
+    {
+      "match": "jaxiGasm",
+      "image_id": 98207
+    },
+    {
+      "match": "jaxiHirk",
+      "image_id": 98384
+    },
+    {
+      "match": "jaxiMonner",
+      "image_id": 98727
+    },
+    {
+      "match": "jaxiCringe",
+      "image_id": 100164
+    },
+    {
+      "match": "jaxiFedora",
+      "image_id": 102141
+    },
+    {
+      "match": "jaxiFeelsGood",
+      "image_id": 105124
+    }
+  ]
+}

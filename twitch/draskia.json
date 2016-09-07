@@ -1,1 +1,39 @@
-{"name":"twitch-sub-draskia","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"drasCat1","image_id":82394},{"match":"drasCat2","image_id":82395},{"match":"drasDerp","image_id":71167},{"match":"drasMort","image_id":71165},{"match":"drasRaid","image_id":71166},{"match":"drasHype","image_id":71164},{"match":"drasHeart","image_id":71163},{"match":"drasThump","image_id":71981}]}
+{
+  "name": "twitch-sub-draskia",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "drasCat1",
+      "image_id": 82394
+    },
+    {
+      "match": "drasCat2",
+      "image_id": 82395
+    },
+    {
+      "match": "drasDerp",
+      "image_id": 71167
+    },
+    {
+      "match": "drasMort",
+      "image_id": 71165
+    },
+    {
+      "match": "drasRaid",
+      "image_id": 71166
+    },
+    {
+      "match": "drasHype",
+      "image_id": 71164
+    },
+    {
+      "match": "drasHeart",
+      "image_id": 71163
+    },
+    {
+      "match": "drasThump",
+      "image_id": 71981
+    }
+  ]
+}

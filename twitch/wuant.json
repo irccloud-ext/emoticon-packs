@@ -1,1 +1,23 @@
-{"name":"twitch-sub-wuant","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wuantVader","image_id":99895},{"match":"wuantDamn","image_id":99340},{"match":"wuantGasm","image_id":98191},{"match":"wuantZed","image_id":98936}]}
+{
+  "name": "twitch-sub-wuant",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wuantVader",
+      "image_id": 99895
+    },
+    {
+      "match": "wuantDamn",
+      "image_id": 99340
+    },
+    {
+      "match": "wuantGasm",
+      "image_id": 98191
+    },
+    {
+      "match": "wuantZed",
+      "image_id": 98936
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-bitterbits","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bitterUgh","image_id":93943},{"match":"bitterWTF","image_id":93844},{"match":"bitterSmug","image_id":94710},{"match":"bitterHype","image_id":94711},{"match":"bitterSweet","image_id":92920},{"match":"bitterEnd","image_id":94044}]}
+{
+  "name": "twitch-sub-bitterbits",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bitterUgh",
+      "image_id": 93943
+    },
+    {
+      "match": "bitterWTF",
+      "image_id": 93844
+    },
+    {
+      "match": "bitterSmug",
+      "image_id": 94710
+    },
+    {
+      "match": "bitterHype",
+      "image_id": 94711
+    },
+    {
+      "match": "bitterSweet",
+      "image_id": 92920
+    },
+    {
+      "match": "bitterEnd",
+      "image_id": 94044
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"twitch-sub-breakycpk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cpkFiesta","image_id":2976},{"match":"cpkKadoosh","image_id":2573},{"match":"cpkSwag","image_id":2766},{"match":"cpkSub","image_id":3314},{"match":"cpkMurica","image_id":3347},{"match":"cpkBacon","image_id":3385},{"match":"cpkPlinko","image_id":3386}]}
+{
+  "name": "twitch-sub-breakycpk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cpkFiesta",
+      "image_id": 2976
+    },
+    {
+      "match": "cpkKadoosh",
+      "image_id": 2573
+    },
+    {
+      "match": "cpkSwag",
+      "image_id": 2766
+    },
+    {
+      "match": "cpkSub",
+      "image_id": 3314
+    },
+    {
+      "match": "cpkMurica",
+      "image_id": 3347
+    },
+    {
+      "match": "cpkBacon",
+      "image_id": 3385
+    },
+    {
+      "match": "cpkPlinko",
+      "image_id": 3386
+    }
+  ]
+}

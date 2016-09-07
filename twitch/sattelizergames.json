@@ -1,1 +1,47 @@
-{"name":"twitch-sub-sattelizergames","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sattResist","image_id":16356},{"match":"sattLol","image_id":60060},{"match":"sattHey","image_id":60059},{"match":"sattRekt","image_id":27241},{"match":"sattLewd","image_id":37461},{"match":"sattLove","image_id":44293},{"match":"sattFail","image_id":44292},{"match":"sattSad","image_id":44291},{"match":"sattHype","image_id":48310},{"match":"sattRage","image_id":103607}]}
+{
+  "name": "twitch-sub-sattelizergames",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sattResist",
+      "image_id": 16356
+    },
+    {
+      "match": "sattLol",
+      "image_id": 60060
+    },
+    {
+      "match": "sattHey",
+      "image_id": 60059
+    },
+    {
+      "match": "sattRekt",
+      "image_id": 27241
+    },
+    {
+      "match": "sattLewd",
+      "image_id": 37461
+    },
+    {
+      "match": "sattLove",
+      "image_id": 44293
+    },
+    {
+      "match": "sattFail",
+      "image_id": 44292
+    },
+    {
+      "match": "sattSad",
+      "image_id": 44291
+    },
+    {
+      "match": "sattHype",
+      "image_id": 48310
+    },
+    {
+      "match": "sattRage",
+      "image_id": 103607
+    }
+  ]
+}

@@ -1,1 +1,11 @@
-{"name":"twitch-sub-rubiralive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rubiraHaribol","image_id":55669}]}
+{
+  "name": "twitch-sub-rubiralive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rubiraHaribol",
+      "image_id": 55669
+    }
+  ]
+}

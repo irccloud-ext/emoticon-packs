@@ -1,1 +1,39 @@
-{"name":"twitch-sub-zeven_na","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zevPanda","image_id":27163},{"match":"zevDog","image_id":29039},{"match":"zevSheep","image_id":75793},{"match":"zevRng","image_id":46637},{"match":"zevGo","image_id":46425},{"match":"zevBully","image_id":56119},{"match":"zevSheep","image_id":80064},{"match":"zevTato","image_id":111301}]}
+{
+  "name": "twitch-sub-zeven_na",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zevPanda",
+      "image_id": 27163
+    },
+    {
+      "match": "zevDog",
+      "image_id": 29039
+    },
+    {
+      "match": "zevSheep",
+      "image_id": 75793
+    },
+    {
+      "match": "zevRng",
+      "image_id": 46637
+    },
+    {
+      "match": "zevGo",
+      "image_id": 46425
+    },
+    {
+      "match": "zevBully",
+      "image_id": 56119
+    },
+    {
+      "match": "zevSheep",
+      "image_id": 80064
+    },
+    {
+      "match": "zevTato",
+      "image_id": 111301
+    }
+  ]
+}

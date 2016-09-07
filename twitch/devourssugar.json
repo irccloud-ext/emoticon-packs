@@ -1,1 +1,31 @@
-{"name":"twitch-sub-devourssugar","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dvrsPUP","image_id":44815},{"match":"dvrsLOVE","image_id":49278},{"match":"dvrsGG","image_id":49281},{"match":"dvrsHYPE","image_id":49279},{"match":"dvrsSUB","image_id":49282},{"match":"dvrsRAGE","image_id":49381}]}
+{
+  "name": "twitch-sub-devourssugar",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dvrsPUP",
+      "image_id": 44815
+    },
+    {
+      "match": "dvrsLOVE",
+      "image_id": 49278
+    },
+    {
+      "match": "dvrsGG",
+      "image_id": 49281
+    },
+    {
+      "match": "dvrsHYPE",
+      "image_id": 49279
+    },
+    {
+      "match": "dvrsSUB",
+      "image_id": 49282
+    },
+    {
+      "match": "dvrsRAGE",
+      "image_id": 49381
+    }
+  ]
+}

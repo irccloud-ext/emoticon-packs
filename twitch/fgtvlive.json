@@ -1,1 +1,55 @@
-{"name":"twitch-sub-fgtvlive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fgtvFCHAMP","image_id":212},{"match":"fgtvPRROG","image_id":213},{"match":"fgtvHIRO","image_id":214},{"match":"fgtvCJSHOW","image_id":215},{"match":"fgtvBEARPUNS","image_id":217},{"match":"fgtvSTFUR","image_id":219},{"match":"fgtvLANDO33","image_id":222},{"match":"fgtvRICKYO","image_id":9302},{"match":"fgtvDORMDAWG","image_id":9300},{"match":"fgtvNEO","image_id":9301},{"match":"fgtvSALTFORD","image_id":14152},{"match":"fgtvCHAMPELICAN","image_id":14154}]}
+{
+  "name": "twitch-sub-fgtvlive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fgtvFCHAMP",
+      "image_id": 212
+    },
+    {
+      "match": "fgtvPRROG",
+      "image_id": 213
+    },
+    {
+      "match": "fgtvHIRO",
+      "image_id": 214
+    },
+    {
+      "match": "fgtvCJSHOW",
+      "image_id": 215
+    },
+    {
+      "match": "fgtvBEARPUNS",
+      "image_id": 217
+    },
+    {
+      "match": "fgtvSTFUR",
+      "image_id": 219
+    },
+    {
+      "match": "fgtvLANDO33",
+      "image_id": 222
+    },
+    {
+      "match": "fgtvRICKYO",
+      "image_id": 9302
+    },
+    {
+      "match": "fgtvDORMDAWG",
+      "image_id": 9300
+    },
+    {
+      "match": "fgtvNEO",
+      "image_id": 9301
+    },
+    {
+      "match": "fgtvSALTFORD",
+      "image_id": 14152
+    },
+    {
+      "match": "fgtvCHAMPELICAN",
+      "image_id": 14154
+    }
+  ]
+}

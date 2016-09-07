@@ -1,1 +1,47 @@
-{"name":"twitch-sub-inexpensivegamer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ruuSter","image_id":15115},{"match":"ruuWaifu","image_id":36742},{"match":"ruuCry","image_id":85383},{"match":"ruuYup","image_id":85391},{"match":"ruuEey","image_id":85384},{"match":"ruuWtf","image_id":85400},{"match":"ruuSalt","image_id":85390},{"match":"ruuPee","image_id":85389},{"match":"ruuEh","image_id":86643},{"match":"ruuDurr","image_id":97352}]}
+{
+  "name": "twitch-sub-inexpensivegamer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ruuSter",
+      "image_id": 15115
+    },
+    {
+      "match": "ruuWaifu",
+      "image_id": 36742
+    },
+    {
+      "match": "ruuCry",
+      "image_id": 85383
+    },
+    {
+      "match": "ruuYup",
+      "image_id": 85391
+    },
+    {
+      "match": "ruuEey",
+      "image_id": 85384
+    },
+    {
+      "match": "ruuWtf",
+      "image_id": 85400
+    },
+    {
+      "match": "ruuSalt",
+      "image_id": 85390
+    },
+    {
+      "match": "ruuPee",
+      "image_id": 85389
+    },
+    {
+      "match": "ruuEh",
+      "image_id": 86643
+    },
+    {
+      "match": "ruuDurr",
+      "image_id": 97352
+    }
+  ]
+}

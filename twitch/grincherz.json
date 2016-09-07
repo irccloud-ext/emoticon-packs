@@ -1,1 +1,23 @@
-{"name":"twitch-sub-grincherz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"grinchRage","image_id":95980},{"match":"grinchHYPE","image_id":99385},{"match":"grinchTopD","image_id":98968},{"match":"grinchHa","image_id":98982}]}
+{
+  "name": "twitch-sub-grincherz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "grinchRage",
+      "image_id": 95980
+    },
+    {
+      "match": "grinchHYPE",
+      "image_id": 99385
+    },
+    {
+      "match": "grinchTopD",
+      "image_id": 98968
+    },
+    {
+      "match": "grinchHa",
+      "image_id": 98982
+    }
+  ]
+}

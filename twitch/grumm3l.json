@@ -1,1 +1,39 @@
-{"name":"twitch-sub-grumm3l","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"grmlSad","image_id":51580},{"match":"grmlGrml","image_id":51578},{"match":"grmlAngry","image_id":49417},{"match":"grmlHappy","image_id":49418},{"match":"grmlPoo","image_id":54143},{"match":"grmlRock","image_id":54144},{"match":"grmlSlap","image_id":54145},{"match":"grmlGeneral","image_id":54142}]}
+{
+  "name": "twitch-sub-grumm3l",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "grmlSad",
+      "image_id": 51580
+    },
+    {
+      "match": "grmlGrml",
+      "image_id": 51578
+    },
+    {
+      "match": "grmlAngry",
+      "image_id": 49417
+    },
+    {
+      "match": "grmlHappy",
+      "image_id": 49418
+    },
+    {
+      "match": "grmlPoo",
+      "image_id": 54143
+    },
+    {
+      "match": "grmlRock",
+      "image_id": 54144
+    },
+    {
+      "match": "grmlSlap",
+      "image_id": 54145
+    },
+    {
+      "match": "grmlGeneral",
+      "image_id": 54142
+    }
+  ]
+}

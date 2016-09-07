@@ -1,1 +1,31 @@
-{"name":"twitch-sub-pro4never","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"p4nHype","image_id":20790},{"match":"p4nJinx","image_id":19457},{"match":"p4nFelv","image_id":19477},{"match":"p4nPepper","image_id":20459},{"match":"p4nPony","image_id":21238},{"match":"p4nJappa","image_id":21245}]}
+{
+  "name": "twitch-sub-pro4never",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "p4nHype",
+      "image_id": 20790
+    },
+    {
+      "match": "p4nJinx",
+      "image_id": 19457
+    },
+    {
+      "match": "p4nFelv",
+      "image_id": 19477
+    },
+    {
+      "match": "p4nPepper",
+      "image_id": 20459
+    },
+    {
+      "match": "p4nPony",
+      "image_id": 21238
+    },
+    {
+      "match": "p4nJappa",
+      "image_id": 21245
+    }
+  ]
+}

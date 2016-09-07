@@ -1,1 +1,31 @@
-{"name":"twitch-sub-bl00dybizkitz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bl00dyBananaBoy","image_id":18420},{"match":"bl00dyFBuildings","image_id":18556},{"match":"bl00dySeabiscuit","image_id":77494},{"match":"bl00dyStare","image_id":26172},{"match":"bl00dyHaHaYe","image_id":75569},{"match":"bl00dyBBS","image_id":75739}]}
+{
+  "name": "twitch-sub-bl00dybizkitz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bl00dyBananaBoy",
+      "image_id": 18420
+    },
+    {
+      "match": "bl00dyFBuildings",
+      "image_id": 18556
+    },
+    {
+      "match": "bl00dySeabiscuit",
+      "image_id": 77494
+    },
+    {
+      "match": "bl00dyStare",
+      "image_id": 26172
+    },
+    {
+      "match": "bl00dyHaHaYe",
+      "image_id": 75569
+    },
+    {
+      "match": "bl00dyBBS",
+      "image_id": 75739
+    }
+  ]
+}

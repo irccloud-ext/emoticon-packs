@@ -1,1 +1,23 @@
-{"name":"twitch-sub-jakemcsgo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jakemTROLL","image_id":69695},{"match":"jakemOP","image_id":69691},{"match":"jakemCOOL","image_id":69990},{"match":"jakemBrain","image_id":70041}]}
+{
+  "name": "twitch-sub-jakemcsgo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jakemTROLL",
+      "image_id": 69695
+    },
+    {
+      "match": "jakemOP",
+      "image_id": 69691
+    },
+    {
+      "match": "jakemCOOL",
+      "image_id": 69990
+    },
+    {
+      "match": "jakemBrain",
+      "image_id": 70041
+    }
+  ]
+}

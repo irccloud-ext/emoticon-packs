@@ -1,1 +1,31 @@
-{"name":"twitch-sub-taketv_heroes","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ttvheroesW","image_id":93716},{"match":"ttvheroesULTRA","image_id":40276},{"match":"ttvheroesGG","image_id":40275},{"match":"ttvheroesThrow","image_id":64037},{"match":"ttvheroesWolle","image_id":63959},{"match":"ttvheroesSchaf","image_id":65073}]}
+{
+  "name": "twitch-sub-taketv_heroes",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ttvheroesW",
+      "image_id": 93716
+    },
+    {
+      "match": "ttvheroesULTRA",
+      "image_id": 40276
+    },
+    {
+      "match": "ttvheroesGG",
+      "image_id": 40275
+    },
+    {
+      "match": "ttvheroesThrow",
+      "image_id": 64037
+    },
+    {
+      "match": "ttvheroesWolle",
+      "image_id": 63959
+    },
+    {
+      "match": "ttvheroesSchaf",
+      "image_id": 65073
+    }
+  ]
+}

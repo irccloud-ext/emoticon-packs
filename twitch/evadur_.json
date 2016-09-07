@@ -1,1 +1,31 @@
-{"name":"twitch-sub-evadur_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"evadurPup","image_id":18764},{"match":"evadurGoat","image_id":19502},{"match":"evadurChoke","image_id":103315},{"match":"evadurF343","image_id":103316},{"match":"evadurFronk","image_id":104427},{"match":"evadurTilt","image_id":106993}]}
+{
+  "name": "twitch-sub-evadur_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "evadurPup",
+      "image_id": 18764
+    },
+    {
+      "match": "evadurGoat",
+      "image_id": 19502
+    },
+    {
+      "match": "evadurChoke",
+      "image_id": 103315
+    },
+    {
+      "match": "evadurF343",
+      "image_id": 103316
+    },
+    {
+      "match": "evadurFronk",
+      "image_id": 104427
+    },
+    {
+      "match": "evadurTilt",
+      "image_id": 106993
+    }
+  ]
+}

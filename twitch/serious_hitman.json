@@ -1,1 +1,23 @@
-{"name":"twitch-sub-serious_hitman","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"seriousMortalKombat","image_id":25416},{"match":"seriousEdBoon","image_id":25417},{"match":"seriousChick","image_id":25606},{"match":"seriousRock","image_id":32032}]}
+{
+  "name": "twitch-sub-serious_hitman",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "seriousMortalKombat",
+      "image_id": 25416
+    },
+    {
+      "match": "seriousEdBoon",
+      "image_id": 25417
+    },
+    {
+      "match": "seriousChick",
+      "image_id": 25606
+    },
+    {
+      "match": "seriousRock",
+      "image_id": 32032
+    }
+  ]
+}

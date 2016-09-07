@@ -1,1 +1,39 @@
-{"name":"twitch-sub-reninsane","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"renGasm","image_id":19826},{"match":"renRekt","image_id":40435},{"match":"renKappa","image_id":40433},{"match":"renHype","image_id":40432},{"match":"renH","image_id":40431},{"match":"renGG","image_id":40430},{"match":"renSub","image_id":57491},{"match":"renNieH","image_id":84451}]}
+{
+  "name": "twitch-sub-reninsane",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "renGasm",
+      "image_id": 19826
+    },
+    {
+      "match": "renRekt",
+      "image_id": 40435
+    },
+    {
+      "match": "renKappa",
+      "image_id": 40433
+    },
+    {
+      "match": "renHype",
+      "image_id": 40432
+    },
+    {
+      "match": "renH",
+      "image_id": 40431
+    },
+    {
+      "match": "renGG",
+      "image_id": 40430
+    },
+    {
+      "match": "renSub",
+      "image_id": 57491
+    },
+    {
+      "match": "renNieH",
+      "image_id": 84451
+    }
+  ]
+}

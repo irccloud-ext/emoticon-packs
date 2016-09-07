@@ -1,1 +1,27 @@
-{"name":"twitch-sub-milleniumtvcod","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mtvcodShootKrnagien","image_id":98151},{"match":"mtvcodM","image_id":57840},{"match":"mtvcodChoke","image_id":57841},{"match":"mtvcodOMG","image_id":98041},{"match":"mtvcodCarbonGODM","image_id":98040}]}
+{
+  "name": "twitch-sub-milleniumtvcod",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mtvcodShootKrnagien",
+      "image_id": 98151
+    },
+    {
+      "match": "mtvcodM",
+      "image_id": 57840
+    },
+    {
+      "match": "mtvcodChoke",
+      "image_id": 57841
+    },
+    {
+      "match": "mtvcodOMG",
+      "image_id": 98041
+    },
+    {
+      "match": "mtvcodCarbonGODM",
+      "image_id": 98040
+    }
+  ]
+}

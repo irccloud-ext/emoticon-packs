@@ -1,1 +1,23 @@
-{"name":"twitch-sub-threatii","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"threatGasm","image_id":92200},{"match":"threatW","image_id":92106},{"match":"threatRope","image_id":92113},{"match":"threatPride","image_id":101789}]}
+{
+  "name": "twitch-sub-threatii",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "threatGasm",
+      "image_id": 92200
+    },
+    {
+      "match": "threatW",
+      "image_id": 92106
+    },
+    {
+      "match": "threatRope",
+      "image_id": 92113
+    },
+    {
+      "match": "threatPride",
+      "image_id": 101789
+    }
+  ]
+}

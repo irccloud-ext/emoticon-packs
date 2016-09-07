@@ -1,1 +1,39 @@
-{"name":"twitch-sub-tinypixxels","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pipLeft","image_id":87963},{"match":"pipRip","image_id":86751},{"match":"pipLove","image_id":86749},{"match":"pipHype","image_id":86748},{"match":"pipHoi","image_id":86747},{"match":"pipRage","image_id":86750},{"match":"pipFix","image_id":86915},{"match":"pipKasper","image_id":109174}]}
+{
+  "name": "twitch-sub-tinypixxels",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pipLeft",
+      "image_id": 87963
+    },
+    {
+      "match": "pipRip",
+      "image_id": 86751
+    },
+    {
+      "match": "pipLove",
+      "image_id": 86749
+    },
+    {
+      "match": "pipHype",
+      "image_id": 86748
+    },
+    {
+      "match": "pipHoi",
+      "image_id": 86747
+    },
+    {
+      "match": "pipRage",
+      "image_id": 86750
+    },
+    {
+      "match": "pipFix",
+      "image_id": 86915
+    },
+    {
+      "match": "pipKasper",
+      "image_id": 109174
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ag_bean3r","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"beanToxi","image_id":20197},{"match":"beanAG","image_id":20610},{"match":"beanAmortz","image_id":70028},{"match":"beanKappa","image_id":70026},{"match":"beanPalm","image_id":70025},{"match":"beanRage","image_id":70024}]}
+{
+  "name": "twitch-sub-ag_bean3r",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "beanToxi",
+      "image_id": 20197
+    },
+    {
+      "match": "beanAG",
+      "image_id": 20610
+    },
+    {
+      "match": "beanAmortz",
+      "image_id": 70028
+    },
+    {
+      "match": "beanKappa",
+      "image_id": 70026
+    },
+    {
+      "match": "beanPalm",
+      "image_id": 70025
+    },
+    {
+      "match": "beanRage",
+      "image_id": 70024
+    }
+  ]
+}

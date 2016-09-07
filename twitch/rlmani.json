@@ -1,1 +1,23 @@
-{"name":"twitch-sub-rlmani","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"manitumbaWIN","image_id":76815},{"match":"manitumbaT","image_id":76814},{"match":"manitumbaVI","image_id":76934},{"match":"manitumbaCREW","image_id":76816}]}
+{
+  "name": "twitch-sub-rlmani",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "manitumbaWIN",
+      "image_id": 76815
+    },
+    {
+      "match": "manitumbaT",
+      "image_id": 76814
+    },
+    {
+      "match": "manitumbaVI",
+      "image_id": 76934
+    },
+    {
+      "match": "manitumbaCREW",
+      "image_id": 76816
+    }
+  ]
+}

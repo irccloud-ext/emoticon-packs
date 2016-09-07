@@ -1,1 +1,39 @@
-{"name":"twitch-sub-al3sh3k","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aleshSingerino","image_id":12418},{"match":"aleshW","image_id":37543},{"match":"aleshThump","image_id":39518},{"match":"aleshFail","image_id":37544},{"match":"aleshArmy","image_id":37471},{"match":"aleshRage","image_id":52669},{"match":"aleshC","image_id":64003},{"match":"aleshCharlie","image_id":64469}]}
+{
+  "name": "twitch-sub-al3sh3k",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aleshSingerino",
+      "image_id": 12418
+    },
+    {
+      "match": "aleshW",
+      "image_id": 37543
+    },
+    {
+      "match": "aleshThump",
+      "image_id": 39518
+    },
+    {
+      "match": "aleshFail",
+      "image_id": 37544
+    },
+    {
+      "match": "aleshArmy",
+      "image_id": 37471
+    },
+    {
+      "match": "aleshRage",
+      "image_id": 52669
+    },
+    {
+      "match": "aleshC",
+      "image_id": 64003
+    },
+    {
+      "match": "aleshCharlie",
+      "image_id": 64469
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-axelhunter","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pickleRAGE","image_id":71265},{"match":"pickleGG","image_id":71266},{"match":"pickleLOVE","image_id":71264},{"match":"pickleRIP","image_id":71269},{"match":"pickleHYPE","image_id":71267},{"match":"pickleSUBHYPE","image_id":71221}]}
+{
+  "name": "twitch-sub-axelhunter",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pickleRAGE",
+      "image_id": 71265
+    },
+    {
+      "match": "pickleGG",
+      "image_id": 71266
+    },
+    {
+      "match": "pickleLOVE",
+      "image_id": 71264
+    },
+    {
+      "match": "pickleRIP",
+      "image_id": 71269
+    },
+    {
+      "match": "pickleHYPE",
+      "image_id": 71267
+    },
+    {
+      "match": "pickleSUBHYPE",
+      "image_id": 71221
+    }
+  ]
+}

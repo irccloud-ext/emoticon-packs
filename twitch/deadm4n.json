@@ -1,1 +1,11 @@
-{"name":"twitch-sub-deadm4n","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dmtvDice","image_id":21268}]}
+{
+  "name": "twitch-sub-deadm4n",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dmtvDice",
+      "image_id": 21268
+    }
+  ]
+}

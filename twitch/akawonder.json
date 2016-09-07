@@ -1,1 +1,39 @@
-{"name":"twitch-sub-akawonder","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"akaPOW","image_id":35381},{"match":"akaTEA","image_id":43500},{"match":"akaW","image_id":48652},{"match":"akaMISS","image_id":48880},{"match":"akaSNIPE","image_id":65105},{"match":"akaGIRL","image_id":66411},{"match":"akaFANTA","image_id":86267},{"match":"akaHORA","image_id":86268}]}
+{
+  "name": "twitch-sub-akawonder",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "akaPOW",
+      "image_id": 35381
+    },
+    {
+      "match": "akaTEA",
+      "image_id": 43500
+    },
+    {
+      "match": "akaW",
+      "image_id": 48652
+    },
+    {
+      "match": "akaMISS",
+      "image_id": 48880
+    },
+    {
+      "match": "akaSNIPE",
+      "image_id": 65105
+    },
+    {
+      "match": "akaGIRL",
+      "image_id": 66411
+    },
+    {
+      "match": "akaFANTA",
+      "image_id": 86267
+    },
+    {
+      "match": "akaHORA",
+      "image_id": 86268
+    }
+  ]
+}

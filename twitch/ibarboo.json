@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ibarboo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ibarbooRIP","image_id":96457},{"match":"ibarbooOMG","image_id":99774},{"match":"ibarbooMDR","image_id":99773},{"match":"ibarbooGG","image_id":94111},{"match":"ibarbooSUB","image_id":94110},{"match":"ibarbooBRUH","image_id":94492}]}
+{
+  "name": "twitch-sub-ibarboo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ibarbooRIP",
+      "image_id": 96457
+    },
+    {
+      "match": "ibarbooOMG",
+      "image_id": 99774
+    },
+    {
+      "match": "ibarbooMDR",
+      "image_id": 99773
+    },
+    {
+      "match": "ibarbooGG",
+      "image_id": 94111
+    },
+    {
+      "match": "ibarbooSUB",
+      "image_id": 94110
+    },
+    {
+      "match": "ibarbooBRUH",
+      "image_id": 94492
+    }
+  ]
+}

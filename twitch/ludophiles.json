@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ludophiles","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ludoLove","image_id":101234},{"match":"ludoBeer","image_id":50963},{"match":"ludoRage","image_id":101235},{"match":"ludoScratch","image_id":67705},{"match":"ludoSola","image_id":71647},{"match":"ludoSpock","image_id":71781}]}
+{
+  "name": "twitch-sub-ludophiles",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ludoLove",
+      "image_id": 101234
+    },
+    {
+      "match": "ludoBeer",
+      "image_id": 50963
+    },
+    {
+      "match": "ludoRage",
+      "image_id": 101235
+    },
+    {
+      "match": "ludoScratch",
+      "image_id": 67705
+    },
+    {
+      "match": "ludoSola",
+      "image_id": 71647
+    },
+    {
+      "match": "ludoSpock",
+      "image_id": 71781
+    }
+  ]
+}

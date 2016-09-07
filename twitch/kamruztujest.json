@@ -1,1 +1,23 @@
-{"name":"twitch-sub-kamruztujest","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kamruzChamp","image_id":109800},{"match":"kamruzRage","image_id":109799},{"match":"kamruzW","image_id":109797},{"match":"kamruzCho","image_id":109794}]}
+{
+  "name": "twitch-sub-kamruztujest",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kamruzChamp",
+      "image_id": 109800
+    },
+    {
+      "match": "kamruzRage",
+      "image_id": 109799
+    },
+    {
+      "match": "kamruzW",
+      "image_id": 109797
+    },
+    {
+      "match": "kamruzCho",
+      "image_id": 109794
+    }
+  ]
+}

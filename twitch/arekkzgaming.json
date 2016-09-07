@@ -1,1 +1,31 @@
-{"name":"twitch-sub-arekkzgaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"arekkzRogue","image_id":88398},{"match":"arekkzHi","image_id":100283},{"match":"arekkzHype","image_id":100284},{"match":"arekkzSalt","image_id":100285},{"match":"arekkzRIP","image_id":100286},{"match":"arekkzFacePalm","image_id":100287}]}
+{
+  "name": "twitch-sub-arekkzgaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "arekkzRogue",
+      "image_id": 88398
+    },
+    {
+      "match": "arekkzHi",
+      "image_id": 100283
+    },
+    {
+      "match": "arekkzHype",
+      "image_id": 100284
+    },
+    {
+      "match": "arekkzSalt",
+      "image_id": 100285
+    },
+    {
+      "match": "arekkzRIP",
+      "image_id": 100286
+    },
+    {
+      "match": "arekkzFacePalm",
+      "image_id": 100287
+    }
+  ]
+}

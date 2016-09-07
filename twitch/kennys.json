@@ -1,1 +1,15 @@
-{"name":"twitch-sub-kennys","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kennysHype","image_id":81841},{"match":"kennysLore","image_id":81842}]}
+{
+  "name": "twitch-sub-kennys",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kennysHype",
+      "image_id": 81841
+    },
+    {
+      "match": "kennysLore",
+      "image_id": 81842
+    }
+  ]
+}

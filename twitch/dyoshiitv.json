@@ -1,1 +1,47 @@
-{"name":"twitch-sub-dyoshiitv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dyoDoot","image_id":78461},{"match":"dyoCart","image_id":76550},{"match":"dyoRage","image_id":77086},{"match":"dyoPoogChamp","image_id":76251},{"match":"dyoGDay","image_id":76260},{"match":"dyoKonchu","image_id":78743},{"match":"dyoNap","image_id":79361},{"match":"dyoHuh","image_id":107724},{"match":"dyoHeart","image_id":107725},{"match":"dyoEDF","image_id":107723}]}
+{
+  "name": "twitch-sub-dyoshiitv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dyoDoot",
+      "image_id": 78461
+    },
+    {
+      "match": "dyoCart",
+      "image_id": 76550
+    },
+    {
+      "match": "dyoRage",
+      "image_id": 77086
+    },
+    {
+      "match": "dyoPoogChamp",
+      "image_id": 76251
+    },
+    {
+      "match": "dyoGDay",
+      "image_id": 76260
+    },
+    {
+      "match": "dyoKonchu",
+      "image_id": 78743
+    },
+    {
+      "match": "dyoNap",
+      "image_id": 79361
+    },
+    {
+      "match": "dyoHuh",
+      "image_id": 107724
+    },
+    {
+      "match": "dyoHeart",
+      "image_id": 107725
+    },
+    {
+      "match": "dyoEDF",
+      "image_id": 107723
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-scapeskill","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"scapeSub","image_id":88364},{"match":"scapeLove","image_id":88359},{"match":"scapeLuck","image_id":86447},{"match":"scapeDC","image_id":86450},{"match":"scapeTune","image_id":86449},{"match":"scapeRIP","image_id":86448}]}
+{
+  "name": "twitch-sub-scapeskill",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "scapeSub",
+      "image_id": 88364
+    },
+    {
+      "match": "scapeLove",
+      "image_id": 88359
+    },
+    {
+      "match": "scapeLuck",
+      "image_id": 86447
+    },
+    {
+      "match": "scapeDC",
+      "image_id": 86450
+    },
+    {
+      "match": "scapeTune",
+      "image_id": 86449
+    },
+    {
+      "match": "scapeRIP",
+      "image_id": 86448
+    }
+  ]
+}

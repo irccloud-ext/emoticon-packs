@@ -1,1 +1,39 @@
-{"name":"twitch-sub-thiefbug","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"thiefWhy","image_id":12406},{"match":"thiefBux","image_id":14141},{"match":"thiefHappy","image_id":14136},{"match":"thiefRIP","image_id":28056},{"match":"thiefDansen","image_id":45854},{"match":"thiefLove","image_id":66146},{"match":"thiefHi","image_id":94803},{"match":"thiefHype","image_id":83321}]}
+{
+  "name": "twitch-sub-thiefbug",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "thiefWhy",
+      "image_id": 12406
+    },
+    {
+      "match": "thiefBux",
+      "image_id": 14141
+    },
+    {
+      "match": "thiefHappy",
+      "image_id": 14136
+    },
+    {
+      "match": "thiefRIP",
+      "image_id": 28056
+    },
+    {
+      "match": "thiefDansen",
+      "image_id": 45854
+    },
+    {
+      "match": "thiefLove",
+      "image_id": 66146
+    },
+    {
+      "match": "thiefHi",
+      "image_id": 94803
+    },
+    {
+      "match": "thiefHype",
+      "image_id": 83321
+    }
+  ]
+}

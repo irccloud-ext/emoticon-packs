@@ -1,1 +1,39 @@
-{"name":"twitch-sub-nightmarerh","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hoobaChainsaw","image_id":20580},{"match":"hoobaComp","image_id":21110},{"match":"hoobaPop","image_id":22766},{"match":"hoobaRage","image_id":22864},{"match":"hoobaSub","image_id":50020},{"match":"hoobaDD","image_id":50185},{"match":"hoobaBunglet","image_id":51279},{"match":"hoobaHammer","image_id":51280}]}
+{
+  "name": "twitch-sub-nightmarerh",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hoobaChainsaw",
+      "image_id": 20580
+    },
+    {
+      "match": "hoobaComp",
+      "image_id": 21110
+    },
+    {
+      "match": "hoobaPop",
+      "image_id": 22766
+    },
+    {
+      "match": "hoobaRage",
+      "image_id": 22864
+    },
+    {
+      "match": "hoobaSub",
+      "image_id": 50020
+    },
+    {
+      "match": "hoobaDD",
+      "image_id": 50185
+    },
+    {
+      "match": "hoobaBunglet",
+      "image_id": 51279
+    },
+    {
+      "match": "hoobaHammer",
+      "image_id": 51280
+    }
+  ]
+}

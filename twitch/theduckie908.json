@@ -1,1 +1,39 @@
-{"name":"twitch-sub-theduckie908","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"duckieHey","image_id":88466},{"match":"duckieSeaLove","image_id":90005},{"match":"duckieHype","image_id":80487},{"match":"duckieRip","image_id":80653},{"match":"duckieSinWat","image_id":96608},{"match":"duckieRekt","image_id":89777},{"match":"duckieSalty","image_id":89776},{"match":"duckieFail","image_id":95178}]}
+{
+  "name": "twitch-sub-theduckie908",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "duckieHey",
+      "image_id": 88466
+    },
+    {
+      "match": "duckieSeaLove",
+      "image_id": 90005
+    },
+    {
+      "match": "duckieHype",
+      "image_id": 80487
+    },
+    {
+      "match": "duckieRip",
+      "image_id": 80653
+    },
+    {
+      "match": "duckieSinWat",
+      "image_id": 96608
+    },
+    {
+      "match": "duckieRekt",
+      "image_id": 89777
+    },
+    {
+      "match": "duckieSalty",
+      "image_id": 89776
+    },
+    {
+      "match": "duckieFail",
+      "image_id": 95178
+    }
+  ]
+}

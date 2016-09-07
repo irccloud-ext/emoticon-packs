@@ -1,1 +1,39 @@
-{"name":"twitch-sub-missmonalisa88","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"monaCry","image_id":26265},{"match":"monaRage","image_id":26267},{"match":"monaDrunk","image_id":27461},{"match":"monaHotdog","image_id":27460},{"match":"monaPoop","image_id":26715},{"match":"monaLotion","image_id":26718},{"match":"monaJames","image_id":41221},{"match":"monaHello","image_id":78870}]}
+{
+  "name": "twitch-sub-missmonalisa88",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "monaCry",
+      "image_id": 26265
+    },
+    {
+      "match": "monaRage",
+      "image_id": 26267
+    },
+    {
+      "match": "monaDrunk",
+      "image_id": 27461
+    },
+    {
+      "match": "monaHotdog",
+      "image_id": 27460
+    },
+    {
+      "match": "monaPoop",
+      "image_id": 26715
+    },
+    {
+      "match": "monaLotion",
+      "image_id": 26718
+    },
+    {
+      "match": "monaJames",
+      "image_id": 41221
+    },
+    {
+      "match": "monaHello",
+      "image_id": 78870
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-bbbstream","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bklsWTF","image_id":80045},{"match":"bklsKISS","image_id":80457},{"match":"bklsNOOB","image_id":81594},{"match":"bklsPRODANO","image_id":81597}]}
+{
+  "name": "twitch-sub-bbbstream",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bklsWTF",
+      "image_id": 80045
+    },
+    {
+      "match": "bklsKISS",
+      "image_id": 80457
+    },
+    {
+      "match": "bklsNOOB",
+      "image_id": 81594
+    },
+    {
+      "match": "bklsPRODANO",
+      "image_id": 81597
+    }
+  ]
+}

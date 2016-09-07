@@ -1,1 +1,35 @@
-{"name":"twitch-sub-emiliahult","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"emiliaAPPRECIATE","image_id":84743},{"match":"emiliaGUCCI","image_id":84745},{"match":"emiliaSALT","image_id":84747},{"match":"emiliaHULTING","image_id":84746},{"match":"emiliaHYPE","image_id":104089},{"match":"emiliaBOOSTED","image_id":104090},{"match":"emiliaHULK","image_id":104088}]}
+{
+  "name": "twitch-sub-emiliahult",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "emiliaAPPRECIATE",
+      "image_id": 84743
+    },
+    {
+      "match": "emiliaGUCCI",
+      "image_id": 84745
+    },
+    {
+      "match": "emiliaSALT",
+      "image_id": 84747
+    },
+    {
+      "match": "emiliaHULTING",
+      "image_id": 84746
+    },
+    {
+      "match": "emiliaHYPE",
+      "image_id": 104089
+    },
+    {
+      "match": "emiliaBOOSTED",
+      "image_id": 104090
+    },
+    {
+      "match": "emiliaHULK",
+      "image_id": 104088
+    }
+  ]
+}

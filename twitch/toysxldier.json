@@ -1,1 +1,19 @@
-{"name":"twitch-sub-toysxldier","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"toyBodied","image_id":86140},{"match":"toyDonut","image_id":86141},{"match":"toyOP","image_id":86142}]}
+{
+  "name": "twitch-sub-toysxldier",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "toyBodied",
+      "image_id": 86140
+    },
+    {
+      "match": "toyDonut",
+      "image_id": 86141
+    },
+    {
+      "match": "toyOP",
+      "image_id": 86142
+    }
+  ]
+}

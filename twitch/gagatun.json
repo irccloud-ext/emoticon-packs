@@ -1,1 +1,31 @@
-{"name":"twitch-sub-gagatun","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gagatunOwl","image_id":12713},{"match":"gagatunOwl2","image_id":12714},{"match":"gagatunKanistra","image_id":12784},{"match":"gagatunLol","image_id":12786},{"match":"gagatunUfuf","image_id":12375},{"match":"gagatunCox","image_id":12374}]}
+{
+  "name": "twitch-sub-gagatun",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gagatunOwl",
+      "image_id": 12713
+    },
+    {
+      "match": "gagatunOwl2",
+      "image_id": 12714
+    },
+    {
+      "match": "gagatunKanistra",
+      "image_id": 12784
+    },
+    {
+      "match": "gagatunLol",
+      "image_id": 12786
+    },
+    {
+      "match": "gagatunUfuf",
+      "image_id": 12375
+    },
+    {
+      "match": "gagatunCox",
+      "image_id": 12374
+    }
+  ]
+}

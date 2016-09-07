@@ -1,1 +1,15 @@
-{"name":"twitch-sub-hammehow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hammPOTG","image_id":102372},{"match":"hammWisp","image_id":102369}]}
+{
+  "name": "twitch-sub-hammehow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hammPOTG",
+      "image_id": 102372
+    },
+    {
+      "match": "hammWisp",
+      "image_id": 102369
+    }
+  ]
+}

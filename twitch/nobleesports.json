@@ -1,1 +1,15 @@
-{"name":"twitch-sub-nobleesports","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nobleWin","image_id":47190},{"match":"nobleGG","image_id":109324}]}
+{
+  "name": "twitch-sub-nobleesports",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nobleWin",
+      "image_id": 47190
+    },
+    {
+      "match": "nobleGG",
+      "image_id": 109324
+    }
+  ]
+}

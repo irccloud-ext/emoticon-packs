@@ -1,1 +1,23 @@
-{"name":"twitch-sub-visgaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xenMg","image_id":20643},{"match":"xenRacle","image_id":20132},{"match":"xenLove","image_id":40062},{"match":"xenRekt","image_id":40091}]}
+{
+  "name": "twitch-sub-visgaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xenMg",
+      "image_id": 20643
+    },
+    {
+      "match": "xenRacle",
+      "image_id": 20132
+    },
+    {
+      "match": "xenLove",
+      "image_id": 40062
+    },
+    {
+      "match": "xenRekt",
+      "image_id": 40091
+    }
+  ]
+}

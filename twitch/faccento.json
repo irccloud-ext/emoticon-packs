@@ -1,1 +1,23 @@
-{"name":"twitch-sub-faccento","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"facceTIME","image_id":78898},{"match":"facceAMTI","image_id":78897},{"match":"facceCASH","image_id":78894},{"match":"facceHYPE","image_id":78893}]}
+{
+  "name": "twitch-sub-faccento",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "facceTIME",
+      "image_id": 78898
+    },
+    {
+      "match": "facceAMTI",
+      "image_id": 78897
+    },
+    {
+      "match": "facceCASH",
+      "image_id": 78894
+    },
+    {
+      "match": "facceHYPE",
+      "image_id": 78893
+    }
+  ]
+}

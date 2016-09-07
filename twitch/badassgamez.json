@@ -1,1 +1,23 @@
-{"name":"twitch-sub-badassgamez","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bagzOMG","image_id":50158},{"match":"bagzJinx","image_id":50477},{"match":"bagzPlode","image_id":50478},{"match":"bagzChen","image_id":87405}]}
+{
+  "name": "twitch-sub-badassgamez",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bagzOMG",
+      "image_id": 50158
+    },
+    {
+      "match": "bagzJinx",
+      "image_id": 50477
+    },
+    {
+      "match": "bagzPlode",
+      "image_id": 50478
+    },
+    {
+      "match": "bagzChen",
+      "image_id": 87405
+    }
+  ]
+}

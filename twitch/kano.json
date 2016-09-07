@@ -1,1 +1,47 @@
-{"name":"twitch-sub-kano","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kanoW","image_id":77331},{"match":"kanoHype","image_id":80424},{"match":"kanoHi","image_id":77435},{"match":"kanoThump","image_id":77799},{"match":"kanoH","image_id":77800},{"match":"kanoHug","image_id":79815},{"match":"kanoGasm","image_id":79816},{"match":"kanoZzz","image_id":81112},{"match":"kanoSara","image_id":81133},{"match":"kanoLewd","image_id":81556}]}
+{
+  "name": "twitch-sub-kano",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kanoW",
+      "image_id": 77331
+    },
+    {
+      "match": "kanoHype",
+      "image_id": 80424
+    },
+    {
+      "match": "kanoHi",
+      "image_id": 77435
+    },
+    {
+      "match": "kanoThump",
+      "image_id": 77799
+    },
+    {
+      "match": "kanoH",
+      "image_id": 77800
+    },
+    {
+      "match": "kanoHug",
+      "image_id": 79815
+    },
+    {
+      "match": "kanoGasm",
+      "image_id": 79816
+    },
+    {
+      "match": "kanoZzz",
+      "image_id": 81112
+    },
+    {
+      "match": "kanoSara",
+      "image_id": 81133
+    },
+    {
+      "match": "kanoLewd",
+      "image_id": 81556
+    }
+  ]
+}

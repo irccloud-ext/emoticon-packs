@@ -1,1 +1,15 @@
-{"name":"twitch-sub-miken_tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mikenFail","image_id":61552},{"match":"mikenRage","image_id":89307}]}
+{
+  "name": "twitch-sub-miken_tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mikenFail",
+      "image_id": 61552
+    },
+    {
+      "match": "mikenRage",
+      "image_id": 89307
+    }
+  ]
+}

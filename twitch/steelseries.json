@@ -1,1 +1,27 @@
-{"name":"twitch-sub-steelseries","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"steelsquadHype","image_id":49429},{"match":"steelsquadRekt","image_id":49430},{"match":"steelsquadGG","image_id":49431},{"match":"steelsquadSS","image_id":49432},{"match":"steelsquadRIP","image_id":58227}]}
+{
+  "name": "twitch-sub-steelseries",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "steelsquadHype",
+      "image_id": 49429
+    },
+    {
+      "match": "steelsquadRekt",
+      "image_id": 49430
+    },
+    {
+      "match": "steelsquadGG",
+      "image_id": 49431
+    },
+    {
+      "match": "steelsquadSS",
+      "image_id": 49432
+    },
+    {
+      "match": "steelsquadRIP",
+      "image_id": 58227
+    }
+  ]
+}

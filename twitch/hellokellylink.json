@@ -1,1 +1,31 @@
-{"name":"twitch-sub-hellokellylink","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hklYmirIsHere","image_id":5362},{"match":"hklHH","image_id":24583},{"match":"hklLove","image_id":24585},{"match":"hklJump","image_id":24586},{"match":"hklRekt","image_id":27764},{"match":"hklSub","image_id":89225}]}
+{
+  "name": "twitch-sub-hellokellylink",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hklYmirIsHere",
+      "image_id": 5362
+    },
+    {
+      "match": "hklHH",
+      "image_id": 24583
+    },
+    {
+      "match": "hklLove",
+      "image_id": 24585
+    },
+    {
+      "match": "hklJump",
+      "image_id": 24586
+    },
+    {
+      "match": "hklRekt",
+      "image_id": 27764
+    },
+    {
+      "match": "hklSub",
+      "image_id": 89225
+    }
+  ]
+}

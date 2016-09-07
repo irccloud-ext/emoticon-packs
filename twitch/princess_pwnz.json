@@ -1,1 +1,31 @@
-{"name":"twitch-sub-princess_pwnz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pwnzIlu","image_id":109678},{"match":"pwnzNewsub","image_id":90293},{"match":"pwnzPwnd","image_id":90294},{"match":"pwnzCartel","image_id":90295},{"match":"pwnzGG","image_id":97026},{"match":"pwnzMiaou","image_id":97304},{"match":"pwnzRetard","image_id":105149}]}
+{
+  "name": "twitch-sub-princess_pwnz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pwnzNewsub",
+      "image_id": 90293
+    },
+    {
+      "match": "pwnzPwnd",
+      "image_id": 90294
+    },
+    {
+      "match": "pwnzCartel",
+      "image_id": 90295
+    },
+    {
+      "match": "pwnzGG",
+      "image_id": 97026
+    },
+    {
+      "match": "pwnzMiaou",
+      "image_id": 97304
+    },
+    {
+      "match": "pwnzRetard",
+      "image_id": 105149
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-buffalopinball","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"buffaloBro","image_id":103685},{"match":"buffaloHhleft","image_id":101653},{"match":"buffaloLman","image_id":101651},{"match":"buffaloPop","image_id":103560}]}
+{
+  "name": "twitch-sub-buffalopinball",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "buffaloBro",
+      "image_id": 103685
+    },
+    {
+      "match": "buffaloHhleft",
+      "image_id": 101653
+    },
+    {
+      "match": "buffaloLman",
+      "image_id": 101651
+    },
+    {
+      "match": "buffaloPop",
+      "image_id": 103560
+    }
+  ]
+}

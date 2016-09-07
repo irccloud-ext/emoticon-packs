@@ -1,1 +1,47 @@
-{"name":"twitch-sub-nakat973","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nakatANOTHAONE","image_id":96516},{"match":"nakatDIGLETT","image_id":46901},{"match":"nakatONETTBOYZ","image_id":46897},{"match":"nakatDISNEY","image_id":46896},{"match":"nakatJANK","image_id":96292},{"match":"nakatMONEYMATCH","image_id":96293},{"match":"nakatREKT","image_id":96294},{"match":"nakatHANDSBABY","image_id":96291},{"match":"nakatCLG","image_id":96290},{"match":"nakatHEADSET","image_id":109017}]}
+{
+  "name": "twitch-sub-nakat973",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nakatANOTHAONE",
+      "image_id": 96516
+    },
+    {
+      "match": "nakatDIGLETT",
+      "image_id": 46901
+    },
+    {
+      "match": "nakatONETTBOYZ",
+      "image_id": 46897
+    },
+    {
+      "match": "nakatDISNEY",
+      "image_id": 46896
+    },
+    {
+      "match": "nakatJANK",
+      "image_id": 96292
+    },
+    {
+      "match": "nakatMONEYMATCH",
+      "image_id": 96293
+    },
+    {
+      "match": "nakatREKT",
+      "image_id": 96294
+    },
+    {
+      "match": "nakatHANDSBABY",
+      "image_id": 96291
+    },
+    {
+      "match": "nakatCLG",
+      "image_id": 96290
+    },
+    {
+      "match": "nakatHEADSET",
+      "image_id": 109017
+    }
+  ]
+}

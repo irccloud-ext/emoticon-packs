@@ -1,1 +1,39 @@
-{"name":"twitch-sub-mrmattyplays","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"toddAtom","image_id":53663},{"match":"toddGary","image_id":53664},{"match":"toddButch","image_id":53662},{"match":"toddH","image_id":33781},{"match":"toddFP","image_id":33782},{"match":"toddPete","image_id":48317},{"match":"toddMatty","image_id":48241},{"match":"toddRekt","image_id":53800}]}
+{
+  "name": "twitch-sub-mrmattyplays",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "toddAtom",
+      "image_id": 53663
+    },
+    {
+      "match": "toddGary",
+      "image_id": 53664
+    },
+    {
+      "match": "toddButch",
+      "image_id": 53662
+    },
+    {
+      "match": "toddH",
+      "image_id": 33781
+    },
+    {
+      "match": "toddFP",
+      "image_id": 33782
+    },
+    {
+      "match": "toddPete",
+      "image_id": 48317
+    },
+    {
+      "match": "toddMatty",
+      "image_id": 48241
+    },
+    {
+      "match": "toddRekt",
+      "image_id": 53800
+    }
+  ]
+}

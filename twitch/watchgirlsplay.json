@@ -1,1 +1,39 @@
-{"name":"twitch-sub-watchgirlsplay","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wgpBOSS","image_id":102686},{"match":"wgpHEART","image_id":102685},{"match":"wgpRAGE","image_id":102684},{"match":"wgpAHH","image_id":102683},{"match":"wgpNERDS","image_id":102682},{"match":"wgpHEH","image_id":102681},{"match":"wgpSUB","image_id":102676},{"match":"wgpNERD","image_id":98819}]}
+{
+  "name": "twitch-sub-watchgirlsplay",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wgpBOSS",
+      "image_id": 102686
+    },
+    {
+      "match": "wgpHEART",
+      "image_id": 102685
+    },
+    {
+      "match": "wgpRAGE",
+      "image_id": 102684
+    },
+    {
+      "match": "wgpAHH",
+      "image_id": 102683
+    },
+    {
+      "match": "wgpNERDS",
+      "image_id": 102682
+    },
+    {
+      "match": "wgpSUB",
+      "image_id": 102676
+    },
+    {
+      "match": "wgpNERD",
+      "image_id": 98819
+    },
+    {
+      "match": "wgpSALT",
+      "image_id": 112585
+    }
+  ]
+}

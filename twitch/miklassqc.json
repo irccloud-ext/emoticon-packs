@@ -1,1 +1,31 @@
-{"name":"twitch-sub-miklassqc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mikCaribou","image_id":18883},{"match":"mikNunja","image_id":70270},{"match":"mikHugo","image_id":68775},{"match":"mikMonark","image_id":68828},{"match":"mikQC","image_id":68772},{"match":"mikKapparibou","image_id":68773}]}
+{
+  "name": "twitch-sub-miklassqc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mikCaribou",
+      "image_id": 18883
+    },
+    {
+      "match": "mikNunja",
+      "image_id": 70270
+    },
+    {
+      "match": "mikHugo",
+      "image_id": 68775
+    },
+    {
+      "match": "mikMonark",
+      "image_id": 68828
+    },
+    {
+      "match": "mikQC",
+      "image_id": 68772
+    },
+    {
+      "match": "mikKapparibou",
+      "image_id": 68773
+    }
+  ]
+}

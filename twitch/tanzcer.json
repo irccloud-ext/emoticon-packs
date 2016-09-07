@@ -1,1 +1,31 @@
-{"name":"twitch-sub-tanzcer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tanzCry","image_id":52234},{"match":"tanzOneface","image_id":52155},{"match":"tanzTZ","image_id":52116},{"match":"tanzBoegs","image_id":50430},{"match":"tanzSubHype","image_id":53355},{"match":"tanzDrik","image_id":53430}]}
+{
+  "name": "twitch-sub-tanzcer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tanzCry",
+      "image_id": 52234
+    },
+    {
+      "match": "tanzOneface",
+      "image_id": 52155
+    },
+    {
+      "match": "tanzTZ",
+      "image_id": 52116
+    },
+    {
+      "match": "tanzBoegs",
+      "image_id": 50430
+    },
+    {
+      "match": "tanzSubHype",
+      "image_id": 53355
+    },
+    {
+      "match": "tanzDrik",
+      "image_id": 53430
+    }
+  ]
+}

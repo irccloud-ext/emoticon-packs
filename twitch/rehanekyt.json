@@ -1,1 +1,39 @@
-{"name":"twitch-sub-rehanekyt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rehanek2EZ","image_id":51742},{"match":"rehanekGG","image_id":51743},{"match":"rehanekSub","image_id":36965},{"match":"rehanekGasm","image_id":40980},{"match":"rehanekCry","image_id":52061},{"match":"rehanekFTB","image_id":52062},{"match":"rehanekLove","image_id":51196},{"match":"rehanekWhat","image_id":63207}]}
+{
+  "name": "twitch-sub-rehanekyt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rehanek2EZ",
+      "image_id": 51742
+    },
+    {
+      "match": "rehanekGG",
+      "image_id": 51743
+    },
+    {
+      "match": "rehanekSub",
+      "image_id": 36965
+    },
+    {
+      "match": "rehanekGasm",
+      "image_id": 40980
+    },
+    {
+      "match": "rehanekCry",
+      "image_id": 52061
+    },
+    {
+      "match": "rehanekFTB",
+      "image_id": 52062
+    },
+    {
+      "match": "rehanekLove",
+      "image_id": 51196
+    },
+    {
+      "match": "rehanekWhat",
+      "image_id": 63207
+    }
+  ]
+}

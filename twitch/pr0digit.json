@@ -1,1 +1,39 @@
-{"name":"twitch-sub-pr0digit","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"koyoSub","image_id":99896},{"match":"koyoThump","image_id":99888},{"match":"koyoBlush","image_id":99886},{"match":"koyoPizza","image_id":93542},{"match":"koyoFam","image_id":94526},{"match":"koyoHey","image_id":100050},{"match":"koyoHype","image_id":100051},{"match":"koyoRip","image_id":100053}]}
+{
+  "name": "twitch-sub-pr0digit",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "koyoSub",
+      "image_id": 99896
+    },
+    {
+      "match": "koyoThump",
+      "image_id": 99888
+    },
+    {
+      "match": "koyoBlush",
+      "image_id": 99886
+    },
+    {
+      "match": "koyoPizza",
+      "image_id": 93542
+    },
+    {
+      "match": "koyoFam",
+      "image_id": 94526
+    },
+    {
+      "match": "koyoHey",
+      "image_id": 100050
+    },
+    {
+      "match": "koyoHype",
+      "image_id": 100051
+    },
+    {
+      "match": "koyoRip",
+      "image_id": 100053
+    }
+  ]
+}

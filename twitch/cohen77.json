@@ -1,1 +1,15 @@
-{"name":"twitch-sub-cohen77","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cohenHEADSET","image_id":109487},{"match":"cohenPASSINHO","image_id":109488}]}
+{
+  "name": "twitch-sub-cohen77",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cohenHEADSET",
+      "image_id": 109487
+    },
+    {
+      "match": "cohenPASSINHO",
+      "image_id": 109488
+    }
+  ]
+}

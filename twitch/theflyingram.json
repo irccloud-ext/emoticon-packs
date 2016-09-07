@@ -1,1 +1,39 @@
-{"name":"twitch-sub-theflyingram","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tfrW","image_id":64605},{"match":"tfrYumruk","image_id":55974},{"match":"tfrKafa","image_id":32391},{"match":"tfrThump","image_id":64105},{"match":"tfrMinati","image_id":66739},{"match":"tfrSup","image_id":91067},{"match":"tfrWut","image_id":94846},{"match":"tfrGasm","image_id":95410}]}
+{
+  "name": "twitch-sub-theflyingram",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tfrW",
+      "image_id": 64605
+    },
+    {
+      "match": "tfrYumruk",
+      "image_id": 55974
+    },
+    {
+      "match": "tfrKafa",
+      "image_id": 32391
+    },
+    {
+      "match": "tfrThump",
+      "image_id": 64105
+    },
+    {
+      "match": "tfrMinati",
+      "image_id": 66739
+    },
+    {
+      "match": "tfrSup",
+      "image_id": 91067
+    },
+    {
+      "match": "tfrWut",
+      "image_id": 94846
+    },
+    {
+      "match": "tfrGasm",
+      "image_id": 95410
+    }
+  ]
+}

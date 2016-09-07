@@ -1,1 +1,83 @@
-{"name":"twitch-sub-prettyboyfredo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pbfDAB","image_id":73718},{"match":"pbfREDTAPE","image_id":73740},{"match":"pbfBUMCARDS","image_id":102089},{"match":"pbfCHOKEME","image_id":101027},{"match":"pbfSSH","image_id":69889},{"match":"pbfFredo","image_id":69926},{"match":"pbfCLAMPS","image_id":79743},{"match":"pbfGREENLIGHTDISTRICT","image_id":79745},{"match":"pbfCLAMPJUICE","image_id":78921},{"match":"pbfDROP","image_id":79752},{"match":"pbfGOODNIGHT","image_id":106517},{"match":"pbfHOT40","image_id":101001},{"match":"pbf21SKUNK","image_id":101002},{"match":"pbfEIGHTYONESHOTS","image_id":101003},{"match":"pbfBRUH","image_id":102088},{"match":"pbfFOUROSEVEN","image_id":103000},{"match":"pbfEXPOSEHIM","image_id":107284},{"match":"pbfCAMDAB","image_id":107282},{"match":"pbfICARRY","image_id":107283}]}
+{
+  "name": "twitch-sub-prettyboyfredo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pbfDAB",
+      "image_id": 73718
+    },
+    {
+      "match": "pbfREDTAPE",
+      "image_id": 73740
+    },
+    {
+      "match": "pbfBUMCARDS",
+      "image_id": 102089
+    },
+    {
+      "match": "pbfCHOKEME",
+      "image_id": 101027
+    },
+    {
+      "match": "pbfSSH",
+      "image_id": 69889
+    },
+    {
+      "match": "pbfFredo",
+      "image_id": 69926
+    },
+    {
+      "match": "pbfCLAMPS",
+      "image_id": 79743
+    },
+    {
+      "match": "pbfGREENLIGHTDISTRICT",
+      "image_id": 79745
+    },
+    {
+      "match": "pbfCLAMPJUICE",
+      "image_id": 78921
+    },
+    {
+      "match": "pbfDROP",
+      "image_id": 79752
+    },
+    {
+      "match": "pbfGOODNIGHT",
+      "image_id": 106517
+    },
+    {
+      "match": "pbfHOT40",
+      "image_id": 101001
+    },
+    {
+      "match": "pbf21SKUNK",
+      "image_id": 101002
+    },
+    {
+      "match": "pbfEIGHTYONESHOTS",
+      "image_id": 101003
+    },
+    {
+      "match": "pbfBRUH",
+      "image_id": 102088
+    },
+    {
+      "match": "pbfFOUROSEVEN",
+      "image_id": 103000
+    },
+    {
+      "match": "pbfEXPOSEHIM",
+      "image_id": 107284
+    },
+    {
+      "match": "pbfCAMDAB",
+      "image_id": 107282
+    },
+    {
+      "match": "pbfICARRY",
+      "image_id": 107283
+    }
+  ]
+}

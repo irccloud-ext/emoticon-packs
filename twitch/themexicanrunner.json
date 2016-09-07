@@ -1,1 +1,47 @@
-{"name":"twitch-sub-themexicanrunner","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tmrHat","image_id":4685},{"match":"tmrMafia","image_id":4687},{"match":"tmrGold","image_id":6970},{"match":"tmrMames","image_id":9580},{"match":"tmrThump","image_id":9610},{"match":"tmrToad","image_id":15614},{"match":"tmrManuel","image_id":15619},{"match":"tmrRaffle","image_id":49967},{"match":"tmrShark","image_id":49932},{"match":"tmrWave","image_id":50227}]}
+{
+  "name": "twitch-sub-themexicanrunner",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tmrHat",
+      "image_id": 4685
+    },
+    {
+      "match": "tmrMafia",
+      "image_id": 4687
+    },
+    {
+      "match": "tmrGold",
+      "image_id": 6970
+    },
+    {
+      "match": "tmrMames",
+      "image_id": 9580
+    },
+    {
+      "match": "tmrThump",
+      "image_id": 9610
+    },
+    {
+      "match": "tmrToad",
+      "image_id": 15614
+    },
+    {
+      "match": "tmrManuel",
+      "image_id": 15619
+    },
+    {
+      "match": "tmrRaffle",
+      "image_id": 49967
+    },
+    {
+      "match": "tmrShark",
+      "image_id": 49932
+    },
+    {
+      "match": "tmrWave",
+      "image_id": 50227
+    }
+  ]
+}

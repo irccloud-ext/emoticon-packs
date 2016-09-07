@@ -1,0 +1,15 @@
+{
+  "name": "twitch-sub-appointedgnome",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gnoJacobW",
+      "image_id": 112173
+    },
+    {
+      "match": "gnoSwk",
+      "image_id": 112198
+    }
+  ]
+}

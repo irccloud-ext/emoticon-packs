@@ -1,1 +1,31 @@
-{"name":"twitch-sub-joe_ladouille_75","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"j75Lourd","image_id":49293},{"match":"j75Moi","image_id":51256},{"match":"j75Ladouille","image_id":51686},{"match":"j75Sub","image_id":51685},{"match":"j75Don","image_id":54786},{"match":"j75Merci","image_id":53321}]}
+{
+  "name": "twitch-sub-joe_ladouille_75",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "j75Lourd",
+      "image_id": 49293
+    },
+    {
+      "match": "j75Moi",
+      "image_id": 51256
+    },
+    {
+      "match": "j75Ladouille",
+      "image_id": 51686
+    },
+    {
+      "match": "j75Sub",
+      "image_id": 51685
+    },
+    {
+      "match": "j75Don",
+      "image_id": 54786
+    },
+    {
+      "match": "j75Merci",
+      "image_id": 53321
+    }
+  ]
+}

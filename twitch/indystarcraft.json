@@ -1,1 +1,31 @@
-{"name":"twitch-sub-indystarcraft","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"indyP","image_id":102383},{"match":"indyO","image_id":102382},{"match":"indyE","image_id":102377},{"match":"indyW","image_id":102376},{"match":"indyK","image_id":89692},{"match":"indyR","image_id":102519}]}
+{
+  "name": "twitch-sub-indystarcraft",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "indyP",
+      "image_id": 102383
+    },
+    {
+      "match": "indyO",
+      "image_id": 102382
+    },
+    {
+      "match": "indyE",
+      "image_id": 102377
+    },
+    {
+      "match": "indyW",
+      "image_id": 102376
+    },
+    {
+      "match": "indyK",
+      "image_id": 89692
+    },
+    {
+      "match": "indyR",
+      "image_id": 102519
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-therussianbadger","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"badgerBear","image_id":13356},{"match":"badgerBagel","image_id":5799},{"match":"badgerOhdear","image_id":8046},{"match":"badgerBan","image_id":13620},{"match":"badger1","image_id":36103},{"match":"badger2","image_id":36104},{"match":"badger3","image_id":36105},{"match":"badger4","image_id":36106}]}
+{
+  "name": "twitch-sub-therussianbadger",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "badgerBear",
+      "image_id": 13356
+    },
+    {
+      "match": "badgerBagel",
+      "image_id": 5799
+    },
+    {
+      "match": "badgerOhdear",
+      "image_id": 8046
+    },
+    {
+      "match": "badgerBan",
+      "image_id": 13620
+    },
+    {
+      "match": "badger1",
+      "image_id": 36103
+    },
+    {
+      "match": "badger2",
+      "image_id": 36104
+    },
+    {
+      "match": "badger3",
+      "image_id": 36105
+    },
+    {
+      "match": "badger4",
+      "image_id": 36106
+    }
+  ]
+}

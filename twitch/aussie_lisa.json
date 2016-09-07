@@ -1,1 +1,39 @@
-{"name":"twitch-sub-aussie_lisa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aussieDoge","image_id":29832},{"match":"aussieTrain","image_id":29933},{"match":"aussieKappa","image_id":29941},{"match":"aussieWtf","image_id":29952},{"match":"aussieRekt","image_id":29994},{"match":"aussieMonkey","image_id":33773},{"match":"aussieFail","image_id":33774},{"match":"aussieGasm","image_id":34847}]}
+{
+  "name": "twitch-sub-aussie_lisa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aussieDoge",
+      "image_id": 29832
+    },
+    {
+      "match": "aussieTrain",
+      "image_id": 29933
+    },
+    {
+      "match": "aussieKappa",
+      "image_id": 29941
+    },
+    {
+      "match": "aussieWtf",
+      "image_id": 29952
+    },
+    {
+      "match": "aussieRekt",
+      "image_id": 29994
+    },
+    {
+      "match": "aussieMonkey",
+      "image_id": 33773
+    },
+    {
+      "match": "aussieFail",
+      "image_id": 33774
+    },
+    {
+      "match": "aussieGasm",
+      "image_id": 34847
+    }
+  ]
+}

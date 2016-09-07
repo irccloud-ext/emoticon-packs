@@ -1,1 +1,19 @@
-{"name":"twitch-sub-bostossmc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"singmcSing","image_id":79134},{"match":"singmcChicken","image_id":80563},{"match":"singmcCat","image_id":79551}]}
+{
+  "name": "twitch-sub-bostossmc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "singmcSing",
+      "image_id": 79134
+    },
+    {
+      "match": "singmcChicken",
+      "image_id": 80563
+    },
+    {
+      "match": "singmcCat",
+      "image_id": 79551
+    }
+  ]
+}

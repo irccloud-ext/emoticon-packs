@@ -1,1 +1,27 @@
-{"name":"twitch-sub-despwns1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"despwnsEasterisland","image_id":34839},{"match":"despwnsCreep","image_id":34838},{"match":"despwnsDino","image_id":35260},{"match":"despwnsScared","image_id":35256},{"match":"despwnsWoo","image_id":56539}]}
+{
+  "name": "twitch-sub-despwns1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "despwnsEasterisland",
+      "image_id": 34839
+    },
+    {
+      "match": "despwnsCreep",
+      "image_id": 34838
+    },
+    {
+      "match": "despwnsDino",
+      "image_id": 35260
+    },
+    {
+      "match": "despwnsScared",
+      "image_id": 35256
+    },
+    {
+      "match": "despwnsWoo",
+      "image_id": 56539
+    }
+  ]
+}

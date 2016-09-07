@@ -1,1 +1,31 @@
-{"name":"twitch-sub-finito57","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"finikSiiii","image_id":77151},{"match":"finikFury","image_id":80557},{"match":"finikOMG","image_id":90327},{"match":"finikArbitr","image_id":90328},{"match":"finikSuBO","image_id":90329},{"match":"finikPride","image_id":90586}]}
+{
+  "name": "twitch-sub-finito57",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "finikSiiii",
+      "image_id": 77151
+    },
+    {
+      "match": "finikFury",
+      "image_id": 80557
+    },
+    {
+      "match": "finikOMG",
+      "image_id": 90327
+    },
+    {
+      "match": "finikArbitr",
+      "image_id": 90328
+    },
+    {
+      "match": "finikSuBO",
+      "image_id": 90329
+    },
+    {
+      "match": "finikPride",
+      "image_id": 90586
+    }
+  ]
+}

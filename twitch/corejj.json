@@ -1,1 +1,15 @@
-{"name":"twitch-sub-corejj","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"coreLetsgo","image_id":31416},{"match":"coreCorelife","image_id":31418}]}
+{
+  "name": "twitch-sub-corejj",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "coreLetsgo",
+      "image_id": 31416
+    },
+    {
+      "match": "coreCorelife",
+      "image_id": 31418
+    }
+  ]
+}

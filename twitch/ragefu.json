@@ -1,1 +1,15 @@
-{"name":"twitch-sub-ragefu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ragKappaPride","image_id":76526},{"match":"ragKappa","image_id":76517},{"match":"ragKeepo","image_id":76516}]}
+{
+  "name": "twitch-sub-ragefu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ragKeepo",
+      "image_id": 76516
+    },
+    {
+      "match": "ragKenny",
+      "image_id": 112587
+    }
+  ]
+}

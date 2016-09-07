@@ -1,1 +1,47 @@
-{"name":"twitch-sub-cherrywarrior","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cherryBomber","image_id":17307},{"match":"cherryKodo","image_id":17308},{"match":"cherryFace","image_id":20057},{"match":"cherryMug","image_id":20323},{"match":"cherryOne","image_id":21273},{"match":"cherryKappa","image_id":21274},{"match":"cherryStream","image_id":22446},{"match":"cherryVoodoo","image_id":22504},{"match":"cherryBM","image_id":25389},{"match":"cherryGhoulio","image_id":28522}]}
+{
+  "name": "twitch-sub-cherrywarrior",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cherryBomber",
+      "image_id": 17307
+    },
+    {
+      "match": "cherryKodo",
+      "image_id": 17308
+    },
+    {
+      "match": "cherryFace",
+      "image_id": 20057
+    },
+    {
+      "match": "cherryMug",
+      "image_id": 20323
+    },
+    {
+      "match": "cherryOne",
+      "image_id": 21273
+    },
+    {
+      "match": "cherryKappa",
+      "image_id": 21274
+    },
+    {
+      "match": "cherryStream",
+      "image_id": 22446
+    },
+    {
+      "match": "cherryVoodoo",
+      "image_id": 22504
+    },
+    {
+      "match": "cherryBM",
+      "image_id": 25389
+    },
+    {
+      "match": "cherryGhoulio",
+      "image_id": 28522
+    }
+  ]
+}

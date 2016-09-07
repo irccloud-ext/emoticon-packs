@@ -1,1 +1,11 @@
-{"name":"twitch-sub-openraid","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"openWAFFLE","image_id":12454}]}
+{
+  "name": "twitch-sub-openraid",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "openWAFFLE",
+      "image_id": 12454
+    }
+  ]
+}

@@ -1,1 +1,11 @@
-{"name":"twitch-sub-simonhdma","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"simonDrewno","image_id":103848}]}
+{
+  "name": "twitch-sub-simonhdma",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "simonDrewno",
+      "image_id": 103848
+    }
+  ]
+}

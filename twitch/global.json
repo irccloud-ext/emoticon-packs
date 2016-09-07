@@ -1,1 +1,643 @@
-{"name":"twitch-global","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"4Head","image_id":354},{"match":"AMPEnergy","image_id":99263},{"match":"AMPEnergyCherry","image_id":99265},{"match":"AMPTropPunch","image_id":110785},{"match":"ANELE","image_id":3792},{"match":"ArgieB8","image_id":51838},{"match":"ArsonNoSexy","image_id":50},{"match":"AsianGlow","image_id":74},{"match":"AthenaPMS","image_id":32035},{"match":"BabyRage","image_id":22639},{"match":"BatChest","image_id":1905},{"match":"BCouch","image_id":83536},{"match":"BCWarrior","image_id":30},{"match":"BibleThump","image_id":86},{"match":"BiersDerp","image_id":96824},{"match":"BigBrother","image_id":1904},{"match":"BlargNaut","image_id":38},{"match":"bleedPurple","image_id":62835},{"match":"BloodTrail","image_id":69},{"match":"BORT","image_id":243},{"match":"BrainSlug","image_id":881},{"match":"BrokeBack","image_id":4057},{"match":"BudBlast","image_id":97855},{"match":"BuddhaBar","image_id":27602},{"match":"BudStar","image_id":97856},{"match":"ChefFrank","image_id":90129},{"match":"cmonBruh","image_id":84608},{"match":"CoolCat","image_id":58127},{"match":"CorgiDerp","image_id":49106},{"match":"DAESuppy","image_id":973},{"match":"DansGame","image_id":33},{"match":"DatSheffy","image_id":111700},{"match":"DBstyle","image_id":73},{"match":"deIlluminati","image_id":46248},{"match":"DendiFace","image_id":58135},{"match":"DogFace","image_id":1903},{"match":"DOOMGuy","image_id":54089},{"match":"DoritosChip","image_id":102242},{"match":"duDudu","image_id":62834},{"match":"DxAbomb","image_id":110735},{"match":"DxCat","image_id":110734},{"match":"EagleEye","image_id":20},{"match":"EleGiggle","image_id":4339},{"match":"FailFish","image_id":360},{"match":"FPSMarksman","image_id":42},{"match":"FrankerZ","image_id":65},{"match":"FreakinStinkin","image_id":39},{"match":"FUNgineer","image_id":244},{"match":"FunRun","image_id":48},{"match":"FutureMan","image_id":98562},{"match":"GingerPower","image_id":32},{"match":"GrammarKing","image_id":3632},{"match":"HassaanChop","image_id":20225},{"match":"HassanChop","image_id":68},{"match":"HeyGuys","image_id":30259},{"match":"HotPokket","image_id":357},{"match":"HumbleLife","image_id":46881},{"match":"ItsBoshyTime","image_id":169},{"match":"Jebaited","image_id":90},{"match":"JKanStyle","image_id":15},{"match":"JonCarnage","image_id":26},{"match":"KAPOW","image_id":9803},{"match":"Kappa","image_id":25},{"match":"KappaClaus","image_id":74510},{"match":"KappaPride","image_id":55338},{"match":"KappaRoss","image_id":70433},{"match":"KappaWealth","image_id":81997},{"match":"Keepo","image_id":1902},{"match":"KevinTurtle","image_id":40},{"match":"Kippa","image_id":1901},{"match":"Kreygasm","image_id":41},{"match":"Mau5","image_id":30134},{"match":"mcaT","image_id":35063},{"match":"MikeHogu","image_id":81636},{"match":"MingLee","image_id":68856},{"match":"MKXRaiden","image_id":102324},{"match":"MKXScorpion","image_id":102325},{"match":"MrDestructoid","image_id":28},{"match":"MVGame","image_id":29},{"match":"NervousMonkey","image_id":110009},{"match":"NinjaTroll","image_id":45},{"match":"NomNom","image_id":90075},{"match":"NoNoSpot","image_id":44},{"match":"NotATK","image_id":34875},{"match":"NotLikeThis","image_id":58765},{"match":"OhMyDog","image_id":81103},{"match":"OMGScoots","image_id":91},{"match":"OneHand","image_id":66},{"match":"OpieOP","image_id":100590},{"match":"OptimizePrime","image_id":16},{"match":"OSfrog","image_id":81248},{"match":"OSkomodo","image_id":81273},{"match":"OSsloth","image_id":81249},{"match":"panicBasket","image_id":22998},{"match":"PanicVis","image_id":3668},{"match":"PartyTime","image_id":76171},{"match":"PeoplesChamp","image_id":3412},{"match":"PermaSmug","image_id":27509},{"match":"PeteZaroll","image_id":81243},{"match":"PeteZarollTie","image_id":81244},{"match":"PicoMause","image_id":111300},{"match":"PipeHype","image_id":4240},{"match":"PJSalt","image_id":36},{"match":"PJSugar","image_id":102556},{"match":"PMSTwin","image_id":92},{"match":"PogChamp","image_id":88},{"match":"Poooound","image_id":358},{"match":"PraiseIt","image_id":38586},{"match":"PRChase","image_id":28328},{"match":"PunchTrees","image_id":47},{"match":"PuppeyFace","image_id":58136},{"match":"RaccAttack","image_id":27679},{"match":"RalpherZ","image_id":1900},{"match":"RedCoat","image_id":22},{"match":"ResidentSleeper","image_id":245},{"match":"riPepperonis","image_id":62833},{"match":"RitzMitz","image_id":4338},{"match":"RuleFive","image_id":107030},{"match":"SeemsGood","image_id":64138},{"match":"ShadyLulu","image_id":52492},{"match":"ShazBotstix","image_id":87},{"match":"SmoocherZ","image_id":89945},{"match":"SMOrc","image_id":52},{"match":"SMSkull","image_id":51},{"match":"SoBayed","image_id":1906},{"match":"SoonerLater","image_id":355},{"match":"SSSsss","image_id":46},{"match":"StinkyCheese","image_id":90076},{"match":"StoneLightning","image_id":17},{"match":"StrawBeary","image_id":37},{"match":"SuperVinlin","image_id":31},{"match":"SwiftRage","image_id":34},{"match":"TBCheesePull","image_id":94039},{"match":"TBTacoLeft","image_id":94038},{"match":"TBTacoRight","image_id":94040},{"match":"TF2John","image_id":1899},{"match":"TheRinger","image_id":18},{"match":"TheTarFu","image_id":111351},{"match":"TheThing","image_id":7427},{"match":"ThunBeast","image_id":1898},{"match":"TinyFace","image_id":111119},{"match":"TooSpicy","image_id":359},{"match":"TriHard","image_id":171},{"match":"TTours","image_id":38436},{"match":"twitchRaid","image_id":62836},{"match":"TwitchRPG","image_id":108619},{"match":"UleetBackup","image_id":49},{"match":"UncleNox","image_id":3666},{"match":"UnSane","image_id":71},{"match":"VaultBoy","image_id":54090},{"match":"VoHiYo","image_id":81274},{"match":"VoteNay","image_id":106294},{"match":"VoteYea","image_id":106293},{"match":"WholeWheat","image_id":1896},{"match":"WTRuck","image_id":1897},{"match":"WutFace","image_id":28087},{"match":"YouWHY","image_id":4337}]}
+{
+  "name": "twitch-global",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "4Head",
+      "image_id": 354
+    },
+    {
+      "match": "AMPEnergy",
+      "image_id": 99263
+    },
+    {
+      "match": "AMPEnergyCherry",
+      "image_id": 99265
+    },
+    {
+      "match": "AMPTropPunch",
+      "image_id": 110785
+    },
+    {
+      "match": "ANELE",
+      "image_id": 3792
+    },
+    {
+      "match": "ArgieB8",
+      "image_id": 51838
+    },
+    {
+      "match": "ArsonNoSexy",
+      "image_id": 50
+    },
+    {
+      "match": "AsianGlow",
+      "image_id": 74
+    },
+    {
+      "match": "AthenaPMS",
+      "image_id": 32035
+    },
+    {
+      "match": "BabyRage",
+      "image_id": 22639
+    },
+    {
+      "match": "BatChest",
+      "image_id": 1905
+    },
+    {
+      "match": "BCouch",
+      "image_id": 83536
+    },
+    {
+      "match": "BCWarrior",
+      "image_id": 30
+    },
+    {
+      "match": "BibleThump",
+      "image_id": 86
+    },
+    {
+      "match": "BigBrother",
+      "image_id": 1904
+    },
+    {
+      "match": "BlargNaut",
+      "image_id": 38
+    },
+    {
+      "match": "bleedPurple",
+      "image_id": 62835
+    },
+    {
+      "match": "BloodTrail",
+      "image_id": 69
+    },
+    {
+      "match": "BORT",
+      "image_id": 243
+    },
+    {
+      "match": "BrainSlug",
+      "image_id": 881
+    },
+    {
+      "match": "BrokeBack",
+      "image_id": 4057
+    },
+    {
+      "match": "BudBlast",
+      "image_id": 97855
+    },
+    {
+      "match": "BuddhaBar",
+      "image_id": 27602
+    },
+    {
+      "match": "BudStar",
+      "image_id": 97856
+    },
+    {
+      "match": "ChefFrank",
+      "image_id": 90129
+    },
+    {
+      "match": "cmonBruh",
+      "image_id": 84608
+    },
+    {
+      "match": "CoolCat",
+      "image_id": 58127
+    },
+    {
+      "match": "copyThis",
+      "image_id": 112288
+    },
+    {
+      "match": "CorgiDerp",
+      "image_id": 49106
+    },
+    {
+      "match": "DAESuppy",
+      "image_id": 973
+    },
+    {
+      "match": "DansGame",
+      "image_id": 33
+    },
+    {
+      "match": "DatSheffy",
+      "image_id": 111700
+    },
+    {
+      "match": "DBstyle",
+      "image_id": 73
+    },
+    {
+      "match": "deIlluminati",
+      "image_id": 46248
+    },
+    {
+      "match": "DendiFace",
+      "image_id": 58135
+    },
+    {
+      "match": "DogFace",
+      "image_id": 1903
+    },
+    {
+      "match": "DOOMGuy",
+      "image_id": 54089
+    },
+    {
+      "match": "DoritosChip",
+      "image_id": 102242
+    },
+    {
+      "match": "duDudu",
+      "image_id": 62834
+    },
+    {
+      "match": "DxAbomb",
+      "image_id": 110735
+    },
+    {
+      "match": "DxCat",
+      "image_id": 110734
+    },
+    {
+      "match": "EagleEye",
+      "image_id": 20
+    },
+    {
+      "match": "EleGiggle",
+      "image_id": 4339
+    },
+    {
+      "match": "FailFish",
+      "image_id": 360
+    },
+    {
+      "match": "FPSMarksman",
+      "image_id": 42
+    },
+    {
+      "match": "FrankerZ",
+      "image_id": 65
+    },
+    {
+      "match": "FreakinStinkin",
+      "image_id": 39
+    },
+    {
+      "match": "FUNgineer",
+      "image_id": 244
+    },
+    {
+      "match": "FunRun",
+      "image_id": 48
+    },
+    {
+      "match": "FutureMan",
+      "image_id": 98562
+    },
+    {
+      "match": "GingerPower",
+      "image_id": 32
+    },
+    {
+      "match": "GivePLZ",
+      "image_id": 112291
+    },
+    {
+      "match": "GrammarKing",
+      "image_id": 3632
+    },
+    {
+      "match": "HassaanChop",
+      "image_id": 20225
+    },
+    {
+      "match": "HassanChop",
+      "image_id": 68
+    },
+    {
+      "match": "HeyGuys",
+      "image_id": 30259
+    },
+    {
+      "match": "HotPokket",
+      "image_id": 357
+    },
+    {
+      "match": "HumbleLife",
+      "image_id": 46881
+    },
+    {
+      "match": "imGlitch",
+      "image_id": 112290
+    },
+    {
+      "match": "ItsBoshyTime",
+      "image_id": 169
+    },
+    {
+      "match": "Jebaited",
+      "image_id": 90
+    },
+    {
+      "match": "JKanStyle",
+      "image_id": 15
+    },
+    {
+      "match": "JonCarnage",
+      "image_id": 26
+    },
+    {
+      "match": "KAPOW",
+      "image_id": 9803
+    },
+    {
+      "match": "Kappa",
+      "image_id": 25
+    },
+    {
+      "match": "KappaClaus",
+      "image_id": 74510
+    },
+    {
+      "match": "KappaPride",
+      "image_id": 55338
+    },
+    {
+      "match": "KappaRoss",
+      "image_id": 70433
+    },
+    {
+      "match": "KappaWealth",
+      "image_id": 81997
+    },
+    {
+      "match": "Keepo",
+      "image_id": 1902
+    },
+    {
+      "match": "KevinTurtle",
+      "image_id": 40
+    },
+    {
+      "match": "Kippa",
+      "image_id": 1901
+    },
+    {
+      "match": "Kreygasm",
+      "image_id": 41
+    },
+    {
+      "match": "Mau5",
+      "image_id": 30134
+    },
+    {
+      "match": "mcaT",
+      "image_id": 35063
+    },
+    {
+      "match": "MikeHogu",
+      "image_id": 81636
+    },
+    {
+      "match": "MingLee",
+      "image_id": 68856
+    },
+    {
+      "match": "MrDestructoid",
+      "image_id": 28
+    },
+    {
+      "match": "MVGame",
+      "image_id": 29
+    },
+    {
+      "match": "NervousMonkey",
+      "image_id": 110009
+    },
+    {
+      "match": "NinjaTroll",
+      "image_id": 45
+    },
+    {
+      "match": "NomNom",
+      "image_id": 90075
+    },
+    {
+      "match": "NoNoSpot",
+      "image_id": 44
+    },
+    {
+      "match": "NotATK",
+      "image_id": 34875
+    },
+    {
+      "match": "NotLikeThis",
+      "image_id": 58765
+    },
+    {
+      "match": "OhMyDog",
+      "image_id": 81103
+    },
+    {
+      "match": "OMGScoots",
+      "image_id": 91
+    },
+    {
+      "match": "OneHand",
+      "image_id": 66
+    },
+    {
+      "match": "OpieOP",
+      "image_id": 100590
+    },
+    {
+      "match": "OptimizePrime",
+      "image_id": 16
+    },
+    {
+      "match": "OSfrog",
+      "image_id": 81248
+    },
+    {
+      "match": "OSkomodo",
+      "image_id": 81273
+    },
+    {
+      "match": "OSsloth",
+      "image_id": 81249
+    },
+    {
+      "match": "panicBasket",
+      "image_id": 22998
+    },
+    {
+      "match": "PanicVis",
+      "image_id": 3668
+    },
+    {
+      "match": "PartyTime",
+      "image_id": 76171
+    },
+    {
+      "match": "pastaThat",
+      "image_id": 112289
+    },
+    {
+      "match": "PeoplesChamp",
+      "image_id": 3412
+    },
+    {
+      "match": "PermaSmug",
+      "image_id": 27509
+    },
+    {
+      "match": "PeteZaroll",
+      "image_id": 81243
+    },
+    {
+      "match": "PeteZarollTie",
+      "image_id": 81244
+    },
+    {
+      "match": "PicoMause",
+      "image_id": 111300
+    },
+    {
+      "match": "PipeHype",
+      "image_id": 4240
+    },
+    {
+      "match": "PJSalt",
+      "image_id": 36
+    },
+    {
+      "match": "PJSugar",
+      "image_id": 102556
+    },
+    {
+      "match": "PMSTwin",
+      "image_id": 92
+    },
+    {
+      "match": "PogChamp",
+      "image_id": 88
+    },
+    {
+      "match": "Poooound",
+      "image_id": 358
+    },
+    {
+      "match": "PraiseIt",
+      "image_id": 38586
+    },
+    {
+      "match": "PRChase",
+      "image_id": 28328
+    },
+    {
+      "match": "PunchTrees",
+      "image_id": 47
+    },
+    {
+      "match": "PuppeyFace",
+      "image_id": 58136
+    },
+    {
+      "match": "RaccAttack",
+      "image_id": 27679
+    },
+    {
+      "match": "RalpherZ",
+      "image_id": 1900
+    },
+    {
+      "match": "RedCoat",
+      "image_id": 22
+    },
+    {
+      "match": "ResidentSleeper",
+      "image_id": 245
+    },
+    {
+      "match": "riPepperonis",
+      "image_id": 62833
+    },
+    {
+      "match": "RitzMitz",
+      "image_id": 4338
+    },
+    {
+      "match": "RuleFive",
+      "image_id": 107030
+    },
+    {
+      "match": "SeemsGood",
+      "image_id": 64138
+    },
+    {
+      "match": "ShadyLulu",
+      "image_id": 52492
+    },
+    {
+      "match": "ShazBotstix",
+      "image_id": 87
+    },
+    {
+      "match": "SmoocherZ",
+      "image_id": 89945
+    },
+    {
+      "match": "SMOrc",
+      "image_id": 52
+    },
+    {
+      "match": "SMSkull",
+      "image_id": 51
+    },
+    {
+      "match": "SoBayed",
+      "image_id": 1906
+    },
+    {
+      "match": "SoonerLater",
+      "image_id": 355
+    },
+    {
+      "match": "SSSsss",
+      "image_id": 46
+    },
+    {
+      "match": "StinkyCheese",
+      "image_id": 90076
+    },
+    {
+      "match": "StoneLightning",
+      "image_id": 17
+    },
+    {
+      "match": "StrawBeary",
+      "image_id": 37
+    },
+    {
+      "match": "SuperVinlin",
+      "image_id": 31
+    },
+    {
+      "match": "SwiftRage",
+      "image_id": 34
+    },
+    {
+      "match": "TakeNRG",
+      "image_id": 112292
+    },
+    {
+      "match": "TBCheesePull",
+      "image_id": 94039
+    },
+    {
+      "match": "TBTacoLeft",
+      "image_id": 94038
+    },
+    {
+      "match": "TBTacoRight",
+      "image_id": 94040
+    },
+    {
+      "match": "TF2John",
+      "image_id": 1899
+    },
+    {
+      "match": "TheRinger",
+      "image_id": 18
+    },
+    {
+      "match": "TheTarFu",
+      "image_id": 111351
+    },
+    {
+      "match": "TheThing",
+      "image_id": 7427
+    },
+    {
+      "match": "ThunBeast",
+      "image_id": 1898
+    },
+    {
+      "match": "TinyFace",
+      "image_id": 111119
+    },
+    {
+      "match": "TooSpicy",
+      "image_id": 359
+    },
+    {
+      "match": "TriHard",
+      "image_id": 171
+    },
+    {
+      "match": "TTours",
+      "image_id": 38436
+    },
+    {
+      "match": "twitchRaid",
+      "image_id": 62836
+    },
+    {
+      "match": "TwitchRPG",
+      "image_id": 112107
+    },
+    {
+      "match": "UleetBackup",
+      "image_id": 49
+    },
+    {
+      "match": "UncleNox",
+      "image_id": 3666
+    },
+    {
+      "match": "UnSane",
+      "image_id": 111792
+    },
+    {
+      "match": "VaultBoy",
+      "image_id": 54090
+    },
+    {
+      "match": "VoHiYo",
+      "image_id": 81274
+    },
+    {
+      "match": "VoteNay",
+      "image_id": 106294
+    },
+    {
+      "match": "VoteYea",
+      "image_id": 106293
+    },
+    {
+      "match": "WholeWheat",
+      "image_id": 1896
+    },
+    {
+      "match": "WTRuck",
+      "image_id": 1897
+    },
+    {
+      "match": "WutFace",
+      "image_id": 28087
+    },
+    {
+      "match": "YouWHY",
+      "image_id": 4337
+    }
+  ]
+}

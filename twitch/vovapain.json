@@ -1,1 +1,15 @@
-{"name":"twitch-sub-vovapain","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vovanRofl","image_id":73559},{"match":"vovanKbu","image_id":104719}]}
+{
+  "name": "twitch-sub-vovapain",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vovanRofl",
+      "image_id": 73559
+    },
+    {
+      "match": "vovanKbu",
+      "image_id": 104719
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-repotactics","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"repoGG","image_id":61964},{"match":"repoK","image_id":62565},{"match":"repoHype","image_id":65821},{"match":"repoFeels","image_id":69633},{"match":"repoRekt","image_id":69715},{"match":"repoLove","image_id":77665},{"match":"repoClutch","image_id":78412},{"match":"repoRoast","image_id":77924}]}
+{
+  "name": "twitch-sub-repotactics",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "repoGG",
+      "image_id": 61964
+    },
+    {
+      "match": "repoK",
+      "image_id": 62565
+    },
+    {
+      "match": "repoHype",
+      "image_id": 65821
+    },
+    {
+      "match": "repoFeels",
+      "image_id": 69633
+    },
+    {
+      "match": "repoRekt",
+      "image_id": 69715
+    },
+    {
+      "match": "repoLove",
+      "image_id": 77665
+    },
+    {
+      "match": "repoClutch",
+      "image_id": 78412
+    },
+    {
+      "match": "repoRoast",
+      "image_id": 77924
+    }
+  ]
+}

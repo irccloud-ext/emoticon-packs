@@ -1,1 +1,23 @@
-{"name":"twitch-sub-badmanonline","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"badmanBBK","image_id":89257},{"match":"badmanBits","image_id":89084},{"match":"badmanOnline","image_id":88683},{"match":"badmanMad","image_id":89252}]}
+{
+  "name": "twitch-sub-badmanonline",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "badmanBBK",
+      "image_id": 89257
+    },
+    {
+      "match": "badmanBits",
+      "image_id": 89084
+    },
+    {
+      "match": "badmanOnline",
+      "image_id": 88683
+    },
+    {
+      "match": "badmanMad",
+      "image_id": 89252
+    }
+  ]
+}

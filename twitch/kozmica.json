@@ -1,1 +1,31 @@
-{"name":"twitch-sub-kozmica","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kozChamp","image_id":81427},{"match":"kozHi","image_id":83023},{"match":"kozPac","image_id":83024},{"match":"kozBarrio","image_id":83025},{"match":"kozThump","image_id":85780},{"match":"kozGasm","image_id":85779}]}
+{
+  "name": "twitch-sub-kozmica",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kozChamp",
+      "image_id": 81427
+    },
+    {
+      "match": "kozHi",
+      "image_id": 83023
+    },
+    {
+      "match": "kozPac",
+      "image_id": 83024
+    },
+    {
+      "match": "kozBarrio",
+      "image_id": 83025
+    },
+    {
+      "match": "kozThump",
+      "image_id": 85780
+    },
+    {
+      "match": "kozGasm",
+      "image_id": 85779
+    }
+  ]
+}

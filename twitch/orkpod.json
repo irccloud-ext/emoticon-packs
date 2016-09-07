@@ -1,1 +1,39 @@
-{"name":"twitch-sub-orkpod","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"orkKhadgar","image_id":58470},{"match":"orkEgor","image_id":58581},{"match":"orkNina","image_id":110131},{"match":"orkPetuh","image_id":109333},{"match":"orkHead","image_id":109736},{"match":"orkNeck","image_id":110001},{"match":"orkGus","image_id":109202},{"match":"orkDonut","image_id":109203}]}
+{
+  "name": "twitch-sub-orkpod",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "orkKhadgar",
+      "image_id": 58470
+    },
+    {
+      "match": "orkEgor",
+      "image_id": 58581
+    },
+    {
+      "match": "orkNina",
+      "image_id": 110131
+    },
+    {
+      "match": "orkPetuh",
+      "image_id": 109333
+    },
+    {
+      "match": "orkHead",
+      "image_id": 109736
+    },
+    {
+      "match": "orkNeck",
+      "image_id": 110001
+    },
+    {
+      "match": "orkGus",
+      "image_id": 109202
+    },
+    {
+      "match": "orkDonut",
+      "image_id": 109203
+    }
+  ]
+}

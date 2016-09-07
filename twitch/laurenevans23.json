@@ -1,1 +1,31 @@
-{"name":"twitch-sub-laurenevans23","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"laurenRekt","image_id":36688},{"match":"laurenRaid","image_id":36687},{"match":"laurenSad","image_id":36790},{"match":"laurenHype","image_id":34754},{"match":"laurenHug","image_id":34753},{"match":"laurenBot","image_id":36789}]}
+{
+  "name": "twitch-sub-laurenevans23",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "laurenRekt",
+      "image_id": 36688
+    },
+    {
+      "match": "laurenRaid",
+      "image_id": 36687
+    },
+    {
+      "match": "laurenSad",
+      "image_id": 36790
+    },
+    {
+      "match": "laurenHype",
+      "image_id": 34754
+    },
+    {
+      "match": "laurenHug",
+      "image_id": 34753
+    },
+    {
+      "match": "laurenBot",
+      "image_id": 36789
+    }
+  ]
+}

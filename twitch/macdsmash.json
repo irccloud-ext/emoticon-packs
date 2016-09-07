@@ -1,1 +1,19 @@
-{"name":"twitch-sub-macdsmash","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mcdBruh","image_id":49137},{"match":"mcdUnplug","image_id":49280},{"match":"mcdSmash","image_id":50337}]}
+{
+  "name": "twitch-sub-macdsmash",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mcdBruh",
+      "image_id": 49137
+    },
+    {
+      "match": "mcdUnplug",
+      "image_id": 49280
+    },
+    {
+      "match": "mcdSmash",
+      "image_id": 50337
+    }
+  ]
+}

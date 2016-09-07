@@ -1,1 +1,39 @@
-{"name":"twitch-sub-mrblueandqueenie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bnqHype","image_id":111273},{"match":"bnqRaise","image_id":109862},{"match":"bnqRage","image_id":111271},{"match":"bnqFacepalm","image_id":111272},{"match":"bnqLoad","image_id":111274},{"match":"bnqChoc","image_id":111275},{"match":"bnqSafehouse","image_id":111276},{"match":"bnqLove","image_id":111277}]}
+{
+  "name": "twitch-sub-mrblueandqueenie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bnqHype",
+      "image_id": 111273
+    },
+    {
+      "match": "bnqRaise",
+      "image_id": 109862
+    },
+    {
+      "match": "bnqRage",
+      "image_id": 111271
+    },
+    {
+      "match": "bnqFacepalm",
+      "image_id": 111272
+    },
+    {
+      "match": "bnqLoad",
+      "image_id": 111274
+    },
+    {
+      "match": "bnqChoc",
+      "image_id": 111275
+    },
+    {
+      "match": "bnqSafehouse",
+      "image_id": 111276
+    },
+    {
+      "match": "bnqLove",
+      "image_id": 111277
+    }
+  ]
+}

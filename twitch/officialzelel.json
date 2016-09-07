@@ -1,1 +1,15 @@
-{"name":"twitch-sub-officialzelel","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rat1Vilka","image_id":46486},{"match":"rat1Rat","image_id":46485}]}
+{
+  "name": "twitch-sub-officialzelel",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rat1Vilka",
+      "image_id": 46486
+    },
+    {
+      "match": "rat1Rat",
+      "image_id": 46485
+    }
+  ]
+}

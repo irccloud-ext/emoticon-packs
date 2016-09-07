@@ -1,0 +1,47 @@
+{
+  "name": "twitch-sub-nds_talon",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ndsPLS",
+      "image_id": 112111
+    },
+    {
+      "match": "ndsRAID",
+      "image_id": 112113
+    },
+    {
+      "match": "ndsHYPE",
+      "image_id": 112114
+    },
+    {
+      "match": "ndsLOVE",
+      "image_id": 112115
+    },
+    {
+      "match": "ndsLURK",
+      "image_id": 112117
+    },
+    {
+      "match": "ndsNO",
+      "image_id": 112118
+    },
+    {
+      "match": "ndsMAD",
+      "image_id": 112119
+    },
+    {
+      "match": "ndsSAD",
+      "image_id": 112120
+    },
+    {
+      "match": "ndsSUB",
+      "image_id": 112331
+    },
+    {
+      "match": "ndsWHAT",
+      "image_id": 112332
+    }
+  ]
+}

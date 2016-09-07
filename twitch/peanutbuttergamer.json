@@ -1,1 +1,31 @@
-{"name":"twitch-sub-peanutbuttergamer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pbgSMOKE","image_id":14760},{"match":"pbgADV1","image_id":101700},{"match":"pbgADV2","image_id":101701},{"match":"pbgSAD","image_id":101702},{"match":"pbgSMILE","image_id":101703},{"match":"pbgSPOOK","image_id":99199}]}
+{
+  "name": "twitch-sub-peanutbuttergamer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pbgSMOKE",
+      "image_id": 14760
+    },
+    {
+      "match": "pbgADV1",
+      "image_id": 101700
+    },
+    {
+      "match": "pbgADV2",
+      "image_id": 101701
+    },
+    {
+      "match": "pbgSAD",
+      "image_id": 101702
+    },
+    {
+      "match": "pbgSMILE",
+      "image_id": 101703
+    },
+    {
+      "match": "pbgSPOOK",
+      "image_id": 99199
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ray__c","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"raycFulldead","image_id":105484},{"match":"raycHype","image_id":105028},{"match":"raycFlank","image_id":105027},{"match":"raycLove","image_id":105476}]}
+{
+  "name": "twitch-sub-ray__c",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "raycFulldead",
+      "image_id": 105484
+    },
+    {
+      "match": "raycHype",
+      "image_id": 105028
+    },
+    {
+      "match": "raycFlank",
+      "image_id": 105027
+    },
+    {
+      "match": "raycLove",
+      "image_id": 105476
+    }
+  ]
+}

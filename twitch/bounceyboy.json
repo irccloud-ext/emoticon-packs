@@ -1,1 +1,39 @@
-{"name":"twitch-sub-bounceyboy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bboyHype","image_id":43499},{"match":"bboyShrug","image_id":43494},{"match":"bboyLove","image_id":44672},{"match":"bboyFeels","image_id":44760},{"match":"bboySpooky","image_id":44811},{"match":"bboyR","image_id":62998},{"match":"bboyHi","image_id":65672},{"match":"bboyHehe","image_id":73860}]}
+{
+  "name": "twitch-sub-bounceyboy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bboyHype",
+      "image_id": 43499
+    },
+    {
+      "match": "bboyShrug",
+      "image_id": 43494
+    },
+    {
+      "match": "bboyLove",
+      "image_id": 44672
+    },
+    {
+      "match": "bboyFeels",
+      "image_id": 44760
+    },
+    {
+      "match": "bboySpooky",
+      "image_id": 44811
+    },
+    {
+      "match": "bboyR",
+      "image_id": 62998
+    },
+    {
+      "match": "bboyHi",
+      "image_id": 65672
+    },
+    {
+      "match": "bboyHehe",
+      "image_id": 73860
+    }
+  ]
+}

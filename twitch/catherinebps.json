@@ -1,1 +1,35 @@
-{"name":"twitch-sub-catherinebps","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cbpsH","image_id":99454},{"match":"cbpsRekt","image_id":99433},{"match":"cbpsFSM","image_id":99422},{"match":"cbpsPanic","image_id":100293},{"match":"cbpsArm","image_id":101953},{"match":"cbpsFF","image_id":104116},{"match":"cbpsChamp","image_id":104117}]}
+{
+  "name": "twitch-sub-catherinebps",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cbpsH",
+      "image_id": 99454
+    },
+    {
+      "match": "cbpsRekt",
+      "image_id": 99433
+    },
+    {
+      "match": "cbpsFSM",
+      "image_id": 99422
+    },
+    {
+      "match": "cbpsPanic",
+      "image_id": 100293
+    },
+    {
+      "match": "cbpsArm",
+      "image_id": 101953
+    },
+    {
+      "match": "cbpsFF",
+      "image_id": 104116
+    },
+    {
+      "match": "cbpsChamp",
+      "image_id": 104117
+    }
+  ]
+}

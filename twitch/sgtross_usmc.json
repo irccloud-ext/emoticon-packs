@@ -1,1 +1,31 @@
-{"name":"twitch-sub-sgtross_usmc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sgtrPack","image_id":24737},{"match":"sgtrWiz","image_id":24723},{"match":"sgtrYeah","image_id":25048},{"match":"sgtrEkt","image_id":25037},{"match":"sgtrHi","image_id":29314},{"match":"sgtrLove","image_id":29311}]}
+{
+  "name": "twitch-sub-sgtross_usmc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sgtrPack",
+      "image_id": 24737
+    },
+    {
+      "match": "sgtrWiz",
+      "image_id": 24723
+    },
+    {
+      "match": "sgtrYeah",
+      "image_id": 25048
+    },
+    {
+      "match": "sgtrEkt",
+      "image_id": 25037
+    },
+    {
+      "match": "sgtrHi",
+      "image_id": 29314
+    },
+    {
+      "match": "sgtrLove",
+      "image_id": 29311
+    }
+  ]
+}

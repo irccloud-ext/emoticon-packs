@@ -1,1 +1,31 @@
-{"name":"twitch-sub-septicfalcon","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sepScream","image_id":79237},{"match":"sepLove","image_id":78692},{"match":"sepRekt","image_id":78694},{"match":"sepTrucka","image_id":80553},{"match":"sepLegend","image_id":80147},{"match":"sepHenry","image_id":81840}]}
+{
+  "name": "twitch-sub-septicfalcon",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sepScream",
+      "image_id": 79237
+    },
+    {
+      "match": "sepLove",
+      "image_id": 78692
+    },
+    {
+      "match": "sepRekt",
+      "image_id": 78694
+    },
+    {
+      "match": "sepTrucka",
+      "image_id": 80553
+    },
+    {
+      "match": "sepLegend",
+      "image_id": 80147
+    },
+    {
+      "match": "sepHenry",
+      "image_id": 81840
+    }
+  ]
+}

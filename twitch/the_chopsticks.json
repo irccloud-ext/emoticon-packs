@@ -1,1 +1,15 @@
-{"name":"twitch-sub-the_chopsticks","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chopsChops","image_id":30534},{"match":"chopsPanda","image_id":30664}]}
+{
+  "name": "twitch-sub-the_chopsticks",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chopsChops",
+      "image_id": 30534
+    },
+    {
+      "match": "chopsPanda",
+      "image_id": 30664
+    }
+  ]
+}

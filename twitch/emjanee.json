@@ -1,1 +1,27 @@
-{"name":"twitch-sub-emjanee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"emjaneOwl","image_id":17480},{"match":"emjaneZone","image_id":19238},{"match":"emjaneArmy","image_id":21209},{"match":"emjaneBeans","image_id":31770},{"match":"emjaneW","image_id":31897}]}
+{
+  "name": "twitch-sub-emjanee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "emjaneOwl",
+      "image_id": 17480
+    },
+    {
+      "match": "emjaneZone",
+      "image_id": 19238
+    },
+    {
+      "match": "emjaneArmy",
+      "image_id": 21209
+    },
+    {
+      "match": "emjaneBeans",
+      "image_id": 31770
+    },
+    {
+      "match": "emjaneW",
+      "image_id": 31897
+    }
+  ]
+}

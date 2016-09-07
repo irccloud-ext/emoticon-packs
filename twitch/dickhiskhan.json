@@ -1,1 +1,35 @@
-{"name":"twitch-sub-dickhiskhan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"khanVileThump","image_id":72016},{"match":"khanOhHaiMark","image_id":72014},{"match":"khanCappa","image_id":72013},{"match":"khanQuack","image_id":81319},{"match":"khanGlod","image_id":73430},{"match":"khanDuckhis","image_id":74374}]}
+{
+  "name": "twitch-sub-dickhiskhan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "khanBarnjo",
+      "image_id": 111863
+    },
+    {
+      "match": "khanVileThump",
+      "image_id": 72016
+    },
+    {
+      "match": "khanOhHaiMark",
+      "image_id": 72014
+    },
+    {
+      "match": "khanCappa",
+      "image_id": 72013
+    },
+    {
+      "match": "khanQuack",
+      "image_id": 81319
+    },
+    {
+      "match": "khanGlod",
+      "image_id": 73430
+    },
+    {
+      "match": "khanDuckhis",
+      "image_id": 74374
+    }
+  ]
+}

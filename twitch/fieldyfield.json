@@ -1,1 +1,39 @@
-{"name":"twitch-sub-fieldyfield","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fieldyYes","image_id":21878},{"match":"fieldyFish","image_id":23487},{"match":"fieldyWolf","image_id":23582},{"match":"fieldyPup","image_id":23370},{"match":"fieldyFiesta","image_id":23372},{"match":"fieldySpaghetti","image_id":28935},{"match":"fieldyGame","image_id":29008},{"match":"fieldyFine","image_id":96810}]}
+{
+  "name": "twitch-sub-fieldyfield",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fieldyYes",
+      "image_id": 21878
+    },
+    {
+      "match": "fieldyFish",
+      "image_id": 23487
+    },
+    {
+      "match": "fieldyWolf",
+      "image_id": 23582
+    },
+    {
+      "match": "fieldyPup",
+      "image_id": 23370
+    },
+    {
+      "match": "fieldyFiesta",
+      "image_id": 23372
+    },
+    {
+      "match": "fieldySpaghetti",
+      "image_id": 28935
+    },
+    {
+      "match": "fieldyGame",
+      "image_id": 29008
+    },
+    {
+      "match": "fieldyFine",
+      "image_id": 96810
+    }
+  ]
+}

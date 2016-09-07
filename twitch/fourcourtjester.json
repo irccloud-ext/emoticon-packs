@@ -1,1 +1,15 @@
-{"name":"twitch-sub-fourcourtjester","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fcjMurky","image_id":47035},{"match":"fcjStitches","image_id":46951}]}
+{
+  "name": "twitch-sub-fourcourtjester",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fcjMurky",
+      "image_id": 47035
+    },
+    {
+      "match": "fcjStitches",
+      "image_id": 46951
+    }
+  ]
+}

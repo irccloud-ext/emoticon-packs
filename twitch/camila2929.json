@@ -1,1 +1,19 @@
-{"name":"twitch-sub-camila2929","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cami29CAMI","image_id":98239},{"match":"cami29BADTIME","image_id":101496},{"match":"cami29Chara","image_id":99191}]}
+{
+  "name": "twitch-sub-camila2929",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cami29CAMI",
+      "image_id": 98239
+    },
+    {
+      "match": "cami29BADTIME",
+      "image_id": 101496
+    },
+    {
+      "match": "cami29Chara",
+      "image_id": 99191
+    }
+  ]
+}

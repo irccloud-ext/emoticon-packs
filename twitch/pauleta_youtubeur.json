@@ -1,1 +1,11 @@
-{"name":"twitch-sub-pauleta_youtubeur","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pfutViken","image_id":103678}]}
+{
+  "name": "twitch-sub-pauleta_youtubeur",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pfutViken",
+      "image_id": 103678
+    }
+  ]
+}

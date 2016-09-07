@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ducckling","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"enteKappa","image_id":27281},{"match":"enteFail","image_id":28482},{"match":"enteHerz","image_id":31092},{"match":"enteRip","image_id":31105}]}
+{
+  "name": "twitch-sub-ducckling",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "enteKappa",
+      "image_id": 27281
+    },
+    {
+      "match": "enteFail",
+      "image_id": 28482
+    },
+    {
+      "match": "enteHerz",
+      "image_id": 31092
+    },
+    {
+      "match": "enteRip",
+      "image_id": 31105
+    }
+  ]
+}

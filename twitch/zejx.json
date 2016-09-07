@@ -1,1 +1,31 @@
-{"name":"twitch-sub-zejx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zejDx","image_id":3156},{"match":"zejBlaser","image_id":3182},{"match":"zejRage","image_id":3157},{"match":"zejX2","image_id":3158},{"match":"zejX","image_id":3159},{"match":"zejFish","image_id":3155}]}
+{
+  "name": "twitch-sub-zejx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zejDx",
+      "image_id": 3156
+    },
+    {
+      "match": "zejBlaser",
+      "image_id": 3182
+    },
+    {
+      "match": "zejRage",
+      "image_id": 3157
+    },
+    {
+      "match": "zejX2",
+      "image_id": 3158
+    },
+    {
+      "match": "zejX",
+      "image_id": 3159
+    },
+    {
+      "match": "zejFish",
+      "image_id": 3155
+    }
+  ]
+}

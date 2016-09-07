@@ -1,1 +1,23 @@
-{"name":"twitch-sub-caffcast","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"caffcastGhost","image_id":109796},{"match":"caffcastPug","image_id":109795}]}
+{
+  "name": "twitch-sub-caffcast",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "caffcastGhost",
+      "image_id": 109796
+    },
+    {
+      "match": "caffcastPug",
+      "image_id": 109795
+    },
+    {
+      "match": "caffcastCaffa",
+      "image_id": 112261
+    },
+    {
+      "match": "caffcastCaffaPride",
+      "image_id": 112262
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"name":"twitch-sub-inthe_6","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"intheWut","image_id":56600},{"match":"inthe6","image_id":66424},{"match":"intheUsa","image_id":66425}]}
+{
+  "name": "twitch-sub-inthe_6",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "intheWut",
+      "image_id": 56600
+    },
+    {
+      "match": "inthe6",
+      "image_id": 66424
+    },
+    {
+      "match": "intheUsa",
+      "image_id": 66425
+    }
+  ]
+}

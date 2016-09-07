@@ -1,1 +1,15 @@
-{"name":"twitch-sub-sandruka26","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sandruKappa","image_id":86963},{"match":"sandruRAGE","image_id":106630}]}
+{
+  "name": "twitch-sub-sandruka26",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sandruKappa",
+      "image_id": 86963
+    },
+    {
+      "match": "sandruRAGE",
+      "image_id": 106630
+    }
+  ]
+}

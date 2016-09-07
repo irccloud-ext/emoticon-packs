@@ -1,1 +1,63 @@
-{"name":"twitch-sub-j22548220","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"headbroMoney","image_id":70067},{"match":"headbroRabbit","image_id":70066},{"match":"headbro88888","image_id":88980},{"match":"headbroGod","image_id":88977},{"match":"headbroSOCAN","image_id":71043},{"match":"headbroJuice","image_id":73287},{"match":"headbroFu","image_id":71279},{"match":"headbroHeart","image_id":71924},{"match":"headbroShutup","image_id":91019},{"match":"headbroNosub","image_id":88976},{"match":"headbroPapapa","image_id":88975},{"match":"headbro666666","image_id":89053},{"match":"headbro878787","image_id":88982},{"match":"headbroFkkk","image_id":88981}]}
+{
+  "name": "twitch-sub-j22548220",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "headbroMoney",
+      "image_id": 70067
+    },
+    {
+      "match": "headbroRabbit",
+      "image_id": 70066
+    },
+    {
+      "match": "headbro88888",
+      "image_id": 88980
+    },
+    {
+      "match": "headbroGod",
+      "image_id": 88977
+    },
+    {
+      "match": "headbroSOCAN",
+      "image_id": 71043
+    },
+    {
+      "match": "headbroJuice",
+      "image_id": 73287
+    },
+    {
+      "match": "headbroFu",
+      "image_id": 71279
+    },
+    {
+      "match": "headbroHeart",
+      "image_id": 71924
+    },
+    {
+      "match": "headbroShutup",
+      "image_id": 91019
+    },
+    {
+      "match": "headbroNosub",
+      "image_id": 88976
+    },
+    {
+      "match": "headbroPapapa",
+      "image_id": 88975
+    },
+    {
+      "match": "headbro666666",
+      "image_id": 89053
+    },
+    {
+      "match": "headbro878787",
+      "image_id": 88982
+    },
+    {
+      "match": "headbroFkkk",
+      "image_id": 88981
+    }
+  ]
+}

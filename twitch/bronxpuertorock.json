@@ -1,1 +1,27 @@
-{"name":"twitch-sub-bronxpuertorock","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bronxprSHOTS","image_id":37969},{"match":"bronxprJR","image_id":37886},{"match":"bronxprDEMON","image_id":37902},{"match":"bronxprDUCKN","image_id":41060},{"match":"bronxprDMADGE","image_id":49765}]}
+{
+  "name": "twitch-sub-bronxpuertorock",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bronxprSHOTS",
+      "image_id": 37969
+    },
+    {
+      "match": "bronxprJR",
+      "image_id": 37886
+    },
+    {
+      "match": "bronxprDEMON",
+      "image_id": 37902
+    },
+    {
+      "match": "bronxprDUCKN",
+      "image_id": 41060
+    },
+    {
+      "match": "bronxprDMADGE",
+      "image_id": 49765
+    }
+  ]
+}

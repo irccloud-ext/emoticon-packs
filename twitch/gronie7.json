@@ -1,1 +1,35 @@
-{"name":"twitch-sub-gronie7","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gronie7Ahnan","image_id":109055},{"match":"gronie7DODU","image_id":61548},{"match":"gronie7GGdodu","image_id":82617},{"match":"gronie7G7nuke","image_id":82616},{"match":"gronie7NRV","image_id":84810},{"match":"gronie7Newdodu","image_id":84811},{"match":"gronie7BABY","image_id":95414}]}
+{
+  "name": "twitch-sub-gronie7",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gronie7Ahnan",
+      "image_id": 109055
+    },
+    {
+      "match": "gronie7DODU",
+      "image_id": 61548
+    },
+    {
+      "match": "gronie7GGdodu",
+      "image_id": 82617
+    },
+    {
+      "match": "gronie7G7nuke",
+      "image_id": 82616
+    },
+    {
+      "match": "gronie7NRV",
+      "image_id": 84810
+    },
+    {
+      "match": "gronie7Newdodu",
+      "image_id": 84811
+    },
+    {
+      "match": "gronie7BABY",
+      "image_id": 95414
+    }
+  ]
+}

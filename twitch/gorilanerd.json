@@ -1,1 +1,39 @@
-{"name":"twitch-sub-gorilanerd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"goriRiven","image_id":34835},{"match":"goriCholo","image_id":44905},{"match":"goriTaco","image_id":44903},{"match":"goriLoco","image_id":44901},{"match":"goriTaxi","image_id":45402},{"match":"goriTrece","image_id":45401},{"match":"goriOtxo","image_id":49039},{"match":"goriMano","image_id":56277}]}
+{
+  "name": "twitch-sub-gorilanerd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "goriRiven",
+      "image_id": 34835
+    },
+    {
+      "match": "goriCholo",
+      "image_id": 44905
+    },
+    {
+      "match": "goriTaco",
+      "image_id": 44903
+    },
+    {
+      "match": "goriLoco",
+      "image_id": 44901
+    },
+    {
+      "match": "goriTaxi",
+      "image_id": 45402
+    },
+    {
+      "match": "goriTrece",
+      "image_id": 45401
+    },
+    {
+      "match": "goriOtxo",
+      "image_id": 49039
+    },
+    {
+      "match": "goriMano",
+      "image_id": 56277
+    }
+  ]
+}

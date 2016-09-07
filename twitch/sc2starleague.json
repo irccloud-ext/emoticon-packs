@@ -1,1 +1,39 @@
-{"name":"twitch-sub-sc2starleague","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sslSbenu","image_id":47929},{"match":"sslWTF","image_id":47111},{"match":"sslGG","image_id":47109},{"match":"sslOMG","image_id":47110},{"match":"sslGG","image_id":47847},{"match":"sslMG","image_id":47849},{"match":"sslValdes","image_id":47850},{"match":"sslWolf","image_id":47851}]}
+{
+  "name": "twitch-sub-sc2starleague",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sslSbenu",
+      "image_id": 47929
+    },
+    {
+      "match": "sslWTF",
+      "image_id": 47111
+    },
+    {
+      "match": "sslGG",
+      "image_id": 47109
+    },
+    {
+      "match": "sslOMG",
+      "image_id": 47110
+    },
+    {
+      "match": "sslGG",
+      "image_id": 47847
+    },
+    {
+      "match": "sslMG",
+      "image_id": 47849
+    },
+    {
+      "match": "sslValdes",
+      "image_id": 47850
+    },
+    {
+      "match": "sslWolf",
+      "image_id": 47851
+    }
+  ]
+}

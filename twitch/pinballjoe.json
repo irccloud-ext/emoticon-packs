@@ -1,1 +1,47 @@
-{"name":"twitch-sub-pinballjoe","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pbjPog","image_id":78361},{"match":"pbjRudy","image_id":78362},{"match":"pbjStashe","image_id":89000},{"match":"pbjHeart","image_id":88995},{"match":"pbjTilt","image_id":78363},{"match":"pbjPoopy","image_id":91051},{"match":"pbjWord","image_id":91052},{"match":"pbjLick","image_id":83357},{"match":"pbjAfm","image_id":88983},{"match":"pbjJack","image_id":88996}]}
+{
+  "name": "twitch-sub-pinballjoe",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pbjPog",
+      "image_id": 78361
+    },
+    {
+      "match": "pbjRudy",
+      "image_id": 78362
+    },
+    {
+      "match": "pbjStashe",
+      "image_id": 89000
+    },
+    {
+      "match": "pbjHeart",
+      "image_id": 88995
+    },
+    {
+      "match": "pbjTilt",
+      "image_id": 78363
+    },
+    {
+      "match": "pbjPoopy",
+      "image_id": 91051
+    },
+    {
+      "match": "pbjWord",
+      "image_id": 91052
+    },
+    {
+      "match": "pbjLick",
+      "image_id": 83357
+    },
+    {
+      "match": "pbjAfm",
+      "image_id": 88983
+    },
+    {
+      "match": "pbjJack",
+      "image_id": 88996
+    }
+  ]
+}

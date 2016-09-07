@@ -1,1 +1,27 @@
-{"name":"twitch-sub-bolumsonucanavari","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bscB","image_id":57857},{"match":"bscGuldurmedi","image_id":51599},{"match":"bscPls","image_id":51703},{"match":"bscFedup","image_id":56153},{"match":"bscTakla","image_id":73293}]}
+{
+  "name": "twitch-sub-bolumsonucanavari",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bscB",
+      "image_id": 57857
+    },
+    {
+      "match": "bscGuldurmedi",
+      "image_id": 51599
+    },
+    {
+      "match": "bscPls",
+      "image_id": 51703
+    },
+    {
+      "match": "bscFedup",
+      "image_id": 56153
+    },
+    {
+      "match": "bscTakla",
+      "image_id": 73293
+    }
+  ]
+}

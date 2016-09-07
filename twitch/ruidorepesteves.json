@@ -1,1 +1,15 @@
-{"name":"twitch-sub-ruidorepesteves","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ruiHype","image_id":78767},{"match":"ruiEsco","image_id":82317}]}
+{
+  "name": "twitch-sub-ruidorepesteves",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ruiHype",
+      "image_id": 78767
+    },
+    {
+      "match": "ruiEsco",
+      "image_id": 82317
+    }
+  ]
+}

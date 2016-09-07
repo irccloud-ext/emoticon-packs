@@ -1,1 +1,27 @@
-{"name":"twitch-sub-gamekings","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gks1","image_id":25094},{"match":"gks2","image_id":25095},{"match":"gks5","image_id":25098},{"match":"gks3","image_id":25096},{"match":"gks4","image_id":25097}]}
+{
+  "name": "twitch-sub-gamekings",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gks1",
+      "image_id": 25094
+    },
+    {
+      "match": "gks2",
+      "image_id": 25095
+    },
+    {
+      "match": "gks5",
+      "image_id": 25098
+    },
+    {
+      "match": "gks3",
+      "image_id": 25096
+    },
+    {
+      "match": "gks4",
+      "image_id": 25097
+    }
+  ]
+}

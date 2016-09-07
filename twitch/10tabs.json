@@ -1,1 +1,15 @@
-{"name":"twitch-sub-10tabs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tentabsCup","image_id":8061},{"match":"tentabsWtf","image_id":8427}]}
+{
+  "name": "twitch-sub-10tabs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tentabsCup",
+      "image_id": 8061
+    },
+    {
+      "match": "tentabsWtf",
+      "image_id": 8427
+    }
+  ]
+}

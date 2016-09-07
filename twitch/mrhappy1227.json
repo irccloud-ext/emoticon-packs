@@ -1,1 +1,87 @@
-{"name":"twitch-sub-mrhappy1227","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hapArmy","image_id":14571},{"match":"hapGordon","image_id":14572},{"match":"hapHulk","image_id":14573},{"match":"hapJoy","image_id":14574},{"match":"hapLove","image_id":14575},{"match":"hapRekt","image_id":14576},{"match":"hapPLZ","image_id":18960},{"match":"hapJoisey","image_id":18961},{"match":"hapSnacks","image_id":98999},{"match":"hapSwag","image_id":98998},{"match":"hapEat","image_id":98997},{"match":"hapDwayne","image_id":98996},{"match":"hapCasual","image_id":98995},{"match":"hapHildi","image_id":34043},{"match":"hapPalm","image_id":34044},{"match":"hapCawfee","image_id":50639},{"match":"hapWF","image_id":50643},{"match":"hapHi5","image_id":50642},{"match":"hapAyyy","image_id":50641},{"match":"hapDolla","image_id":50640}]}
+{
+  "name": "twitch-sub-mrhappy1227",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hapArmy",
+      "image_id": 14571
+    },
+    {
+      "match": "hapGordon",
+      "image_id": 14572
+    },
+    {
+      "match": "hapHulk",
+      "image_id": 14573
+    },
+    {
+      "match": "hapJoy",
+      "image_id": 14574
+    },
+    {
+      "match": "hapLove",
+      "image_id": 14575
+    },
+    {
+      "match": "hapRekt",
+      "image_id": 14576
+    },
+    {
+      "match": "hapPLZ",
+      "image_id": 18960
+    },
+    {
+      "match": "hapJoisey",
+      "image_id": 18961
+    },
+    {
+      "match": "hapSnacks",
+      "image_id": 98999
+    },
+    {
+      "match": "hapSwag",
+      "image_id": 98998
+    },
+    {
+      "match": "hapEat",
+      "image_id": 98997
+    },
+    {
+      "match": "hapDwayne",
+      "image_id": 98996
+    },
+    {
+      "match": "hapCasual",
+      "image_id": 98995
+    },
+    {
+      "match": "hapHildi",
+      "image_id": 34043
+    },
+    {
+      "match": "hapPalm",
+      "image_id": 34044
+    },
+    {
+      "match": "hapCawfee",
+      "image_id": 50639
+    },
+    {
+      "match": "hapWF",
+      "image_id": 50643
+    },
+    {
+      "match": "hapHi5",
+      "image_id": 50642
+    },
+    {
+      "match": "hapAyyy",
+      "image_id": 50641
+    },
+    {
+      "match": "hapDolla",
+      "image_id": 50640
+    }
+  ]
+}

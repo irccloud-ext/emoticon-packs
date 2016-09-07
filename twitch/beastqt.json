@@ -1,1 +1,23 @@
-{"name":"twitch-sub-beastqt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dimkaNeDimka","image_id":22008},{"match":"dimkaMLG","image_id":111627},{"match":"dimkaFEELS","image_id":111618},{"match":"dimkaH","image_id":111709}]}
+{
+  "name": "twitch-sub-beastqt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dimkaNeDimka",
+      "image_id": 22008
+    },
+    {
+      "match": "dimkaMLG",
+      "image_id": 111627
+    },
+    {
+      "match": "dimkaFEELS",
+      "image_id": 111618
+    },
+    {
+      "match": "dimkaH",
+      "image_id": 111709
+    }
+  ]
+}

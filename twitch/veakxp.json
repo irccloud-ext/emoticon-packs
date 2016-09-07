@@ -1,1 +1,23 @@
-{"name":"twitch-sub-veakxp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"veakGB","image_id":17326},{"match":"veakNB","image_id":18045},{"match":"veakCoo","image_id":24833},{"match":"veakM8","image_id":33646}]}
+{
+  "name": "twitch-sub-veakxp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "veakGB",
+      "image_id": 17326
+    },
+    {
+      "match": "veakNB",
+      "image_id": 18045
+    },
+    {
+      "match": "veakCoo",
+      "image_id": 24833
+    },
+    {
+      "match": "veakM8",
+      "image_id": 33646
+    }
+  ]
+}

@@ -1,1 +1,87 @@
-{"name":"twitch-sub-hotted89","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hottedH","image_id":57856},{"match":"hottedKappa","image_id":3691},{"match":"hottedRage","image_id":3692},{"match":"hottedScott","image_id":10702},{"match":"hottedHype","image_id":13784},{"match":"hottedDS","image_id":16578},{"match":"hottedAMENO","image_id":16811},{"match":"hottedPotato","image_id":64033},{"match":"hottedGG","image_id":24822},{"match":"hottedThump","image_id":23368},{"match":"hottedTrain","image_id":23973},{"match":"hottedThumpp","image_id":23971},{"match":"hottedREKT","image_id":23972},{"match":"hottedGasm","image_id":23964},{"match":"hottedW","image_id":57861},{"match":"hottedFeelsBadMan","image_id":58268},{"match":"hottedRIP","image_id":64034},{"match":"hottedGO","image_id":64032},{"match":"hottedChamp","image_id":65129},{"match":"hottedGREEN","image_id":81582}]}
+{
+  "name": "twitch-sub-hotted89",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hottedH",
+      "image_id": 57856
+    },
+    {
+      "match": "hottedKappa",
+      "image_id": 3691
+    },
+    {
+      "match": "hottedRage",
+      "image_id": 3692
+    },
+    {
+      "match": "hottedScott",
+      "image_id": 10702
+    },
+    {
+      "match": "hottedHype",
+      "image_id": 13784
+    },
+    {
+      "match": "hottedDS",
+      "image_id": 16578
+    },
+    {
+      "match": "hottedAMENO",
+      "image_id": 16811
+    },
+    {
+      "match": "hottedPotato",
+      "image_id": 64033
+    },
+    {
+      "match": "hottedGG",
+      "image_id": 24822
+    },
+    {
+      "match": "hottedThump",
+      "image_id": 23368
+    },
+    {
+      "match": "hottedTrain",
+      "image_id": 23973
+    },
+    {
+      "match": "hottedThumpp",
+      "image_id": 23971
+    },
+    {
+      "match": "hottedREKT",
+      "image_id": 23972
+    },
+    {
+      "match": "hottedGasm",
+      "image_id": 23964
+    },
+    {
+      "match": "hottedW",
+      "image_id": 57861
+    },
+    {
+      "match": "hottedFeelsBadMan",
+      "image_id": 58268
+    },
+    {
+      "match": "hottedRIP",
+      "image_id": 64034
+    },
+    {
+      "match": "hottedGO",
+      "image_id": 64032
+    },
+    {
+      "match": "hottedChamp",
+      "image_id": 65129
+    },
+    {
+      "match": "hottedGREEN",
+      "image_id": 81582
+    }
+  ]
+}

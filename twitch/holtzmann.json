@@ -1,1 +1,39 @@
-{"name":"twitch-sub-holtzmann","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"holtzCamp","image_id":89061},{"match":"holtzTATOlag","image_id":89985},{"match":"holtzLOVE","image_id":89062},{"match":"holtzHYPE","image_id":86720},{"match":"holtzRAGE","image_id":86719},{"match":"holtzKOBE","image_id":90084},{"match":"holtzCFFE","image_id":90085},{"match":"holtzRNG","image_id":90110}]}
+{
+  "name": "twitch-sub-holtzmann",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "holtzTATOlag",
+      "image_id": 89985
+    },
+    {
+      "match": "holtzLOVE",
+      "image_id": 89062
+    },
+    {
+      "match": "holtzHYPE",
+      "image_id": 86720
+    },
+    {
+      "match": "holtzRAGE",
+      "image_id": 86719
+    },
+    {
+      "match": "holtzKOBE",
+      "image_id": 90084
+    },
+    {
+      "match": "holtzCFFE",
+      "image_id": 90085
+    },
+    {
+      "match": "holtzRNG",
+      "image_id": 90110
+    },
+    {
+      "match": "holtzPOG",
+      "image_id": 112376
+    }
+  ]
+}

@@ -1,1 +1,87 @@
-{"name":"twitch-sub-imcoty","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cotyDerp","image_id":33162},{"match":"cotyREKT","image_id":14555},{"match":"cotyUp","image_id":61896},{"match":"cotyHype","image_id":61895},{"match":"cotyCry","image_id":61894},{"match":"cotyGasm","image_id":11349},{"match":"cotyFish","image_id":11614},{"match":"cotyChamp","image_id":24893},{"match":"cotyLove","image_id":29827},{"match":"cotyGG","image_id":34005},{"match":"cotySub","image_id":59897},{"match":"cotyGot","image_id":44800},{"match":"cotyAwk","image_id":44797},{"match":"cotyNT","image_id":80408},{"match":"cotyDank","image_id":57021},{"match":"cotyW","image_id":56233},{"match":"cotyS","image_id":59140},{"match":"cotyLit","image_id":60437},{"match":"cotySuh","image_id":84372},{"match":"cotyLick","image_id":84373}]}
+{
+  "name": "twitch-sub-imcoty",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cotyDerp",
+      "image_id": 33162
+    },
+    {
+      "match": "cotyREKT",
+      "image_id": 14555
+    },
+    {
+      "match": "cotyUp",
+      "image_id": 61896
+    },
+    {
+      "match": "cotyHype",
+      "image_id": 61895
+    },
+    {
+      "match": "cotyCry",
+      "image_id": 61894
+    },
+    {
+      "match": "cotyGasm",
+      "image_id": 11349
+    },
+    {
+      "match": "cotyFish",
+      "image_id": 11614
+    },
+    {
+      "match": "cotyChamp",
+      "image_id": 24893
+    },
+    {
+      "match": "cotyLove",
+      "image_id": 29827
+    },
+    {
+      "match": "cotyGG",
+      "image_id": 34005
+    },
+    {
+      "match": "cotySub",
+      "image_id": 59897
+    },
+    {
+      "match": "cotyGot",
+      "image_id": 44800
+    },
+    {
+      "match": "cotyAwk",
+      "image_id": 44797
+    },
+    {
+      "match": "cotyNT",
+      "image_id": 80408
+    },
+    {
+      "match": "cotyDank",
+      "image_id": 57021
+    },
+    {
+      "match": "cotyW",
+      "image_id": 56233
+    },
+    {
+      "match": "cotyS",
+      "image_id": 59140
+    },
+    {
+      "match": "cotyLit",
+      "image_id": 60437
+    },
+    {
+      "match": "cotySuh",
+      "image_id": 84372
+    },
+    {
+      "match": "cotyLick",
+      "image_id": 84373
+    }
+  ]
+}

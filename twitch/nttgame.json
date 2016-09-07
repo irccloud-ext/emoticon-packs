@@ -1,1 +1,15 @@
-{"name":"twitch-sub-nttgame","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nttKodver","image_id":60459},{"match":"ntt5kpls","image_id":60460}]}
+{
+  "name": "twitch-sub-nttgame",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nttKodver",
+      "image_id": 60459
+    },
+    {
+      "match": "ntt5kpls",
+      "image_id": 60460
+    }
+  ]
+}

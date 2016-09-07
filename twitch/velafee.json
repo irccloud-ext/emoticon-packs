@@ -1,1 +1,39 @@
-{"name":"twitch-sub-velafee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"veelaYEAH","image_id":44734},{"match":"veelaROD","image_id":44845},{"match":"veelaOHNO","image_id":44850},{"match":"veelaTROLL","image_id":44843},{"match":"veelaWURF","image_id":49170},{"match":"veelaHey","image_id":69855},{"match":"veelaJunge","image_id":69854},{"match":"veelaCry","image_id":69856}]}
+{
+  "name": "twitch-sub-velafee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "veelaYEAH",
+      "image_id": 44734
+    },
+    {
+      "match": "veelaROD",
+      "image_id": 44845
+    },
+    {
+      "match": "veelaOHNO",
+      "image_id": 44850
+    },
+    {
+      "match": "veelaTROLL",
+      "image_id": 44843
+    },
+    {
+      "match": "veelaWURF",
+      "image_id": 49170
+    },
+    {
+      "match": "veelaHey",
+      "image_id": 69855
+    },
+    {
+      "match": "veelaJunge",
+      "image_id": 69854
+    },
+    {
+      "match": "veelaCry",
+      "image_id": 69856
+    }
+  ]
+}

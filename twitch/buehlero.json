@@ -1,1 +1,39 @@
-{"name":"twitch-sub-buehlero","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bueCruisin","image_id":104982},{"match":"bueGet","image_id":91092},{"match":"bueDjoko","image_id":90540},{"match":"bueDuck","image_id":90539},{"match":"buePizza","image_id":93336},{"match":"bueAce","image_id":103375},{"match":"bueNein","image_id":108527},{"match":"bueHG","image_id":109342}]}
+{
+  "name": "twitch-sub-buehlero",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bueCruisin",
+      "image_id": 104982
+    },
+    {
+      "match": "bueGet",
+      "image_id": 91092
+    },
+    {
+      "match": "bueDjoko",
+      "image_id": 90540
+    },
+    {
+      "match": "bueDuck",
+      "image_id": 90539
+    },
+    {
+      "match": "buePizza",
+      "image_id": 93336
+    },
+    {
+      "match": "bueAce",
+      "image_id": 103375
+    },
+    {
+      "match": "bueNein",
+      "image_id": 108527
+    },
+    {
+      "match": "bueHG",
+      "image_id": 109342
+    }
+  ]
+}

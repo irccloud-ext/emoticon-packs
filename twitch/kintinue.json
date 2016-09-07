@@ -1,1 +1,47 @@
-{"name":"twitch-sub-kintinue","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kintHey","image_id":104500},{"match":"kintRIP","image_id":101087},{"match":"kintHype","image_id":104535},{"match":"kintBacon","image_id":100965},{"match":"kintLove","image_id":100966},{"match":"kintCat","image_id":100967},{"match":"kintLost","image_id":100969},{"match":"kintRage","image_id":103175},{"match":"kintBucket","image_id":101187},{"match":"kintTank","image_id":101188}]}
+{
+  "name": "twitch-sub-kintinue",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kintHey",
+      "image_id": 104500
+    },
+    {
+      "match": "kintRIP",
+      "image_id": 101087
+    },
+    {
+      "match": "kintHype",
+      "image_id": 104535
+    },
+    {
+      "match": "kintBacon",
+      "image_id": 100965
+    },
+    {
+      "match": "kintLove",
+      "image_id": 100966
+    },
+    {
+      "match": "kintCat",
+      "image_id": 100967
+    },
+    {
+      "match": "kintLost",
+      "image_id": 100969
+    },
+    {
+      "match": "kintRage",
+      "image_id": 103175
+    },
+    {
+      "match": "kintBucket",
+      "image_id": 101187
+    },
+    {
+      "match": "kintTank",
+      "image_id": 101188
+    }
+  ]
+}

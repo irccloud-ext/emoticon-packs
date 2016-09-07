@@ -1,1 +1,31 @@
-{"name":"twitch-sub-slaydra","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"slaydraYes","image_id":109731},{"match":"slaydraTrig","image_id":109729},{"match":"slaydraLeft","image_id":93749},{"match":"slaydraHead","image_id":93599},{"match":"slaydraRight","image_id":93587},{"match":"slaydraDad","image_id":109728}]}
+{
+  "name": "twitch-sub-slaydra",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "slaydraYes",
+      "image_id": 109731
+    },
+    {
+      "match": "slaydraTrig",
+      "image_id": 109729
+    },
+    {
+      "match": "slaydraLeft",
+      "image_id": 93749
+    },
+    {
+      "match": "slaydraHead",
+      "image_id": 93599
+    },
+    {
+      "match": "slaydraRight",
+      "image_id": 93587
+    },
+    {
+      "match": "slaydraDad",
+      "image_id": 109728
+    }
+  ]
+}

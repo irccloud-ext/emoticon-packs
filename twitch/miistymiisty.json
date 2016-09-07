@@ -1,1 +1,31 @@
-{"name":"twitch-sub-miistymiisty","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"miistyRAGE","image_id":62246},{"match":"miistyKAWAII","image_id":62245},{"match":"miistyLOVE","image_id":101467},{"match":"miistyS","image_id":101466},{"match":"miistyPOOP","image_id":47317},{"match":"miistyHEH","image_id":49552},{"match":"miistyCAT","image_id":61861},{"match":"miistyWAT","image_id":84620}]}
+{
+  "name": "twitch-sub-miistymiisty",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "miistyM",
+      "image_id": 111995
+    },
+    {
+      "match": "miistyRAGE",
+      "image_id": 62246
+    },
+    {
+      "match": "miistyKAWAII",
+      "image_id": 62245
+    },
+    {
+      "match": "miistyLOVE",
+      "image_id": 101467
+    },
+    {
+      "match": "miistyPOOP",
+      "image_id": 47317
+    },
+    {
+      "match": "miistyWAT",
+      "image_id": 84620
+    }
+  ]
+}

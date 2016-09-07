@@ -1,1 +1,39 @@
-{"name":"twitch-sub-thebrett","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ubwHype","image_id":4620},{"match":"ubwHella","image_id":4169},{"match":"ubwOhu","image_id":4446},{"match":"ubwPudding","image_id":4965},{"match":"ubwWee","image_id":7945},{"match":"ubwLewd","image_id":9685},{"match":"ubwTanuki","image_id":27689},{"match":"ubwGod","image_id":27723}]}
+{
+  "name": "twitch-sub-thebrett",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ubwHype",
+      "image_id": 4620
+    },
+    {
+      "match": "ubwHella",
+      "image_id": 4169
+    },
+    {
+      "match": "ubwOhu",
+      "image_id": 4446
+    },
+    {
+      "match": "ubwPudding",
+      "image_id": 4965
+    },
+    {
+      "match": "ubwWee",
+      "image_id": 7945
+    },
+    {
+      "match": "ubwLewd",
+      "image_id": 9685
+    },
+    {
+      "match": "ubwTanuki",
+      "image_id": 27689
+    },
+    {
+      "match": "ubwGod",
+      "image_id": 27723
+    }
+  ]
+}

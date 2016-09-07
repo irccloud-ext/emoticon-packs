@@ -1,1 +1,39 @@
-{"name":"twitch-sub-amaliuz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pfoxFP","image_id":20778},{"match":"pfoxFeels","image_id":64940},{"match":"pfoxSnoop","image_id":19009},{"match":"pfoxHype","image_id":90658},{"match":"pfoxH","image_id":90659},{"match":"pfoxTilt","image_id":90660},{"match":"pfoxRIP","image_id":90661},{"match":"pfoxOMG","image_id":90662}]}
+{
+  "name": "twitch-sub-amaliuz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pfoxFP",
+      "image_id": 20778
+    },
+    {
+      "match": "pfoxFeels",
+      "image_id": 64940
+    },
+    {
+      "match": "pfoxSnoop",
+      "image_id": 19009
+    },
+    {
+      "match": "pfoxHype",
+      "image_id": 90658
+    },
+    {
+      "match": "pfoxH",
+      "image_id": 90659
+    },
+    {
+      "match": "pfoxTilt",
+      "image_id": 90660
+    },
+    {
+      "match": "pfoxRIP",
+      "image_id": 90661
+    },
+    {
+      "match": "pfoxOMG",
+      "image_id": 90662
+    }
+  ]
+}

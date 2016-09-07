@@ -1,1 +1,47 @@
-{"name":"twitch-sub-nshadow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shdwPoop","image_id":21671},{"match":"shdwPls","image_id":22954},{"match":"shdwNME","image_id":94727},{"match":"shdwThrows","image_id":36236},{"match":"shdwRip","image_id":88266},{"match":"shdwLove","image_id":44121},{"match":"shdwRage","image_id":49667},{"match":"shdwDance","image_id":77700},{"match":"shdwWut","image_id":83361},{"match":"shdwBop","image_id":86143}]}
+{
+  "name": "twitch-sub-nshadow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shdwPoop",
+      "image_id": 21671
+    },
+    {
+      "match": "shdwPls",
+      "image_id": 22954
+    },
+    {
+      "match": "shdwNME",
+      "image_id": 94727
+    },
+    {
+      "match": "shdwThrows",
+      "image_id": 36236
+    },
+    {
+      "match": "shdwRip",
+      "image_id": 88266
+    },
+    {
+      "match": "shdwLove",
+      "image_id": 44121
+    },
+    {
+      "match": "shdwRage",
+      "image_id": 49667
+    },
+    {
+      "match": "shdwDance",
+      "image_id": 77700
+    },
+    {
+      "match": "shdwWut",
+      "image_id": 83361
+    },
+    {
+      "match": "shdwBop",
+      "image_id": 86143
+    }
+  ]
+}

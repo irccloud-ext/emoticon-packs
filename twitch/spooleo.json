@@ -1,1 +1,43 @@
-{"name":"twitch-sub-spooleo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"spooleOMG","image_id":33913},{"match":"spooleBoyz","image_id":34578},{"match":"spooleCreep","image_id":34576},{"match":"spooleBRB","image_id":34581},{"match":"spooleTXT","image_id":49275},{"match":"spooleBURP","image_id":97282},{"match":"spooleFISH","image_id":61058},{"match":"spooleBRB","image_id":97287},{"match":"spooleRAGE","image_id":104085}]}
+{
+  "name": "twitch-sub-spooleo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "spooleOMG",
+      "image_id": 33913
+    },
+    {
+      "match": "spooleBoyz",
+      "image_id": 34578
+    },
+    {
+      "match": "spooleCreep",
+      "image_id": 34576
+    },
+    {
+      "match": "spooleBRB",
+      "image_id": 34581
+    },
+    {
+      "match": "spooleTXT",
+      "image_id": 49275
+    },
+    {
+      "match": "spooleBURP",
+      "image_id": 97282
+    },
+    {
+      "match": "spooleFISH",
+      "image_id": 61058
+    },
+    {
+      "match": "spooleBRB",
+      "image_id": 97287
+    },
+    {
+      "match": "spooleRAGE",
+      "image_id": 104085
+    }
+  ]
+}

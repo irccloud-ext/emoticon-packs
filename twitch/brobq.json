@@ -1,1 +1,47 @@
-{"name":"twitch-sub-brobq","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bbqK","image_id":60091},{"match":"bbqS","image_id":57981},{"match":"bbqT","image_id":83922},{"match":"bbqE","image_id":63317},{"match":"bbqO","image_id":64026},{"match":"bbqC","image_id":69753},{"match":"bbqL","image_id":69842},{"match":"bbqR","image_id":84016},{"match":"bbqW","image_id":87408},{"match":"bbqH","image_id":104183}]}
+{
+  "name": "twitch-sub-brobq",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bbqK",
+      "image_id": 60091
+    },
+    {
+      "match": "bbqS",
+      "image_id": 57981
+    },
+    {
+      "match": "bbqT",
+      "image_id": 83922
+    },
+    {
+      "match": "bbqE",
+      "image_id": 63317
+    },
+    {
+      "match": "bbqO",
+      "image_id": 64026
+    },
+    {
+      "match": "bbqC",
+      "image_id": 69753
+    },
+    {
+      "match": "bbqL",
+      "image_id": 69842
+    },
+    {
+      "match": "bbqR",
+      "image_id": 84016
+    },
+    {
+      "match": "bbqW",
+      "image_id": 87408
+    },
+    {
+      "match": "bbqH",
+      "image_id": 104183
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-kliquidtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kliqRage","image_id":48259},{"match":"kliqPinkslips","image_id":48260}]}
+{
+  "name": "twitch-sub-kliquidtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kliqRage",
+      "image_id": 48259
+    },
+    {
+      "match": "kliqPinkslips",
+      "image_id": 48260
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-sheevergaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rvgeLegs","image_id":28772},{"match":"rvgeDiego","image_id":2704},{"match":"rvgeNoFun","image_id":2791},{"match":"rvgePicnic","image_id":4399},{"match":"rvgeSmile","image_id":12723},{"match":"rvgeSub","image_id":22496},{"match":"rvgeTurtle","image_id":22498},{"match":"rvgeGrill","image_id":22582},{"match":"rvgeMoni","image_id":22769},{"match":"rvgeCoffee","image_id":31830}]}
+{
+  "name": "twitch-sub-sheevergaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rvgeLegs",
+      "image_id": 28772
+    },
+    {
+      "match": "rvgeDiego",
+      "image_id": 2704
+    },
+    {
+      "match": "rvgeNoFun",
+      "image_id": 2791
+    },
+    {
+      "match": "rvgePicnic",
+      "image_id": 4399
+    },
+    {
+      "match": "rvgeSmile",
+      "image_id": 12723
+    },
+    {
+      "match": "rvgeSub",
+      "image_id": 22496
+    },
+    {
+      "match": "rvgeTurtle",
+      "image_id": 22498
+    },
+    {
+      "match": "rvgeGrill",
+      "image_id": 22582
+    },
+    {
+      "match": "rvgeMoni",
+      "image_id": 22769
+    },
+    {
+      "match": "rvgeCoffee",
+      "image_id": 31830
+    }
+  ]
+}

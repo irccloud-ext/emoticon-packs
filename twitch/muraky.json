@@ -1,1 +1,31 @@
-{"name":"twitch-sub-muraky","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"muraMetida","image_id":36001},{"match":"muraV","image_id":47815},{"match":"muraCarrito","image_id":54500},{"match":"muraWat","image_id":94805},{"match":"muraRage","image_id":94806},{"match":"muraSad","image_id":94807}]}
+{
+  "name": "twitch-sub-muraky",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "muraMetida",
+      "image_id": 36001
+    },
+    {
+      "match": "muraV",
+      "image_id": 47815
+    },
+    {
+      "match": "muraCarrito",
+      "image_id": 54500
+    },
+    {
+      "match": "muraWat",
+      "image_id": 94805
+    },
+    {
+      "match": "muraRage",
+      "image_id": 94806
+    },
+    {
+      "match": "muraSad",
+      "image_id": 94807
+    }
+  ]
+}

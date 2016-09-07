@@ -1,1 +1,15 @@
-{"name":"twitch-sub-heelvsbabyface","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hvbBabyface","image_id":22707},{"match":"hvbScream","image_id":22757}]}
+{
+  "name": "twitch-sub-heelvsbabyface",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hvbBabyface",
+      "image_id": 22707
+    },
+    {
+      "match": "hvbScream",
+      "image_id": 22757
+    }
+  ]
+}

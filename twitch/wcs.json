@@ -1,1 +1,559 @@
-{"name":"twitch-sub-wcs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wcsGg","image_id":1744},{"match":"wcsThatsop","image_id":1590},{"match":"wcsBaneling","image_id":1591},{"match":"wcsMarine","image_id":1593},{"match":"wcsProtoss","image_id":1594},{"match":"wcsTerran","image_id":1595},{"match":"wcsZerg","image_id":1597},{"match":"wcsGg","image_id":1598},{"match":"wcsThatsop","image_id":1599},{"match":"wcsBaneling","image_id":1600},{"match":"wcsCheese","image_id":1601},{"match":"wcsMarine","image_id":1602},{"match":"wcsGg","image_id":1579},{"match":"wcsThatsop","image_id":1582},{"match":"wcsBaneling","image_id":1583},{"match":"wcsCheese","image_id":1584},{"match":"wcsMarine","image_id":1585},{"match":"wcsProtoss","image_id":1586},{"match":"wcsTerran","image_id":1587},{"match":"wcsZealot","image_id":1588},{"match":"wcsZerg","image_id":1589},{"match":"wcsBarracks","image_id":2010},{"match":"wcsCannon","image_id":2021},{"match":"wcsProtoss","image_id":1603},{"match":"wcsCannon","image_id":2011},{"match":"wcsMULE","image_id":2022},{"match":"wcsTerran","image_id":1604},{"match":"wcsCheese","image_id":1611},{"match":"wcsZerg","image_id":1607},{"match":"wcsProtoss","image_id":1613},{"match":"wcsMULE","image_id":2012},{"match":"wcsSpawningPool","image_id":2023},{"match":"wcsSpawningPool","image_id":2013},{"match":"wcsGg","image_id":1608},{"match":"wcsThatsop","image_id":1609},{"match":"wcsTerran","image_id":1614},{"match":"wcsZealot","image_id":1615},{"match":"wcsZerg","image_id":1616},{"match":"wcsBarracks","image_id":2020},{"match":"wcsGg","image_id":1542},{"match":"wcsCheese","image_id":1592},{"match":"wcsZealot","image_id":1596},{"match":"wcsZealot","image_id":1605},{"match":"wcsBaneling","image_id":1610},{"match":"wcsMarine","image_id":1612},{"match":"Barracks","image_id":2058},{"match":"Cannon","image_id":2059},{"match":"Mule","image_id":2060},{"match":"SpawningPool","image_id":2061},{"match":"Ling","image_id":2065},{"match":"wcsLing","image_id":2017},{"match":"wcsTBlock","image_id":2015},{"match":"wcsZBlock","image_id":2016},{"match":"wcsPBlock","image_id":2014},{"match":"PBlock","image_id":2062},{"match":"TBlock","image_id":2063},{"match":"ZBlock","image_id":2064},{"match":"wcsLing","image_id":2027},{"match":"wcsPBlock","image_id":2024},{"match":"wcsTBlock","image_id":2025},{"match":"wcsZBlock","image_id":2026},{"match":"wcsZerg","image_id":1735},{"match":"wcsZealot","image_id":1736},{"match":"wcsTerran","image_id":1737},{"match":"wcsProtoss","image_id":1738},{"match":"wcsMarine","image_id":1739},{"match":"wcsCheese","image_id":1740},{"match":"wcsBaneling","image_id":1741},{"match":"wcsThatsop","image_id":1742},{"match":"wcsBilly","image_id":3612},{"match":"wcsBilly","image_id":4069},{"match":"wcsBelieve","image_id":52975},{"match":"wcsGosu","image_id":52977},{"match":"wcsGotem","image_id":52979},{"match":"wcsOracle","image_id":52980},{"match":"wcsPassionLost","image_id":52981},{"match":"wcsPassionFound","image_id":52982},{"match":"wcsRekt","image_id":52983},{"match":"wcsSalty","image_id":52984},{"match":"wcsWidowmine","image_id":52985},{"match":"wcsProtoss","image_id":8226},{"match":"wcsZerg","image_id":8229},{"match":"wcsGosuTrophy","image_id":8223},{"match":"wcsLocust","image_id":8224},{"match":"wcsNuke","image_id":8225},{"match":"wcsStorm","image_id":8227},{"match":"wcsTerran","image_id":8228},{"match":"wcsGosuTrophy","image_id":8231},{"match":"wcsLocust","image_id":8232},{"match":"wcsTerran","image_id":8237},{"match":"wcsNuke","image_id":8233},{"match":"wcsStorm","image_id":8235},{"match":"wcsProtoss","image_id":8234},{"match":"wcsZerg","image_id":8238},{"match":"wcsZerg","image_id":8248},{"match":"wcsGosuTrophy","image_id":8239},{"match":"wcsLocust","image_id":8242},{"match":"wcsStorm","image_id":8246},{"match":"wcsNuke","image_id":8243},{"match":"wcsProtoss","image_id":8244},{"match":"wcsTerran","image_id":8247},{"match":"wcsBattlecruiser","image_id":22355},{"match":"wcsBattlecruiser","image_id":22356},{"match":"wcsBattlecruiser","image_id":22357},{"match":"wcsBelieve","image_id":22363},{"match":"wcsBelieve","image_id":22364},{"match":"wcsBelieve","image_id":22365},{"match":"wcsCarrier","image_id":22368},{"match":"wcsCarrier","image_id":22369},{"match":"wcsCarrier","image_id":22370},{"match":"wcsGG","image_id":22374},{"match":"wcsGG","image_id":22375},{"match":"wcsGG","image_id":22376},{"match":"wcsGosu","image_id":22381},{"match":"wcsGosu","image_id":22382},{"match":"wcsGosu","image_id":22383},{"match":"wcsGotem","image_id":22384},{"match":"wcsGotem","image_id":22385},{"match":"wcsGotem","image_id":22386},{"match":"wcsOracle","image_id":22390},{"match":"wcsOracle","image_id":22391},{"match":"wcsOracle","image_id":22394},{"match":"wcsRekt","image_id":22399},{"match":"wcsRekt","image_id":22400},{"match":"wcsRekt","image_id":22402},{"match":"wcsSalty","image_id":22408},{"match":"wcsSalty","image_id":22409},{"match":"wcsSalty","image_id":22412},{"match":"wcsUltralisk","image_id":22413},{"match":"wcsUltralisk","image_id":22414},{"match":"wcsUltralisk","image_id":22415},{"match":"wcsWidowmine","image_id":22418},{"match":"wcsWidowmine","image_id":22419},{"match":"wcsWidowmine","image_id":22420},{"match":"wcsBattlecruiser","image_id":52002},{"match":"wcsGg","image_id":52003},{"match":"wcsCarrier","image_id":52006},{"match":"wcsUltralisk","image_id":52007}]}
+{
+  "name": "twitch-sub-wcs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wcsGg",
+      "image_id": 1744
+    },
+    {
+      "match": "wcsThatsop",
+      "image_id": 1590
+    },
+    {
+      "match": "wcsBaneling",
+      "image_id": 1591
+    },
+    {
+      "match": "wcsMarine",
+      "image_id": 1593
+    },
+    {
+      "match": "wcsProtoss",
+      "image_id": 1594
+    },
+    {
+      "match": "wcsTerran",
+      "image_id": 1595
+    },
+    {
+      "match": "wcsZerg",
+      "image_id": 1597
+    },
+    {
+      "match": "wcsGg",
+      "image_id": 1598
+    },
+    {
+      "match": "wcsThatsop",
+      "image_id": 1599
+    },
+    {
+      "match": "wcsBaneling",
+      "image_id": 1600
+    },
+    {
+      "match": "wcsCheese",
+      "image_id": 1601
+    },
+    {
+      "match": "wcsMarine",
+      "image_id": 1602
+    },
+    {
+      "match": "wcsGg",
+      "image_id": 1579
+    },
+    {
+      "match": "wcsThatsop",
+      "image_id": 1582
+    },
+    {
+      "match": "wcsBaneling",
+      "image_id": 1583
+    },
+    {
+      "match": "wcsCheese",
+      "image_id": 1584
+    },
+    {
+      "match": "wcsMarine",
+      "image_id": 1585
+    },
+    {
+      "match": "wcsProtoss",
+      "image_id": 1586
+    },
+    {
+      "match": "wcsTerran",
+      "image_id": 1587
+    },
+    {
+      "match": "wcsZealot",
+      "image_id": 1588
+    },
+    {
+      "match": "wcsZerg",
+      "image_id": 1589
+    },
+    {
+      "match": "wcsBarracks",
+      "image_id": 2010
+    },
+    {
+      "match": "wcsCannon",
+      "image_id": 2021
+    },
+    {
+      "match": "wcsProtoss",
+      "image_id": 1603
+    },
+    {
+      "match": "wcsCannon",
+      "image_id": 2011
+    },
+    {
+      "match": "wcsMULE",
+      "image_id": 2022
+    },
+    {
+      "match": "wcsTerran",
+      "image_id": 1604
+    },
+    {
+      "match": "wcsCheese",
+      "image_id": 1611
+    },
+    {
+      "match": "wcsZerg",
+      "image_id": 1607
+    },
+    {
+      "match": "wcsProtoss",
+      "image_id": 1613
+    },
+    {
+      "match": "wcsMULE",
+      "image_id": 2012
+    },
+    {
+      "match": "wcsSpawningPool",
+      "image_id": 2023
+    },
+    {
+      "match": "wcsSpawningPool",
+      "image_id": 2013
+    },
+    {
+      "match": "wcsGg",
+      "image_id": 1608
+    },
+    {
+      "match": "wcsThatsop",
+      "image_id": 1609
+    },
+    {
+      "match": "wcsTerran",
+      "image_id": 1614
+    },
+    {
+      "match": "wcsZealot",
+      "image_id": 1615
+    },
+    {
+      "match": "wcsZerg",
+      "image_id": 1616
+    },
+    {
+      "match": "wcsBarracks",
+      "image_id": 2020
+    },
+    {
+      "match": "wcsGg",
+      "image_id": 1542
+    },
+    {
+      "match": "wcsCheese",
+      "image_id": 1592
+    },
+    {
+      "match": "wcsZealot",
+      "image_id": 1596
+    },
+    {
+      "match": "wcsZealot",
+      "image_id": 1605
+    },
+    {
+      "match": "wcsBaneling",
+      "image_id": 1610
+    },
+    {
+      "match": "wcsMarine",
+      "image_id": 1612
+    },
+    {
+      "match": "Barracks",
+      "image_id": 2058
+    },
+    {
+      "match": "Cannon",
+      "image_id": 2059
+    },
+    {
+      "match": "Mule",
+      "image_id": 2060
+    },
+    {
+      "match": "SpawningPool",
+      "image_id": 2061
+    },
+    {
+      "match": "Ling",
+      "image_id": 2065
+    },
+    {
+      "match": "wcsLing",
+      "image_id": 2017
+    },
+    {
+      "match": "wcsTBlock",
+      "image_id": 2015
+    },
+    {
+      "match": "wcsZBlock",
+      "image_id": 2016
+    },
+    {
+      "match": "wcsPBlock",
+      "image_id": 2014
+    },
+    {
+      "match": "PBlock",
+      "image_id": 2062
+    },
+    {
+      "match": "TBlock",
+      "image_id": 2063
+    },
+    {
+      "match": "ZBlock",
+      "image_id": 2064
+    },
+    {
+      "match": "wcsLing",
+      "image_id": 2027
+    },
+    {
+      "match": "wcsPBlock",
+      "image_id": 2024
+    },
+    {
+      "match": "wcsTBlock",
+      "image_id": 2025
+    },
+    {
+      "match": "wcsZBlock",
+      "image_id": 2026
+    },
+    {
+      "match": "wcsZerg",
+      "image_id": 1735
+    },
+    {
+      "match": "wcsZealot",
+      "image_id": 1736
+    },
+    {
+      "match": "wcsTerran",
+      "image_id": 1737
+    },
+    {
+      "match": "wcsProtoss",
+      "image_id": 1738
+    },
+    {
+      "match": "wcsMarine",
+      "image_id": 1739
+    },
+    {
+      "match": "wcsCheese",
+      "image_id": 1740
+    },
+    {
+      "match": "wcsBaneling",
+      "image_id": 1741
+    },
+    {
+      "match": "wcsThatsop",
+      "image_id": 1742
+    },
+    {
+      "match": "wcsBilly",
+      "image_id": 3612
+    },
+    {
+      "match": "wcsBilly",
+      "image_id": 4069
+    },
+    {
+      "match": "wcsBelieve",
+      "image_id": 52975
+    },
+    {
+      "match": "wcsGosu",
+      "image_id": 52977
+    },
+    {
+      "match": "wcsGotem",
+      "image_id": 52979
+    },
+    {
+      "match": "wcsOracle",
+      "image_id": 52980
+    },
+    {
+      "match": "wcsPassionLost",
+      "image_id": 52981
+    },
+    {
+      "match": "wcsPassionFound",
+      "image_id": 52982
+    },
+    {
+      "match": "wcsRekt",
+      "image_id": 52983
+    },
+    {
+      "match": "wcsSalty",
+      "image_id": 52984
+    },
+    {
+      "match": "wcsWidowmine",
+      "image_id": 52985
+    },
+    {
+      "match": "wcsProtoss",
+      "image_id": 8226
+    },
+    {
+      "match": "wcsZerg",
+      "image_id": 8229
+    },
+    {
+      "match": "wcsGosuTrophy",
+      "image_id": 8223
+    },
+    {
+      "match": "wcsLocust",
+      "image_id": 8224
+    },
+    {
+      "match": "wcsNuke",
+      "image_id": 8225
+    },
+    {
+      "match": "wcsStorm",
+      "image_id": 8227
+    },
+    {
+      "match": "wcsTerran",
+      "image_id": 8228
+    },
+    {
+      "match": "wcsGosuTrophy",
+      "image_id": 8231
+    },
+    {
+      "match": "wcsLocust",
+      "image_id": 8232
+    },
+    {
+      "match": "wcsTerran",
+      "image_id": 8237
+    },
+    {
+      "match": "wcsNuke",
+      "image_id": 8233
+    },
+    {
+      "match": "wcsStorm",
+      "image_id": 8235
+    },
+    {
+      "match": "wcsProtoss",
+      "image_id": 8234
+    },
+    {
+      "match": "wcsZerg",
+      "image_id": 8238
+    },
+    {
+      "match": "wcsZerg",
+      "image_id": 8248
+    },
+    {
+      "match": "wcsGosuTrophy",
+      "image_id": 8239
+    },
+    {
+      "match": "wcsLocust",
+      "image_id": 8242
+    },
+    {
+      "match": "wcsStorm",
+      "image_id": 8246
+    },
+    {
+      "match": "wcsNuke",
+      "image_id": 8243
+    },
+    {
+      "match": "wcsProtoss",
+      "image_id": 8244
+    },
+    {
+      "match": "wcsTerran",
+      "image_id": 8247
+    },
+    {
+      "match": "wcsBattlecruiser",
+      "image_id": 22355
+    },
+    {
+      "match": "wcsBattlecruiser",
+      "image_id": 22356
+    },
+    {
+      "match": "wcsBattlecruiser",
+      "image_id": 22357
+    },
+    {
+      "match": "wcsBelieve",
+      "image_id": 22363
+    },
+    {
+      "match": "wcsBelieve",
+      "image_id": 22364
+    },
+    {
+      "match": "wcsBelieve",
+      "image_id": 22365
+    },
+    {
+      "match": "wcsCarrier",
+      "image_id": 22368
+    },
+    {
+      "match": "wcsCarrier",
+      "image_id": 22369
+    },
+    {
+      "match": "wcsCarrier",
+      "image_id": 22370
+    },
+    {
+      "match": "wcsGG",
+      "image_id": 22374
+    },
+    {
+      "match": "wcsGG",
+      "image_id": 22375
+    },
+    {
+      "match": "wcsGG",
+      "image_id": 22376
+    },
+    {
+      "match": "wcsGosu",
+      "image_id": 22381
+    },
+    {
+      "match": "wcsGosu",
+      "image_id": 22382
+    },
+    {
+      "match": "wcsGosu",
+      "image_id": 22383
+    },
+    {
+      "match": "wcsGotem",
+      "image_id": 22384
+    },
+    {
+      "match": "wcsGotem",
+      "image_id": 22385
+    },
+    {
+      "match": "wcsGotem",
+      "image_id": 22386
+    },
+    {
+      "match": "wcsOracle",
+      "image_id": 22390
+    },
+    {
+      "match": "wcsOracle",
+      "image_id": 22391
+    },
+    {
+      "match": "wcsOracle",
+      "image_id": 22394
+    },
+    {
+      "match": "wcsRekt",
+      "image_id": 22399
+    },
+    {
+      "match": "wcsRekt",
+      "image_id": 22400
+    },
+    {
+      "match": "wcsRekt",
+      "image_id": 22402
+    },
+    {
+      "match": "wcsSalty",
+      "image_id": 22408
+    },
+    {
+      "match": "wcsSalty",
+      "image_id": 22409
+    },
+    {
+      "match": "wcsSalty",
+      "image_id": 22412
+    },
+    {
+      "match": "wcsUltralisk",
+      "image_id": 22413
+    },
+    {
+      "match": "wcsUltralisk",
+      "image_id": 22414
+    },
+    {
+      "match": "wcsUltralisk",
+      "image_id": 22415
+    },
+    {
+      "match": "wcsWidowmine",
+      "image_id": 22418
+    },
+    {
+      "match": "wcsWidowmine",
+      "image_id": 22419
+    },
+    {
+      "match": "wcsWidowmine",
+      "image_id": 22420
+    },
+    {
+      "match": "wcsBattlecruiser",
+      "image_id": 52002
+    },
+    {
+      "match": "wcsGg",
+      "image_id": 52003
+    },
+    {
+      "match": "wcsCarrier",
+      "image_id": 52006
+    },
+    {
+      "match": "wcsUltralisk",
+      "image_id": 52007
+    }
+  ]
+}

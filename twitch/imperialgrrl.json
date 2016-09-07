@@ -1,1 +1,39 @@
-{"name":"twitch-sub-imperialgrrl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"impgrrlHey","image_id":83921},{"match":"impgrrlHype","image_id":79251},{"match":"impgrrlCookie","image_id":79306},{"match":"impgrrlLewd","image_id":80278},{"match":"impgrrlLove","image_id":78979},{"match":"impgrrlStars","image_id":82553},{"match":"impgrrlDance","image_id":82550},{"match":"impgrrlOops","image_id":83316}]}
+{
+  "name": "twitch-sub-imperialgrrl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "impgrrlHey",
+      "image_id": 83921
+    },
+    {
+      "match": "impgrrlHype",
+      "image_id": 79251
+    },
+    {
+      "match": "impgrrlCookie",
+      "image_id": 79306
+    },
+    {
+      "match": "impgrrlLewd",
+      "image_id": 80278
+    },
+    {
+      "match": "impgrrlLove",
+      "image_id": 78979
+    },
+    {
+      "match": "impgrrlStars",
+      "image_id": 82553
+    },
+    {
+      "match": "impgrrlDance",
+      "image_id": 82550
+    },
+    {
+      "match": "impgrrlOops",
+      "image_id": 83316
+    }
+  ]
+}

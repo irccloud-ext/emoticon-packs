@@ -1,1 +1,31 @@
-{"name":"twitch-sub-inragetv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"irtvGG","image_id":106527},{"match":"irtvRAGELOVE","image_id":96737},{"match":"irtvCHEST","image_id":96738},{"match":"irtvREKT","image_id":93265},{"match":"irtvSUBHYPE","image_id":93263},{"match":"irtvHI","image_id":93310}]}
+{
+  "name": "twitch-sub-inragetv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "irtvGG",
+      "image_id": 106527
+    },
+    {
+      "match": "irtvRAGELOVE",
+      "image_id": 96737
+    },
+    {
+      "match": "irtvCHEST",
+      "image_id": 96738
+    },
+    {
+      "match": "irtvREKT",
+      "image_id": 93265
+    },
+    {
+      "match": "irtvSUBHYPE",
+      "image_id": 93263
+    },
+    {
+      "match": "irtvHI",
+      "image_id": 93310
+    }
+  ]
+}

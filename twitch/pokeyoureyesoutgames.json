@@ -1,1 +1,39 @@
-{"name":"twitch-sub-pokeyoureyesoutgames","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pyeogPOKE","image_id":109300},{"match":"pyeogLURK","image_id":109304},{"match":"pyeogRAR","image_id":109305},{"match":"pyeogO7","image_id":109303},{"match":"pyeogGCGG","image_id":109302},{"match":"pyeogROGUE","image_id":109301},{"match":"pyeogLOVE","image_id":109170},{"match":"pyeogSHY","image_id":109379}]}
+{
+  "name": "twitch-sub-pokeyoureyesoutgames",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pyeogPOKE",
+      "image_id": 109300
+    },
+    {
+      "match": "pyeogLURK",
+      "image_id": 109304
+    },
+    {
+      "match": "pyeogRAR",
+      "image_id": 109305
+    },
+    {
+      "match": "pyeogO7",
+      "image_id": 109303
+    },
+    {
+      "match": "pyeogGCGG",
+      "image_id": 109302
+    },
+    {
+      "match": "pyeogROGUE",
+      "image_id": 109301
+    },
+    {
+      "match": "pyeogLOVE",
+      "image_id": 109170
+    },
+    {
+      "match": "pyeogSHY",
+      "image_id": 109379
+    }
+  ]
+}

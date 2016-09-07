@@ -1,1 +1,39 @@
-{"name":"twitch-sub-thedemodcracy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dmodChug","image_id":107391},{"match":"dmodBluetiful","image_id":106939},{"match":"dmodClench","image_id":107087},{"match":"dmodChair","image_id":107388},{"match":"dmodHype","image_id":107390},{"match":"dmodRip","image_id":107389},{"match":"dmodShock","image_id":108067},{"match":"dmodCry","image_id":108068}]}
+{
+  "name": "twitch-sub-thedemodcracy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dmodChug",
+      "image_id": 107391
+    },
+    {
+      "match": "dmodBluetiful",
+      "image_id": 106939
+    },
+    {
+      "match": "dmodClench",
+      "image_id": 107087
+    },
+    {
+      "match": "dmodChair",
+      "image_id": 107388
+    },
+    {
+      "match": "dmodHype",
+      "image_id": 107390
+    },
+    {
+      "match": "dmodRip",
+      "image_id": 107389
+    },
+    {
+      "match": "dmodShock",
+      "image_id": 108067
+    },
+    {
+      "match": "dmodCry",
+      "image_id": 108068
+    }
+  ]
+}

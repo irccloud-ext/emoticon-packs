@@ -1,1 +1,39 @@
-{"name":"twitch-sub-obey_ry","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ryySub","image_id":84880},{"match":"ryy1010","image_id":29258},{"match":"ryyWooter","image_id":38150},{"match":"ryyEz","image_id":84877},{"match":"ryyVoice","image_id":84881},{"match":"ryyLove","image_id":84879},{"match":"ryyArmy","image_id":84878},{"match":"ryyBread","image_id":85216}]}
+{
+  "name": "twitch-sub-obey_ry",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ryySub",
+      "image_id": 84880
+    },
+    {
+      "match": "ryy1010",
+      "image_id": 29258
+    },
+    {
+      "match": "ryyWooter",
+      "image_id": 38150
+    },
+    {
+      "match": "ryyEz",
+      "image_id": 84877
+    },
+    {
+      "match": "ryyVoice",
+      "image_id": 84881
+    },
+    {
+      "match": "ryyLove",
+      "image_id": 84879
+    },
+    {
+      "match": "ryyArmy",
+      "image_id": 84878
+    },
+    {
+      "match": "ryyBread",
+      "image_id": 85216
+    }
+  ]
+}

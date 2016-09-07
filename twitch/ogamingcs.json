@@ -1,1 +1,39 @@
-{"name":"twitch-sub-ogamingcs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ogcsMANU","image_id":52319},{"match":"ogcsVac","image_id":55035},{"match":"ogcsLyrics","image_id":56019},{"match":"ogcsCnd","image_id":56862},{"match":"ogcsCall","image_id":85022},{"match":"ogcsAutoroute","image_id":90517},{"match":"ogcsBaguette","image_id":92210},{"match":"ogcsComeBack","image_id":94520}]}
+{
+  "name": "twitch-sub-ogamingcs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ogcsMANU",
+      "image_id": 52319
+    },
+    {
+      "match": "ogcsVac",
+      "image_id": 55035
+    },
+    {
+      "match": "ogcsLyrics",
+      "image_id": 56019
+    },
+    {
+      "match": "ogcsCnd",
+      "image_id": 56862
+    },
+    {
+      "match": "ogcsCall",
+      "image_id": 85022
+    },
+    {
+      "match": "ogcsAutoroute",
+      "image_id": 90517
+    },
+    {
+      "match": "ogcsBaguette",
+      "image_id": 92210
+    },
+    {
+      "match": "ogcsComeBack",
+      "image_id": 94520
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-shinryuku_ku","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shinCHEN","image_id":6923},{"match":"shinFail","image_id":7751},{"match":"shinHammer","image_id":7274},{"match":"shinYoumu","image_id":36736},{"match":"shinAya","image_id":36734},{"match":"shinKappa","image_id":36738},{"match":"shinHype","image_id":36750},{"match":"shinSad","image_id":36749}]}
+{
+  "name": "twitch-sub-shinryuku_ku",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shinCHEN",
+      "image_id": 6923
+    },
+    {
+      "match": "shinFail",
+      "image_id": 7751
+    },
+    {
+      "match": "shinHammer",
+      "image_id": 7274
+    },
+    {
+      "match": "shinYoumu",
+      "image_id": 36736
+    },
+    {
+      "match": "shinAya",
+      "image_id": 36734
+    },
+    {
+      "match": "shinKappa",
+      "image_id": 36738
+    },
+    {
+      "match": "shinHype",
+      "image_id": 36750
+    },
+    {
+      "match": "shinSad",
+      "image_id": 36749
+    }
+  ]
+}

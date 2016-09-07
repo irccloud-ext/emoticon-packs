@@ -1,1 +1,39 @@
-{"name":"twitch-sub-skadoodle","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"skaAWP","image_id":37988},{"match":"skaBurrito","image_id":22926},{"match":"skaFACEPALM","image_id":39245},{"match":"skaWHIFF","image_id":38011},{"match":"skaREKT","image_id":38012},{"match":"skaRIP","image_id":37996},{"match":"skaHappy","image_id":37897},{"match":"skaWAH","image_id":41658}]}
+{
+  "name": "twitch-sub-skadoodle",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "skaAWP",
+      "image_id": 37988
+    },
+    {
+      "match": "skaBurrito",
+      "image_id": 22926
+    },
+    {
+      "match": "skaFACEPALM",
+      "image_id": 39245
+    },
+    {
+      "match": "skaWHIFF",
+      "image_id": 38011
+    },
+    {
+      "match": "skaREKT",
+      "image_id": 38012
+    },
+    {
+      "match": "skaRIP",
+      "image_id": 37996
+    },
+    {
+      "match": "skaHappy",
+      "image_id": 37897
+    },
+    {
+      "match": "skaWAH",
+      "image_id": 41658
+    }
+  ]
+}

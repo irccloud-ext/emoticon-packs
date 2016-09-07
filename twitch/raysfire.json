@@ -1,1 +1,67 @@
-{"name":"twitch-sub-raysfire","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"raysMom","image_id":18207},{"match":"raysFace","image_id":17290},{"match":"raysClerk","image_id":17384},{"match":"raysHelm","image_id":19147},{"match":"raysHoah","image_id":20439},{"match":"raysBeef","image_id":37758},{"match":"raysFox","image_id":37757},{"match":"raysThump","image_id":48673},{"match":"raysLove","image_id":68749},{"match":"raysH","image_id":92606},{"match":"raysC","image_id":92461},{"match":"raysW","image_id":92464},{"match":"raysB","image_id":92460},{"match":"raysZ","image_id":92463},{"match":"rays3","image_id":92462}]}
+{
+  "name": "twitch-sub-raysfire",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "raysMom",
+      "image_id": 18207
+    },
+    {
+      "match": "raysFace",
+      "image_id": 17290
+    },
+    {
+      "match": "raysClerk",
+      "image_id": 17384
+    },
+    {
+      "match": "raysHelm",
+      "image_id": 19147
+    },
+    {
+      "match": "raysHoah",
+      "image_id": 20439
+    },
+    {
+      "match": "raysBeef",
+      "image_id": 37758
+    },
+    {
+      "match": "raysFox",
+      "image_id": 37757
+    },
+    {
+      "match": "raysThump",
+      "image_id": 48673
+    },
+    {
+      "match": "raysLove",
+      "image_id": 68749
+    },
+    {
+      "match": "raysH",
+      "image_id": 92606
+    },
+    {
+      "match": "raysC",
+      "image_id": 92461
+    },
+    {
+      "match": "raysW",
+      "image_id": 92464
+    },
+    {
+      "match": "raysB",
+      "image_id": 92460
+    },
+    {
+      "match": "raysZ",
+      "image_id": 92463
+    },
+    {
+      "match": "rays3",
+      "image_id": 92462
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-cruzman11","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cruzHype","image_id":111417},{"match":"cruzHi","image_id":111418},{"match":"cruzThump","image_id":111415},{"match":"cruzLove","image_id":111419},{"match":"cruzPls","image_id":111416},{"match":"cruzGasm","image_id":111414}]}
+{
+  "name": "twitch-sub-cruzman11",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cruzHype",
+      "image_id": 111417
+    },
+    {
+      "match": "cruzHi",
+      "image_id": 111418
+    },
+    {
+      "match": "cruzThump",
+      "image_id": 111415
+    },
+    {
+      "match": "cruzLove",
+      "image_id": 111419
+    },
+    {
+      "match": "cruzPls",
+      "image_id": 111416
+    },
+    {
+      "match": "cruzGasm",
+      "image_id": 111414
+    }
+  ]
+}

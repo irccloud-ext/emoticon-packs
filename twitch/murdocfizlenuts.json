@@ -1,1 +1,27 @@
-{"name":"twitch-sub-murdocfizlenuts","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"murdocAxe","image_id":10088},{"match":"murdocFarm","image_id":11496},{"match":"murdocAgs","image_id":10178},{"match":"murdocTroll","image_id":10339},{"match":"murdocCrew","image_id":10845}]}
+{
+  "name": "twitch-sub-murdocfizlenuts",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "murdocAxe",
+      "image_id": 10088
+    },
+    {
+      "match": "murdocFarm",
+      "image_id": 11496
+    },
+    {
+      "match": "murdocAgs",
+      "image_id": 10178
+    },
+    {
+      "match": "murdocTroll",
+      "image_id": 10339
+    },
+    {
+      "match": "murdocCrew",
+      "image_id": 10845
+    }
+  ]
+}

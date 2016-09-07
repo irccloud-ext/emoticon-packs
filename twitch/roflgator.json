@@ -1,1 +1,39 @@
-{"name":"twitch-sub-roflgator","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"roflgatorHeart","image_id":71820},{"match":"roflgatorShiftlizard","image_id":20212},{"match":"roflgatorLove","image_id":40327},{"match":"roflgatorWave","image_id":40323},{"match":"roflgatorTracergasm","image_id":71734},{"match":"roflgatorFeels","image_id":90526},{"match":"roflgatorWink","image_id":91318},{"match":"roflgatorBot","image_id":94651}]}
+{
+  "name": "twitch-sub-roflgator",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "roflgatorHeart",
+      "image_id": 71820
+    },
+    {
+      "match": "roflgatorShiftlizard",
+      "image_id": 20212
+    },
+    {
+      "match": "roflgatorLove",
+      "image_id": 40327
+    },
+    {
+      "match": "roflgatorWave",
+      "image_id": 40323
+    },
+    {
+      "match": "roflgatorTracergasm",
+      "image_id": 71734
+    },
+    {
+      "match": "roflgatorFeels",
+      "image_id": 90526
+    },
+    {
+      "match": "roflgatorWink",
+      "image_id": 91318
+    },
+    {
+      "match": "roflgatorBot",
+      "image_id": 94651
+    }
+  ]
+}

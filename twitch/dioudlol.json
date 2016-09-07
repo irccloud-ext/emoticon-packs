@@ -1,1 +1,11 @@
-{"name":"twitch-sub-dioudlol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dioudLag","image_id":105164}]}
+{
+  "name": "twitch-sub-dioudlol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dioudLag",
+      "image_id": 105164
+    }
+  ]
+}

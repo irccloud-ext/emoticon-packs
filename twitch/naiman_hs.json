@@ -1,1 +1,15 @@
-{"name":"twitch-sub-naiman_hs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"naimanwKZ","image_id":46445},{"match":"naimanwLike","image_id":78828}]}
+{
+  "name": "twitch-sub-naiman_hs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "naimanwKZ",
+      "image_id": 46445
+    },
+    {
+      "match": "naimanwLike",
+      "image_id": 78828
+    }
+  ]
+}

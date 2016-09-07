@@ -1,1 +1,39 @@
-{"name":"twitch-sub-sinqnew","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sinqO","image_id":92786},{"match":"sinqFAT","image_id":88211},{"match":"sinqHI","image_id":87743},{"match":"sinqPOO","image_id":90088},{"match":"sinqWTF","image_id":92723},{"match":"sinqFEELS","image_id":106881},{"match":"sinqCLENCH","image_id":108658},{"match":"sinqSPAGET","image_id":108604}]}
+{
+  "name": "twitch-sub-sinqnew",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sinqO",
+      "image_id": 92786
+    },
+    {
+      "match": "sinqFAT",
+      "image_id": 88211
+    },
+    {
+      "match": "sinqHI",
+      "image_id": 87743
+    },
+    {
+      "match": "sinqPOO",
+      "image_id": 90088
+    },
+    {
+      "match": "sinqWTF",
+      "image_id": 92723
+    },
+    {
+      "match": "sinqFEELS",
+      "image_id": 106881
+    },
+    {
+      "match": "sinqCLENCH",
+      "image_id": 108658
+    },
+    {
+      "match": "sinqSPAGET",
+      "image_id": 108604
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-nychrisg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chrisgFist","image_id":58498},{"match":"chrisgFiremage","image_id":58497},{"match":"chrisgFreedom","image_id":108599},{"match":"chrisgWallbuild","image_id":108590}]}
+{
+  "name": "twitch-sub-nychrisg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chrisgFist",
+      "image_id": 58498
+    },
+    {
+      "match": "chrisgFiremage",
+      "image_id": 58497
+    },
+    {
+      "match": "chrisgFreedom",
+      "image_id": 108599
+    },
+    {
+      "match": "chrisgWallbuild",
+      "image_id": 108590
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-onoffonx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"carmsIvy","image_id":15063},{"match":"carmsShot","image_id":16304},{"match":"carmsRage","image_id":20956},{"match":"carmsGrumpy","image_id":31004},{"match":"carmsApproves","image_id":32746},{"match":"carmsLove","image_id":67855},{"match":"carmsFail","image_id":84385},{"match":"carmsHi","image_id":84386}]}
+{
+  "name": "twitch-sub-onoffonx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "carmsIvy",
+      "image_id": 15063
+    },
+    {
+      "match": "carmsShot",
+      "image_id": 16304
+    },
+    {
+      "match": "carmsRage",
+      "image_id": 20956
+    },
+    {
+      "match": "carmsGrumpy",
+      "image_id": 31004
+    },
+    {
+      "match": "carmsApproves",
+      "image_id": 32746
+    },
+    {
+      "match": "carmsLove",
+      "image_id": 67855
+    },
+    {
+      "match": "carmsFail",
+      "image_id": 84385
+    },
+    {
+      "match": "carmsHi",
+      "image_id": 84386
+    }
+  ]
+}

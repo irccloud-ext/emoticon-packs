@@ -1,1 +1,31 @@
-{"name":"twitch-sub-kasinglol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kas1","image_id":96106},{"match":"kasVit","image_id":96107},{"match":"kasPrincess","image_id":95603},{"match":"kasAi","image_id":95604},{"match":"kasW","image_id":94151},{"match":"kasPillow","image_id":94162}]}
+{
+  "name": "twitch-sub-kasinglol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kas1",
+      "image_id": 96106
+    },
+    {
+      "match": "kasVit",
+      "image_id": 96107
+    },
+    {
+      "match": "kasPrincess",
+      "image_id": 95603
+    },
+    {
+      "match": "kasAi",
+      "image_id": 95604
+    },
+    {
+      "match": "kasW",
+      "image_id": 94151
+    },
+    {
+      "match": "kasPillow",
+      "image_id": 94162
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-kingye","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kyePeranha","image_id":52057},{"match":"kyeKappa","image_id":56112},{"match":"kyeFlango","image_id":56120},{"match":"kyeHumildade","image_id":75116},{"match":"kyeChora","image_id":79632},{"match":"kyeTMN","image_id":95409}]}
+{
+  "name": "twitch-sub-kingye",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kyePeranha",
+      "image_id": 52057
+    },
+    {
+      "match": "kyeKappa",
+      "image_id": 56112
+    },
+    {
+      "match": "kyeFlango",
+      "image_id": 56120
+    },
+    {
+      "match": "kyeHumildade",
+      "image_id": 75116
+    },
+    {
+      "match": "kyeChora",
+      "image_id": 79632
+    },
+    {
+      "match": "kyeTMN",
+      "image_id": 95409
+    }
+  ]
+}

@@ -1,1 +1,87 @@
-{"name":"twitch-sub-mrgoldensports","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mgsFin","image_id":63579},{"match":"mgsMVP","image_id":15420},{"match":"mgsBaby","image_id":15370},{"match":"mgsFam","image_id":16031},{"match":"mgsWork","image_id":81434},{"match":"mgsLiar","image_id":66793},{"match":"mgsHuh","image_id":95014},{"match":"mgsWop","image_id":31392},{"match":"mgsPlease","image_id":31389},{"match":"mgsOmg","image_id":32860},{"match":"mgsMix","image_id":38678},{"match":"mgsDuck","image_id":45294},{"match":"mgsReally","image_id":63573},{"match":"mgsMn","image_id":64283},{"match":"mgsOut","image_id":63859},{"match":"mgsChoke","image_id":82887},{"match":"mgsSu","image_id":81825},{"match":"mgsNy","image_id":82289},{"match":"mgsLook","image_id":82292},{"match":"mgsGos","image_id":94814}]}
+{
+  "name": "twitch-sub-mrgoldensports",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mgsFin",
+      "image_id": 63579
+    },
+    {
+      "match": "mgsMVP",
+      "image_id": 15420
+    },
+    {
+      "match": "mgsBaby",
+      "image_id": 15370
+    },
+    {
+      "match": "mgsFam",
+      "image_id": 16031
+    },
+    {
+      "match": "mgsWork",
+      "image_id": 81434
+    },
+    {
+      "match": "mgsLiar",
+      "image_id": 66793
+    },
+    {
+      "match": "mgsHuh",
+      "image_id": 95014
+    },
+    {
+      "match": "mgsWop",
+      "image_id": 31392
+    },
+    {
+      "match": "mgsPlease",
+      "image_id": 31389
+    },
+    {
+      "match": "mgsOmg",
+      "image_id": 32860
+    },
+    {
+      "match": "mgsMix",
+      "image_id": 38678
+    },
+    {
+      "match": "mgsDuck",
+      "image_id": 45294
+    },
+    {
+      "match": "mgsReally",
+      "image_id": 63573
+    },
+    {
+      "match": "mgsMn",
+      "image_id": 64283
+    },
+    {
+      "match": "mgsOut",
+      "image_id": 63859
+    },
+    {
+      "match": "mgsChoke",
+      "image_id": 82887
+    },
+    {
+      "match": "mgsSu",
+      "image_id": 81825
+    },
+    {
+      "match": "mgsNy",
+      "image_id": 82289
+    },
+    {
+      "match": "mgsLook",
+      "image_id": 82292
+    },
+    {
+      "match": "mgsGos",
+      "image_id": 94814
+    }
+  ]
+}

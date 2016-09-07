@@ -1,1 +1,31 @@
-{"name":"twitch-sub-cognaclol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cogReach","image_id":95225},{"match":"cogHmm","image_id":95692},{"match":"cogCam","image_id":95693},{"match":"cogTu","image_id":95226},{"match":"cogTilt","image_id":95126},{"match":"cogWow","image_id":95125}]}
+{
+  "name": "twitch-sub-cognaclol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cogReach",
+      "image_id": 95225
+    },
+    {
+      "match": "cogHmm",
+      "image_id": 95692
+    },
+    {
+      "match": "cogCam",
+      "image_id": 95693
+    },
+    {
+      "match": "cogTu",
+      "image_id": 95226
+    },
+    {
+      "match": "cogTilt",
+      "image_id": 95126
+    },
+    {
+      "match": "cogWow",
+      "image_id": 95125
+    }
+  ]
+}

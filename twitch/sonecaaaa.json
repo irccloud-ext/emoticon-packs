@@ -1,1 +1,39 @@
-{"name":"twitch-sub-sonecaaaa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sonecaClone","image_id":6761},{"match":"sonecaSurf","image_id":8597},{"match":"sonecaWhey","image_id":30732},{"match":"sonecaSoneca","image_id":8600},{"match":"sonecaBixofeio","image_id":13115},{"match":"sonecaJamaica","image_id":17197},{"match":"sonecaSono","image_id":7545},{"match":"sonecaOloko","image_id":94438}]}
+{
+  "name": "twitch-sub-sonecaaaa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sonecaClone",
+      "image_id": 6761
+    },
+    {
+      "match": "sonecaSurf",
+      "image_id": 8597
+    },
+    {
+      "match": "sonecaWhey",
+      "image_id": 30732
+    },
+    {
+      "match": "sonecaSoneca",
+      "image_id": 8600
+    },
+    {
+      "match": "sonecaBixofeio",
+      "image_id": 13115
+    },
+    {
+      "match": "sonecaJamaica",
+      "image_id": 17197
+    },
+    {
+      "match": "sonecaSono",
+      "image_id": 7545
+    },
+    {
+      "match": "sonecaOloko",
+      "image_id": 94438
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-bebopbandit","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bopBOP","image_id":24763},{"match":"bopEMU","image_id":24732},{"match":"bopPlease","image_id":26371},{"match":"bopShocking","image_id":26370}]}
+{
+  "name": "twitch-sub-bebopbandit",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bopBOP",
+      "image_id": 24763
+    },
+    {
+      "match": "bopEMU",
+      "image_id": 24732
+    },
+    {
+      "match": "bopPlease",
+      "image_id": 26371
+    },
+    {
+      "match": "bopShocking",
+      "image_id": 26370
+    }
+  ]
+}

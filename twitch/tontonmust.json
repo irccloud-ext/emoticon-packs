@@ -1,1 +1,31 @@
-{"name":"twitch-sub-tontonmust","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ttmBro","image_id":94782},{"match":"ttmSub","image_id":96212},{"match":"ttmCavata","image_id":98780},{"match":"ttmCrak","image_id":108786},{"match":"ttmFra","image_id":106811},{"match":"ttmGg","image_id":106812}]}
+{
+  "name": "twitch-sub-tontonmust",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ttmBro",
+      "image_id": 94782
+    },
+    {
+      "match": "ttmSub",
+      "image_id": 96212
+    },
+    {
+      "match": "ttmCavata",
+      "image_id": 98780
+    },
+    {
+      "match": "ttmCrak",
+      "image_id": 108786
+    },
+    {
+      "match": "ttmFra",
+      "image_id": 106811
+    },
+    {
+      "match": "ttmGg",
+      "image_id": 106812
+    }
+  ]
+}

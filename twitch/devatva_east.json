@@ -1,1 +1,23 @@
-{"name":"twitch-sub-devatva_east","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"devaDev","image_id":24102},{"match":"devaBoo","image_id":26771},{"match":"devaBait","image_id":28021},{"match":"devaCalm","image_id":28019}]}
+{
+  "name": "twitch-sub-devatva_east",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "devaDev",
+      "image_id": 24102
+    },
+    {
+      "match": "devaBoo",
+      "image_id": 26771
+    },
+    {
+      "match": "devaBait",
+      "image_id": 28021
+    },
+    {
+      "match": "devaCalm",
+      "image_id": 28019
+    }
+  ]
+}

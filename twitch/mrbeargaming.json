@@ -1,1 +1,39 @@
-{"name":"twitch-sub-mrbeargaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bhrHunny","image_id":8071},{"match":"bhrFist","image_id":15634},{"match":"bhrNinja","image_id":36006},{"match":"bhrHype","image_id":59005},{"match":"bhrSandwich","image_id":79145},{"match":"bhrHi","image_id":79143},{"match":"bhrCry","image_id":79310},{"match":"bhrZzz","image_id":79311}]}
+{
+  "name": "twitch-sub-mrbeargaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bhrHunny",
+      "image_id": 8071
+    },
+    {
+      "match": "bhrFist",
+      "image_id": 15634
+    },
+    {
+      "match": "bhrNinja",
+      "image_id": 36006
+    },
+    {
+      "match": "bhrHype",
+      "image_id": 59005
+    },
+    {
+      "match": "bhrSandwich",
+      "image_id": 79145
+    },
+    {
+      "match": "bhrHi",
+      "image_id": 79143
+    },
+    {
+      "match": "bhrCry",
+      "image_id": 79310
+    },
+    {
+      "match": "bhrZzz",
+      "image_id": 79311
+    }
+  ]
+}

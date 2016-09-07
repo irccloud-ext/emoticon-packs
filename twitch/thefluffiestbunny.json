@@ -1,1 +1,47 @@
-{"name":"twitch-sub-thefluffiestbunny","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fluffGasm","image_id":31062},{"match":"fluffRIP","image_id":41899},{"match":"fluffChair","image_id":41897},{"match":"fluffRNG","image_id":68430},{"match":"fluffFail","image_id":68431},{"match":"fluffHey","image_id":68432},{"match":"fluffThump","image_id":68438},{"match":"fluffRage","image_id":68436},{"match":"fluffLewd","image_id":68435},{"match":"fluffHype","image_id":68433}]}
+{
+  "name": "twitch-sub-thefluffiestbunny",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fluffGasm",
+      "image_id": 31062
+    },
+    {
+      "match": "fluffRIP",
+      "image_id": 41899
+    },
+    {
+      "match": "fluffChair",
+      "image_id": 41897
+    },
+    {
+      "match": "fluffRNG",
+      "image_id": 68430
+    },
+    {
+      "match": "fluffFail",
+      "image_id": 68431
+    },
+    {
+      "match": "fluffHey",
+      "image_id": 68432
+    },
+    {
+      "match": "fluffThump",
+      "image_id": 68438
+    },
+    {
+      "match": "fluffRage",
+      "image_id": 68436
+    },
+    {
+      "match": "fluffLewd",
+      "image_id": 68435
+    },
+    {
+      "match": "fluffHype",
+      "image_id": 68433
+    }
+  ]
+}

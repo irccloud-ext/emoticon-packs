@@ -1,1 +1,59 @@
-{"name":"twitch-sub-djarii","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"djariiLewd","image_id":64143},{"match":"djariiJonas","image_id":20932},{"match":"djariiLove","image_id":42231},{"match":"djariiHype","image_id":42230},{"match":"djariiW","image_id":43743},{"match":"djariiThump","image_id":64113},{"match":"djariiYay","image_id":64168},{"match":"djariiFG","image_id":90266},{"match":"djariiFB","image_id":90267},{"match":"djariiSO","image_id":90268},{"match":"djariiM","image_id":107749},{"match":"djariiHey","image_id":107751},{"match":"djariiRekt","image_id":107750}]}
+{
+  "name": "twitch-sub-djarii",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "djariiLewd",
+      "image_id": 64143
+    },
+    {
+      "match": "djariiJonas",
+      "image_id": 20932
+    },
+    {
+      "match": "djariiLove",
+      "image_id": 42231
+    },
+    {
+      "match": "djariiHype",
+      "image_id": 42230
+    },
+    {
+      "match": "djariiW",
+      "image_id": 43743
+    },
+    {
+      "match": "djariiThump",
+      "image_id": 64113
+    },
+    {
+      "match": "djariiYay",
+      "image_id": 64168
+    },
+    {
+      "match": "djariiFG",
+      "image_id": 90266
+    },
+    {
+      "match": "djariiFB",
+      "image_id": 90267
+    },
+    {
+      "match": "djariiSO",
+      "image_id": 90268
+    },
+    {
+      "match": "djariiM",
+      "image_id": 107749
+    },
+    {
+      "match": "djariiHey",
+      "image_id": 107751
+    },
+    {
+      "match": "djariiRekt",
+      "image_id": 107750
+    }
+  ]
+}

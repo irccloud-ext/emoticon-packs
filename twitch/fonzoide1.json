@@ -1,1 +1,23 @@
-{"name":"twitch-sub-fonzoide1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fonzTaza","image_id":37203},{"match":"fonzGold","image_id":37367},{"match":"fonzFeno","image_id":37368},{"match":"fonzUNO","image_id":36279}]}
+{
+  "name": "twitch-sub-fonzoide1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fonzTaza",
+      "image_id": 37203
+    },
+    {
+      "match": "fonzGold",
+      "image_id": 37367
+    },
+    {
+      "match": "fonzFeno",
+      "image_id": 37368
+    },
+    {
+      "match": "fonzUNO",
+      "image_id": 36279
+    }
+  ]
+}

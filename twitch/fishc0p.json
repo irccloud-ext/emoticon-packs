@@ -1,1 +1,43 @@
-{"name":"twitch-sub-fishc0p","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fhcHYPE","image_id":41491},{"match":"fhcLOVE","image_id":41550},{"match":"fhcERNA","image_id":41552},{"match":"fhcKOPP","image_id":41553},{"match":"fhcGITTE","image_id":41608},{"match":"fhcFLOSSEN","image_id":82422},{"match":"fhcSACHEN","image_id":52169},{"match":"fhcGG","image_id":58593},{"match":"fhcRIP","image_id":70203}]}
+{
+  "name": "twitch-sub-fishc0p",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fhcHYPE",
+      "image_id": 41491
+    },
+    {
+      "match": "fhcLOVE",
+      "image_id": 41550
+    },
+    {
+      "match": "fhcERNA",
+      "image_id": 41552
+    },
+    {
+      "match": "fhcKOPP",
+      "image_id": 41553
+    },
+    {
+      "match": "fhcGITTE",
+      "image_id": 41608
+    },
+    {
+      "match": "fhcFLOSSEN",
+      "image_id": 82422
+    },
+    {
+      "match": "fhcSACHEN",
+      "image_id": 52169
+    },
+    {
+      "match": "fhcGG",
+      "image_id": 58593
+    },
+    {
+      "match": "fhcRIP",
+      "image_id": 70203
+    }
+  ]
+}

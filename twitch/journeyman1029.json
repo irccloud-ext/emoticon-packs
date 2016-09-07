@@ -1,1 +1,31 @@
-{"name":"twitch-sub-journeyman1029","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jmanShot","image_id":77844},{"match":"jmanSoup","image_id":77843},{"match":"jmanRant","image_id":81328},{"match":"jmanBreak","image_id":79725},{"match":"jmanMonkey","image_id":79918},{"match":"jmanSucks","image_id":109901}]}
+{
+  "name": "twitch-sub-journeyman1029",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jmanShot",
+      "image_id": 77844
+    },
+    {
+      "match": "jmanSoup",
+      "image_id": 77843
+    },
+    {
+      "match": "jmanRant",
+      "image_id": 81328
+    },
+    {
+      "match": "jmanBreak",
+      "image_id": 79725
+    },
+    {
+      "match": "jmanMonkey",
+      "image_id": 79918
+    },
+    {
+      "match": "jmanSucks",
+      "image_id": 109901
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-flubbah","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"flubKappa","image_id":24076},{"match":"flubGrumpy","image_id":24282},{"match":"flubNEXT","image_id":81433},{"match":"flubHYPE","image_id":81432}]}
+{
+  "name": "twitch-sub-flubbah",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "flubKappa",
+      "image_id": 24076
+    },
+    {
+      "match": "flubGrumpy",
+      "image_id": 24282
+    },
+    {
+      "match": "flubNEXT",
+      "image_id": 81433
+    },
+    {
+      "match": "flubHYPE",
+      "image_id": 81432
+    }
+  ]
+}

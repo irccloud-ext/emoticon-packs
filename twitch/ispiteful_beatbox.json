@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ispiteful_beatbox","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"spitefulCow","image_id":111222},{"match":"spitefulGg","image_id":111234},{"match":"spitefulHype","image_id":108737},{"match":"spitefulProphetsbane","image_id":99484}]}
+{
+  "name": "twitch-sub-ispiteful_beatbox",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "spitefulCow",
+      "image_id": 111222
+    },
+    {
+      "match": "spitefulGg",
+      "image_id": 111234
+    },
+    {
+      "match": "spitefulHype",
+      "image_id": 108737
+    },
+    {
+      "match": "spitefulProphetsbane",
+      "image_id": 99484
+    }
+  ]
+}

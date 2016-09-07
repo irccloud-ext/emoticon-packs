@@ -1,1 +1,35 @@
-{"name":"twitch-sub-nagafen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nagafenHype","image_id":105055},{"match":"nagafenSurfer","image_id":78762},{"match":"nagafenWallrun","image_id":78758},{"match":"nagafenFinger","image_id":88619},{"match":"nagafenSPIKE","image_id":105678},{"match":"nagafenWTF","image_id":105679},{"match":"nagafenELV","image_id":105680}]}
+{
+  "name": "twitch-sub-nagafen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nagafenHype",
+      "image_id": 105055
+    },
+    {
+      "match": "nagafenSurfer",
+      "image_id": 78762
+    },
+    {
+      "match": "nagafenWallrun",
+      "image_id": 78758
+    },
+    {
+      "match": "nagafenFinger",
+      "image_id": 88619
+    },
+    {
+      "match": "nagafenSPIKE",
+      "image_id": 105678
+    },
+    {
+      "match": "nagafenWTF",
+      "image_id": 105679
+    },
+    {
+      "match": "nagafenELV",
+      "image_id": 105680
+    }
+  ]
+}

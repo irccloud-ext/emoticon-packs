@@ -1,1 +1,39 @@
-{"name":"twitch-sub-emounicorn","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"emoRufusZ","image_id":1658},{"match":"emoVorteX","image_id":1659},{"match":"emoSwag","image_id":5686},{"match":"emoLoser","image_id":15141},{"match":"emoRekt","image_id":15132},{"match":"emoGlock","image_id":15131},{"match":"emoEz","image_id":15140},{"match":"emoWoo","image_id":15959}]}
+{
+  "name": "twitch-sub-emounicorn",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "emoRufusZ",
+      "image_id": 1658
+    },
+    {
+      "match": "emoVorteX",
+      "image_id": 1659
+    },
+    {
+      "match": "emoSwag",
+      "image_id": 5686
+    },
+    {
+      "match": "emoLoser",
+      "image_id": 15141
+    },
+    {
+      "match": "emoRekt",
+      "image_id": 15132
+    },
+    {
+      "match": "emoGlock",
+      "image_id": 15131
+    },
+    {
+      "match": "emoEz",
+      "image_id": 15140
+    },
+    {
+      "match": "emoWoo",
+      "image_id": 15959
+    }
+  ]
+}

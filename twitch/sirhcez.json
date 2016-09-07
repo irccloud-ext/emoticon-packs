@@ -1,1 +1,67 @@
-{"name":"twitch-sub-sirhcez","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"singCHEZ","image_id":4474},{"match":"singKAPPA","image_id":10677},{"match":"singCRY","image_id":13626},{"match":"singSinged","image_id":25937},{"match":"singNasus","image_id":25938},{"match":"singPillow","image_id":32862},{"match":"sing6","image_id":38399},{"match":"singWave","image_id":55538},{"match":"singKiss","image_id":82167},{"match":"singFeed","image_id":98004},{"match":"singGasm","image_id":103174},{"match":"singPride","image_id":103104},{"match":"singLove","image_id":103105},{"match":"singBoosted","image_id":103106},{"match":"singSquid","image_id":105089}]}
+{
+  "name": "twitch-sub-sirhcez",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "singCHEZ",
+      "image_id": 4474
+    },
+    {
+      "match": "singKAPPA",
+      "image_id": 10677
+    },
+    {
+      "match": "singCRY",
+      "image_id": 13626
+    },
+    {
+      "match": "singSinged",
+      "image_id": 25937
+    },
+    {
+      "match": "singNasus",
+      "image_id": 25938
+    },
+    {
+      "match": "singPillow",
+      "image_id": 32862
+    },
+    {
+      "match": "sing6",
+      "image_id": 38399
+    },
+    {
+      "match": "singWave",
+      "image_id": 55538
+    },
+    {
+      "match": "singKiss",
+      "image_id": 82167
+    },
+    {
+      "match": "singFeed",
+      "image_id": 98004
+    },
+    {
+      "match": "singGasm",
+      "image_id": 103174
+    },
+    {
+      "match": "singPride",
+      "image_id": 103104
+    },
+    {
+      "match": "singLove",
+      "image_id": 103105
+    },
+    {
+      "match": "singBoosted",
+      "image_id": 103106
+    },
+    {
+      "match": "singSquid",
+      "image_id": 105089
+    }
+  ]
+}

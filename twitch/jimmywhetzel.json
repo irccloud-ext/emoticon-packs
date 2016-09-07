@@ -1,1 +1,43 @@
-{"name":"twitch-sub-jimmywhetzel","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jommyTimAllen","image_id":94963},{"match":"jommyPeach","image_id":85907},{"match":"jommyCoin","image_id":86613},{"match":"jommyCute","image_id":88879},{"match":"jommyMinaj","image_id":88878},{"match":"jommyHype","image_id":92117},{"match":"jommyGoober","image_id":97272},{"match":"jommyClutch","image_id":100588},{"match":"jommyBurrito","image_id":104129}]}
+{
+  "name": "twitch-sub-jimmywhetzel",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jommyTimAllen",
+      "image_id": 94963
+    },
+    {
+      "match": "jommyPeach",
+      "image_id": 85907
+    },
+    {
+      "match": "jommyCoin",
+      "image_id": 86613
+    },
+    {
+      "match": "jommyCute",
+      "image_id": 88879
+    },
+    {
+      "match": "jommyMinaj",
+      "image_id": 88878
+    },
+    {
+      "match": "jommyHype",
+      "image_id": 92117
+    },
+    {
+      "match": "jommyGoober",
+      "image_id": 97272
+    },
+    {
+      "match": "jommyClutch",
+      "image_id": 100588
+    },
+    {
+      "match": "jommyBurrito",
+      "image_id": 104129
+    }
+  ]
+}

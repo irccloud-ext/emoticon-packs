@@ -1,1 +1,27 @@
-{"name":"twitch-sub-esvper","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"esvperSoda","image_id":3602},{"match":"esvperRawr","image_id":8051},{"match":"esvperSad","image_id":9015},{"match":"esvperRilak","image_id":7328},{"match":"esvperMochi","image_id":12482}]}
+{
+  "name": "twitch-sub-esvper",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "esvperSoda",
+      "image_id": 3602
+    },
+    {
+      "match": "esvperRawr",
+      "image_id": 8051
+    },
+    {
+      "match": "esvperSad",
+      "image_id": 9015
+    },
+    {
+      "match": "esvperRilak",
+      "image_id": 7328
+    },
+    {
+      "match": "esvperMochi",
+      "image_id": 12482
+    }
+  ]
+}

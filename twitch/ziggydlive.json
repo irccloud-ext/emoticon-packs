@@ -1,1 +1,63 @@
-{"name":"twitch-sub-ziggydlive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ziggyDoge","image_id":8560},{"match":"ziggyGday","image_id":11710},{"match":"ziggyCheer","image_id":11725},{"match":"ziggyShock","image_id":10763},{"match":"ziggyChair","image_id":16415},{"match":"ziggyRIP","image_id":17893},{"match":"ziggyCoin","image_id":35916},{"match":"ziggyCry","image_id":41371},{"match":"ziggy4","image_id":45906},{"match":"ziggyChamp","image_id":97602},{"match":"ziggyShock","image_id":97604},{"match":"ziggyLewd","image_id":44476},{"match":"ziggyPunch","image_id":93820},{"match":"ziggyW","image_id":98121}]}
+{
+  "name": "twitch-sub-ziggydlive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ziggyDoge",
+      "image_id": 8560
+    },
+    {
+      "match": "ziggyGday",
+      "image_id": 11710
+    },
+    {
+      "match": "ziggyCheer",
+      "image_id": 11725
+    },
+    {
+      "match": "ziggyShock",
+      "image_id": 10763
+    },
+    {
+      "match": "ziggyChair",
+      "image_id": 16415
+    },
+    {
+      "match": "ziggyRIP",
+      "image_id": 17893
+    },
+    {
+      "match": "ziggyCoin",
+      "image_id": 35916
+    },
+    {
+      "match": "ziggyCry",
+      "image_id": 41371
+    },
+    {
+      "match": "ziggy4",
+      "image_id": 45906
+    },
+    {
+      "match": "ziggyChamp",
+      "image_id": 97602
+    },
+    {
+      "match": "ziggyShock",
+      "image_id": 97604
+    },
+    {
+      "match": "ziggyLewd",
+      "image_id": 44476
+    },
+    {
+      "match": "ziggyPunch",
+      "image_id": 93820
+    },
+    {
+      "match": "ziggyW",
+      "image_id": 98121
+    }
+  ]
+}

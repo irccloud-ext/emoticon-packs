@@ -1,1 +1,47 @@
-{"name":"twitch-sub-vieparlafoi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vieDonut","image_id":51422},{"match":"vieMurky","image_id":39293},{"match":"vieSub","image_id":39311},{"match":"vieRiot","image_id":39971},{"match":"vieRIP","image_id":40070},{"match":"vieHeart","image_id":51799},{"match":"vieThump","image_id":65564},{"match":"vieHi","image_id":83373},{"match":"vieTen","image_id":91982},{"match":"vieNavi","image_id":91981}]}
+{
+  "name": "twitch-sub-vieparlafoi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vieDonut",
+      "image_id": 51422
+    },
+    {
+      "match": "vieMurky",
+      "image_id": 39293
+    },
+    {
+      "match": "vieSub",
+      "image_id": 39311
+    },
+    {
+      "match": "vieRiot",
+      "image_id": 39971
+    },
+    {
+      "match": "vieRIP",
+      "image_id": 40070
+    },
+    {
+      "match": "vieHeart",
+      "image_id": 51799
+    },
+    {
+      "match": "vieThump",
+      "image_id": 65564
+    },
+    {
+      "match": "vieHi",
+      "image_id": 83373
+    },
+    {
+      "match": "vieTen",
+      "image_id": 91982
+    },
+    {
+      "match": "vieNavi",
+      "image_id": 91981
+    }
+  ]
+}

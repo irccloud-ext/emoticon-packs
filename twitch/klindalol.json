@@ -1,1 +1,39 @@
-{"name":"twitch-sub-klindalol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"klindaPALM","image_id":108387},{"match":"klindaHype","image_id":108390},{"match":"klindaKappa","image_id":108392},{"match":"klindaRekt","image_id":108389},{"match":"klindaHEY","image_id":108388},{"match":"klindaHaiku","image_id":103671},{"match":"klindaLap","image_id":104128},{"match":"klindaShoe","image_id":104691}]}
+{
+  "name": "twitch-sub-klindalol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "klindaPALM",
+      "image_id": 108387
+    },
+    {
+      "match": "klindaHype",
+      "image_id": 108390
+    },
+    {
+      "match": "klindaKappa",
+      "image_id": 108392
+    },
+    {
+      "match": "klindaRekt",
+      "image_id": 108389
+    },
+    {
+      "match": "klindaHEY",
+      "image_id": 108388
+    },
+    {
+      "match": "klindaHaiku",
+      "image_id": 103671
+    },
+    {
+      "match": "klindaLap",
+      "image_id": 104128
+    },
+    {
+      "match": "klindaShoe",
+      "image_id": 104691
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-snailkicktm","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"snailFace","image_id":57289},{"match":"snailGre4a","image_id":63609},{"match":"snailFace2","image_id":63608},{"match":"snailHS","image_id":63061}]}
+{
+  "name": "twitch-sub-snailkicktm",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "snailFace",
+      "image_id": 57289
+    },
+    {
+      "match": "snailGre4a",
+      "image_id": 63609
+    },
+    {
+      "match": "snailFace2",
+      "image_id": 63608
+    },
+    {
+      "match": "snailHS",
+      "image_id": 63061
+    }
+  ]
+}

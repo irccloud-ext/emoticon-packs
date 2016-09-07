@@ -1,1 +1,47 @@
-{"name":"twitch-sub-pwnstarzdotcom","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pwnSweat","image_id":7752},{"match":"pwnGemma","image_id":7381},{"match":"pwnUmadbro","image_id":10172},{"match":"pwnTT","image_id":71196},{"match":"pwnSenzu","image_id":93720},{"match":"pwnSaiyan","image_id":93711},{"match":"pwnBP","image_id":70805},{"match":"pwnTuna","image_id":91234},{"match":"pwnBeater","image_id":102552},{"match":"pwnTingting","image_id":105173}]}
+{
+  "name": "twitch-sub-pwnstarzdotcom",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pwnSweat",
+      "image_id": 7752
+    },
+    {
+      "match": "pwnGemma",
+      "image_id": 7381
+    },
+    {
+      "match": "pwnUmadbro",
+      "image_id": 10172
+    },
+    {
+      "match": "pwnTT",
+      "image_id": 71196
+    },
+    {
+      "match": "pwnSenzu",
+      "image_id": 93720
+    },
+    {
+      "match": "pwnSaiyan",
+      "image_id": 93711
+    },
+    {
+      "match": "pwnBP",
+      "image_id": 70805
+    },
+    {
+      "match": "pwnTuna",
+      "image_id": 91234
+    },
+    {
+      "match": "pwnBeater",
+      "image_id": 102552
+    },
+    {
+      "match": "pwnTingting",
+      "image_id": 105173
+    }
+  ]
+}

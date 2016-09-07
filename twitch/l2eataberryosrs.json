@@ -1,1 +1,23 @@
-{"name":"twitch-sub-l2eataberryosrs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"berryCry","image_id":62897},{"match":"berrySub","image_id":63951},{"match":"berryHype","image_id":63952},{"match":"berryPoke","image_id":63817}]}
+{
+  "name": "twitch-sub-l2eataberryosrs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "berryCry",
+      "image_id": 62897
+    },
+    {
+      "match": "berrySub",
+      "image_id": 63951
+    },
+    {
+      "match": "berryHype",
+      "image_id": 63952
+    },
+    {
+      "match": "berryPoke",
+      "image_id": 63817
+    }
+  ]
+}

@@ -1,1 +1,87 @@
-{"name":"twitch-sub-staiy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"staiyLol","image_id":83812},{"match":"staiyNice","image_id":83811},{"match":"staiyBan","image_id":12340},{"match":"staiyGril","image_id":84617},{"match":"staiyKappa","image_id":40143},{"match":"staiyVN","image_id":101609},{"match":"staiyW","image_id":62132},{"match":"staiyCry","image_id":83480},{"match":"staiyRekt","image_id":83479},{"match":"staiyPray","image_id":83478},{"match":"staiyGeld","image_id":83477},{"match":"staiyRIP","image_id":83278},{"match":"staiyHype","image_id":83056},{"match":"staiyHerz","image_id":83057},{"match":"staiyFail","image_id":83062},{"match":"staiyHi","image_id":83063},{"match":"staiySalt","image_id":83043},{"match":"staiyTweef","image_id":83045},{"match":"staiyShock","image_id":85861},{"match":"staiyRage","image_id":85275}]}
+{
+  "name": "twitch-sub-staiy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "staiyLol",
+      "image_id": 83812
+    },
+    {
+      "match": "staiyNice",
+      "image_id": 83811
+    },
+    {
+      "match": "staiyBan",
+      "image_id": 12340
+    },
+    {
+      "match": "staiyGril",
+      "image_id": 84617
+    },
+    {
+      "match": "staiyKappa",
+      "image_id": 40143
+    },
+    {
+      "match": "staiyVN",
+      "image_id": 101609
+    },
+    {
+      "match": "staiyW",
+      "image_id": 62132
+    },
+    {
+      "match": "staiyCry",
+      "image_id": 83480
+    },
+    {
+      "match": "staiyRekt",
+      "image_id": 83479
+    },
+    {
+      "match": "staiyPray",
+      "image_id": 83478
+    },
+    {
+      "match": "staiyGeld",
+      "image_id": 83477
+    },
+    {
+      "match": "staiyRIP",
+      "image_id": 83278
+    },
+    {
+      "match": "staiyHype",
+      "image_id": 83056
+    },
+    {
+      "match": "staiyHerz",
+      "image_id": 83057
+    },
+    {
+      "match": "staiyFail",
+      "image_id": 83062
+    },
+    {
+      "match": "staiyHi",
+      "image_id": 83063
+    },
+    {
+      "match": "staiySalt",
+      "image_id": 83043
+    },
+    {
+      "match": "staiyTweef",
+      "image_id": 83045
+    },
+    {
+      "match": "staiyShock",
+      "image_id": 85861
+    },
+    {
+      "match": "staiyRage",
+      "image_id": 85275
+    }
+  ]
+}

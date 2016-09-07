@@ -1,1 +1,35 @@
-{"name":"twitch-sub-gi_doobie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"doobieTwinger","image_id":55432},{"match":"doobieWhip","image_id":55431},{"match":"doobieGotnofans","image_id":34906},{"match":"doobieO","image_id":46498},{"match":"doobieB","image_id":46499},{"match":"doobieH","image_id":47761},{"match":"doobieK","image_id":47762}]}
+{
+  "name": "twitch-sub-gi_doobie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "doobieTwinger",
+      "image_id": 55432
+    },
+    {
+      "match": "doobieWhip",
+      "image_id": 55431
+    },
+    {
+      "match": "doobieGotnofans",
+      "image_id": 34906
+    },
+    {
+      "match": "doobieO",
+      "image_id": 46498
+    },
+    {
+      "match": "doobieB",
+      "image_id": 46499
+    },
+    {
+      "match": "doobieH",
+      "image_id": 47761
+    },
+    {
+      "match": "doobieK",
+      "image_id": 47762
+    }
+  ]
+}

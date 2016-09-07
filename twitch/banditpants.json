@@ -1,1 +1,39 @@
-{"name":"twitch-sub-banditpants","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"banditLove","image_id":11778},{"match":"banditPUMP","image_id":11816},{"match":"banditRIP","image_id":11817},{"match":"banditFAIL","image_id":11972},{"match":"banditGASM","image_id":11973},{"match":"banditPants","image_id":12834},{"match":"banditK","image_id":12833},{"match":"banditBat","image_id":18870}]}
+{
+  "name": "twitch-sub-banditpants",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "banditLove",
+      "image_id": 11778
+    },
+    {
+      "match": "banditPUMP",
+      "image_id": 11816
+    },
+    {
+      "match": "banditRIP",
+      "image_id": 11817
+    },
+    {
+      "match": "banditFAIL",
+      "image_id": 11972
+    },
+    {
+      "match": "banditGASM",
+      "image_id": 11973
+    },
+    {
+      "match": "banditPants",
+      "image_id": 12834
+    },
+    {
+      "match": "banditK",
+      "image_id": 12833
+    },
+    {
+      "match": "banditBat",
+      "image_id": 18870
+    }
+  ]
+}

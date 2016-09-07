@@ -1,1 +1,67 @@
-{"name":"twitch-sub-quickybaby","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wotMrsqb","image_id":2042},{"match":"wotTOG2","image_id":2046},{"match":"wotPUDDING","image_id":2044},{"match":"wotTOG1","image_id":2045},{"match":"wotCRUMPET","image_id":2171},{"match":"wotQB","image_id":2720},{"match":"wotSERB","image_id":2716},{"match":"wotTRACKPAD","image_id":3657},{"match":"wotPIGPIG","image_id":6145},{"match":"wotRNG","image_id":11079},{"match":"wotACE","image_id":27420},{"match":"wotJINGLES","image_id":40118},{"match":"wotPHIL","image_id":95173},{"match":"wotPOTATOT","image_id":95174},{"match":"wotSTALIN","image_id":95175}]}
+{
+  "name": "twitch-sub-quickybaby",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wotMrsqb",
+      "image_id": 2042
+    },
+    {
+      "match": "wotTOG2",
+      "image_id": 2046
+    },
+    {
+      "match": "wotPUDDING",
+      "image_id": 2044
+    },
+    {
+      "match": "wotTOG1",
+      "image_id": 2045
+    },
+    {
+      "match": "wotCRUMPET",
+      "image_id": 2171
+    },
+    {
+      "match": "wotQB",
+      "image_id": 2720
+    },
+    {
+      "match": "wotSERB",
+      "image_id": 2716
+    },
+    {
+      "match": "wotTRACKPAD",
+      "image_id": 3657
+    },
+    {
+      "match": "wotPIGPIG",
+      "image_id": 6145
+    },
+    {
+      "match": "wotRNG",
+      "image_id": 11079
+    },
+    {
+      "match": "wotACE",
+      "image_id": 27420
+    },
+    {
+      "match": "wotJINGLES",
+      "image_id": 40118
+    },
+    {
+      "match": "wotPHIL",
+      "image_id": 95173
+    },
+    {
+      "match": "wotPOTATOT",
+      "image_id": 95174
+    },
+    {
+      "match": "wotSTALIN",
+      "image_id": 95175
+    }
+  ]
+}

@@ -1,1 +1,131 @@
-{"name":"twitch-sub-witwix","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wixSanic","image_id":6144},{"match":"wixMerio","image_id":7531},{"match":"wixDankey","image_id":12636},{"match":"wixDude","image_id":13333},{"match":"wixBowsey","image_id":14138},{"match":"wixMeatrod","image_id":51957},{"match":"wixHassanCop","image_id":15110},{"match":"wixZaldo","image_id":15579},{"match":"wixBod","image_id":51958},{"match":"wixSnack","image_id":16320},{"match":"wixMagoo","image_id":18006},{"match":"wixGold","image_id":19059},{"match":"wixHusbando","image_id":51960},{"match":"wixPooch","image_id":25894},{"match":"wixBrix","image_id":28264},{"match":"wixNis","image_id":35891},{"match":"wixWerio","image_id":35182},{"match":"wixSkerp","image_id":35951},{"match":"wixClaude","image_id":37160},{"match":"wixL","image_id":65923},{"match":"wixR","image_id":65924},{"match":"wixCapn","image_id":49473},{"match":"wixMini","image_id":49488},{"match":"wixAyyLmar","image_id":58285},{"match":"wix2","image_id":94852},{"match":"wix3","image_id":94853},{"match":"wix4","image_id":94855},{"match":"wix1","image_id":94851},{"match":"wixD","image_id":84966},{"match":"wixCheese","image_id":84965},{"match":"wixK","image_id":97042}]}
+{
+  "name": "twitch-sub-witwix",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wixSanic",
+      "image_id": 6144
+    },
+    {
+      "match": "wixMerio",
+      "image_id": 7531
+    },
+    {
+      "match": "wixDankey",
+      "image_id": 12636
+    },
+    {
+      "match": "wixDude",
+      "image_id": 13333
+    },
+    {
+      "match": "wixBowsey",
+      "image_id": 14138
+    },
+    {
+      "match": "wixMeatrod",
+      "image_id": 51957
+    },
+    {
+      "match": "wixHassanCop",
+      "image_id": 15110
+    },
+    {
+      "match": "wixZaldo",
+      "image_id": 15579
+    },
+    {
+      "match": "wixBod",
+      "image_id": 51958
+    },
+    {
+      "match": "wixSnack",
+      "image_id": 16320
+    },
+    {
+      "match": "wixMagoo",
+      "image_id": 18006
+    },
+    {
+      "match": "wixGold",
+      "image_id": 19059
+    },
+    {
+      "match": "wixHusbando",
+      "image_id": 51960
+    },
+    {
+      "match": "wixPooch",
+      "image_id": 25894
+    },
+    {
+      "match": "wixBrix",
+      "image_id": 28264
+    },
+    {
+      "match": "wixNis",
+      "image_id": 35891
+    },
+    {
+      "match": "wixWerio",
+      "image_id": 35182
+    },
+    {
+      "match": "wixSkerp",
+      "image_id": 35951
+    },
+    {
+      "match": "wixClaude",
+      "image_id": 37160
+    },
+    {
+      "match": "wixL",
+      "image_id": 65923
+    },
+    {
+      "match": "wixR",
+      "image_id": 65924
+    },
+    {
+      "match": "wixCapn",
+      "image_id": 49473
+    },
+    {
+      "match": "wixMini",
+      "image_id": 49488
+    },
+    {
+      "match": "wixAyyLmar",
+      "image_id": 58285
+    },
+    {
+      "match": "wix2",
+      "image_id": 94852
+    },
+    {
+      "match": "wix3",
+      "image_id": 94853
+    },
+    {
+      "match": "wix4",
+      "image_id": 94855
+    },
+    {
+      "match": "wix1",
+      "image_id": 94851
+    },
+    {
+      "match": "wixD",
+      "image_id": 84966
+    },
+    {
+      "match": "wixCheese",
+      "image_id": 84965
+    },
+    {
+      "match": "wixK",
+      "image_id": 97042
+    }
+  ]
+}

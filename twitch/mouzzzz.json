@@ -1,1 +1,19 @@
-{"name":"twitch-sub-mouzzzz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mouzVacation","image_id":36355},{"match":"mouzClutch","image_id":36354},{"match":"mouzRage","image_id":72143}]}
+{
+  "name": "twitch-sub-mouzzzz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mouzVacation",
+      "image_id": 36355
+    },
+    {
+      "match": "mouzClutch",
+      "image_id": 36354
+    },
+    {
+      "match": "mouzRage",
+      "image_id": 72143
+    }
+  ]
+}

@@ -1,1 +1,63 @@
-{"name":"twitch-sub-joaquimblaze","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"blazeitRekt","image_id":86225},{"match":"blazeitHi","image_id":86324},{"match":"blazeitKaching","image_id":86325},{"match":"blazeitLove","image_id":86326},{"match":"blazeitRip","image_id":86226},{"match":"blazeitRage","image_id":86228},{"match":"blazeitFire","image_id":87520},{"match":"blazeitTorch","image_id":87521},{"match":"blazeitGasm","image_id":87522},{"match":"blazeitNutzzz","image_id":90350},{"match":"blazeitGG","image_id":89809},{"match":"blazeitGL","image_id":89808},{"match":"blazeitBait","image_id":89807},{"match":"blazeitSpin","image_id":101917}]}
+{
+  "name": "twitch-sub-joaquimblaze",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "blazeitRekt",
+      "image_id": 86225
+    },
+    {
+      "match": "blazeitHi",
+      "image_id": 86324
+    },
+    {
+      "match": "blazeitKaching",
+      "image_id": 86325
+    },
+    {
+      "match": "blazeitLove",
+      "image_id": 86326
+    },
+    {
+      "match": "blazeitRip",
+      "image_id": 86226
+    },
+    {
+      "match": "blazeitRage",
+      "image_id": 86228
+    },
+    {
+      "match": "blazeitFire",
+      "image_id": 87520
+    },
+    {
+      "match": "blazeitTorch",
+      "image_id": 87521
+    },
+    {
+      "match": "blazeitGasm",
+      "image_id": 87522
+    },
+    {
+      "match": "blazeitNutzzz",
+      "image_id": 90350
+    },
+    {
+      "match": "blazeitGG",
+      "image_id": 89809
+    },
+    {
+      "match": "blazeitGL",
+      "image_id": 89808
+    },
+    {
+      "match": "blazeitBait",
+      "image_id": 89807
+    },
+    {
+      "match": "blazeitSpin",
+      "image_id": 101917
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-o_dingo77","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dingB","image_id":52190},{"match":"dingG","image_id":21932},{"match":"dingP","image_id":23717},{"match":"dingY","image_id":22665},{"match":"dingH","image_id":22663},{"match":"dingS","image_id":23064},{"match":"dingW","image_id":52189},{"match":"dingL","image_id":52732}]}
+{
+  "name": "twitch-sub-o_dingo77",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dingB",
+      "image_id": 52190
+    },
+    {
+      "match": "dingG",
+      "image_id": 21932
+    },
+    {
+      "match": "dingP",
+      "image_id": 23717
+    },
+    {
+      "match": "dingY",
+      "image_id": 22665
+    },
+    {
+      "match": "dingH",
+      "image_id": 22663
+    },
+    {
+      "match": "dingS",
+      "image_id": 23064
+    },
+    {
+      "match": "dingW",
+      "image_id": 52189
+    },
+    {
+      "match": "dingL",
+      "image_id": 52732
+    }
+  ]
+}

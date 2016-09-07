@@ -1,1 +1,11 @@
-{"name":"twitch-sub-giga","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gigaHubert","image_id":46053}]}
+{
+  "name": "twitch-sub-giga",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gigaHubert",
+      "image_id": 46053
+    }
+  ]
+}

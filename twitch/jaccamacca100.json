@@ -1,1 +1,39 @@
-{"name":"twitch-sub-jaccamacca100","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jaccaCool","image_id":54615},{"match":"jaccaPride","image_id":74757},{"match":"jaccaKappa","image_id":23719},{"match":"jaccaThump","image_id":23944},{"match":"jaccaMilk","image_id":24395},{"match":"jaccaOpie","image_id":27786},{"match":"jaccaHacker","image_id":29351},{"match":"jaccaHype","image_id":54616}]}
+{
+  "name": "twitch-sub-jaccamacca100",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jaccaCool",
+      "image_id": 54615
+    },
+    {
+      "match": "jaccaPride",
+      "image_id": 74757
+    },
+    {
+      "match": "jaccaKappa",
+      "image_id": 23719
+    },
+    {
+      "match": "jaccaThump",
+      "image_id": 23944
+    },
+    {
+      "match": "jaccaMilk",
+      "image_id": 24395
+    },
+    {
+      "match": "jaccaOpie",
+      "image_id": 27786
+    },
+    {
+      "match": "jaccaHacker",
+      "image_id": 29351
+    },
+    {
+      "match": "jaccaHype",
+      "image_id": 54616
+    }
+  ]
+}

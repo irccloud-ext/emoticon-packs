@@ -1,1 +1,163 @@
-{"name":"twitch-sub-beyondthesummit","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"movember","image_id":282},{"match":"GoDzilla","image_id":505},{"match":"LoneDavid","image_id":506},{"match":"winteriscoming","image_id":507},{"match":"homeintrouble","image_id":511},{"match":"pointyhead","image_id":718},{"match":"inverse","image_id":722},{"match":"Ravage","image_id":723},{"match":"ICEFROG","image_id":849},{"match":"getdolla","image_id":850},{"match":"elgato","image_id":851},{"match":"mgod","image_id":852},{"match":"Gg","image_id":857},{"match":"dendiface","image_id":859},{"match":"auzzie","image_id":1439},{"match":"chemo","image_id":1440},{"match":"datRNG","image_id":1441},{"match":"godztache","image_id":1442},{"match":"hoofinit","image_id":1443},{"match":"invictus","image_id":1444},{"match":"knockknock","image_id":1445},{"match":"LGDgaming","image_id":1446},{"match":"lookatitgo","image_id":1447},{"match":"magicsucks","image_id":1448},{"match":"meepown","image_id":1449},{"match":"niceult","image_id":1450},{"match":"NOUVA","image_id":1451},{"match":"nyxnyxnyx","image_id":1452},{"match":"OLATS","image_id":1453},{"match":"teamDK","image_id":1454},{"match":"bts2merlinis","image_id":67904},{"match":"btsAokiW","image_id":67906},{"match":"bts4","image_id":67905},{"match":"btsWaow","image_id":67903},{"match":"btsBryanW","image_id":67911},{"match":"btsGodzW","image_id":67912},{"match":"btsKotlW","image_id":67913},{"match":"btsLdW","image_id":67914},{"match":"btsMerliniW","image_id":67915}]}
+{
+  "name": "twitch-sub-beyondthesummit",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "movember",
+      "image_id": 282
+    },
+    {
+      "match": "GoDzilla",
+      "image_id": 505
+    },
+    {
+      "match": "LoneDavid",
+      "image_id": 506
+    },
+    {
+      "match": "winteriscoming",
+      "image_id": 507
+    },
+    {
+      "match": "homeintrouble",
+      "image_id": 511
+    },
+    {
+      "match": "pointyhead",
+      "image_id": 718
+    },
+    {
+      "match": "inverse",
+      "image_id": 722
+    },
+    {
+      "match": "Ravage",
+      "image_id": 723
+    },
+    {
+      "match": "ICEFROG",
+      "image_id": 849
+    },
+    {
+      "match": "getdolla",
+      "image_id": 850
+    },
+    {
+      "match": "elgato",
+      "image_id": 851
+    },
+    {
+      "match": "mgod",
+      "image_id": 852
+    },
+    {
+      "match": "Gg",
+      "image_id": 857
+    },
+    {
+      "match": "dendiface",
+      "image_id": 859
+    },
+    {
+      "match": "auzzie",
+      "image_id": 1439
+    },
+    {
+      "match": "chemo",
+      "image_id": 1440
+    },
+    {
+      "match": "datRNG",
+      "image_id": 1441
+    },
+    {
+      "match": "godztache",
+      "image_id": 1442
+    },
+    {
+      "match": "hoofinit",
+      "image_id": 1443
+    },
+    {
+      "match": "invictus",
+      "image_id": 1444
+    },
+    {
+      "match": "knockknock",
+      "image_id": 1445
+    },
+    {
+      "match": "LGDgaming",
+      "image_id": 1446
+    },
+    {
+      "match": "lookatitgo",
+      "image_id": 1447
+    },
+    {
+      "match": "magicsucks",
+      "image_id": 1448
+    },
+    {
+      "match": "meepown",
+      "image_id": 1449
+    },
+    {
+      "match": "niceult",
+      "image_id": 1450
+    },
+    {
+      "match": "NOUVA",
+      "image_id": 1451
+    },
+    {
+      "match": "nyxnyxnyx",
+      "image_id": 1452
+    },
+    {
+      "match": "OLATS",
+      "image_id": 1453
+    },
+    {
+      "match": "teamDK",
+      "image_id": 1454
+    },
+    {
+      "match": "bts2merlinis",
+      "image_id": 67904
+    },
+    {
+      "match": "btsAokiW",
+      "image_id": 67906
+    },
+    {
+      "match": "bts4",
+      "image_id": 67905
+    },
+    {
+      "match": "btsWaow",
+      "image_id": 67903
+    },
+    {
+      "match": "btsBryanW",
+      "image_id": 67911
+    },
+    {
+      "match": "btsGodzW",
+      "image_id": 67912
+    },
+    {
+      "match": "btsKotlW",
+      "image_id": 67913
+    },
+    {
+      "match": "btsLdW",
+      "image_id": 67914
+    },
+    {
+      "match": "btsMerliniW",
+      "image_id": 67915
+    }
+  ]
+}

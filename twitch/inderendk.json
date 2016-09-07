@@ -1,1 +1,31 @@
-{"name":"twitch-sub-inderendk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"indOwl","image_id":60644},{"match":"indH","image_id":61972},{"match":"indKappa","image_id":56289},{"match":"indWizardpoker","image_id":61282},{"match":"indHYPE","image_id":67896},{"match":"indFeels","image_id":67894}]}
+{
+  "name": "twitch-sub-inderendk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "indOwl",
+      "image_id": 60644
+    },
+    {
+      "match": "indH",
+      "image_id": 61972
+    },
+    {
+      "match": "indKappa",
+      "image_id": 56289
+    },
+    {
+      "match": "indWizardpoker",
+      "image_id": 61282
+    },
+    {
+      "match": "indHYPE",
+      "image_id": 67896
+    },
+    {
+      "match": "indFeels",
+      "image_id": 67894
+    }
+  ]
+}

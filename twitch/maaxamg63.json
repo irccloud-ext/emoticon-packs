@@ -1,1 +1,23 @@
-{"name":"twitch-sub-maaxamg63","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"maaxamgSquad","image_id":56964},{"match":"maaxamgGg","image_id":56965},{"match":"maaxamgBruuh","image_id":57670},{"match":"maaxamgSub","image_id":57671}]}
+{
+  "name": "twitch-sub-maaxamg63",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "maaxamgSquad",
+      "image_id": 56964
+    },
+    {
+      "match": "maaxamgGg",
+      "image_id": 56965
+    },
+    {
+      "match": "maaxamgBruuh",
+      "image_id": 57670
+    },
+    {
+      "match": "maaxamgSub",
+      "image_id": 57671
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-quit108","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"quit108HS","image_id":49391},{"match":"quit108KIWI","image_id":49392},{"match":"quit108MAINAGIOIA","image_id":52165},{"match":"quit108GG","image_id":52166}]}
+{
+  "name": "twitch-sub-quit108",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "quit108HS",
+      "image_id": 49391
+    },
+    {
+      "match": "quit108KIWI",
+      "image_id": 49392
+    },
+    {
+      "match": "quit108MAINAGIOIA",
+      "image_id": 52165
+    },
+    {
+      "match": "quit108GG",
+      "image_id": 52166
+    }
+  ]
+}

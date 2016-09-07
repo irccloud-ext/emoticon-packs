@@ -1,1 +1,19 @@
-{"name":"twitch-sub-morganartem","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"morganuprtUporot","image_id":63964},{"match":"morganuprtRasslabon","image_id":63972}]}
+{
+  "name": "twitch-sub-morganartem",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "morganuprtUporot",
+      "image_id": 63964
+    },
+    {
+      "match": "morganuprtRasslabon",
+      "image_id": 63972
+    },
+    {
+      "match": "morganuprtGrustna",
+      "image_id": 112401
+    }
+  ]
+}

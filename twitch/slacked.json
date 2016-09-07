@@ -1,1 +1,39 @@
-{"name":"twitch-sub-slacked","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"slackedGG","image_id":77539},{"match":"slackedSubHype","image_id":76038},{"match":"slackedJerryBerries","image_id":75882},{"match":"slackedLove","image_id":80796},{"match":"slackedRise","image_id":94662},{"match":"slackedSheesh","image_id":100372},{"match":"slackedRekt","image_id":100374},{"match":"slackedRip","image_id":100375}]}
+{
+  "name": "twitch-sub-slacked",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "slackedGG",
+      "image_id": 77539
+    },
+    {
+      "match": "slackedSubHype",
+      "image_id": 76038
+    },
+    {
+      "match": "slackedJerryBerries",
+      "image_id": 75882
+    },
+    {
+      "match": "slackedLove",
+      "image_id": 80796
+    },
+    {
+      "match": "slackedRise",
+      "image_id": 94662
+    },
+    {
+      "match": "slackedSheesh",
+      "image_id": 100372
+    },
+    {
+      "match": "slackedRekt",
+      "image_id": 100374
+    },
+    {
+      "match": "slackedRip",
+      "image_id": 100375
+    }
+  ]
+}

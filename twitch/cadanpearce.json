@@ -1,1 +1,23 @@
-{"name":"twitch-sub-cadanpearce","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cadanMedic","image_id":92957},{"match":"cadanLoyal","image_id":92956},{"match":"cadanReported","image_id":92968},{"match":"cadanW","image_id":93417}]}
+{
+  "name": "twitch-sub-cadanpearce",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cadanMedic",
+      "image_id": 92957
+    },
+    {
+      "match": "cadanLoyal",
+      "image_id": 92956
+    },
+    {
+      "match": "cadanReported",
+      "image_id": 92968
+    },
+    {
+      "match": "cadanW",
+      "image_id": 93417
+    }
+  ]
+}

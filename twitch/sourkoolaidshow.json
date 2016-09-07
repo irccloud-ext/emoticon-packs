@@ -1,1 +1,67 @@
-{"name":"twitch-sub-sourkoolaidshow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"koolV","image_id":53580},{"match":"koolBEWT","image_id":24595},{"match":"koolVETO","image_id":15734},{"match":"koolWALLY","image_id":15957},{"match":"koolSchool","image_id":16372},{"match":"koolKNIGHTS","image_id":16380},{"match":"koolSHANE","image_id":18624},{"match":"koolFISH","image_id":19155},{"match":"koolCRIT","image_id":23882},{"match":"koolFAIL","image_id":25918},{"match":"koolLOVE","image_id":29760},{"match":"koolCLAP","image_id":32645},{"match":"koolCLAN","image_id":32644},{"match":"koolBREATH","image_id":32643},{"match":"koolCREEP","image_id":89810}]}
+{
+  "name": "twitch-sub-sourkoolaidshow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "koolV",
+      "image_id": 53580
+    },
+    {
+      "match": "koolBEWT",
+      "image_id": 24595
+    },
+    {
+      "match": "koolVETO",
+      "image_id": 15734
+    },
+    {
+      "match": "koolWALLY",
+      "image_id": 15957
+    },
+    {
+      "match": "koolSchool",
+      "image_id": 16372
+    },
+    {
+      "match": "koolKNIGHTS",
+      "image_id": 16380
+    },
+    {
+      "match": "koolSHANE",
+      "image_id": 18624
+    },
+    {
+      "match": "koolFISH",
+      "image_id": 19155
+    },
+    {
+      "match": "koolCRIT",
+      "image_id": 23882
+    },
+    {
+      "match": "koolFAIL",
+      "image_id": 25918
+    },
+    {
+      "match": "koolLOVE",
+      "image_id": 29760
+    },
+    {
+      "match": "koolCLAP",
+      "image_id": 32645
+    },
+    {
+      "match": "koolCLAN",
+      "image_id": 32644
+    },
+    {
+      "match": "koolBREATH",
+      "image_id": 32643
+    },
+    {
+      "match": "koolCREEP",
+      "image_id": 89810
+    }
+  ]
+}

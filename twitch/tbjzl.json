@@ -1,1 +1,39 @@
-{"name":"twitch-sub-tbjzl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tobiDKHD","image_id":105206},{"match":"tobiBROC","image_id":20033},{"match":"tobiPALM","image_id":20124},{"match":"tobiSWEG","image_id":20127},{"match":"tobiSUB","image_id":39876},{"match":"tobiCMON","image_id":78593},{"match":"tobiKAPPA","image_id":79279},{"match":"tobiLOVE","image_id":79280}]}
+{
+  "name": "twitch-sub-tbjzl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tobiDKHD",
+      "image_id": 105206
+    },
+    {
+      "match": "tobiBROC",
+      "image_id": 20033
+    },
+    {
+      "match": "tobiPALM",
+      "image_id": 20124
+    },
+    {
+      "match": "tobiSWEG",
+      "image_id": 20127
+    },
+    {
+      "match": "tobiSUB",
+      "image_id": 39876
+    },
+    {
+      "match": "tobiCMON",
+      "image_id": 78593
+    },
+    {
+      "match": "tobiKAPPA",
+      "image_id": 79279
+    },
+    {
+      "match": "tobiLOVE",
+      "image_id": 79280
+    }
+  ]
+}

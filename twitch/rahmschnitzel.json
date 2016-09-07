@@ -1,1 +1,39 @@
-{"name":"twitch-sub-rahmschnitzel","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rahmHerb","image_id":13803},{"match":"rahmKuh","image_id":14312},{"match":"rahmSchnitzel","image_id":17107},{"match":"rahmFuchtel","image_id":19494},{"match":"rahmSuppe","image_id":39233},{"match":"rahmPalm","image_id":39177},{"match":"rahmBah","image_id":76537},{"match":"rahmTee","image_id":69588}]}
+{
+  "name": "twitch-sub-rahmschnitzel",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rahmHerb",
+      "image_id": 13803
+    },
+    {
+      "match": "rahmKuh",
+      "image_id": 14312
+    },
+    {
+      "match": "rahmSchnitzel",
+      "image_id": 17107
+    },
+    {
+      "match": "rahmFuchtel",
+      "image_id": 19494
+    },
+    {
+      "match": "rahmSuppe",
+      "image_id": 39233
+    },
+    {
+      "match": "rahmPalm",
+      "image_id": 39177
+    },
+    {
+      "match": "rahmBah",
+      "image_id": 76537
+    },
+    {
+      "match": "rahmTee",
+      "image_id": 69588
+    }
+  ]
+}

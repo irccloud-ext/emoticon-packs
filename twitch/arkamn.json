@@ -1,1 +1,31 @@
-{"name":"twitch-sub-arkamn","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"arkamnRIP","image_id":49023},{"match":"arkamnDucKerrigan","image_id":38999},{"match":"arkamnFireEx","image_id":39130},{"match":"arkamnFace1","image_id":59886},{"match":"arkamnHeart","image_id":48950},{"match":"arkamnFAQ","image_id":59755}]}
+{
+  "name": "twitch-sub-arkamn",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "arkamnRIP",
+      "image_id": 49023
+    },
+    {
+      "match": "arkamnDucKerrigan",
+      "image_id": 38999
+    },
+    {
+      "match": "arkamnFireEx",
+      "image_id": 39130
+    },
+    {
+      "match": "arkamnFace1",
+      "image_id": 59886
+    },
+    {
+      "match": "arkamnHeart",
+      "image_id": 48950
+    },
+    {
+      "match": "arkamnFAQ",
+      "image_id": 59755
+    }
+  ]
+}

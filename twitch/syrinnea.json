@@ -1,1 +1,47 @@
-{"name":"twitch-sub-syrinnea","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"syriFFS","image_id":71174},{"match":"syriLUL","image_id":105816},{"match":"syriH","image_id":39054},{"match":"syriNO","image_id":39053},{"match":"syriBarf","image_id":39051},{"match":"syriO","image_id":39131},{"match":"syriW","image_id":106000},{"match":"syriM","image_id":41481},{"match":"syriLurk","image_id":68092},{"match":"syriSmug","image_id":97837}]}
+{
+  "name": "twitch-sub-syrinnea",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "syriFFS",
+      "image_id": 71174
+    },
+    {
+      "match": "syriLUL",
+      "image_id": 105816
+    },
+    {
+      "match": "syriH",
+      "image_id": 39054
+    },
+    {
+      "match": "syriNO",
+      "image_id": 39053
+    },
+    {
+      "match": "syriBarf",
+      "image_id": 39051
+    },
+    {
+      "match": "syriO",
+      "image_id": 39131
+    },
+    {
+      "match": "syriW",
+      "image_id": 106000
+    },
+    {
+      "match": "syriM",
+      "image_id": 41481
+    },
+    {
+      "match": "syriLurk",
+      "image_id": 68092
+    },
+    {
+      "match": "syriSmug",
+      "image_id": 97837
+    }
+  ]
+}

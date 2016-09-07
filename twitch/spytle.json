@@ -1,1 +1,31 @@
-{"name":"twitch-sub-spytle","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"spytleRip","image_id":92527},{"match":"spytleRekt","image_id":92530},{"match":"spytleSpytato","image_id":92529},{"match":"spytlePenny","image_id":77889},{"match":"spytleGg","image_id":84740},{"match":"spytleHype","image_id":93140}]}
+{
+  "name": "twitch-sub-spytle",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "spytleRip",
+      "image_id": 92527
+    },
+    {
+      "match": "spytleRekt",
+      "image_id": 92530
+    },
+    {
+      "match": "spytleSpytato",
+      "image_id": 92529
+    },
+    {
+      "match": "spytlePenny",
+      "image_id": 77889
+    },
+    {
+      "match": "spytleGg",
+      "image_id": 84740
+    },
+    {
+      "match": "spytleHype",
+      "image_id": 93140
+    }
+  ]
+}

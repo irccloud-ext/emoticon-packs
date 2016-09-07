@@ -1,1 +1,63 @@
-{"name":"twitch-sub-monkeyonstrike","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mosZ","image_id":92878},{"match":"mosD","image_id":92882},{"match":"mosO","image_id":92883},{"match":"mosM","image_id":62210},{"match":"mosB","image_id":67574},{"match":"mosW","image_id":86302},{"match":"mosA","image_id":92873},{"match":"mosL","image_id":92876},{"match":"mosC","image_id":92875},{"match":"mosH","image_id":92877},{"match":"mosU","image_id":92879},{"match":"mosP","image_id":92880},{"match":"mosX","image_id":92881},{"match":"mosY","image_id":97364}]}
+{
+  "name": "twitch-sub-monkeyonstrike",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mosZ",
+      "image_id": 92878
+    },
+    {
+      "match": "mosD",
+      "image_id": 92882
+    },
+    {
+      "match": "mosO",
+      "image_id": 92883
+    },
+    {
+      "match": "mosM",
+      "image_id": 62210
+    },
+    {
+      "match": "mosB",
+      "image_id": 67574
+    },
+    {
+      "match": "mosW",
+      "image_id": 86302
+    },
+    {
+      "match": "mosA",
+      "image_id": 92873
+    },
+    {
+      "match": "mosL",
+      "image_id": 92876
+    },
+    {
+      "match": "mosC",
+      "image_id": 92875
+    },
+    {
+      "match": "mosH",
+      "image_id": 92877
+    },
+    {
+      "match": "mosU",
+      "image_id": 92879
+    },
+    {
+      "match": "mosP",
+      "image_id": 92880
+    },
+    {
+      "match": "mosX",
+      "image_id": 92881
+    },
+    {
+      "match": "mosY",
+      "image_id": 97364
+    }
+  ]
+}

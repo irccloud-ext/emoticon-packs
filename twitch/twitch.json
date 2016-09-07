@@ -1,1 +1,31 @@
-{"name":"twitch-sub-twitch","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kappaEnvy","image_id":12281},{"match":"kappaBlues","image_id":12282},{"match":"kappaPrince","image_id":12283},{"match":"kappaDisco","image_id":12284},{"match":"kappaWarmth","image_id":12285},{"match":"kappaYella","image_id":12286}]}
+{
+  "name": "twitch-sub-twitch",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kappaEnvy",
+      "image_id": 12281
+    },
+    {
+      "match": "kappaBlues",
+      "image_id": 12282
+    },
+    {
+      "match": "kappaPrince",
+      "image_id": 12283
+    },
+    {
+      "match": "kappaDisco",
+      "image_id": 12284
+    },
+    {
+      "match": "kappaWarmth",
+      "image_id": 12285
+    },
+    {
+      "match": "kappaYella",
+      "image_id": 12286
+    }
+  ]
+}

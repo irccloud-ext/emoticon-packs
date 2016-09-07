@@ -1,1 +1,87 @@
-{"name":"twitch-sub-mmorpgrs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mmorpgBonk","image_id":53037},{"match":"mmorpgKappa","image_id":15739},{"match":"mmorpgJuicy","image_id":15726},{"match":"mmorpgMmm","image_id":15876},{"match":"mmorpgTender","image_id":16026},{"match":"mmorpgImp","image_id":16027},{"match":"mmorpgSlain","image_id":17713},{"match":"mmorpgHello","image_id":17714},{"match":"mmorpgBanter","image_id":33200},{"match":"mmorpgGainz","image_id":33199},{"match":"mmorpgWat","image_id":49914},{"match":"mmorpgB","image_id":102226},{"match":"mmorpgTune","image_id":50068},{"match":"mmorpgGasm","image_id":50066},{"match":"mmorpgFlip","image_id":50065},{"match":"mmorpgThump","image_id":53031},{"match":"mmorpgFail","image_id":53034},{"match":"mmorpgH","image_id":53035},{"match":"mmorpgJ","image_id":102232},{"match":"mmorpgS","image_id":102167}]}
+{
+  "name": "twitch-sub-mmorpgrs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mmorpgBonk",
+      "image_id": 53037
+    },
+    {
+      "match": "mmorpgKappa",
+      "image_id": 15739
+    },
+    {
+      "match": "mmorpgJuicy",
+      "image_id": 15726
+    },
+    {
+      "match": "mmorpgMmm",
+      "image_id": 15876
+    },
+    {
+      "match": "mmorpgTender",
+      "image_id": 16026
+    },
+    {
+      "match": "mmorpgImp",
+      "image_id": 16027
+    },
+    {
+      "match": "mmorpgSlain",
+      "image_id": 17713
+    },
+    {
+      "match": "mmorpgHello",
+      "image_id": 17714
+    },
+    {
+      "match": "mmorpgBanter",
+      "image_id": 33200
+    },
+    {
+      "match": "mmorpgGainz",
+      "image_id": 33199
+    },
+    {
+      "match": "mmorpgWat",
+      "image_id": 49914
+    },
+    {
+      "match": "mmorpgB",
+      "image_id": 102226
+    },
+    {
+      "match": "mmorpgTune",
+      "image_id": 50068
+    },
+    {
+      "match": "mmorpgGasm",
+      "image_id": 50066
+    },
+    {
+      "match": "mmorpgFlip",
+      "image_id": 50065
+    },
+    {
+      "match": "mmorpgThump",
+      "image_id": 53031
+    },
+    {
+      "match": "mmorpgFail",
+      "image_id": 53034
+    },
+    {
+      "match": "mmorpgH",
+      "image_id": 53035
+    },
+    {
+      "match": "mmorpgJ",
+      "image_id": 102232
+    },
+    {
+      "match": "mmorpgS",
+      "image_id": 102167
+    }
+  ]
+}

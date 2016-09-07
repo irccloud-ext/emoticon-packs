@@ -1,1 +1,27 @@
-{"name":"twitch-sub-tyggbar","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aiaW","image_id":38579},{"match":"aiaMom","image_id":41294},{"match":"aiaFail","image_id":48069},{"match":"aiaKiss","image_id":74971},{"match":"aiaL","image_id":56518}]}
+{
+  "name": "twitch-sub-tyggbar",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aiaW",
+      "image_id": 38579
+    },
+    {
+      "match": "aiaMom",
+      "image_id": 41294
+    },
+    {
+      "match": "aiaFail",
+      "image_id": 48069
+    },
+    {
+      "match": "aiaKiss",
+      "image_id": 74971
+    },
+    {
+      "match": "aiaL",
+      "image_id": 56518
+    }
+  ]
+}

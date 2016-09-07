@@ -1,1 +1,39 @@
-{"name":"twitch-sub-conzec89","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"conTard","image_id":11924},{"match":"conCoke","image_id":11926},{"match":"conShave","image_id":15457},{"match":"conMurloc","image_id":16286},{"match":"conHype","image_id":16287},{"match":"conNick","image_id":16288},{"match":"conKappa","image_id":29583},{"match":"conGasm","image_id":29582}]}
+{
+  "name": "twitch-sub-conzec89",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "conTard",
+      "image_id": 11924
+    },
+    {
+      "match": "conCoke",
+      "image_id": 11926
+    },
+    {
+      "match": "conShave",
+      "image_id": 15457
+    },
+    {
+      "match": "conMurloc",
+      "image_id": 16286
+    },
+    {
+      "match": "conHype",
+      "image_id": 16287
+    },
+    {
+      "match": "conNick",
+      "image_id": 16288
+    },
+    {
+      "match": "conKappa",
+      "image_id": 29583
+    },
+    {
+      "match": "conGasm",
+      "image_id": 29582
+    }
+  ]
+}

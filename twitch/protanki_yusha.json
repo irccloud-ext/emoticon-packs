@@ -1,1 +1,23 @@
-{"name":"twitch-sub-protanki_yusha","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"protankiAttack","image_id":36315},{"match":"protankiCrab","image_id":36314},{"match":"protankiTrollface","image_id":36313},{"match":"protankiPapka","image_id":36312}]}
+{
+  "name": "twitch-sub-protanki_yusha",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "protankiAttack",
+      "image_id": 36315
+    },
+    {
+      "match": "protankiCrab",
+      "image_id": 36314
+    },
+    {
+      "match": "protankiTrollface",
+      "image_id": 36313
+    },
+    {
+      "match": "protankiPapka",
+      "image_id": 36312
+    }
+  ]
+}

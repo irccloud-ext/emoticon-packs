@@ -1,1 +1,15 @@
-{"name":"twitch-sub-blackelespanolito","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"crazyFingers","image_id":24472},{"match":"crazyBlack","image_id":24473}]}
+{
+  "name": "twitch-sub-blackelespanolito",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "crazyFingers",
+      "image_id": 24472
+    },
+    {
+      "match": "crazyBlack",
+      "image_id": 24473
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-lhiratv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lhiraGE","image_id":105261},{"match":"lhiraNOOB","image_id":105899},{"match":"lhiraGisele","image_id":108524},{"match":"lhiraGG","image_id":108528}]}
+{
+  "name": "twitch-sub-lhiratv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lhiraGisele",
+      "image_id": 108524
+    },
+    {
+      "match": "lhiraGG",
+      "image_id": 108528
+    }
+  ]
+}

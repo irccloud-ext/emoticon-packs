@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ivan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ivanSkip","image_id":11731},{"match":"ivanPapaDT","image_id":12116},{"match":"ivanSGQF","image_id":12468},{"match":"ivanYuri","image_id":22880}]}
+{
+  "name": "twitch-sub-ivan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ivanSkip",
+      "image_id": 11731
+    },
+    {
+      "match": "ivanPapaDT",
+      "image_id": 12116
+    },
+    {
+      "match": "ivanSGQF",
+      "image_id": 12468
+    },
+    {
+      "match": "ivanYuri",
+      "image_id": 22880
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-dd_warrior_lady","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"woulouKappa","image_id":38869},{"match":"woulouLays","image_id":38868},{"match":"woulouThronos","image_id":40114},{"match":"woulouMpakaliar","image_id":40541}]}
+{
+  "name": "twitch-sub-dd_warrior_lady",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "woulouKappa",
+      "image_id": 38869
+    },
+    {
+      "match": "woulouLays",
+      "image_id": 38868
+    },
+    {
+      "match": "woulouThronos",
+      "image_id": 40114
+    },
+    {
+      "match": "woulouMpakaliar",
+      "image_id": 40541
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-zeethx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zeethSNAPTIME","image_id":104741},{"match":"zeethBAJER","image_id":106557},{"match":"zeethTILT","image_id":102997},{"match":"zeethGG","image_id":102761},{"match":"zeethHYPE","image_id":102764},{"match":"zeethVISES","image_id":104909},{"match":"zeethLETSGOOO","image_id":104910},{"match":"zeethIKFAALUFT","image_id":105102}]}
+{
+  "name": "twitch-sub-zeethx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zeethSNAPTIME",
+      "image_id": 104741
+    },
+    {
+      "match": "zeethBAJER",
+      "image_id": 106557
+    },
+    {
+      "match": "zeethTILT",
+      "image_id": 102997
+    },
+    {
+      "match": "zeethGG",
+      "image_id": 102761
+    },
+    {
+      "match": "zeethHYPE",
+      "image_id": 102764
+    },
+    {
+      "match": "zeethVISES",
+      "image_id": 104909
+    },
+    {
+      "match": "zeethLETSGOOO",
+      "image_id": 104910
+    },
+    {
+      "match": "zeethIKFAALUFT",
+      "image_id": 105102
+    }
+  ]
+}

@@ -1,1 +1,183 @@
-{"name":"twitch-sub-mrchowderclam","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cclamTurkey","image_id":93461},{"match":"cclamMercy2","image_id":103745},{"match":"cclamWhy","image_id":103746},{"match":"cclamMercy1","image_id":103749},{"match":"cclamSoldier","image_id":103753},{"match":"cclamMei3","image_id":104692},{"match":"cclamMei2","image_id":104693},{"match":"cclamMei1","image_id":104694},{"match":"cclamCoon","image_id":93619},{"match":"cclamChamp","image_id":86608},{"match":"cclamHeart","image_id":86609},{"match":"cclamQ2","image_id":88771},{"match":"cclamQ1","image_id":88772},{"match":"cclamUp","image_id":88773},{"match":"cclamLOL","image_id":86935},{"match":"cclamWut","image_id":86938},{"match":"cclamPsy","image_id":87004},{"match":"cclamHi","image_id":87005},{"match":"cclamDerp","image_id":87006},{"match":"cclamOh","image_id":87007},{"match":"cclamGhost","image_id":87008},{"match":"cclamThump","image_id":87009},{"match":"cclamGold","image_id":89424},{"match":"cclamPeach","image_id":89426},{"match":"cclamKiwi","image_id":89425},{"match":"cclamLewd","image_id":94067},{"match":"cclamTen","image_id":94068},{"match":"cclamLink3","image_id":104206},{"match":"cclamLink2","image_id":104207},{"match":"cclamLink1","image_id":104208},{"match":"cclamZarya","image_id":100809},{"match":"cclamGenji","image_id":100810},{"match":"cclamGenji2","image_id":100811},{"match":"cclamGenji3","image_id":100814},{"match":"cclamQ3","image_id":100815},{"match":"cclamRIP","image_id":100817},{"match":"cclamQ4","image_id":100816},{"match":"cclamDva","image_id":100819},{"match":"cclamPOTG","image_id":100820}]}
+{
+  "name": "twitch-sub-mrchowderclam",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cclamTurkey",
+      "image_id": 93461
+    },
+    {
+      "match": "cclamMercy2",
+      "image_id": 103745
+    },
+    {
+      "match": "cclamWhy",
+      "image_id": 103746
+    },
+    {
+      "match": "cclamMercy1",
+      "image_id": 103749
+    },
+    {
+      "match": "cclamSoldier",
+      "image_id": 103753
+    },
+    {
+      "match": "cclamMei3",
+      "image_id": 104692
+    },
+    {
+      "match": "cclamMei2",
+      "image_id": 104693
+    },
+    {
+      "match": "cclamMei1",
+      "image_id": 104694
+    },
+    {
+      "match": "cclamCoon",
+      "image_id": 93619
+    },
+    {
+      "match": "cclamChamp",
+      "image_id": 86608
+    },
+    {
+      "match": "cclamHeart",
+      "image_id": 86609
+    },
+    {
+      "match": "cclamQ2",
+      "image_id": 88771
+    },
+    {
+      "match": "cclamQ1",
+      "image_id": 88772
+    },
+    {
+      "match": "cclamUp",
+      "image_id": 88773
+    },
+    {
+      "match": "cclamLOL",
+      "image_id": 86935
+    },
+    {
+      "match": "cclamWut",
+      "image_id": 86938
+    },
+    {
+      "match": "cclamHi",
+      "image_id": 87005
+    },
+    {
+      "match": "cclamDerp",
+      "image_id": 87006
+    },
+    {
+      "match": "cclamOh",
+      "image_id": 87007
+    },
+    {
+      "match": "cclamGhost",
+      "image_id": 87008
+    },
+    {
+      "match": "cclamThump",
+      "image_id": 87009
+    },
+    {
+      "match": "cclamGold",
+      "image_id": 89424
+    },
+    {
+      "match": "cclamPeach",
+      "image_id": 89426
+    },
+    {
+      "match": "cclamKiwi",
+      "image_id": 89425
+    },
+    {
+      "match": "cclamLewd",
+      "image_id": 94067
+    },
+    {
+      "match": "cclamTen",
+      "image_id": 94068
+    },
+    {
+      "match": "cclamLink3",
+      "image_id": 104206
+    },
+    {
+      "match": "cclamLink2",
+      "image_id": 104207
+    },
+    {
+      "match": "cclamLink1",
+      "image_id": 104208
+    },
+    {
+      "match": "cclamZarya",
+      "image_id": 100809
+    },
+    {
+      "match": "cclamGenji",
+      "image_id": 100810
+    },
+    {
+      "match": "cclamGenji2",
+      "image_id": 100811
+    },
+    {
+      "match": "cclamGenji3",
+      "image_id": 100814
+    },
+    {
+      "match": "cclamQ3",
+      "image_id": 100815
+    },
+    {
+      "match": "cclamRIP",
+      "image_id": 100817
+    },
+    {
+      "match": "cclamQ4",
+      "image_id": 100816
+    },
+    {
+      "match": "cclamDva",
+      "image_id": 100819
+    },
+    {
+      "match": "cclamPOTG",
+      "image_id": 100820
+    },
+    {
+      "match": "cclamBork",
+      "image_id": 112320
+    },
+    {
+      "match": "cclamFail",
+      "image_id": 112321
+    },
+    {
+      "match": "cclamFeels",
+      "image_id": 112322
+    },
+    {
+      "match": "cclamNeko",
+      "image_id": 112323
+    },
+    {
+      "match": "cclamScared",
+      "image_id": 112324
+    },
+    {
+      "match": "cclamHeh",
+      "image_id": 112325
+    }
+  ]
+}

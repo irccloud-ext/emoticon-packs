@@ -1,1 +1,47 @@
-{"name":"twitch-sub-talbadar","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"talbWheresbyron","image_id":8619},{"match":"talbSloth","image_id":8946},{"match":"talbSad","image_id":10179},{"match":"talbHappy","image_id":10863},{"match":"talbLewd","image_id":11306},{"match":"talbMLG","image_id":70079},{"match":"talbTroll","image_id":21261},{"match":"talbGasp","image_id":84701},{"match":"talbHype","image_id":69660},{"match":"talbC","image_id":84700}]}
+{
+  "name": "twitch-sub-talbadar",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "talbWheresbyron",
+      "image_id": 8619
+    },
+    {
+      "match": "talbSloth",
+      "image_id": 8946
+    },
+    {
+      "match": "talbSad",
+      "image_id": 10179
+    },
+    {
+      "match": "talbHappy",
+      "image_id": 10863
+    },
+    {
+      "match": "talbLewd",
+      "image_id": 11306
+    },
+    {
+      "match": "talbMLG",
+      "image_id": 70079
+    },
+    {
+      "match": "talbTroll",
+      "image_id": 21261
+    },
+    {
+      "match": "talbGasp",
+      "image_id": 84701
+    },
+    {
+      "match": "talbHype",
+      "image_id": 69660
+    },
+    {
+      "match": "talbC",
+      "image_id": 84700
+    }
+  ]
+}

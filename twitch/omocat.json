@@ -1,1 +1,23 @@
-{"name":"twitch-sub-omocat","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"omocatGasp","image_id":85459},{"match":"omocatCry","image_id":85737},{"match":"omocatWhat","image_id":87511},{"match":"omocatPretty","image_id":87512}]}
+{
+  "name": "twitch-sub-omocat",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "omocatGasp",
+      "image_id": 85459
+    },
+    {
+      "match": "omocatCry",
+      "image_id": 85737
+    },
+    {
+      "match": "omocatWhat",
+      "image_id": 87511
+    },
+    {
+      "match": "omocatPretty",
+      "image_id": 87512
+    }
+  ]
+}

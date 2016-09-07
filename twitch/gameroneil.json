@@ -1,1 +1,35 @@
-{"name":"twitch-sub-gameroneil","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gameroneilWR","image_id":24759},{"match":"gameroneilMax","image_id":22243},{"match":"gameroneilJappa","image_id":24758},{"match":"gameroneilHakr","image_id":27911},{"match":"gameroneilSweet","image_id":27910},{"match":"gameroneilHype","image_id":27975},{"match":"gameroneilSTM","image_id":52498}]}
+{
+  "name": "twitch-sub-gameroneil",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gameroneilWR",
+      "image_id": 24759
+    },
+    {
+      "match": "gameroneilMax",
+      "image_id": 22243
+    },
+    {
+      "match": "gameroneilJappa",
+      "image_id": 24758
+    },
+    {
+      "match": "gameroneilHakr",
+      "image_id": 27911
+    },
+    {
+      "match": "gameroneilSweet",
+      "image_id": 27910
+    },
+    {
+      "match": "gameroneilHype",
+      "image_id": 27975
+    },
+    {
+      "match": "gameroneilSTM",
+      "image_id": 52498
+    }
+  ]
+}

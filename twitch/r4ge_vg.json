@@ -1,1 +1,23 @@
-{"name":"twitch-sub-r4ge_vg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ragesaltHypoo","image_id":103663},{"match":"ragesaltPalm","image_id":99967},{"match":"ragesaltHTime","image_id":104115},{"match":"ragesaltSalty","image_id":104253}]}
+{
+  "name": "twitch-sub-r4ge_vg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ragesaltHypoo",
+      "image_id": 103663
+    },
+    {
+      "match": "ragesaltPalm",
+      "image_id": 99967
+    },
+    {
+      "match": "ragesaltHTime",
+      "image_id": 104115
+    },
+    {
+      "match": "ragesaltSalty",
+      "image_id": 104253
+    }
+  ]
+}

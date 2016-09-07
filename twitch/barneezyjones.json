@@ -1,1 +1,39 @@
-{"name":"twitch-sub-barneezyjones","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hippoH","image_id":70640},{"match":"hippoHi","image_id":61847},{"match":"hippoRage","image_id":61695},{"match":"hippoSad","image_id":61845},{"match":"hippoHype","image_id":62518},{"match":"hippoAnime","image_id":91415},{"match":"hippoLurk","image_id":100970},{"match":"hippoSleep","image_id":101006}]}
+{
+  "name": "twitch-sub-barneezyjones",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hippoH",
+      "image_id": 70640
+    },
+    {
+      "match": "hippoHi",
+      "image_id": 61847
+    },
+    {
+      "match": "hippoRage",
+      "image_id": 61695
+    },
+    {
+      "match": "hippoSad",
+      "image_id": 61845
+    },
+    {
+      "match": "hippoHype",
+      "image_id": 62518
+    },
+    {
+      "match": "hippoAnime",
+      "image_id": 91415
+    },
+    {
+      "match": "hippoLurk",
+      "image_id": 100970
+    },
+    {
+      "match": "hippoSleep",
+      "image_id": 101006
+    }
+  ]
+}

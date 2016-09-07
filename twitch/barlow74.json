@@ -1,1 +1,35 @@
-{"name":"twitch-sub-barlow74","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"barlowPepe","image_id":34992},{"match":"barlowMett","image_id":34991},{"match":"barlowLegendary","image_id":35047},{"match":"barlowPhteven","image_id":35045},{"match":"barlowDach","image_id":35043},{"match":"barlowBienchen","image_id":35104},{"match":"barlowJockl","image_id":35103}]}
+{
+  "name": "twitch-sub-barlow74",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "barlowPepe",
+      "image_id": 34992
+    },
+    {
+      "match": "barlowMett",
+      "image_id": 34991
+    },
+    {
+      "match": "barlowLegendary",
+      "image_id": 35047
+    },
+    {
+      "match": "barlowPhteven",
+      "image_id": 35045
+    },
+    {
+      "match": "barlowDach",
+      "image_id": 35043
+    },
+    {
+      "match": "barlowBienchen",
+      "image_id": 35104
+    },
+    {
+      "match": "barlowJockl",
+      "image_id": 35103
+    }
+  ]
+}

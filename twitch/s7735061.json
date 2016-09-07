@@ -1,1 +1,15 @@
-{"name":"twitch-sub-s7735061","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"doggy87Wow","image_id":81498},{"match":"doggy876","image_id":81499}]}
+{
+  "name": "twitch-sub-s7735061",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "doggy87Wow",
+      "image_id": 81498
+    },
+    {
+      "match": "doggy876",
+      "image_id": 81499
+    }
+  ]
+}

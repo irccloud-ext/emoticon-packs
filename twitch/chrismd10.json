@@ -1,1 +1,35 @@
-{"name":"twitch-sub-chrismd10","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cmdSanti","image_id":51830},{"match":"cmdMessi","image_id":25895},{"match":"cmd10","image_id":46979},{"match":"cmdAboutToGetMessi","image_id":47066},{"match":"cmdOhWellDone","image_id":51947},{"match":"cmdTOTS","image_id":51079},{"match":"cmdTOTY","image_id":80419}]}
+{
+  "name": "twitch-sub-chrismd10",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cmdSanti",
+      "image_id": 51830
+    },
+    {
+      "match": "cmdMessi",
+      "image_id": 25895
+    },
+    {
+      "match": "cmd10",
+      "image_id": 46979
+    },
+    {
+      "match": "cmdAboutToGetMessi",
+      "image_id": 47066
+    },
+    {
+      "match": "cmdOhWellDone",
+      "image_id": 51947
+    },
+    {
+      "match": "cmdTOTS",
+      "image_id": 51079
+    },
+    {
+      "match": "cmdTOTY",
+      "image_id": 80419
+    }
+  ]
+}

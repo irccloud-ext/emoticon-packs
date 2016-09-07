@@ -1,1 +1,23 @@
-{"name":"twitch-sub-sakgamingtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sakCouch","image_id":98061},{"match":"sakCreamie","image_id":98060},{"match":"sakLinkGod","image_id":85752},{"match":"sakAZ","image_id":85753}]}
+{
+  "name": "twitch-sub-sakgamingtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sakCreamie",
+      "image_id": 98060
+    },
+    {
+      "match": "sakLinkGod",
+      "image_id": 85752
+    },
+    {
+      "match": "sakAZ",
+      "image_id": 85753
+    },
+    {
+      "match": "sakScorch",
+      "image_id": 111786
+    }
+  ]
+}

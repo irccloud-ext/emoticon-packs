@@ -1,1 +1,15 @@
-{"name":"twitch-sub-rendogtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"renslapBeverage","image_id":106537},{"match":"renslapFacepalm","image_id":106536}]}
+{
+  "name": "twitch-sub-rendogtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rdtvBeverage",
+      "image_id": 106537
+    },
+    {
+      "match": "rdtvFacepalm",
+      "image_id": 106536
+    }
+  ]
+}

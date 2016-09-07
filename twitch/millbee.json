@@ -1,1 +1,39 @@
-{"name":"twitch-sub-millbee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"millWHOA","image_id":9072},{"match":"millJAZZ","image_id":6639},{"match":"millWIN","image_id":8860},{"match":"millRAGE","image_id":68504},{"match":"millCRY","image_id":68503},{"match":"millWAII","image_id":69823},{"match":"millWTF","image_id":70020},{"match":"millLOVE","image_id":70019}]}
+{
+  "name": "twitch-sub-millbee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "millWHOA",
+      "image_id": 9072
+    },
+    {
+      "match": "millJAZZ",
+      "image_id": 6639
+    },
+    {
+      "match": "millWIN",
+      "image_id": 8860
+    },
+    {
+      "match": "millRAGE",
+      "image_id": 68504
+    },
+    {
+      "match": "millCRY",
+      "image_id": 68503
+    },
+    {
+      "match": "millWAII",
+      "image_id": 69823
+    },
+    {
+      "match": "millWTF",
+      "image_id": 70020
+    },
+    {
+      "match": "millLOVE",
+      "image_id": 70019
+    }
+  ]
+}

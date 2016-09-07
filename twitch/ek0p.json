@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ek0p","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dogeMax","image_id":3384},{"match":"dogeBombay","image_id":3588},{"match":"dogeDr","image_id":3905},{"match":"dogeDerp","image_id":7992},{"match":"dogeW","image_id":36263},{"match":"dogeB","image_id":36325}]}
+{
+  "name": "twitch-sub-ek0p",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dogeMax",
+      "image_id": 3384
+    },
+    {
+      "match": "dogeBombay",
+      "image_id": 3588
+    },
+    {
+      "match": "dogeDr",
+      "image_id": 3905
+    },
+    {
+      "match": "dogeDerp",
+      "image_id": 7992
+    },
+    {
+      "match": "dogeW",
+      "image_id": 36263
+    },
+    {
+      "match": "dogeB",
+      "image_id": 36325
+    }
+  ]
+}

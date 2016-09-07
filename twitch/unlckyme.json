@@ -1,1 +1,31 @@
-{"name":"twitch-sub-unlckyme","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"unlckyGucci","image_id":108848},{"match":"unlckyApe","image_id":102068},{"match":"unlckySad","image_id":101979},{"match":"unlckyG","image_id":101978},{"match":"unlckyFace","image_id":100306}]}
+{
+  "name": "twitch-sub-unlckyme",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "unlckyGucci",
+      "image_id": 108848
+    },
+    {
+      "match": "unlckyApe",
+      "image_id": 102068
+    },
+    {
+      "match": "unlckySad",
+      "image_id": 101979
+    },
+    {
+      "match": "unlckyG",
+      "image_id": 101978
+    },
+    {
+      "match": "unlckyFace",
+      "image_id": 100306
+    },
+    {
+      "match": "unlckySellout",
+      "image_id": 112023
+    }
+  ]
+}

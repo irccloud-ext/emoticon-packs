@@ -1,1 +1,39 @@
-{"name":"twitch-sub-v3n0mtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"venomtvFACE","image_id":3075},{"match":"venomtvRAGE","image_id":3712},{"match":"venomtvBIZEPS","image_id":3722},{"match":"venomtvBRETT","image_id":3844},{"match":"venomtvFAIL","image_id":3853},{"match":"venomtvYOLO","image_id":6799},{"match":"venomtvSLIVO","image_id":7068},{"match":"venomtvGAME","image_id":9320}]}
+{
+  "name": "twitch-sub-v3n0mtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "venomtvFACE",
+      "image_id": 3075
+    },
+    {
+      "match": "venomtvRAGE",
+      "image_id": 3712
+    },
+    {
+      "match": "venomtvBIZEPS",
+      "image_id": 3722
+    },
+    {
+      "match": "venomtvBRETT",
+      "image_id": 3844
+    },
+    {
+      "match": "venomtvFAIL",
+      "image_id": 3853
+    },
+    {
+      "match": "venomtvYOLO",
+      "image_id": 6799
+    },
+    {
+      "match": "venomtvSLIVO",
+      "image_id": 7068
+    },
+    {
+      "match": "venomtvGAME",
+      "image_id": 9320
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-george_danzer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"punkdFlow","image_id":95916},{"match":"punkdYA","image_id":79389},{"match":"punkdRage","image_id":100219},{"match":"punkdBrick","image_id":100220}]}
+{
+  "name": "twitch-sub-george_danzer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "punkdFlow",
+      "image_id": 95916
+    },
+    {
+      "match": "punkdYA",
+      "image_id": 79389
+    },
+    {
+      "match": "punkdRage",
+      "image_id": 100219
+    },
+    {
+      "match": "punkdBrick",
+      "image_id": 100220
+    }
+  ]
+}

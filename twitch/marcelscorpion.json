@@ -1,1 +1,35 @@
-{"name":"twitch-sub-marcelscorpion","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"scorpionHype","image_id":63157},{"match":"scorpionOha","image_id":63158},{"match":"scorpionTryhard","image_id":63271},{"match":"scorpionRage","image_id":63159},{"match":"scorpionSchock","image_id":63160},{"match":"scorpionSchwitz","image_id":63161},{"match":"scorpionWhoop","image_id":63270}]}
+{
+  "name": "twitch-sub-marcelscorpion",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "scorpionHype",
+      "image_id": 63157
+    },
+    {
+      "match": "scorpionOha",
+      "image_id": 63158
+    },
+    {
+      "match": "scorpionTryhard",
+      "image_id": 63271
+    },
+    {
+      "match": "scorpionRage",
+      "image_id": 63159
+    },
+    {
+      "match": "scorpionSchock",
+      "image_id": 63160
+    },
+    {
+      "match": "scorpionSchwitz",
+      "image_id": 63161
+    },
+    {
+      "match": "scorpionWhoop",
+      "image_id": 63270
+    }
+  ]
+}

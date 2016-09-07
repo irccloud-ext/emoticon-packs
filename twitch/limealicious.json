@@ -1,1 +1,47 @@
-{"name":"twitch-sub-limealicious","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"limesThump","image_id":27236},{"match":"limesSplash","image_id":25860},{"match":"limesButt","image_id":28045},{"match":"limesKappa","image_id":28608},{"match":"limesPew","image_id":41477},{"match":"limesFert","image_id":53792},{"match":"limesChamp","image_id":54071},{"match":"limesLewd","image_id":64442},{"match":"limesLove","image_id":92620},{"match":"limesNom","image_id":92621}]}
+{
+  "name": "twitch-sub-limealicious",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "limesThump",
+      "image_id": 27236
+    },
+    {
+      "match": "limesSplash",
+      "image_id": 25860
+    },
+    {
+      "match": "limesButt",
+      "image_id": 28045
+    },
+    {
+      "match": "limesKappa",
+      "image_id": 28608
+    },
+    {
+      "match": "limesPew",
+      "image_id": 41477
+    },
+    {
+      "match": "limesFert",
+      "image_id": 53792
+    },
+    {
+      "match": "limesChamp",
+      "image_id": 54071
+    },
+    {
+      "match": "limesLewd",
+      "image_id": 64442
+    },
+    {
+      "match": "limesLove",
+      "image_id": 92620
+    },
+    {
+      "match": "limesNom",
+      "image_id": 92621
+    }
+  ]
+}

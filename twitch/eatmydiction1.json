@@ -1,1 +1,87 @@
-{"name":"twitch-sub-eatmydiction1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dicMarla","image_id":4676},{"match":"dicCat3","image_id":81423},{"match":"dicSwag","image_id":13398},{"match":"dicCat2","image_id":81422},{"match":"dicWave","image_id":81419},{"match":"dicCat1","image_id":81420},{"match":"dicCheers","image_id":81418},{"match":"dicHug","image_id":36147},{"match":"dicKappa","image_id":60785},{"match":"dicLove","image_id":108943},{"match":"dicFail","image_id":60789},{"match":"dicPuke","image_id":60791},{"match":"dicDrunk","image_id":60793},{"match":"dicRaid","image_id":94867},{"match":"dicDik","image_id":81415},{"match":"dicYas","image_id":94866},{"match":"dicVape","image_id":95082},{"match":"dicVandyke","image_id":100994},{"match":"dicNield","image_id":101921},{"match":"dicGasm","image_id":102411}]}
+{
+  "name": "twitch-sub-eatmydiction1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dicMarla",
+      "image_id": 4676
+    },
+    {
+      "match": "dicCat3",
+      "image_id": 81423
+    },
+    {
+      "match": "dicSwag",
+      "image_id": 13398
+    },
+    {
+      "match": "dicCat2",
+      "image_id": 81422
+    },
+    {
+      "match": "dicWave",
+      "image_id": 81419
+    },
+    {
+      "match": "dicCat1",
+      "image_id": 81420
+    },
+    {
+      "match": "dicCheers",
+      "image_id": 81418
+    },
+    {
+      "match": "dicHug",
+      "image_id": 36147
+    },
+    {
+      "match": "dicKappa",
+      "image_id": 60785
+    },
+    {
+      "match": "dicLove",
+      "image_id": 108943
+    },
+    {
+      "match": "dicFail",
+      "image_id": 60789
+    },
+    {
+      "match": "dicPuke",
+      "image_id": 60791
+    },
+    {
+      "match": "dicDrunk",
+      "image_id": 60793
+    },
+    {
+      "match": "dicRaid",
+      "image_id": 94867
+    },
+    {
+      "match": "dicDik",
+      "image_id": 81415
+    },
+    {
+      "match": "dicYas",
+      "image_id": 94866
+    },
+    {
+      "match": "dicVape",
+      "image_id": 95082
+    },
+    {
+      "match": "dicVandyke",
+      "image_id": 100994
+    },
+    {
+      "match": "dicNield",
+      "image_id": 101921
+    },
+    {
+      "match": "dicGasm",
+      "image_id": 102411
+    }
+  ]
+}

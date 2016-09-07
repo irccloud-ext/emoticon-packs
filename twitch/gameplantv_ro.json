@@ -1,1 +1,31 @@
-{"name":"twitch-sub-gameplantv_ro","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bebeGp","image_id":40829},{"match":"bebeRage","image_id":41377},{"match":"bebeMe","image_id":58326},{"match":"bebePigy","image_id":56224},{"match":"bebeAna","image_id":58330},{"match":"bebeJuju","image_id":56234}]}
+{
+  "name": "twitch-sub-gameplantv_ro",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bebeGp",
+      "image_id": 40829
+    },
+    {
+      "match": "bebeRage",
+      "image_id": 41377
+    },
+    {
+      "match": "bebeMe",
+      "image_id": 58326
+    },
+    {
+      "match": "bebePigy",
+      "image_id": 56224
+    },
+    {
+      "match": "bebeAna",
+      "image_id": 58330
+    },
+    {
+      "match": "bebeJuju",
+      "image_id": 56234
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-o0ac0o","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"oacoGASM","image_id":103961},{"match":"oacoLUL","image_id":100637},{"match":"oacoWEEB","image_id":103605},{"match":"oacoM","image_id":103606}]}
+{
+  "name": "twitch-sub-o0ac0o",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "oacoGASM",
+      "image_id": 103961
+    },
+    {
+      "match": "oacoLUL",
+      "image_id": 100637
+    },
+    {
+      "match": "oacoWEEB",
+      "image_id": 103605
+    },
+    {
+      "match": "oacoM",
+      "image_id": 103606
+    }
+  ]
+}

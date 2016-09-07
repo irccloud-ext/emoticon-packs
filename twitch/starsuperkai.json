@@ -1,1 +1,39 @@
-{"name":"twitch-sub-starsuperkai","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sskRocker","image_id":109832},{"match":"sskFlex","image_id":109831},{"match":"sskSuper","image_id":107331},{"match":"sskRip","image_id":107330},{"match":"sskHype","image_id":107328},{"match":"sskLove","image_id":107327},{"match":"sskCry","image_id":110192},{"match":"sskLol","image_id":110191}]}
+{
+  "name": "twitch-sub-starsuperkai",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sskRocker",
+      "image_id": 109832
+    },
+    {
+      "match": "sskFlex",
+      "image_id": 109831
+    },
+    {
+      "match": "sskSuper",
+      "image_id": 107331
+    },
+    {
+      "match": "sskRip",
+      "image_id": 107330
+    },
+    {
+      "match": "sskHype",
+      "image_id": 107328
+    },
+    {
+      "match": "sskLove",
+      "image_id": 107327
+    },
+    {
+      "match": "sskCry",
+      "image_id": 110192
+    },
+    {
+      "match": "sskLol",
+      "image_id": 110191
+    }
+  ]
+}

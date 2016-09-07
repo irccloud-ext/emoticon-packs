@@ -1,1 +1,23 @@
-{"name":"twitch-sub-gejmr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gejmrBOSS","image_id":32920},{"match":"gejmrPITICKO","image_id":45471},{"match":"gejmr11","image_id":47670},{"match":"gejmrKrappa","image_id":59279}]}
+{
+  "name": "twitch-sub-gejmr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gejmrBOSS",
+      "image_id": 32920
+    },
+    {
+      "match": "gejmrPITICKO",
+      "image_id": 45471
+    },
+    {
+      "match": "gejmr11",
+      "image_id": 47670
+    },
+    {
+      "match": "gejmrKrappa",
+      "image_id": 59279
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-douplex","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"doupNut","image_id":95955},{"match":"doupLove","image_id":97918},{"match":"doupHey","image_id":96213},{"match":"doupHype","image_id":96482},{"match":"doupRoss","image_id":100417},{"match":"doupDangit","image_id":107168}]}
+{
+  "name": "twitch-sub-douplex",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "doupNut",
+      "image_id": 95955
+    },
+    {
+      "match": "doupLove",
+      "image_id": 97918
+    },
+    {
+      "match": "doupHey",
+      "image_id": 96213
+    },
+    {
+      "match": "doupHype",
+      "image_id": 96482
+    },
+    {
+      "match": "doupRoss",
+      "image_id": 100417
+    },
+    {
+      "match": "doupDangit",
+      "image_id": 107168
+    }
+  ]
+}

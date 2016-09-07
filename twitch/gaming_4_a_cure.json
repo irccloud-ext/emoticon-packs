@@ -1,1 +1,15 @@
-{"name":"twitch-sub-gaming_4_a_cure","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"loegYespls","image_id":27327},{"match":"loegBelieve","image_id":86835}]}
+{
+  "name": "twitch-sub-gaming_4_a_cure",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "loegYespls",
+      "image_id": 27327
+    },
+    {
+      "match": "loegBelieve",
+      "image_id": 86835
+    }
+  ]
+}

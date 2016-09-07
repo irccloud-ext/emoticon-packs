@@ -1,1 +1,35 @@
-{"name":"twitch-sub-ancientpriest","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ancientSleep","image_id":83896},{"match":"ancientPlease","image_id":83897},{"match":"ancientAngry","image_id":83899},{"match":"ancientLove","image_id":84070},{"match":"ancientPriest","image_id":63201},{"match":"ancientCreep","image_id":67044},{"match":"ancientLewd","image_id":84358}]}
+{
+  "name": "twitch-sub-ancientpriest",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ancientSleep",
+      "image_id": 83896
+    },
+    {
+      "match": "ancientPlease",
+      "image_id": 83897
+    },
+    {
+      "match": "ancientAngry",
+      "image_id": 83899
+    },
+    {
+      "match": "ancientLove",
+      "image_id": 84070
+    },
+    {
+      "match": "ancientPriest",
+      "image_id": 63201
+    },
+    {
+      "match": "ancientCreep",
+      "image_id": 67044
+    },
+    {
+      "match": "ancientLewd",
+      "image_id": 84358
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-jeffhoogland","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hooglBolt","image_id":66586},{"match":"hooglSkill","image_id":88993},{"match":"hooglFlood","image_id":66685},{"match":"hooglJake","image_id":91164},{"match":"hooglDeclan","image_id":91260},{"match":"hooglCartoon","image_id":102949},{"match":"hooglPoop","image_id":96708},{"match":"hooglDingler","image_id":106442}]}
+{
+  "name": "twitch-sub-jeffhoogland",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hooglBolt",
+      "image_id": 66586
+    },
+    {
+      "match": "hooglSkill",
+      "image_id": 88993
+    },
+    {
+      "match": "hooglFlood",
+      "image_id": 66685
+    },
+    {
+      "match": "hooglJake",
+      "image_id": 91164
+    },
+    {
+      "match": "hooglDeclan",
+      "image_id": 91260
+    },
+    {
+      "match": "hooglCartoon",
+      "image_id": 102949
+    },
+    {
+      "match": "hooglPoop",
+      "image_id": 96708
+    },
+    {
+      "match": "hooglDingler",
+      "image_id": 106442
+    }
+  ]
+}

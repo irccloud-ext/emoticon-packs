@@ -1,1 +1,39 @@
-{"name":"twitch-sub-warths","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wartSwag","image_id":75594},{"match":"wartHey","image_id":74936},{"match":"wartLove","image_id":74937},{"match":"wartRage","image_id":74939},{"match":"wartPeach","image_id":74940},{"match":"wartCry","image_id":76380},{"match":"wartMoney","image_id":86258},{"match":"wartWTF","image_id":86257}]}
+{
+  "name": "twitch-sub-warths",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wartSwag",
+      "image_id": 75594
+    },
+    {
+      "match": "wartHey",
+      "image_id": 74936
+    },
+    {
+      "match": "wartLove",
+      "image_id": 74937
+    },
+    {
+      "match": "wartRage",
+      "image_id": 74939
+    },
+    {
+      "match": "wartPeach",
+      "image_id": 74940
+    },
+    {
+      "match": "wartCry",
+      "image_id": 76380
+    },
+    {
+      "match": "wartMoney",
+      "image_id": 86258
+    },
+    {
+      "match": "wartWTF",
+      "image_id": 86257
+    }
+  ]
+}

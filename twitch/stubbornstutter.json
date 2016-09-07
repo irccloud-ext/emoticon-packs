@@ -1,1 +1,31 @@
-{"name":"twitch-sub-stubbornstutter","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"stubYeah","image_id":102207},{"match":"stubLove","image_id":104973},{"match":"stubHype","image_id":98331},{"match":"stubLuya","image_id":98314},{"match":"stubRage","image_id":102779},{"match":"stubHi","image_id":99395}]}
+{
+  "name": "twitch-sub-stubbornstutter",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "stubYeah",
+      "image_id": 102207
+    },
+    {
+      "match": "stubLove",
+      "image_id": 104973
+    },
+    {
+      "match": "stubHype",
+      "image_id": 98331
+    },
+    {
+      "match": "stubLuya",
+      "image_id": 98314
+    },
+    {
+      "match": "stubRage",
+      "image_id": 102779
+    },
+    {
+      "match": "stubHi",
+      "image_id": 99395
+    }
+  ]
+}

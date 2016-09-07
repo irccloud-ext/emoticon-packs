@@ -1,1 +1,47 @@
-{"name":"twitch-sub-shadypenguinn","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shadypSubHype","image_id":26221},{"match":"shadypLove","image_id":26257},{"match":"shadypTips","image_id":26259},{"match":"shadypTears","image_id":26256},{"match":"shadypShady","image_id":26258},{"match":"shadypCrit","image_id":26220},{"match":"shadypSkrelp","image_id":26273},{"match":"shadypDrama","image_id":39094},{"match":"shadypLanta","image_id":46836},{"match":"shadypBars","image_id":46528}]}
+{
+  "name": "twitch-sub-shadypenguinn",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shadypSkrelp",
+      "image_id": 26273
+    },
+    {
+      "match": "shadypDrama",
+      "image_id": 39094
+    },
+    {
+      "match": "shadypBaby",
+      "image_id": 112438
+    },
+    {
+      "match": "shadypChair",
+      "image_id": 112439
+    },
+    {
+      "match": "shadypParty",
+      "image_id": 112440
+    },
+    {
+      "match": "shadypCrit",
+      "image_id": 112441
+    },
+    {
+      "match": "shadypRaid",
+      "image_id": 112442
+    },
+    {
+      "match": "shadypCheeksup",
+      "image_id": 112443
+    },
+    {
+      "match": "shadypSweat",
+      "image_id": 112444
+    },
+    {
+      "match": "shadypTalent",
+      "image_id": 112445
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-theamazingyazoo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yazWON","image_id":88925},{"match":"yazLEG","image_id":94009}]}
+{
+  "name": "twitch-sub-theamazingyazoo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yazWON",
+      "image_id": 88925
+    },
+    {
+      "match": "yazLEG",
+      "image_id": 94009
+    }
+  ]
+}

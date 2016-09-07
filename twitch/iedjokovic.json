@@ -1,1 +1,15 @@
-{"name":"twitch-sub-iedjokovic","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mistoFace","image_id":23312},{"match":"mistoMisto","image_id":23313}]}
+{
+  "name": "twitch-sub-iedjokovic",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mistoFace",
+      "image_id": 23312
+    },
+    {
+      "match": "mistoMisto",
+      "image_id": 23313
+    }
+  ]
+}

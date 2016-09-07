@@ -1,1 +1,15 @@
-{"name":"twitch-sub-xfizzer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fizBleach","image_id":107797},{"match":"fizRoach","image_id":107798}]}
+{
+  "name": "twitch-sub-xfizzer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fizBleach",
+      "image_id": 107797
+    },
+    {
+      "match": "fizRoach",
+      "image_id": 107798
+    }
+  ]
+}

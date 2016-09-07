@@ -1,1 +1,47 @@
-{"name":"twitch-sub-teddy_recks","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"teddyRIP","image_id":105269},{"match":"teddyKobe","image_id":105268},{"match":"teddySnapper","image_id":105554},{"match":"teddyCash","image_id":105119},{"match":"teddySUBHYPE","image_id":105120},{"match":"teddyGG","image_id":105044},{"match":"teddyVC","image_id":105555},{"match":"teddyLetsGo","image_id":106977},{"match":"teddyBears","image_id":105553},{"match":"teddyGold","image_id":106978}]}
+{
+  "name": "twitch-sub-teddy_recks",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "teddyRIP",
+      "image_id": 105269
+    },
+    {
+      "match": "teddyKobe",
+      "image_id": 105268
+    },
+    {
+      "match": "teddySnapper",
+      "image_id": 105554
+    },
+    {
+      "match": "teddyCash",
+      "image_id": 105119
+    },
+    {
+      "match": "teddySUBHYPE",
+      "image_id": 105120
+    },
+    {
+      "match": "teddyGG",
+      "image_id": 105044
+    },
+    {
+      "match": "teddyVC",
+      "image_id": 105555
+    },
+    {
+      "match": "teddyLetsGo",
+      "image_id": 106977
+    },
+    {
+      "match": "teddyBears",
+      "image_id": 105553
+    },
+    {
+      "match": "teddyGold",
+      "image_id": 106978
+    }
+  ]
+}

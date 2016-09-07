@@ -1,1 +1,31 @@
-{"name":"twitch-sub-luxuryxtreem","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nalita1","image_id":13754},{"match":"nalitaMax","image_id":13755},{"match":"nalitaSub","image_id":33600},{"match":"nalitaKeepo","image_id":33601},{"match":"nalitaSalsa","image_id":35011},{"match":"nalitaBiceps","image_id":35010}]}
+{
+  "name": "twitch-sub-luxuryxtreem",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nalita1",
+      "image_id": 13754
+    },
+    {
+      "match": "nalitaMax",
+      "image_id": 13755
+    },
+    {
+      "match": "nalitaSub",
+      "image_id": 33600
+    },
+    {
+      "match": "nalitaKeepo",
+      "image_id": 33601
+    },
+    {
+      "match": "nalitaSalsa",
+      "image_id": 35011
+    },
+    {
+      "match": "nalitaBiceps",
+      "image_id": 35010
+    }
+  ]
+}

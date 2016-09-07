@@ -1,1 +1,27 @@
-{"name":"twitch-sub-tinsi_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tinsiKaefer","image_id":58306},{"match":"tinsiSalt","image_id":59033},{"match":"tinsiHi","image_id":59032},{"match":"tinsiWtf","image_id":58217},{"match":"tinsiLove","image_id":61747}]}
+{
+  "name": "twitch-sub-tinsi_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tinsiKaefer",
+      "image_id": 58306
+    },
+    {
+      "match": "tinsiSalt",
+      "image_id": 59033
+    },
+    {
+      "match": "tinsiHi",
+      "image_id": 59032
+    },
+    {
+      "match": "tinsiWtf",
+      "image_id": 58217
+    },
+    {
+      "match": "tinsiLove",
+      "image_id": 61747
+    }
+  ]
+}

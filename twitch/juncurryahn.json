@@ -1,1 +1,15 @@
-{"name":"twitch-sub-juncurryahn","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"curryahnDerpWhat","image_id":13562},{"match":"curryahnMustacheDude","image_id":13561}]}
+{
+  "name": "twitch-sub-juncurryahn",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "curryahnDerpWhat",
+      "image_id": 13562
+    },
+    {
+      "match": "curryahnMustacheDude",
+      "image_id": 13561
+    }
+  ]
+}

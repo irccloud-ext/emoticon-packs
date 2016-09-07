@@ -1,1 +1,95 @@
-{"name":"twitch-sub-avalonstar","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"avalonFOCUS","image_id":62330},{"match":"avalon7","image_id":106264},{"match":"avalonCRY","image_id":106265},{"match":"avalonDASH","image_id":106266},{"match":"avalonEYES","image_id":106267},{"match":"avalonHUG","image_id":106268},{"match":"avalonLEWD","image_id":106269},{"match":"avalonRANT","image_id":106270},{"match":"avalonREKT","image_id":106271},{"match":"avalonSTAR","image_id":62327},{"match":"avalonHAI","image_id":62328},{"match":"avalonAWK","image_id":62329},{"match":"avalonDESK","image_id":65126},{"match":"avalonW","image_id":69191},{"match":"avalonPOWER","image_id":72261},{"match":"avalonLOVE","image_id":72264},{"match":"avalonSLEEP","image_id":83296},{"match":"avalonTOAST","image_id":83299},{"match":"avalonBLANK","image_id":90117},{"match":"avalonSHY","image_id":90118},{"match":"avalonDOOT","image_id":102048},{"match":"avalonEVIL","image_id":102049}]}
+{
+  "name": "twitch-sub-avalonstar",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "avalonFOCUS",
+      "image_id": 62330
+    },
+    {
+      "match": "avalon7",
+      "image_id": 106264
+    },
+    {
+      "match": "avalonCRY",
+      "image_id": 106265
+    },
+    {
+      "match": "avalonDASH",
+      "image_id": 106266
+    },
+    {
+      "match": "avalonEYES",
+      "image_id": 106267
+    },
+    {
+      "match": "avalonHUG",
+      "image_id": 106268
+    },
+    {
+      "match": "avalonLEWD",
+      "image_id": 106269
+    },
+    {
+      "match": "avalonRANT",
+      "image_id": 106270
+    },
+    {
+      "match": "avalonREKT",
+      "image_id": 106271
+    },
+    {
+      "match": "avalonSTAR",
+      "image_id": 62327
+    },
+    {
+      "match": "avalonHAI",
+      "image_id": 62328
+    },
+    {
+      "match": "avalonAWK",
+      "image_id": 62329
+    },
+    {
+      "match": "avalonDESK",
+      "image_id": 65126
+    },
+    {
+      "match": "avalonW",
+      "image_id": 69191
+    },
+    {
+      "match": "avalonPOWER",
+      "image_id": 72261
+    },
+    {
+      "match": "avalonLOVE",
+      "image_id": 72264
+    },
+    {
+      "match": "avalonSLEEP",
+      "image_id": 83296
+    },
+    {
+      "match": "avalonTOAST",
+      "image_id": 83299
+    },
+    {
+      "match": "avalonBLANK",
+      "image_id": 90117
+    },
+    {
+      "match": "avalonSHY",
+      "image_id": 90118
+    },
+    {
+      "match": "avalonDOOT",
+      "image_id": 102048
+    },
+    {
+      "match": "avalonEVIL",
+      "image_id": 102049
+    }
+  ]
+}

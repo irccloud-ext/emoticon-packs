@@ -1,1 +1,19 @@
-{"name":"twitch-sub-pikabooirl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"420bladesLag","image_id":10774},{"match":"420bladesList","image_id":10778},{"match":"420bladesAh","image_id":84073}]}
+{
+  "name": "twitch-sub-pikabooirl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "420bladesLag",
+      "image_id": 10774
+    },
+    {
+      "match": "420bladesList",
+      "image_id": 10778
+    },
+    {
+      "match": "420bladesAh",
+      "image_id": 84073
+    }
+  ]
+}

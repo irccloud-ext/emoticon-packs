@@ -1,1 +1,15 @@
-{"name":"twitch-sub-insomulus","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"insomULUS","image_id":5965},{"match":"insomDNA","image_id":29198}]}
+{
+  "name": "twitch-sub-insomulus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "insomULUS",
+      "image_id": 5965
+    },
+    {
+      "match": "insomDNA",
+      "image_id": 29198
+    }
+  ]
+}

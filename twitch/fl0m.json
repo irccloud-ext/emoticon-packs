@@ -1,1 +1,87 @@
-{"name":"twitch-sub-fl0m","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fl0mTech","image_id":53780},{"match":"fl0mFlock","image_id":7878},{"match":"fl0mGlow","image_id":8109},{"match":"fl0mPoo","image_id":66625},{"match":"fl0mRowdy","image_id":66592},{"match":"fl0mGasm","image_id":70917},{"match":"fl0mVac","image_id":67208},{"match":"fl0mScum","image_id":26086},{"match":"fl0mPanic","image_id":26550},{"match":"fl0mAlpha","image_id":53778},{"match":"fl0mHype","image_id":54230},{"match":"fl0mNoble","image_id":60076},{"match":"fl0mPuma","image_id":52197},{"match":"fl0mHear","image_id":66656},{"match":"fl0mGoose","image_id":50429},{"match":"fl0mJob","image_id":53810},{"match":"fl0mFab","image_id":55160},{"match":"fl0mHeart","image_id":67207},{"match":"fl0mCry","image_id":71133},{"match":"fl0mS","image_id":88477}]}
+{
+  "name": "twitch-sub-fl0m",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fl0mTech",
+      "image_id": 53780
+    },
+    {
+      "match": "fl0mFlock",
+      "image_id": 7878
+    },
+    {
+      "match": "fl0mGlow",
+      "image_id": 8109
+    },
+    {
+      "match": "fl0mPoo",
+      "image_id": 66625
+    },
+    {
+      "match": "fl0mRowdy",
+      "image_id": 66592
+    },
+    {
+      "match": "fl0mGasm",
+      "image_id": 70917
+    },
+    {
+      "match": "fl0mVac",
+      "image_id": 67208
+    },
+    {
+      "match": "fl0mScum",
+      "image_id": 26086
+    },
+    {
+      "match": "fl0mPanic",
+      "image_id": 26550
+    },
+    {
+      "match": "fl0mAlpha",
+      "image_id": 53778
+    },
+    {
+      "match": "fl0mHype",
+      "image_id": 54230
+    },
+    {
+      "match": "fl0mNoble",
+      "image_id": 60076
+    },
+    {
+      "match": "fl0mPuma",
+      "image_id": 52197
+    },
+    {
+      "match": "fl0mHear",
+      "image_id": 66656
+    },
+    {
+      "match": "fl0mGoose",
+      "image_id": 50429
+    },
+    {
+      "match": "fl0mJob",
+      "image_id": 53810
+    },
+    {
+      "match": "fl0mFab",
+      "image_id": 55160
+    },
+    {
+      "match": "fl0mHeart",
+      "image_id": 67207
+    },
+    {
+      "match": "fl0mCry",
+      "image_id": 71133
+    },
+    {
+      "match": "fl0mS",
+      "image_id": 88477
+    }
+  ]
+}

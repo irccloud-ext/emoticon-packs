@@ -1,1 +1,31 @@
-{"name":"twitch-sub-margaretkrohn","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"magLove","image_id":111670},{"match":"magHype","image_id":111669},{"match":"magRip","image_id":111677},{"match":"magHi","image_id":111510},{"match":"magFeels","image_id":111511},{"match":"magKappa","image_id":111513}]}
+{
+  "name": "twitch-sub-margaretkrohn",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "magLove",
+      "image_id": 111670
+    },
+    {
+      "match": "magHype",
+      "image_id": 111669
+    },
+    {
+      "match": "magRip",
+      "image_id": 111677
+    },
+    {
+      "match": "magHi",
+      "image_id": 111510
+    },
+    {
+      "match": "magFeels",
+      "image_id": 111511
+    },
+    {
+      "match": "magKappa",
+      "image_id": 111513
+    }
+  ]
+}

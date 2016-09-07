@@ -1,1 +1,23 @@
-{"name":"twitch-sub-fearfulferret","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ferrBlessed","image_id":16711},{"match":"ferrHalo","image_id":16719},{"match":"ferrSamuel","image_id":17612},{"match":"ferrPanda","image_id":20747}]}
+{
+  "name": "twitch-sub-fearfulferret",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ferrBlessed",
+      "image_id": 16711
+    },
+    {
+      "match": "ferrHalo",
+      "image_id": 16719
+    },
+    {
+      "match": "ferrSamuel",
+      "image_id": 17612
+    },
+    {
+      "match": "ferrPanda",
+      "image_id": 20747
+    }
+  ]
+}

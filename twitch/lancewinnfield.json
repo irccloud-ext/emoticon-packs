@@ -1,1 +1,31 @@
-{"name":"twitch-sub-lancewinnfield","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"winnFAIL","image_id":47342},{"match":"winnLION","image_id":45059},{"match":"winnCHAT","image_id":45135},{"match":"winnSUB","image_id":47284},{"match":"winnTG","image_id":47339},{"match":"winnFRER","image_id":48819}]}
+{
+  "name": "twitch-sub-lancewinnfield",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "winnFAIL",
+      "image_id": 47342
+    },
+    {
+      "match": "winnLION",
+      "image_id": 45059
+    },
+    {
+      "match": "winnCHAT",
+      "image_id": 45135
+    },
+    {
+      "match": "winnSUB",
+      "image_id": 47284
+    },
+    {
+      "match": "winnTG",
+      "image_id": 47339
+    },
+    {
+      "match": "winnFRER",
+      "image_id": 48819
+    }
+  ]
+}

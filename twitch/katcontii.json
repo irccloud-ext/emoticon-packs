@@ -1,1 +1,39 @@
-{"name":"twitch-sub-katcontii","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"katcCRY","image_id":105711},{"match":"katcELEVEN","image_id":82519},{"match":"katcGASM","image_id":105715},{"match":"katcHY","image_id":105714},{"match":"katcPE","image_id":105713},{"match":"katcLOVE","image_id":105712},{"match":"katcRAGE","image_id":105710},{"match":"katcHI","image_id":105709}]}
+{
+  "name": "twitch-sub-katcontii",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "katcCRY",
+      "image_id": 105711
+    },
+    {
+      "match": "katcELEVEN",
+      "image_id": 82519
+    },
+    {
+      "match": "katcGASM",
+      "image_id": 105715
+    },
+    {
+      "match": "katcHY",
+      "image_id": 105714
+    },
+    {
+      "match": "katcPE",
+      "image_id": 105713
+    },
+    {
+      "match": "katcLOVE",
+      "image_id": 105712
+    },
+    {
+      "match": "katcRAGE",
+      "image_id": 105710
+    },
+    {
+      "match": "katcHI",
+      "image_id": 105709
+    }
+  ]
+}

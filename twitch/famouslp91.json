@@ -1,1 +1,27 @@
-{"name":"twitch-sub-famouslp91","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pusherKOPF","image_id":45608},{"match":"pusherSUBHYPE","image_id":45607},{"match":"pusherPUSHER","image_id":45610},{"match":"pusherGOAL","image_id":45727},{"match":"pusherDUJUAN","image_id":46413}]}
+{
+  "name": "twitch-sub-famouslp91",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pusherKOPF",
+      "image_id": 45608
+    },
+    {
+      "match": "pusherSUBHYPE",
+      "image_id": 45607
+    },
+    {
+      "match": "pusherPUSHER",
+      "image_id": 45610
+    },
+    {
+      "match": "pusherGOAL",
+      "image_id": 45727
+    },
+    {
+      "match": "pusherDUJUAN",
+      "image_id": 46413
+    }
+  ]
+}

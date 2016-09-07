@@ -1,1 +1,23 @@
-{"name":"twitch-sub-slyakagreyfox","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"slyYip","image_id":93220},{"match":"slyRaid","image_id":93219},{"match":"slyBeer","image_id":93218},{"match":"slyMarge","image_id":93222}]}
+{
+  "name": "twitch-sub-slyakagreyfox",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "slyYip",
+      "image_id": 93220
+    },
+    {
+      "match": "slyRaid",
+      "image_id": 93219
+    },
+    {
+      "match": "slyBeer",
+      "image_id": 93218
+    },
+    {
+      "match": "slyMarge",
+      "image_id": 93222
+    }
+  ]
+}

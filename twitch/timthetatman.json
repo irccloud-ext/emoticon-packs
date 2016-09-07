@@ -1,1 +1,207 @@
-{"name":"twitch-sub-timthetatman","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tatTimturnup","image_id":3861},{"match":"tatStorytim","image_id":3915},{"match":"tatBlackpaul","image_id":4024},{"match":"tatChair","image_id":8408},{"match":"tatVapor","image_id":10578},{"match":"tatYeet","image_id":54835},{"match":"tatMail","image_id":12177},{"match":"tatSub","image_id":12523},{"match":"tatWut","image_id":52338},{"match":"tatCry","image_id":16244},{"match":"tatPenguin","image_id":16246},{"match":"tatPreach","image_id":16247},{"match":"tatBreak","image_id":18173},{"match":"tatTeam","image_id":17826},{"match":"tatCarried","image_id":70085},{"match":"tatFat","image_id":70086},{"match":"tatRekt","image_id":20772},{"match":"tatRiot","image_id":25742},{"match":"tatSports","image_id":25140},{"match":"tatRip","image_id":25182},{"match":"tatLove","image_id":25562},{"match":"tatHype","image_id":25563},{"match":"tatMlg","image_id":70089},{"match":"tatTriggered","image_id":70088},{"match":"tatPleb","image_id":70087},{"match":"tat5head","image_id":70084},{"match":"tatMath","image_id":31361},{"match":"tatQualms","image_id":31835},{"match":"tatTen","image_id":33740},{"match":"tatJK","image_id":95855},{"match":"tatDab","image_id":95854},{"match":"tatPretty","image_id":60643},{"match":"tatW","image_id":54495},{"match":"tatBoop","image_id":56770},{"match":"tat1tat","image_id":53401},{"match":"tatGood","image_id":97490},{"match":"tatChamp","image_id":101291},{"match":"tatHo","image_id":62049},{"match":"tatHeave","image_id":62048},{"match":"tatFeels","image_id":62486},{"match":"tatSellout","image_id":62485},{"match":"tatL","image_id":83614},{"match":"tatMesa","image_id":86639},{"match":"tatOshi","image_id":89232},{"match":"tatSuh","image_id":87756},{"match":"tatPik","image_id":92258},{"match":"tatCreepy","image_id":92260},{"match":"tatY","image_id":97067},{"match":"tatLUL","image_id":104288},{"match":"tatH","image_id":106925}]}
+{
+  "name": "twitch-sub-timthetatman",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tatTimturnup",
+      "image_id": 3861
+    },
+    {
+      "match": "tatStorytim",
+      "image_id": 3915
+    },
+    {
+      "match": "tatBlackpaul",
+      "image_id": 4024
+    },
+    {
+      "match": "tatChair",
+      "image_id": 8408
+    },
+    {
+      "match": "tatVapor",
+      "image_id": 10578
+    },
+    {
+      "match": "tatYeet",
+      "image_id": 54835
+    },
+    {
+      "match": "tatMail",
+      "image_id": 12177
+    },
+    {
+      "match": "tatSub",
+      "image_id": 12523
+    },
+    {
+      "match": "tatWut",
+      "image_id": 52338
+    },
+    {
+      "match": "tatCry",
+      "image_id": 16244
+    },
+    {
+      "match": "tatPenguin",
+      "image_id": 16246
+    },
+    {
+      "match": "tatPreach",
+      "image_id": 16247
+    },
+    {
+      "match": "tatBreak",
+      "image_id": 18173
+    },
+    {
+      "match": "tatTeam",
+      "image_id": 17826
+    },
+    {
+      "match": "tatCarried",
+      "image_id": 70085
+    },
+    {
+      "match": "tatFat",
+      "image_id": 70086
+    },
+    {
+      "match": "tatRekt",
+      "image_id": 20772
+    },
+    {
+      "match": "tatRiot",
+      "image_id": 25742
+    },
+    {
+      "match": "tatSports",
+      "image_id": 25140
+    },
+    {
+      "match": "tatRip",
+      "image_id": 25182
+    },
+    {
+      "match": "tatLove",
+      "image_id": 25562
+    },
+    {
+      "match": "tatHype",
+      "image_id": 25563
+    },
+    {
+      "match": "tatMlg",
+      "image_id": 70089
+    },
+    {
+      "match": "tatTriggered",
+      "image_id": 70088
+    },
+    {
+      "match": "tatPleb",
+      "image_id": 70087
+    },
+    {
+      "match": "tat5head",
+      "image_id": 70084
+    },
+    {
+      "match": "tatMath",
+      "image_id": 31361
+    },
+    {
+      "match": "tatQualms",
+      "image_id": 31835
+    },
+    {
+      "match": "tatTen",
+      "image_id": 33740
+    },
+    {
+      "match": "tatJK",
+      "image_id": 95855
+    },
+    {
+      "match": "tatDab",
+      "image_id": 95854
+    },
+    {
+      "match": "tatPretty",
+      "image_id": 60643
+    },
+    {
+      "match": "tatW",
+      "image_id": 54495
+    },
+    {
+      "match": "tatBoop",
+      "image_id": 56770
+    },
+    {
+      "match": "tat1tat",
+      "image_id": 53401
+    },
+    {
+      "match": "tatGood",
+      "image_id": 97490
+    },
+    {
+      "match": "tatChamp",
+      "image_id": 101291
+    },
+    {
+      "match": "tatHo",
+      "image_id": 62049
+    },
+    {
+      "match": "tatHeave",
+      "image_id": 62048
+    },
+    {
+      "match": "tatFeels",
+      "image_id": 62486
+    },
+    {
+      "match": "tatSellout",
+      "image_id": 62485
+    },
+    {
+      "match": "tatL",
+      "image_id": 83614
+    },
+    {
+      "match": "tatMesa",
+      "image_id": 86639
+    },
+    {
+      "match": "tatOshi",
+      "image_id": 89232
+    },
+    {
+      "match": "tatSuh",
+      "image_id": 87756
+    },
+    {
+      "match": "tatPik",
+      "image_id": 92258
+    },
+    {
+      "match": "tatCreepy",
+      "image_id": 92260
+    },
+    {
+      "match": "tatY",
+      "image_id": 97067
+    },
+    {
+      "match": "tatLUL",
+      "image_id": 104288
+    },
+    {
+      "match": "tatH",
+      "image_id": 106925
+    }
+  ]
+}

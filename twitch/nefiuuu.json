@@ -1,1 +1,19 @@
-{"name":"twitch-sub-nefiuuu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nefiuW","image_id":56084},{"match":"nefiuFail","image_id":62101},{"match":"nefiuChamp","image_id":62352}]}
+{
+  "name": "twitch-sub-nefiuuu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nefiuW",
+      "image_id": 56084
+    },
+    {
+      "match": "nefiuFail",
+      "image_id": 62101
+    },
+    {
+      "match": "nefiuChamp",
+      "image_id": 62352
+    }
+  ]
+}

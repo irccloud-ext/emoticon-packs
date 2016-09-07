@@ -1,1 +1,23 @@
-{"name":"twitch-sub-spiidiwhaam","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"spiidiSexy","image_id":85331},{"match":"spiidiGeistig","image_id":85327},{"match":"spiidiDunno","image_id":76564},{"match":"spiidiX","image_id":84392}]}
+{
+  "name": "twitch-sub-spiidiwhaam",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "spiidiSexy",
+      "image_id": 85331
+    },
+    {
+      "match": "spiidiGeistig",
+      "image_id": 85327
+    },
+    {
+      "match": "spiidiDunno",
+      "image_id": 76564
+    },
+    {
+      "match": "spiidiX",
+      "image_id": 84392
+    }
+  ]
+}

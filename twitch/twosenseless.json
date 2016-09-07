@@ -1,1 +1,31 @@
-{"name":"twitch-sub-twosenseless","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"twoHype","image_id":78934},{"match":"twoLove","image_id":78930},{"match":"twoYell","image_id":79030},{"match":"twoRip","image_id":79035},{"match":"twoGg","image_id":81627},{"match":"twoRig","image_id":82955}]}
+{
+  "name": "twitch-sub-twosenseless",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "twoHype",
+      "image_id": 78934
+    },
+    {
+      "match": "twoLove",
+      "image_id": 78930
+    },
+    {
+      "match": "twoYell",
+      "image_id": 79030
+    },
+    {
+      "match": "twoRip",
+      "image_id": 79035
+    },
+    {
+      "match": "twoGg",
+      "image_id": 81627
+    },
+    {
+      "match": "twoRig",
+      "image_id": 82955
+    }
+  ]
+}

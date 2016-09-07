@@ -1,1 +1,39 @@
-{"name":"twitch-sub-bruugar","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bruu5","image_id":30729},{"match":"bruu6","image_id":30730},{"match":"bruu1","image_id":14311},{"match":"bruu3","image_id":28987},{"match":"bruu4","image_id":29416},{"match":"bruu2","image_id":29427},{"match":"bruuLove","image_id":84855},{"match":"bruuFirst","image_id":86041}]}
+{
+  "name": "twitch-sub-bruugar",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bruu5",
+      "image_id": 30729
+    },
+    {
+      "match": "bruu6",
+      "image_id": 30730
+    },
+    {
+      "match": "bruu1",
+      "image_id": 14311
+    },
+    {
+      "match": "bruu3",
+      "image_id": 28987
+    },
+    {
+      "match": "bruu4",
+      "image_id": 29416
+    },
+    {
+      "match": "bruu2",
+      "image_id": 29427
+    },
+    {
+      "match": "bruuLove",
+      "image_id": 84855
+    },
+    {
+      "match": "bruuFirst",
+      "image_id": 86041
+    }
+  ]
+}

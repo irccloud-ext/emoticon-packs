@@ -1,1 +1,23 @@
-{"name":"twitch-sub-re_loadtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"reloadRAGE","image_id":45536},{"match":"reloadKAPPA","image_id":79850},{"match":"reloadW","image_id":54610},{"match":"reloadOP","image_id":74883}]}
+{
+  "name": "twitch-sub-re_loadtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "reloadRAGE",
+      "image_id": 45536
+    },
+    {
+      "match": "reloadKAPPA",
+      "image_id": 79850
+    },
+    {
+      "match": "reloadW",
+      "image_id": 54610
+    },
+    {
+      "match": "reloadOP",
+      "image_id": 74883
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-tnbakery","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bakeryHey","image_id":90441},{"match":"bakeryW","image_id":89791}]}
+{
+  "name": "twitch-sub-tnbakery",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bakeryHey",
+      "image_id": 90441
+    },
+    {
+      "match": "bakeryW",
+      "image_id": 89791
+    }
+  ]
+}

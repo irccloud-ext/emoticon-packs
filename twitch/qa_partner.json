@@ -1,1 +1,15 @@
-{"name":"twitch-sub-qa_partner","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"qatest1Qa_partner","image_id":13566},{"match":"qatest1Qa7","image_id":110000}]}
+{
+  "name": "twitch-sub-qa_partner",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "qatest1Qa_partner",
+      "image_id": 13566
+    },
+    {
+      "match": "qatest1Qa7",
+      "image_id": 110000
+    }
+  ]
+}

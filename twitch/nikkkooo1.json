@@ -1,1 +1,23 @@
-{"name":"twitch-sub-nikkkooo1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"niko1VAC","image_id":58178},{"match":"niko1Face","image_id":58173},{"match":"niko1Fire","image_id":58174},{"match":"niko1Sub","image_id":58175}]}
+{
+  "name": "twitch-sub-nikkkooo1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "niko1VAC",
+      "image_id": 58178
+    },
+    {
+      "match": "niko1Face",
+      "image_id": 58173
+    },
+    {
+      "match": "niko1Fire",
+      "image_id": 58174
+    },
+    {
+      "match": "niko1Sub",
+      "image_id": 58175
+    }
+  ]
+}

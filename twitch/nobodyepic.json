@@ -1,1 +1,19 @@
-{"name":"twitch-sub-nobodyepic","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nobodySub","image_id":10846},{"match":"nobodySkin","image_id":21359},{"match":"nobodyDad","image_id":21475}]}
+{
+  "name": "twitch-sub-nobodyepic",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nobodySub",
+      "image_id": 10846
+    },
+    {
+      "match": "nobodySkin",
+      "image_id": 21359
+    },
+    {
+      "match": "nobodyDad",
+      "image_id": 21475
+    }
+  ]
+}

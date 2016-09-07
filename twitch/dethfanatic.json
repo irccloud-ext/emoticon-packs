@@ -1,1 +1,27 @@
-{"name":"twitch-sub-dethfanatic","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dethsDavid","image_id":102518},{"match":"dethsGasm","image_id":102397},{"match":"dethsOrtem","image_id":102396},{"match":"dethsWut","image_id":102509},{"match":"dethsBBQ","image_id":102771}]}
+{
+  "name": "twitch-sub-dethfanatic",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dethsDavid",
+      "image_id": 102518
+    },
+    {
+      "match": "dethsGasm",
+      "image_id": 102397
+    },
+    {
+      "match": "dethsOrtem",
+      "image_id": 102396
+    },
+    {
+      "match": "dethsWut",
+      "image_id": 102509
+    },
+    {
+      "match": "dethsBBQ",
+      "image_id": 102771
+    }
+  ]
+}

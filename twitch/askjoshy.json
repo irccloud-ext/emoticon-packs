@@ -1,1 +1,39 @@
-{"name":"twitch-sub-askjoshy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"askGot","image_id":59011},{"match":"askEyes","image_id":59708},{"match":"askPharah","image_id":73093},{"match":"askGold","image_id":88064},{"match":"askSquad","image_id":89012},{"match":"askHi","image_id":91177},{"match":"askReaper","image_id":95802},{"match":"askJunk","image_id":95496}]}
+{
+  "name": "twitch-sub-askjoshy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "askGot",
+      "image_id": 59011
+    },
+    {
+      "match": "askEyes",
+      "image_id": 59708
+    },
+    {
+      "match": "askPharah",
+      "image_id": 73093
+    },
+    {
+      "match": "askGold",
+      "image_id": 88064
+    },
+    {
+      "match": "askSquad",
+      "image_id": 89012
+    },
+    {
+      "match": "askHi",
+      "image_id": 91177
+    },
+    {
+      "match": "askReaper",
+      "image_id": 95802
+    },
+    {
+      "match": "askJunk",
+      "image_id": 95496
+    }
+  ]
+}

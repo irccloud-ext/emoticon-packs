@@ -1,1 +1,31 @@
-{"name":"twitch-sub-playinthemud","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mudLove","image_id":75574},{"match":"mudHype","image_id":80405},{"match":"mudSplat","image_id":80406},{"match":"mudKiba","image_id":74074},{"match":"mudPaws","image_id":80495},{"match":"mudWonky","image_id":80494}]}
+{
+  "name": "twitch-sub-playinthemud",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mudLove",
+      "image_id": 75574
+    },
+    {
+      "match": "mudHype",
+      "image_id": 80405
+    },
+    {
+      "match": "mudSplat",
+      "image_id": 80406
+    },
+    {
+      "match": "mudKiba",
+      "image_id": 74074
+    },
+    {
+      "match": "mudPaws",
+      "image_id": 80495
+    },
+    {
+      "match": "mudWonky",
+      "image_id": 80494
+    }
+  ]
+}

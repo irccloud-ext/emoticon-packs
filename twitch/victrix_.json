@@ -1,1 +1,31 @@
-{"name":"twitch-sub-victrix_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vicPew","image_id":37866},{"match":"vicHype","image_id":37887},{"match":"vicFOD","image_id":37885},{"match":"vicLove","image_id":37884},{"match":"vicFail","image_id":80438},{"match":"vicRage","image_id":80436}]}
+{
+  "name": "twitch-sub-victrix_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vicPew",
+      "image_id": 37866
+    },
+    {
+      "match": "vicHype",
+      "image_id": 37887
+    },
+    {
+      "match": "vicFOD",
+      "image_id": 37885
+    },
+    {
+      "match": "vicLove",
+      "image_id": 37884
+    },
+    {
+      "match": "vicFail",
+      "image_id": 80438
+    },
+    {
+      "match": "vicRage",
+      "image_id": 80436
+    }
+  ]
+}

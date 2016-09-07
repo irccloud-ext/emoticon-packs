@@ -1,1 +1,39 @@
-{"name":"twitch-sub-minaplays","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"minaHammer","image_id":20943},{"match":"minaRekt","image_id":22513},{"match":"minaRF","image_id":34525},{"match":"minaWut","image_id":34531},{"match":"minaGalp","image_id":34683},{"match":"minaHarbimi","image_id":34681},{"match":"minaLoL","image_id":34679},{"match":"minaEww","image_id":34672}]}
+{
+  "name": "twitch-sub-minaplays",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "minaHammer",
+      "image_id": 20943
+    },
+    {
+      "match": "minaRekt",
+      "image_id": 22513
+    },
+    {
+      "match": "minaRF",
+      "image_id": 34525
+    },
+    {
+      "match": "minaWut",
+      "image_id": 34531
+    },
+    {
+      "match": "minaGalp",
+      "image_id": 34683
+    },
+    {
+      "match": "minaHarbimi",
+      "image_id": 34681
+    },
+    {
+      "match": "minaLoL",
+      "image_id": 34679
+    },
+    {
+      "match": "minaEww",
+      "image_id": 34672
+    }
+  ]
+}

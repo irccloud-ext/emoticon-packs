@@ -1,1 +1,23 @@
-{"name":"twitch-sub-exniunsub","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"supersubGG","image_id":104389},{"match":"supersubMM","image_id":104041},{"match":"supersubSAD","image_id":108010},{"match":"supersubJAJA","image_id":108012}]}
+{
+  "name": "twitch-sub-exniunsub",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "supersubGG",
+      "image_id": 104389
+    },
+    {
+      "match": "supersubMM",
+      "image_id": 104041
+    },
+    {
+      "match": "supersubSAD",
+      "image_id": 108010
+    },
+    {
+      "match": "supersubJAJA",
+      "image_id": 108012
+    }
+  ]
+}

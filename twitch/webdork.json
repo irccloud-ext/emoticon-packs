@@ -1,1 +1,67 @@
-{"name":"twitch-sub-webdork","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dorkChair","image_id":34662},{"match":"dorkRekt","image_id":34641},{"match":"dorkLove","image_id":34640},{"match":"dorkCup","image_id":34639},{"match":"dorkCrash","image_id":34638},{"match":"dorkShaka","image_id":34656},{"match":"dorkThump","image_id":34659},{"match":"dorkBarn","image_id":34686},{"match":"dorkFrank","image_id":34684},{"match":"dorkTato","image_id":34668},{"match":"dorkRIP","image_id":37722},{"match":"dorkLoot","image_id":37720},{"match":"dorkSplat","image_id":37717},{"match":"dorkJukes","image_id":37715},{"match":"dorkGG","image_id":37714}]}
+{
+  "name": "twitch-sub-webdork",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dorkChair",
+      "image_id": 34662
+    },
+    {
+      "match": "dorkRekt",
+      "image_id": 34641
+    },
+    {
+      "match": "dorkLove",
+      "image_id": 34640
+    },
+    {
+      "match": "dorkCup",
+      "image_id": 34639
+    },
+    {
+      "match": "dorkCrash",
+      "image_id": 34638
+    },
+    {
+      "match": "dorkShaka",
+      "image_id": 34656
+    },
+    {
+      "match": "dorkThump",
+      "image_id": 34659
+    },
+    {
+      "match": "dorkBarn",
+      "image_id": 34686
+    },
+    {
+      "match": "dorkFrank",
+      "image_id": 34684
+    },
+    {
+      "match": "dorkTato",
+      "image_id": 34668
+    },
+    {
+      "match": "dorkRIP",
+      "image_id": 37722
+    },
+    {
+      "match": "dorkLoot",
+      "image_id": 37720
+    },
+    {
+      "match": "dorkSplat",
+      "image_id": 37717
+    },
+    {
+      "match": "dorkJukes",
+      "image_id": 37715
+    },
+    {
+      "match": "dorkGG",
+      "image_id": 37714
+    }
+  ]
+}

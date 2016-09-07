@@ -1,1 +1,39 @@
-{"name":"twitch-sub-robertxlee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"robertSammy","image_id":3440},{"match":"robertSleep","image_id":13026},{"match":"robertW","image_id":94688},{"match":"robertThrow","image_id":26269},{"match":"robertSalt","image_id":77321},{"match":"robertHype","image_id":75328},{"match":"robertCash","image_id":78247},{"match":"robertHey","image_id":94666}]}
+{
+  "name": "twitch-sub-robertxlee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "robertSammy",
+      "image_id": 3440
+    },
+    {
+      "match": "robertSleep",
+      "image_id": 13026
+    },
+    {
+      "match": "robertW",
+      "image_id": 94688
+    },
+    {
+      "match": "robertThrow",
+      "image_id": 26269
+    },
+    {
+      "match": "robertSalt",
+      "image_id": 77321
+    },
+    {
+      "match": "robertHype",
+      "image_id": 75328
+    },
+    {
+      "match": "robertCash",
+      "image_id": 78247
+    },
+    {
+      "match": "robertHey",
+      "image_id": 94666
+    }
+  ]
+}

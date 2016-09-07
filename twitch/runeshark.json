@@ -1,1 +1,39 @@
-{"name":"twitch-sub-runeshark","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sharkBadclue","image_id":52452},{"match":"sharkJames","image_id":27190},{"match":"sharkNoob","image_id":29317},{"match":"sharkSimon","image_id":29313},{"match":"sharkToofar","image_id":52601},{"match":"sharkRIP","image_id":52599},{"match":"sharkOdle","image_id":52598},{"match":"sharkBado","image_id":52597}]}
+{
+  "name": "twitch-sub-runeshark",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sharkBadclue",
+      "image_id": 52452
+    },
+    {
+      "match": "sharkJames",
+      "image_id": 27190
+    },
+    {
+      "match": "sharkNoob",
+      "image_id": 29317
+    },
+    {
+      "match": "sharkSimon",
+      "image_id": 29313
+    },
+    {
+      "match": "sharkToofar",
+      "image_id": 52601
+    },
+    {
+      "match": "sharkRIP",
+      "image_id": 52599
+    },
+    {
+      "match": "sharkOdle",
+      "image_id": 52598
+    },
+    {
+      "match": "sharkBado",
+      "image_id": 52597
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-{"name":"twitch-sub-deliciousmilkgg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"milkggThrow","image_id":77668},{"match":"milkggSilver","image_id":77669},{"match":"milkgg16","image_id":77879},{"match":"milkggChoke","image_id":77880},{"match":"milkggMax","image_id":77881}]}
+{
+  "name": "twitch-sub-deliciousmilkgg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "milkggThrow",
+      "image_id": 77668
+    },
+    {
+      "match": "milkggSilver",
+      "image_id": 77669
+    },
+    {
+      "match": "milkgg16",
+      "image_id": 77879
+    },
+    {
+      "match": "milkggChoke",
+      "image_id": 77880
+    },
+    {
+      "match": "milkggMax",
+      "image_id": 77881
+    }
+  ]
+}

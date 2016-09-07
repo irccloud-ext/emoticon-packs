@@ -1,1 +1,47 @@
-{"name":"twitch-sub-jimpansegamer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jimpanseUjelly","image_id":92944},{"match":"jimpanseGiraffe","image_id":92969},{"match":"jimpanseAngry","image_id":92964},{"match":"jimpanseMad","image_id":92966},{"match":"jimpanseCash","image_id":96216},{"match":"jimpanseBanana","image_id":96203},{"match":"jimpanseHi","image_id":96205},{"match":"jimpanseNa","image_id":96206},{"match":"jimpanseBye","image_id":96207},{"match":"jimpanseRip","image_id":96208}]}
+{
+  "name": "twitch-sub-jimpansegamer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jimpanseUjelly",
+      "image_id": 92944
+    },
+    {
+      "match": "jimpanseGiraffe",
+      "image_id": 92969
+    },
+    {
+      "match": "jimpanseAngry",
+      "image_id": 92964
+    },
+    {
+      "match": "jimpanseMad",
+      "image_id": 92966
+    },
+    {
+      "match": "jimpanseCash",
+      "image_id": 96216
+    },
+    {
+      "match": "jimpanseBanana",
+      "image_id": 96203
+    },
+    {
+      "match": "jimpanseHi",
+      "image_id": 96205
+    },
+    {
+      "match": "jimpanseNa",
+      "image_id": 96206
+    },
+    {
+      "match": "jimpanseBye",
+      "image_id": 96207
+    },
+    {
+      "match": "jimpanseRip",
+      "image_id": 96208
+    }
+  ]
+}

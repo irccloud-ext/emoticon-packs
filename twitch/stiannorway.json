@@ -1,1 +1,67 @@
-{"name":"twitch-sub-stiannorway","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"stianNydle","image_id":61289},{"match":"stianCheers","image_id":61310},{"match":"stianTrash","image_id":63918},{"match":"stianStemning","image_id":82957},{"match":"stianKjelleren","image_id":82984},{"match":"stianBronze","image_id":82991},{"match":"stianRespekt","image_id":86688},{"match":"stianDerermeg","image_id":110621},{"match":"stianSwippels","image_id":110625},{"match":"stianMe","image_id":110627},{"match":"stian3000","image_id":110616},{"match":"stianBALLS","image_id":110516},{"match":"stianIgjen","image_id":110572},{"match":"stianKarantene","image_id":110570},{"match":"stianKappa","image_id":110522}]}
+{
+  "name": "twitch-sub-stiannorway",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "stianNydle",
+      "image_id": 61289
+    },
+    {
+      "match": "stianCheers",
+      "image_id": 61310
+    },
+    {
+      "match": "stianTrash",
+      "image_id": 63918
+    },
+    {
+      "match": "stianStemning",
+      "image_id": 82957
+    },
+    {
+      "match": "stianKjelleren",
+      "image_id": 82984
+    },
+    {
+      "match": "stianBronze",
+      "image_id": 82991
+    },
+    {
+      "match": "stianRespekt",
+      "image_id": 86688
+    },
+    {
+      "match": "stianDerermeg",
+      "image_id": 110621
+    },
+    {
+      "match": "stianSwippels",
+      "image_id": 110625
+    },
+    {
+      "match": "stianMe",
+      "image_id": 110627
+    },
+    {
+      "match": "stian3000",
+      "image_id": 110616
+    },
+    {
+      "match": "stianBALLS",
+      "image_id": 110516
+    },
+    {
+      "match": "stianIgjen",
+      "image_id": 110572
+    },
+    {
+      "match": "stianKarantene",
+      "image_id": 110570
+    },
+    {
+      "match": "stianKappa",
+      "image_id": 110522
+    }
+  ]
+}

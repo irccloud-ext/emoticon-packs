@@ -1,1 +1,27 @@
-{"name":"twitch-sub-dominator","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"domKappa","image_id":4470},{"match":"domDina","image_id":22033},{"match":"domHype","image_id":19466},{"match":"domDino","image_id":20053},{"match":"domGG","image_id":21392}]}
+{
+  "name": "twitch-sub-dominator",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "domKappa",
+      "image_id": 4470
+    },
+    {
+      "match": "domDina",
+      "image_id": 22033
+    },
+    {
+      "match": "domHype",
+      "image_id": 19466
+    },
+    {
+      "match": "domDino",
+      "image_id": 20053
+    },
+    {
+      "match": "domGG",
+      "image_id": 21392
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-{"name":"twitch-sub-akamalipc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"akamRage","image_id":8082},{"match":"akamExE","image_id":8121},{"match":"akamOrgasime","image_id":8175},{"match":"akamLove","image_id":8177},{"match":"akamPa","image_id":8130}]}
+{
+  "name": "twitch-sub-akamalipc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "akamRage",
+      "image_id": 8082
+    },
+    {
+      "match": "akamExE",
+      "image_id": 8121
+    },
+    {
+      "match": "akamOrgasime",
+      "image_id": 8175
+    },
+    {
+      "match": "akamLove",
+      "image_id": 8177
+    },
+    {
+      "match": "akamPa",
+      "image_id": 8130
+    }
+  ]
+}

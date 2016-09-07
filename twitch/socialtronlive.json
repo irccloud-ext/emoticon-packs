@@ -1,1 +1,27 @@
-{"name":"twitch-sub-socialtronlive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"stlLos","image_id":32055},{"match":"stlSub","image_id":32052},{"match":"stlJAY","image_id":23267},{"match":"stlJOE","image_id":24009},{"match":"stlAlex","image_id":32054}]}
+{
+  "name": "twitch-sub-socialtronlive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "stlLos",
+      "image_id": 32055
+    },
+    {
+      "match": "stlSub",
+      "image_id": 32052
+    },
+    {
+      "match": "stlJAY",
+      "image_id": 23267
+    },
+    {
+      "match": "stlJOE",
+      "image_id": 24009
+    },
+    {
+      "match": "stlAlex",
+      "image_id": 32054
+    }
+  ]
+}

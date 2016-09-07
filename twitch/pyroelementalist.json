@@ -1,1 +1,47 @@
-{"name":"twitch-sub-pyroelementalist","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"andypHS","image_id":41698},{"match":"andypJuan","image_id":76935},{"match":"andypVac","image_id":76819},{"match":"andypWtf","image_id":110232},{"match":"andypRage","image_id":110233},{"match":"andypHype","image_id":110234},{"match":"andypSalt","image_id":110235},{"match":"andypBad","image_id":110230},{"match":"andypFire","image_id":110231},{"match":"andypBoss","image_id":110229}]}
+{
+  "name": "twitch-sub-pyroelementalist",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "andypHS",
+      "image_id": 41698
+    },
+    {
+      "match": "andypJuan",
+      "image_id": 76935
+    },
+    {
+      "match": "andypVac",
+      "image_id": 76819
+    },
+    {
+      "match": "andypWtf",
+      "image_id": 110232
+    },
+    {
+      "match": "andypRage",
+      "image_id": 110233
+    },
+    {
+      "match": "andypHype",
+      "image_id": 110234
+    },
+    {
+      "match": "andypSalt",
+      "image_id": 110235
+    },
+    {
+      "match": "andypBad",
+      "image_id": 110230
+    },
+    {
+      "match": "andypFire",
+      "image_id": 110231
+    },
+    {
+      "match": "andypBoss",
+      "image_id": 110229
+    }
+  ]
+}

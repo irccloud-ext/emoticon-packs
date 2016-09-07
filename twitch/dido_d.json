@@ -1,1 +1,23 @@
-{"name":"twitch-sub-dido_d","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"didoChamp","image_id":96540},{"match":"didoAhoy","image_id":70453},{"match":"didoW","image_id":87550},{"match":"didoVai","image_id":87551}]}
+{
+  "name": "twitch-sub-dido_d",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "didoChamp",
+      "image_id": 96540
+    },
+    {
+      "match": "didoAhoy",
+      "image_id": 70453
+    },
+    {
+      "match": "didoW",
+      "image_id": 87550
+    },
+    {
+      "match": "didoVai",
+      "image_id": 87551
+    }
+  ]
+}

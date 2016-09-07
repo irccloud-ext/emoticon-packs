@@ -1,1 +1,23 @@
-{"name":"twitch-sub-fakerlivestream","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fakerRekt","image_id":21920},{"match":"fakerHype","image_id":21921},{"match":"fakerDM","image_id":21379},{"match":"fakerBM","image_id":21389}]}
+{
+  "name": "twitch-sub-fakerlivestream",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fakerRekt",
+      "image_id": 21920
+    },
+    {
+      "match": "fakerHype",
+      "image_id": 21921
+    },
+    {
+      "match": "fakerDM",
+      "image_id": 21379
+    },
+    {
+      "match": "fakerBM",
+      "image_id": 21389
+    }
+  ]
+}

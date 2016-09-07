@@ -1,1 +1,67 @@
-{"name":"twitch-sub-a_jaxx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jaxxPleb","image_id":71226},{"match":"jaxxFrog","image_id":74815},{"match":"jaxxShot","image_id":70977},{"match":"jaxxHearts","image_id":70994},{"match":"jaxxSub","image_id":71018},{"match":"jaxxHorndog","image_id":80263},{"match":"jaxxAwkward","image_id":80264},{"match":"jaxxRipSkins","image_id":80312},{"match":"jaxxRip","image_id":79005},{"match":"jaxxCoolKat","image_id":103891},{"match":"jaxxRage","image_id":104414},{"match":"jaxxGasm","image_id":104415},{"match":"jaxxThump","image_id":103458},{"match":"jaxxDrool","image_id":103460},{"match":"jaxxCool","image_id":103461}]}
+{
+  "name": "twitch-sub-a_jaxx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jaxxPleb",
+      "image_id": 71226
+    },
+    {
+      "match": "jaxxFrog",
+      "image_id": 74815
+    },
+    {
+      "match": "jaxxShot",
+      "image_id": 70977
+    },
+    {
+      "match": "jaxxHearts",
+      "image_id": 70994
+    },
+    {
+      "match": "jaxxSub",
+      "image_id": 71018
+    },
+    {
+      "match": "jaxxHorndog",
+      "image_id": 80263
+    },
+    {
+      "match": "jaxxAwkward",
+      "image_id": 80264
+    },
+    {
+      "match": "jaxxRipSkins",
+      "image_id": 80312
+    },
+    {
+      "match": "jaxxRip",
+      "image_id": 79005
+    },
+    {
+      "match": "jaxxCoolKat",
+      "image_id": 103891
+    },
+    {
+      "match": "jaxxRage",
+      "image_id": 104414
+    },
+    {
+      "match": "jaxxGasm",
+      "image_id": 104415
+    },
+    {
+      "match": "jaxxThump",
+      "image_id": 103458
+    },
+    {
+      "match": "jaxxDrool",
+      "image_id": 103460
+    },
+    {
+      "match": "jaxxCool",
+      "image_id": 103461
+    }
+  ]
+}

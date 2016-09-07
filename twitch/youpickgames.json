@@ -1,1 +1,47 @@
-{"name":"twitch-sub-youpickgames","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"youCat","image_id":8053},{"match":"youSub","image_id":7877},{"match":"youCreep","image_id":7485},{"match":"youDERP","image_id":12564},{"match":"youKawaii","image_id":13654},{"match":"youSad","image_id":16038},{"match":"youFIRED","image_id":16134},{"match":"youNoah","image_id":24438},{"match":"youPaul","image_id":25602},{"match":"youKill","image_id":61997}]}
+{
+  "name": "twitch-sub-youpickgames",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "youCat",
+      "image_id": 8053
+    },
+    {
+      "match": "youSub",
+      "image_id": 7877
+    },
+    {
+      "match": "youCreep",
+      "image_id": 7485
+    },
+    {
+      "match": "youDERP",
+      "image_id": 12564
+    },
+    {
+      "match": "youKawaii",
+      "image_id": 13654
+    },
+    {
+      "match": "youSad",
+      "image_id": 16038
+    },
+    {
+      "match": "youFIRED",
+      "image_id": 16134
+    },
+    {
+      "match": "youNoah",
+      "image_id": 24438
+    },
+    {
+      "match": "youPaul",
+      "image_id": 25602
+    },
+    {
+      "match": "youKill",
+      "image_id": 61997
+    }
+  ]
+}

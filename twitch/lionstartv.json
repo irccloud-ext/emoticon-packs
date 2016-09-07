@@ -1,1 +1,23 @@
-{"name":"twitch-sub-lionstartv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lionstarLogo","image_id":68694},{"match":"lionstarHYPE","image_id":69125},{"match":"lionstarWHAT","image_id":68880},{"match":"lionstarTrofeje","image_id":87732}]}
+{
+  "name": "twitch-sub-lionstartv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lionstarLogo",
+      "image_id": 68694
+    },
+    {
+      "match": "lionstarHYPE",
+      "image_id": 69125
+    },
+    {
+      "match": "lionstarWHAT",
+      "image_id": 68880
+    },
+    {
+      "match": "lionstarTrofeje",
+      "image_id": 87732
+    }
+  ]
+}

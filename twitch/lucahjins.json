@@ -1,1 +1,47 @@
-{"name":"twitch-sub-lucahjins","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lucahBalls","image_id":10517},{"match":"lucahGurl","image_id":10805},{"match":"lucahGoom","image_id":12055},{"match":"lucahShuu","image_id":27782},{"match":"lucahWing","image_id":48656},{"match":"lucahHat","image_id":48677},{"match":"lucahTaco","image_id":48899},{"match":"lucahDog","image_id":81911},{"match":"lucahHello","image_id":82064},{"match":"lucahJasdog","image_id":82073}]}
+{
+  "name": "twitch-sub-lucahjins",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lucahBalls",
+      "image_id": 10517
+    },
+    {
+      "match": "lucahGurl",
+      "image_id": 10805
+    },
+    {
+      "match": "lucahGoom",
+      "image_id": 12055
+    },
+    {
+      "match": "lucahShuu",
+      "image_id": 27782
+    },
+    {
+      "match": "lucahWing",
+      "image_id": 48656
+    },
+    {
+      "match": "lucahHat",
+      "image_id": 48677
+    },
+    {
+      "match": "lucahTaco",
+      "image_id": 48899
+    },
+    {
+      "match": "lucahDog",
+      "image_id": 81911
+    },
+    {
+      "match": "lucahHello",
+      "image_id": 82064
+    },
+    {
+      "match": "lucahJasdog",
+      "image_id": 82073
+    }
+  ]
+}

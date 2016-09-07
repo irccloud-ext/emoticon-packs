@@ -1,1 +1,83 @@
-{"name":"twitch-sub-puhdado","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dadoSuckit","image_id":25704},{"match":"dadoRekt","image_id":26006},{"match":"dadoHeyo","image_id":25705},{"match":"dadoStairs","image_id":26064},{"match":"dadoPotato","image_id":25811},{"match":"dadoBrush","image_id":26103},{"match":"dadoShelby","image_id":27318},{"match":"dadoBeard","image_id":26272},{"match":"dadoFire","image_id":27317},{"match":"dadoAxe","image_id":26379},{"match":"dadoZambie","image_id":29743},{"match":"dadoFarm","image_id":29742},{"match":"dadoAim","image_id":29741},{"match":"dadoSup","image_id":29778},{"match":"dadoWam","image_id":29784},{"match":"dadoGawd","image_id":35925},{"match":"dadoKappa","image_id":35919},{"match":"dadoBomb","image_id":35999},{"match":"dadoWat","image_id":36303}]}
+{
+  "name": "twitch-sub-puhdado",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dadoSuckit",
+      "image_id": 25704
+    },
+    {
+      "match": "dadoRekt",
+      "image_id": 26006
+    },
+    {
+      "match": "dadoHeyo",
+      "image_id": 25705
+    },
+    {
+      "match": "dadoStairs",
+      "image_id": 26064
+    },
+    {
+      "match": "dadoPotato",
+      "image_id": 25811
+    },
+    {
+      "match": "dadoBrush",
+      "image_id": 26103
+    },
+    {
+      "match": "dadoShelby",
+      "image_id": 27318
+    },
+    {
+      "match": "dadoBeard",
+      "image_id": 26272
+    },
+    {
+      "match": "dadoFire",
+      "image_id": 27317
+    },
+    {
+      "match": "dadoAxe",
+      "image_id": 26379
+    },
+    {
+      "match": "dadoZambie",
+      "image_id": 29743
+    },
+    {
+      "match": "dadoFarm",
+      "image_id": 29742
+    },
+    {
+      "match": "dadoAim",
+      "image_id": 29741
+    },
+    {
+      "match": "dadoSup",
+      "image_id": 29778
+    },
+    {
+      "match": "dadoWam",
+      "image_id": 29784
+    },
+    {
+      "match": "dadoGawd",
+      "image_id": 35925
+    },
+    {
+      "match": "dadoKappa",
+      "image_id": 35919
+    },
+    {
+      "match": "dadoBomb",
+      "image_id": 35999
+    },
+    {
+      "match": "dadoWat",
+      "image_id": 36303
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-darktwinge","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"twingeCheese","image_id":33090},{"match":"twingeHuzzah","image_id":11512},{"match":"twingePrivilege","image_id":13475},{"match":"twingeWhy","image_id":33487},{"match":"twingeLove","image_id":71851},{"match":"twingeJudge","image_id":86309}]}
+{
+  "name": "twitch-sub-darktwinge",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "twingeCheese",
+      "image_id": 33090
+    },
+    {
+      "match": "twingeHuzzah",
+      "image_id": 11512
+    },
+    {
+      "match": "twingeWhy",
+      "image_id": 33487
+    },
+    {
+      "match": "twingeLove",
+      "image_id": 71851
+    },
+    {
+      "match": "twingeJudge",
+      "image_id": 86309
+    },
+    {
+      "match": "twingeLies",
+      "image_id": 112342
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-therealarkadian","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"arkaRage","image_id":91165},{"match":"arkaSad","image_id":91166}]}
+{
+  "name": "twitch-sub-therealarkadian",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "arkaRage",
+      "image_id": 91165
+    },
+    {
+      "match": "arkaSad",
+      "image_id": 91166
+    }
+  ]
+}

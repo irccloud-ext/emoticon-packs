@@ -1,1 +1,31 @@
-{"name":"twitch-sub-buurstv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"buurstBONOBO","image_id":109666},{"match":"buurstRETARD","image_id":101777},{"match":"buurstSAD","image_id":101775},{"match":"buurstRAGE","image_id":101776},{"match":"buurstGIRL","image_id":101774},{"match":"buurstHYPE","image_id":109677}]}
+{
+  "name": "twitch-sub-buurstv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "buurstBONOBO",
+      "image_id": 109666
+    },
+    {
+      "match": "buurstRETARD",
+      "image_id": 101777
+    },
+    {
+      "match": "buurstSAD",
+      "image_id": 101775
+    },
+    {
+      "match": "buurstRAGE",
+      "image_id": 101776
+    },
+    {
+      "match": "buurstGIRL",
+      "image_id": 101774
+    },
+    {
+      "match": "buurstHYPE",
+      "image_id": 109677
+    }
+  ]
+}

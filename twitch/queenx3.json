@@ -1,1 +1,23 @@
-{"name":"twitch-sub-queenx3","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"queenx3Kappa","image_id":38690},{"match":"queenx3Egirl","image_id":59570},{"match":"queenx3ScissorCity","image_id":97040},{"match":"queenx3Scissor","image_id":97041}]}
+{
+  "name": "twitch-sub-queenx3",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "queenx3Kappa",
+      "image_id": 38690
+    },
+    {
+      "match": "queenx3Egirl",
+      "image_id": 59570
+    },
+    {
+      "match": "queenx3ScissorCity",
+      "image_id": 97040
+    },
+    {
+      "match": "queenx3Scissor",
+      "image_id": 97041
+    }
+  ]
+}

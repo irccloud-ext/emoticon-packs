@@ -1,1 +1,39 @@
-{"name":"twitch-sub-draegiya","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"draegiyaPika","image_id":49511},{"match":"draegiyaHype","image_id":40202},{"match":"draegiyaHolly","image_id":40241},{"match":"draegiyaFeels","image_id":41172},{"match":"draegiyaOnesie","image_id":43503},{"match":"draegiyaTen","image_id":43540},{"match":"draegiyaSprite","image_id":41171},{"match":"draegiyaClap","image_id":50798}]}
+{
+  "name": "twitch-sub-draegiya",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "draegiyaPika",
+      "image_id": 49511
+    },
+    {
+      "match": "draegiyaHype",
+      "image_id": 40202
+    },
+    {
+      "match": "draegiyaHolly",
+      "image_id": 40241
+    },
+    {
+      "match": "draegiyaFeels",
+      "image_id": 41172
+    },
+    {
+      "match": "draegiyaOnesie",
+      "image_id": 43503
+    },
+    {
+      "match": "draegiyaTen",
+      "image_id": 43540
+    },
+    {
+      "match": "draegiyaSprite",
+      "image_id": 41171
+    },
+    {
+      "match": "draegiyaClap",
+      "image_id": 50798
+    }
+  ]
+}

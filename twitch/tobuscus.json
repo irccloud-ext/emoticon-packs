@@ -1,1 +1,15 @@
-{"name":"twitch-sub-tobuscus","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"buscusMinotaur","image_id":14905},{"match":"buscusGryphon","image_id":14904}]}
+{
+  "name": "twitch-sub-tobuscus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "buscusMinotaur",
+      "image_id": 14905
+    },
+    {
+      "match": "buscusGryphon",
+      "image_id": 14904
+    }
+  ]
+}

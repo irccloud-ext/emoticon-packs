@@ -1,1 +1,23 @@
-{"name":"twitch-sub-radu_hs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rduCool","image_id":17579},{"match":"rduHi","image_id":18620},{"match":"rduRekt","image_id":20101},{"match":"rduW","image_id":56820}]}
+{
+  "name": "twitch-sub-radu_hs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rduCool",
+      "image_id": 17579
+    },
+    {
+      "match": "rduHi",
+      "image_id": 18620
+    },
+    {
+      "match": "rduRekt",
+      "image_id": 20101
+    },
+    {
+      "match": "rduW",
+      "image_id": 56820
+    }
+  ]
+}

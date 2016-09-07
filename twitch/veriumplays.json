@@ -1,1 +1,31 @@
-{"name":"twitch-sub-veriumplays","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"veriumKappa","image_id":95924},{"match":"veriumSchwitzt","image_id":39416},{"match":"veriumGeldgeil","image_id":39428},{"match":"veriumScammer","image_id":39430},{"match":"veriumSub","image_id":39422},{"match":"veriumKnife","image_id":52828}]}
+{
+  "name": "twitch-sub-veriumplays",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "veriumKappa",
+      "image_id": 95924
+    },
+    {
+      "match": "veriumSchwitzt",
+      "image_id": 39416
+    },
+    {
+      "match": "veriumGeldgeil",
+      "image_id": 39428
+    },
+    {
+      "match": "veriumScammer",
+      "image_id": 39430
+    },
+    {
+      "match": "veriumSub",
+      "image_id": 39422
+    },
+    {
+      "match": "veriumKnife",
+      "image_id": 52828
+    }
+  ]
+}

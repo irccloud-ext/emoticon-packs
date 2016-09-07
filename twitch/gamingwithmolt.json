@@ -1,1 +1,39 @@
-{"name":"twitch-sub-gamingwithmolt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"moltFace","image_id":19707},{"match":"moltGWM","image_id":19242},{"match":"moltCrush","image_id":19241},{"match":"moltGold","image_id":19794},{"match":"moltHype","image_id":20264},{"match":"moltAvatar","image_id":20496},{"match":"moltClutch","image_id":22011},{"match":"moltDorito","image_id":22012}]}
+{
+  "name": "twitch-sub-gamingwithmolt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "moltFace",
+      "image_id": 19707
+    },
+    {
+      "match": "moltGWM",
+      "image_id": 19242
+    },
+    {
+      "match": "moltCrush",
+      "image_id": 19241
+    },
+    {
+      "match": "moltGold",
+      "image_id": 19794
+    },
+    {
+      "match": "moltHype",
+      "image_id": 20264
+    },
+    {
+      "match": "moltAvatar",
+      "image_id": 20496
+    },
+    {
+      "match": "moltClutch",
+      "image_id": 22011
+    },
+    {
+      "match": "moltDorito",
+      "image_id": 22012
+    }
+  ]
+}

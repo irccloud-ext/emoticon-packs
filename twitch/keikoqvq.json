@@ -1,1 +1,23 @@
-{"name":"twitch-sub-keikoqvq","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"keikoOmg","image_id":88369},{"match":"keikoCorgi","image_id":82729},{"match":"keikoLove","image_id":87352},{"match":"keikoHi","image_id":87361}]}
+{
+  "name": "twitch-sub-keikoqvq",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "keikoOmg",
+      "image_id": 88369
+    },
+    {
+      "match": "keikoCorgi",
+      "image_id": 82729
+    },
+    {
+      "match": "keikoLove",
+      "image_id": 87352
+    },
+    {
+      "match": "keikoHi",
+      "image_id": 87361
+    }
+  ]
+}

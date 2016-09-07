@@ -1,1 +1,39 @@
-{"name":"twitch-sub-minecraftwb","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lucMCPoopmouth","image_id":1733},{"match":"lucWildLuc","image_id":1734},{"match":"lucFamilyStrong","image_id":1762},{"match":"lucTickle","image_id":7219},{"match":"lucOhhh","image_id":7221},{"match":"lucDGAF","image_id":7220},{"match":"lucMLOMG","image_id":7414},{"match":"lucLucky","image_id":7411}]}
+{
+  "name": "twitch-sub-minecraftwb",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lucMCPoopmouth",
+      "image_id": 1733
+    },
+    {
+      "match": "lucWildLuc",
+      "image_id": 1734
+    },
+    {
+      "match": "lucFamilyStrong",
+      "image_id": 1762
+    },
+    {
+      "match": "lucTickle",
+      "image_id": 7219
+    },
+    {
+      "match": "lucOhhh",
+      "image_id": 7221
+    },
+    {
+      "match": "lucDGAF",
+      "image_id": 7220
+    },
+    {
+      "match": "lucMLOMG",
+      "image_id": 7414
+    },
+    {
+      "match": "lucLucky",
+      "image_id": 7411
+    }
+  ]
+}

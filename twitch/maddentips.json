@@ -1,1 +1,35 @@
-{"name":"twitch-sub-maddentips","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mt44QF","image_id":35963},{"match":"mt4Sack","image_id":35964},{"match":"mt4Kobe","image_id":35962},{"match":"mt4RP","image_id":35961},{"match":"mt4Pretz","image_id":35985},{"match":"mt4Sub","image_id":77820},{"match":"mt4Lab","image_id":86631}]}
+{
+  "name": "twitch-sub-maddentips",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mt44QF",
+      "image_id": 35963
+    },
+    {
+      "match": "mt4Sack",
+      "image_id": 35964
+    },
+    {
+      "match": "mt4Kobe",
+      "image_id": 35962
+    },
+    {
+      "match": "mt4RP",
+      "image_id": 35961
+    },
+    {
+      "match": "mt4Pretz",
+      "image_id": 35985
+    },
+    {
+      "match": "mt4Sub",
+      "image_id": 77820
+    },
+    {
+      "match": "mt4Lab",
+      "image_id": 86631
+    }
+  ]
+}

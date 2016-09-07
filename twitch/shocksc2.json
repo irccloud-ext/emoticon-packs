@@ -1,1 +1,15 @@
-{"name":"twitch-sub-shocksc2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shockEd2","image_id":19299},{"match":"shockThumb","image_id":19301}]}
+{
+  "name": "twitch-sub-shocksc2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shockEd2",
+      "image_id": 19299
+    },
+    {
+      "match": "shockThumb",
+      "image_id": 19301
+    }
+  ]
+}

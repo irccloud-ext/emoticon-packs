@@ -1,1 +1,39 @@
-{"name":"twitch-sub-striker","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nerdNERD","image_id":17553},{"match":"nerdSerious","image_id":17811},{"match":"nerdSerenade","image_id":17809},{"match":"nerdCHEEZITS","image_id":19142},{"match":"nerdYubNub","image_id":19173},{"match":"nerdKiller","image_id":59804},{"match":"nerdMFW","image_id":76234},{"match":"nerdMeesaSith","image_id":76994}]}
+{
+  "name": "twitch-sub-striker",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nerdNERD",
+      "image_id": 17553
+    },
+    {
+      "match": "nerdSerious",
+      "image_id": 17811
+    },
+    {
+      "match": "nerdSerenade",
+      "image_id": 17809
+    },
+    {
+      "match": "nerdCHEEZITS",
+      "image_id": 19142
+    },
+    {
+      "match": "nerdYubNub",
+      "image_id": 19173
+    },
+    {
+      "match": "nerdKiller",
+      "image_id": 59804
+    },
+    {
+      "match": "nerdMFW",
+      "image_id": 76234
+    },
+    {
+      "match": "nerdMeesaSith",
+      "image_id": 76994
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-{"name":"twitch-sub-exserv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"exsPraise","image_id":21803},{"match":"exsApproved","image_id":21843},{"match":"exs1hp","image_id":22182},{"match":"exsOzis","image_id":22183},{"match":"exsFail","image_id":22503}]}
+{
+  "name": "twitch-sub-exserv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "exsPraise",
+      "image_id": 21803
+    },
+    {
+      "match": "exsApproved",
+      "image_id": 21843
+    },
+    {
+      "match": "exs1hp",
+      "image_id": 22182
+    },
+    {
+      "match": "exsOzis",
+      "image_id": 22183
+    },
+    {
+      "match": "exsFail",
+      "image_id": 22503
+    }
+  ]
+}

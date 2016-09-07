@@ -1,1 +1,35 @@
-{"name":"twitch-sub-robertocein","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ezceinFacepalm","image_id":103658},{"match":"ezceinHype","image_id":104757},{"match":"ezceinXRay","image_id":103499},{"match":"ezceinLauraSad","image_id":106732},{"match":"ezceinParfavar","image_id":106728},{"match":"ezceinSad","image_id":108488}]}
+{
+  "name": "twitch-sub-robertocein",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ezceinXRay",
+      "image_id": 103499
+    },
+    {
+      "match": "ezceinLauraSad",
+      "image_id": 106732
+    },
+    {
+      "match": "ezceinParfavar",
+      "image_id": 106728
+    },
+    {
+      "match": "ezceinSad",
+      "image_id": 108488
+    },
+    {
+      "match": "ezceinFacepalm",
+      "image_id": 112339
+    },
+    {
+      "match": "ezceinHype",
+      "image_id": 112340
+    },
+    {
+      "match": "ezceinOmg",
+      "image_id": 112341
+    }
+  ]
+}

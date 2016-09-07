@@ -1,1 +1,31 @@
-{"name":"twitch-sub-nealoliver88","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nealBINGO","image_id":103779},{"match":"nealTILT","image_id":103777},{"match":"nealCHOO","image_id":92328},{"match":"nealBAG","image_id":92316},{"match":"nealJOKER","image_id":93388},{"match":"nealGAS","image_id":93393}]}
+{
+  "name": "twitch-sub-nealoliver88",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nealBINGO",
+      "image_id": 103779
+    },
+    {
+      "match": "nealTILT",
+      "image_id": 103777
+    },
+    {
+      "match": "nealCHOO",
+      "image_id": 92328
+    },
+    {
+      "match": "nealBAG",
+      "image_id": 92316
+    },
+    {
+      "match": "nealJOKER",
+      "image_id": 93388
+    },
+    {
+      "match": "nealGAS",
+      "image_id": 93393
+    }
+  ]
+}

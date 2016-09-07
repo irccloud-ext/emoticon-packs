@@ -1,1 +1,23 @@
-{"name":"twitch-sub-brokenthumbstv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bttvMANUEL","image_id":53681},{"match":"bttvBienchen","image_id":59700},{"match":"bttvLWNKND","image_id":59701},{"match":"bttvMALTE","image_id":85782}]}
+{
+  "name": "twitch-sub-brokenthumbstv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bttvMANUEL",
+      "image_id": 53681
+    },
+    {
+      "match": "bttvBienchen",
+      "image_id": 59700
+    },
+    {
+      "match": "bttvLWNKND",
+      "image_id": 59701
+    },
+    {
+      "match": "bttvMALTE",
+      "image_id": 85782
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-messiah_tr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"messiahBye","image_id":45176},{"match":"messiahBeg","image_id":56034},{"match":"messiahImagine","image_id":103393},{"match":"messiahHype","image_id":103395},{"match":"messiahLove","image_id":103397},{"match":"messiahNoway","image_id":103398},{"match":"messiahCoffee","image_id":103396},{"match":"messiahGG","image_id":103394}]}
+{
+  "name": "twitch-sub-messiah_tr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "messiahBye",
+      "image_id": 45176
+    },
+    {
+      "match": "messiahBeg",
+      "image_id": 56034
+    },
+    {
+      "match": "messiahImagine",
+      "image_id": 103393
+    },
+    {
+      "match": "messiahHype",
+      "image_id": 103395
+    },
+    {
+      "match": "messiahLove",
+      "image_id": 103397
+    },
+    {
+      "match": "messiahNoway",
+      "image_id": 103398
+    },
+    {
+      "match": "messiahCoffee",
+      "image_id": 103396
+    },
+    {
+      "match": "messiahGG",
+      "image_id": 103394
+    }
+  ]
+}

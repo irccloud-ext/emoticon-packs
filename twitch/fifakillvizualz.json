@@ -1,1 +1,31 @@
-{"name":"twitch-sub-fifakillvizualz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fifakillPacifier","image_id":98154},{"match":"fifakillHundredplus","image_id":98155},{"match":"fifakillSoccerball","image_id":98156},{"match":"fifakillHype","image_id":99755},{"match":"fifakillBisq","image_id":99754},{"match":"fifakillNuke","image_id":100005}]}
+{
+  "name": "twitch-sub-fifakillvizualz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fifakillPacifier",
+      "image_id": 98154
+    },
+    {
+      "match": "fifakillHundredplus",
+      "image_id": 98155
+    },
+    {
+      "match": "fifakillSoccerball",
+      "image_id": 98156
+    },
+    {
+      "match": "fifakillHype",
+      "image_id": 99755
+    },
+    {
+      "match": "fifakillBisq",
+      "image_id": 99754
+    },
+    {
+      "match": "fifakillNuke",
+      "image_id": 100005
+    }
+  ]
+}

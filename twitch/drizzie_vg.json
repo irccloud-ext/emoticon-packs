@@ -1,1 +1,31 @@
-{"name":"twitch-sub-drizzie_vg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"drizzieChair","image_id":99085},{"match":"drizzieJam","image_id":94705},{"match":"drizzieGeeg","image_id":95468},{"match":"drizzieLove","image_id":95424},{"match":"drizzieBodied","image_id":98843},{"match":"drizzieRIP","image_id":98842}]}
+{
+  "name": "twitch-sub-drizzie_vg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "drizzieChair",
+      "image_id": 99085
+    },
+    {
+      "match": "drizzieJam",
+      "image_id": 94705
+    },
+    {
+      "match": "drizzieGeeg",
+      "image_id": 95468
+    },
+    {
+      "match": "drizzieLove",
+      "image_id": 95424
+    },
+    {
+      "match": "drizzieBodied",
+      "image_id": 98843
+    },
+    {
+      "match": "drizzieRIP",
+      "image_id": 98842
+    }
+  ]
+}

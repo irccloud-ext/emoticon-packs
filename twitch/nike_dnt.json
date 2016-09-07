@@ -1,1 +1,31 @@
-{"name":"twitch-sub-nike_dnt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nikeBHB","image_id":46284},{"match":"nikeMacho","image_id":46283},{"match":"nikeHelmet","image_id":46695},{"match":"nikeColesy","image_id":46696},{"match":"nikeBrazil","image_id":46211},{"match":"nikeDNT","image_id":46210}]}
+{
+  "name": "twitch-sub-nike_dnt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nikeBHB",
+      "image_id": 46284
+    },
+    {
+      "match": "nikeMacho",
+      "image_id": 46283
+    },
+    {
+      "match": "nikeHelmet",
+      "image_id": 46695
+    },
+    {
+      "match": "nikeColesy",
+      "image_id": 46696
+    },
+    {
+      "match": "nikeBrazil",
+      "image_id": 46211
+    },
+    {
+      "match": "nikeDNT",
+      "image_id": 46210
+    }
+  ]
+}

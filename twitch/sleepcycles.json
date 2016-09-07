@@ -1,1 +1,39 @@
-{"name":"twitch-sub-sleepcycles","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tamLewd","image_id":72803},{"match":"tamSolid","image_id":47291},{"match":"tamLove","image_id":104993},{"match":"tamLUL","image_id":104992},{"match":"tam69","image_id":104991},{"match":"tamChamp","image_id":104990},{"match":"tamHi","image_id":105284},{"match":"tamThump","image_id":105283}]}
+{
+  "name": "twitch-sub-sleepcycles",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tamLewd",
+      "image_id": 72803
+    },
+    {
+      "match": "tamSolid",
+      "image_id": 47291
+    },
+    {
+      "match": "tamLove",
+      "image_id": 104993
+    },
+    {
+      "match": "tamLUL",
+      "image_id": 104992
+    },
+    {
+      "match": "tam69",
+      "image_id": 104991
+    },
+    {
+      "match": "tamChamp",
+      "image_id": 104990
+    },
+    {
+      "match": "tamHi",
+      "image_id": 105284
+    },
+    {
+      "match": "tamThump",
+      "image_id": 105283
+    }
+  ]
+}

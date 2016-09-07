@@ -1,1 +1,47 @@
-{"name":"twitch-sub-mamiko","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mamikoSub","image_id":70177},{"match":"mamikoWarzywo","image_id":70178},{"match":"mamikoZonk","image_id":70179},{"match":"mamikoSushi","image_id":71335},{"match":"mamikoDonejty","image_id":70780},{"match":"mamikoYoko","image_id":70781},{"match":"mamikoKwadrans","image_id":72987},{"match":"mamikoKrzeslo","image_id":76563},{"match":"mamikoRip","image_id":79636},{"match":"mamikoYolo","image_id":79637}]}
+{
+  "name": "twitch-sub-mamiko",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mamikoSub",
+      "image_id": 70177
+    },
+    {
+      "match": "mamikoWarzywo",
+      "image_id": 70178
+    },
+    {
+      "match": "mamikoZonk",
+      "image_id": 70179
+    },
+    {
+      "match": "mamikoSushi",
+      "image_id": 71335
+    },
+    {
+      "match": "mamikoDonejty",
+      "image_id": 70780
+    },
+    {
+      "match": "mamikoYoko",
+      "image_id": 70781
+    },
+    {
+      "match": "mamikoKwadrans",
+      "image_id": 72987
+    },
+    {
+      "match": "mamikoKrzeslo",
+      "image_id": 76563
+    },
+    {
+      "match": "mamikoRip",
+      "image_id": 79636
+    },
+    {
+      "match": "mamikoYolo",
+      "image_id": 79637
+    }
+  ]
+}

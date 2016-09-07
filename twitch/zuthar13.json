@@ -1,1 +1,31 @@
-{"name":"twitch-sub-zuthar13","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zutharAngryBearYo","image_id":30770},{"match":"zutharRDM","image_id":80032},{"match":"zutharNLR","image_id":80033},{"match":"zutharD","image_id":80034},{"match":"zutharZuzu","image_id":78485},{"match":"zutharHeckya","image_id":78484}]}
+{
+  "name": "twitch-sub-zuthar13",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zutharAngryBearYo",
+      "image_id": 30770
+    },
+    {
+      "match": "zutharRDM",
+      "image_id": 80032
+    },
+    {
+      "match": "zutharNLR",
+      "image_id": 80033
+    },
+    {
+      "match": "zutharD",
+      "image_id": 80034
+    },
+    {
+      "match": "zutharZuzu",
+      "image_id": 78485
+    },
+    {
+      "match": "zutharHeckya",
+      "image_id": 78484
+    }
+  ]
+}

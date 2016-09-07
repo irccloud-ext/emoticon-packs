@@ -1,1 +1,15 @@
-{"name":"twitch-sub-tiffyxy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tiffyLlama","image_id":5928},{"match":"tiffyTiffy","image_id":6276}]}
+{
+  "name": "twitch-sub-tiffyxy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tiffyLlama",
+      "image_id": 5928
+    },
+    {
+      "match": "tiffyTiffy",
+      "image_id": 6276
+    }
+  ]
+}

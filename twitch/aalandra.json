@@ -1,1 +1,39 @@
-{"name":"twitch-sub-aalandra","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aalandraDamn","image_id":71974},{"match":"aalandraFirm","image_id":71967},{"match":"aalandraButt","image_id":104792},{"match":"aalandraWine","image_id":66762},{"match":"aalandraLipbite","image_id":66764},{"match":"aalandraHype","image_id":67433},{"match":"aalandraBye","image_id":67466},{"match":"aalandraNade","image_id":73723}]}
+{
+  "name": "twitch-sub-aalandra",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aalandraDamn",
+      "image_id": 71974
+    },
+    {
+      "match": "aalandraFirm",
+      "image_id": 71967
+    },
+    {
+      "match": "aalandraButt",
+      "image_id": 104792
+    },
+    {
+      "match": "aalandraWine",
+      "image_id": 66762
+    },
+    {
+      "match": "aalandraLipbite",
+      "image_id": 66764
+    },
+    {
+      "match": "aalandraHype",
+      "image_id": 67433
+    },
+    {
+      "match": "aalandraBye",
+      "image_id": 67466
+    },
+    {
+      "match": "aalandraNade",
+      "image_id": 73723
+    }
+  ]
+}

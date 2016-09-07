@@ -1,1 +1,15 @@
-{"name":"twitch-sub-ndtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ndgGfkng","image_id":10836},{"match":"ndgNdg","image_id":10838}]}
+{
+  "name": "twitch-sub-ndtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ndgGfkng",
+      "image_id": 10836
+    },
+    {
+      "match": "ndgNdg",
+      "image_id": 10838
+    }
+  ]
+}

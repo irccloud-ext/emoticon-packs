@@ -1,1 +1,23 @@
-{"name":"twitch-sub-moonlol1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"moon1Spear","image_id":81279},{"match":"moon1Thump","image_id":80314},{"match":"moon1W","image_id":95600},{"match":"moon1L","image_id":96131}]}
+{
+  "name": "twitch-sub-moonlol1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "moon1Spear",
+      "image_id": 81279
+    },
+    {
+      "match": "moon1Thump",
+      "image_id": 80314
+    },
+    {
+      "match": "moon1W",
+      "image_id": 95600
+    },
+    {
+      "match": "moon1L",
+      "image_id": 96131
+    }
+  ]
+}

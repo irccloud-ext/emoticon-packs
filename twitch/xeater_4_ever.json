@@ -1,1 +1,19 @@
-{"name":"twitch-sub-xeater_4_ever","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xeaterBOB","image_id":77258},{"match":"xeaterCOOL","image_id":72009},{"match":"xeaterCRL","image_id":74305}]}
+{
+  "name": "twitch-sub-xeater_4_ever",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xeaterBOB",
+      "image_id": 77258
+    },
+    {
+      "match": "xeaterCOOL",
+      "image_id": 72009
+    },
+    {
+      "match": "xeaterCRL",
+      "image_id": 74305
+    }
+  ]
+}

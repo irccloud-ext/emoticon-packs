@@ -1,1 +1,39 @@
-{"name":"twitch-sub-norajbbq","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nbbqAIGRI","image_id":76947},{"match":"nbbqCD","image_id":55959},{"match":"nbbqBIZ","image_id":56373},{"match":"nbbqAZY","image_id":56209},{"match":"nbbqLIEFT","image_id":55966},{"match":"nbbqDUPER","image_id":56062},{"match":"nbbqHMF","image_id":55793},{"match":"nbbqKappa","image_id":77162}]}
+{
+  "name": "twitch-sub-norajbbq",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nbbqAIGRI",
+      "image_id": 76947
+    },
+    {
+      "match": "nbbqCD",
+      "image_id": 55959
+    },
+    {
+      "match": "nbbqBIZ",
+      "image_id": 56373
+    },
+    {
+      "match": "nbbqAZY",
+      "image_id": 56209
+    },
+    {
+      "match": "nbbqLIEFT",
+      "image_id": 55966
+    },
+    {
+      "match": "nbbqDUPER",
+      "image_id": 56062
+    },
+    {
+      "match": "nbbqHMF",
+      "image_id": 55793
+    },
+    {
+      "match": "nbbqKappa",
+      "image_id": 77162
+    }
+  ]
+}

@@ -1,1 +1,67 @@
-{"name":"twitch-sub-tessachka","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tessLove","image_id":14868},{"match":"tessWAVE","image_id":49001},{"match":"tessRIP","image_id":39875},{"match":"tessLost","image_id":40635},{"match":"tessWIN","image_id":45813},{"match":"tessPLS","image_id":44985},{"match":"tessFOCUS","image_id":49899},{"match":"tessDERP","image_id":49901},{"match":"tessHUG","image_id":49902},{"match":"tessLURK","image_id":81718},{"match":"tessHYPE","image_id":104791},{"match":"tessZEN","image_id":104718},{"match":"tessOMG","image_id":80963},{"match":"tessFAIL","image_id":80965},{"match":"tessB","image_id":107753}]}
+{
+  "name": "twitch-sub-tessachka",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tessLove",
+      "image_id": 14868
+    },
+    {
+      "match": "tessWAVE",
+      "image_id": 49001
+    },
+    {
+      "match": "tessRIP",
+      "image_id": 39875
+    },
+    {
+      "match": "tessLost",
+      "image_id": 40635
+    },
+    {
+      "match": "tessWIN",
+      "image_id": 45813
+    },
+    {
+      "match": "tessPLS",
+      "image_id": 44985
+    },
+    {
+      "match": "tessFOCUS",
+      "image_id": 49899
+    },
+    {
+      "match": "tessDERP",
+      "image_id": 49901
+    },
+    {
+      "match": "tessHUG",
+      "image_id": 49902
+    },
+    {
+      "match": "tessLURK",
+      "image_id": 81718
+    },
+    {
+      "match": "tessHYPE",
+      "image_id": 104791
+    },
+    {
+      "match": "tessZEN",
+      "image_id": 104718
+    },
+    {
+      "match": "tessOMG",
+      "image_id": 80963
+    },
+    {
+      "match": "tessFAIL",
+      "image_id": 80965
+    },
+    {
+      "match": "tessB",
+      "image_id": 107753
+    }
+  ]
+}

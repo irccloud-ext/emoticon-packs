@@ -1,1 +1,35 @@
-{"name":"twitch-sub-shing37","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shingGasm","image_id":4326},{"match":"shingGrin","image_id":4372},{"match":"shingBarbie","image_id":19246},{"match":"shingLag","image_id":21616},{"match":"shingWink","image_id":27164},{"match":"shingOut","image_id":25926},{"match":"shingW","image_id":39807}]}
+{
+  "name": "twitch-sub-shing37",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shingGasm",
+      "image_id": 4326
+    },
+    {
+      "match": "shingGrin",
+      "image_id": 4372
+    },
+    {
+      "match": "shingBarbie",
+      "image_id": 19246
+    },
+    {
+      "match": "shingLag",
+      "image_id": 21616
+    },
+    {
+      "match": "shingWink",
+      "image_id": 27164
+    },
+    {
+      "match": "shingOut",
+      "image_id": 25926
+    },
+    {
+      "match": "shingW",
+      "image_id": 39807
+    }
+  ]
+}

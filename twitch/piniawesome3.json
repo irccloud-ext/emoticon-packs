@@ -1,1 +1,15 @@
-{"name":"twitch-sub-piniawesome3","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"piniwLove","image_id":52951},{"match":"piniwKappa","image_id":63425}]}
+{
+  "name": "twitch-sub-piniawesome3",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "piniwLove",
+      "image_id": 52951
+    },
+    {
+      "match": "piniwKappa",
+      "image_id": 63425
+    }
+  ]
+}

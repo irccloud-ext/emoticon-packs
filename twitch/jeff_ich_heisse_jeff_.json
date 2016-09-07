@@ -1,1 +1,47 @@
-{"name":"twitch-sub-jeff_ich_heisse_jeff_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jefLOVE","image_id":64974},{"match":"jefJEF","image_id":36550},{"match":"jefYOLO","image_id":36552},{"match":"jefTOM","image_id":37827},{"match":"jefHYPE","image_id":39950},{"match":"jefCRY","image_id":45742},{"match":"jefHI","image_id":45850},{"match":"jefMONEY","image_id":48311},{"match":"jefMAD","image_id":48264},{"match":"jefLOSE","image_id":65015}]}
+{
+  "name": "twitch-sub-jeff_ich_heisse_jeff_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jefLOVE",
+      "image_id": 64974
+    },
+    {
+      "match": "jefJEF",
+      "image_id": 36550
+    },
+    {
+      "match": "jefYOLO",
+      "image_id": 36552
+    },
+    {
+      "match": "jefTOM",
+      "image_id": 37827
+    },
+    {
+      "match": "jefHYPE",
+      "image_id": 39950
+    },
+    {
+      "match": "jefCRY",
+      "image_id": 45742
+    },
+    {
+      "match": "jefHI",
+      "image_id": 45850
+    },
+    {
+      "match": "jefMONEY",
+      "image_id": 48311
+    },
+    {
+      "match": "jefMAD",
+      "image_id": 48264
+    },
+    {
+      "match": "jefLOSE",
+      "image_id": 65015
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-batyatv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"batyaKappa","image_id":104442},{"match":"batyaBoosted","image_id":106497},{"match":"batyaPipipi","image_id":106588},{"match":"batyaCacner","image_id":107831}]}
+{
+  "name": "twitch-sub-batyatv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "batyaKappa",
+      "image_id": 104442
+    },
+    {
+      "match": "batyaBoosted",
+      "image_id": 106497
+    },
+    {
+      "match": "batyaPipipi",
+      "image_id": 106588
+    },
+    {
+      "match": "batyaCacner",
+      "image_id": 107831
+    }
+  ]
+}

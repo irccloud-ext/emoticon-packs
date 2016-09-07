@@ -1,1 +1,23 @@
-{"name":"twitch-sub-mrhocku","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"s13Sad","image_id":104378},{"match":"s13Grr","image_id":104044},{"match":"s13Omg","image_id":104043},{"match":"s13Lol","image_id":104375}]}
+{
+  "name": "twitch-sub-mrhocku",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "s13Sad",
+      "image_id": 104378
+    },
+    {
+      "match": "s13Grr",
+      "image_id": 104044
+    },
+    {
+      "match": "s13Omg",
+      "image_id": 104043
+    },
+    {
+      "match": "s13Lol",
+      "image_id": 104375
+    }
+  ]
+}

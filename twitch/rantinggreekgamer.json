@@ -1,1 +1,15 @@
-{"name":"twitch-sub-rantinggreekgamer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"titanAkrida2","image_id":110108},{"match":"titanTitan","image_id":110791}]}
+{
+  "name": "twitch-sub-rantinggreekgamer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "titanAkrida2",
+      "image_id": 110108
+    },
+    {
+      "match": "titanTitan",
+      "image_id": 110791
+    }
+  ]
+}

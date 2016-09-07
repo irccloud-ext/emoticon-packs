@@ -1,1 +1,87 @@
-{"name":"twitch-sub-chinglishtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chingAus","image_id":1345},{"match":"chingPanda","image_id":1348},{"match":"chingHero","image_id":105888},{"match":"chingSad","image_id":75764},{"match":"chingDerp","image_id":57156},{"match":"chingTgi","image_id":19985},{"match":"chingBday","image_id":64642},{"match":"chingWool","image_id":65976},{"match":"chingHype","image_id":54769},{"match":"chingBinbash","image_id":54770},{"match":"chingA","image_id":102204},{"match":"chingLurk","image_id":75761},{"match":"chingRage","image_id":75768},{"match":"chingLove","image_id":75769},{"match":"chingHey","image_id":85016},{"match":"chingDad","image_id":100526},{"match":"chingD","image_id":105887},{"match":"chingGg","image_id":101637},{"match":"chingSumo","image_id":100409},{"match":"chingMum","image_id":100414}]}
+{
+  "name": "twitch-sub-chinglishtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chingAus",
+      "image_id": 1345
+    },
+    {
+      "match": "chingPanda",
+      "image_id": 1348
+    },
+    {
+      "match": "chingHero",
+      "image_id": 105888
+    },
+    {
+      "match": "chingSad",
+      "image_id": 75764
+    },
+    {
+      "match": "chingDerp",
+      "image_id": 57156
+    },
+    {
+      "match": "chingTgi",
+      "image_id": 19985
+    },
+    {
+      "match": "chingBday",
+      "image_id": 64642
+    },
+    {
+      "match": "chingWool",
+      "image_id": 65976
+    },
+    {
+      "match": "chingHype",
+      "image_id": 54769
+    },
+    {
+      "match": "chingBinbash",
+      "image_id": 54770
+    },
+    {
+      "match": "chingA",
+      "image_id": 102204
+    },
+    {
+      "match": "chingLurk",
+      "image_id": 75761
+    },
+    {
+      "match": "chingRage",
+      "image_id": 75768
+    },
+    {
+      "match": "chingLove",
+      "image_id": 75769
+    },
+    {
+      "match": "chingHey",
+      "image_id": 85016
+    },
+    {
+      "match": "chingDad",
+      "image_id": 100526
+    },
+    {
+      "match": "chingD",
+      "image_id": 105887
+    },
+    {
+      "match": "chingGg",
+      "image_id": 101637
+    },
+    {
+      "match": "chingSumo",
+      "image_id": 100409
+    },
+    {
+      "match": "chingMum",
+      "image_id": 100414
+    }
+  ]
+}

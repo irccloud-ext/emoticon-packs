@@ -1,1 +1,39 @@
-{"name":"twitch-sub-kronicsauce","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kronMLG","image_id":68032},{"match":"kronCheese","image_id":68510},{"match":"kronHYPE","image_id":68670},{"match":"kronTroll","image_id":68107},{"match":"kronHey","image_id":83895},{"match":"kronTrash","image_id":69548},{"match":"kronRNG","image_id":82610},{"match":"kronREKT","image_id":81125}]}
+{
+  "name": "twitch-sub-kronicsauce",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kronMLG",
+      "image_id": 68032
+    },
+    {
+      "match": "kronCheese",
+      "image_id": 68510
+    },
+    {
+      "match": "kronHYPE",
+      "image_id": 68670
+    },
+    {
+      "match": "kronTroll",
+      "image_id": 68107
+    },
+    {
+      "match": "kronHey",
+      "image_id": 83895
+    },
+    {
+      "match": "kronTrash",
+      "image_id": 69548
+    },
+    {
+      "match": "kronRNG",
+      "image_id": 82610
+    },
+    {
+      "match": "kronREKT",
+      "image_id": 81125
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-semulin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"semFail","image_id":99027},{"match":"semDutch","image_id":99026},{"match":"semHi","image_id":99025},{"match":"semBarf","image_id":99024},{"match":"semGoat","image_id":99022},{"match":"semGhost","image_id":99021}]}
+{
+  "name": "twitch-sub-semulin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "semFail",
+      "image_id": 99027
+    },
+    {
+      "match": "semDutch",
+      "image_id": 99026
+    },
+    {
+      "match": "semHi",
+      "image_id": 99025
+    },
+    {
+      "match": "semBarf",
+      "image_id": 99024
+    },
+    {
+      "match": "semGoat",
+      "image_id": 99022
+    },
+    {
+      "match": "semGhost",
+      "image_id": 99021
+    }
+  ]
+}

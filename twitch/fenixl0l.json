@@ -1,1 +1,23 @@
-{"name":"twitch-sub-fenixl0l","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tlfenixW","image_id":58026},{"match":"tlfenixCod","image_id":59752},{"match":"tlfenixGrey","image_id":60551},{"match":"tlfenixD","image_id":60445}]}
+{
+  "name": "twitch-sub-fenixl0l",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tlfenixW",
+      "image_id": 58026
+    },
+    {
+      "match": "tlfenixCod",
+      "image_id": 59752
+    },
+    {
+      "match": "tlfenixGrey",
+      "image_id": 60551
+    },
+    {
+      "match": "tlfenixD",
+      "image_id": 60445
+    }
+  ]
+}

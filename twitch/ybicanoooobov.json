@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ybicanoooobov","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ybnZaika","image_id":100447},{"match":"ybnPiy","image_id":100446},{"match":"ybnTinker","image_id":100541},{"match":"ybnRampage","image_id":100901},{"match":"ybnHype","image_id":100902},{"match":"ybnInvoker","image_id":100903}]}
+{
+  "name": "twitch-sub-ybicanoooobov",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ybnZaika",
+      "image_id": 100447
+    },
+    {
+      "match": "ybnPiy",
+      "image_id": 100446
+    },
+    {
+      "match": "ybnTinker",
+      "image_id": 100541
+    },
+    {
+      "match": "ybnRampage",
+      "image_id": 100901
+    },
+    {
+      "match": "ybnHype",
+      "image_id": 100902
+    },
+    {
+      "match": "ybnInvoker",
+      "image_id": 100903
+    }
+  ]
+}

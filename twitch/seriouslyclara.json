@@ -1,1 +1,47 @@
-{"name":"twitch-sub-seriouslyclara","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"claraLOL","image_id":99806},{"match":"claraNOM","image_id":99807},{"match":"claraLOVE","image_id":80011},{"match":"claraOMG","image_id":88326},{"match":"claraTEN","image_id":95176},{"match":"claraWAVE","image_id":95177},{"match":"claraHYPE","image_id":108209},{"match":"claraRIP","image_id":108210},{"match":"claraSTARE","image_id":108211},{"match":"claraBLUSH","image_id":108278}]}
+{
+  "name": "twitch-sub-seriouslyclara",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "claraLOL",
+      "image_id": 99806
+    },
+    {
+      "match": "claraNOM",
+      "image_id": 99807
+    },
+    {
+      "match": "claraLOVE",
+      "image_id": 80011
+    },
+    {
+      "match": "claraOMG",
+      "image_id": 88326
+    },
+    {
+      "match": "claraTEN",
+      "image_id": 95176
+    },
+    {
+      "match": "claraWAVE",
+      "image_id": 95177
+    },
+    {
+      "match": "claraHYPE",
+      "image_id": 108209
+    },
+    {
+      "match": "claraRIP",
+      "image_id": 108210
+    },
+    {
+      "match": "claraSTARE",
+      "image_id": 108211
+    },
+    {
+      "match": "claraBLUSH",
+      "image_id": 108278
+    }
+  ]
+}

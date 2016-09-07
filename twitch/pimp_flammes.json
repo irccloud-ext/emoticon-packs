@@ -1,1 +1,23 @@
-{"name":"twitch-sub-pimp_flammes","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sabroMario","image_id":76527},{"match":"sabroGasm","image_id":80177},{"match":"sabroRIP","image_id":80181},{"match":"sabroCam","image_id":76411}]}
+{
+  "name": "twitch-sub-pimp_flammes",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sabroMario",
+      "image_id": 76527
+    },
+    {
+      "match": "sabroGasm",
+      "image_id": 80177
+    },
+    {
+      "match": "sabroRIP",
+      "image_id": 80181
+    },
+    {
+      "match": "sabroCam",
+      "image_id": 76411
+    }
+  ]
+}

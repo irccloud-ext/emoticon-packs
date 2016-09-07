@@ -1,1 +1,39 @@
-{"name":"twitch-sub-zoomaa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zoomaaFace","image_id":77485},{"match":"zoomaaItslit","image_id":77483},{"match":"zoomaaFlank","image_id":77597},{"match":"zoomaaGG","image_id":107938},{"match":"zoomaaBada","image_id":107564},{"match":"zoomaaSubHype","image_id":107939},{"match":"zoomaaDog","image_id":107565},{"match":"zoomaaGoodVibes","image_id":107637}]}
+{
+  "name": "twitch-sub-zoomaa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zoomaaFace",
+      "image_id": 77485
+    },
+    {
+      "match": "zoomaaItslit",
+      "image_id": 77483
+    },
+    {
+      "match": "zoomaaFlank",
+      "image_id": 77597
+    },
+    {
+      "match": "zoomaaGG",
+      "image_id": 107938
+    },
+    {
+      "match": "zoomaaBada",
+      "image_id": 107564
+    },
+    {
+      "match": "zoomaaSubHype",
+      "image_id": 107939
+    },
+    {
+      "match": "zoomaaDog",
+      "image_id": 107565
+    },
+    {
+      "match": "zoomaaGoodVibes",
+      "image_id": 107637
+    }
+  ]
+}

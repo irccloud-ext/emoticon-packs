@@ -1,1 +1,23 @@
-{"name":"twitch-sub-basickz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"baseKappaG","image_id":62716},{"match":"baseGenji","image_id":102279},{"match":"base76","image_id":102280},{"match":"basePotg","image_id":102286}]}
+{
+  "name": "twitch-sub-basickz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "baseKappaG",
+      "image_id": 62716
+    },
+    {
+      "match": "baseGenji",
+      "image_id": 102279
+    },
+    {
+      "match": "base76",
+      "image_id": 102280
+    },
+    {
+      "match": "basePotg",
+      "image_id": 102286
+    }
+  ]
+}

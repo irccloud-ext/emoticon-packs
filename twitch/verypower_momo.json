@@ -1,1 +1,15 @@
-{"name":"twitch-sub-verypower_momo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"verypowerPad","image_id":32899},{"match":"verypowerKotori","image_id":43630}]}
+{
+  "name": "twitch-sub-verypower_momo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "verypowerPad",
+      "image_id": 32899
+    },
+    {
+      "match": "verypowerKotori",
+      "image_id": 43630
+    }
+  ]
+}

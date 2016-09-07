@@ -1,1 +1,15 @@
-{"name":"twitch-sub-murray","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"murScrub","image_id":25902},{"match":"murSchleep","image_id":52195}]}
+{
+  "name": "twitch-sub-murray",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "murScrub",
+      "image_id": 25902
+    },
+    {
+      "match": "murSchleep",
+      "image_id": 52195
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-{"name":"twitch-sub-mosttoxiceu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hesW","image_id":44126},{"match":"hesKappa","image_id":43746},{"match":"hesLean","image_id":43849},{"match":"hesDank","image_id":43848},{"match":"hesTip","image_id":43853}]}
+{
+  "name": "twitch-sub-mosttoxiceu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hesW",
+      "image_id": 44126
+    },
+    {
+      "match": "hesKappa",
+      "image_id": 43746
+    },
+    {
+      "match": "hesLean",
+      "image_id": 43849
+    },
+    {
+      "match": "hesDank",
+      "image_id": 43848
+    },
+    {
+      "match": "hesTip",
+      "image_id": 43853
+    }
+  ]
+}

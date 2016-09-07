@@ -1,1 +1,39 @@
-{"name":"twitch-sub-linvalin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"linWat","image_id":94681},{"match":"linFeels","image_id":93853},{"match":"linHype","image_id":93848},{"match":"linDerp","image_id":94993},{"match":"linRupee","image_id":94994},{"match":"linLove","image_id":99278},{"match":"linLurk","image_id":101754},{"match":"linRage","image_id":101755}]}
+{
+  "name": "twitch-sub-linvalin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "linWat",
+      "image_id": 94681
+    },
+    {
+      "match": "linFeels",
+      "image_id": 93853
+    },
+    {
+      "match": "linHype",
+      "image_id": 93848
+    },
+    {
+      "match": "linDerp",
+      "image_id": 94993
+    },
+    {
+      "match": "linRupee",
+      "image_id": 94994
+    },
+    {
+      "match": "linLove",
+      "image_id": 99278
+    },
+    {
+      "match": "linLurk",
+      "image_id": 101754
+    },
+    {
+      "match": "linRage",
+      "image_id": 101755
+    }
+  ]
+}

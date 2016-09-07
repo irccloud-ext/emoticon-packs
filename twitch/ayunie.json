@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ayunie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ayuRIP","image_id":111044},{"match":"ayuThug","image_id":91204},{"match":"ayuNori","image_id":97309},{"match":"ayuLove","image_id":97310},{"match":"ayuSub","image_id":111171},{"match":"ayuGils","image_id":111536}]}
+{
+  "name": "twitch-sub-ayunie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ayuRIP",
+      "image_id": 111044
+    },
+    {
+      "match": "ayuThug",
+      "image_id": 91204
+    },
+    {
+      "match": "ayuNori",
+      "image_id": 97309
+    },
+    {
+      "match": "ayuLove",
+      "image_id": 97310
+    },
+    {
+      "match": "ayuSub",
+      "image_id": 111171
+    },
+    {
+      "match": "ayuGils",
+      "image_id": 111536
+    }
+  ]
+}

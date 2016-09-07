@@ -1,1 +1,31 @@
-{"name":"twitch-sub-cafeid","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"idfaceIdface","image_id":1019},{"match":"idfaceIdkensou","image_id":1020},{"match":"idfaceIdknee","image_id":1021},{"match":"idfaceIdmadkof","image_id":1022},{"match":"idfaceIdnin","image_id":1023},{"match":"idfaceIdpk","image_id":1025}]}
+{
+  "name": "twitch-sub-cafeid",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "idfaceIdface",
+      "image_id": 1019
+    },
+    {
+      "match": "idfaceIdkensou",
+      "image_id": 1020
+    },
+    {
+      "match": "idfaceIdknee",
+      "image_id": 1021
+    },
+    {
+      "match": "idfaceIdmadkof",
+      "image_id": 1022
+    },
+    {
+      "match": "idfaceIdnin",
+      "image_id": 1023
+    },
+    {
+      "match": "idfaceIdpk",
+      "image_id": 1025
+    }
+  ]
+}

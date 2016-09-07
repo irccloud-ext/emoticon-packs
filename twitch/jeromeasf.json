@@ -1,1 +1,31 @@
-{"name":"twitch-sub-jeromeasf","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jeromeBestFood","image_id":3545},{"match":"jeromeSexy","image_id":3594},{"match":"jeromeBacca","image_id":3544},{"match":"jeromeCoffee","image_id":3593},{"match":"jeromeCoco","image_id":3755},{"match":"jeromeAxe","image_id":4498}]}
+{
+  "name": "twitch-sub-jeromeasf",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jeromeBestFood",
+      "image_id": 3545
+    },
+    {
+      "match": "jeromeSexy",
+      "image_id": 3594
+    },
+    {
+      "match": "jeromeBacca",
+      "image_id": 3544
+    },
+    {
+      "match": "jeromeCoffee",
+      "image_id": 3593
+    },
+    {
+      "match": "jeromeCoco",
+      "image_id": 3755
+    },
+    {
+      "match": "jeromeAxe",
+      "image_id": 4498
+    }
+  ]
+}

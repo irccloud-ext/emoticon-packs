@@ -1,1 +1,23 @@
-{"name":"twitch-sub-cybertronvgc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cyberHype","image_id":36779},{"match":"cyberRaygasm","image_id":37112},{"match":"cyberSejunFail","image_id":71422},{"match":"cyberWhat","image_id":71687}]}
+{
+  "name": "twitch-sub-cybertronvgc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cyberHype",
+      "image_id": 36779
+    },
+    {
+      "match": "cyberRaygasm",
+      "image_id": 37112
+    },
+    {
+      "match": "cyberSejunFail",
+      "image_id": 71422
+    },
+    {
+      "match": "cyberWhat",
+      "image_id": 71687
+    }
+  ]
+}

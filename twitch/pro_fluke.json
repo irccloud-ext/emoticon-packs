@@ -1,1 +1,23 @@
-{"name":"twitch-sub-pro_fluke","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"flukeKappa","image_id":26420},{"match":"flukeQbomb","image_id":26459},{"match":"flukeMad","image_id":77176},{"match":"flukePalm","image_id":77125}]}
+{
+  "name": "twitch-sub-pro_fluke",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "flukeKappa",
+      "image_id": 26420
+    },
+    {
+      "match": "flukeQbomb",
+      "image_id": 26459
+    },
+    {
+      "match": "flukeMad",
+      "image_id": 77176
+    },
+    {
+      "match": "flukePalm",
+      "image_id": 77125
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-patdeuktv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ilestlaPapat","image_id":30836},{"match":"ilestlaTkt","image_id":30835}]}
+{
+  "name": "twitch-sub-patdeuktv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ilestlaPapat",
+      "image_id": 30836
+    },
+    {
+      "match": "ilestlaTkt",
+      "image_id": 30835
+    }
+  ]
+}

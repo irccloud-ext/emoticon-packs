@@ -1,1 +1,31 @@
-{"name":"twitch-sub-dudapipipitchu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pipitaCaricato","image_id":21002},{"match":"pipitaBebe","image_id":23280},{"match":"pipitaPastor","image_id":23284},{"match":"pipitaAvaiana","image_id":23281},{"match":"pipitaTomeli","image_id":23283},{"match":"pipitaVeio","image_id":23285}]}
+{
+  "name": "twitch-sub-dudapipipitchu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pipitaCaricato",
+      "image_id": 21002
+    },
+    {
+      "match": "pipitaBebe",
+      "image_id": 23280
+    },
+    {
+      "match": "pipitaPastor",
+      "image_id": 23284
+    },
+    {
+      "match": "pipitaAvaiana",
+      "image_id": 23281
+    },
+    {
+      "match": "pipitaTomeli",
+      "image_id": 23283
+    },
+    {
+      "match": "pipitaVeio",
+      "image_id": 23285
+    }
+  ]
+}

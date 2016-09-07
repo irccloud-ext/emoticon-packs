@@ -1,1 +1,47 @@
-{"name":"twitch-sub-joanneofarc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"joaLove","image_id":59113},{"match":"joaRoss","image_id":72589},{"match":"joaSsj","image_id":60451},{"match":"joaChar","image_id":60449},{"match":"joaSalt","image_id":60452},{"match":"joaTen","image_id":60453},{"match":"joaRip","image_id":66924},{"match":"joaWave","image_id":69737},{"match":"joaThump","image_id":75322},{"match":"joaThug","image_id":75452}]}
+{
+  "name": "twitch-sub-joanneofarc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "joaLove",
+      "image_id": 59113
+    },
+    {
+      "match": "joaRoss",
+      "image_id": 72589
+    },
+    {
+      "match": "joaSsj",
+      "image_id": 60451
+    },
+    {
+      "match": "joaChar",
+      "image_id": 60449
+    },
+    {
+      "match": "joaSalt",
+      "image_id": 60452
+    },
+    {
+      "match": "joaTen",
+      "image_id": 60453
+    },
+    {
+      "match": "joaRip",
+      "image_id": 66924
+    },
+    {
+      "match": "joaWave",
+      "image_id": 69737
+    },
+    {
+      "match": "joaThump",
+      "image_id": 75322
+    },
+    {
+      "match": "joaThug",
+      "image_id": 75452
+    }
+  ]
+}

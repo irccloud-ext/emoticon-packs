@@ -1,1 +1,87 @@
-{"name":"twitch-sub-angryjoeshow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ajsOjoe","image_id":11009},{"match":"ajsMod","image_id":11010},{"match":"ajsPalm","image_id":11011},{"match":"ajsTank","image_id":11013},{"match":"ajsRambo","image_id":9457},{"match":"ajsLook","image_id":9455},{"match":"ajsFlag","image_id":9454},{"match":"ajsCorp","image_id":9451},{"match":"ajsWtf","image_id":9459},{"match":"ajsRage","image_id":9456},{"match":"ajsCage","image_id":19311},{"match":"ajsJet","image_id":41290},{"match":"ajsDel","image_id":41291},{"match":"ajsHype","image_id":78529},{"match":"ajsRekt","image_id":78530},{"match":"ajsShip","image_id":78531},{"match":"ajsFire","image_id":78533},{"match":"ajsGun","image_id":11012},{"match":"ajsHi","image_id":105136},{"match":"ajsSad","image_id":105137}]}
+{
+  "name": "twitch-sub-angryjoeshow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ajsOjoe",
+      "image_id": 11009
+    },
+    {
+      "match": "ajsMod",
+      "image_id": 11010
+    },
+    {
+      "match": "ajsPalm",
+      "image_id": 11011
+    },
+    {
+      "match": "ajsTank",
+      "image_id": 11013
+    },
+    {
+      "match": "ajsRambo",
+      "image_id": 9457
+    },
+    {
+      "match": "ajsLook",
+      "image_id": 9455
+    },
+    {
+      "match": "ajsFlag",
+      "image_id": 9454
+    },
+    {
+      "match": "ajsCorp",
+      "image_id": 9451
+    },
+    {
+      "match": "ajsWtf",
+      "image_id": 9459
+    },
+    {
+      "match": "ajsRage",
+      "image_id": 9456
+    },
+    {
+      "match": "ajsCage",
+      "image_id": 19311
+    },
+    {
+      "match": "ajsJet",
+      "image_id": 41290
+    },
+    {
+      "match": "ajsDel",
+      "image_id": 41291
+    },
+    {
+      "match": "ajsHype",
+      "image_id": 78529
+    },
+    {
+      "match": "ajsRekt",
+      "image_id": 78530
+    },
+    {
+      "match": "ajsShip",
+      "image_id": 78531
+    },
+    {
+      "match": "ajsFire",
+      "image_id": 78533
+    },
+    {
+      "match": "ajsGun",
+      "image_id": 11012
+    },
+    {
+      "match": "ajsHi",
+      "image_id": 105136
+    },
+    {
+      "match": "ajsSad",
+      "image_id": 105137
+    }
+  ]
+}

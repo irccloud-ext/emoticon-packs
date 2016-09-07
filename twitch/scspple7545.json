@@ -1,1 +1,15 @@
-{"name":"twitch-sub-scspple7545","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"thatsrightLA","image_id":54833},{"match":"thatsrightShaobinlook","image_id":59547}]}
+{
+  "name": "twitch-sub-scspple7545",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "thatsrightLA",
+      "image_id": 54833
+    },
+    {
+      "match": "thatsrightShaobinlook",
+      "image_id": 59547
+    }
+  ]
+}

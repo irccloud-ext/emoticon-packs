@@ -1,1 +1,31 @@
-{"name":"twitch-sub-texnoz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"texMad","image_id":7866},{"match":"texKnife","image_id":7856},{"match":"texChest","image_id":7857},{"match":"texLove","image_id":7860},{"match":"texKappa","image_id":7873},{"match":"texHappy","image_id":7865}]}
+{
+  "name": "twitch-sub-texnoz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "texMad",
+      "image_id": 7866
+    },
+    {
+      "match": "texKnife",
+      "image_id": 7856
+    },
+    {
+      "match": "texChest",
+      "image_id": 7857
+    },
+    {
+      "match": "texLove",
+      "image_id": 7860
+    },
+    {
+      "match": "texKappa",
+      "image_id": 7873
+    },
+    {
+      "match": "texHappy",
+      "image_id": 7865
+    }
+  ]
+}

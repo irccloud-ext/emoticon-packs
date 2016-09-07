@@ -1,1 +1,31 @@
-{"name":"twitch-sub-tjhaly","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"teejEZ","image_id":86398},{"match":"teejCLUTCH","image_id":99847},{"match":"teejSNDGOD","image_id":86088},{"match":"teejOGYB","image_id":86089},{"match":"teejGG","image_id":100641},{"match":"teejSH","image_id":100642}]}
+{
+  "name": "twitch-sub-tjhaly",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "teejEZ",
+      "image_id": 86398
+    },
+    {
+      "match": "teejCLUTCH",
+      "image_id": 99847
+    },
+    {
+      "match": "teejSNDGOD",
+      "image_id": 86088
+    },
+    {
+      "match": "teejOGYB",
+      "image_id": 86089
+    },
+    {
+      "match": "teejGG",
+      "image_id": 100641
+    },
+    {
+      "match": "teejSH",
+      "image_id": 100642
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-dizzydizaster","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dizHEY","image_id":105392},{"match":"dizGASM","image_id":105393},{"match":"dizLOGO","image_id":8040},{"match":"dizSMUGPUG","image_id":11520},{"match":"dizPUG","image_id":8039},{"match":"dizRAID","image_id":22774},{"match":"dizBOOM","image_id":22775},{"match":"dizCHEST","image_id":33189},{"match":"dizGLOM","image_id":33188},{"match":"dizKEK","image_id":65165}]}
+{
+  "name": "twitch-sub-dizzydizaster",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dizHEY",
+      "image_id": 105392
+    },
+    {
+      "match": "dizGASM",
+      "image_id": 105393
+    },
+    {
+      "match": "dizLOGO",
+      "image_id": 8040
+    },
+    {
+      "match": "dizSMUGPUG",
+      "image_id": 11520
+    },
+    {
+      "match": "dizPUG",
+      "image_id": 8039
+    },
+    {
+      "match": "dizRAID",
+      "image_id": 22774
+    },
+    {
+      "match": "dizBOOM",
+      "image_id": 22775
+    },
+    {
+      "match": "dizCHEST",
+      "image_id": 33189
+    },
+    {
+      "match": "dizGLOM",
+      "image_id": 33188
+    },
+    {
+      "match": "dizKEK",
+      "image_id": 65165
+    }
+  ]
+}

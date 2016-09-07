@@ -1,1 +1,67 @@
-{"name":"twitch-sub-tarik_tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tarikDawg","image_id":28707},{"match":"tarikSister","image_id":33768},{"match":"tarikWhiff","image_id":33419},{"match":"tarikVac","image_id":32833},{"match":"tarikCLG","image_id":35196},{"match":"tarikBlind","image_id":80214},{"match":"tarikRage","image_id":79965},{"match":"tarikThump","image_id":75511},{"match":"tarikRekt","image_id":75509},{"match":"tarikAyy","image_id":80275},{"match":"tarikBuggin","image_id":81485},{"match":"tarikFail","image_id":80256},{"match":"tarikYell","image_id":81486},{"match":"tarikRoss","image_id":82084},{"match":"tarikSmart","image_id":82082}]}
+{
+  "name": "twitch-sub-tarik_tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tarikDawg",
+      "image_id": 28707
+    },
+    {
+      "match": "tarikSister",
+      "image_id": 33768
+    },
+    {
+      "match": "tarikWhiff",
+      "image_id": 33419
+    },
+    {
+      "match": "tarikVac",
+      "image_id": 32833
+    },
+    {
+      "match": "tarikCLG",
+      "image_id": 35196
+    },
+    {
+      "match": "tarikBlind",
+      "image_id": 80214
+    },
+    {
+      "match": "tarikRage",
+      "image_id": 79965
+    },
+    {
+      "match": "tarikThump",
+      "image_id": 75511
+    },
+    {
+      "match": "tarikRekt",
+      "image_id": 75509
+    },
+    {
+      "match": "tarikAyy",
+      "image_id": 80275
+    },
+    {
+      "match": "tarikBuggin",
+      "image_id": 81485
+    },
+    {
+      "match": "tarikFail",
+      "image_id": 80256
+    },
+    {
+      "match": "tarikYell",
+      "image_id": 81486
+    },
+    {
+      "match": "tarikRoss",
+      "image_id": 82084
+    },
+    {
+      "match": "tarikSmart",
+      "image_id": 82082
+    }
+  ]
+}

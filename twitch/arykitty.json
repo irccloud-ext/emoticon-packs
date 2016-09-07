@@ -1,1 +1,39 @@
-{"name":"twitch-sub-arykitty","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"arySmile","image_id":11940},{"match":"aryUni","image_id":11952},{"match":"aryBit","image_id":12458},{"match":"aryTouch","image_id":13797},{"match":"aryHonk","image_id":59092},{"match":"aryLove","image_id":59093},{"match":"arySleep","image_id":59094},{"match":"aryWand","image_id":59095}]}
+{
+  "name": "twitch-sub-arykitty",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "arySmile",
+      "image_id": 11940
+    },
+    {
+      "match": "aryUni",
+      "image_id": 11952
+    },
+    {
+      "match": "aryBit",
+      "image_id": 12458
+    },
+    {
+      "match": "aryTouch",
+      "image_id": 13797
+    },
+    {
+      "match": "aryHonk",
+      "image_id": 59092
+    },
+    {
+      "match": "aryLove",
+      "image_id": 59093
+    },
+    {
+      "match": "arySleep",
+      "image_id": 59094
+    },
+    {
+      "match": "aryWand",
+      "image_id": 59095
+    }
+  ]
+}

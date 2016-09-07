@@ -1,1 +1,31 @@
-{"name":"twitch-sub-haughington","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"haffTrap","image_id":14827},{"match":"haffKappala","image_id":14888},{"match":"haffRage","image_id":14936},{"match":"haffChad","image_id":16115},{"match":"haffHyuk","image_id":41046},{"match":"haffLord","image_id":32016}]}
+{
+  "name": "twitch-sub-haughington",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "haffTrap",
+      "image_id": 14827
+    },
+    {
+      "match": "haffKappala",
+      "image_id": 14888
+    },
+    {
+      "match": "haffRage",
+      "image_id": 14936
+    },
+    {
+      "match": "haffChad",
+      "image_id": 16115
+    },
+    {
+      "match": "haffHyuk",
+      "image_id": 41046
+    },
+    {
+      "match": "haffLord",
+      "image_id": 32016
+    }
+  ]
+}

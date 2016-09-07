@@ -1,0 +1,11 @@
+{
+  "name": "twitch-sub-veoencolores",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ohyoudogOhyoudog",
+      "image_id": 112082
+    }
+  ]
+}

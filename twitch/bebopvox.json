@@ -1,1 +1,23 @@
-{"name":"twitch-sub-bebopvox","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"voxPewpew","image_id":25488},{"match":"voxDiamond","image_id":25484},{"match":"voxTibbers","image_id":25485},{"match":"voxTacos","image_id":25486}]}
+{
+  "name": "twitch-sub-bebopvox",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "voxPewpew",
+      "image_id": 25488
+    },
+    {
+      "match": "voxDiamond",
+      "image_id": 25484
+    },
+    {
+      "match": "voxTibbers",
+      "image_id": 25485
+    },
+    {
+      "match": "voxTacos",
+      "image_id": 25486
+    }
+  ]
+}

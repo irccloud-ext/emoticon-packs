@@ -1,1 +1,15 @@
-{"name":"twitch-sub-zoomwebg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zoomarmyPlay","image_id":84904},{"match":"zoomarmyLike","image_id":84709}]}
+{
+  "name": "twitch-sub-zoomwebg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zoomarmyPlay",
+      "image_id": 84904
+    },
+    {
+      "match": "zoomarmyLike",
+      "image_id": 84709
+    }
+  ]
+}

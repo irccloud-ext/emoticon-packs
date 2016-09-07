@@ -1,1 +1,67 @@
-{"name":"twitch-sub-c_a_k_e","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cakeNyan","image_id":27374},{"match":"cakeCry","image_id":27415},{"match":"cakeFp","image_id":105595},{"match":"cakeLion","image_id":89076},{"match":"cakeHi","image_id":89075},{"match":"cakeDans","image_id":105841},{"match":"cakeRip","image_id":106555},{"match":"cakeLove","image_id":90833},{"match":"cake1","image_id":102173},{"match":"cakePus","image_id":106533},{"match":"cakeHey","image_id":106532},{"match":"cakeRage","image_id":106534},{"match":"cakeBack","image_id":106531},{"match":"cakeWhy","image_id":96744},{"match":"cake2","image_id":102174}]}
+{
+  "name": "twitch-sub-c_a_k_e",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cakeNyan",
+      "image_id": 27374
+    },
+    {
+      "match": "cakeCry",
+      "image_id": 27415
+    },
+    {
+      "match": "cakeFp",
+      "image_id": 105595
+    },
+    {
+      "match": "cakeLion",
+      "image_id": 89076
+    },
+    {
+      "match": "cakeHi",
+      "image_id": 89075
+    },
+    {
+      "match": "cakeDans",
+      "image_id": 105841
+    },
+    {
+      "match": "cakeRip",
+      "image_id": 106555
+    },
+    {
+      "match": "cakeLove",
+      "image_id": 90833
+    },
+    {
+      "match": "cake1",
+      "image_id": 102173
+    },
+    {
+      "match": "cakePus",
+      "image_id": 106533
+    },
+    {
+      "match": "cakeHey",
+      "image_id": 106532
+    },
+    {
+      "match": "cakeRage",
+      "image_id": 106534
+    },
+    {
+      "match": "cakeBack",
+      "image_id": 106531
+    },
+    {
+      "match": "cakeWhy",
+      "image_id": 96744
+    },
+    {
+      "match": "cake2",
+      "image_id": 102174
+    }
+  ]
+}

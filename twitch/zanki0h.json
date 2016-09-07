@@ -1,1 +1,19 @@
-{"name":"twitch-sub-zanki0h","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zankRATUS","image_id":110873},{"match":"zankLABOULE","image_id":111554}]}
+{
+  "name": "twitch-sub-zanki0h",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zankRATUS",
+      "image_id": 110873
+    },
+    {
+      "match": "zank37",
+      "image_id": 112402
+    },
+    {
+      "match": "zankLABOULE",
+      "image_id": 111554
+    }
+  ]
+}

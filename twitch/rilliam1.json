@@ -1,1 +1,31 @@
-{"name":"twitch-sub-rilliam1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rillyLove","image_id":77197},{"match":"rillyWTF","image_id":77204},{"match":"rillyThump","image_id":80811},{"match":"rillyHype","image_id":83399},{"match":"rillyRico","image_id":94046},{"match":"rillyRage","image_id":94194}]}
+{
+  "name": "twitch-sub-rilliam1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rillyLove",
+      "image_id": 77197
+    },
+    {
+      "match": "rillyWTF",
+      "image_id": 77204
+    },
+    {
+      "match": "rillyThump",
+      "image_id": 80811
+    },
+    {
+      "match": "rillyHype",
+      "image_id": 83399
+    },
+    {
+      "match": "rillyRico",
+      "image_id": 94046
+    },
+    {
+      "match": "rillyRage",
+      "image_id": 94194
+    }
+  ]
+}

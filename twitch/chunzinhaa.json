@@ -1,1 +1,15 @@
-{"name":"twitch-sub-chunzinhaa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chunChunmlk","image_id":36299},{"match":"chunFace","image_id":36300}]}
+{
+  "name": "twitch-sub-chunzinhaa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chunChunmlk",
+      "image_id": 36299
+    },
+    {
+      "match": "chunFace",
+      "image_id": 36300
+    }
+  ]
+}

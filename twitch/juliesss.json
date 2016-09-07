@@ -1,0 +1,23 @@
+{
+  "name": "twitch-sub-juliesss",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "julsEZ",
+      "image_id": 112584
+    },
+    {
+      "match": "julsThump",
+      "image_id": 112575
+    },
+    {
+      "match": "julsW",
+      "image_id": 112135
+    },
+    {
+      "match": "julsCool",
+      "image_id": 112136
+    }
+  ]
+}

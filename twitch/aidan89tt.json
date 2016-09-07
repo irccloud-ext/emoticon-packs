@@ -1,1 +1,15 @@
-{"name":"twitch-sub-aidan89tt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aidanKD","image_id":54856},{"match":"aidanBilbo","image_id":54857}]}
+{
+  "name": "twitch-sub-aidan89tt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aidanKD",
+      "image_id": 54856
+    },
+    {
+      "match": "aidanBilbo",
+      "image_id": 54857
+    }
+  ]
+}

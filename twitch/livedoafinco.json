@@ -1,1 +1,31 @@
-{"name":"twitch-sub-livedoafinco","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"afincoHEHE","image_id":48148},{"match":"afincoBele","image_id":48144},{"match":"afincoAfinco","image_id":48145},{"match":"afincoBonde","image_id":48143},{"match":"afincoChola","image_id":58633},{"match":"afincoComemoro","image_id":59434}]}
+{
+  "name": "twitch-sub-livedoafinco",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "afincoHEHE",
+      "image_id": 48148
+    },
+    {
+      "match": "afincoBele",
+      "image_id": 48144
+    },
+    {
+      "match": "afincoAfinco",
+      "image_id": 48145
+    },
+    {
+      "match": "afincoBonde",
+      "image_id": 48143
+    },
+    {
+      "match": "afincoChola",
+      "image_id": 58633
+    },
+    {
+      "match": "afincoComemoro",
+      "image_id": 59434
+    }
+  ]
+}

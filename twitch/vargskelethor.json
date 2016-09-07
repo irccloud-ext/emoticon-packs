@@ -1,1 +1,47 @@
-{"name":"twitch-sub-vargskelethor","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vinejoelCop","image_id":29020},{"match":"vinejoelKermit","image_id":29108},{"match":"vinejoelGranddad","image_id":33668},{"match":"vinejoel5","image_id":70893},{"match":"vinejoelSpooky","image_id":36949},{"match":"vinejoelFree","image_id":36946},{"match":"vinejoelDuane","image_id":37353},{"match":"vinejoelDongus","image_id":54004},{"match":"vinejoelSad","image_id":63665},{"match":"vinejoelDio","image_id":63798}]}
+{
+  "name": "twitch-sub-vargskelethor",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vinejoelCop",
+      "image_id": 29020
+    },
+    {
+      "match": "vinejoelKermit",
+      "image_id": 29108
+    },
+    {
+      "match": "vinejoelGranddad",
+      "image_id": 33668
+    },
+    {
+      "match": "vinejoel5",
+      "image_id": 70893
+    },
+    {
+      "match": "vinejoelSpooky",
+      "image_id": 36949
+    },
+    {
+      "match": "vinejoelFree",
+      "image_id": 36946
+    },
+    {
+      "match": "vinejoelDuane",
+      "image_id": 37353
+    },
+    {
+      "match": "vinejoelDongus",
+      "image_id": 54004
+    },
+    {
+      "match": "vinejoelSad",
+      "image_id": 63665
+    },
+    {
+      "match": "vinejoelDio",
+      "image_id": 63798
+    }
+  ]
+}

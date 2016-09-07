@@ -1,1 +1,47 @@
-{"name":"twitch-sub-willywonka_hc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"willyNator","image_id":35343},{"match":"willyGasp","image_id":7602},{"match":"willyBanned","image_id":13397},{"match":"willyRNG","image_id":15912},{"match":"willyPizza","image_id":23574},{"match":"willySleep","image_id":26321},{"match":"willyPalm","image_id":31335},{"match":"willyREKT","image_id":32421},{"match":"willyRIP","image_id":51092},{"match":"willyKappa","image_id":51099}]}
+{
+  "name": "twitch-sub-willywonka_hc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "willyNator",
+      "image_id": 35343
+    },
+    {
+      "match": "willyGasp",
+      "image_id": 7602
+    },
+    {
+      "match": "willyBanned",
+      "image_id": 13397
+    },
+    {
+      "match": "willyRNG",
+      "image_id": 15912
+    },
+    {
+      "match": "willyPizza",
+      "image_id": 23574
+    },
+    {
+      "match": "willySleep",
+      "image_id": 26321
+    },
+    {
+      "match": "willyPalm",
+      "image_id": 31335
+    },
+    {
+      "match": "willyREKT",
+      "image_id": 32421
+    },
+    {
+      "match": "willyRIP",
+      "image_id": 51092
+    },
+    {
+      "match": "willyKappa",
+      "image_id": 51099
+    }
+  ]
+}

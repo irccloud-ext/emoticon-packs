@@ -1,1 +1,19 @@
-{"name":"twitch-sub-codyshea","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"codyBlood","image_id":55474},{"match":"codyH4","image_id":53665},{"match":"codyDenial","image_id":55290}]}
+{
+  "name": "twitch-sub-codyshea",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "codyBlood",
+      "image_id": 55474
+    },
+    {
+      "match": "codyH4",
+      "image_id": 53665
+    },
+    {
+      "match": "codyDenial",
+      "image_id": 55290
+    }
+  ]
+}

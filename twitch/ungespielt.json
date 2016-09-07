@@ -1,1 +1,27 @@
-{"name":"twitch-sub-ungespielt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ungeRaupe","image_id":28968},{"match":"ungeHeslig","image_id":28969},{"match":"ungeKappa","image_id":29030},{"match":"ungeWT","image_id":34604},{"match":"ungeSchleh","image_id":77114}]}
+{
+  "name": "twitch-sub-ungespielt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ungeRaupe",
+      "image_id": 28968
+    },
+    {
+      "match": "ungeHeslig",
+      "image_id": 28969
+    },
+    {
+      "match": "ungeKappa",
+      "image_id": 29030
+    },
+    {
+      "match": "ungeWT",
+      "image_id": 34604
+    },
+    {
+      "match": "ungeSchleh",
+      "image_id": 77114
+    }
+  ]
+}

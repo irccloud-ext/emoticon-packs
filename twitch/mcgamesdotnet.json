@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mcgamesdotnet","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mcgamesKappa","image_id":83494},{"match":"mcgamesLuck","image_id":83493},{"match":"mcgamesRip","image_id":93883},{"match":"mcgamesCry","image_id":93886},{"match":"mcgamesLove","image_id":84025},{"match":"mcgamesHi","image_id":84024}]}
+{
+  "name": "twitch-sub-mcgamesdotnet",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mcgamesKappa",
+      "image_id": 83494
+    },
+    {
+      "match": "mcgamesLuck",
+      "image_id": 83493
+    },
+    {
+      "match": "mcgamesRip",
+      "image_id": 93883
+    },
+    {
+      "match": "mcgamesCry",
+      "image_id": 93886
+    },
+    {
+      "match": "mcgamesLove",
+      "image_id": 84025
+    },
+    {
+      "match": "mcgamesHi",
+      "image_id": 84024
+    }
+  ]
+}

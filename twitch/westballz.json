@@ -1,1 +1,27 @@
-{"name":"twitch-sub-westballz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"westBallz","image_id":41743},{"match":"westW","image_id":109244},{"match":"westShine","image_id":41597},{"match":"westShorten","image_id":110552},{"match":"westPop","image_id":110989}]}
+{
+  "name": "twitch-sub-westballz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "westBallz",
+      "image_id": 41743
+    },
+    {
+      "match": "westW",
+      "image_id": 109244
+    },
+    {
+      "match": "westShine",
+      "image_id": 41597
+    },
+    {
+      "match": "westShorten",
+      "image_id": 110552
+    },
+    {
+      "match": "westPop",
+      "image_id": 110989
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-winter","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wtrWtR","image_id":6159},{"match":"wtrMacho","image_id":6824}]}
+{
+  "name": "twitch-sub-winter",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wtrWtR",
+      "image_id": 6159
+    },
+    {
+      "match": "wtrMacho",
+      "image_id": 6824
+    }
+  ]
+}

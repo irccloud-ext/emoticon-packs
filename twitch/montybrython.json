@@ -1,1 +1,39 @@
-{"name":"twitch-sub-montybrython","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"montyEye","image_id":105780},{"match":"montyFUF","image_id":104866},{"match":"montyRIP","image_id":104865},{"match":"montyLove","image_id":104863},{"match":"montyHype","image_id":104862},{"match":"montyHey","image_id":104861},{"match":"montyBomb","image_id":104859},{"match":"montyRage","image_id":105023}]}
+{
+  "name": "twitch-sub-montybrython",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "montyEye",
+      "image_id": 105780
+    },
+    {
+      "match": "montyFUF",
+      "image_id": 104866
+    },
+    {
+      "match": "montyRIP",
+      "image_id": 104865
+    },
+    {
+      "match": "montyLove",
+      "image_id": 104863
+    },
+    {
+      "match": "montyHype",
+      "image_id": 104862
+    },
+    {
+      "match": "montyHey",
+      "image_id": 104861
+    },
+    {
+      "match": "montyBomb",
+      "image_id": 104859
+    },
+    {
+      "match": "montyRage",
+      "image_id": 105023
+    }
+  ]
+}

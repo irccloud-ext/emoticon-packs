@@ -1,1 +1,67 @@
-{"name":"twitch-sub-rockleesmile","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rockMar","image_id":4506},{"match":"rockLobster","image_id":4496},{"match":"rockYaha","image_id":5649},{"match":"rockDonkeh","image_id":19015},{"match":"rockMFW","image_id":28855},{"match":"rockMeow","image_id":28930},{"match":"rockHeart","image_id":28936},{"match":"rockThrow","image_id":28937},{"match":"rockUp","image_id":110200},{"match":"rockHorn","image_id":110199},{"match":"rockWheeze","image_id":110205},{"match":"rockSwarm","image_id":110204},{"match":"rockJelly","image_id":110202},{"match":"rockCrawl","image_id":110203},{"match":"rockLuck","image_id":110201}]}
+{
+  "name": "twitch-sub-rockleesmile",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rockMar",
+      "image_id": 4506
+    },
+    {
+      "match": "rockLobster",
+      "image_id": 4496
+    },
+    {
+      "match": "rockYaha",
+      "image_id": 5649
+    },
+    {
+      "match": "rockDonkeh",
+      "image_id": 19015
+    },
+    {
+      "match": "rockMFW",
+      "image_id": 28855
+    },
+    {
+      "match": "rockMeow",
+      "image_id": 28930
+    },
+    {
+      "match": "rockHeart",
+      "image_id": 28936
+    },
+    {
+      "match": "rockThrow",
+      "image_id": 28937
+    },
+    {
+      "match": "rockUp",
+      "image_id": 110200
+    },
+    {
+      "match": "rockHorn",
+      "image_id": 110199
+    },
+    {
+      "match": "rockWheeze",
+      "image_id": 110205
+    },
+    {
+      "match": "rockSwarm",
+      "image_id": 110204
+    },
+    {
+      "match": "rockJelly",
+      "image_id": 110202
+    },
+    {
+      "match": "rockCrawl",
+      "image_id": 110203
+    },
+    {
+      "match": "rockLuck",
+      "image_id": 110201
+    }
+  ]
+}

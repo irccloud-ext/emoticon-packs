@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mbonehd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mboneDouche","image_id":102103},{"match":"mboneHarambe","image_id":111115},{"match":"mboneSuh","image_id":101991},{"match":"mboneLove","image_id":100461},{"match":"mboneHype","image_id":102102},{"match":"mboneDab","image_id":101958}]}
+{
+  "name": "twitch-sub-mbonehd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mboneDouche",
+      "image_id": 102103
+    },
+    {
+      "match": "mboneHarambe",
+      "image_id": 111115
+    },
+    {
+      "match": "mboneSuh",
+      "image_id": 101991
+    },
+    {
+      "match": "mboneLove",
+      "image_id": 100461
+    },
+    {
+      "match": "mboneHype",
+      "image_id": 102102
+    },
+    {
+      "match": "mboneDab",
+      "image_id": 101958
+    }
+  ]
+}

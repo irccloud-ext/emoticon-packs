@@ -1,1 +1,47 @@
-{"name":"twitch-sub-adrianfenixx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fenixSword","image_id":50929},{"match":"fenixHammer","image_id":50925},{"match":"fenixBalance","image_id":50912},{"match":"fenixBang","image_id":50911},{"match":"fenixWings","image_id":50906},{"match":"fenixX","image_id":50905},{"match":"fenixDerp","image_id":52760},{"match":"fenixRoss","image_id":72222},{"match":"fenixBob","image_id":72223},{"match":"fenixWat","image_id":72341}]}
+{
+  "name": "twitch-sub-adrianfenixx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fenixSword",
+      "image_id": 50929
+    },
+    {
+      "match": "fenixHammer",
+      "image_id": 50925
+    },
+    {
+      "match": "fenixBalance",
+      "image_id": 50912
+    },
+    {
+      "match": "fenixBang",
+      "image_id": 50911
+    },
+    {
+      "match": "fenixWings",
+      "image_id": 50906
+    },
+    {
+      "match": "fenixX",
+      "image_id": 50905
+    },
+    {
+      "match": "fenixDerp",
+      "image_id": 52760
+    },
+    {
+      "match": "fenixRoss",
+      "image_id": 72222
+    },
+    {
+      "match": "fenixBob",
+      "image_id": 72223
+    },
+    {
+      "match": "fenixWat",
+      "image_id": 72341
+    }
+  ]
+}

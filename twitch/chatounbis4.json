@@ -1,1 +1,31 @@
-{"name":"twitch-sub-chatounbis4","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chatounsubPYJ","image_id":93923},{"match":"chatounsubRESUB","image_id":94670},{"match":"chatounsubTOONBIS","image_id":64733},{"match":"chatounsubSUB","image_id":63539},{"match":"chatounsubGOOD","image_id":91950},{"match":"chatounsubTOOTIS","image_id":91932}]}
+{
+  "name": "twitch-sub-chatounbis4",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chatounsubPYJ",
+      "image_id": 93923
+    },
+    {
+      "match": "chatounsubRESUB",
+      "image_id": 94670
+    },
+    {
+      "match": "chatounsubTOONBIS",
+      "image_id": 64733
+    },
+    {
+      "match": "chatounsubSUB",
+      "image_id": 63539
+    },
+    {
+      "match": "chatounsubGOOD",
+      "image_id": 91950
+    },
+    {
+      "match": "chatounsubTOOTIS",
+      "image_id": 91932
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-4gamers_01","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"4gamersFISH","image_id":24449},{"match":"4gamersPHISHING","image_id":24450}]}
+{
+  "name": "twitch-sub-4gamers_01",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "4gamersFISH",
+      "image_id": 24449
+    },
+    {
+      "match": "4gamersPHISHING",
+      "image_id": 24450
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-{"name":"twitch-sub-izabelaone","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"izaFeels","image_id":71808},{"match":"izaHey","image_id":97739},{"match":"izaCry","image_id":90956},{"match":"izaW","image_id":105305},{"match":"izaRage","image_id":107495}]}
+{
+  "name": "twitch-sub-izabelaone",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "izaFeels",
+      "image_id": 71808
+    },
+    {
+      "match": "izaHey",
+      "image_id": 97739
+    },
+    {
+      "match": "izaCry",
+      "image_id": 90956
+    },
+    {
+      "match": "izaW",
+      "image_id": 105305
+    },
+    {
+      "match": "izaRage",
+      "image_id": 107495
+    }
+  ]
+}

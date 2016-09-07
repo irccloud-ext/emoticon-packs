@@ -1,1 +1,31 @@
-{"name":"twitch-sub-siefe123","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"siefeOH","image_id":110196},{"match":"siefeMAD","image_id":110195},{"match":"siefePOTATO","image_id":110335},{"match":"siefeCHASE","image_id":110470},{"match":"siefeCHAIR","image_id":110445},{"match":"siefeSUB","image_id":110783}]}
+{
+  "name": "twitch-sub-siefe123",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "siefeOH",
+      "image_id": 110196
+    },
+    {
+      "match": "siefeMAD",
+      "image_id": 110195
+    },
+    {
+      "match": "siefePOTATO",
+      "image_id": 110335
+    },
+    {
+      "match": "siefeCHASE",
+      "image_id": 110470
+    },
+    {
+      "match": "siefeCHAIR",
+      "image_id": 110445
+    },
+    {
+      "match": "siefeSUB",
+      "image_id": 110783
+    }
+  ]
+}

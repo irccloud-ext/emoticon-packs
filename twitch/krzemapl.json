@@ -1,1 +1,47 @@
-{"name":"twitch-sub-krzemapl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"krzemaBrawo","image_id":91476},{"match":"krzemaNaczilku","image_id":91478},{"match":"krzemaRip","image_id":91999},{"match":"krzemaKalinka","image_id":91998},{"match":"krzemaGG","image_id":91997},{"match":"krzemaFace","image_id":85920},{"match":"krzemaGreen","image_id":90955},{"match":"krzemaBlack","image_id":90954},{"match":"krzemaRed","image_id":90953},{"match":"krzemaCebula","image_id":91996}]}
+{
+  "name": "twitch-sub-krzemapl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "krzemaBrawo",
+      "image_id": 91476
+    },
+    {
+      "match": "krzemaNaczilku",
+      "image_id": 91478
+    },
+    {
+      "match": "krzemaRip",
+      "image_id": 91999
+    },
+    {
+      "match": "krzemaKalinka",
+      "image_id": 91998
+    },
+    {
+      "match": "krzemaGG",
+      "image_id": 91997
+    },
+    {
+      "match": "krzemaFace",
+      "image_id": 85920
+    },
+    {
+      "match": "krzemaGreen",
+      "image_id": 90955
+    },
+    {
+      "match": "krzemaBlack",
+      "image_id": 90954
+    },
+    {
+      "match": "krzemaRed",
+      "image_id": 90953
+    },
+    {
+      "match": "krzemaCebula",
+      "image_id": 91996
+    }
+  ]
+}

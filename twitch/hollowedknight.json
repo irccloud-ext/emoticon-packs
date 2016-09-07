@@ -1,1 +1,15 @@
-{"name":"twitch-sub-hollowedknight","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kntDogerino","image_id":8815},{"match":"kntDoge","image_id":9226}]}
+{
+  "name": "twitch-sub-hollowedknight",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kntDogerino",
+      "image_id": 8815
+    },
+    {
+      "match": "kntDoge",
+      "image_id": 9226
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ximenacake","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ximeCharizard","image_id":107405},{"match":"ximePariente","image_id":107396},{"match":"ximeRaza","image_id":107395},{"match":"ximeLove","image_id":105039},{"match":"ximeHype","image_id":105040},{"match":"ximeHH","image_id":107137}]}
+{
+  "name": "twitch-sub-ximenacake",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ximeCharizard",
+      "image_id": 107405
+    },
+    {
+      "match": "ximePariente",
+      "image_id": 107396
+    },
+    {
+      "match": "ximeRaza",
+      "image_id": 107395
+    },
+    {
+      "match": "ximeLove",
+      "image_id": 105039
+    },
+    {
+      "match": "ximeHype",
+      "image_id": 105040
+    },
+    {
+      "match": "ximeHH",
+      "image_id": 107137
+    }
+  ]
+}

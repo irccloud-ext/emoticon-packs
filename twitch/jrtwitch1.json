@@ -1,1 +1,31 @@
-{"name":"twitch-sub-jrtwitch1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jrtwitchLookinGood","image_id":95791},{"match":"jrtwitchChop","image_id":95793},{"match":"jrtwitchBull","image_id":95790},{"match":"jrtwitchTrap","image_id":95789},{"match":"jrtwitchSwearJar","image_id":100039},{"match":"jrtwitchStoryTime","image_id":100040}]}
+{
+  "name": "twitch-sub-jrtwitch1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jrtwitchLookinGood",
+      "image_id": 95791
+    },
+    {
+      "match": "jrtwitchChop",
+      "image_id": 95793
+    },
+    {
+      "match": "jrtwitchBull",
+      "image_id": 95790
+    },
+    {
+      "match": "jrtwitchTrap",
+      "image_id": 95789
+    },
+    {
+      "match": "jrtwitchSwearJar",
+      "image_id": 100039
+    },
+    {
+      "match": "jrtwitchStoryTime",
+      "image_id": 100040
+    }
+  ]
+}

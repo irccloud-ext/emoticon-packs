@@ -1,1 +1,31 @@
-{"name":"twitch-sub-zeiing","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"alpazelingHype","image_id":97756},{"match":"alpazelingNINO","image_id":83052},{"match":"alpazelingWurf","image_id":95831},{"match":"alpazelingRip","image_id":104331},{"match":"alpazelingFail","image_id":104332},{"match":"alpazelingTilt","image_id":104333}]}
+{
+  "name": "twitch-sub-zeiing",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "alpazelingHype",
+      "image_id": 97756
+    },
+    {
+      "match": "alpazelingNINO",
+      "image_id": 83052
+    },
+    {
+      "match": "alpazelingWurf",
+      "image_id": 95831
+    },
+    {
+      "match": "alpazelingRip",
+      "image_id": 104331
+    },
+    {
+      "match": "alpazelingFail",
+      "image_id": 104332
+    },
+    {
+      "match": "alpazelingTilt",
+      "image_id": 104333
+    }
+  ]
+}

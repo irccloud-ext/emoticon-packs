@@ -1,1 +1,39 @@
-{"name":"twitch-sub-skategk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sk8Ape","image_id":90836},{"match":"sk8Clown","image_id":90837},{"match":"sk8Dracula","image_id":90839},{"match":"sk8Knight","image_id":90841},{"match":"sk8Lucha","image_id":90842},{"match":"sk8Joy","image_id":90843},{"match":"sk8Euro","image_id":103471},{"match":"sk8Drink","image_id":103472}]}
+{
+  "name": "twitch-sub-skategk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sk8Ape",
+      "image_id": 90836
+    },
+    {
+      "match": "sk8Clown",
+      "image_id": 90837
+    },
+    {
+      "match": "sk8Dracula",
+      "image_id": 90839
+    },
+    {
+      "match": "sk8Knight",
+      "image_id": 90841
+    },
+    {
+      "match": "sk8Lucha",
+      "image_id": 90842
+    },
+    {
+      "match": "sk8Joy",
+      "image_id": 90843
+    },
+    {
+      "match": "sk8Euro",
+      "image_id": 103471
+    },
+    {
+      "match": "sk8Drink",
+      "image_id": 103472
+    }
+  ]
+}

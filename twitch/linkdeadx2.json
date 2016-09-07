@@ -1,1 +1,31 @@
-{"name":"twitch-sub-linkdeadx2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ldadPig","image_id":25161},{"match":"ldadCloud","image_id":25479},{"match":"ldadDog","image_id":27981},{"match":"ldadYoshi","image_id":67770},{"match":"ldadPaco","image_id":37803},{"match":"ldadPanga","image_id":97043}]}
+{
+  "name": "twitch-sub-linkdeadx2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ldadPig",
+      "image_id": 25161
+    },
+    {
+      "match": "ldadCloud",
+      "image_id": 25479
+    },
+    {
+      "match": "ldadDog",
+      "image_id": 27981
+    },
+    {
+      "match": "ldadYoshi",
+      "image_id": 67770
+    },
+    {
+      "match": "ldadPaco",
+      "image_id": 37803
+    },
+    {
+      "match": "ldadPanga",
+      "image_id": 97043
+    }
+  ]
+}

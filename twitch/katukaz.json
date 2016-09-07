@@ -1,1 +1,23 @@
-{"name":"twitch-sub-katukaz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"katuRage","image_id":30388},{"match":"katuKappa","image_id":30385},{"match":"katuFool","image_id":46434},{"match":"katuTurnup","image_id":46144}]}
+{
+  "name": "twitch-sub-katukaz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "katuRage",
+      "image_id": 30388
+    },
+    {
+      "match": "katuKappa",
+      "image_id": 30385
+    },
+    {
+      "match": "katuFool",
+      "image_id": 46434
+    },
+    {
+      "match": "katuTurnup",
+      "image_id": 46144
+    }
+  ]
+}

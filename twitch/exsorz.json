@@ -1,1 +1,15 @@
-{"name":"twitch-sub-exsorz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"exopatataA","image_id":54176},{"match":"exopatataM","image_id":54262}]}
+{
+  "name": "twitch-sub-exsorz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "exopatataA",
+      "image_id": 54176
+    },
+    {
+      "match": "exopatataM",
+      "image_id": 54262
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"name":"twitch-sub-dariya_willis","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dwillisPanic","image_id":105685}]}
+{
+  "name": "twitch-sub-dariya_willis",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dwillisLove",
+      "image_id": 112346
+    },
+    {
+      "match": "dwillisScary",
+      "image_id": 112348
+    },
+    {
+      "match": "dwillisChrist",
+      "image_id": 112350
+    }
+  ]
+}

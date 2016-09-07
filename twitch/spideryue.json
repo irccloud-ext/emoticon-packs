@@ -1,1 +1,27 @@
-{"name":"twitch-sub-spideryue","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yuegodPercent","image_id":105598},{"match":"yuegodNoob","image_id":106817},{"match":"yuegodDog","image_id":105111},{"match":"yuegodU","image_id":105110},{"match":"yuegodMap","image_id":105599}]}
+{
+  "name": "twitch-sub-spideryue",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yuegodPercent",
+      "image_id": 105598
+    },
+    {
+      "match": "yuegodNoob",
+      "image_id": 106817
+    },
+    {
+      "match": "yuegodDog",
+      "image_id": 105111
+    },
+    {
+      "match": "yuegodU",
+      "image_id": 105110
+    },
+    {
+      "match": "yuegodMap",
+      "image_id": 105599
+    }
+  ]
+}

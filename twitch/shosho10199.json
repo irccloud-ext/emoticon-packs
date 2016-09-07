@@ -1,1 +1,15 @@
-{"name":"twitch-sub-shosho10199","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shoWookie","image_id":11653},{"match":"shoRekt","image_id":51514}]}
+{
+  "name": "twitch-sub-shosho10199",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shoWookie",
+      "image_id": 11653
+    },
+    {
+      "match": "shoRekt",
+      "image_id": 51514
+    }
+  ]
+}

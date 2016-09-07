@@ -1,1 +1,31 @@
-{"name":"twitch-sub-samwitwer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"witmoteRevenge","image_id":100093},{"match":"witmoteNo","image_id":99953},{"match":"witmoteYes","image_id":99954},{"match":"witmoteRed","image_id":100038},{"match":"witmoteLSmile","image_id":103280},{"match":"witmoteSoBeIt","image_id":103281}]}
+{
+  "name": "twitch-sub-samwitwer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "witmoteRevenge",
+      "image_id": 100093
+    },
+    {
+      "match": "witmoteNo",
+      "image_id": 99953
+    },
+    {
+      "match": "witmoteYes",
+      "image_id": 99954
+    },
+    {
+      "match": "witmoteRed",
+      "image_id": 100038
+    },
+    {
+      "match": "witmoteLSmile",
+      "image_id": 103280
+    },
+    {
+      "match": "witmoteSoBeIt",
+      "image_id": 103281
+    }
+  ]
+}

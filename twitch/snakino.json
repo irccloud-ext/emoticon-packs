@@ -1,1 +1,15 @@
-{"name":"twitch-sub-snakino","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"snakinoMLG","image_id":66163},{"match":"snakinoRE","image_id":66219}]}
+{
+  "name": "twitch-sub-snakino",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "snakinoMLG",
+      "image_id": 66163
+    },
+    {
+      "match": "snakinoRE",
+      "image_id": 66219
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-qsnake","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"qsnakeHype","image_id":61694},{"match":"qsnakeEZ","image_id":61731},{"match":"qsnake7","image_id":63135},{"match":"qsnakeAFK","image_id":63136},{"match":"qsnakeFacepalm","image_id":62918},{"match":"qsnakeCry","image_id":62914}]}
+{
+  "name": "twitch-sub-qsnake",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "qsnakeHype",
+      "image_id": 61694
+    },
+    {
+      "match": "qsnakeEZ",
+      "image_id": 61731
+    },
+    {
+      "match": "qsnake7",
+      "image_id": 63135
+    },
+    {
+      "match": "qsnakeAFK",
+      "image_id": 63136
+    },
+    {
+      "match": "qsnakeFacepalm",
+      "image_id": 62918
+    },
+    {
+      "match": "qsnakeCry",
+      "image_id": 62914
+    }
+  ]
+}

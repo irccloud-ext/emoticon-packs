@@ -1,1 +1,39 @@
-{"name":"twitch-sub-grubbas","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"grubyH3","image_id":103684},{"match":"grubyAGG","image_id":90934},{"match":"grubyKappa","image_id":90936},{"match":"grubyToxic","image_id":90937},{"match":"grubyElo","image_id":103365},{"match":"grubyReport","image_id":50533},{"match":"grubyBeka","image_id":103320},{"match":"grubySmuga","image_id":104063}]}
+{
+  "name": "twitch-sub-grubbas",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "grubyH3",
+      "image_id": 103684
+    },
+    {
+      "match": "grubyAGG",
+      "image_id": 90934
+    },
+    {
+      "match": "grubyKappa",
+      "image_id": 90936
+    },
+    {
+      "match": "grubyToxic",
+      "image_id": 90937
+    },
+    {
+      "match": "grubyElo",
+      "image_id": 103365
+    },
+    {
+      "match": "grubyReport",
+      "image_id": 50533
+    },
+    {
+      "match": "grubyBeka",
+      "image_id": 103320
+    },
+    {
+      "match": "grubySmuga",
+      "image_id": 104063
+    }
+  ]
+}

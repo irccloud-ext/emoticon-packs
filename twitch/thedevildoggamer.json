@@ -1,1 +1,51 @@
-{"name":"twitch-sub-thedevildoggamer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ddgMayo","image_id":70057},{"match":"ddgDead","image_id":29432},{"match":"ddgHappy","image_id":29430},{"match":"ddgRun","image_id":31829},{"match":"ddgTRekt","image_id":31828},{"match":"ddgRIP","image_id":31827},{"match":"ddgM16","image_id":31825},{"match":"ddgPVP","image_id":31826},{"match":"ddgHammer","image_id":33016},{"match":"ddgTerminal","image_id":33017},{"match":"ddgMaster","image_id":70290}]}
+{
+  "name": "twitch-sub-thedevildoggamer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ddgMayo",
+      "image_id": 70057
+    },
+    {
+      "match": "ddgDead",
+      "image_id": 29432
+    },
+    {
+      "match": "ddgHappy",
+      "image_id": 29430
+    },
+    {
+      "match": "ddgRun",
+      "image_id": 31829
+    },
+    {
+      "match": "ddgTRekt",
+      "image_id": 31828
+    },
+    {
+      "match": "ddgRIP",
+      "image_id": 31827
+    },
+    {
+      "match": "ddgM16",
+      "image_id": 31825
+    },
+    {
+      "match": "ddgPVP",
+      "image_id": 31826
+    },
+    {
+      "match": "ddgHammer",
+      "image_id": 33016
+    },
+    {
+      "match": "ddgTerminal",
+      "image_id": 33017
+    },
+    {
+      "match": "ddgMaster",
+      "image_id": 70290
+    }
+  ]
+}

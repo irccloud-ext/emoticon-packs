@@ -1,1 +1,23 @@
-{"name":"twitch-sub-no_onee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nooneCrab","image_id":104381},{"match":"noonePistol","image_id":102868},{"match":"nooneDog","image_id":104210},{"match":"noonePwned","image_id":103063}]}
+{
+  "name": "twitch-sub-no_onee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nooneCrab",
+      "image_id": 104381
+    },
+    {
+      "match": "noonePistol",
+      "image_id": 102868
+    },
+    {
+      "match": "nooneDog",
+      "image_id": 104210
+    },
+    {
+      "match": "noonePwned",
+      "image_id": 103063
+    }
+  ]
+}

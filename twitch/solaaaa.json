@@ -1,1 +1,23 @@
-{"name":"twitch-sub-solaaaa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"solaEloHell","image_id":23502},{"match":"solaFacepalm","image_id":24132},{"match":"solaSalty","image_id":83882},{"match":"solaOMG","image_id":89626}]}
+{
+  "name": "twitch-sub-solaaaa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "solaEloHell",
+      "image_id": 23502
+    },
+    {
+      "match": "solaFacepalm",
+      "image_id": 24132
+    },
+    {
+      "match": "solaSalty",
+      "image_id": 83882
+    },
+    {
+      "match": "solaOMG",
+      "image_id": 89626
+    }
+  ]
+}

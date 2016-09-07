@@ -1,1 +1,15 @@
-{"name":"twitch-sub-qlowstreamt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rodQSG","image_id":103934},{"match":"rodZ","image_id":101765}]}
+{
+  "name": "twitch-sub-qlowstreamt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rodQSG",
+      "image_id": 103934
+    },
+    {
+      "match": "rodZ",
+      "image_id": 101765
+    }
+  ]
+}

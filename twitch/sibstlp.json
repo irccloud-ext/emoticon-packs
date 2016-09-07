@@ -1,1 +1,39 @@
-{"name":"twitch-sub-sibstlp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sebMan","image_id":10128},{"match":"sebFace","image_id":10127},{"match":"sebKappa","image_id":24298},{"match":"sebFail","image_id":27766},{"match":"sebHi","image_id":27881},{"match":"sebReifen","image_id":32658},{"match":"sebAkst","image_id":32657},{"match":"sebTur","image_id":10129}]}
+{
+  "name": "twitch-sub-sibstlp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sebMan",
+      "image_id": 10128
+    },
+    {
+      "match": "sebFace",
+      "image_id": 10127
+    },
+    {
+      "match": "sebKappa",
+      "image_id": 24298
+    },
+    {
+      "match": "sebFail",
+      "image_id": 27766
+    },
+    {
+      "match": "sebHi",
+      "image_id": 27881
+    },
+    {
+      "match": "sebReifen",
+      "image_id": 32658
+    },
+    {
+      "match": "sebAkst",
+      "image_id": 32657
+    },
+    {
+      "match": "sebTur",
+      "image_id": 10129
+    }
+  ]
+}

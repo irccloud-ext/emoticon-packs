@@ -1,1 +1,31 @@
-{"name":"twitch-sub-miller_gena","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"millerMGBABKI","image_id":103058},{"match":"millerMLG","image_id":103059},{"match":"millerHello","image_id":111408},{"match":"millerCat","image_id":111407},{"match":"millerFace","image_id":111308},{"match":"millerCash","image_id":111307}]}
+{
+  "name": "twitch-sub-miller_gena",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "millerMGBABKI",
+      "image_id": 103058
+    },
+    {
+      "match": "millerMLG",
+      "image_id": 103059
+    },
+    {
+      "match": "millerHello",
+      "image_id": 111408
+    },
+    {
+      "match": "millerCat",
+      "image_id": 111407
+    },
+    {
+      "match": "millerFace",
+      "image_id": 111308
+    },
+    {
+      "match": "millerCash",
+      "image_id": 111307
+    }
+  ]
+}

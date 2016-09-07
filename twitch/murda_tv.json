@@ -1,1 +1,47 @@
-{"name":"twitch-sub-murda_tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"murdaW","image_id":93771},{"match":"murdaLove","image_id":45910},{"match":"murdaRage","image_id":52801},{"match":"murdaDeez","image_id":77101},{"match":"murdaThug","image_id":77103},{"match":"murdaHype","image_id":77106},{"match":"murdaRekt","image_id":80940},{"match":"murdaSquad","image_id":80941},{"match":"murdaFriendly","image_id":80938},{"match":"murdaV","image_id":103457}]}
+{
+  "name": "twitch-sub-murda_tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "murdaW",
+      "image_id": 93771
+    },
+    {
+      "match": "murdaLove",
+      "image_id": 45910
+    },
+    {
+      "match": "murdaRage",
+      "image_id": 52801
+    },
+    {
+      "match": "murdaDeez",
+      "image_id": 77101
+    },
+    {
+      "match": "murdaThug",
+      "image_id": 77103
+    },
+    {
+      "match": "murdaHype",
+      "image_id": 77106
+    },
+    {
+      "match": "murdaRekt",
+      "image_id": 80940
+    },
+    {
+      "match": "murdaSquad",
+      "image_id": 80941
+    },
+    {
+      "match": "murdaFriendly",
+      "image_id": 80938
+    },
+    {
+      "match": "murdaWipe",
+      "image_id": 111904
+    }
+  ]
+}

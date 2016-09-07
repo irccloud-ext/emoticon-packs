@@ -1,1 +1,31 @@
-{"name":"twitch-sub-noobest","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bestBear","image_id":3249},{"match":"bestDangerDog","image_id":3318},{"match":"bestDogeloid","image_id":3372},{"match":"bestPeach","image_id":3963},{"match":"bestNice","image_id":10577},{"match":"bestSun","image_id":29883}]}
+{
+  "name": "twitch-sub-noobest",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bestBear",
+      "image_id": 3249
+    },
+    {
+      "match": "bestDangerDog",
+      "image_id": 3318
+    },
+    {
+      "match": "bestDogeloid",
+      "image_id": 3372
+    },
+    {
+      "match": "bestPeach",
+      "image_id": 3963
+    },
+    {
+      "match": "bestNice",
+      "image_id": 10577
+    },
+    {
+      "match": "bestSun",
+      "image_id": 29883
+    }
+  ]
+}

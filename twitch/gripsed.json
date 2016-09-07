@@ -1,1 +1,47 @@
-{"name":"twitch-sub-gripsed","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gripsedREKT","image_id":44137},{"match":"gripsedBAN","image_id":44030},{"match":"gripsedGS","image_id":30474},{"match":"gripsedE","image_id":30475},{"match":"gripsedHYPE","image_id":31740},{"match":"gripsedHERO","image_id":31739},{"match":"gripsedLFG","image_id":43899},{"match":"gripsedFMF","image_id":43900},{"match":"gripsedGE","image_id":45786},{"match":"gripsedRIG","image_id":45785}]}
+{
+  "name": "twitch-sub-gripsed",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gripsedREKT",
+      "image_id": 44137
+    },
+    {
+      "match": "gripsedBAN",
+      "image_id": 44030
+    },
+    {
+      "match": "gripsedGS",
+      "image_id": 30474
+    },
+    {
+      "match": "gripsedE",
+      "image_id": 30475
+    },
+    {
+      "match": "gripsedHYPE",
+      "image_id": 31740
+    },
+    {
+      "match": "gripsedHERO",
+      "image_id": 31739
+    },
+    {
+      "match": "gripsedLFG",
+      "image_id": 43899
+    },
+    {
+      "match": "gripsedFMF",
+      "image_id": 43900
+    },
+    {
+      "match": "gripsedGE",
+      "image_id": 45786
+    },
+    {
+      "match": "gripsedRIG",
+      "image_id": 45785
+    }
+  ]
+}

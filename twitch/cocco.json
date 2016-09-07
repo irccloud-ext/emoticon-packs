@@ -1,1 +1,11 @@
-{"name":"twitch-sub-cocco","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"coccoLove","image_id":108872}]}
+{
+  "name": "twitch-sub-cocco",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "coccoLove",
+      "image_id": 108872
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"twitch-sub-djboucherie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bouchBL","image_id":106096},{"match":"bouchYEAH","image_id":108996},{"match":"bouchMETAL","image_id":106509},{"match":"bouchMOUET","image_id":106508},{"match":"bouchSUB","image_id":111018},{"match":"bouch666","image_id":111017},{"match":"bouchGG","image_id":106093},{"match":"bouchFEND","image_id":106244}]}
+{
+  "name": "twitch-sub-djboucherie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bouchBL",
+      "image_id": 106096
+    },
+    {
+      "match": "bouchYEAH",
+      "image_id": 108996
+    },
+    {
+      "match": "bouchMETAL",
+      "image_id": 106509
+    },
+    {
+      "match": "bouchMOUET",
+      "image_id": 106508
+    },
+    {
+      "match": "bouch666",
+      "image_id": 111017
+    },
+    {
+      "match": "bouchGG",
+      "image_id": 106093
+    },
+    {
+      "match": "bouchFEND",
+      "image_id": 106244
+    }
+  ]
+}

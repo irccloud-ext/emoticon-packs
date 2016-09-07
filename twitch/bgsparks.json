@@ -1,1 +1,23 @@
-{"name":"twitch-sub-bgsparks","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sparksKappa","image_id":49474},{"match":"sparksGg","image_id":49476},{"match":"sparksCartoon","image_id":49478},{"match":"sparksScary","image_id":48830}]}
+{
+  "name": "twitch-sub-bgsparks",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sparksKappa",
+      "image_id": 49474
+    },
+    {
+      "match": "sparksGg",
+      "image_id": 49476
+    },
+    {
+      "match": "sparksCartoon",
+      "image_id": 49478
+    },
+    {
+      "match": "sparksScary",
+      "image_id": 48830
+    }
+  ]
+}

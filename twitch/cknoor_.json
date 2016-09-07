@@ -1,1 +1,23 @@
-{"name":"twitch-sub-cknoor_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cknoorLard","image_id":77543},{"match":"cknoorSurf","image_id":67584},{"match":"cknoorOne","image_id":67583},{"match":"cknoorPOW","image_id":67582}]}
+{
+  "name": "twitch-sub-cknoor_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cknoorLard",
+      "image_id": 77543
+    },
+    {
+      "match": "cknoorSurf",
+      "image_id": 67584
+    },
+    {
+      "match": "cknoorOne",
+      "image_id": 67583
+    },
+    {
+      "match": "cknoorPOW",
+      "image_id": 67582
+    }
+  ]
+}

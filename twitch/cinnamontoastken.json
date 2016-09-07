@@ -1,1 +1,47 @@
-{"name":"twitch-sub-cinnamontoastken","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ctkRIP","image_id":72968},{"match":"ctkBetty","image_id":72961},{"match":"ctkCry","image_id":73699},{"match":"ctkMary","image_id":73045},{"match":"ctkRekt","image_id":88046},{"match":"ctkOmg","image_id":87682},{"match":"ctkBLT","image_id":87678},{"match":"ctkBearhat","image_id":87671},{"match":"ctkKen","image_id":87686},{"match":"ctkHappy","image_id":87852}]}
+{
+  "name": "twitch-sub-cinnamontoastken",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ctkRIP",
+      "image_id": 72968
+    },
+    {
+      "match": "ctkBetty",
+      "image_id": 72961
+    },
+    {
+      "match": "ctkCry",
+      "image_id": 73699
+    },
+    {
+      "match": "ctkMary",
+      "image_id": 73045
+    },
+    {
+      "match": "ctkRekt",
+      "image_id": 88046
+    },
+    {
+      "match": "ctkOmg",
+      "image_id": 87682
+    },
+    {
+      "match": "ctkBLT",
+      "image_id": 87678
+    },
+    {
+      "match": "ctkBearhat",
+      "image_id": 87671
+    },
+    {
+      "match": "ctkKen",
+      "image_id": 87686
+    },
+    {
+      "match": "ctkHappy",
+      "image_id": 87852
+    }
+  ]
+}

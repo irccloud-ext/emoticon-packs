@@ -1,1 +1,39 @@
-{"name":"twitch-sub-siylisstv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"siyCreep","image_id":100651},{"match":"siyHYPE","image_id":100654},{"match":"siyDerp","image_id":100652},{"match":"siyGG","image_id":100653},{"match":"siyLewd","image_id":100655},{"match":"siySad","image_id":100699},{"match":"siyLove","image_id":100656},{"match":"siyRAGE","image_id":100700}]}
+{
+  "name": "twitch-sub-siylisstv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "siyCreep",
+      "image_id": 100651
+    },
+    {
+      "match": "siyHYPE",
+      "image_id": 100654
+    },
+    {
+      "match": "siyDerp",
+      "image_id": 100652
+    },
+    {
+      "match": "siyGG",
+      "image_id": 100653
+    },
+    {
+      "match": "siyLewd",
+      "image_id": 100655
+    },
+    {
+      "match": "siySad",
+      "image_id": 100699
+    },
+    {
+      "match": "siyLove",
+      "image_id": 100656
+    },
+    {
+      "match": "siyRAGE",
+      "image_id": 100700
+    }
+  ]
+}

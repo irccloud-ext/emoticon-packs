@@ -1,1 +1,23 @@
-{"name":"twitch-sub-jamclub","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jamclubKot","image_id":92175},{"match":"jamclubJabka","image_id":90112},{"match":"jamclubOkkk","image_id":92798},{"match":"jamclubKawai2","image_id":92308}]}
+{
+  "name": "twitch-sub-jamclub",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jamclubKot",
+      "image_id": 92175
+    },
+    {
+      "match": "jamclubJabka",
+      "image_id": 90112
+    },
+    {
+      "match": "jamclubOkkk",
+      "image_id": 92798
+    },
+    {
+      "match": "jamclubKawai2",
+      "image_id": 92308
+    }
+  ]
+}

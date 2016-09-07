@@ -1,1 +1,47 @@
-{"name":"twitch-sub-zilea","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zileaHorse","image_id":3555},{"match":"zileaFish","image_id":3601},{"match":"zileaCat","image_id":4730},{"match":"zileaKill","image_id":10478},{"match":"zileaTroll","image_id":12603},{"match":"zileaBilly","image_id":12960},{"match":"zileaAie","image_id":12296},{"match":"zileaIcky","image_id":19159},{"match":"zileaTirion","image_id":19240},{"match":"zileaGasm","image_id":26091}]}
+{
+  "name": "twitch-sub-zilea",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zileaHorse",
+      "image_id": 3555
+    },
+    {
+      "match": "zileaFish",
+      "image_id": 3601
+    },
+    {
+      "match": "zileaCat",
+      "image_id": 4730
+    },
+    {
+      "match": "zileaKill",
+      "image_id": 10478
+    },
+    {
+      "match": "zileaTroll",
+      "image_id": 12603
+    },
+    {
+      "match": "zileaBilly",
+      "image_id": 12960
+    },
+    {
+      "match": "zileaAie",
+      "image_id": 12296
+    },
+    {
+      "match": "zileaIcky",
+      "image_id": 19159
+    },
+    {
+      "match": "zileaTirion",
+      "image_id": 19240
+    },
+    {
+      "match": "zileaGasm",
+      "image_id": 26091
+    }
+  ]
+}

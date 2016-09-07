@@ -1,1 +1,23 @@
-{"name":"twitch-sub-aretolive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aretoSprint","image_id":52963},{"match":"aretoFace","image_id":30175},{"match":"aretoAtz","image_id":74620},{"match":"aretoBus","image_id":72350}]}
+{
+  "name": "twitch-sub-aretolive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aretoSprint",
+      "image_id": 52963
+    },
+    {
+      "match": "aretoFace",
+      "image_id": 30175
+    },
+    {
+      "match": "aretoAtz",
+      "image_id": 74620
+    },
+    {
+      "match": "aretoBus",
+      "image_id": 72350
+    }
+  ]
+}

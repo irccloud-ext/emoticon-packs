@@ -1,1 +1,23 @@
-{"name":"twitch-sub-sirmisiek","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sirmisiekZolwik","image_id":89925},{"match":"sirmisiekHueHue","image_id":105291},{"match":"sirmisiekWyjasniony","image_id":106605},{"match":"sirmisiekSubHype","image_id":106338}]}
+{
+  "name": "twitch-sub-sirmisiek",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sirmisiekZolwik",
+      "image_id": 89925
+    },
+    {
+      "match": "sirmisiekHueHue",
+      "image_id": 105291
+    },
+    {
+      "match": "sirmisiekWyjasniony",
+      "image_id": 106605
+    },
+    {
+      "match": "sirmisiekSubHype",
+      "image_id": 106338
+    }
+  ]
+}

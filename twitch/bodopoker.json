@@ -1,1 +1,27 @@
-{"name":"twitch-sub-bodopoker","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bodopokerHurts","image_id":111229},{"match":"bodopokerTroll","image_id":110425},{"match":"bodopokerStack","image_id":110424},{"match":"bodopokerTeddy","image_id":110427},{"match":"bodopokerMoney","image_id":92581}]}
+{
+  "name": "twitch-sub-bodopoker",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bodopokerHurts",
+      "image_id": 111229
+    },
+    {
+      "match": "bodopokerTroll",
+      "image_id": 110425
+    },
+    {
+      "match": "bodopokerStack",
+      "image_id": 110424
+    },
+    {
+      "match": "bodopokerTeddy",
+      "image_id": 110427
+    },
+    {
+      "match": "bodopokerMoney",
+      "image_id": 92581
+    }
+  ]
+}

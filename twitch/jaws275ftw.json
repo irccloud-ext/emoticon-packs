@@ -1,1 +1,23 @@
-{"name":"twitch-sub-jaws275ftw","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jawsDead","image_id":79119},{"match":"jawsWizard","image_id":78704},{"match":"jawsOJ","image_id":79305},{"match":"jawsThug","image_id":79268}]}
+{
+  "name": "twitch-sub-jaws275ftw",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jawsDead",
+      "image_id": 79119
+    },
+    {
+      "match": "jawsWizard",
+      "image_id": 78704
+    },
+    {
+      "match": "jawsOJ",
+      "image_id": 79305
+    },
+    {
+      "match": "jawsThug",
+      "image_id": 79268
+    }
+  ]
+}

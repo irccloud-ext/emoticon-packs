@@ -1,1 +1,39 @@
-{"name":"twitch-sub-broughy1322","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"broughyFacepalm","image_id":47993},{"match":"broughyOrange","image_id":49338},{"match":"broughyScum","image_id":49621},{"match":"broughyChoke","image_id":82801},{"match":"broughyGG","image_id":72211},{"match":"broughyLove","image_id":72212},{"match":"broughyREKT","image_id":82804},{"match":"broughyShocked","image_id":82803}]}
+{
+  "name": "twitch-sub-broughy1322",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "broughyFacepalm",
+      "image_id": 47993
+    },
+    {
+      "match": "broughyOrange",
+      "image_id": 49338
+    },
+    {
+      "match": "broughyScum",
+      "image_id": 49621
+    },
+    {
+      "match": "broughyChoke",
+      "image_id": 82801
+    },
+    {
+      "match": "broughyGG",
+      "image_id": 72211
+    },
+    {
+      "match": "broughyLove",
+      "image_id": 72212
+    },
+    {
+      "match": "broughyREKT",
+      "image_id": 82804
+    },
+    {
+      "match": "broughyShocked",
+      "image_id": 82803
+    }
+  ]
+}

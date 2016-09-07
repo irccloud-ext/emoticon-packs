@@ -1,1 +1,39 @@
-{"name":"twitch-sub-mtwnaruto1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"brvRly","image_id":64934},{"match":"brvSad","image_id":65128},{"match":"brvZz","image_id":63750},{"match":"brvRekt","image_id":63413},{"match":"brvHype","image_id":63407},{"match":"brvSalt","image_id":65832},{"match":"brvHm","image_id":65205},{"match":"brvLove","image_id":65121}]}
+{
+  "name": "twitch-sub-mtwnaruto1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "brvRly",
+      "image_id": 64934
+    },
+    {
+      "match": "brvSad",
+      "image_id": 65128
+    },
+    {
+      "match": "brvZz",
+      "image_id": 63750
+    },
+    {
+      "match": "brvRekt",
+      "image_id": 63413
+    },
+    {
+      "match": "brvHype",
+      "image_id": 63407
+    },
+    {
+      "match": "brvSalt",
+      "image_id": 65832
+    },
+    {
+      "match": "brvHm",
+      "image_id": 65205
+    },
+    {
+      "match": "brvLove",
+      "image_id": 65121
+    }
+  ]
+}

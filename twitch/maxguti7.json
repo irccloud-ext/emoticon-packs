@@ -1,1 +1,35 @@
-{"name":"twitch-sub-maxguti7","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vorobeyEba","image_id":103863},{"match":"vorobeyGenius","image_id":83602},{"match":"vorobeyVV","image_id":66011},{"match":"vorobeyGood","image_id":66010},{"match":"vorobeyMax","image_id":66003},{"match":"vorobeySub","image_id":83601},{"match":"vorobeyPlus","image_id":83600}]}
+{
+  "name": "twitch-sub-maxguti7",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vorobeyEba",
+      "image_id": 103863
+    },
+    {
+      "match": "vorobeyGenius",
+      "image_id": 83602
+    },
+    {
+      "match": "vorobeyVV",
+      "image_id": 66011
+    },
+    {
+      "match": "vorobeyGood",
+      "image_id": 66010
+    },
+    {
+      "match": "vorobeyMax",
+      "image_id": 66003
+    },
+    {
+      "match": "vorobeySub",
+      "image_id": 83601
+    },
+    {
+      "match": "vorobeyPlus",
+      "image_id": 83600
+    }
+  ]
+}

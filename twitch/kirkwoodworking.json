@@ -1,1 +1,31 @@
-{"name":"twitch-sub-kirkwoodworking","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kwwGrunt","image_id":91444},{"match":"kwwBlood","image_id":90995},{"match":"kwwDork","image_id":91686},{"match":"kwwBeer","image_id":91673},{"match":"kwwRIPEARS","image_id":96075},{"match":"kwwCamdork","image_id":96076}]}
+{
+  "name": "twitch-sub-kirkwoodworking",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kwwGrunt",
+      "image_id": 91444
+    },
+    {
+      "match": "kwwBlood",
+      "image_id": 90995
+    },
+    {
+      "match": "kwwDork",
+      "image_id": 91686
+    },
+    {
+      "match": "kwwBeer",
+      "image_id": 91673
+    },
+    {
+      "match": "kwwRIPEARS",
+      "image_id": 96075
+    },
+    {
+      "match": "kwwCamdork",
+      "image_id": 96076
+    }
+  ]
+}

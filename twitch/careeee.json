@@ -1,1 +1,23 @@
-{"name":"twitch-sub-careeee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"careCry","image_id":72982},{"match":"careBag","image_id":72290},{"match":"careRosie","image_id":73945},{"match":"careKappa","image_id":77611}]}
+{
+  "name": "twitch-sub-careeee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "careCry",
+      "image_id": 72982
+    },
+    {
+      "match": "careBag",
+      "image_id": 72290
+    },
+    {
+      "match": "careRosie",
+      "image_id": 73945
+    },
+    {
+      "match": "careKappa",
+      "image_id": 77611
+    }
+  ]
+}

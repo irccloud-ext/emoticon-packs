@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ryanoob","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ryanoobFace","image_id":36042},{"match":"ryanoobGP","image_id":71884},{"match":"ryanoobSc","image_id":78015},{"match":"ryanoobWFX","image_id":78643}]}
+{
+  "name": "twitch-sub-ryanoob",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ryanoobFace",
+      "image_id": 36042
+    },
+    {
+      "match": "ryanoobGP",
+      "image_id": 71884
+    },
+    {
+      "match": "ryanoobSc",
+      "image_id": 78015
+    },
+    {
+      "match": "ryanoobWFX",
+      "image_id": 78643
+    }
+  ]
+}

@@ -1,1 +1,11 @@
-{"name":"twitch-sub-snowlez","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"snowlzCachorro","image_id":23154}]}
+{
+  "name": "twitch-sub-snowlez",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "snowlzCachorro",
+      "image_id": 23154
+    }
+  ]
+}

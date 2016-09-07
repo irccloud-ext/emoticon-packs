@@ -1,1 +1,31 @@
-{"name":"twitch-sub-jerpdoesgames","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jerpMagic","image_id":25547},{"match":"jerpLost","image_id":28452},{"match":"jerpFlee","image_id":35477},{"match":"jerpHonor","image_id":46432},{"match":"jerpWait","image_id":99924},{"match":"jerpLove","image_id":100865}]}
+{
+  "name": "twitch-sub-jerpdoesgames",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jerpMagic",
+      "image_id": 25547
+    },
+    {
+      "match": "jerpLost",
+      "image_id": 28452
+    },
+    {
+      "match": "jerpFlee",
+      "image_id": 35477
+    },
+    {
+      "match": "jerpHonor",
+      "image_id": 46432
+    },
+    {
+      "match": "jerpWait",
+      "image_id": 99924
+    },
+    {
+      "match": "jerpLove",
+      "image_id": 100865
+    }
+  ]
+}

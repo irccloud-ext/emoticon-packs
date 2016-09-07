@@ -1,1 +1,23 @@
-{"name":"twitch-sub-thegamerchick","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hamhamMiracle","image_id":93532},{"match":"hamhamFine","image_id":93535},{"match":"hamhamSalt","image_id":93534},{"match":"hamhamDance","image_id":93529}]}
+{
+  "name": "twitch-sub-thegamerchick",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hamhamMiracle",
+      "image_id": 93532
+    },
+    {
+      "match": "hamhamFine",
+      "image_id": 93535
+    },
+    {
+      "match": "hamhamSalt",
+      "image_id": 93534
+    },
+    {
+      "match": "hamhamDance",
+      "image_id": 93529
+    }
+  ]
+}

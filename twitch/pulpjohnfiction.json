@@ -1,1 +1,39 @@
-{"name":"twitch-sub-pulpjohnfiction","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pulpYes","image_id":84567},{"match":"pulpNo","image_id":84566},{"match":"pulpHype","image_id":84564},{"match":"pulpHug","image_id":84563},{"match":"pulpB","image_id":84562},{"match":"pulpHeart","image_id":38503},{"match":"pulpGasm","image_id":79606},{"match":"pulpJudge","image_id":100466}]}
+{
+  "name": "twitch-sub-pulpjohnfiction",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pulpYes",
+      "image_id": 84567
+    },
+    {
+      "match": "pulpNo",
+      "image_id": 84566
+    },
+    {
+      "match": "pulpHype",
+      "image_id": 84564
+    },
+    {
+      "match": "pulpHug",
+      "image_id": 84563
+    },
+    {
+      "match": "pulpB",
+      "image_id": 84562
+    },
+    {
+      "match": "pulpHeart",
+      "image_id": 38503
+    },
+    {
+      "match": "pulpGasm",
+      "image_id": 79606
+    },
+    {
+      "match": "pulpJudge",
+      "image_id": 100466
+    }
+  ]
+}

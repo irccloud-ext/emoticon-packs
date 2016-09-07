@@ -1,1 +1,31 @@
-{"name":"twitch-sub-oxilac","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"oxilacRIP","image_id":85446},{"match":"oxilacFace","image_id":65307},{"match":"oxilacGG","image_id":88755},{"match":"oxilacLC","image_id":88754},{"match":"oxilacSub","image_id":85115},{"match":"oxilacQuoi","image_id":85119}]}
+{
+  "name": "twitch-sub-oxilac",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "oxilacRIP",
+      "image_id": 85446
+    },
+    {
+      "match": "oxilacFace",
+      "image_id": 65307
+    },
+    {
+      "match": "oxilacGG",
+      "image_id": 88755
+    },
+    {
+      "match": "oxilacLC",
+      "image_id": 88754
+    },
+    {
+      "match": "oxilacSub",
+      "image_id": 85115
+    },
+    {
+      "match": "oxilacQuoi",
+      "image_id": 85119
+    }
+  ]
+}

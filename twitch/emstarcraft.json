@@ -1,1 +1,39 @@
-{"name":"twitch-sub-emstarcraft","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cattaEm","image_id":75944},{"match":"cattaPl","image_id":77252},{"match":"cattaStronk","image_id":77251},{"match":"cattaDrona","image_id":49568},{"match":"cattaGryz","image_id":48756},{"match":"cattaOhh","image_id":48755},{"match":"cattaWat","image_id":48907},{"match":"cattaGg","image_id":69980}]}
+{
+  "name": "twitch-sub-emstarcraft",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cattaEm",
+      "image_id": 75944
+    },
+    {
+      "match": "cattaPl",
+      "image_id": 77252
+    },
+    {
+      "match": "cattaStronk",
+      "image_id": 77251
+    },
+    {
+      "match": "cattaDrona",
+      "image_id": 49568
+    },
+    {
+      "match": "cattaGryz",
+      "image_id": 48756
+    },
+    {
+      "match": "cattaOhh",
+      "image_id": 48755
+    },
+    {
+      "match": "cattaWat",
+      "image_id": 48907
+    },
+    {
+      "match": "cattaGg",
+      "image_id": 69980
+    }
+  ]
+}

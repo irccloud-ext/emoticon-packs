@@ -1,1 +1,47 @@
-{"name":"twitch-sub-xsmak","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"smakRepresent","image_id":2088},{"match":"smakHatsoff","image_id":5138},{"match":"smakRoss","image_id":16736},{"match":"smakM","image_id":27319},{"match":"smakN","image_id":33655},{"match":"smakR","image_id":33657},{"match":"smakH","image_id":33653},{"match":"smakAttack","image_id":73538},{"match":"smakTrain","image_id":73540},{"match":"smakWD","image_id":73539}]}
+{
+  "name": "twitch-sub-xsmak",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "smakRepresent",
+      "image_id": 2088
+    },
+    {
+      "match": "smakHatsoff",
+      "image_id": 5138
+    },
+    {
+      "match": "smakRoss",
+      "image_id": 16736
+    },
+    {
+      "match": "smakM",
+      "image_id": 27319
+    },
+    {
+      "match": "smakN",
+      "image_id": 33655
+    },
+    {
+      "match": "smakR",
+      "image_id": 33657
+    },
+    {
+      "match": "smakH",
+      "image_id": 33653
+    },
+    {
+      "match": "smakAttack",
+      "image_id": 73538
+    },
+    {
+      "match": "smakTrain",
+      "image_id": 73540
+    },
+    {
+      "match": "smakWD",
+      "image_id": 73539
+    }
+  ]
+}

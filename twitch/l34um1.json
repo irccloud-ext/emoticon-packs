@@ -1,1 +1,23 @@
-{"name":"twitch-sub-l34um1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"baumiFrejthking","image_id":34379},{"match":"baumiRapier","image_id":34812},{"match":"baumiHammer","image_id":34810},{"match":"baumiFlag","image_id":34936}]}
+{
+  "name": "twitch-sub-l34um1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "baumiFrejthking",
+      "image_id": 34379
+    },
+    {
+      "match": "baumiRapier",
+      "image_id": 34812
+    },
+    {
+      "match": "baumiHammer",
+      "image_id": 34810
+    },
+    {
+      "match": "baumiFlag",
+      "image_id": 34936
+    }
+  ]
+}

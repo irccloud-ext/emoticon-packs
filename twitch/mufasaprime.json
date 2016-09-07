@@ -1,1 +1,39 @@
-{"name":"twitch-sub-mufasaprime","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"primeBeard","image_id":3187},{"match":"primeKappa","image_id":3255},{"match":"primeLaugh","image_id":3240},{"match":"primeLoot","image_id":8266},{"match":"primeScum","image_id":8471},{"match":"primeCoin","image_id":8527},{"match":"primeSquid","image_id":15002},{"match":"primeFeel","image_id":26298}]}
+{
+  "name": "twitch-sub-mufasaprime",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "primeBeard",
+      "image_id": 3187
+    },
+    {
+      "match": "primeKappa",
+      "image_id": 3255
+    },
+    {
+      "match": "primeLaugh",
+      "image_id": 3240
+    },
+    {
+      "match": "primeLoot",
+      "image_id": 8266
+    },
+    {
+      "match": "primeScum",
+      "image_id": 8471
+    },
+    {
+      "match": "primeCoin",
+      "image_id": 8527
+    },
+    {
+      "match": "primeSquid",
+      "image_id": 15002
+    },
+    {
+      "match": "primeFeel",
+      "image_id": 26298
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-hosttwisty","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"twistySpec","image_id":8360},{"match":"twistyWhip","image_id":8387}]}
+{
+  "name": "twitch-sub-hosttwisty",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "twistySpec",
+      "image_id": 8360
+    },
+    {
+      "match": "twistyWhip",
+      "image_id": 8387
+    }
+  ]
+}

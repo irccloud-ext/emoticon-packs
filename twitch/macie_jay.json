@@ -1,1 +1,23 @@
-{"name":"twitch-sub-macie_jay","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mahGasp","image_id":109627},{"match":"mahChat","image_id":109620},{"match":"mahBrook","image_id":109190},{"match":"mahFacePalm","image_id":109238}]}
+{
+  "name": "twitch-sub-macie_jay",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mahGasp",
+      "image_id": 109627
+    },
+    {
+      "match": "mahChat",
+      "image_id": 109620
+    },
+    {
+      "match": "mahBrook",
+      "image_id": 109190
+    },
+    {
+      "match": "mahFacePalm",
+      "image_id": 109238
+    }
+  ]
+}

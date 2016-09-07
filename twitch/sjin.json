@@ -1,1 +1,15 @@
-{"name":"twitch-sub-sjin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sjinElsa","image_id":68123},{"match":"sjinYee","image_id":68122}]}
+{
+  "name": "twitch-sub-sjin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sjinElsa",
+      "image_id": 68123
+    },
+    {
+      "match": "sjinYee",
+      "image_id": 68122
+    }
+  ]
+}

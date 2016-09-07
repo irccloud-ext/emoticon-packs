@@ -1,1 +1,107 @@
-{"name":"twitch-sub-cryaotic","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cryJundus","image_id":1475},{"match":"cryLeppy","image_id":1476},{"match":"cryRageMoney","image_id":1477},{"match":"crySuperZ","image_id":1478},{"match":"cryMosquito","image_id":18314},{"match":"cryTurnip","image_id":22174},{"match":"cryMA","image_id":31285},{"match":"cryCat","image_id":33445},{"match":"cry8","image_id":37857},{"match":"cry7","image_id":37856},{"match":"cry6","image_id":37855},{"match":"cry5","image_id":37854},{"match":"cry4","image_id":37853},{"match":"cry2","image_id":37851},{"match":"cry3","image_id":37852},{"match":"cry1","image_id":37850},{"match":"cryLeppyCool","image_id":40929},{"match":"cryRussmo","image_id":52143},{"match":"cryPlus5","image_id":56453},{"match":"cryTrash","image_id":87087},{"match":"cryLove","image_id":87086},{"match":"cry2ez","image_id":78070},{"match":"crySellOut","image_id":78918},{"match":"cryDDOS","image_id":84382},{"match":"cryFriend","image_id":90621}]}
+{
+  "name": "twitch-sub-cryaotic",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cryJundus",
+      "image_id": 1475
+    },
+    {
+      "match": "cryLeppy",
+      "image_id": 1476
+    },
+    {
+      "match": "cryRageMoney",
+      "image_id": 1477
+    },
+    {
+      "match": "crySuperZ",
+      "image_id": 1478
+    },
+    {
+      "match": "cryMosquito",
+      "image_id": 18314
+    },
+    {
+      "match": "cryTurnip",
+      "image_id": 22174
+    },
+    {
+      "match": "cryMA",
+      "image_id": 31285
+    },
+    {
+      "match": "cryCat",
+      "image_id": 33445
+    },
+    {
+      "match": "cry8",
+      "image_id": 37857
+    },
+    {
+      "match": "cry7",
+      "image_id": 37856
+    },
+    {
+      "match": "cry6",
+      "image_id": 37855
+    },
+    {
+      "match": "cry5",
+      "image_id": 37854
+    },
+    {
+      "match": "cry4",
+      "image_id": 37853
+    },
+    {
+      "match": "cry2",
+      "image_id": 37851
+    },
+    {
+      "match": "cry3",
+      "image_id": 37852
+    },
+    {
+      "match": "cry1",
+      "image_id": 37850
+    },
+    {
+      "match": "cryLeppyCool",
+      "image_id": 40929
+    },
+    {
+      "match": "cryRussmo",
+      "image_id": 52143
+    },
+    {
+      "match": "cryPlus5",
+      "image_id": 56453
+    },
+    {
+      "match": "cryTrash",
+      "image_id": 87087
+    },
+    {
+      "match": "cryLove",
+      "image_id": 87086
+    },
+    {
+      "match": "cry2ez",
+      "image_id": 78070
+    },
+    {
+      "match": "crySellOut",
+      "image_id": 78918
+    },
+    {
+      "match": "cryDDOS",
+      "image_id": 84382
+    },
+    {
+      "match": "cryFriend",
+      "image_id": 90621
+    }
+  ]
+}

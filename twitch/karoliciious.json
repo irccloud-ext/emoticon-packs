@@ -1,1 +1,39 @@
-{"name":"twitch-sub-karoliciious","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"karoRage","image_id":61319},{"match":"karoCalidad","image_id":75502},{"match":"karoSad","image_id":61999},{"match":"karoHype","image_id":75684},{"match":"karoOc","image_id":73244},{"match":"karoDio","image_id":70051},{"match":"karoTen","image_id":76104},{"match":"karoLove","image_id":75504}]}
+{
+  "name": "twitch-sub-karoliciious",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "karoRage",
+      "image_id": 61319
+    },
+    {
+      "match": "karoCalidad",
+      "image_id": 75502
+    },
+    {
+      "match": "karoSad",
+      "image_id": 61999
+    },
+    {
+      "match": "karoHype",
+      "image_id": 75684
+    },
+    {
+      "match": "karoOc",
+      "image_id": 73244
+    },
+    {
+      "match": "karoDio",
+      "image_id": 70051
+    },
+    {
+      "match": "karoTen",
+      "image_id": 76104
+    },
+    {
+      "match": "karoLove",
+      "image_id": 75504
+    }
+  ]
+}

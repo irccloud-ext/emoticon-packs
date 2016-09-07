@@ -1,1 +1,23 @@
-{"name":"twitch-sub-dinshdin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dishBozhe","image_id":87089},{"match":"dishSad","image_id":90255},{"match":"dishAaa","image_id":88411},{"match":"dishLove","image_id":87151}]}
+{
+  "name": "twitch-sub-dinshdin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dishBozhe",
+      "image_id": 87089
+    },
+    {
+      "match": "dishSad",
+      "image_id": 90255
+    },
+    {
+      "match": "dishAaa",
+      "image_id": 88411
+    },
+    {
+      "match": "dishLove",
+      "image_id": 87151
+    }
+  ]
+}

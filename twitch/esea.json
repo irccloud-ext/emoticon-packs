@@ -1,1 +1,27 @@
-{"name":"twitch-sub-esea","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"eseaPremium","image_id":34795},{"match":"eseaBlack","image_id":34799},{"match":"eseaInsider","image_id":34797},{"match":"eseaKarmaDevil","image_id":35095},{"match":"eseaKarmaAngel","image_id":35094}]}
+{
+  "name": "twitch-sub-esea",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "eseaPremium",
+      "image_id": 34795
+    },
+    {
+      "match": "eseaBlack",
+      "image_id": 34799
+    },
+    {
+      "match": "eseaInsider",
+      "image_id": 34797
+    },
+    {
+      "match": "eseaKarmaDevil",
+      "image_id": 35095
+    },
+    {
+      "match": "eseaKarmaAngel",
+      "image_id": 35094
+    }
+  ]
+}

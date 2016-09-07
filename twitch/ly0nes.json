@@ -1,1 +1,15 @@
-{"name":"twitch-sub-ly0nes","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lyonHB","image_id":85700},{"match":"lyonLove","image_id":85701}]}
+{
+  "name": "twitch-sub-ly0nes",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lyonHB",
+      "image_id": 85700
+    },
+    {
+      "match": "lyonLove",
+      "image_id": 85701
+    }
+  ]
+}

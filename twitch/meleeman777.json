@@ -1,1 +1,39 @@
-{"name":"twitch-sub-meleeman777","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"meleeGasm","image_id":89903},{"match":"meleeCry","image_id":89902},{"match":"meleeConcede","image_id":89901},{"match":"meleeWTF","image_id":89759},{"match":"meleeBomb","image_id":89757},{"match":"meleePalm","image_id":89756},{"match":"meleeCHSV","image_id":89754},{"match":"meleeHype","image_id":89760}]}
+{
+  "name": "twitch-sub-meleeman777",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "meleeGasm",
+      "image_id": 89903
+    },
+    {
+      "match": "meleeCry",
+      "image_id": 89902
+    },
+    {
+      "match": "meleeConcede",
+      "image_id": 89901
+    },
+    {
+      "match": "meleeWTF",
+      "image_id": 89759
+    },
+    {
+      "match": "meleeBomb",
+      "image_id": 89757
+    },
+    {
+      "match": "meleePalm",
+      "image_id": 89756
+    },
+    {
+      "match": "meleeCHSV",
+      "image_id": 89754
+    },
+    {
+      "match": "meleeHype",
+      "image_id": 89760
+    }
+  ]
+}

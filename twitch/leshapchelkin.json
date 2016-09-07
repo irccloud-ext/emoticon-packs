@@ -1,1 +1,31 @@
-{"name":"twitch-sub-leshapchelkin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pch3Wow","image_id":110501},{"match":"pch3Happy","image_id":110502},{"match":"pch3Fail","image_id":110503},{"match":"pch3Angry","image_id":110504}]}
+{
+  "name": "twitch-sub-leshapchelkin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pch3Gleb",
+      "image_id": 112495
+    },
+    {
+      "match": "pch3Wow",
+      "image_id": 110501
+    },
+    {
+      "match": "pch3Happy",
+      "image_id": 110502
+    },
+    {
+      "match": "pch3Fail",
+      "image_id": 110503
+    },
+    {
+      "match": "pch3Angry",
+      "image_id": 110504
+    },
+    {
+      "match": "pch3Pch3hype",
+      "image_id": 112371
+    }
+  ]
+}

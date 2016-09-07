@@ -1,1 +1,31 @@
-{"name":"twitch-sub-casy_nuf","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"casyH","image_id":77354},{"match":"casyCH","image_id":73596},{"match":"casyFeels","image_id":101846},{"match":"casyG","image_id":73684},{"match":"casyL","image_id":73342},{"match":"casyP","image_id":74532}]}
+{
+  "name": "twitch-sub-casy_nuf",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "casyH",
+      "image_id": 77354
+    },
+    {
+      "match": "casyCH",
+      "image_id": 73596
+    },
+    {
+      "match": "casyFeels",
+      "image_id": 101846
+    },
+    {
+      "match": "casyG",
+      "image_id": 73684
+    },
+    {
+      "match": "casyL",
+      "image_id": 73342
+    },
+    {
+      "match": "casyP",
+      "image_id": 74532
+    }
+  ]
+}

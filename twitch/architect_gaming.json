@@ -1,1 +1,23 @@
-{"name":"twitch-sub-architect_gaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"architectGROSS","image_id":60606},{"match":"architectDING","image_id":57915},{"match":"architectRoxy","image_id":60695},{"match":"architectSimba","image_id":57466}]}
+{
+  "name": "twitch-sub-architect_gaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "architectGROSS",
+      "image_id": 60606
+    },
+    {
+      "match": "architectDING",
+      "image_id": 57915
+    },
+    {
+      "match": "architectRoxy",
+      "image_id": 60695
+    },
+    {
+      "match": "architectSimba",
+      "image_id": 57466
+    }
+  ]
+}

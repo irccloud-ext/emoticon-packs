@@ -1,1 +1,15 @@
-{"name":"twitch-sub-thaivega206","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tvegaMegaKK","image_id":84669},{"match":"tvegaRipZero","image_id":84815}]}
+{
+  "name": "twitch-sub-thaivega206",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tvegaMegaKK",
+      "image_id": 84669
+    },
+    {
+      "match": "tvegaRipZero",
+      "image_id": 84815
+    }
+  ]
+}

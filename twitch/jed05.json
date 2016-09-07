@@ -1,1 +1,23 @@
-{"name":"twitch-sub-jed05","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jedSmug","image_id":27376},{"match":"jedPika","image_id":26779},{"match":"jedPups","image_id":34382},{"match":"jedCheater","image_id":34448}]}
+{
+  "name": "twitch-sub-jed05",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jedSmug",
+      "image_id": 27376
+    },
+    {
+      "match": "jedPika",
+      "image_id": 26779
+    },
+    {
+      "match": "jedPups",
+      "image_id": 34382
+    },
+    {
+      "match": "jedCheater",
+      "image_id": 34448
+    }
+  ]
+}

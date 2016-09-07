@@ -1,1 +1,31 @@
-{"name":"twitch-sub-jnasty720","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nastySub","image_id":33470},{"match":"nastyQuit","image_id":71286},{"match":"nastySquad","image_id":71287},{"match":"nastyHitmarker","image_id":71606},{"match":"nastyAirhorn","image_id":71607},{"match":"nastyTeam","image_id":71285}]}
+{
+  "name": "twitch-sub-jnasty720",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nastySub",
+      "image_id": 33470
+    },
+    {
+      "match": "nastyQuit",
+      "image_id": 71286
+    },
+    {
+      "match": "nastySquad",
+      "image_id": 71287
+    },
+    {
+      "match": "nastyHitmarker",
+      "image_id": 71606
+    },
+    {
+      "match": "nastyAirhorn",
+      "image_id": 71607
+    },
+    {
+      "match": "nastyTeam",
+      "image_id": 71285
+    }
+  ]
+}

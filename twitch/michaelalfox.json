@@ -1,1 +1,39 @@
-{"name":"twitch-sub-michaelalfox","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"malfGold","image_id":6289},{"match":"malfPoutine","image_id":62960},{"match":"malfBae","image_id":62959},{"match":"malfChuck","image_id":82331},{"match":"malfCuddle","image_id":82330},{"match":"malfSorry","image_id":94283},{"match":"malfGasm","image_id":100678},{"match":"malfLove","image_id":100679}]}
+{
+  "name": "twitch-sub-michaelalfox",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "malfGold",
+      "image_id": 6289
+    },
+    {
+      "match": "malfPoutine",
+      "image_id": 62960
+    },
+    {
+      "match": "malfBae",
+      "image_id": 62959
+    },
+    {
+      "match": "malfChuck",
+      "image_id": 82331
+    },
+    {
+      "match": "malfCuddle",
+      "image_id": 82330
+    },
+    {
+      "match": "malfSorry",
+      "image_id": 94283
+    },
+    {
+      "match": "malfGasm",
+      "image_id": 100678
+    },
+    {
+      "match": "malfLove",
+      "image_id": 100679
+    }
+  ]
+}

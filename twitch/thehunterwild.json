@@ -1,1 +1,67 @@
-{"name":"twitch-sub-thehunterwild","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"muskYerbond","image_id":93438},{"match":"muskJen","image_id":46182},{"match":"muskRekt","image_id":46181},{"match":"muskMU","image_id":45926},{"match":"muskSK","image_id":45927},{"match":"muskPump","image_id":44717},{"match":"muskLove","image_id":44715},{"match":"muskHype","image_id":44713},{"match":"muskSad","image_id":44712},{"match":"muskRage","image_id":45524},{"match":"muskKappa","image_id":80986},{"match":"muskO","image_id":93062},{"match":"muskF2","image_id":93061},{"match":"muskF","image_id":93060},{"match":"muskDerp","image_id":93059}]}
+{
+  "name": "twitch-sub-thehunterwild",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "muskYerbond",
+      "image_id": 93438
+    },
+    {
+      "match": "muskJen",
+      "image_id": 46182
+    },
+    {
+      "match": "muskRekt",
+      "image_id": 46181
+    },
+    {
+      "match": "muskMU",
+      "image_id": 45926
+    },
+    {
+      "match": "muskSK",
+      "image_id": 45927
+    },
+    {
+      "match": "muskPump",
+      "image_id": 44717
+    },
+    {
+      "match": "muskLove",
+      "image_id": 44715
+    },
+    {
+      "match": "muskHype",
+      "image_id": 44713
+    },
+    {
+      "match": "muskSad",
+      "image_id": 44712
+    },
+    {
+      "match": "muskRage",
+      "image_id": 45524
+    },
+    {
+      "match": "muskKappa",
+      "image_id": 80986
+    },
+    {
+      "match": "muskO",
+      "image_id": 93062
+    },
+    {
+      "match": "muskF2",
+      "image_id": 93061
+    },
+    {
+      "match": "muskF",
+      "image_id": 93060
+    },
+    {
+      "match": "muskDerp",
+      "image_id": 93059
+    }
+  ]
+}

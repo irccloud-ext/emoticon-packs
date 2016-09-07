@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mixrj","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mixrjThresh","image_id":73695},{"match":"mixrjKappa","image_id":89821},{"match":"mixrjHey","image_id":89820},{"match":"mixrjNida","image_id":73694},{"match":"mixrjPISTOLA","image_id":82285},{"match":"mixrjUH","image_id":82286}]}
+{
+  "name": "twitch-sub-mixrj",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mixrjThresh",
+      "image_id": 73695
+    },
+    {
+      "match": "mixrjKappa",
+      "image_id": 89821
+    },
+    {
+      "match": "mixrjHey",
+      "image_id": 89820
+    },
+    {
+      "match": "mixrjNida",
+      "image_id": 73694
+    },
+    {
+      "match": "mixrjPISTOLA",
+      "image_id": 82285
+    },
+    {
+      "match": "mixrjUH",
+      "image_id": 82286
+    }
+  ]
+}

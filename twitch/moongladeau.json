@@ -1,1 +1,23 @@
-{"name":"twitch-sub-moongladeau","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mngLove","image_id":94937},{"match":"mngChill","image_id":90749},{"match":"mngGg","image_id":90750},{"match":"mngSalt","image_id":95045}]}
+{
+  "name": "twitch-sub-moongladeau",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mngLove",
+      "image_id": 94937
+    },
+    {
+      "match": "mngChill",
+      "image_id": 90749
+    },
+    {
+      "match": "mngGg",
+      "image_id": 90750
+    },
+    {
+      "match": "mngSalt",
+      "image_id": 95045
+    }
+  ]
+}

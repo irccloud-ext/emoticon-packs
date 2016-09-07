@@ -1,1 +1,31 @@
-{"name":"twitch-sub-hotbow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hotbowHype","image_id":76810},{"match":"hotbowGasm","image_id":77523},{"match":"hotbowKeepo","image_id":77521},{"match":"hotbowFeels","image_id":104456},{"match":"hotbowF6","image_id":76327},{"match":"hotbowW","image_id":76326}]}
+{
+  "name": "twitch-sub-hotbow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hotbowHype",
+      "image_id": 76810
+    },
+    {
+      "match": "hotbowGasm",
+      "image_id": 77523
+    },
+    {
+      "match": "hotbowKeepo",
+      "image_id": 77521
+    },
+    {
+      "match": "hotbowFeels",
+      "image_id": 104456
+    },
+    {
+      "match": "hotbowF6",
+      "image_id": 76327
+    },
+    {
+      "match": "hotbowW",
+      "image_id": 76326
+    }
+  ]
+}

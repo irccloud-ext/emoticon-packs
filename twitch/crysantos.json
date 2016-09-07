@@ -1,1 +1,19 @@
-{"name":"twitch-sub-crysantos","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"santosFlake","image_id":110453},{"match":"santosClub","image_id":110490}]}
+{
+  "name": "twitch-sub-crysantos",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "santosFlake",
+      "image_id": 110453
+    },
+    {
+      "match": "santosClub",
+      "image_id": 110490
+    },
+    {
+      "match": "santosHorn",
+      "image_id": 112604
+    }
+  ]
+}

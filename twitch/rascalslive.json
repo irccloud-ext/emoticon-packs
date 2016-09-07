@@ -1,1 +1,67 @@
-{"name":"twitch-sub-rascalslive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"detBot","image_id":64708},{"match":"detF","image_id":67765},{"match":"detHey","image_id":60837},{"match":"detRespekt","image_id":65621},{"match":"detCry","image_id":67347},{"match":"detS","image_id":78304},{"match":"detRIG","image_id":78136},{"match":"detGED","image_id":78135},{"match":"detNO","image_id":78908},{"match":"detW","image_id":84135},{"match":"detEW","image_id":84143},{"match":"det1","image_id":84298},{"match":"det2","image_id":84299},{"match":"det3","image_id":84300},{"match":"det4","image_id":84301}]}
+{
+  "name": "twitch-sub-rascalslive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "detBot",
+      "image_id": 64708
+    },
+    {
+      "match": "detF",
+      "image_id": 67765
+    },
+    {
+      "match": "detHey",
+      "image_id": 60837
+    },
+    {
+      "match": "detRespekt",
+      "image_id": 65621
+    },
+    {
+      "match": "detCry",
+      "image_id": 67347
+    },
+    {
+      "match": "detS",
+      "image_id": 78304
+    },
+    {
+      "match": "detRIG",
+      "image_id": 78136
+    },
+    {
+      "match": "detGED",
+      "image_id": 78135
+    },
+    {
+      "match": "detNO",
+      "image_id": 78908
+    },
+    {
+      "match": "detW",
+      "image_id": 84135
+    },
+    {
+      "match": "detEW",
+      "image_id": 84143
+    },
+    {
+      "match": "det1",
+      "image_id": 84298
+    },
+    {
+      "match": "det2",
+      "image_id": 84299
+    },
+    {
+      "match": "det3",
+      "image_id": 84300
+    },
+    {
+      "match": "det4",
+      "image_id": 84301
+    }
+  ]
+}

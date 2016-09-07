@@ -1,1 +1,39 @@
-{"name":"twitch-sub-idlethumbs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"thumbsSean","image_id":105427},{"match":"thumbsDanielle","image_id":105426},{"match":"thumbsChris","image_id":105295},{"match":"thumbsNick","image_id":105298},{"match":"thumbsSpaff","image_id":104172},{"match":"thumbsJake","image_id":105296},{"match":"thumbsSteve","image_id":109777},{"match":"thumbsDoug","image_id":109778}]}
+{
+  "name": "twitch-sub-idlethumbs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "thumbsSean",
+      "image_id": 105427
+    },
+    {
+      "match": "thumbsDanielle",
+      "image_id": 105426
+    },
+    {
+      "match": "thumbsChris",
+      "image_id": 105295
+    },
+    {
+      "match": "thumbsNick",
+      "image_id": 105298
+    },
+    {
+      "match": "thumbsSpaff",
+      "image_id": 104172
+    },
+    {
+      "match": "thumbsJake",
+      "image_id": 105296
+    },
+    {
+      "match": "thumbsSteve",
+      "image_id": 109777
+    },
+    {
+      "match": "thumbsDoug",
+      "image_id": 109778
+    }
+  ]
+}

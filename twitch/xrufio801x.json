@@ -1,1 +1,47 @@
-{"name":"twitch-sub-xrufio801x","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rufioRip","image_id":17569},{"match":"rufioDrunk","image_id":17707},{"match":"rufioLove","image_id":46103},{"match":"rufioKappa","image_id":75181},{"match":"rufioWah","image_id":104593},{"match":"rufio2ez","image_id":75191},{"match":"rufioBae","image_id":75190},{"match":"rufioHug","image_id":75182},{"match":"rufio7","image_id":75291},{"match":"rufioFeels","image_id":103752}]}
+{
+  "name": "twitch-sub-xrufio801x",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rufioRip",
+      "image_id": 17569
+    },
+    {
+      "match": "rufioDrunk",
+      "image_id": 17707
+    },
+    {
+      "match": "rufioLove",
+      "image_id": 46103
+    },
+    {
+      "match": "rufioKappa",
+      "image_id": 75181
+    },
+    {
+      "match": "rufioWah",
+      "image_id": 104593
+    },
+    {
+      "match": "rufio2ez",
+      "image_id": 75191
+    },
+    {
+      "match": "rufioBae",
+      "image_id": 75190
+    },
+    {
+      "match": "rufioHug",
+      "image_id": 75182
+    },
+    {
+      "match": "rufio7",
+      "image_id": 75291
+    },
+    {
+      "match": "rufioFeels",
+      "image_id": 103752
+    }
+  ]
+}

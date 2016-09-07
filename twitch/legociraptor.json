@@ -1,1 +1,11 @@
-{"name":"twitch-sub-legociraptor","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"legociG2","image_id":80920}]}
+{
+  "name": "twitch-sub-legociraptor",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "legociG2",
+      "image_id": 80920
+    }
+  ]
+}

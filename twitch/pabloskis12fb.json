@@ -1,1 +1,23 @@
-{"name":"twitch-sub-pabloskis12fb","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pabloChef","image_id":91559},{"match":"pabloKappa","image_id":91361},{"match":"pablo007","image_id":105894}]}
+{
+  "name": "twitch-sub-pabloskis12fb",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pabloChef",
+      "image_id": 91559
+    },
+    {
+      "match": "pabloKappa",
+      "image_id": 91361
+    },
+    {
+      "match": "pablo007",
+      "image_id": 105894
+    },
+    {
+      "match": "pabloHeretics",
+      "image_id": 112187
+    }
+  ]
+}

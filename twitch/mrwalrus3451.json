@@ -1,1 +1,23 @@
-{"name":"twitch-sub-mrwalrus3451","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"walMad","image_id":27273},{"match":"walTer","image_id":73805},{"match":"walRus","image_id":26319},{"match":"walNuts","image_id":27272}]}
+{
+  "name": "twitch-sub-mrwalrus3451",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "walMad",
+      "image_id": 27273
+    },
+    {
+      "match": "walTer",
+      "image_id": 73805
+    },
+    {
+      "match": "walRus",
+      "image_id": 26319
+    },
+    {
+      "match": "walNuts",
+      "image_id": 27272
+    }
+  ]
+}

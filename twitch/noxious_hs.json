@@ -1,1 +1,35 @@
-{"name":"twitch-sub-noxious_hs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"noxJJ","image_id":9945},{"match":"noxLOL","image_id":20008},{"match":"noxBoom","image_id":44865},{"match":"noxW","image_id":47311},{"match":"noxPride","image_id":62648},{"match":"noxC","image_id":62666},{"match":"noxRage","image_id":81105}]}
+{
+  "name": "twitch-sub-noxious_hs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "noxJJ",
+      "image_id": 9945
+    },
+    {
+      "match": "noxLOL",
+      "image_id": 20008
+    },
+    {
+      "match": "noxBoom",
+      "image_id": 44865
+    },
+    {
+      "match": "noxW",
+      "image_id": 47311
+    },
+    {
+      "match": "noxPride",
+      "image_id": 62648
+    },
+    {
+      "match": "noxC",
+      "image_id": 62666
+    },
+    {
+      "match": "noxRage",
+      "image_id": 81105
+    }
+  ]
+}

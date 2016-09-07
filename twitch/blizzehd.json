@@ -1,1 +1,63 @@
-{"name":"twitch-sub-blizzehd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chowGangster","image_id":21354},{"match":"chowDemon","image_id":21358},{"match":"chowHammer","image_id":21446},{"match":"chowBlame","image_id":39280},{"match":"chowDrunk","image_id":39216},{"match":"chowSoldier","image_id":22190},{"match":"chowDogtag","image_id":22191},{"match":"chowDie","image_id":32960},{"match":"chowHeart","image_id":33010},{"match":"chowRip","image_id":40820},{"match":"chowFlesh","image_id":40819},{"match":"chowCry","image_id":40821},{"match":"chowMeow","image_id":40591},{"match":"chowBaba","image_id":40590}]}
+{
+  "name": "twitch-sub-blizzehd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chowGangster",
+      "image_id": 21354
+    },
+    {
+      "match": "chowDemon",
+      "image_id": 21358
+    },
+    {
+      "match": "chowHammer",
+      "image_id": 21446
+    },
+    {
+      "match": "chowBlame",
+      "image_id": 39280
+    },
+    {
+      "match": "chowDrunk",
+      "image_id": 39216
+    },
+    {
+      "match": "chowSoldier",
+      "image_id": 22190
+    },
+    {
+      "match": "chowDogtag",
+      "image_id": 22191
+    },
+    {
+      "match": "chowDie",
+      "image_id": 32960
+    },
+    {
+      "match": "chowHeart",
+      "image_id": 33010
+    },
+    {
+      "match": "chowRip",
+      "image_id": 40820
+    },
+    {
+      "match": "chowFlesh",
+      "image_id": 40819
+    },
+    {
+      "match": "chowCry",
+      "image_id": 40821
+    },
+    {
+      "match": "chowMeow",
+      "image_id": 40591
+    },
+    {
+      "match": "chowBaba",
+      "image_id": 40590
+    }
+  ]
+}

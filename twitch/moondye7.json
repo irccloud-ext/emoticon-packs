@@ -1,1 +1,67 @@
-{"name":"twitch-sub-moondye7","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"md7WTF","image_id":87088},{"match":"md7R","image_id":87118},{"match":"md7Moondye","image_id":38936},{"match":"md7Kappa","image_id":38934},{"match":"md7HYPE","image_id":39005},{"match":"md7W","image_id":61413},{"match":"md7D","image_id":46578},{"match":"md7G","image_id":63865},{"match":"md7BadMan","image_id":86742},{"match":"md7GoodMan","image_id":86741},{"match":"md7O","image_id":87116},{"match":"md7P","image_id":87085},{"match":"md7H","image_id":101669},{"match":"md7HEY","image_id":101671},{"match":"md7C","image_id":101670}]}
+{
+  "name": "twitch-sub-moondye7",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "md7WTF",
+      "image_id": 87088
+    },
+    {
+      "match": "md7R",
+      "image_id": 87118
+    },
+    {
+      "match": "md7Moondye",
+      "image_id": 38936
+    },
+    {
+      "match": "md7Kappa",
+      "image_id": 38934
+    },
+    {
+      "match": "md7HYPE",
+      "image_id": 39005
+    },
+    {
+      "match": "md7W",
+      "image_id": 61413
+    },
+    {
+      "match": "md7D",
+      "image_id": 46578
+    },
+    {
+      "match": "md7G",
+      "image_id": 63865
+    },
+    {
+      "match": "md7BadMan",
+      "image_id": 86742
+    },
+    {
+      "match": "md7GoodMan",
+      "image_id": 86741
+    },
+    {
+      "match": "md7O",
+      "image_id": 87116
+    },
+    {
+      "match": "md7P",
+      "image_id": 87085
+    },
+    {
+      "match": "md7H",
+      "image_id": 101669
+    },
+    {
+      "match": "md7HEY",
+      "image_id": 101671
+    },
+    {
+      "match": "md7C",
+      "image_id": 101670
+    }
+  ]
+}

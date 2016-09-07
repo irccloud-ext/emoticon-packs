@@ -1,1 +1,15 @@
-{"name":"twitch-sub-munoz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dillaAR","image_id":111381},{"match":"dillaQdilla","image_id":111380}]}
+{
+  "name": "twitch-sub-munoz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dillaAR",
+      "image_id": 111381
+    },
+    {
+      "match": "dillaQdilla",
+      "image_id": 111380
+    }
+  ]
+}

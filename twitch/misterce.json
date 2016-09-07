@@ -1,1 +1,15 @@
-{"name":"twitch-sub-misterce","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mrcSwag","image_id":6436},{"match":"mrcDerp","image_id":11845}]}
+{
+  "name": "twitch-sub-misterce",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mrcSwag",
+      "image_id": 6436
+    },
+    {
+      "match": "mrcDerp",
+      "image_id": 11845
+    }
+  ]
+}

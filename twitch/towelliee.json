@@ -1,1 +1,167 @@
-{"name":"twitch-sub-towelliee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"towSkinTowel","image_id":841},{"match":"towVACBOSS","image_id":846},{"match":"towBANNED","image_id":863},{"match":"towHAMUP","image_id":864},{"match":"towOface","image_id":2185},{"match":"towShappens","image_id":3519},{"match":"towBolvar","image_id":3434},{"match":"towHype","image_id":61897},{"match":"towByah","image_id":10133},{"match":"towPoop","image_id":9781},{"match":"towKawaii","image_id":78133},{"match":"towShots","image_id":10015},{"match":"towTrain","image_id":15650},{"match":"towDerp","image_id":17630},{"match":"towClap","image_id":62260},{"match":"towSellout","image_id":62259},{"match":"towBeer","image_id":24658},{"match":"towRekt","image_id":24652},{"match":"towRip","image_id":24366},{"match":"towJoe","image_id":25103},{"match":"towJesus","image_id":31912},{"match":"towW","image_id":34845},{"match":"towAim","image_id":37768},{"match":"towNerd","image_id":74669},{"match":"towZap","image_id":60434},{"match":"towLegion","image_id":61811},{"match":"towHuh","image_id":74668},{"match":"towCry","image_id":73274},{"match":"towRage","image_id":73275},{"match":"towPalm","image_id":73276},{"match":"towIgnot","image_id":104902},{"match":"towGold","image_id":105017},{"match":"towBeep","image_id":104900},{"match":"towSalt","image_id":104905},{"match":"towWhat","image_id":104903}]}
+{
+  "name": "twitch-sub-towelliee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "towSkinTowel",
+      "image_id": 841
+    },
+    {
+      "match": "towVACBOSS",
+      "image_id": 846
+    },
+    {
+      "match": "towBANNED",
+      "image_id": 863
+    },
+    {
+      "match": "towHAMUP",
+      "image_id": 864
+    },
+    {
+      "match": "towOface",
+      "image_id": 2185
+    },
+    {
+      "match": "towShappens",
+      "image_id": 3519
+    },
+    {
+      "match": "towBolvar",
+      "image_id": 3434
+    },
+    {
+      "match": "towHype",
+      "image_id": 61897
+    },
+    {
+      "match": "towByah",
+      "image_id": 10133
+    },
+    {
+      "match": "towPoop",
+      "image_id": 9781
+    },
+    {
+      "match": "towKawaii",
+      "image_id": 78133
+    },
+    {
+      "match": "towShots",
+      "image_id": 10015
+    },
+    {
+      "match": "towTrain",
+      "image_id": 15650
+    },
+    {
+      "match": "towDerp",
+      "image_id": 17630
+    },
+    {
+      "match": "towClap",
+      "image_id": 62260
+    },
+    {
+      "match": "towSellout",
+      "image_id": 62259
+    },
+    {
+      "match": "towBeer",
+      "image_id": 24658
+    },
+    {
+      "match": "towRekt",
+      "image_id": 24652
+    },
+    {
+      "match": "towRip",
+      "image_id": 24366
+    },
+    {
+      "match": "towJoe",
+      "image_id": 25103
+    },
+    {
+      "match": "towJesus",
+      "image_id": 31912
+    },
+    {
+      "match": "towW",
+      "image_id": 34845
+    },
+    {
+      "match": "towAim",
+      "image_id": 37768
+    },
+    {
+      "match": "towNerd",
+      "image_id": 74669
+    },
+    {
+      "match": "towZap",
+      "image_id": 60434
+    },
+    {
+      "match": "towLegion",
+      "image_id": 61811
+    },
+    {
+      "match": "towHuh",
+      "image_id": 74668
+    },
+    {
+      "match": "towCry",
+      "image_id": 73274
+    },
+    {
+      "match": "towRage",
+      "image_id": 73275
+    },
+    {
+      "match": "towPalm",
+      "image_id": 73276
+    },
+    {
+      "match": "towLove",
+      "image_id": 112488
+    },
+    {
+      "match": "towBoots",
+      "image_id": 112487
+    },
+    {
+      "match": "towSafety",
+      "image_id": 112489
+    },
+    {
+      "match": "towUp",
+      "image_id": 112490
+    },
+    {
+      "match": "towIgnot",
+      "image_id": 104902
+    },
+    {
+      "match": "towGold",
+      "image_id": 105017
+    },
+    {
+      "match": "towBeep",
+      "image_id": 104900
+    },
+    {
+      "match": "towSalt",
+      "image_id": 104905
+    },
+    {
+      "match": "towWhat",
+      "image_id": 104903
+    },
+    {
+      "match": "towHi",
+      "image_id": 112448
+    }
+  ]
+}

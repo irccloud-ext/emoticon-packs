@@ -1,1 +1,15 @@
-{"name":"twitch-sub-iviazing","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mazeHype","image_id":77017},{"match":"mazeNoble","image_id":110837}]}
+{
+  "name": "twitch-sub-iviazing",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mazeHype",
+      "image_id": 77017
+    },
+    {
+      "match": "mazeNoble",
+      "image_id": 110837
+    }
+  ]
+}

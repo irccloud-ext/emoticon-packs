@@ -1,1 +1,31 @@
-{"name":"twitch-sub-chaithh","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fiveFail","image_id":51657},{"match":"fiveRage","image_id":51661},{"match":"fiveHeavy","image_id":51658},{"match":"fiveFoo","image_id":51656},{"match":"fiveOmg","image_id":52385},{"match":"fiveGasm","image_id":52384}]}
+{
+  "name": "twitch-sub-chaithh",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fiveFail",
+      "image_id": 51657
+    },
+    {
+      "match": "fiveRage",
+      "image_id": 51661
+    },
+    {
+      "match": "fiveHeavy",
+      "image_id": 51658
+    },
+    {
+      "match": "fiveFoo",
+      "image_id": 51656
+    },
+    {
+      "match": "fiveOmg",
+      "image_id": 52385
+    },
+    {
+      "match": "fiveGasm",
+      "image_id": 52384
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-nono_lol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nonoLOL","image_id":92422},{"match":"nonoPEACE","image_id":92421},{"match":"nonoWC","image_id":92420},{"match":"nonoPerfect","image_id":49935},{"match":"nonoGoodmove","image_id":51065},{"match":"nonoMain","image_id":63014},{"match":"nonoOMG","image_id":71860},{"match":"nonoBouche","image_id":92110},{"match":"nonoPride","image_id":103049},{"match":"nonoGreed","image_id":104362}]}
+{
+  "name": "twitch-sub-nono_lol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nonoLOL",
+      "image_id": 92422
+    },
+    {
+      "match": "nonoPEACE",
+      "image_id": 92421
+    },
+    {
+      "match": "nonoWC",
+      "image_id": 92420
+    },
+    {
+      "match": "nonoPerfect",
+      "image_id": 49935
+    },
+    {
+      "match": "nonoGoodmove",
+      "image_id": 51065
+    },
+    {
+      "match": "nonoMain",
+      "image_id": 63014
+    },
+    {
+      "match": "nonoOMG",
+      "image_id": 71860
+    },
+    {
+      "match": "nonoBouche",
+      "image_id": 92110
+    },
+    {
+      "match": "nonoPride",
+      "image_id": 103049
+    },
+    {
+      "match": "nonoGreed",
+      "image_id": 104362
+    }
+  ]
+}

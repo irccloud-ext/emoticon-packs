@@ -1,1 +1,35 @@
-{"name":"twitch-sub-shimmythejj","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shimmyPlaid","image_id":40655},{"match":"shimmyFro","image_id":40651},{"match":"shimmyTaco","image_id":40627},{"match":"shimmyKerman","image_id":40634},{"match":"shimmyDock","image_id":41015},{"match":"shimmyTop","image_id":45757},{"match":"shimmySack","image_id":58425}]}
+{
+  "name": "twitch-sub-shimmythejj",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shimmyPlaid",
+      "image_id": 40655
+    },
+    {
+      "match": "shimmyFro",
+      "image_id": 40651
+    },
+    {
+      "match": "shimmyTaco",
+      "image_id": 40627
+    },
+    {
+      "match": "shimmyKerman",
+      "image_id": 40634
+    },
+    {
+      "match": "shimmyDock",
+      "image_id": 41015
+    },
+    {
+      "match": "shimmyTop",
+      "image_id": 45757
+    },
+    {
+      "match": "shimmySack",
+      "image_id": 58425
+    }
+  ]
+}

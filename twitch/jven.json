@@ -1,1 +1,23 @@
-{"name":"twitch-sub-jven","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jvenExcheers","image_id":57360},{"match":"jvenJVeneX","image_id":57359},{"match":"jvenPush","image_id":68818},{"match":"jvenHUH","image_id":68817}]}
+{
+  "name": "twitch-sub-jven",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jvenExcheers",
+      "image_id": 57360
+    },
+    {
+      "match": "jvenJVeneX",
+      "image_id": 57359
+    },
+    {
+      "match": "jvenPush",
+      "image_id": 68818
+    },
+    {
+      "match": "jvenHUH",
+      "image_id": 68817
+    }
+  ]
+}

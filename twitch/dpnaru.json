@@ -1,1 +1,19 @@
-{"name":"twitch-sub-dpnaru","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"naruMeth","image_id":19167},{"match":"naruMethSmile","image_id":19168},{"match":"naruFab","image_id":19169}]}
+{
+  "name": "twitch-sub-dpnaru",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "naruMeth",
+      "image_id": 19167
+    },
+    {
+      "match": "naruMethSmile",
+      "image_id": 19168
+    },
+    {
+      "match": "naruFab",
+      "image_id": 19169
+    }
+  ]
+}

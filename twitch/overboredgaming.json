@@ -1,1 +1,47 @@
-{"name":"twitch-sub-overboredgaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"obgBrawli","image_id":7126},{"match":"obgFlag","image_id":7335},{"match":"obgTaco","image_id":7387},{"match":"obgGrump","image_id":22069},{"match":"obgParty","image_id":10736},{"match":"obgDagus","image_id":18403},{"match":"obgSystem","image_id":26312},{"match":"obgPew","image_id":22034},{"match":"obgRekt","image_id":43955},{"match":"obgLove","image_id":43954}]}
+{
+  "name": "twitch-sub-overboredgaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "obgBrawli",
+      "image_id": 7126
+    },
+    {
+      "match": "obgFlag",
+      "image_id": 7335
+    },
+    {
+      "match": "obgTaco",
+      "image_id": 7387
+    },
+    {
+      "match": "obgGrump",
+      "image_id": 22069
+    },
+    {
+      "match": "obgParty",
+      "image_id": 10736
+    },
+    {
+      "match": "obgDagus",
+      "image_id": 18403
+    },
+    {
+      "match": "obgSystem",
+      "image_id": 26312
+    },
+    {
+      "match": "obgPew",
+      "image_id": 22034
+    },
+    {
+      "match": "obgRekt",
+      "image_id": 43955
+    },
+    {
+      "match": "obgLove",
+      "image_id": 43954
+    }
+  ]
+}

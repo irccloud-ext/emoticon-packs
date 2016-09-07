@@ -1,1 +1,39 @@
-{"name":"twitch-sub-gunningamerz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gunnEvil","image_id":36793},{"match":"gunnRedeye","image_id":37929},{"match":"gunnFarmin","image_id":37398},{"match":"gunnSub","image_id":54896},{"match":"gunnBlame","image_id":54895},{"match":"gunnDead","image_id":53081},{"match":"gunnClassy","image_id":56492},{"match":"gunnRage","image_id":56716}]}
+{
+  "name": "twitch-sub-gunningamerz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gunnEvil",
+      "image_id": 36793
+    },
+    {
+      "match": "gunnRedeye",
+      "image_id": 37929
+    },
+    {
+      "match": "gunnFarmin",
+      "image_id": 37398
+    },
+    {
+      "match": "gunnSub",
+      "image_id": 54896
+    },
+    {
+      "match": "gunnBlame",
+      "image_id": 54895
+    },
+    {
+      "match": "gunnDead",
+      "image_id": 53081
+    },
+    {
+      "match": "gunnClassy",
+      "image_id": 56492
+    },
+    {
+      "match": "gunnRage",
+      "image_id": 56716
+    }
+  ]
+}

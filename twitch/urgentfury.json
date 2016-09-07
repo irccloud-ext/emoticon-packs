@@ -1,1 +1,15 @@
-{"name":"twitch-sub-urgentfury","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ufglLeadhead","image_id":84681},{"match":"ufglNewbtoob","image_id":84829}]}
+{
+  "name": "twitch-sub-urgentfury",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ufglLeadhead",
+      "image_id": 84681
+    },
+    {
+      "match": "ufglNewbtoob",
+      "image_id": 84829
+    }
+  ]
+}

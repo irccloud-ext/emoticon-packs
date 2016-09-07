@@ -1,1 +1,15 @@
-{"name":"twitch-sub-spuni1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"spuniCal","image_id":33954},{"match":"spuniFlame","image_id":47383}]}
+{
+  "name": "twitch-sub-spuni1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "spuniCal",
+      "image_id": 33954
+    },
+    {
+      "match": "spuniFlame",
+      "image_id": 47383
+    }
+  ]
+}

@@ -1,1 +1,67 @@
-{"name":"twitch-sub-jinxfaze","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jinxFAZEUP","image_id":5332},{"match":"jinxCHIPS","image_id":108439},{"match":"jinxP","image_id":67653},{"match":"jinxW","image_id":69493},{"match":"jinxFEELS","image_id":108442},{"match":"jinxGOOD","image_id":108443},{"match":"jinxLUL","image_id":108444},{"match":"jinxM","image_id":108445},{"match":"jinxRIOT","image_id":108446},{"match":"jinxTATO","image_id":108447},{"match":"jinxSUB","image_id":83759},{"match":"jinxWUT","image_id":108448},{"match":"jinxRIP","image_id":83366},{"match":"jinxLOVE","image_id":83368},{"match":"jinxBOY","image_id":83187}]}
+{
+  "name": "twitch-sub-jinxfaze",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jinxFAZEUP",
+      "image_id": 5332
+    },
+    {
+      "match": "jinxCHIPS",
+      "image_id": 108439
+    },
+    {
+      "match": "jinxP",
+      "image_id": 67653
+    },
+    {
+      "match": "jinxW",
+      "image_id": 69493
+    },
+    {
+      "match": "jinxFEELS",
+      "image_id": 108442
+    },
+    {
+      "match": "jinxGOOD",
+      "image_id": 108443
+    },
+    {
+      "match": "jinxLUL",
+      "image_id": 108444
+    },
+    {
+      "match": "jinxM",
+      "image_id": 108445
+    },
+    {
+      "match": "jinxRIOT",
+      "image_id": 108446
+    },
+    {
+      "match": "jinxTATO",
+      "image_id": 108447
+    },
+    {
+      "match": "jinxSUB",
+      "image_id": 83759
+    },
+    {
+      "match": "jinxWUT",
+      "image_id": 108448
+    },
+    {
+      "match": "jinxRIP",
+      "image_id": 83366
+    },
+    {
+      "match": "jinxLOVE",
+      "image_id": 83368
+    },
+    {
+      "match": "jinxBOY",
+      "image_id": 83187
+    }
+  ]
+}

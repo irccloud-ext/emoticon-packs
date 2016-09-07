@@ -1,1 +1,31 @@
-{"name":"twitch-sub-drlove2k2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"drlTbag","image_id":92860},{"match":"drlBlind","image_id":92859},{"match":"drlMad","image_id":92643},{"match":"drlGasm","image_id":100676},{"match":"drlRekt","image_id":99139},{"match":"drlWow","image_id":99140}]}
+{
+  "name": "twitch-sub-drlove2k2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "drlTbag",
+      "image_id": 92860
+    },
+    {
+      "match": "drlBlind",
+      "image_id": 92859
+    },
+    {
+      "match": "drlMad",
+      "image_id": 92643
+    },
+    {
+      "match": "drlGasm",
+      "image_id": 100676
+    },
+    {
+      "match": "drlRekt",
+      "image_id": 99139
+    },
+    {
+      "match": "drlWow",
+      "image_id": 99140
+    }
+  ]
+}

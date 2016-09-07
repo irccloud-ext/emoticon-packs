@@ -1,1 +1,67 @@
-{"name":"twitch-sub-majinphil","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"majinKappa","image_id":19659},{"match":"majinSellout","image_id":19857},{"match":"majinPartyBoys","image_id":26629},{"match":"majinToblerone","image_id":27046},{"match":"majinHUUUUU","image_id":35438},{"match":"majinElgato","image_id":33208},{"match":"majinBaby","image_id":46921},{"match":"majinShades","image_id":56131},{"match":"majinBlazeItGoron","image_id":56133},{"match":"majinREKT","image_id":56134},{"match":"majinHa","image_id":95985},{"match":"majinHugePlays","image_id":97735},{"match":"majinD","image_id":95986},{"match":"majinHame","image_id":95984},{"match":"majinKame","image_id":95983}]}
+{
+  "name": "twitch-sub-majinphil",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "majinKappa",
+      "image_id": 19659
+    },
+    {
+      "match": "majinSellout",
+      "image_id": 19857
+    },
+    {
+      "match": "majinPartyBoys",
+      "image_id": 26629
+    },
+    {
+      "match": "majinToblerone",
+      "image_id": 27046
+    },
+    {
+      "match": "majinHUUUUU",
+      "image_id": 35438
+    },
+    {
+      "match": "majinElgato",
+      "image_id": 33208
+    },
+    {
+      "match": "majinBaby",
+      "image_id": 46921
+    },
+    {
+      "match": "majinBlazeItGoron",
+      "image_id": 56133
+    },
+    {
+      "match": "majinREKT",
+      "image_id": 56134
+    },
+    {
+      "match": "majinHa",
+      "image_id": 95985
+    },
+    {
+      "match": "majinHugePlays",
+      "image_id": 97735
+    },
+    {
+      "match": "majinD",
+      "image_id": 95986
+    },
+    {
+      "match": "majinHame",
+      "image_id": 95984
+    },
+    {
+      "match": "majinKame",
+      "image_id": 95983
+    },
+    {
+      "match": "majinLewd",
+      "image_id": 112451
+    }
+  ]
+}

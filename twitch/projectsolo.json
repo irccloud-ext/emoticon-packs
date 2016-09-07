@@ -1,1 +1,31 @@
-{"name":"twitch-sub-projectsolo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"soulMLG","image_id":53056},{"match":"soulHype","image_id":53050},{"match":"soulGasm","image_id":53008},{"match":"soulW","image_id":52849},{"match":"soulHG","image_id":53156},{"match":"soulC","image_id":89891}]}
+{
+  "name": "twitch-sub-projectsolo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "soulMLG",
+      "image_id": 53056
+    },
+    {
+      "match": "soulHype",
+      "image_id": 53050
+    },
+    {
+      "match": "soulGasm",
+      "image_id": 53008
+    },
+    {
+      "match": "soulW",
+      "image_id": 52849
+    },
+    {
+      "match": "soulHG",
+      "image_id": 53156
+    },
+    {
+      "match": "soulC",
+      "image_id": 89891
+    }
+  ]
+}

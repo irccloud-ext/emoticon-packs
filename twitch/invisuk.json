@@ -1,1 +1,31 @@
-{"name":"twitch-sub-invisuk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"invisBro","image_id":2909},{"match":"invisMonk","image_id":2933},{"match":"invisTornado","image_id":2759},{"match":"invisPolice","image_id":2843},{"match":"invisDE","image_id":3301},{"match":"invisHappy","image_id":3300}]}
+{
+  "name": "twitch-sub-invisuk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "invisBro",
+      "image_id": 2909
+    },
+    {
+      "match": "invisMonk",
+      "image_id": 2933
+    },
+    {
+      "match": "invisTornado",
+      "image_id": 2759
+    },
+    {
+      "match": "invisPolice",
+      "image_id": 2843
+    },
+    {
+      "match": "invisDE",
+      "image_id": 3301
+    },
+    {
+      "match": "invisHappy",
+      "image_id": 3300
+    }
+  ]
+}

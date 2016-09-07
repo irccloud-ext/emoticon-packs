@@ -1,1 +1,43 @@
-{"name":"twitch-sub-krencho","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"krenchAUA","image_id":49102},{"match":"krenchParty","image_id":49227},{"match":"krenchBoss","image_id":48534},{"match":"krenchKaschn","image_id":48628},{"match":"krenchOAO","image_id":48627},{"match":"krenchSkaff","image_id":48848},{"match":"krenchSchluck","image_id":48879},{"match":"krenchMat","image_id":48878},{"match":"krenchSub","image_id":51982}]}
+{
+  "name": "twitch-sub-krencho",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "krenchAUA",
+      "image_id": 49102
+    },
+    {
+      "match": "krenchParty",
+      "image_id": 49227
+    },
+    {
+      "match": "krenchBoss",
+      "image_id": 48534
+    },
+    {
+      "match": "krenchKaschn",
+      "image_id": 48628
+    },
+    {
+      "match": "krenchOAO",
+      "image_id": 48627
+    },
+    {
+      "match": "krenchSkaff",
+      "image_id": 48848
+    },
+    {
+      "match": "krenchSchluck",
+      "image_id": 48879
+    },
+    {
+      "match": "krenchMat",
+      "image_id": 48878
+    },
+    {
+      "match": "krenchSub",
+      "image_id": 51982
+    }
+  ]
+}

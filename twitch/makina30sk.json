@@ -1,1 +1,15 @@
-{"name":"twitch-sub-makina30sk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"makiHEAVY","image_id":91369},{"match":"makiFAIL","image_id":93401}]}
+{
+  "name": "twitch-sub-makina30sk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "makiHEAVY",
+      "image_id": 91369
+    },
+    {
+      "match": "makiFAIL",
+      "image_id": 93401
+    }
+  ]
+}

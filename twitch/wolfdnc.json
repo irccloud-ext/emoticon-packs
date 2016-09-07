@@ -1,1 +1,31 @@
-{"name":"twitch-sub-wolfdnc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wdnc00","image_id":108764},{"match":"wdncM","image_id":108763},{"match":"wdncP","image_id":108761},{"match":"wdncR","image_id":88198},{"match":"wdncL","image_id":111456},{"match":"wdncT","image_id":109094}]}
+{
+  "name": "twitch-sub-wolfdnc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wdnc00",
+      "image_id": 108764
+    },
+    {
+      "match": "wdncM",
+      "image_id": 108763
+    },
+    {
+      "match": "wdncP",
+      "image_id": 108761
+    },
+    {
+      "match": "wdncR",
+      "image_id": 88198
+    },
+    {
+      "match": "wdncL",
+      "image_id": 111456
+    },
+    {
+      "match": "wdncT",
+      "image_id": 109094
+    }
+  ]
+}

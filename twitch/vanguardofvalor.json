@@ -1,1 +1,27 @@
-{"name":"twitch-sub-vanguardofvalor","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vovCharge","image_id":27187},{"match":"vovFail","image_id":26768},{"match":"vovRIP","image_id":29359},{"match":"vovLove","image_id":29357},{"match":"vovWater","image_id":49358}]}
+{
+  "name": "twitch-sub-vanguardofvalor",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vovCharge",
+      "image_id": 27187
+    },
+    {
+      "match": "vovFail",
+      "image_id": 26768
+    },
+    {
+      "match": "vovRIP",
+      "image_id": 29359
+    },
+    {
+      "match": "vovLove",
+      "image_id": 29357
+    },
+    {
+      "match": "vovWater",
+      "image_id": 49358
+    }
+  ]
+}

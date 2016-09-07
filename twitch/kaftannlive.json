@@ -1,1 +1,15 @@
-{"name":"twitch-sub-kaftannlive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kafFaq","image_id":90128},{"match":"kafGuacamole","image_id":89762}]}
+{
+  "name": "twitch-sub-kaftannlive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kafFaq",
+      "image_id": 90128
+    },
+    {
+      "match": "kafGuacamole",
+      "image_id": 89762
+    }
+  ]
+}

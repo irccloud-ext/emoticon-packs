@@ -1,1 +1,23 @@
-{"name":"twitch-sub-hbomb94","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hbomb94Burrito","image_id":41770},{"match":"hbomb94Happy","image_id":90521},{"match":"hbomb94Sad","image_id":85552},{"match":"hbomb94Love","image_id":90520}]}
+{
+  "name": "twitch-sub-hbomb94",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hbomb94Burrito",
+      "image_id": 41770
+    },
+    {
+      "match": "hbomb94Happy",
+      "image_id": 90521
+    },
+    {
+      "match": "hbomb94Sad",
+      "image_id": 85552
+    },
+    {
+      "match": "hbomb94Love",
+      "image_id": 90520
+    }
+  ]
+}

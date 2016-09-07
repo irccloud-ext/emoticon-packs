@@ -1,1 +1,67 @@
-{"name":"twitch-sub-zerorunes","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zerorunesBlob","image_id":12805},{"match":"zerorunesDoge","image_id":12804},{"match":"zerorunesHype","image_id":12797},{"match":"zerorunesKitty","image_id":12796},{"match":"zerorunesTen","image_id":12800},{"match":"zerorunesRekt","image_id":12832},{"match":"zerorunesKeepo","image_id":15652},{"match":"zerorunesChest","image_id":15640},{"match":"zerorunesDu","image_id":12807},{"match":"zerorunesMod","image_id":16018},{"match":"zerorunesKappa","image_id":23986},{"match":"zerorunesSail","image_id":23984},{"match":"zerorunesThump","image_id":23987},{"match":"zerorunesGasm","image_id":23988},{"match":"zerorunesPop","image_id":24046}]}
+{
+  "name": "twitch-sub-zerorunes",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zerorunesBlob",
+      "image_id": 12805
+    },
+    {
+      "match": "zerorunesDoge",
+      "image_id": 12804
+    },
+    {
+      "match": "zerorunesHype",
+      "image_id": 12797
+    },
+    {
+      "match": "zerorunesKitty",
+      "image_id": 12796
+    },
+    {
+      "match": "zerorunesTen",
+      "image_id": 12800
+    },
+    {
+      "match": "zerorunesRekt",
+      "image_id": 12832
+    },
+    {
+      "match": "zerorunesKeepo",
+      "image_id": 15652
+    },
+    {
+      "match": "zerorunesChest",
+      "image_id": 15640
+    },
+    {
+      "match": "zerorunesDu",
+      "image_id": 12807
+    },
+    {
+      "match": "zerorunesMod",
+      "image_id": 16018
+    },
+    {
+      "match": "zerorunesKappa",
+      "image_id": 23986
+    },
+    {
+      "match": "zerorunesSail",
+      "image_id": 23984
+    },
+    {
+      "match": "zerorunesThump",
+      "image_id": 23987
+    },
+    {
+      "match": "zerorunesGasm",
+      "image_id": 23988
+    },
+    {
+      "match": "zerorunesPop",
+      "image_id": 24046
+    }
+  ]
+}

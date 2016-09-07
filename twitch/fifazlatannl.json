@@ -1,1 +1,23 @@
-{"name":"twitch-sub-fifazlatannl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fifazlatanHoofd","image_id":68248},{"match":"fifazlatanLOVE","image_id":69935},{"match":"fifazlatanLUCK","image_id":69930},{"match":"fifazlatanHYPE","image_id":69982}]}
+{
+  "name": "twitch-sub-fifazlatannl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fifazlatanHoofd",
+      "image_id": 68248
+    },
+    {
+      "match": "fifazlatanLOVE",
+      "image_id": 69935
+    },
+    {
+      "match": "fifazlatanLUCK",
+      "image_id": 69930
+    },
+    {
+      "match": "fifazlatanHYPE",
+      "image_id": 69982
+    }
+  ]
+}

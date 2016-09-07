@@ -1,1 +1,15 @@
-{"name":"twitch-sub-pace22","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gratspacksPACK","image_id":22803},{"match":"gratspacksCRUSH","image_id":60680}]}
+{
+  "name": "twitch-sub-pace22",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gratspacksPACK",
+      "image_id": 22803
+    },
+    {
+      "match": "gratspacksCRUSH",
+      "image_id": 60680
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-chloelock","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chloeLol","image_id":94687},{"match":"chloeHey","image_id":101116},{"match":"chloeHatchi","image_id":80707},{"match":"chloeLove","image_id":80712},{"match":"chloeCry","image_id":80716},{"match":"chloeAngry","image_id":101127},{"match":"chloeJohn","image_id":101117},{"match":"chloeSub","image_id":101200}]}
+{
+  "name": "twitch-sub-chloelock",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chloeLol",
+      "image_id": 94687
+    },
+    {
+      "match": "chloeHey",
+      "image_id": 101116
+    },
+    {
+      "match": "chloeHatchi",
+      "image_id": 80707
+    },
+    {
+      "match": "chloeLove",
+      "image_id": 80712
+    },
+    {
+      "match": "chloeCry",
+      "image_id": 80716
+    },
+    {
+      "match": "chloeAngry",
+      "image_id": 101127
+    },
+    {
+      "match": "chloeJohn",
+      "image_id": 101117
+    },
+    {
+      "match": "chloeSub",
+      "image_id": 101200
+    }
+  ]
+}

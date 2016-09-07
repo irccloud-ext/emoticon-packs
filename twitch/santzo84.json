@@ -1,1 +1,39 @@
-{"name":"twitch-sub-santzo84","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"santzoHype","image_id":102100},{"match":"santzoPuju","image_id":3964},{"match":"santzoLifts","image_id":4395},{"match":"santzoSantoz","image_id":5975},{"match":"santzoBabyJ","image_id":11424},{"match":"santzoGasm","image_id":102738},{"match":"santzoGodGamer","image_id":111546},{"match":"santzoOk","image_id":111548}]}
+{
+  "name": "twitch-sub-santzo84",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "santzoHype",
+      "image_id": 102100
+    },
+    {
+      "match": "santzoPuju",
+      "image_id": 3964
+    },
+    {
+      "match": "santzoLifts",
+      "image_id": 4395
+    },
+    {
+      "match": "santzoSantoz",
+      "image_id": 5975
+    },
+    {
+      "match": "santzoBabyJ",
+      "image_id": 11424
+    },
+    {
+      "match": "santzoGasm",
+      "image_id": 102738
+    },
+    {
+      "match": "santzoGodGamer",
+      "image_id": 111546
+    },
+    {
+      "match": "santzoOk",
+      "image_id": 111548
+    }
+  ]
+}

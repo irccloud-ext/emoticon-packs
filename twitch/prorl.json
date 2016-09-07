@@ -1,1 +1,15 @@
-{"name":"twitch-sub-prorl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"prlGasm","image_id":111455}]}
+{
+  "name": "twitch-sub-prorl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "prlKiss",
+      "image_id": 111748
+    },
+    {
+      "match": "prlGasm",
+      "image_id": 111455
+    }
+  ]
+}

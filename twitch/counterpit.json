@@ -1,1 +1,15 @@
-{"name":"twitch-sub-counterpit","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cpitVACation","image_id":53440},{"match":"cpitRIP","image_id":53442}]}
+{
+  "name": "twitch-sub-counterpit",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cpitVACation",
+      "image_id": 53440
+    },
+    {
+      "match": "cpitRIP",
+      "image_id": 53442
+    }
+  ]
+}

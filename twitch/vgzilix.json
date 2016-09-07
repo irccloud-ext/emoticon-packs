@@ -1,1 +1,23 @@
-{"name":"twitch-sub-vgzilix","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vgzilixZilix","image_id":13897},{"match":"vgzilixFish","image_id":13911},{"match":"vgzilixBrony","image_id":47904},{"match":"vgzilixRekt","image_id":76886}]}
+{
+  "name": "twitch-sub-vgzilix",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vgzilixZilix",
+      "image_id": 13897
+    },
+    {
+      "match": "vgzilixFish",
+      "image_id": 13911
+    },
+    {
+      "match": "vgzilixBrony",
+      "image_id": 47904
+    },
+    {
+      "match": "vgzilixRekt",
+      "image_id": 76886
+    }
+  ]
+}

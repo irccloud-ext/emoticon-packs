@@ -1,1 +1,15 @@
-{"name":"twitch-sub-thedarktongo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tongoDiamond","image_id":28691},{"match":"tongoKappa","image_id":27762}]}
+{
+  "name": "twitch-sub-thedarktongo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tongoDiamond",
+      "image_id": 28691
+    },
+    {
+      "match": "tongoKappa",
+      "image_id": 27762
+    }
+  ]
+}

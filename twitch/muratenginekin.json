@@ -1,1 +1,15 @@
-{"name":"twitch-sub-muratenginekin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"muratTwitch","image_id":22061},{"match":"muratGoma","image_id":22062}]}
+{
+  "name": "twitch-sub-muratenginekin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "muratTwitch",
+      "image_id": 22061
+    },
+    {
+      "match": "muratGoma",
+      "image_id": 22062
+    }
+  ]
+}

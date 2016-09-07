@@ -1,1 +1,59 @@
-{"name":"twitch-sub-kw_ranzratte","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ratteRIP","image_id":109536},{"match":"ratteSad","image_id":109537},{"match":"ratteHerz","image_id":109535},{"match":"ratteGrins","image_id":109534},{"match":"ratteSalz","image_id":111422},{"match":"ratteRage","image_id":111421},{"match":"ratteLol","image_id":111420},{"match":"ratteBurp","image_id":109606},{"match":"ratteHallo","image_id":109878},{"match":"ratteFail","image_id":109880},{"match":"ratteHype","image_id":110794},{"match":"ratteSrsly","image_id":109881},{"match":"ratteWTF","image_id":110796}]}
+{
+  "name": "twitch-sub-kw_ranzratte",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ratteRIP",
+      "image_id": 109536
+    },
+    {
+      "match": "ratteSad",
+      "image_id": 109537
+    },
+    {
+      "match": "ratteHerz",
+      "image_id": 109535
+    },
+    {
+      "match": "ratteGrins",
+      "image_id": 109534
+    },
+    {
+      "match": "ratteSalz",
+      "image_id": 111422
+    },
+    {
+      "match": "ratteRage",
+      "image_id": 111421
+    },
+    {
+      "match": "ratteLol",
+      "image_id": 111420
+    },
+    {
+      "match": "ratteBurp",
+      "image_id": 109606
+    },
+    {
+      "match": "ratteHallo",
+      "image_id": 109878
+    },
+    {
+      "match": "ratteFail",
+      "image_id": 109880
+    },
+    {
+      "match": "ratteHype",
+      "image_id": 110794
+    },
+    {
+      "match": "ratteSrsly",
+      "image_id": 109881
+    },
+    {
+      "match": "ratteWTF",
+      "image_id": 110796
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-princezzxdiana","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dianaDevil","image_id":59244},{"match":"dianaPls","image_id":60127},{"match":"dianaAngel","image_id":58922},{"match":"dianaHug","image_id":68055},{"match":"dianaDad","image_id":67247},{"match":"dianaBwunny","image_id":78116},{"match":"dianaPizza","image_id":78117},{"match":"dianaBailey","image_id":82949}]}
+{
+  "name": "twitch-sub-princezzxdiana",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dianaDevil",
+      "image_id": 59244
+    },
+    {
+      "match": "dianaPls",
+      "image_id": 60127
+    },
+    {
+      "match": "dianaAngel",
+      "image_id": 58922
+    },
+    {
+      "match": "dianaHug",
+      "image_id": 68055
+    },
+    {
+      "match": "dianaDad",
+      "image_id": 67247
+    },
+    {
+      "match": "dianaBwunny",
+      "image_id": 78116
+    },
+    {
+      "match": "dianaPizza",
+      "image_id": 78117
+    },
+    {
+      "match": "dianaBailey",
+      "image_id": 82949
+    }
+  ]
+}

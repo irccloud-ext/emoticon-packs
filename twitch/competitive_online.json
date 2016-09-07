@@ -1,1 +1,59 @@
-{"name":"twitch-sub-competitive_online","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"eloTrain","image_id":4218},{"match":"eloKappa","image_id":4336},{"match":"eloGuan","image_id":5518},{"match":"eloDoge","image_id":5994},{"match":"eloFearless","image_id":5517},{"match":"eloHype","image_id":20137},{"match":"eloThirst","image_id":47880},{"match":"eloCorgi","image_id":43471},{"match":"eloHeart","image_id":44142},{"match":"eloW","image_id":43779},{"match":"eloTen","image_id":78706},{"match":"eloSellout","image_id":78705},{"match":"eloGasm","image_id":87351}]}
+{
+  "name": "twitch-sub-competitive_online",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "eloTrain",
+      "image_id": 4218
+    },
+    {
+      "match": "eloKappa",
+      "image_id": 4336
+    },
+    {
+      "match": "eloGuan",
+      "image_id": 5518
+    },
+    {
+      "match": "eloDoge",
+      "image_id": 5994
+    },
+    {
+      "match": "eloFearless",
+      "image_id": 5517
+    },
+    {
+      "match": "eloHype",
+      "image_id": 20137
+    },
+    {
+      "match": "eloThirst",
+      "image_id": 47880
+    },
+    {
+      "match": "eloCorgi",
+      "image_id": 43471
+    },
+    {
+      "match": "eloHeart",
+      "image_id": 44142
+    },
+    {
+      "match": "eloW",
+      "image_id": 43779
+    },
+    {
+      "match": "eloTen",
+      "image_id": 78706
+    },
+    {
+      "match": "eloSellout",
+      "image_id": 78705
+    },
+    {
+      "match": "eloGasm",
+      "image_id": 87351
+    }
+  ]
+}

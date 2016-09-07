@@ -1,1 +1,39 @@
-{"name":"twitch-sub-drumpunk100","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"drumHey","image_id":82477},{"match":"drumLove","image_id":82478},{"match":"drumSticks","image_id":82481},{"match":"drumHype","image_id":82482},{"match":"drumRage","image_id":82483},{"match":"drumGasm","image_id":82823},{"match":"drumThump","image_id":82824},{"match":"drumRIP","image_id":90859}]}
+{
+  "name": "twitch-sub-drumpunk100",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "drumHey",
+      "image_id": 82477
+    },
+    {
+      "match": "drumLove",
+      "image_id": 82478
+    },
+    {
+      "match": "drumSticks",
+      "image_id": 82481
+    },
+    {
+      "match": "drumHype",
+      "image_id": 82482
+    },
+    {
+      "match": "drumRage",
+      "image_id": 82483
+    },
+    {
+      "match": "drumGasm",
+      "image_id": 82823
+    },
+    {
+      "match": "drumThump",
+      "image_id": 82824
+    },
+    {
+      "match": "drumRIP",
+      "image_id": 90859
+    }
+  ]
+}

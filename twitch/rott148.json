@@ -1,1 +1,23 @@
-{"name":"twitch-sub-rott148","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rott14801","image_id":111508},{"match":"rott14802","image_id":111509},{"match":"rott14803","image_id":111521},{"match":"rott14804","image_id":111523}]}
+{
+  "name": "twitch-sub-rott148",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rott148Rott14802",
+      "image_id": 111845
+    },
+    {
+      "match": "rott148Rott14801",
+      "image_id": 111844
+    },
+    {
+      "match": "rott148Rott14803",
+      "image_id": 111846
+    },
+    {
+      "match": "rott148Rott14804",
+      "image_id": 111848
+    }
+  ]
+}

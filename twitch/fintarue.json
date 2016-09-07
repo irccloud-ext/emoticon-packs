@@ -1,1 +1,35 @@
-{"name":"twitch-sub-fintarue","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"finRollz","image_id":18180},{"match":"finNope","image_id":16538},{"match":"finCess","image_id":16856},{"match":"finPew","image_id":17037},{"match":"finSplode","image_id":18397},{"match":"finClock","image_id":36181},{"match":"finHype","image_id":36180}]}
+{
+  "name": "twitch-sub-fintarue",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "finRollz",
+      "image_id": 18180
+    },
+    {
+      "match": "finNope",
+      "image_id": 16538
+    },
+    {
+      "match": "finCess",
+      "image_id": 16856
+    },
+    {
+      "match": "finPew",
+      "image_id": 17037
+    },
+    {
+      "match": "finSplode",
+      "image_id": 18397
+    },
+    {
+      "match": "finClock",
+      "image_id": 36181
+    },
+    {
+      "match": "finHype",
+      "image_id": 36180
+    }
+  ]
+}

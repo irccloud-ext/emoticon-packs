@@ -1,1 +1,19 @@
-{"name":"twitch-sub-leagueoflegendsportugal","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"leagueptZekappa","image_id":40407},{"match":"leagueptBaron","image_id":47138},{"match":"leagueptGG","image_id":47140}]}
+{
+  "name": "twitch-sub-leagueoflegendsportugal",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "leagueptZekappa",
+      "image_id": 40407
+    },
+    {
+      "match": "leagueptBaron",
+      "image_id": 47138
+    },
+    {
+      "match": "leagueptGG",
+      "image_id": 47140
+    }
+  ]
+}

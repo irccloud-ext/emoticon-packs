@@ -1,1 +1,39 @@
-{"name":"twitch-sub-henrytado","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"henryMacumba","image_id":19368},{"match":"henryWhey","image_id":18289},{"match":"henryLeia","image_id":31980},{"match":"henrySalto","image_id":31979},{"match":"henryCercada","image_id":31978},{"match":"henryLeque","image_id":31977},{"match":"henryDestruidora","image_id":31976},{"match":"henryPiranha","image_id":31975}]}
+{
+  "name": "twitch-sub-henrytado",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "henryMacumba",
+      "image_id": 19368
+    },
+    {
+      "match": "henryWhey",
+      "image_id": 18289
+    },
+    {
+      "match": "henryLeia",
+      "image_id": 31980
+    },
+    {
+      "match": "henrySalto",
+      "image_id": 31979
+    },
+    {
+      "match": "henryCercada",
+      "image_id": 31978
+    },
+    {
+      "match": "henryLeque",
+      "image_id": 31977
+    },
+    {
+      "match": "henryDestruidora",
+      "image_id": 31976
+    },
+    {
+      "match": "henryPiranha",
+      "image_id": 31975
+    }
+  ]
+}

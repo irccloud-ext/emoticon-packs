@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mortsc2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mortDealwithit","image_id":22167},{"match":"mortLikeamort","image_id":22168},{"match":"mortWhatever","image_id":22587},{"match":"mortOMG","image_id":22588},{"match":"mortWerner","image_id":39603},{"match":"mortML","image_id":39493}]}
+{
+  "name": "twitch-sub-mortsc2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mortDealwithit",
+      "image_id": 22167
+    },
+    {
+      "match": "mortLikeamort",
+      "image_id": 22168
+    },
+    {
+      "match": "mortWhatever",
+      "image_id": 22587
+    },
+    {
+      "match": "mortOMG",
+      "image_id": 22588
+    },
+    {
+      "match": "mortWerner",
+      "image_id": 39603
+    },
+    {
+      "match": "mortML",
+      "image_id": 39493
+    }
+  ]
+}

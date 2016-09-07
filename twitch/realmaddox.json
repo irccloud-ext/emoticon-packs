@@ -1,1 +1,19 @@
-{"name":"twitch-sub-realmaddox","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"maddoxGARBAGE","image_id":62102},{"match":"maddoxMADDOX","image_id":59016},{"match":"maddoxRULES","image_id":59370}]}
+{
+  "name": "twitch-sub-realmaddox",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "maddoxGARBAGE",
+      "image_id": 62102
+    },
+    {
+      "match": "maddoxMADDOX",
+      "image_id": 59016
+    },
+    {
+      "match": "maddoxRULES",
+      "image_id": 59370
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-avalonsa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"koukuCry","image_id":11706},{"match":"koukuRun","image_id":11627},{"match":"koukuPinch","image_id":31938},{"match":"koukuTalk","image_id":21085},{"match":"koukuSurprise","image_id":21235},{"match":"koukuSleep","image_id":32002},{"match":"koukuTooth","image_id":31996},{"match":"koukuMoe","image_id":34986}]}
+{
+  "name": "twitch-sub-avalonsa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "koukuCry",
+      "image_id": 11706
+    },
+    {
+      "match": "koukuRun",
+      "image_id": 11627
+    },
+    {
+      "match": "koukuPinch",
+      "image_id": 31938
+    },
+    {
+      "match": "koukuTalk",
+      "image_id": 21085
+    },
+    {
+      "match": "koukuSurprise",
+      "image_id": 21235
+    },
+    {
+      "match": "koukuSleep",
+      "image_id": 32002
+    },
+    {
+      "match": "koukuTooth",
+      "image_id": 31996
+    },
+    {
+      "match": "koukuMoe",
+      "image_id": 34986
+    }
+  ]
+}

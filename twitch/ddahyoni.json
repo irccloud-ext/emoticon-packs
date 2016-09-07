@@ -1,1 +1,39 @@
-{"name":"twitch-sub-ddahyoni","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ddahyoniLaugh","image_id":70650},{"match":"ddahyoniDoknowdda","image_id":70651},{"match":"ddahyoniFrustrate","image_id":70652},{"match":"ddahyoniBigpicture","image_id":70653},{"match":"ddahyoni1tier","image_id":74375},{"match":"ddahyoniSurfig","image_id":77431},{"match":"ddahyoniDeck","image_id":77432},{"match":"ddahyoniNe","image_id":77169}]}
+{
+  "name": "twitch-sub-ddahyoni",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ddahyoniLaugh",
+      "image_id": 70650
+    },
+    {
+      "match": "ddahyoniDoknowdda",
+      "image_id": 70651
+    },
+    {
+      "match": "ddahyoniFrustrate",
+      "image_id": 70652
+    },
+    {
+      "match": "ddahyoniBigpicture",
+      "image_id": 70653
+    },
+    {
+      "match": "ddahyoni1tier",
+      "image_id": 74375
+    },
+    {
+      "match": "ddahyoniSurfig",
+      "image_id": 77431
+    },
+    {
+      "match": "ddahyoniDeck",
+      "image_id": 77432
+    },
+    {
+      "match": "ddahyoniNe",
+      "image_id": 77169
+    }
+  ]
+}

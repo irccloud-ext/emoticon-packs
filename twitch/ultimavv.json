@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ultimavv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ultRIP","image_id":62081},{"match":"ultSoso","image_id":58568},{"match":"ultNb","image_id":62139},{"match":"ultSu","image_id":62148}]}
+{
+  "name": "twitch-sub-ultimavv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ultRIP",
+      "image_id": 62081
+    },
+    {
+      "match": "ultSoso",
+      "image_id": 58568
+    },
+    {
+      "match": "ultNb",
+      "image_id": 62139
+    },
+    {
+      "match": "ultSu",
+      "image_id": 62148
+    }
+  ]
+}

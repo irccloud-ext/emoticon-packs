@@ -1,1 +1,31 @@
-{"name":"twitch-sub-erkahdurkah","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"erkahHey","image_id":61327},{"match":"erkahTILT","image_id":61326},{"match":"erkahRice","image_id":61325},{"match":"erkahLove","image_id":61323},{"match":"erkahThump","image_id":63215},{"match":"erkahGasm","image_id":74394}]}
+{
+  "name": "twitch-sub-erkahdurkah",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "erkahHey",
+      "image_id": 61327
+    },
+    {
+      "match": "erkahTILT",
+      "image_id": 61326
+    },
+    {
+      "match": "erkahRice",
+      "image_id": 61325
+    },
+    {
+      "match": "erkahLove",
+      "image_id": 61323
+    },
+    {
+      "match": "erkahThump",
+      "image_id": 63215
+    },
+    {
+      "match": "erkahGasm",
+      "image_id": 74394
+    }
+  ]
+}

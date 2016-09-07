@@ -1,1 +1,47 @@
-{"name":"twitch-sub-ravenhart007","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ravenGG","image_id":24291},{"match":"ravenBird","image_id":34084},{"match":"ravenClass","image_id":34599},{"match":"ravenNope","image_id":34623},{"match":"ravenLove","image_id":35007},{"match":"ravenShy","image_id":75163},{"match":"ravenPoop","image_id":77980},{"match":"ravenWutev","image_id":75164},{"match":"ravenH","image_id":91232},{"match":"ravenB","image_id":91233}]}
+{
+  "name": "twitch-sub-ravenhart007",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ravenGG",
+      "image_id": 24291
+    },
+    {
+      "match": "ravenBird",
+      "image_id": 34084
+    },
+    {
+      "match": "ravenClass",
+      "image_id": 34599
+    },
+    {
+      "match": "ravenNope",
+      "image_id": 34623
+    },
+    {
+      "match": "ravenLove",
+      "image_id": 35007
+    },
+    {
+      "match": "ravenShy",
+      "image_id": 75163
+    },
+    {
+      "match": "ravenPoop",
+      "image_id": 77980
+    },
+    {
+      "match": "ravenWutev",
+      "image_id": 75164
+    },
+    {
+      "match": "ravenH",
+      "image_id": 91232
+    },
+    {
+      "match": "ravenB",
+      "image_id": 91233
+    }
+  ]
+}

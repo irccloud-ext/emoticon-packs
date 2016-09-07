@@ -1,1 +1,15 @@
-{"name":"twitch-sub-fm3_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fm3Hype","image_id":99198},{"match":"fm3Rage","image_id":110789}]}
+{
+  "name": "twitch-sub-fm3_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fm3Hype",
+      "image_id": 99198
+    },
+    {
+      "match": "fm3Rage",
+      "image_id": 110789
+    }
+  ]
+}

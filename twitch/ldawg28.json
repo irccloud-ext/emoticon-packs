@@ -1,1 +1,39 @@
-{"name":"twitch-sub-ldawg28","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dawgSwoopWoop","image_id":74048},{"match":"dawgPowdered","image_id":74045},{"match":"dawgGG","image_id":77490},{"match":"dawgDawgPound","image_id":54194},{"match":"dawgCrystalBall","image_id":54195},{"match":"dawgHolla","image_id":79285},{"match":"dawgBallin","image_id":80189},{"match":"dawgPogDab","image_id":84007}]}
+{
+  "name": "twitch-sub-ldawg28",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dawgSwoopWoop",
+      "image_id": 74048
+    },
+    {
+      "match": "dawgPowdered",
+      "image_id": 74045
+    },
+    {
+      "match": "dawgGG",
+      "image_id": 77490
+    },
+    {
+      "match": "dawgDawgPound",
+      "image_id": 54194
+    },
+    {
+      "match": "dawgCrystalBall",
+      "image_id": 54195
+    },
+    {
+      "match": "dawgHolla",
+      "image_id": 79285
+    },
+    {
+      "match": "dawgBallin",
+      "image_id": 80189
+    },
+    {
+      "match": "dawgPogDab",
+      "image_id": 84007
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-{"name":"twitch-sub-asiaamore","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"asiaDrow","image_id":8077},{"match":"asiaKappa","image_id":14278},{"match":"asiaThirst","image_id":14305},{"match":"asiaTurtle","image_id":20453},{"match":"asiaRage","image_id":45437}]}
+{
+  "name": "twitch-sub-asiaamore",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "asiaDrow",
+      "image_id": 8077
+    },
+    {
+      "match": "asiaKappa",
+      "image_id": 14278
+    },
+    {
+      "match": "asiaThirst",
+      "image_id": 14305
+    },
+    {
+      "match": "asiaTurtle",
+      "image_id": 20453
+    },
+    {
+      "match": "asiaRage",
+      "image_id": 45437
+    }
+  ]
+}

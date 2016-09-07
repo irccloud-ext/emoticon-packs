@@ -1,1 +1,35 @@
-{"name":"twitch-sub-stabbystabby","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"emotistabKappa","image_id":30811},{"match":"emotistabY","image_id":7383},{"match":"emotistabBed","image_id":47732},{"match":"emotistabSpykap","image_id":47731},{"match":"emotistabAmby","image_id":47733},{"match":"emotistabDuck","image_id":49112},{"match":"emotistabGah","image_id":49113}]}
+{
+  "name": "twitch-sub-stabbystabby",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "emotistabKappa",
+      "image_id": 30811
+    },
+    {
+      "match": "emotistabY",
+      "image_id": 7383
+    },
+    {
+      "match": "emotistabBed",
+      "image_id": 47732
+    },
+    {
+      "match": "emotistabSpykap",
+      "image_id": 47731
+    },
+    {
+      "match": "emotistabAmby",
+      "image_id": 47733
+    },
+    {
+      "match": "emotistabDuck",
+      "image_id": 49112
+    },
+    {
+      "match": "emotistabGah",
+      "image_id": 49113
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-tiiitou76","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"titouCOEUR","image_id":41777},{"match":"titouQSM","image_id":41522},{"match":"titouVRAI","image_id":41525},{"match":"titouGG","image_id":56786},{"match":"titouSUB","image_id":53455},{"match":"titouFAIL","image_id":57602},{"match":"titouREKT","image_id":78167},{"match":"titouH","image_id":78824}]}
+{
+  "name": "twitch-sub-tiiitou76",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "titouCOEUR",
+      "image_id": 41777
+    },
+    {
+      "match": "titouQSM",
+      "image_id": 41522
+    },
+    {
+      "match": "titouVRAI",
+      "image_id": 41525
+    },
+    {
+      "match": "titouGG",
+      "image_id": 56786
+    },
+    {
+      "match": "titouSUB",
+      "image_id": 53455
+    },
+    {
+      "match": "titouFAIL",
+      "image_id": 57602
+    },
+    {
+      "match": "titouREKT",
+      "image_id": 78167
+    },
+    {
+      "match": "titouH",
+      "image_id": 78824
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"twitch-sub-fedporo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fedporoLea","image_id":21768},{"match":"fedporoSesi","image_id":21769},{"match":"fedporoBatman","image_id":21008},{"match":"fedporoDududu","image_id":24724},{"match":"fedporoSnack","image_id":28630},{"match":"fedporoMama","image_id":30323},{"match":"fedporoMe","image_id":30355}]}
+{
+  "name": "twitch-sub-fedporo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fedporoLea",
+      "image_id": 21768
+    },
+    {
+      "match": "fedporoSesi",
+      "image_id": 21769
+    },
+    {
+      "match": "fedporoBatman",
+      "image_id": 21008
+    },
+    {
+      "match": "fedporoDududu",
+      "image_id": 24724
+    },
+    {
+      "match": "fedporoSnack",
+      "image_id": 28630
+    },
+    {
+      "match": "fedporoMama",
+      "image_id": 30323
+    },
+    {
+      "match": "fedporoMe",
+      "image_id": 30355
+    }
+  ]
+}

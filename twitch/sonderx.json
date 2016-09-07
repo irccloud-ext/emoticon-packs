@@ -1,1 +1,15 @@
-{"name":"twitch-sub-sonderx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sonderxDIJE","image_id":106357},{"match":"sonderxJustice","image_id":107866}]}
+{
+  "name": "twitch-sub-sonderx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sonderxDIJE",
+      "image_id": 106357
+    },
+    {
+      "match": "sonderxJustice",
+      "image_id": 107866
+    }
+  ]
+}

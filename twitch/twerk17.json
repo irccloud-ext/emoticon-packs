@@ -1,1 +1,47 @@
-{"name":"twitch-sub-twerk17","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"greyED","image_id":51811},{"match":"greyA","image_id":54349},{"match":"greyRIP","image_id":47597},{"match":"greyTwerk","image_id":43561},{"match":"greyD4nny","image_id":43562},{"match":"greyLola","image_id":43802},{"match":"greyMLG","image_id":62602},{"match":"greyImp","image_id":91169}]}
+{
+  "name": "twitch-sub-twerk17",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "greyED",
+      "image_id": 51811
+    },
+    {
+      "match": "greyA",
+      "image_id": 54349
+    },
+    {
+      "match": "greyRIP",
+      "image_id": 47597
+    },
+    {
+      "match": "greyTwerk",
+      "image_id": 43561
+    },
+    {
+      "match": "greyD4nny",
+      "image_id": 43562
+    },
+    {
+      "match": "greyLola",
+      "image_id": 43802
+    },
+    {
+      "match": "greyMLG",
+      "image_id": 62602
+    },
+    {
+      "match": "greyImp",
+      "image_id": 91169
+    },
+    {
+      "match": "greyTrixie",
+      "image_id": 112347
+    },
+    {
+      "match": "greyBrian",
+      "image_id": 112374
+    }
+  ]
+}

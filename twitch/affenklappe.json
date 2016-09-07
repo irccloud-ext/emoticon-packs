@@ -1,1 +1,43 @@
-{"name":"twitch-sub-affenklappe","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"affeW","image_id":56680},{"match":"affeH","image_id":57183},{"match":"affeK","image_id":51942},{"match":"affeGG","image_id":50376},{"match":"affeKackt","image_id":50484},{"match":"affeIsso","image_id":54644},{"match":"affeHype","image_id":57274},{"match":"affeMH","image_id":57802},{"match":"affeKl","image_id":61172}]}
+{
+  "name": "twitch-sub-affenklappe",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "affeW",
+      "image_id": 56680
+    },
+    {
+      "match": "affeH",
+      "image_id": 57183
+    },
+    {
+      "match": "affeK",
+      "image_id": 51942
+    },
+    {
+      "match": "affeGG",
+      "image_id": 50376
+    },
+    {
+      "match": "affeKackt",
+      "image_id": 50484
+    },
+    {
+      "match": "affeIsso",
+      "image_id": 54644
+    },
+    {
+      "match": "affeHype",
+      "image_id": 57274
+    },
+    {
+      "match": "affeMH",
+      "image_id": 57802
+    },
+    {
+      "match": "affeKl",
+      "image_id": 61172
+    }
+  ]
+}

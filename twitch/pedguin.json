@@ -1,1 +1,47 @@
-{"name":"twitch-sub-pedguin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pedHeart","image_id":20642},{"match":"pedRIP","image_id":52661},{"match":"pedCenx","image_id":56018},{"match":"pedOMG","image_id":55836},{"match":"pedRage","image_id":55837},{"match":"pedShades","image_id":55838},{"match":"pedBaih","image_id":55840},{"match":"pedLewd","image_id":55843},{"match":"pedHead","image_id":57604},{"match":"pedCry","image_id":57772}]}
+{
+  "name": "twitch-sub-pedguin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pedHeart",
+      "image_id": 20642
+    },
+    {
+      "match": "pedRIP",
+      "image_id": 52661
+    },
+    {
+      "match": "pedCenx",
+      "image_id": 56018
+    },
+    {
+      "match": "pedOMG",
+      "image_id": 55836
+    },
+    {
+      "match": "pedRage",
+      "image_id": 55837
+    },
+    {
+      "match": "pedShades",
+      "image_id": 55838
+    },
+    {
+      "match": "pedBaih",
+      "image_id": 55840
+    },
+    {
+      "match": "pedLewd",
+      "image_id": 55843
+    },
+    {
+      "match": "pedHead",
+      "image_id": 57604
+    },
+    {
+      "match": "pedCry",
+      "image_id": 57772
+    }
+  ]
+}

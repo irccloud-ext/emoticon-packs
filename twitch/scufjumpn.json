@@ -1,1 +1,67 @@
-{"name":"twitch-sub-scufjumpn","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"scufYK","image_id":94968},{"match":"scufBod","image_id":108148},{"match":"scufLove","image_id":68955},{"match":"scufPray","image_id":68752},{"match":"scufPack","image_id":67624},{"match":"scufKappa","image_id":67610},{"match":"scufMob","image_id":69747},{"match":"scufRage","image_id":69778},{"match":"scufRip","image_id":70006},{"match":"scufGasm","image_id":100959},{"match":"scufHello","image_id":100746},{"match":"scufLit","image_id":100912},{"match":"scufChoke","image_id":100790},{"match":"scufDono","image_id":100791},{"match":"scufHype","image_id":99291}]}
+{
+  "name": "twitch-sub-scufjumpn",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "scufYK",
+      "image_id": 94968
+    },
+    {
+      "match": "scufBod",
+      "image_id": 108148
+    },
+    {
+      "match": "scufLove",
+      "image_id": 68955
+    },
+    {
+      "match": "scufPray",
+      "image_id": 68752
+    },
+    {
+      "match": "scufPack",
+      "image_id": 67624
+    },
+    {
+      "match": "scufKappa",
+      "image_id": 67610
+    },
+    {
+      "match": "scufMob",
+      "image_id": 69747
+    },
+    {
+      "match": "scufRage",
+      "image_id": 69778
+    },
+    {
+      "match": "scufRip",
+      "image_id": 70006
+    },
+    {
+      "match": "scufGasm",
+      "image_id": 100959
+    },
+    {
+      "match": "scufHello",
+      "image_id": 100746
+    },
+    {
+      "match": "scufLit",
+      "image_id": 100912
+    },
+    {
+      "match": "scufChoke",
+      "image_id": 100790
+    },
+    {
+      "match": "scufDono",
+      "image_id": 100791
+    },
+    {
+      "match": "scufHype",
+      "image_id": 99291
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-magicamy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"noonaLove","image_id":34843},{"match":"noonaKitty","image_id":34841},{"match":"noonaWink","image_id":34840},{"match":"noonaCry","image_id":35186},{"match":"noonaAngry","image_id":35185},{"match":"noonaLewd","image_id":35198},{"match":"noonaGasm","image_id":36396},{"match":"noonaSleep","image_id":36397}]}
+{
+  "name": "twitch-sub-magicamy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "noonaLove",
+      "image_id": 34843
+    },
+    {
+      "match": "noonaKitty",
+      "image_id": 34841
+    },
+    {
+      "match": "noonaWink",
+      "image_id": 34840
+    },
+    {
+      "match": "noonaCry",
+      "image_id": 35186
+    },
+    {
+      "match": "noonaAngry",
+      "image_id": 35185
+    },
+    {
+      "match": "noonaLewd",
+      "image_id": 35198
+    },
+    {
+      "match": "noonaGasm",
+      "image_id": 36396
+    },
+    {
+      "match": "noonaSleep",
+      "image_id": 36397
+    }
+  ]
+}

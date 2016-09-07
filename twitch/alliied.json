@@ -1,1 +1,47 @@
-{"name":"twitch-sub-alliied","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"alliedEw","image_id":4703},{"match":"alliedOmg","image_id":5531},{"match":"alliedHelp","image_id":5530},{"match":"alliedKawaii","image_id":28528},{"match":"alliedW","image_id":39351},{"match":"alliedLit","image_id":59707},{"match":"alliedHype","image_id":59705},{"match":"alliedSavage","image_id":69890},{"match":"alliedChurch","image_id":90278},{"match":"alliedFeels","image_id":90279}]}
+{
+  "name": "twitch-sub-alliied",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "alliedEw",
+      "image_id": 4703
+    },
+    {
+      "match": "alliedOmg",
+      "image_id": 5531
+    },
+    {
+      "match": "alliedHelp",
+      "image_id": 5530
+    },
+    {
+      "match": "alliedKawaii",
+      "image_id": 28528
+    },
+    {
+      "match": "alliedW",
+      "image_id": 39351
+    },
+    {
+      "match": "alliedLit",
+      "image_id": 59707
+    },
+    {
+      "match": "alliedHype",
+      "image_id": 59705
+    },
+    {
+      "match": "alliedSavage",
+      "image_id": 69890
+    },
+    {
+      "match": "alliedChurch",
+      "image_id": 90278
+    },
+    {
+      "match": "alliedFeels",
+      "image_id": 90279
+    }
+  ]
+}

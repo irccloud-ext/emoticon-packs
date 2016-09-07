@@ -1,1 +1,67 @@
-{"name":"twitch-sub-pokket","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pokketD","image_id":59860},{"match":"pokketFeels","image_id":52363},{"match":"pokketHype","image_id":52838},{"match":"pokketP","image_id":59949},{"match":"pokketWat","image_id":59154},{"match":"pokketHey","image_id":64514},{"match":"pokketW","image_id":99551},{"match":"pokketFAT","image_id":74496},{"match":"pokketGOOD","image_id":78968},{"match":"pokketKappa","image_id":78969},{"match":"pokketDrunk","image_id":93959},{"match":"pokketH","image_id":93661},{"match":"pokketNOT","image_id":93348},{"match":"pokketPUKE","image_id":93368},{"match":"pokketA","image_id":109897}]}
+{
+  "name": "twitch-sub-pokket",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pokketD",
+      "image_id": 59860
+    },
+    {
+      "match": "pokketFeels",
+      "image_id": 52363
+    },
+    {
+      "match": "pokketHype",
+      "image_id": 52838
+    },
+    {
+      "match": "pokketP",
+      "image_id": 59949
+    },
+    {
+      "match": "pokketWat",
+      "image_id": 59154
+    },
+    {
+      "match": "pokketHey",
+      "image_id": 64514
+    },
+    {
+      "match": "pokketW",
+      "image_id": 99551
+    },
+    {
+      "match": "pokketFAT",
+      "image_id": 74496
+    },
+    {
+      "match": "pokketGOOD",
+      "image_id": 78968
+    },
+    {
+      "match": "pokketKappa",
+      "image_id": 78969
+    },
+    {
+      "match": "pokketDrunk",
+      "image_id": 93959
+    },
+    {
+      "match": "pokketH",
+      "image_id": 93661
+    },
+    {
+      "match": "pokketNOT",
+      "image_id": 93348
+    },
+    {
+      "match": "pokketPUKE",
+      "image_id": 93368
+    },
+    {
+      "match": "pokketA",
+      "image_id": 109897
+    }
+  ]
+}

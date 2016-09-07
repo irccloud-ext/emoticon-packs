@@ -1,1 +1,39 @@
-{"name":"twitch-sub-slickblackjesus","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"slickCOFFEE","image_id":88047},{"match":"slickGASM","image_id":91885},{"match":"slickHOLDME","image_id":86265},{"match":"slickLOVE","image_id":86694},{"match":"slickHYPE","image_id":90000},{"match":"slickTHUMP","image_id":90571},{"match":"slickLEWD","image_id":92102},{"match":"slickWAVE","image_id":92918}]}
+{
+  "name": "twitch-sub-slickblackjesus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "slickCOFFEE",
+      "image_id": 88047
+    },
+    {
+      "match": "slickGASM",
+      "image_id": 91885
+    },
+    {
+      "match": "slickHOLDME",
+      "image_id": 86265
+    },
+    {
+      "match": "slickLOVE",
+      "image_id": 86694
+    },
+    {
+      "match": "slickHYPE",
+      "image_id": 90000
+    },
+    {
+      "match": "slickTHUMP",
+      "image_id": 90571
+    },
+    {
+      "match": "slickLEWD",
+      "image_id": 92102
+    },
+    {
+      "match": "slickWAVE",
+      "image_id": 92918
+    }
+  ]
+}

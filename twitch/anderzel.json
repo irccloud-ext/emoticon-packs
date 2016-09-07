@@ -1,1 +1,47 @@
-{"name":"twitch-sub-anderzel","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zelMlg","image_id":60587},{"match":"zelFace","image_id":10879},{"match":"zelRage","image_id":81072},{"match":"zelRip","image_id":22213},{"match":"zelOut","image_id":61239},{"match":"zelDerp","image_id":61240},{"match":"zelLove","image_id":60588},{"match":"zelBalls","image_id":61241},{"match":"zelSad","image_id":58883},{"match":"zelKappa","image_id":71329}]}
+{
+  "name": "twitch-sub-anderzel",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zelMlg",
+      "image_id": 60587
+    },
+    {
+      "match": "zelFace",
+      "image_id": 10879
+    },
+    {
+      "match": "zelRage",
+      "image_id": 81072
+    },
+    {
+      "match": "zelRip",
+      "image_id": 22213
+    },
+    {
+      "match": "zelOut",
+      "image_id": 61239
+    },
+    {
+      "match": "zelDerp",
+      "image_id": 61240
+    },
+    {
+      "match": "zelLove",
+      "image_id": 60588
+    },
+    {
+      "match": "zelBalls",
+      "image_id": 61241
+    },
+    {
+      "match": "zelSad",
+      "image_id": 58883
+    },
+    {
+      "match": "zelKappa",
+      "image_id": 71329
+    }
+  ]
+}

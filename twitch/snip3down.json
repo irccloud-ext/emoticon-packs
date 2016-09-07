@@ -1,1 +1,63 @@
-{"name":"twitch-sub-snip3down","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"snipeHype","image_id":61339},{"match":"snipeEG","image_id":31169},{"match":"snipeFight","image_id":77984},{"match":"snipeFire","image_id":61338},{"match":"snipeOnemore","image_id":61337},{"match":"snipePog","image_id":105920},{"match":"snipePistol","image_id":72782},{"match":"snipeBR","image_id":72783},{"match":"snipeGG","image_id":73962},{"match":"snipeGO","image_id":73963},{"match":"snipeFail","image_id":73972},{"match":"snipeLove","image_id":75303},{"match":"snipeCeleste","image_id":76226},{"match":"snipeTC","image_id":88225}]}
+{
+  "name": "twitch-sub-snip3down",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "snipeHype",
+      "image_id": 61339
+    },
+    {
+      "match": "snipeEG",
+      "image_id": 31169
+    },
+    {
+      "match": "snipeFight",
+      "image_id": 77984
+    },
+    {
+      "match": "snipeFire",
+      "image_id": 61338
+    },
+    {
+      "match": "snipeOnemore",
+      "image_id": 61337
+    },
+    {
+      "match": "snipePog",
+      "image_id": 105920
+    },
+    {
+      "match": "snipePistol",
+      "image_id": 72782
+    },
+    {
+      "match": "snipeBR",
+      "image_id": 72783
+    },
+    {
+      "match": "snipeGG",
+      "image_id": 73962
+    },
+    {
+      "match": "snipeGO",
+      "image_id": 73963
+    },
+    {
+      "match": "snipeFail",
+      "image_id": 73972
+    },
+    {
+      "match": "snipeLove",
+      "image_id": 75303
+    },
+    {
+      "match": "snipeCeleste",
+      "image_id": 76226
+    },
+    {
+      "match": "snipeTC",
+      "image_id": 88225
+    }
+  ]
+}

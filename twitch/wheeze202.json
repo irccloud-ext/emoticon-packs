@@ -1,1 +1,31 @@
-{"name":"twitch-sub-wheeze202","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wezHey","image_id":41744},{"match":"wezBorn","image_id":28469},{"match":"wezToot","image_id":41342},{"match":"wezCringe","image_id":96041},{"match":"wezSmooth","image_id":83999},{"match":"wezMeh","image_id":84000}]}
+{
+  "name": "twitch-sub-wheeze202",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wezHey",
+      "image_id": 41744
+    },
+    {
+      "match": "wezBorn",
+      "image_id": 28469
+    },
+    {
+      "match": "wezToot",
+      "image_id": 41342
+    },
+    {
+      "match": "wezCringe",
+      "image_id": 96041
+    },
+    {
+      "match": "wezSmooth",
+      "image_id": 83999
+    },
+    {
+      "match": "wezMeh",
+      "image_id": 84000
+    }
+  ]
+}

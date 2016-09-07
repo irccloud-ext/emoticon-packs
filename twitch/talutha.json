@@ -1,1 +1,35 @@
-{"name":"twitch-sub-talutha","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tsgNoPants","image_id":13973},{"match":"tsgBacon","image_id":13971},{"match":"tsgClap","image_id":13972},{"match":"tsgFail","image_id":15502},{"match":"tsgSugar","image_id":15503},{"match":"tsgLove","image_id":18916},{"match":"tsgTexas","image_id":19314}]}
+{
+  "name": "twitch-sub-talutha",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tsgNoPants",
+      "image_id": 13973
+    },
+    {
+      "match": "tsgBacon",
+      "image_id": 13971
+    },
+    {
+      "match": "tsgClap",
+      "image_id": 13972
+    },
+    {
+      "match": "tsgFail",
+      "image_id": 15502
+    },
+    {
+      "match": "tsgSugar",
+      "image_id": 15503
+    },
+    {
+      "match": "tsgLove",
+      "image_id": 18916
+    },
+    {
+      "match": "tsgTexas",
+      "image_id": 19314
+    }
+  ]
+}

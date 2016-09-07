@@ -1,1 +1,35 @@
-{"name":"twitch-sub-sgtrumpel","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sgtOO","image_id":23122},{"match":"sgtO7","image_id":23124},{"match":"sgtP","image_id":63455},{"match":"sgtBah","image_id":63453},{"match":"sgtLOL","image_id":63452},{"match":"sgtLove","image_id":63451},{"match":"sgtFriend","image_id":104617}]}
+{
+  "name": "twitch-sub-sgtrumpel",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sgtOO",
+      "image_id": 23122
+    },
+    {
+      "match": "sgtO7",
+      "image_id": 23124
+    },
+    {
+      "match": "sgtP",
+      "image_id": 63455
+    },
+    {
+      "match": "sgtBah",
+      "image_id": 63453
+    },
+    {
+      "match": "sgtLOL",
+      "image_id": 63452
+    },
+    {
+      "match": "sgtLove",
+      "image_id": 63451
+    },
+    {
+      "match": "sgtFriend",
+      "image_id": 104617
+    }
+  ]
+}

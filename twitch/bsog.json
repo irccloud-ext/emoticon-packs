@@ -1,1 +1,23 @@
-{"name":"twitch-sub-bsog","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bsogLETS","image_id":13360},{"match":"bsogGO","image_id":13361},{"match":"bsogTeco","image_id":14176},{"match":"bsogChoke","image_id":14179}]}
+{
+  "name": "twitch-sub-bsog",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bsogLETS",
+      "image_id": 13360
+    },
+    {
+      "match": "bsogGO",
+      "image_id": 13361
+    },
+    {
+      "match": "bsogTeco",
+      "image_id": 14176
+    },
+    {
+      "match": "bsogChoke",
+      "image_id": 14179
+    }
+  ]
+}

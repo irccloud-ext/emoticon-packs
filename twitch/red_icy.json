@@ -1,1 +1,15 @@
-{"name":"twitch-sub-red_icy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"redicySTARE","image_id":49567},{"match":"redicyLGB","image_id":49923}]}
+{
+  "name": "twitch-sub-red_icy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "redicySTARE",
+      "image_id": 49567
+    },
+    {
+      "match": "redicyLGB",
+      "image_id": 49923
+    }
+  ]
+}

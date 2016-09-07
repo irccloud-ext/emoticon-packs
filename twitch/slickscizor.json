@@ -1,1 +1,31 @@
-{"name":"twitch-sub-slickscizor","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"scizYOLO","image_id":21481},{"match":"scizWhat","image_id":33232},{"match":"scizChill","image_id":32204},{"match":"scizRekt","image_id":32229},{"match":"scizHeh","image_id":32362},{"match":"scizDawg","image_id":33307}]}
+{
+  "name": "twitch-sub-slickscizor",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "scizYOLO",
+      "image_id": 21481
+    },
+    {
+      "match": "scizWhat",
+      "image_id": 33232
+    },
+    {
+      "match": "scizChill",
+      "image_id": 32204
+    },
+    {
+      "match": "scizRekt",
+      "image_id": 32229
+    },
+    {
+      "match": "scizHeh",
+      "image_id": 32362
+    },
+    {
+      "match": "scizDawg",
+      "image_id": 33307
+    }
+  ]
+}

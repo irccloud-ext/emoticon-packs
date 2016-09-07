@@ -1,1 +1,31 @@
-{"name":"twitch-sub-thedropoutdragon","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dodParry","image_id":14937},{"match":"dodGG","image_id":14939},{"match":"dodCool","image_id":16952},{"match":"dodSpam","image_id":21075},{"match":"dodSing","image_id":21076},{"match":"dodCash","image_id":21077}]}
+{
+  "name": "twitch-sub-thedropoutdragon",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dodParry",
+      "image_id": 14937
+    },
+    {
+      "match": "dodGG",
+      "image_id": 14939
+    },
+    {
+      "match": "dodCool",
+      "image_id": 16952
+    },
+    {
+      "match": "dodSpam",
+      "image_id": 21075
+    },
+    {
+      "match": "dodSing",
+      "image_id": 21076
+    },
+    {
+      "match": "dodCash",
+      "image_id": 21077
+    }
+  ]
+}

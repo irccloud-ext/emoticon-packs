@@ -1,1 +1,35 @@
-{"name":"twitch-sub-blatty","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"blattGay","image_id":58218},{"match":"blattFacepalm","image_id":61369},{"match":"blattRip","image_id":60642},{"match":"blattJoke","image_id":64050},{"match":"blattFeels","image_id":76249},{"match":"blattWtf","image_id":92214},{"match":"blattKappa","image_id":92134}]}
+{
+  "name": "twitch-sub-blatty",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "blattGay",
+      "image_id": 58218
+    },
+    {
+      "match": "blattFacepalm",
+      "image_id": 61369
+    },
+    {
+      "match": "blattRip",
+      "image_id": 60642
+    },
+    {
+      "match": "blattJoke",
+      "image_id": 64050
+    },
+    {
+      "match": "blattFeels",
+      "image_id": 76249
+    },
+    {
+      "match": "blattWtf",
+      "image_id": 92214
+    },
+    {
+      "match": "blattKappa",
+      "image_id": 92134
+    }
+  ]
+}

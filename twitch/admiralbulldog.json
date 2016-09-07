@@ -1,1 +1,79 @@
-{"name":"twitch-sub-admiralbulldog","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"admiralRapira","image_id":63593},{"match":"admiralHappy","image_id":21757},{"match":"admiralW","image_id":46771},{"match":"admiralKristin","image_id":34464},{"match":"admiralDream","image_id":35504},{"match":"admiralGame","image_id":35495},{"match":"admiralKappe","image_id":38292},{"match":"admiralSexy","image_id":38300},{"match":"admiralDong","image_id":56884},{"match":"admiralPleb","image_id":57740},{"match":"admiralThump","image_id":61564},{"match":"admiralGasm","image_id":68938},{"match":"admiralS4","image_id":68937},{"match":"admiralHug","image_id":69497},{"match":"admiralFeels","image_id":71685},{"match":"admiralNox","image_id":78045},{"match":"admiralFrog","image_id":81222},{"match":"admiralAlfredo","image_id":81565}]}
+{
+  "name": "twitch-sub-admiralbulldog",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "admiralRapira",
+      "image_id": 63593
+    },
+    {
+      "match": "admiralHappy",
+      "image_id": 21757
+    },
+    {
+      "match": "admiralW",
+      "image_id": 46771
+    },
+    {
+      "match": "admiralKristin",
+      "image_id": 34464
+    },
+    {
+      "match": "admiralDream",
+      "image_id": 35504
+    },
+    {
+      "match": "admiralGame",
+      "image_id": 35495
+    },
+    {
+      "match": "admiralKappe",
+      "image_id": 38292
+    },
+    {
+      "match": "admiralSexy",
+      "image_id": 38300
+    },
+    {
+      "match": "admiralDong",
+      "image_id": 56884
+    },
+    {
+      "match": "admiralPleb",
+      "image_id": 57740
+    },
+    {
+      "match": "admiralThump",
+      "image_id": 61564
+    },
+    {
+      "match": "admiralGasm",
+      "image_id": 68938
+    },
+    {
+      "match": "admiralS4",
+      "image_id": 68937
+    },
+    {
+      "match": "admiralHug",
+      "image_id": 69497
+    },
+    {
+      "match": "admiralFeels",
+      "image_id": 71685
+    },
+    {
+      "match": "admiralNox",
+      "image_id": 78045
+    },
+    {
+      "match": "admiralFrog",
+      "image_id": 81222
+    },
+    {
+      "match": "admiralAlfredo",
+      "image_id": 81565
+    }
+  ]
+}

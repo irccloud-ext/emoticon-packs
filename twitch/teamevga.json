@@ -1,1 +1,15 @@
-{"name":"twitch-sub-teamevga","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"evgaJacob","image_id":70606},{"match":"evgaE","image_id":93944}]}
+{
+  "name": "twitch-sub-teamevga",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "evgaJacob",
+      "image_id": 70606
+    },
+    {
+      "match": "evgaE",
+      "image_id": 93944
+    }
+  ]
+}

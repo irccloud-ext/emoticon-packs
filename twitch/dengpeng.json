@@ -1,1 +1,23 @@
-{"name":"twitch-sub-dengpeng","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dengPeng","image_id":6051},{"match":"dengFail","image_id":56055},{"match":"dengKappa","image_id":55217},{"match":"dengBongo","image_id":54377}]}
+{
+  "name": "twitch-sub-dengpeng",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dengPeng",
+      "image_id": 6051
+    },
+    {
+      "match": "dengFail",
+      "image_id": 56055
+    },
+    {
+      "match": "dengKappa",
+      "image_id": 55217
+    },
+    {
+      "match": "dengBongo",
+      "image_id": 54377
+    }
+  ]
+}

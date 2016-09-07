@@ -1,1 +1,15 @@
-{"name":"twitch-sub-garenaru","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"honChibi","image_id":5120},{"match":"honPsycho","image_id":22280}]}
+{
+  "name": "twitch-sub-garenaru",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "honChibi",
+      "image_id": 5120
+    },
+    {
+      "match": "honPsycho",
+      "image_id": 22280
+    }
+  ]
+}

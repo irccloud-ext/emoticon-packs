@@ -1,1 +1,23 @@
-{"name":"twitch-sub-craftingpat","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cpatUMad","image_id":34198},{"match":"cpatPeter","image_id":34096},{"match":"cpatFace","image_id":38462},{"match":"cpatWuff","image_id":38671}]}
+{
+  "name": "twitch-sub-craftingpat",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cpatUMad",
+      "image_id": 34198
+    },
+    {
+      "match": "cpatPeter",
+      "image_id": 34096
+    },
+    {
+      "match": "cpatFace",
+      "image_id": 38462
+    },
+    {
+      "match": "cpatWuff",
+      "image_id": 38671
+    }
+  ]
+}

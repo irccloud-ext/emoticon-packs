@@ -1,1 +1,15 @@
-{"name":"twitch-sub-teemo_aa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"stpRainbow","image_id":87881},{"match":"stpMushroom","image_id":87898}]}
+{
+  "name": "twitch-sub-teemo_aa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "stpRainbow",
+      "image_id": 87881
+    },
+    {
+      "match": "stpMushroom",
+      "image_id": 87898
+    }
+  ]
+}

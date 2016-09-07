@@ -1,1 +1,35 @@
-{"name":"twitch-sub-nerdist","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nerdistBurrito","image_id":25784},{"match":"nerdistJess","image_id":25787},{"match":"nerdistDan","image_id":25785},{"match":"nerdistJess2","image_id":25788},{"match":"nerdistDan2","image_id":25786},{"match":"nerdistLaser","image_id":25790},{"match":"nerdistWhitePants","image_id":27669}]}
+{
+  "name": "twitch-sub-nerdist",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nerdistBurrito",
+      "image_id": 25784
+    },
+    {
+      "match": "nerdistJess",
+      "image_id": 25787
+    },
+    {
+      "match": "nerdistDan",
+      "image_id": 25785
+    },
+    {
+      "match": "nerdistJess2",
+      "image_id": 25788
+    },
+    {
+      "match": "nerdistDan2",
+      "image_id": 25786
+    },
+    {
+      "match": "nerdistLaser",
+      "image_id": 25790
+    },
+    {
+      "match": "nerdistWhitePants",
+      "image_id": 27669
+    }
+  ]
+}

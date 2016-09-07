@@ -1,1 +1,67 @@
-{"name":"twitch-sub-nairomk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nairoSchooled","image_id":99003},{"match":"nairoDragonup","image_id":99002},{"match":"nairoBabyblade","image_id":99001},{"match":"nairoWaifu","image_id":99004},{"match":"nairoApex","image_id":41074},{"match":"nairoTip","image_id":41082},{"match":"nairoFiyur","image_id":70139},{"match":"nairoMog","image_id":46023},{"match":"nairoAttack","image_id":61759},{"match":"nairoSmug","image_id":61755},{"match":"nairoFiend","image_id":61756},{"match":"nairo1more","image_id":61757},{"match":"nairoKick","image_id":61758},{"match":"nairoGlasses","image_id":64357},{"match":"nairoKawaii","image_id":83465}]}
+{
+  "name": "twitch-sub-nairomk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nairoSchooled",
+      "image_id": 99003
+    },
+    {
+      "match": "nairoDragonup",
+      "image_id": 99002
+    },
+    {
+      "match": "nairoBabyblade",
+      "image_id": 99001
+    },
+    {
+      "match": "nairoWaifu",
+      "image_id": 99004
+    },
+    {
+      "match": "nairoApex",
+      "image_id": 41074
+    },
+    {
+      "match": "nairoTip",
+      "image_id": 41082
+    },
+    {
+      "match": "nairoFiyur",
+      "image_id": 70139
+    },
+    {
+      "match": "nairoMog",
+      "image_id": 46023
+    },
+    {
+      "match": "nairoAttack",
+      "image_id": 61759
+    },
+    {
+      "match": "nairoSmug",
+      "image_id": 61755
+    },
+    {
+      "match": "nairoFiend",
+      "image_id": 61756
+    },
+    {
+      "match": "nairo1more",
+      "image_id": 61757
+    },
+    {
+      "match": "nairoKick",
+      "image_id": 61758
+    },
+    {
+      "match": "nairoGlasses",
+      "image_id": 64357
+    },
+    {
+      "match": "nairoKawaii",
+      "image_id": 83465
+    }
+  ]
+}

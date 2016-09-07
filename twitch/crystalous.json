@@ -1,1 +1,15 @@
-{"name":"twitch-sub-crystalous","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"diamondHYPE","image_id":58070},{"match":"diamondGG","image_id":58069}]}
+{
+  "name": "twitch-sub-crystalous",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "diamondHYPE",
+      "image_id": 58070
+    },
+    {
+      "match": "diamondGG",
+      "image_id": 58069
+    }
+  ]
+}

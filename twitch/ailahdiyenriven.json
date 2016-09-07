@@ -1,1 +1,87 @@
-{"name":"twitch-sub-ailahdiyenriven","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"levoCeko","image_id":108580},{"match":"levoWtf","image_id":111661},{"match":"levoPorsche","image_id":111645},{"match":"levoEx","image_id":111644},{"match":"levoBig","image_id":111673},{"match":"levoLevo","image_id":111672},{"match":"levoGasm","image_id":107842},{"match":"levoKolay","image_id":107342},{"match":"levoYoutube","image_id":107341},{"match":"levoRekt","image_id":107340},{"match":"levoRage","image_id":107339},{"match":"levoEy","image_id":111688},{"match":"levoRip","image_id":111687},{"match":"levoEgo","image_id":108581},{"match":"levoAn","image_id":107736},{"match":"levoYapraam","image_id":107861},{"match":"levoHype","image_id":107737},{"match":"levoDola","image_id":107738},{"match":"levoPara","image_id":107847},{"match":"levoWorth","image_id":108560}]}
+{
+  "name": "twitch-sub-ailahdiyenriven",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "levoCeko",
+      "image_id": 108580
+    },
+    {
+      "match": "levoWtf",
+      "image_id": 111661
+    },
+    {
+      "match": "levoPorsche",
+      "image_id": 111645
+    },
+    {
+      "match": "levoEx",
+      "image_id": 111644
+    },
+    {
+      "match": "levoBig",
+      "image_id": 111673
+    },
+    {
+      "match": "levoLevo",
+      "image_id": 111672
+    },
+    {
+      "match": "levoGasm",
+      "image_id": 107842
+    },
+    {
+      "match": "levoKolay",
+      "image_id": 107342
+    },
+    {
+      "match": "levoYoutube",
+      "image_id": 107341
+    },
+    {
+      "match": "levoRekt",
+      "image_id": 107340
+    },
+    {
+      "match": "levoRage",
+      "image_id": 107339
+    },
+    {
+      "match": "levoEy",
+      "image_id": 111688
+    },
+    {
+      "match": "levoRip",
+      "image_id": 111687
+    },
+    {
+      "match": "levoEgo",
+      "image_id": 108581
+    },
+    {
+      "match": "levoAn",
+      "image_id": 107736
+    },
+    {
+      "match": "levoYapraam",
+      "image_id": 107861
+    },
+    {
+      "match": "levoHype",
+      "image_id": 107737
+    },
+    {
+      "match": "levoDola",
+      "image_id": 107738
+    },
+    {
+      "match": "levoPara",
+      "image_id": 107847
+    },
+    {
+      "match": "levoWorth",
+      "image_id": 108560
+    }
+  ]
+}

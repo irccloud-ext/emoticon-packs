@@ -1,1 +1,15 @@
-{"name":"twitch-sub-ackeeandme","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ackeDude","image_id":60631},{"match":"ackeWeebs","image_id":76364}]}
+{
+  "name": "twitch-sub-ackeeandme",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ackeDude",
+      "image_id": 60631
+    },
+    {
+      "match": "ackeWeebs",
+      "image_id": 76364
+    }
+  ]
+}

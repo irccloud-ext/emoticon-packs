@@ -1,1 +1,15 @@
-{"name":"twitch-sub-yabaecip","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yabaToon","image_id":80353},{"match":"yabaFace","image_id":80354}]}
+{
+  "name": "twitch-sub-yabaecip",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yabaToon",
+      "image_id": 80353
+    },
+    {
+      "match": "yabaFace",
+      "image_id": 80354
+    }
+  ]
+}

@@ -1,1 +1,87 @@
-{"name":"twitch-sub-rhymesayers","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rseBattleKing","image_id":45441},{"match":"rseBeza","image_id":45442},{"match":"rseCassette","image_id":45443},{"match":"rseDemScream","image_id":45444},{"match":"rseDilated","image_id":45445},{"match":"rseDOOM","image_id":45446},{"match":"rseFirstBorn","image_id":45447},{"match":"rseFox","image_id":45448},{"match":"rseFrown","image_id":45449},{"match":"rseGrieves","image_id":45450},{"match":"rsePROF","image_id":45453},{"match":"rseRecord","image_id":45454},{"match":"rseSkelethon","image_id":45455},{"match":"rseSkull","image_id":45456},{"match":"rseSlugFace","image_id":45457},{"match":"rseSlugLaugh","image_id":45458},{"match":"rseWalk","image_id":45459},{"match":"rseYuck","image_id":45460},{"match":"rseMask","image_id":45452},{"match":"rseLemon","image_id":45478}]}
+{
+  "name": "twitch-sub-rhymesayers",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rseBattleKing",
+      "image_id": 45441
+    },
+    {
+      "match": "rseBeza",
+      "image_id": 45442
+    },
+    {
+      "match": "rseCassette",
+      "image_id": 45443
+    },
+    {
+      "match": "rseDemScream",
+      "image_id": 45444
+    },
+    {
+      "match": "rseDilated",
+      "image_id": 45445
+    },
+    {
+      "match": "rseDOOM",
+      "image_id": 45446
+    },
+    {
+      "match": "rseFirstBorn",
+      "image_id": 45447
+    },
+    {
+      "match": "rseFox",
+      "image_id": 45448
+    },
+    {
+      "match": "rseFrown",
+      "image_id": 45449
+    },
+    {
+      "match": "rseGrieves",
+      "image_id": 45450
+    },
+    {
+      "match": "rsePROF",
+      "image_id": 45453
+    },
+    {
+      "match": "rseRecord",
+      "image_id": 45454
+    },
+    {
+      "match": "rseSkelethon",
+      "image_id": 45455
+    },
+    {
+      "match": "rseSkull",
+      "image_id": 45456
+    },
+    {
+      "match": "rseSlugFace",
+      "image_id": 45457
+    },
+    {
+      "match": "rseSlugLaugh",
+      "image_id": 45458
+    },
+    {
+      "match": "rseWalk",
+      "image_id": 45459
+    },
+    {
+      "match": "rseYuck",
+      "image_id": 45460
+    },
+    {
+      "match": "rseMask",
+      "image_id": 45452
+    },
+    {
+      "match": "rseLemon",
+      "image_id": 45478
+    }
+  ]
+}

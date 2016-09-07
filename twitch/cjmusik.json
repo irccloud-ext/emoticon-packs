@@ -1,1 +1,39 @@
-{"name":"twitch-sub-cjmusik","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cjmDab","image_id":109700},{"match":"cjmFeels","image_id":91443},{"match":"cjmBruh","image_id":105031},{"match":"cjmSquad","image_id":97682},{"match":"cjmTea","image_id":73406},{"match":"cjmLove","image_id":109701},{"match":"cjmMm","image_id":105243},{"match":"cjmL","image_id":109975}]}
+{
+  "name": "twitch-sub-cjmusik",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cjmDab",
+      "image_id": 109700
+    },
+    {
+      "match": "cjmFeels",
+      "image_id": 91443
+    },
+    {
+      "match": "cjmBruh",
+      "image_id": 105031
+    },
+    {
+      "match": "cjmSquad",
+      "image_id": 97682
+    },
+    {
+      "match": "cjmTea",
+      "image_id": 73406
+    },
+    {
+      "match": "cjmLove",
+      "image_id": 109701
+    },
+    {
+      "match": "cjmMm",
+      "image_id": 105243
+    },
+    {
+      "match": "cjmL",
+      "image_id": 109975
+    }
+  ]
+}

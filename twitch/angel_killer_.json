@@ -1,1 +1,23 @@
-{"name":"twitch-sub-angel_killer_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"angkalyanBiceps","image_id":99878},{"match":"angkalyanPokurim","image_id":99877},{"match":"angkalyanWesthwt","image_id":101123},{"match":"angkalyanBECHA","image_id":107579}]}
+{
+  "name": "twitch-sub-angel_killer_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "angkalyanBiceps",
+      "image_id": 99878
+    },
+    {
+      "match": "angkalyanPokurim",
+      "image_id": 99877
+    },
+    {
+      "match": "angkalyanWesthwt",
+      "image_id": 101123
+    },
+    {
+      "match": "angkalyanBECHA",
+      "image_id": 107579
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-goldamsel","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"amselChef","image_id":72731},{"match":"amselHey","image_id":72625},{"match":"amselAngel","image_id":72115},{"match":"amselDevil","image_id":72116},{"match":"amselHeart","image_id":72128},{"match":"amselDance","image_id":72129},{"match":"amselTen","image_id":75040},{"match":"amselRekt","image_id":74921}]}
+{
+  "name": "twitch-sub-goldamsel",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "amselChef",
+      "image_id": 72731
+    },
+    {
+      "match": "amselHey",
+      "image_id": 72625
+    },
+    {
+      "match": "amselAngel",
+      "image_id": 72115
+    },
+    {
+      "match": "amselDevil",
+      "image_id": 72116
+    },
+    {
+      "match": "amselHeart",
+      "image_id": 72128
+    },
+    {
+      "match": "amselDance",
+      "image_id": 72129
+    },
+    {
+      "match": "amselTen",
+      "image_id": 75040
+    },
+    {
+      "match": "amselRekt",
+      "image_id": 74921
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-invictusx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"invictusHype","image_id":51863},{"match":"invictusCheer","image_id":51770},{"match":"invictusPlz","image_id":44907},{"match":"invictusCreep","image_id":102333},{"match":"invictusSmooch","image_id":99054},{"match":"invictusLove","image_id":55144},{"match":"invictusOK","image_id":108776},{"match":"invictusHi","image_id":102527},{"match":"invictusShrug","image_id":102528},{"match":"invictusRage","image_id":102400}]}
+{
+  "name": "twitch-sub-invictusx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "invictusHype",
+      "image_id": 51863
+    },
+    {
+      "match": "invictusCheer",
+      "image_id": 51770
+    },
+    {
+      "match": "invictusPlz",
+      "image_id": 44907
+    },
+    {
+      "match": "invictusCreep",
+      "image_id": 102333
+    },
+    {
+      "match": "invictusSmooch",
+      "image_id": 99054
+    },
+    {
+      "match": "invictusLove",
+      "image_id": 55144
+    },
+    {
+      "match": "invictusOK",
+      "image_id": 108776
+    },
+    {
+      "match": "invictusHi",
+      "image_id": 102527
+    },
+    {
+      "match": "invictusShrug",
+      "image_id": 102528
+    },
+    {
+      "match": "invictusRage",
+      "image_id": 102400
+    }
+  ]
+}

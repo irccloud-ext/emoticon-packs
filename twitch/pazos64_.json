@@ -1,1 +1,23 @@
-{"name":"twitch-sub-pazos64_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pzsMapache","image_id":98024},{"match":"pzsInutil","image_id":98023},{"match":"pzsRabiosa","image_id":106714},{"match":"pzsMonete","image_id":106712}]}
+{
+  "name": "twitch-sub-pazos64_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pzsMapache",
+      "image_id": 98024
+    },
+    {
+      "match": "pzsInutil",
+      "image_id": 98023
+    },
+    {
+      "match": "pzsRabiosa",
+      "image_id": 106714
+    },
+    {
+      "match": "pzsMonete",
+      "image_id": 106712
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-kipichan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kipiKeepo","image_id":104522},{"match":"kipiGasm","image_id":103855},{"match":"kipiChamp","image_id":104263},{"match":"kipiHype","image_id":109090}]}
+{
+  "name": "twitch-sub-kipichan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kipiKeepo",
+      "image_id": 104522
+    },
+    {
+      "match": "kipiGasm",
+      "image_id": 103855
+    },
+    {
+      "match": "kipiChamp",
+      "image_id": 104263
+    },
+    {
+      "match": "kipiHype",
+      "image_id": 109090
+    }
+  ]
+}

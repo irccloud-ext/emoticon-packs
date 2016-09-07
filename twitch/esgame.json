@@ -1,1 +1,47 @@
-{"name":"twitch-sub-esgame","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"partBubba","image_id":38540},{"match":"partShelby","image_id":38931},{"match":"partHype","image_id":97227},{"match":"partRIP","image_id":97233},{"match":"partHeart","image_id":97217},{"match":"partFat","image_id":97235},{"match":"partFail","image_id":97236},{"match":"partCash","image_id":97237},{"match":"partBrave","image_id":97238},{"match":"part7","image_id":97239}]}
+{
+  "name": "twitch-sub-esgame",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "partBubba",
+      "image_id": 38540
+    },
+    {
+      "match": "partShelby",
+      "image_id": 38931
+    },
+    {
+      "match": "partHype",
+      "image_id": 97227
+    },
+    {
+      "match": "partRIP",
+      "image_id": 97233
+    },
+    {
+      "match": "partHeart",
+      "image_id": 97217
+    },
+    {
+      "match": "partFat",
+      "image_id": 97235
+    },
+    {
+      "match": "partFail",
+      "image_id": 97236
+    },
+    {
+      "match": "partCash",
+      "image_id": 97237
+    },
+    {
+      "match": "partBrave",
+      "image_id": 97238
+    },
+    {
+      "match": "part7",
+      "image_id": 97239
+    }
+  ]
+}

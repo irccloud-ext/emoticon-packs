@@ -1,1 +1,31 @@
-{"name":"twitch-sub-purpledrank_hs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"purplewOhno","image_id":51108},{"match":"purplewHeart","image_id":55326},{"match":"purplewCheers","image_id":55327},{"match":"purplew69","image_id":57302},{"match":"purplewBlade","image_id":52831},{"match":"purplewKawaii","image_id":57059}]}
+{
+  "name": "twitch-sub-purpledrank_hs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "purplewOhno",
+      "image_id": 51108
+    },
+    {
+      "match": "purplewHeart",
+      "image_id": 55326
+    },
+    {
+      "match": "purplewCheers",
+      "image_id": 55327
+    },
+    {
+      "match": "purplew69",
+      "image_id": 57302
+    },
+    {
+      "match": "purplewBlade",
+      "image_id": 52831
+    },
+    {
+      "match": "purplewKawaii",
+      "image_id": 57059
+    }
+  ]
+}

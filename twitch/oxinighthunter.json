@@ -1,1 +1,15 @@
-{"name":"twitch-sub-oxinighthunter","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"batuSUB","image_id":50203},{"match":"batuGG","image_id":107264}]}
+{
+  "name": "twitch-sub-oxinighthunter",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "batuSUB",
+      "image_id": 50203
+    },
+    {
+      "match": "batuGG",
+      "image_id": 107264
+    }
+  ]
+}

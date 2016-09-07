@@ -1,1 +1,47 @@
-{"name":"twitch-sub-stober_tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"proTato","image_id":19447},{"match":"proFist","image_id":19317},{"match":"proRip","image_id":19334},{"match":"proGasm","image_id":19327},{"match":"proFail","image_id":19328},{"match":"proKobe","image_id":19332},{"match":"proSweg","image_id":20802},{"match":"proHype","image_id":20102},{"match":"proBleach","image_id":22161},{"match":"proSnipe","image_id":21750}]}
+{
+  "name": "twitch-sub-stober_tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "proTato",
+      "image_id": 19447
+    },
+    {
+      "match": "proFist",
+      "image_id": 19317
+    },
+    {
+      "match": "proRip",
+      "image_id": 19334
+    },
+    {
+      "match": "proGasm",
+      "image_id": 19327
+    },
+    {
+      "match": "proFail",
+      "image_id": 19328
+    },
+    {
+      "match": "proKobe",
+      "image_id": 19332
+    },
+    {
+      "match": "proSweg",
+      "image_id": 20802
+    },
+    {
+      "match": "proHype",
+      "image_id": 20102
+    },
+    {
+      "match": "proBleach",
+      "image_id": 22161
+    },
+    {
+      "match": "proSnipe",
+      "image_id": 21750
+    }
+  ]
+}

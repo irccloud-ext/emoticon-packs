@@ -1,1 +1,67 @@
-{"name":"twitch-sub-nobbel87","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nobGOAL","image_id":59301},{"match":"nobQUEST","image_id":14907},{"match":"nobASH","image_id":15729},{"match":"nobEXC","image_id":15738},{"match":"nobDOGE","image_id":15747},{"match":"nobNIB","image_id":16129},{"match":"nobLOVE","image_id":23812},{"match":"nobDERP","image_id":35610},{"match":"nobSIP","image_id":52133},{"match":"nobGAM","image_id":58440},{"match":"nobPRIDE","image_id":94543},{"match":"nobHEAD","image_id":94544},{"match":"nobRIP","image_id":94546},{"match":"nobSUB","image_id":94549},{"match":"nobPOINT","image_id":94552}]}
+{
+  "name": "twitch-sub-nobbel87",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nobGOAL",
+      "image_id": 59301
+    },
+    {
+      "match": "nobQUEST",
+      "image_id": 14907
+    },
+    {
+      "match": "nobASH",
+      "image_id": 15729
+    },
+    {
+      "match": "nobEXC",
+      "image_id": 15738
+    },
+    {
+      "match": "nobDOGE",
+      "image_id": 15747
+    },
+    {
+      "match": "nobNIB",
+      "image_id": 16129
+    },
+    {
+      "match": "nobLOVE",
+      "image_id": 23812
+    },
+    {
+      "match": "nobDERP",
+      "image_id": 35610
+    },
+    {
+      "match": "nobSIP",
+      "image_id": 52133
+    },
+    {
+      "match": "nobGAM",
+      "image_id": 58440
+    },
+    {
+      "match": "nobPRIDE",
+      "image_id": 94543
+    },
+    {
+      "match": "nobHEAD",
+      "image_id": 94544
+    },
+    {
+      "match": "nobRIP",
+      "image_id": 94546
+    },
+    {
+      "match": "nobSUB",
+      "image_id": 94549
+    },
+    {
+      "match": "nobPOINT",
+      "image_id": 94552
+    }
+  ]
+}

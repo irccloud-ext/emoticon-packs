@@ -1,1 +1,47 @@
-{"name":"twitch-sub-a_l_o_h_a","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"alohaTune","image_id":49985},{"match":"alohaGnome","image_id":44069},{"match":"alohaW","image_id":72142},{"match":"alohaJuicy","image_id":72075},{"match":"alohaDWH","image_id":83862},{"match":"alohaGoon","image_id":75391},{"match":"alohaYeah","image_id":75392},{"match":"alohaChamp","image_id":77804},{"match":"alohaPotato","image_id":78352},{"match":"alohaH","image_id":85032}]}
+{
+  "name": "twitch-sub-a_l_o_h_a",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "alohaTune",
+      "image_id": 49985
+    },
+    {
+      "match": "alohaGnome",
+      "image_id": 44069
+    },
+    {
+      "match": "alohaW",
+      "image_id": 72142
+    },
+    {
+      "match": "alohaJuicy",
+      "image_id": 72075
+    },
+    {
+      "match": "alohaDWH",
+      "image_id": 83862
+    },
+    {
+      "match": "alohaGoon",
+      "image_id": 75391
+    },
+    {
+      "match": "alohaYeah",
+      "image_id": 75392
+    },
+    {
+      "match": "alohaChamp",
+      "image_id": 77804
+    },
+    {
+      "match": "alohaPotato",
+      "image_id": 78352
+    },
+    {
+      "match": "alohaH",
+      "image_id": 85032
+    }
+  ]
+}

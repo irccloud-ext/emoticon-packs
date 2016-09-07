@@ -1,1 +1,19 @@
-{"name":"twitch-sub-reveriedoll","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aoaYa","image_id":53564},{"match":"aoaBao","image_id":55162},{"match":"aoaLie","image_id":55163}]}
+{
+  "name": "twitch-sub-reveriedoll",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aoaYa",
+      "image_id": 53564
+    },
+    {
+      "match": "aoaBao",
+      "image_id": 55162
+    },
+    {
+      "match": "aoaLie",
+      "image_id": 55163
+    }
+  ]
+}

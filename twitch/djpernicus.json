@@ -1,1 +1,39 @@
-{"name":"twitch-sub-djpernicus","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pernDead","image_id":34223},{"match":"pernJaja","image_id":21096},{"match":"pernFrag","image_id":21553},{"match":"pernCarrot","image_id":33902},{"match":"pernNerdflirt","image_id":34046},{"match":"pernCC","image_id":60339},{"match":"pernF","image_id":83926},{"match":"pernG","image_id":101729}]}
+{
+  "name": "twitch-sub-djpernicus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pernDead",
+      "image_id": 34223
+    },
+    {
+      "match": "pernJaja",
+      "image_id": 21096
+    },
+    {
+      "match": "pernFrag",
+      "image_id": 21553
+    },
+    {
+      "match": "pernCarrot",
+      "image_id": 33902
+    },
+    {
+      "match": "pernNerdflirt",
+      "image_id": 34046
+    },
+    {
+      "match": "pernCC",
+      "image_id": 60339
+    },
+    {
+      "match": "pernF",
+      "image_id": 83926
+    },
+    {
+      "match": "pernG",
+      "image_id": 101729
+    }
+  ]
+}

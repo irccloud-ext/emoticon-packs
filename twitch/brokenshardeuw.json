@@ -1,1 +1,23 @@
-{"name":"twitch-sub-brokenshardeuw","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shardSkal","image_id":26639},{"match":"shardKappa","image_id":26641},{"match":"shardPogShard","image_id":26638},{"match":"shardUnlucked","image_id":26640}]}
+{
+  "name": "twitch-sub-brokenshardeuw",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shardSkal",
+      "image_id": 26639
+    },
+    {
+      "match": "shardKappa",
+      "image_id": 26641
+    },
+    {
+      "match": "shardPogShard",
+      "image_id": 26638
+    },
+    {
+      "match": "shardUnlucked",
+      "image_id": 26640
+    }
+  ]
+}

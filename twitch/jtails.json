@@ -1,1 +1,39 @@
-{"name":"twitch-sub-jtails","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tailsKappa","image_id":37627},{"match":"tailsSub","image_id":36543},{"match":"tailsGG","image_id":39407},{"match":"tailsSalt","image_id":42169},{"match":"tailsFantasy","image_id":42163},{"match":"tailsLove","image_id":51786},{"match":"tailsRekt","image_id":52904},{"match":"tailsSwag","image_id":53500}]}
+{
+  "name": "twitch-sub-jtails",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tailsKappa",
+      "image_id": 37627
+    },
+    {
+      "match": "tailsSub",
+      "image_id": 36543
+    },
+    {
+      "match": "tailsGG",
+      "image_id": 39407
+    },
+    {
+      "match": "tailsSalt",
+      "image_id": 42169
+    },
+    {
+      "match": "tailsFantasy",
+      "image_id": 42163
+    },
+    {
+      "match": "tailsLove",
+      "image_id": 51786
+    },
+    {
+      "match": "tailsRekt",
+      "image_id": 52904
+    },
+    {
+      "match": "tailsSwag",
+      "image_id": 53500
+    }
+  ]
+}

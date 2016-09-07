@@ -1,1 +1,39 @@
-{"name":"twitch-sub-wetforjesus","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wetKISS","image_id":105202},{"match":"wetDEER","image_id":105118},{"match":"wetMONG","image_id":106638},{"match":"wetSKRONK","image_id":106645},{"match":"wetUP","image_id":105121},{"match":"wetWET","image_id":105464},{"match":"wetLUCY","image_id":108438},{"match":"wetANNA","image_id":108436}]}
+{
+  "name": "twitch-sub-wetforjesus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wetKISS",
+      "image_id": 105202
+    },
+    {
+      "match": "wetDEER",
+      "image_id": 105118
+    },
+    {
+      "match": "wetMONG",
+      "image_id": 106638
+    },
+    {
+      "match": "wetSKRONK",
+      "image_id": 106645
+    },
+    {
+      "match": "wetUP",
+      "image_id": 105121
+    },
+    {
+      "match": "wetWET",
+      "image_id": 105464
+    },
+    {
+      "match": "wetLUCY",
+      "image_id": 108438
+    },
+    {
+      "match": "wetANNA",
+      "image_id": 108436
+    }
+  ]
+}

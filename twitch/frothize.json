@@ -1,1 +1,31 @@
-{"name":"twitch-sub-frothize","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"frotaDALN","image_id":34351},{"match":"frotaILLU","image_id":34074},{"match":"frotaJT","image_id":34793},{"match":"frotaJBMNT","image_id":34792},{"match":"frotaUNSUB","image_id":36977},{"match":"frotaGZ","image_id":37566}]}
+{
+  "name": "twitch-sub-frothize",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "frotaDALN",
+      "image_id": 34351
+    },
+    {
+      "match": "frotaILLU",
+      "image_id": 34074
+    },
+    {
+      "match": "frotaJT",
+      "image_id": 34793
+    },
+    {
+      "match": "frotaJBMNT",
+      "image_id": 34792
+    },
+    {
+      "match": "frotaUNSUB",
+      "image_id": 36977
+    },
+    {
+      "match": "frotaGZ",
+      "image_id": 37566
+    }
+  ]
+}

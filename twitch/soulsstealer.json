@@ -1,1 +1,11 @@
-{"name":"twitch-sub-soulsstealer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"soulsW","image_id":52347}]}
+{
+  "name": "twitch-sub-soulsstealer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "soulsW",
+      "image_id": 52347
+    }
+  ]
+}

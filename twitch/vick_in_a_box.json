@@ -1,1 +1,39 @@
-{"name":"twitch-sub-vick_in_a_box","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vickSuitUp","image_id":7105},{"match":"vickBBV","image_id":6899},{"match":"vickBlow","image_id":7919},{"match":"vickFlappa","image_id":7941},{"match":"vickDoge","image_id":7155},{"match":"vickAmilk","image_id":7252},{"match":"vickPapa","image_id":8864},{"match":"vickJL","image_id":8867}]}
+{
+  "name": "twitch-sub-vick_in_a_box",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vickSuitUp",
+      "image_id": 7105
+    },
+    {
+      "match": "vickBBV",
+      "image_id": 6899
+    },
+    {
+      "match": "vickBlow",
+      "image_id": 7919
+    },
+    {
+      "match": "vickFlappa",
+      "image_id": 7941
+    },
+    {
+      "match": "vickDoge",
+      "image_id": 7155
+    },
+    {
+      "match": "vickAmilk",
+      "image_id": 7252
+    },
+    {
+      "match": "vickPapa",
+      "image_id": 8864
+    },
+    {
+      "match": "vickJL",
+      "image_id": 8867
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"twitch-sub-gbktvgaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"summitChicken","image_id":21357},{"match":"summitSleep","image_id":75975},{"match":"summitTilt","image_id":76902},{"match":"summitRekt","image_id":76903},{"match":"summitHey","image_id":76904},{"match":"summitRIP","image_id":76039},{"match":"summitCare","image_id":75852}]}
+{
+  "name": "twitch-sub-gbktvgaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "summitChicken",
+      "image_id": 21357
+    },
+    {
+      "match": "summitSleep",
+      "image_id": 75975
+    },
+    {
+      "match": "summitTilt",
+      "image_id": 76902
+    },
+    {
+      "match": "summitRekt",
+      "image_id": 76903
+    },
+    {
+      "match": "summitHey",
+      "image_id": 76904
+    },
+    {
+      "match": "summitRIP",
+      "image_id": 76039
+    },
+    {
+      "match": "summitCare",
+      "image_id": 75852
+    }
+  ]
+}

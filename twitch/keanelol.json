@@ -1,1 +1,39 @@
-{"name":"twitch-sub-keanelol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"keaneBlush","image_id":75008},{"match":"keaneSmile","image_id":40775},{"match":"keaneDog","image_id":32332},{"match":"keaneHeca","image_id":44254},{"match":"keaneUrgod","image_id":46022},{"match":"keaneKnee","image_id":58535},{"match":"keaneGasm","image_id":75006},{"match":"keaneW","image_id":75024}]}
+{
+  "name": "twitch-sub-keanelol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "keaneBlush",
+      "image_id": 75008
+    },
+    {
+      "match": "keaneSmile",
+      "image_id": 40775
+    },
+    {
+      "match": "keaneDog",
+      "image_id": 32332
+    },
+    {
+      "match": "keaneHeca",
+      "image_id": 44254
+    },
+    {
+      "match": "keaneUrgod",
+      "image_id": 46022
+    },
+    {
+      "match": "keaneKnee",
+      "image_id": 58535
+    },
+    {
+      "match": "keaneGasm",
+      "image_id": 75006
+    },
+    {
+      "match": "keaneW",
+      "image_id": 75024
+    }
+  ]
+}

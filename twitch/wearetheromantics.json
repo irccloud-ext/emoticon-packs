@@ -1,1 +1,35 @@
-{"name":"twitch-sub-wearetheromantics","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wesHeart","image_id":5378},{"match":"wesFist","image_id":5163},{"match":"wesCR","image_id":9818},{"match":"wesKrypto","image_id":10722},{"match":"wesSalute","image_id":10723},{"match":"wesFP","image_id":10724},{"match":"wesImDead","image_id":10725}]}
+{
+  "name": "twitch-sub-wearetheromantics",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wesHeart",
+      "image_id": 5378
+    },
+    {
+      "match": "wesFist",
+      "image_id": 5163
+    },
+    {
+      "match": "wesCR",
+      "image_id": 9818
+    },
+    {
+      "match": "wesKrypto",
+      "image_id": 10722
+    },
+    {
+      "match": "wesSalute",
+      "image_id": 10723
+    },
+    {
+      "match": "wesFP",
+      "image_id": 10724
+    },
+    {
+      "match": "wesImDead",
+      "image_id": 10725
+    }
+  ]
+}

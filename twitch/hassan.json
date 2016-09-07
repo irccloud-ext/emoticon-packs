@@ -1,1 +1,75 @@
-{"name":"twitch-sub-hassan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"haaWUT","image_id":110701},{"match":"haaLIT","image_id":105239},{"match":"haaPOG","image_id":110798},{"match":"haaR","image_id":110799},{"match":"haaDAN","image_id":89220},{"match":"haaLOAF","image_id":88757},{"match":"haaJEFF","image_id":88203},{"match":"haaJAKE","image_id":88071},{"match":"haaSUP","image_id":106298},{"match":"haaPANDA","image_id":105864},{"match":"haaJC","image_id":88775},{"match":"haaS","image_id":106063},{"match":"haaSLICE","image_id":88781},{"match":"haaICU","image_id":96996},{"match":"haaBB","image_id":97074},{"match":"haaDEAL","image_id":105240},{"match":"haaSMUG","image_id":107436}]}
+{
+  "name": "twitch-sub-hassan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "haaWUT",
+      "image_id": 110701
+    },
+    {
+      "match": "haaLIT",
+      "image_id": 105239
+    },
+    {
+      "match": "haaPOG",
+      "image_id": 110798
+    },
+    {
+      "match": "haaR",
+      "image_id": 110799
+    },
+    {
+      "match": "haaDAN",
+      "image_id": 89220
+    },
+    {
+      "match": "haaLOAF",
+      "image_id": 88757
+    },
+    {
+      "match": "haaJEFF",
+      "image_id": 88203
+    },
+    {
+      "match": "haaJAKE",
+      "image_id": 88071
+    },
+    {
+      "match": "haaSUP",
+      "image_id": 106298
+    },
+    {
+      "match": "haaPANDA",
+      "image_id": 105864
+    },
+    {
+      "match": "haaJC",
+      "image_id": 88775
+    },
+    {
+      "match": "haaS",
+      "image_id": 106063
+    },
+    {
+      "match": "haaSLICE",
+      "image_id": 88781
+    },
+    {
+      "match": "haaICU",
+      "image_id": 96996
+    },
+    {
+      "match": "haaBB",
+      "image_id": 97074
+    },
+    {
+      "match": "haaDEAL",
+      "image_id": 105240
+    },
+    {
+      "match": "haaSMUG",
+      "image_id": 107436
+    }
+  ]
+}

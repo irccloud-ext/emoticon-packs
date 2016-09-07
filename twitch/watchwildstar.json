@@ -1,1 +1,11 @@
-{"name":"twitch-sub-watchwildstar","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wwsPlayicon","image_id":8954}]}
+{
+  "name": "twitch-sub-watchwildstar",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wwsPlayicon",
+      "image_id": 8954
+    }
+  ]
+}

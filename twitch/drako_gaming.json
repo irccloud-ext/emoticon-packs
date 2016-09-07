@@ -1,1 +1,39 @@
-{"name":"twitch-sub-drako_gaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"drakoPalm","image_id":16777},{"match":"drakoCool","image_id":19802},{"match":"drakoMini","image_id":102911},{"match":"drakoDed","image_id":30156},{"match":"drakoMower","image_id":32760},{"match":"drakoTrip","image_id":54691},{"match":"drakoH","image_id":54996},{"match":"drakoAxe","image_id":110044}]}
+{
+  "name": "twitch-sub-drako_gaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "drakoPalm",
+      "image_id": 16777
+    },
+    {
+      "match": "drakoCool",
+      "image_id": 19802
+    },
+    {
+      "match": "drakoMini",
+      "image_id": 102911
+    },
+    {
+      "match": "drakoDed",
+      "image_id": 30156
+    },
+    {
+      "match": "drakoMower",
+      "image_id": 32760
+    },
+    {
+      "match": "drakoTrip",
+      "image_id": 54691
+    },
+    {
+      "match": "drakoH",
+      "image_id": 54996
+    },
+    {
+      "match": "drakoAxe",
+      "image_id": 110044
+    }
+  ]
+}

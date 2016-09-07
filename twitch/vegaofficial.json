@@ -1,1 +1,15 @@
-{"name":"twitch-sub-vegaofficial","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vegaOnly","image_id":86404},{"match":"vegaShark","image_id":86382}]}
+{
+  "name": "twitch-sub-vegaofficial",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vegaOnly",
+      "image_id": 86404
+    },
+    {
+      "match": "vegaShark",
+      "image_id": 86382
+    }
+  ]
+}

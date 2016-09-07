@@ -1,1 +1,27 @@
-{"name":"twitch-sub-strateratv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"doranFail","image_id":99941},{"match":"doranRage","image_id":102632},{"match":"doranOley","image_id":99942},{"match":"doranMLG","image_id":100134},{"match":"doranAgla","image_id":99478}]}
+{
+  "name": "twitch-sub-strateratv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "doranFail",
+      "image_id": 99941
+    },
+    {
+      "match": "doranRage",
+      "image_id": 102632
+    },
+    {
+      "match": "doranOley",
+      "image_id": 99942
+    },
+    {
+      "match": "doranMLG",
+      "image_id": 100134
+    },
+    {
+      "match": "doranAgla",
+      "image_id": 99478
+    }
+  ]
+}

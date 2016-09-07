@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mithprod","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mithRAGE","image_id":21057},{"match":"mithPID","image_id":21068},{"match":"mithCLUCK","image_id":25343},{"match":"mithARCANE","image_id":29326},{"match":"mithCAT","image_id":31193},{"match":"mithPIZZA","image_id":31194}]}
+{
+  "name": "twitch-sub-mithprod",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mithRAGE",
+      "image_id": 21057
+    },
+    {
+      "match": "mithPID",
+      "image_id": 21068
+    },
+    {
+      "match": "mithCLUCK",
+      "image_id": 25343
+    },
+    {
+      "match": "mithARCANE",
+      "image_id": 29326
+    },
+    {
+      "match": "mithCAT",
+      "image_id": 31193
+    },
+    {
+      "match": "mithPIZZA",
+      "image_id": 31194
+    }
+  ]
+}

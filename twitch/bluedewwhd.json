@@ -1,1 +1,31 @@
-{"name":"twitch-sub-bluedewwhd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dewwCombo","image_id":102572},{"match":"dewwD","image_id":102573},{"match":"dewwVevo","image_id":102574},{"match":"dewwRay","image_id":102575},{"match":"dewwSub","image_id":102576},{"match":"dewwDog","image_id":102577}]}
+{
+  "name": "twitch-sub-bluedewwhd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dewwCombo",
+      "image_id": 102572
+    },
+    {
+      "match": "dewwD",
+      "image_id": 102573
+    },
+    {
+      "match": "dewwVevo",
+      "image_id": 102574
+    },
+    {
+      "match": "dewwRay",
+      "image_id": 102575
+    },
+    {
+      "match": "dewwSub",
+      "image_id": 102576
+    },
+    {
+      "match": "dewwDog",
+      "image_id": 102577
+    }
+  ]
+}

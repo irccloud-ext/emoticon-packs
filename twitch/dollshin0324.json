@@ -1,1 +1,39 @@
-{"name":"twitch-sub-dollshin0324","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dollshinEye","image_id":56842},{"match":"dollshinDollshin8","image_id":73014},{"match":"dollshinDollshin87","image_id":73114},{"match":"dollshinDollshin9","image_id":73015},{"match":"dollshinDollshin10","image_id":73016},{"match":"dollshinDollshin11","image_id":73018},{"match":"dollshinDollshin12","image_id":73019},{"match":"dollshinFist","image_id":87689}]}
+{
+  "name": "twitch-sub-dollshin0324",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dollshinEye",
+      "image_id": 56842
+    },
+    {
+      "match": "dollshinDollshin8",
+      "image_id": 73014
+    },
+    {
+      "match": "dollshinDollshin87",
+      "image_id": 73114
+    },
+    {
+      "match": "dollshinDollshin9",
+      "image_id": 73015
+    },
+    {
+      "match": "dollshinDollshin10",
+      "image_id": 73016
+    },
+    {
+      "match": "dollshinDollshin11",
+      "image_id": 73018
+    },
+    {
+      "match": "dollshinDollshin12",
+      "image_id": 73019
+    },
+    {
+      "match": "dollshinFist",
+      "image_id": 87689
+    }
+  ]
+}

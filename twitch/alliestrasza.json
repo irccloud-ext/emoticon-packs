@@ -1,1 +1,35 @@
-{"name":"twitch-sub-alliestrasza","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"allieMath","image_id":107605},{"match":"allieRope","image_id":107604},{"match":"allieSheffy","image_id":108726},{"match":"allieOops","image_id":106192},{"match":"allieGasm","image_id":106195},{"match":"allieW","image_id":106196},{"match":"allieThink","image_id":108970}]}
+{
+  "name": "twitch-sub-alliestrasza",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "allieMath",
+      "image_id": 107605
+    },
+    {
+      "match": "allieRope",
+      "image_id": 107604
+    },
+    {
+      "match": "allieSheffy",
+      "image_id": 108726
+    },
+    {
+      "match": "allieOops",
+      "image_id": 106192
+    },
+    {
+      "match": "allieGasm",
+      "image_id": 106195
+    },
+    {
+      "match": "allieW",
+      "image_id": 106196
+    },
+    {
+      "match": "allieThink",
+      "image_id": 108970
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-khroen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"khroenSO","image_id":111240},{"match":"khroenW","image_id":105759},{"match":"khroenMuchLove","image_id":105674},{"match":"khroenFeed","image_id":111138},{"match":"khroenFeels","image_id":105968},{"match":"khroenGFE","image_id":105627}]}
+{
+  "name": "twitch-sub-khroen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "khroenSO",
+      "image_id": 111240
+    },
+    {
+      "match": "khroenW",
+      "image_id": 105759
+    },
+    {
+      "match": "khroenMuchLove",
+      "image_id": 105674
+    },
+    {
+      "match": "khroenFeed",
+      "image_id": 111138
+    },
+    {
+      "match": "khroenFeels",
+      "image_id": 105968
+    },
+    {
+      "match": "khroenGFE",
+      "image_id": 105627
+    }
+  ]
+}

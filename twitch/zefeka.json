@@ -1,1 +1,27 @@
-{"name":"twitch-sub-zefeka","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zefT","image_id":102060},{"match":"zefA","image_id":101015},{"match":"zefR","image_id":101014},{"match":"zefG","image_id":109726},{"match":"zefC","image_id":111158}]}
+{
+  "name": "twitch-sub-zefeka",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zefT",
+      "image_id": 102060
+    },
+    {
+      "match": "zefA",
+      "image_id": 101015
+    },
+    {
+      "match": "zefR",
+      "image_id": 101014
+    },
+    {
+      "match": "zefG",
+      "image_id": 109726
+    },
+    {
+      "match": "zefC",
+      "image_id": 111158
+    }
+  ]
+}

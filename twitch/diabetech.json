@@ -1,1 +1,67 @@
-{"name":"twitch-sub-diabetech","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"diaD","image_id":18191},{"match":"diaGasm","image_id":16979},{"match":"diaFail","image_id":16324},{"match":"diaBeetus","image_id":16424},{"match":"diaW","image_id":23757},{"match":"diaF","image_id":42236},{"match":"diaL","image_id":29186},{"match":"diaB","image_id":29252},{"match":"diaO","image_id":29251},{"match":"diaCry","image_id":52741},{"match":"diaDeal","image_id":52740},{"match":"diaC","image_id":42173},{"match":"diaLove","image_id":52834},{"match":"diaHype","image_id":52736},{"match":"diaYay","image_id":52737}]}
+{
+  "name": "twitch-sub-diabetech",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "diaD",
+      "image_id": 18191
+    },
+    {
+      "match": "diaGasm",
+      "image_id": 16979
+    },
+    {
+      "match": "diaFail",
+      "image_id": 16324
+    },
+    {
+      "match": "diaBeetus",
+      "image_id": 16424
+    },
+    {
+      "match": "diaW",
+      "image_id": 23757
+    },
+    {
+      "match": "diaF",
+      "image_id": 42236
+    },
+    {
+      "match": "diaL",
+      "image_id": 29186
+    },
+    {
+      "match": "diaB",
+      "image_id": 29252
+    },
+    {
+      "match": "diaO",
+      "image_id": 29251
+    },
+    {
+      "match": "diaCry",
+      "image_id": 52741
+    },
+    {
+      "match": "diaDeal",
+      "image_id": 52740
+    },
+    {
+      "match": "diaC",
+      "image_id": 42173
+    },
+    {
+      "match": "diaLove",
+      "image_id": 52834
+    },
+    {
+      "match": "diaHype",
+      "image_id": 52736
+    },
+    {
+      "match": "diaYay",
+      "image_id": 52737
+    }
+  ]
+}

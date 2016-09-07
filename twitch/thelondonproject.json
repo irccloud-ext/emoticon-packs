@@ -1,1 +1,39 @@
-{"name":"twitch-sub-thelondonproject","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"astonSHIELD","image_id":94669},{"match":"astonGG","image_id":62240},{"match":"astonRIP","image_id":63140},{"match":"astonSUB","image_id":62527},{"match":"astonHYPE","image_id":65416},{"match":"astonMILO","image_id":88548},{"match":"astonFACE","image_id":109877},{"match":"astonTROLL","image_id":108086}]}
+{
+  "name": "twitch-sub-thelondonproject",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "astonSHIELD",
+      "image_id": 94669
+    },
+    {
+      "match": "astonGG",
+      "image_id": 62240
+    },
+    {
+      "match": "astonRIP",
+      "image_id": 63140
+    },
+    {
+      "match": "astonSUB",
+      "image_id": 62527
+    },
+    {
+      "match": "astonHYPE",
+      "image_id": 65416
+    },
+    {
+      "match": "astonMILO",
+      "image_id": 88548
+    },
+    {
+      "match": "astonFACE",
+      "image_id": 109877
+    },
+    {
+      "match": "astonTROLL",
+      "image_id": 108086
+    }
+  ]
+}

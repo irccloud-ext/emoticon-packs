@@ -1,1 +1,31 @@
-{"name":"twitch-sub-pest_xin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pestPn","image_id":14592},{"match":"pestPnb","image_id":15074},{"match":"pestKap","image_id":15076},{"match":"pestStern","image_id":14380},{"match":"pestDa","image_id":14527},{"match":"pestHm","image_id":14522}]}
+{
+  "name": "twitch-sub-pest_xin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pestPn",
+      "image_id": 14592
+    },
+    {
+      "match": "pestPnb",
+      "image_id": 15074
+    },
+    {
+      "match": "pestKap",
+      "image_id": 15076
+    },
+    {
+      "match": "pestStern",
+      "image_id": 14380
+    },
+    {
+      "match": "pestDa",
+      "image_id": 14527
+    },
+    {
+      "match": "pestHm",
+      "image_id": 14522
+    }
+  ]
+}

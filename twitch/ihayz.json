@@ -1,1 +1,35 @@
-{"name":"twitch-sub-ihayz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hayzWut","image_id":107320},{"match":"hayzW","image_id":107319},{"match":"hayzLUL","image_id":107769},{"match":"hayzBlind","image_id":110241},{"match":"hayzGG","image_id":110242},{"match":"hayzH","image_id":110243},{"match":"hayzRaid","image_id":110244}]}
+{
+  "name": "twitch-sub-ihayz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hayzWut",
+      "image_id": 107320
+    },
+    {
+      "match": "hayzW",
+      "image_id": 107319
+    },
+    {
+      "match": "hayzLUL",
+      "image_id": 107769
+    },
+    {
+      "match": "hayzBlind",
+      "image_id": 110241
+    },
+    {
+      "match": "hayzGG",
+      "image_id": 110242
+    },
+    {
+      "match": "hayzH",
+      "image_id": 110243
+    },
+    {
+      "match": "hayzRaid",
+      "image_id": 110244
+    }
+  ]
+}

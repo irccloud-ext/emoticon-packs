@@ -1,1 +1,31 @@
-{"name":"twitch-sub-qfmarine","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"S","image_id":5211},{"match":"R","image_id":5129},{"match":"FC","image_id":13177},{"match":"Q","image_id":18393},{"match":"BC","image_id":18326},{"match":"FP","image_id":18445}]}
+{
+  "name": "twitch-sub-qfmarine",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "S",
+      "image_id": 5211
+    },
+    {
+      "match": "R",
+      "image_id": 5129
+    },
+    {
+      "match": "FC",
+      "image_id": 13177
+    },
+    {
+      "match": "Q",
+      "image_id": 18393
+    },
+    {
+      "match": "BC",
+      "image_id": 18326
+    },
+    {
+      "match": "FP",
+      "image_id": 18445
+    }
+  ]
+}

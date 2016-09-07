@@ -1,1 +1,39 @@
-{"name":"twitch-sub-lylemcdouchebag","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lyleBlee","image_id":8992},{"match":"lyleHorns","image_id":9247},{"match":"lyleNo","image_id":11792},{"match":"lyleChimp","image_id":11984},{"match":"lyleGhost","image_id":12493},{"match":"lyleSrs","image_id":19714},{"match":"lyleFire","image_id":19685},{"match":"lyleBoom","image_id":21986}]}
+{
+  "name": "twitch-sub-lylemcdouchebag",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lyleBlee",
+      "image_id": 8992
+    },
+    {
+      "match": "lyleHorns",
+      "image_id": 9247
+    },
+    {
+      "match": "lyleNo",
+      "image_id": 11792
+    },
+    {
+      "match": "lyleChimp",
+      "image_id": 11984
+    },
+    {
+      "match": "lyleGhost",
+      "image_id": 12493
+    },
+    {
+      "match": "lyleSrs",
+      "image_id": 19714
+    },
+    {
+      "match": "lyleFire",
+      "image_id": 19685
+    },
+    {
+      "match": "lyleBoom",
+      "image_id": 21986
+    }
+  ]
+}

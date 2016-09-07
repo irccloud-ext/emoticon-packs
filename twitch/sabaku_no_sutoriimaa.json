@@ -1,1 +1,31 @@
-{"name":"twitch-sub-sabaku_no_sutoriimaa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"snmAngry","image_id":100825},{"match":"snmProud","image_id":100824},{"match":"snmZzz","image_id":101404},{"match":"snmSad","image_id":101405},{"match":"snmCry","image_id":100822},{"match":"snmSadic","image_id":100823}]}
+{
+  "name": "twitch-sub-sabaku_no_sutoriimaa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "snmAngry",
+      "image_id": 100825
+    },
+    {
+      "match": "snmProud",
+      "image_id": 100824
+    },
+    {
+      "match": "snmZzz",
+      "image_id": 101404
+    },
+    {
+      "match": "snmSad",
+      "image_id": 101405
+    },
+    {
+      "match": "snmCry",
+      "image_id": 100822
+    },
+    {
+      "match": "snmSadic",
+      "image_id": 100823
+    }
+  ]
+}

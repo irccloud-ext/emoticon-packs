@@ -1,1 +1,23 @@
-{"name":"twitch-sub-willongshow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"willNope","image_id":25298},{"match":"willYeah","image_id":25300},{"match":"willBug","image_id":26861},{"match":"willCharge","image_id":26862}]}
+{
+  "name": "twitch-sub-willongshow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "willNope",
+      "image_id": 25298
+    },
+    {
+      "match": "willYeah",
+      "image_id": 25300
+    },
+    {
+      "match": "willBug",
+      "image_id": 26861
+    },
+    {
+      "match": "willCharge",
+      "image_id": 26862
+    }
+  ]
+}

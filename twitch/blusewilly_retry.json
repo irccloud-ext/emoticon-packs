@@ -1,1 +1,87 @@
-{"name":"twitch-sub-blusewilly_retry","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rdrrRdsm","image_id":10745},{"match":"rdrrWryyy","image_id":10746},{"match":"rdrrK","image_id":18481},{"match":"rdrrCb","image_id":18482},{"match":"rdrrAs","image_id":51600},{"match":"rdrrBk","image_id":51604},{"match":"rdrrDs","image_id":56382},{"match":"rdrrSr","image_id":56475},{"match":"rdrrMew","image_id":51490},{"match":"rdrrJc","image_id":51491},{"match":"rdrrW","image_id":56505},{"match":"rdrrDa","image_id":56976},{"match":"rdrrC","image_id":58291},{"match":"rdrrD","image_id":105002},{"match":"rdrr8","image_id":94882},{"match":"rdrrH","image_id":94883},{"match":"rdrrL","image_id":94301},{"match":"rdrrS","image_id":104883},{"match":"rdrrI","image_id":104807},{"match":"rdrrI2","image_id":105356}]}
+{
+  "name": "twitch-sub-blusewilly_retry",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rdrrRdsm",
+      "image_id": 10745
+    },
+    {
+      "match": "rdrrWryyy",
+      "image_id": 10746
+    },
+    {
+      "match": "rdrrK",
+      "image_id": 18481
+    },
+    {
+      "match": "rdrrCb",
+      "image_id": 18482
+    },
+    {
+      "match": "rdrrAs",
+      "image_id": 51600
+    },
+    {
+      "match": "rdrrBk",
+      "image_id": 51604
+    },
+    {
+      "match": "rdrrDs",
+      "image_id": 56382
+    },
+    {
+      "match": "rdrrSr",
+      "image_id": 56475
+    },
+    {
+      "match": "rdrrMew",
+      "image_id": 51490
+    },
+    {
+      "match": "rdrrJc",
+      "image_id": 51491
+    },
+    {
+      "match": "rdrrW",
+      "image_id": 56505
+    },
+    {
+      "match": "rdrrDa",
+      "image_id": 56976
+    },
+    {
+      "match": "rdrrC",
+      "image_id": 58291
+    },
+    {
+      "match": "rdrrD",
+      "image_id": 105002
+    },
+    {
+      "match": "rdrr8",
+      "image_id": 94882
+    },
+    {
+      "match": "rdrrH",
+      "image_id": 94883
+    },
+    {
+      "match": "rdrrL",
+      "image_id": 94301
+    },
+    {
+      "match": "rdrrS",
+      "image_id": 104883
+    },
+    {
+      "match": "rdrrI",
+      "image_id": 104807
+    },
+    {
+      "match": "rdrrI2",
+      "image_id": 105356
+    }
+  ]
+}

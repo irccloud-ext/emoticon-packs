@@ -1,1 +1,19 @@
-{"name":"twitch-sub-eltommaister","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"genosHYPE","image_id":108063}]}
+{
+  "name": "twitch-sub-eltommaister",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "genosHYPE",
+      "image_id": 108063
+    },
+    {
+      "match": "genosSMILE",
+      "image_id": 111864
+    },
+    {
+      "match": "genosWOW",
+      "image_id": 112437
+    }
+  ]
+}

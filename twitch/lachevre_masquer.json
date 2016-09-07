@@ -1,1 +1,39 @@
-{"name":"twitch-sub-lachevre_masquer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lcmDouille","image_id":90186},{"match":"lcmFou","image_id":90463},{"match":"lcmSUB","image_id":48212},{"match":"lcmDon","image_id":90207},{"match":"lcmBaz","image_id":90202},{"match":"lcmFail","image_id":90196},{"match":"lcmBouffon","image_id":90192},{"match":"lcmGG","image_id":90178}]}
+{
+  "name": "twitch-sub-lachevre_masquer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lcmDouille",
+      "image_id": 90186
+    },
+    {
+      "match": "lcmFou",
+      "image_id": 90463
+    },
+    {
+      "match": "lcmSUB",
+      "image_id": 48212
+    },
+    {
+      "match": "lcmDon",
+      "image_id": 90207
+    },
+    {
+      "match": "lcmBaz",
+      "image_id": 90202
+    },
+    {
+      "match": "lcmFail",
+      "image_id": 90196
+    },
+    {
+      "match": "lcmBouffon",
+      "image_id": 90192
+    },
+    {
+      "match": "lcmGG",
+      "image_id": 90178
+    }
+  ]
+}

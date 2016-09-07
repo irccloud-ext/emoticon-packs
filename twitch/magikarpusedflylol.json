@@ -1,1 +1,23 @@
-{"name":"twitch-sub-magikarpusedflylol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"karpStunner","image_id":53087},{"match":"karpCute","image_id":53318},{"match":"karpSucc","image_id":108941},{"match":"karpWut","image_id":108942}]}
+{
+  "name": "twitch-sub-magikarpusedflylol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "karpStunner",
+      "image_id": 53087
+    },
+    {
+      "match": "karpCute",
+      "image_id": 53318
+    },
+    {
+      "match": "karpSucc",
+      "image_id": 108941
+    },
+    {
+      "match": "karpWut",
+      "image_id": 108942
+    }
+  ]
+}

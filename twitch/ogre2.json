@@ -1,1 +1,39 @@
-{"name":"twitch-sub-ogre2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ogre2GS","image_id":110112},{"match":"ogre2Banjo","image_id":110110},{"match":"ogre2STK","image_id":110113},{"match":"ogre2Coldhands","image_id":110111},{"match":"ogre2Old","image_id":110109},{"match":"ogre2GOAT","image_id":29289},{"match":"ogre2TOMBO","image_id":71558},{"match":"ogre2FB","image_id":72787}]}
+{
+  "name": "twitch-sub-ogre2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ogre2GS",
+      "image_id": 110112
+    },
+    {
+      "match": "ogre2Banjo",
+      "image_id": 110110
+    },
+    {
+      "match": "ogre2STK",
+      "image_id": 110113
+    },
+    {
+      "match": "ogre2Coldhands",
+      "image_id": 110111
+    },
+    {
+      "match": "ogre2Old",
+      "image_id": 110109
+    },
+    {
+      "match": "ogre2GOAT",
+      "image_id": 29289
+    },
+    {
+      "match": "ogre2TOMBO",
+      "image_id": 71558
+    },
+    {
+      "match": "ogre2FB",
+      "image_id": 72787
+    }
+  ]
+}

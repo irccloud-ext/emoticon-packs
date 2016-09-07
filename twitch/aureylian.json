@@ -1,1 +1,31 @@
-{"name":"twitch-sub-aureylian","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aureyGlitterCannon","image_id":4296},{"match":"aureyCake","image_id":9202},{"match":"aureyFace","image_id":25135},{"match":"aureyKappa","image_id":25136},{"match":"aureyHeart","image_id":25137},{"match":"aureyBananas","image_id":37252}]}
+{
+  "name": "twitch-sub-aureylian",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aureyGlitterCannon",
+      "image_id": 4296
+    },
+    {
+      "match": "aureyCake",
+      "image_id": 9202
+    },
+    {
+      "match": "aureyFace",
+      "image_id": 25135
+    },
+    {
+      "match": "aureyKappa",
+      "image_id": 25136
+    },
+    {
+      "match": "aureyHeart",
+      "image_id": 25137
+    },
+    {
+      "match": "aureyBananas",
+      "image_id": 37252
+    }
+  ]
+}

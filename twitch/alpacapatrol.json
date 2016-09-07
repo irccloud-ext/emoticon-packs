@@ -1,1 +1,39 @@
-{"name":"twitch-sub-alpacapatrol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"alpacaDEERGOD","image_id":7024},{"match":"alpacaFAIL","image_id":6148},{"match":"alpacaPATROL","image_id":6150},{"match":"alpacaRAGE","image_id":6149},{"match":"alpacaHYPE","image_id":6362},{"match":"alpacaGLEDA","image_id":6360},{"match":"alpacaGORL","image_id":6361},{"match":"alpacaLOVE","image_id":8765}]}
+{
+  "name": "twitch-sub-alpacapatrol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "alpacaDEERGOD",
+      "image_id": 7024
+    },
+    {
+      "match": "alpacaFAIL",
+      "image_id": 6148
+    },
+    {
+      "match": "alpacaPATROL",
+      "image_id": 6150
+    },
+    {
+      "match": "alpacaRAGE",
+      "image_id": 6149
+    },
+    {
+      "match": "alpacaHYPE",
+      "image_id": 6362
+    },
+    {
+      "match": "alpacaGLEDA",
+      "image_id": 6360
+    },
+    {
+      "match": "alpacaGORL",
+      "image_id": 6361
+    },
+    {
+      "match": "alpacaLOVE",
+      "image_id": 8765
+    }
+  ]
+}

@@ -1,1 +1,75 @@
-{"name":"twitch-sub-quill18","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"quillIcon","image_id":8935},{"match":"quillSprouts","image_id":8784},{"match":"quillBrussels","image_id":8792},{"match":"quillFace","image_id":8786},{"match":"quillHappy","image_id":49353},{"match":"quillViking","image_id":49354},{"match":"quillBuilder","image_id":49355},{"match":"quillWin","image_id":98752},{"match":"quillMiss","image_id":98753},{"match":"quillPewPew","image_id":98748},{"match":"quillStoneMug","image_id":98762},{"match":"quillWCGW","image_id":98737},{"match":"quillMugBlue","image_id":98755},{"match":"quillBlueMug","image_id":98756},{"match":"quillCrit","image_id":98751},{"match":"quillNuke","image_id":98750},{"match":"quillDwarf","image_id":98738}]}
+{
+  "name": "twitch-sub-quill18",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "quillIcon",
+      "image_id": 8935
+    },
+    {
+      "match": "quillSprouts",
+      "image_id": 8784
+    },
+    {
+      "match": "quillBrussels",
+      "image_id": 8792
+    },
+    {
+      "match": "quillFace",
+      "image_id": 8786
+    },
+    {
+      "match": "quillHappy",
+      "image_id": 49353
+    },
+    {
+      "match": "quillViking",
+      "image_id": 49354
+    },
+    {
+      "match": "quillBuilder",
+      "image_id": 49355
+    },
+    {
+      "match": "quillWin",
+      "image_id": 98752
+    },
+    {
+      "match": "quillMiss",
+      "image_id": 98753
+    },
+    {
+      "match": "quillPewPew",
+      "image_id": 98748
+    },
+    {
+      "match": "quillStoneMug",
+      "image_id": 98762
+    },
+    {
+      "match": "quillWCGW",
+      "image_id": 98737
+    },
+    {
+      "match": "quillMugBlue",
+      "image_id": 98755
+    },
+    {
+      "match": "quillBlueMug",
+      "image_id": 98756
+    },
+    {
+      "match": "quillCrit",
+      "image_id": 98751
+    },
+    {
+      "match": "quillNuke",
+      "image_id": 98750
+    },
+    {
+      "match": "quillDwarf",
+      "image_id": 98738
+    }
+  ]
+}

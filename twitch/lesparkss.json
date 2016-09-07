@@ -1,1 +1,27 @@
-{"name":"twitch-sub-lesparkss","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lelUe","image_id":69148},{"match":"lelJoinha","image_id":64639},{"match":"lelYES","image_id":65767},{"match":"lelHola","image_id":69185},{"match":"lelFail","image_id":69184}]}
+{
+  "name": "twitch-sub-lesparkss",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lelUe",
+      "image_id": 69148
+    },
+    {
+      "match": "lelJoinha",
+      "image_id": 64639
+    },
+    {
+      "match": "lelYES",
+      "image_id": 65767
+    },
+    {
+      "match": "lelHola",
+      "image_id": 69185
+    },
+    {
+      "match": "lelFail",
+      "image_id": 69184
+    }
+  ]
+}

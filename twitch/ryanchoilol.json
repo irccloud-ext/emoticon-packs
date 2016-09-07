@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ryanchoilol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ryanToxicSepy","image_id":17916},{"match":"ryanHmm","image_id":18798},{"match":"ryanDeleted","image_id":18801},{"match":"ryanRIP","image_id":18804}]}
+{
+  "name": "twitch-sub-ryanchoilol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ryanToxicSepy",
+      "image_id": 17916
+    },
+    {
+      "match": "ryanHmm",
+      "image_id": 18798
+    },
+    {
+      "match": "ryanDeleted",
+      "image_id": 18801
+    },
+    {
+      "match": "ryanRIP",
+      "image_id": 18804
+    }
+  ]
+}

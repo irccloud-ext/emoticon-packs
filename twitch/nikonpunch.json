@@ -1,1 +1,39 @@
-{"name":"twitch-sub-nikonpunch","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nikonCute","image_id":10076},{"match":"nikonThor","image_id":4200},{"match":"nikonSable","image_id":4206},{"match":"nikonRage","image_id":4555},{"match":"nikonHype","image_id":9188},{"match":"nikonWife","image_id":11051},{"match":"nikonHigh5","image_id":10007},{"match":"nikonGasm","image_id":27494}]}
+{
+  "name": "twitch-sub-nikonpunch",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nikonCute",
+      "image_id": 10076
+    },
+    {
+      "match": "nikonThor",
+      "image_id": 4200
+    },
+    {
+      "match": "nikonSable",
+      "image_id": 4206
+    },
+    {
+      "match": "nikonRage",
+      "image_id": 4555
+    },
+    {
+      "match": "nikonHype",
+      "image_id": 9188
+    },
+    {
+      "match": "nikonWife",
+      "image_id": 11051
+    },
+    {
+      "match": "nikonHigh5",
+      "image_id": 10007
+    },
+    {
+      "match": "nikonGasm",
+      "image_id": 27494
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"name":"twitch-sub-haydunnofficial","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"haydenPinsir","image_id":66886},{"match":"haydenSwagsire","image_id":47290},{"match":"haydenPaul","image_id":47428}]}
+{
+  "name": "twitch-sub-haydunnofficial",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "haydenPinsir",
+      "image_id": 66886
+    },
+    {
+      "match": "haydenSwagsire",
+      "image_id": 47290
+    },
+    {
+      "match": "haydenPaul",
+      "image_id": 47428
+    }
+  ]
+}

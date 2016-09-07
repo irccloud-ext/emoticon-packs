@@ -1,1 +1,23 @@
-{"name":"twitch-sub-sopa_de_murloc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"murlocZerg","image_id":70528},{"match":"murlocApprove","image_id":68200},{"match":"murlocHype","image_id":69339},{"match":"murlocReduro","image_id":70622}]}
+{
+  "name": "twitch-sub-sopa_de_murloc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "murlocZerg",
+      "image_id": 70528
+    },
+    {
+      "match": "murlocApprove",
+      "image_id": 68200
+    },
+    {
+      "match": "murlocHype",
+      "image_id": 69339
+    },
+    {
+      "match": "murlocReduro",
+      "image_id": 70622
+    }
+  ]
+}

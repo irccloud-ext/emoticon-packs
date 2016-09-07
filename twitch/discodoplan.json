@@ -1,1 +1,23 @@
-{"name":"twitch-sub-discodoplan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"doplanVAC","image_id":90653},{"match":"doplanTILT","image_id":90655},{"match":"doplanCHOKE","image_id":90656},{"match":"doplanREKT","image_id":90657}]}
+{
+  "name": "twitch-sub-discodoplan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "doplanVAC",
+      "image_id": 90653
+    },
+    {
+      "match": "doplanTILT",
+      "image_id": 90655
+    },
+    {
+      "match": "doplanCHOKE",
+      "image_id": 90656
+    },
+    {
+      "match": "doplanREKT",
+      "image_id": 90657
+    }
+  ]
+}

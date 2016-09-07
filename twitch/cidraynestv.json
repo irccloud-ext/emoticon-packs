@@ -1,1 +1,23 @@
-{"name":"twitch-sub-cidraynestv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cid1v9","image_id":49637},{"match":"cidKappa","image_id":52894},{"match":"cidSniped","image_id":52893},{"match":"cidDom1camp","image_id":50280}]}
+{
+  "name": "twitch-sub-cidraynestv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cid1v9",
+      "image_id": 49637
+    },
+    {
+      "match": "cidKappa",
+      "image_id": 52894
+    },
+    {
+      "match": "cidSniped",
+      "image_id": 52893
+    },
+    {
+      "match": "cidDom1camp",
+      "image_id": 50280
+    }
+  ]
+}

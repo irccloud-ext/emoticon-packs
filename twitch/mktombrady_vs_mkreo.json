@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mktombrady_vs_mkreo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tomreoBRADYGO","image_id":51999},{"match":"tomreoREKT","image_id":51998},{"match":"tomreoDED","image_id":51997},{"match":"tomreoBLOWUP","image_id":52114},{"match":"tomreoWIN","image_id":52115},{"match":"tomreoRIP","image_id":54060}]}
+{
+  "name": "twitch-sub-mktombrady_vs_mkreo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tomreoBRADYGO",
+      "image_id": 51999
+    },
+    {
+      "match": "tomreoREKT",
+      "image_id": 51998
+    },
+    {
+      "match": "tomreoDED",
+      "image_id": 51997
+    },
+    {
+      "match": "tomreoBLOWUP",
+      "image_id": 52114
+    },
+    {
+      "match": "tomreoWIN",
+      "image_id": 52115
+    },
+    {
+      "match": "tomreoRIP",
+      "image_id": 54060
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-maritimetr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"marCry","image_id":109687},{"match":"marGasm","image_id":109446},{"match":"marLUL","image_id":111148},{"match":"marOP","image_id":111147}]}
+{
+  "name": "twitch-sub-maritimetr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "marCry",
+      "image_id": 109687
+    },
+    {
+      "match": "marGasm",
+      "image_id": 109446
+    },
+    {
+      "match": "marLUL",
+      "image_id": 111148
+    },
+    {
+      "match": "marOP",
+      "image_id": 111147
+    }
+  ]
+}

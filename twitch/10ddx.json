@@ -1,1 +1,15 @@
-{"name":"twitch-sub-10ddx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ddxFace","image_id":38798},{"match":"ddxStorm","image_id":38799}]}
+{
+  "name": "twitch-sub-10ddx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ddxFace",
+      "image_id": 38798
+    },
+    {
+      "match": "ddxStorm",
+      "image_id": 38799
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-arhneu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"arhnDzej","image_id":38408},{"match":"arhnTorll","image_id":38407},{"match":"arhnKoko","image_id":39846},{"match":"arhnGrunio","image_id":40129}]}
+{
+  "name": "twitch-sub-arhneu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "arhnDzej",
+      "image_id": 38408
+    },
+    {
+      "match": "arhnTorll",
+      "image_id": 38407
+    },
+    {
+      "match": "arhnKoko",
+      "image_id": 39846
+    },
+    {
+      "match": "arhnGrunio",
+      "image_id": 40129
+    }
+  ]
+}

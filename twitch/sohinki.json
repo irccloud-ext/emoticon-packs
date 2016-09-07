@@ -1,1 +1,23 @@
-{"name":"twitch-sub-sohinki","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sohinkiCreepiFace","image_id":14795},{"match":"sohinkiThughinki","image_id":14797},{"match":"sohinkiChilltime","image_id":37489},{"match":"sohinkiPootLord","image_id":39961}]}
+{
+  "name": "twitch-sub-sohinki",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sohinkiCreepiFace",
+      "image_id": 14795
+    },
+    {
+      "match": "sohinkiThughinki",
+      "image_id": 14797
+    },
+    {
+      "match": "sohinkiChilltime",
+      "image_id": 37489
+    },
+    {
+      "match": "sohinkiPootLord",
+      "image_id": 39961
+    }
+  ]
+}

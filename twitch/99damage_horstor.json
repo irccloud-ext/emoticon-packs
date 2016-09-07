@@ -1,1 +1,31 @@
-{"name":"twitch-sub-99damage_horstor","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dmgDelay","image_id":93733},{"match":"dmgKnochenregel","image_id":93734},{"match":"dmgBananex","image_id":65320},{"match":"dmgGG","image_id":65321},{"match":"dmgHorstkappa","image_id":65322},{"match":"dmgRatsche","image_id":65323}]}
+{
+  "name": "twitch-sub-99damage_horstor",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dmgDelay",
+      "image_id": 93733
+    },
+    {
+      "match": "dmgKnochenregel",
+      "image_id": 93734
+    },
+    {
+      "match": "dmgBananex",
+      "image_id": 65320
+    },
+    {
+      "match": "dmgGG",
+      "image_id": 65321
+    },
+    {
+      "match": "dmgHorstkappa",
+      "image_id": 65322
+    },
+    {
+      "match": "dmgRatsche",
+      "image_id": 65323
+    }
+  ]
+}

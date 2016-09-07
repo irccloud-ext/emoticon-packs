@@ -1,1 +1,47 @@
-{"name":"twitch-sub-necr1te","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"necArr","image_id":81176},{"match":"necGuy","image_id":81178},{"match":"necLove","image_id":81173},{"match":"necFail","image_id":84676},{"match":"necTato","image_id":81874},{"match":"necHype","image_id":81852},{"match":"necDeal","image_id":107054},{"match":"necCry","image_id":97036},{"match":"necSell","image_id":108602},{"match":"necPalm","image_id":108603}]}
+{
+  "name": "twitch-sub-necr1te",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "necArr",
+      "image_id": 81176
+    },
+    {
+      "match": "necGuy",
+      "image_id": 81178
+    },
+    {
+      "match": "necLove",
+      "image_id": 81173
+    },
+    {
+      "match": "necFail",
+      "image_id": 84676
+    },
+    {
+      "match": "necTato",
+      "image_id": 81874
+    },
+    {
+      "match": "necHype",
+      "image_id": 81852
+    },
+    {
+      "match": "necDeal",
+      "image_id": 107054
+    },
+    {
+      "match": "necCry",
+      "image_id": 97036
+    },
+    {
+      "match": "necSell",
+      "image_id": 108602
+    },
+    {
+      "match": "necPalm",
+      "image_id": 108603
+    }
+  ]
+}

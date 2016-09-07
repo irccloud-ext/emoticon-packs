@@ -1,1 +1,15 @@
-{"name":"twitch-sub-flashblysk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"blyskWell","image_id":53242},{"match":"blyskChug","image_id":53341}]}
+{
+  "name": "twitch-sub-flashblysk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "blyskWell",
+      "image_id": 53242
+    },
+    {
+      "match": "blyskChug",
+      "image_id": 53341
+    }
+  ]
+}

@@ -1,1 +1,67 @@
-{"name":"twitch-sub-mcjuggernuggets","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"juggerRage","image_id":33854},{"match":"juggerPoopjohn","image_id":33863},{"match":"juggerRidgid","image_id":33980},{"match":"juggerPsychodad","image_id":34124},{"match":"juggerJugg","image_id":37221},{"match":"juggerPB","image_id":36592},{"match":"juggerFunk","image_id":49439},{"match":"juggerHype","image_id":49518},{"match":"juggerJeffrey","image_id":61581},{"match":"juggerLarry","image_id":61580},{"match":"juggerCorn","image_id":62493},{"match":"juggerElla","image_id":62494},{"match":"juggerMom","image_id":62586},{"match":"juggerTom","image_id":62584},{"match":"juggerJuggie","image_id":110671}]}
+{
+  "name": "twitch-sub-mcjuggernuggets",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "juggerRage",
+      "image_id": 33854
+    },
+    {
+      "match": "juggerPoopjohn",
+      "image_id": 33863
+    },
+    {
+      "match": "juggerRidgid",
+      "image_id": 33980
+    },
+    {
+      "match": "juggerPsychodad",
+      "image_id": 34124
+    },
+    {
+      "match": "juggerJugg",
+      "image_id": 37221
+    },
+    {
+      "match": "juggerPB",
+      "image_id": 36592
+    },
+    {
+      "match": "juggerFunk",
+      "image_id": 49439
+    },
+    {
+      "match": "juggerHype",
+      "image_id": 49518
+    },
+    {
+      "match": "juggerJeffrey",
+      "image_id": 61581
+    },
+    {
+      "match": "juggerLarry",
+      "image_id": 61580
+    },
+    {
+      "match": "juggerCorn",
+      "image_id": 62493
+    },
+    {
+      "match": "juggerElla",
+      "image_id": 62494
+    },
+    {
+      "match": "juggerMom",
+      "image_id": 62586
+    },
+    {
+      "match": "juggerTom",
+      "image_id": 62584
+    },
+    {
+      "match": "juggerJuggie",
+      "image_id": 110671
+    }
+  ]
+}

@@ -1,1 +1,79 @@
-{"name":"twitch-sub-wcs_america","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wcsGosuTrophy","image_id":8214},{"match":"wcsLocust","image_id":8215},{"match":"wcsNuke","image_id":8216},{"match":"wcsProtoss","image_id":8217},{"match":"wcsStorm","image_id":8218},{"match":"wcsTerran","image_id":8219},{"match":"wcsZerg","image_id":8220},{"match":"wcsBattlecruiser","image_id":22358},{"match":"wcsCarrier","image_id":22371},{"match":"wcsBelieve","image_id":22373},{"match":"wcsGG","image_id":22377},{"match":"wcsGosu","image_id":22380},{"match":"wcsGotem","image_id":22387},{"match":"wcsOracle","image_id":22392},{"match":"wcsRekt","image_id":22397},{"match":"wcsSalty","image_id":22410},{"match":"wcsUltralisk","image_id":22416},{"match":"wcsWidowmine","image_id":22421}]}
+{
+  "name": "twitch-sub-wcs_america",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wcsGosuTrophy",
+      "image_id": 8214
+    },
+    {
+      "match": "wcsLocust",
+      "image_id": 8215
+    },
+    {
+      "match": "wcsNuke",
+      "image_id": 8216
+    },
+    {
+      "match": "wcsProtoss",
+      "image_id": 8217
+    },
+    {
+      "match": "wcsStorm",
+      "image_id": 8218
+    },
+    {
+      "match": "wcsTerran",
+      "image_id": 8219
+    },
+    {
+      "match": "wcsZerg",
+      "image_id": 8220
+    },
+    {
+      "match": "wcsBattlecruiser",
+      "image_id": 22358
+    },
+    {
+      "match": "wcsCarrier",
+      "image_id": 22371
+    },
+    {
+      "match": "wcsBelieve",
+      "image_id": 22373
+    },
+    {
+      "match": "wcsGG",
+      "image_id": 22377
+    },
+    {
+      "match": "wcsGosu",
+      "image_id": 22380
+    },
+    {
+      "match": "wcsGotem",
+      "image_id": 22387
+    },
+    {
+      "match": "wcsOracle",
+      "image_id": 22392
+    },
+    {
+      "match": "wcsRekt",
+      "image_id": 22397
+    },
+    {
+      "match": "wcsSalty",
+      "image_id": 22410
+    },
+    {
+      "match": "wcsUltralisk",
+      "image_id": 22416
+    },
+    {
+      "match": "wcsWidowmine",
+      "image_id": 22421
+    }
+  ]
+}

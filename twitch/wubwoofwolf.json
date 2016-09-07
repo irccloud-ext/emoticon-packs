@@ -1,1 +1,31 @@
-{"name":"twitch-sub-wubwoofwolf","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wlfWut","image_id":26935},{"match":"wlfSS","image_id":78190},{"match":"wlfPepe","image_id":91425},{"match":"wlfH","image_id":92604},{"match":"wlfS","image_id":95620},{"match":"wlfSeal","image_id":100750}]}
+{
+  "name": "twitch-sub-wubwoofwolf",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wlfWut",
+      "image_id": 26935
+    },
+    {
+      "match": "wlfSS",
+      "image_id": 78190
+    },
+    {
+      "match": "wlfPepe",
+      "image_id": 91425
+    },
+    {
+      "match": "wlfH",
+      "image_id": 92604
+    },
+    {
+      "match": "wlfS",
+      "image_id": 95620
+    },
+    {
+      "match": "wlfSeal",
+      "image_id": 100750
+    }
+  ]
+}

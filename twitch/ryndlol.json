@@ -1,1 +1,15 @@
-{"name":"twitch-sub-ryndlol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ryndBrasil","image_id":14614},{"match":"ryndGogreen","image_id":14264}]}
+{
+  "name": "twitch-sub-ryndlol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ryndBrasil",
+      "image_id": 14614
+    },
+    {
+      "match": "ryndGogreen",
+      "image_id": 14264
+    }
+  ]
+}

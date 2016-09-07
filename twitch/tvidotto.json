@@ -1,1 +1,27 @@
-{"name":"twitch-sub-tvidotto","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dottoShag","image_id":15346},{"match":"dottoPanda","image_id":15342},{"match":"dottoRedPanda","image_id":15343},{"match":"dottoFatPanda","image_id":15341},{"match":"dottoRelic","image_id":15345}]}
+{
+  "name": "twitch-sub-tvidotto",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dottoShag",
+      "image_id": 15346
+    },
+    {
+      "match": "dottoPanda",
+      "image_id": 15342
+    },
+    {
+      "match": "dottoRedPanda",
+      "image_id": 15343
+    },
+    {
+      "match": "dottoFatPanda",
+      "image_id": 15341
+    },
+    {
+      "match": "dottoRelic",
+      "image_id": 15345
+    }
+  ]
+}

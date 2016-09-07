@@ -1,1 +1,63 @@
-{"name":"twitch-sub-2mgovercsquared","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"2mgLeo","image_id":5436},{"match":"2mgVern","image_id":5452},{"match":"2mgThirsty","image_id":10730},{"match":"2mgParty","image_id":27417},{"match":"2mgHype","image_id":27416},{"match":"2mgLove","image_id":28189},{"match":"2mgMVP","image_id":28190},{"match":"2mgPee","image_id":28191},{"match":"2mgRekt","image_id":28192},{"match":"2mgZesty","image_id":28193},{"match":"2mgRage","image_id":34901},{"match":"2mgKnife","image_id":34899},{"match":"2mgKKona","image_id":34898},{"match":"2mgSad","image_id":40262}]}
+{
+  "name": "twitch-sub-2mgovercsquared",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "2mgLeo",
+      "image_id": 5436
+    },
+    {
+      "match": "2mgVern",
+      "image_id": 5452
+    },
+    {
+      "match": "2mgThirsty",
+      "image_id": 10730
+    },
+    {
+      "match": "2mgParty",
+      "image_id": 27417
+    },
+    {
+      "match": "2mgHype",
+      "image_id": 27416
+    },
+    {
+      "match": "2mgLove",
+      "image_id": 28189
+    },
+    {
+      "match": "2mgMVP",
+      "image_id": 28190
+    },
+    {
+      "match": "2mgPee",
+      "image_id": 28191
+    },
+    {
+      "match": "2mgRekt",
+      "image_id": 28192
+    },
+    {
+      "match": "2mgZesty",
+      "image_id": 28193
+    },
+    {
+      "match": "2mgRage",
+      "image_id": 34901
+    },
+    {
+      "match": "2mgKnife",
+      "image_id": 34899
+    },
+    {
+      "match": "2mgKKona",
+      "image_id": 34898
+    },
+    {
+      "match": "2mgSad",
+      "image_id": 40262
+    }
+  ]
+}

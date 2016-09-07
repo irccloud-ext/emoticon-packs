@@ -1,1 +1,23 @@
-{"name":"twitch-sub-kayterade","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kayterPanda","image_id":11390},{"match":"kayterFood","image_id":19594},{"match":"kayterRage","image_id":19691},{"match":"kayterSoon","image_id":35062}]}
+{
+  "name": "twitch-sub-kayterade",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kayterPanda",
+      "image_id": 11390
+    },
+    {
+      "match": "kayterFood",
+      "image_id": 19594
+    },
+    {
+      "match": "kayterRage",
+      "image_id": 19691
+    },
+    {
+      "match": "kayterSoon",
+      "image_id": 35062
+    }
+  ]
+}

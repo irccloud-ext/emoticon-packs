@@ -1,1 +1,23 @@
-{"name":"twitch-sub-dlive22891","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dliveRekt","image_id":89792},{"match":"dliveHappy","image_id":89794},{"match":"dliveSleepy","image_id":89796},{"match":"dliveSilly","image_id":89798}]}
+{
+  "name": "twitch-sub-dlive22891",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dliveRekt",
+      "image_id": 89792
+    },
+    {
+      "match": "dliveHappy",
+      "image_id": 89794
+    },
+    {
+      "match": "dliveSleepy",
+      "image_id": 89796
+    },
+    {
+      "match": "dliveSilly",
+      "image_id": 89798
+    }
+  ]
+}

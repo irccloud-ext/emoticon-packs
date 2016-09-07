@@ -1,1 +1,39 @@
-{"name":"twitch-sub-thelandor","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"landorWat","image_id":96596},{"match":"landorSykt","image_id":94808},{"match":"landorFJ","image_id":104959},{"match":"landorSub","image_id":96300},{"match":"landorBabe","image_id":95163},{"match":"landorW","image_id":94583},{"match":"landorSellout","image_id":105103},{"match":"landorDans","image_id":100086}]}
+{
+  "name": "twitch-sub-thelandor",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "landorWat",
+      "image_id": 96596
+    },
+    {
+      "match": "landorSykt",
+      "image_id": 94808
+    },
+    {
+      "match": "landorFJ",
+      "image_id": 104959
+    },
+    {
+      "match": "landorSub",
+      "image_id": 96300
+    },
+    {
+      "match": "landorBabe",
+      "image_id": 95163
+    },
+    {
+      "match": "landorW",
+      "image_id": 94583
+    },
+    {
+      "match": "landorSellout",
+      "image_id": 105103
+    },
+    {
+      "match": "landorDans",
+      "image_id": 100086
+    }
+  ]
+}

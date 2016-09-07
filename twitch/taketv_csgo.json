@@ -1,1 +1,43 @@
-{"name":"twitch-sub-taketv_csgo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ttvcsgoGG","image_id":41114},{"match":"ttvcsgoUltra","image_id":41113},{"match":"ttvcsgoChef","image_id":43810},{"match":"ttvcsgoFabe","image_id":50536},{"match":"ttvcsgoJapaner","image_id":59024},{"match":"ttvcsgoVAC","image_id":58717},{"match":"ttvcsgoRIP","image_id":58715},{"match":"ttvcsgoUnfall","image_id":58714},{"match":"ttvcsgoVenom","image_id":58713}]}
+{
+  "name": "twitch-sub-taketv_csgo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ttvcsgoGG",
+      "image_id": 41114
+    },
+    {
+      "match": "ttvcsgoUltra",
+      "image_id": 41113
+    },
+    {
+      "match": "ttvcsgoChef",
+      "image_id": 43810
+    },
+    {
+      "match": "ttvcsgoFabe",
+      "image_id": 50536
+    },
+    {
+      "match": "ttvcsgoJapaner",
+      "image_id": 59024
+    },
+    {
+      "match": "ttvcsgoVAC",
+      "image_id": 58717
+    },
+    {
+      "match": "ttvcsgoRIP",
+      "image_id": 58715
+    },
+    {
+      "match": "ttvcsgoUnfall",
+      "image_id": 58714
+    },
+    {
+      "match": "ttvcsgoVenom",
+      "image_id": 58713
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-polaritygg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"polBruh","image_id":87974},{"match":"polPlup","image_id":87975},{"match":"polPappa","image_id":83049},{"match":"polFlako","image_id":83050}]}
+{
+  "name": "twitch-sub-polaritygg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "polBruh",
+      "image_id": 87974
+    },
+    {
+      "match": "polPlup",
+      "image_id": 87975
+    },
+    {
+      "match": "polPappa",
+      "image_id": 83049
+    },
+    {
+      "match": "polFlako",
+      "image_id": 83050
+    }
+  ]
+}

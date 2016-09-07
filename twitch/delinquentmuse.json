@@ -1,1 +1,39 @@
-{"name":"twitch-sub-delinquentmuse","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"museLove","image_id":105241},{"match":"museSarc","image_id":72969},{"match":"museCool","image_id":65168},{"match":"musePanic","image_id":72970},{"match":"museDerp","image_id":91317},{"match":"museKawaii","image_id":102269},{"match":"museCheers","image_id":105311},{"match":"museRip","image_id":105219}]}
+{
+  "name": "twitch-sub-delinquentmuse",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "museLove",
+      "image_id": 105241
+    },
+    {
+      "match": "museSarc",
+      "image_id": 72969
+    },
+    {
+      "match": "museCool",
+      "image_id": 65168
+    },
+    {
+      "match": "musePanic",
+      "image_id": 72970
+    },
+    {
+      "match": "museDerp",
+      "image_id": 91317
+    },
+    {
+      "match": "museKawaii",
+      "image_id": 102269
+    },
+    {
+      "match": "museCheers",
+      "image_id": 105311
+    },
+    {
+      "match": "museRip",
+      "image_id": 105219
+    }
+  ]
+}

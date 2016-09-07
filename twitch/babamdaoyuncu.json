@@ -1,1 +1,31 @@
-{"name":"twitch-sub-babamdaoyuncu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bdoHype","image_id":72439},{"match":"bdoRip","image_id":72433},{"match":"bdoPil","image_id":69085},{"match":"bdoMlg","image_id":69087},{"match":"bdoPilabi","image_id":69886},{"match":"bdoKawaii","image_id":69987}]}
+{
+  "name": "twitch-sub-babamdaoyuncu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bdoHype",
+      "image_id": 72439
+    },
+    {
+      "match": "bdoRip",
+      "image_id": 72433
+    },
+    {
+      "match": "bdoPil",
+      "image_id": 69085
+    },
+    {
+      "match": "bdoMlg",
+      "image_id": 69087
+    },
+    {
+      "match": "bdoPilabi",
+      "image_id": 69886
+    },
+    {
+      "match": "bdoKawaii",
+      "image_id": 69987
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-king_foom","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"foomMuffin","image_id":9439},{"match":"foomVinny","image_id":9440},{"match":"foomHornsR","image_id":9441},{"match":"foomHornsL","image_id":9442},{"match":"foomNobi","image_id":9443},{"match":"foomOptic","image_id":9445},{"match":"foomSocial","image_id":9444},{"match":"foomFoom","image_id":9615}]}
+{
+  "name": "twitch-sub-king_foom",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "foomMuffin",
+      "image_id": 9439
+    },
+    {
+      "match": "foomVinny",
+      "image_id": 9440
+    },
+    {
+      "match": "foomHornsR",
+      "image_id": 9441
+    },
+    {
+      "match": "foomHornsL",
+      "image_id": 9442
+    },
+    {
+      "match": "foomNobi",
+      "image_id": 9443
+    },
+    {
+      "match": "foomOptic",
+      "image_id": 9445
+    },
+    {
+      "match": "foomSocial",
+      "image_id": 9444
+    },
+    {
+      "match": "foomFoom",
+      "image_id": 9615
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"twitch-sub-sniikzy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sniikGg","image_id":83498},{"match":"sniikNOOB","image_id":50933},{"match":"sniikOmg","image_id":83499},{"match":"sniikREKT","image_id":80580},{"match":"sniikLel","image_id":82673},{"match":"sniikFAIL","image_id":82666},{"match":"sniikSUB","image_id":82660}]}
+{
+  "name": "twitch-sub-sniikzy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sniikGg",
+      "image_id": 83498
+    },
+    {
+      "match": "sniikNOOB",
+      "image_id": 50933
+    },
+    {
+      "match": "sniikOmg",
+      "image_id": 83499
+    },
+    {
+      "match": "sniikREKT",
+      "image_id": 80580
+    },
+    {
+      "match": "sniikLel",
+      "image_id": 82673
+    },
+    {
+      "match": "sniikFAIL",
+      "image_id": 82666
+    },
+    {
+      "match": "sniikSUB",
+      "image_id": 82660
+    }
+  ]
+}

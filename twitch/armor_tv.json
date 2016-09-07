@@ -1,1 +1,31 @@
-{"name":"twitch-sub-armor_tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"armortvLol","image_id":91469},{"match":"armortvPL","image_id":94607},{"match":"armortvHello","image_id":91004},{"match":"armortvGus","image_id":91018},{"match":"armortvCrab","image_id":94606},{"match":"armortvFr","image_id":104275},{"match":"armortvNuasho","image_id":103002}]}
+{
+  "name": "twitch-sub-armor_tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "armortvLol",
+      "image_id": 91469
+    },
+    {
+      "match": "armortvHello",
+      "image_id": 91004
+    },
+    {
+      "match": "armortvGus",
+      "image_id": 91018
+    },
+    {
+      "match": "armortvTankman",
+      "image_id": 112280
+    },
+    {
+      "match": "armortvTomate",
+      "image_id": 112282
+    },
+    {
+      "match": "armortvHornet",
+      "image_id": 112285
+    }
+  ]
+}

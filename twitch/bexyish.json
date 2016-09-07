@@ -1,1 +1,39 @@
-{"name":"twitch-sub-bexyish","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bexyFLAIL","image_id":19782},{"match":"bexySAD","image_id":19827},{"match":"bexyCREEP","image_id":19816},{"match":"bexyHNNG","image_id":19823},{"match":"bexyIRDY","image_id":28337},{"match":"bexyBOMB","image_id":28334},{"match":"bexyRAGE","image_id":28332},{"match":"bexyHAI","image_id":82021}]}
+{
+  "name": "twitch-sub-bexyish",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bexyFLAIL",
+      "image_id": 19782
+    },
+    {
+      "match": "bexySAD",
+      "image_id": 19827
+    },
+    {
+      "match": "bexyCREEP",
+      "image_id": 19816
+    },
+    {
+      "match": "bexyHNNG",
+      "image_id": 19823
+    },
+    {
+      "match": "bexyIRDY",
+      "image_id": 28337
+    },
+    {
+      "match": "bexyBOMB",
+      "image_id": 28334
+    },
+    {
+      "match": "bexyRAGE",
+      "image_id": 28332
+    },
+    {
+      "match": "bexyHAI",
+      "image_id": 82021
+    }
+  ]
+}

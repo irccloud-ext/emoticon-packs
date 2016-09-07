@@ -1,1 +1,39 @@
-{"name":"twitch-sub-eddieruckus","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"btrGlove","image_id":11196},{"match":"btrCute","image_id":48334},{"match":"btrSalute","image_id":59525},{"match":"btrSwag","image_id":59526},{"match":"btrSuit","image_id":59528},{"match":"btrLove","image_id":59524},{"match":"btrLewd","image_id":60488},{"match":"btrAmeno","image_id":80720}]}
+{
+  "name": "twitch-sub-eddieruckus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "btrGlove",
+      "image_id": 11196
+    },
+    {
+      "match": "btrLove",
+      "image_id": 59524
+    },
+    {
+      "match": "btrAmeno",
+      "image_id": 80720
+    },
+    {
+      "match": "btrCreep",
+      "image_id": 112365
+    },
+    {
+      "match": "btrCry",
+      "image_id": 112366
+    },
+    {
+      "match": "btrCute",
+      "image_id": 112367
+    },
+    {
+      "match": "btrMad",
+      "image_id": 112368
+    },
+    {
+      "match": "btrShock",
+      "image_id": 112369
+    }
+  ]
+}

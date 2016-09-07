@@ -1,1 +1,23 @@
-{"name":"twitch-sub-crumbzz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pcdCrumbled","image_id":9752},{"match":"pcdSmitty","image_id":15077},{"match":"pcdDumb","image_id":106062},{"match":"pcdSmart","image_id":106061}]}
+{
+  "name": "twitch-sub-crumbzz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pcdCrumbled",
+      "image_id": 9752
+    },
+    {
+      "match": "pcdSmitty",
+      "image_id": 15077
+    },
+    {
+      "match": "pcdDumb",
+      "image_id": 106062
+    },
+    {
+      "match": "pcdSmart",
+      "image_id": 106061
+    }
+  ]
+}

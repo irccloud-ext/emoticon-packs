@@ -1,1 +1,63 @@
-{"name":"twitch-sub-ms5000watts","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wattsLOVE","image_id":51651},{"match":"wattsHEART","image_id":64322},{"match":"wattsFAIL","image_id":64319},{"match":"wattsCRY","image_id":64325},{"match":"wattsRIP","image_id":64324},{"match":"wattsHI","image_id":64323},{"match":"wattsGRUMPY","image_id":64321},{"match":"wattsBLUSH","image_id":64317},{"match":"wattsPOG","image_id":107617},{"match":"wattsLOL","image_id":107616},{"match":"wattsHYPE","image_id":107615},{"match":"wattsGRIN","image_id":107614},{"match":"wattsFEELS","image_id":107613},{"match":"wattsPLS","image_id":107612}]}
+{
+  "name": "twitch-sub-ms5000watts",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wattsLOVE",
+      "image_id": 51651
+    },
+    {
+      "match": "wattsHEART",
+      "image_id": 64322
+    },
+    {
+      "match": "wattsFAIL",
+      "image_id": 64319
+    },
+    {
+      "match": "wattsCRY",
+      "image_id": 64325
+    },
+    {
+      "match": "wattsRIP",
+      "image_id": 64324
+    },
+    {
+      "match": "wattsHI",
+      "image_id": 64323
+    },
+    {
+      "match": "wattsGRUMPY",
+      "image_id": 64321
+    },
+    {
+      "match": "wattsBLUSH",
+      "image_id": 64317
+    },
+    {
+      "match": "wattsPOG",
+      "image_id": 107617
+    },
+    {
+      "match": "wattsLOL",
+      "image_id": 107616
+    },
+    {
+      "match": "wattsHYPE",
+      "image_id": 107615
+    },
+    {
+      "match": "wattsGRIN",
+      "image_id": 107614
+    },
+    {
+      "match": "wattsFEELS",
+      "image_id": 107613
+    },
+    {
+      "match": "wattsPLS",
+      "image_id": 107612
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-themotivationalgamer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tmotigCookie","image_id":89316},{"match":"tmotigFirstday","image_id":89507}]}
+{
+  "name": "twitch-sub-themotivationalgamer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tmotigCookie",
+      "image_id": 89316
+    },
+    {
+      "match": "tmotigFirstday",
+      "image_id": 89507
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-geekandgamergirl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gggirlBacon","image_id":69586},{"match":"gggirlPcake","image_id":71121},{"match":"gggirlRegrets","image_id":71122},{"match":"gggirlFlex","image_id":69860},{"match":"gggirlHi","image_id":69859},{"match":"gggirlLove","image_id":69863},{"match":"gggirlPotato","image_id":69862},{"match":"gggirlHype","image_id":71396},{"match":"gggirlPika","image_id":85602},{"match":"gggirlSnort","image_id":86040}]}
+{
+  "name": "twitch-sub-geekandgamergirl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gggirlBacon",
+      "image_id": 69586
+    },
+    {
+      "match": "gggirlPcake",
+      "image_id": 71121
+    },
+    {
+      "match": "gggirlRegrets",
+      "image_id": 71122
+    },
+    {
+      "match": "gggirlFlex",
+      "image_id": 69860
+    },
+    {
+      "match": "gggirlHi",
+      "image_id": 69859
+    },
+    {
+      "match": "gggirlLove",
+      "image_id": 69863
+    },
+    {
+      "match": "gggirlPotato",
+      "image_id": 69862
+    },
+    {
+      "match": "gggirlHype",
+      "image_id": 71396
+    },
+    {
+      "match": "gggirlPika",
+      "image_id": 85602
+    },
+    {
+      "match": "gggirlSnort",
+      "image_id": 86040
+    }
+  ]
+}

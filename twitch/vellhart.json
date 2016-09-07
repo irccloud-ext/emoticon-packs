@@ -1,1 +1,39 @@
-{"name":"twitch-sub-vellhart","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vellHeart","image_id":99797},{"match":"vellAir","image_id":104380},{"match":"vellHound","image_id":108730},{"match":"vellDone","image_id":101365},{"match":"vellOciraptor","image_id":104019},{"match":"vellVeeta","image_id":104966},{"match":"vellCrow","image_id":102522},{"match":"vellGeta","image_id":109779}]}
+{
+  "name": "twitch-sub-vellhart",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vellHeart",
+      "image_id": 99797
+    },
+    {
+      "match": "vellAir",
+      "image_id": 104380
+    },
+    {
+      "match": "vellHound",
+      "image_id": 108730
+    },
+    {
+      "match": "vellDone",
+      "image_id": 101365
+    },
+    {
+      "match": "vellY",
+      "image_id": 111950
+    },
+    {
+      "match": "vellOciraptor",
+      "image_id": 104019
+    },
+    {
+      "match": "vellVeeta",
+      "image_id": 104966
+    },
+    {
+      "match": "vellGeta",
+      "image_id": 109779
+    }
+  ]
+}

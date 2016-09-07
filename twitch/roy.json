@@ -1,1 +1,55 @@
-{"name":"twitch-sub-roy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"royIn","image_id":33111},{"match":"royGasm","image_id":56406},{"match":"royMonster","image_id":33116},{"match":"royHype","image_id":32542},{"match":"royGo","image_id":32502},{"match":"royBR","image_id":32501},{"match":"royBoy","image_id":32534},{"match":"royEG","image_id":32599},{"match":"royHeart","image_id":74615},{"match":"royHulk","image_id":75838},{"match":"royUSA","image_id":76176},{"match":"royTwins","image_id":77871}]}
+{
+  "name": "twitch-sub-roy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "royIn",
+      "image_id": 33111
+    },
+    {
+      "match": "royGasm",
+      "image_id": 56406
+    },
+    {
+      "match": "royMonster",
+      "image_id": 33116
+    },
+    {
+      "match": "royHype",
+      "image_id": 32542
+    },
+    {
+      "match": "royGo",
+      "image_id": 32502
+    },
+    {
+      "match": "royBR",
+      "image_id": 32501
+    },
+    {
+      "match": "royBoy",
+      "image_id": 32534
+    },
+    {
+      "match": "royEG",
+      "image_id": 32599
+    },
+    {
+      "match": "royHeart",
+      "image_id": 74615
+    },
+    {
+      "match": "royHulk",
+      "image_id": 75838
+    },
+    {
+      "match": "royUSA",
+      "image_id": 76176
+    },
+    {
+      "match": "royTwins",
+      "image_id": 77871
+    }
+  ]
+}

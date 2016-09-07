@@ -1,1 +1,67 @@
-{"name":"twitch-sub-cartmens","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cartHype","image_id":96009},{"match":"cartM","image_id":96010},{"match":"cartLove","image_id":96008},{"match":"cartRekt","image_id":70506},{"match":"cartWtf","image_id":70505},{"match":"cartW","image_id":70504},{"match":"cartFail","image_id":67755},{"match":"cartFat","image_id":67105},{"match":"cartVac","image_id":67108},{"match":"cartGood","image_id":96007},{"match":"cartD","image_id":90089},{"match":"cartGasm","image_id":90090},{"match":"cartRage","image_id":90095},{"match":"cartRip","image_id":90096},{"match":"cartThump","image_id":90097}]}
+{
+  "name": "twitch-sub-cartmens",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cartHype",
+      "image_id": 96009
+    },
+    {
+      "match": "cartM",
+      "image_id": 96010
+    },
+    {
+      "match": "cartLove",
+      "image_id": 96008
+    },
+    {
+      "match": "cartRekt",
+      "image_id": 70506
+    },
+    {
+      "match": "cartWtf",
+      "image_id": 70505
+    },
+    {
+      "match": "cartW",
+      "image_id": 70504
+    },
+    {
+      "match": "cartFail",
+      "image_id": 67755
+    },
+    {
+      "match": "cartFat",
+      "image_id": 67105
+    },
+    {
+      "match": "cartVac",
+      "image_id": 67108
+    },
+    {
+      "match": "cartGood",
+      "image_id": 96007
+    },
+    {
+      "match": "cartD",
+      "image_id": 90089
+    },
+    {
+      "match": "cartGasm",
+      "image_id": 90090
+    },
+    {
+      "match": "cartRage",
+      "image_id": 90095
+    },
+    {
+      "match": "cartRip",
+      "image_id": 90096
+    },
+    {
+      "match": "cartThump",
+      "image_id": 90097
+    }
+  ]
+}

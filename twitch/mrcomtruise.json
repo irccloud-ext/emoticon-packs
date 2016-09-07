@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mrcomtruise","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"marsGasm","image_id":74610},{"match":"marsLOVE","image_id":104666},{"match":"marsDealwithit","image_id":83596},{"match":"marsREKT","image_id":74343},{"match":"marsDarkarmy","image_id":84969},{"match":"marsBOOTY","image_id":105200}]}
+{
+  "name": "twitch-sub-mrcomtruise",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "marsGasm",
+      "image_id": 74610
+    },
+    {
+      "match": "marsLOVE",
+      "image_id": 104666
+    },
+    {
+      "match": "marsDealwithit",
+      "image_id": 83596
+    },
+    {
+      "match": "marsREKT",
+      "image_id": 74343
+    },
+    {
+      "match": "marsDarkarmy",
+      "image_id": 84969
+    },
+    {
+      "match": "marsBOOTY",
+      "image_id": 105200
+    }
+  ]
+}

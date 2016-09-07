@@ -1,1 +1,31 @@
-{"name":"twitch-sub-hardlydifficult","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hardlyThinking","image_id":96577},{"match":"hardlyLove","image_id":97451},{"match":"hardlyRip","image_id":97117},{"match":"hardlyFeature","image_id":98088},{"match":"hardlyJesus","image_id":101353},{"match":"hardlyFail","image_id":100049}]}
+{
+  "name": "twitch-sub-hardlydifficult",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hardlyThinking",
+      "image_id": 96577
+    },
+    {
+      "match": "hardlyLove",
+      "image_id": 97451
+    },
+    {
+      "match": "hardlyRip",
+      "image_id": 97117
+    },
+    {
+      "match": "hardlyFeature",
+      "image_id": 98088
+    },
+    {
+      "match": "hardlyJesus",
+      "image_id": 101353
+    },
+    {
+      "match": "hardlyFail",
+      "image_id": 100049
+    }
+  ]
+}

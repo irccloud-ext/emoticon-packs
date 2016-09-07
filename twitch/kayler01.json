@@ -1,1 +1,39 @@
-{"name":"twitch-sub-kayler01","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kaylerSalute","image_id":84412},{"match":"kaylerZ","image_id":84413},{"match":"kaylerWTF","image_id":84414},{"match":"kaylerDeal","image_id":84407},{"match":"kaylerFail","image_id":84408},{"match":"kaylerGips","image_id":84409},{"match":"kaylerHype","image_id":84410},{"match":"kaylerRage","image_id":84411}]}
+{
+  "name": "twitch-sub-kayler01",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kaylerSalute",
+      "image_id": 84412
+    },
+    {
+      "match": "kaylerZ",
+      "image_id": 84413
+    },
+    {
+      "match": "kaylerWTF",
+      "image_id": 84414
+    },
+    {
+      "match": "kaylerDeal",
+      "image_id": 84407
+    },
+    {
+      "match": "kaylerFail",
+      "image_id": 84408
+    },
+    {
+      "match": "kaylerGips",
+      "image_id": 84409
+    },
+    {
+      "match": "kaylerHype",
+      "image_id": 84410
+    },
+    {
+      "match": "kaylerRage",
+      "image_id": 84411
+    }
+  ]
+}

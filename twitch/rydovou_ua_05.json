@@ -1,1 +1,11 @@
-{"name":"twitch-sub-rydovou_ua_05","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rutvPeka","image_id":105907}]}
+{
+  "name": "twitch-sub-rydovou_ua_05",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rutvPeka",
+      "image_id": 105907
+    }
+  ]
+}

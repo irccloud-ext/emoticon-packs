@@ -1,1 +1,23 @@
-{"name":"twitch-sub-co6a4kentv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"piosHype","image_id":91074},{"match":"piosFacepalm","image_id":109641},{"match":"piosRage","image_id":109642},{"match":"piosArmy","image_id":109733}]}
+{
+  "name": "twitch-sub-co6a4kentv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "piosHype",
+      "image_id": 91074
+    },
+    {
+      "match": "piosFacepalm",
+      "image_id": 109641
+    },
+    {
+      "match": "piosRage",
+      "image_id": 109642
+    },
+    {
+      "match": "piosArmy",
+      "image_id": 109733
+    }
+  ]
+}

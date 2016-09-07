@@ -1,1 +1,39 @@
-{"name":"twitch-sub-blem","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"blemP4","image_id":37925},{"match":"blemJustice","image_id":65193},{"match":"blemThislee","image_id":65194},{"match":"blemThump","image_id":65172},{"match":"blemSwee","image_id":65173},{"match":"blemOrganic","image_id":65174},{"match":"blemSavage","image_id":65175},{"match":"blemHi","image_id":65186}]}
+{
+  "name": "twitch-sub-blem",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "blemP4",
+      "image_id": 37925
+    },
+    {
+      "match": "blemJustice",
+      "image_id": 65193
+    },
+    {
+      "match": "blemThislee",
+      "image_id": 65194
+    },
+    {
+      "match": "blemThump",
+      "image_id": 65172
+    },
+    {
+      "match": "blemSwee",
+      "image_id": 65173
+    },
+    {
+      "match": "blemOrganic",
+      "image_id": 65174
+    },
+    {
+      "match": "blemSavage",
+      "image_id": 65175
+    },
+    {
+      "match": "blemHi",
+      "image_id": 65186
+    }
+  ]
+}

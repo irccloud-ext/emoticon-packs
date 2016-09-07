@@ -1,1 +1,27 @@
-{"name":"twitch-sub-blackdotatv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"invokeRage","image_id":83318},{"match":"invokeSurprise","image_id":83319},{"match":"invokeNotBad","image_id":83317},{"match":"invokeWolfPack","image_id":85147},{"match":"invokeW","image_id":87779}]}
+{
+  "name": "twitch-sub-blackdotatv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "invokeRage",
+      "image_id": 83318
+    },
+    {
+      "match": "invokeSurprise",
+      "image_id": 83319
+    },
+    {
+      "match": "invokeNotBad",
+      "image_id": 83317
+    },
+    {
+      "match": "invokeWolfPack",
+      "image_id": 85147
+    },
+    {
+      "match": "invokeW",
+      "image_id": 87779
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-qazedctgd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"qazeCrowbar","image_id":96521},{"match":"qazeYarakasi","image_id":88671},{"match":"qazeWoo","image_id":90384},{"match":"qazeNyaa","image_id":90385},{"match":"qazeTukai","image_id":96804},{"match":"qazeShab","image_id":95330}]}
+{
+  "name": "twitch-sub-qazedctgd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "qazeCrowbar",
+      "image_id": 96521
+    },
+    {
+      "match": "qazeYarakasi",
+      "image_id": 88671
+    },
+    {
+      "match": "qazeWoo",
+      "image_id": 90384
+    },
+    {
+      "match": "qazeNyaa",
+      "image_id": 90385
+    },
+    {
+      "match": "qazeTukai",
+      "image_id": 96804
+    },
+    {
+      "match": "qazeShab",
+      "image_id": 95330
+    }
+  ]
+}

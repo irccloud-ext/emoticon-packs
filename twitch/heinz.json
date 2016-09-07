@@ -1,1 +1,39 @@
-{"name":"twitch-sub-heinz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"heinzHype","image_id":21855},{"match":"heinzWoo","image_id":21509},{"match":"heinzDype","image_id":22176},{"match":"heinzLove","image_id":63596},{"match":"heinzGasm","image_id":23842},{"match":"heinzCat","image_id":25270},{"match":"heinzGG","image_id":72498}]}
+{
+  "name": "twitch-sub-heinz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "heinzWoo",
+      "image_id": 21509
+    },
+    {
+      "match": "heinzLove",
+      "image_id": 63596
+    },
+    {
+      "match": "heinzGasm",
+      "image_id": 23842
+    },
+    {
+      "match": "heinzCat",
+      "image_id": 25270
+    },
+    {
+      "match": "heinzGG",
+      "image_id": 111890
+    },
+    {
+      "match": "heinzHype",
+      "image_id": 111891
+    },
+    {
+      "match": "heinzBad",
+      "image_id": 111892
+    },
+    {
+      "match": "heinzGood",
+      "image_id": 112152
+    }
+  ]
+}

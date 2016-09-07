@@ -1,1 +1,27 @@
-{"name":"twitch-sub-gamegrumps","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"grumpArin","image_id":87813},{"match":"grumpBarry","image_id":87814},{"match":"grumpDanny","image_id":87815},{"match":"grumpRoss","image_id":87816},{"match":"grumpSuzy","image_id":87817}]}
+{
+  "name": "twitch-sub-gamegrumps",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "grumpArin",
+      "image_id": 87813
+    },
+    {
+      "match": "grumpBarry",
+      "image_id": 87814
+    },
+    {
+      "match": "grumpDanny",
+      "image_id": 87815
+    },
+    {
+      "match": "grumpRoss",
+      "image_id": 87816
+    },
+    {
+      "match": "grumpSuzy",
+      "image_id": 87817
+    }
+  ]
+}

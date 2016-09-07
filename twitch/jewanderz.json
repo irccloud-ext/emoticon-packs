@@ -1,1 +1,31 @@
-{"name":"twitch-sub-jewanderz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jonkRAGE","image_id":76490},{"match":"jonkTaco","image_id":62629},{"match":"jonkPalm","image_id":63473},{"match":"jonkLove","image_id":79249},{"match":"jonkGasm","image_id":101927},{"match":"jonkOMG","image_id":101928}]}
+{
+  "name": "twitch-sub-jewanderz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jonkRAGE",
+      "image_id": 76490
+    },
+    {
+      "match": "jonkTaco",
+      "image_id": 62629
+    },
+    {
+      "match": "jonkPalm",
+      "image_id": 63473
+    },
+    {
+      "match": "jonkLove",
+      "image_id": 79249
+    },
+    {
+      "match": "jonkGasm",
+      "image_id": 101927
+    },
+    {
+      "match": "jonkOMG",
+      "image_id": 101928
+    }
+  ]
+}

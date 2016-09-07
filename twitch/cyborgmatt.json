@@ -1,1 +1,31 @@
-{"name":"twitch-sub-cyborgmatt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cybmattShagbark","image_id":19440},{"match":"cybmattCool","image_id":19436},{"match":"cybmattFuriongasm","image_id":20979},{"match":"cybmattKappurion","image_id":20631},{"match":"cybmattSquee","image_id":21082},{"match":"cybmatt322","image_id":29736}]}
+{
+  "name": "twitch-sub-cyborgmatt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cybmattShagbark",
+      "image_id": 19440
+    },
+    {
+      "match": "cybmattCool",
+      "image_id": 19436
+    },
+    {
+      "match": "cybmattFuriongasm",
+      "image_id": 20979
+    },
+    {
+      "match": "cybmattKappurion",
+      "image_id": 20631
+    },
+    {
+      "match": "cybmattSquee",
+      "image_id": 21082
+    },
+    {
+      "match": "cybmatt322",
+      "image_id": 29736
+    }
+  ]
+}

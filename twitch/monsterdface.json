@@ -1,1 +1,67 @@
-{"name":"twitch-sub-monsterdface","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dfaceWut","image_id":60624},{"match":"dfaceLove","image_id":26313},{"match":"dfaceParty","image_id":33628},{"match":"dfaceDolla","image_id":103964},{"match":"dfaceKappa","image_id":41506},{"match":"dfaceIlluminacho","image_id":41505},{"match":"dfaceKlappa","image_id":54036},{"match":"dfaceFlex","image_id":69156},{"match":"dfaceFeels","image_id":103400},{"match":"dfaceRekt","image_id":84058},{"match":"dfaceBruh","image_id":84067},{"match":"dfaceRiot","image_id":104076},{"match":"dfaceHype","image_id":104077},{"match":"dfaceMdf","image_id":103568},{"match":"dfaceLdf","image_id":110624}]}
+{
+  "name": "twitch-sub-monsterdface",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dfaceWut",
+      "image_id": 60624
+    },
+    {
+      "match": "dfaceLove",
+      "image_id": 26313
+    },
+    {
+      "match": "dfaceParty",
+      "image_id": 33628
+    },
+    {
+      "match": "dfaceDolla",
+      "image_id": 103964
+    },
+    {
+      "match": "dfaceKappa",
+      "image_id": 41506
+    },
+    {
+      "match": "dfaceIlluminacho",
+      "image_id": 41505
+    },
+    {
+      "match": "dfaceKlappa",
+      "image_id": 54036
+    },
+    {
+      "match": "dfaceFlex",
+      "image_id": 69156
+    },
+    {
+      "match": "dfaceFeels",
+      "image_id": 103400
+    },
+    {
+      "match": "dfaceRekt",
+      "image_id": 84058
+    },
+    {
+      "match": "dfaceBruh",
+      "image_id": 84067
+    },
+    {
+      "match": "dfaceRiot",
+      "image_id": 104076
+    },
+    {
+      "match": "dfaceHype",
+      "image_id": 104077
+    },
+    {
+      "match": "dfaceMdf",
+      "image_id": 103568
+    },
+    {
+      "match": "dfaceLdf",
+      "image_id": 110624
+    }
+  ]
+}

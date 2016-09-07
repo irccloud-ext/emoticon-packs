@@ -1,1 +1,31 @@
-{"name":"twitch-sub-lokshadow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lokHype","image_id":80561},{"match":"lokHey","image_id":80560},{"match":"lokDW","image_id":80423},{"match":"lokBoba","image_id":80315},{"match":"lokKy","image_id":80317},{"match":"lokH","image_id":81805}]}
+{
+  "name": "twitch-sub-lokshadow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lokHype",
+      "image_id": 80561
+    },
+    {
+      "match": "lokHey",
+      "image_id": 80560
+    },
+    {
+      "match": "lokDW",
+      "image_id": 80423
+    },
+    {
+      "match": "lokBoba",
+      "image_id": 80315
+    },
+    {
+      "match": "lokKy",
+      "image_id": 80317
+    },
+    {
+      "match": "lokH",
+      "image_id": 81805
+    }
+  ]
+}

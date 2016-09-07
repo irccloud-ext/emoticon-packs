@@ -1,1 +1,47 @@
-{"name":"twitch-sub-rozoken","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rozoSEXY","image_id":98863},{"match":"rozoPANIC","image_id":39164},{"match":"rozoCOOL","image_id":70262},{"match":"rozoHYPE","image_id":56170},{"match":"rozoLOVE","image_id":55813},{"match":"rozoQQ","image_id":56550},{"match":"rozoDERP","image_id":65729},{"match":"rozoLEWD","image_id":70741},{"match":"rozoRAGE","image_id":86134},{"match":"rozoPUKE","image_id":86135}]}
+{
+  "name": "twitch-sub-rozoken",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rozoSEXY",
+      "image_id": 98863
+    },
+    {
+      "match": "rozoPANIC",
+      "image_id": 39164
+    },
+    {
+      "match": "rozoCOOL",
+      "image_id": 70262
+    },
+    {
+      "match": "rozoHYPE",
+      "image_id": 56170
+    },
+    {
+      "match": "rozoLOVE",
+      "image_id": 55813
+    },
+    {
+      "match": "rozoQQ",
+      "image_id": 56550
+    },
+    {
+      "match": "rozoDERP",
+      "image_id": 65729
+    },
+    {
+      "match": "rozoLEWD",
+      "image_id": 70741
+    },
+    {
+      "match": "rozoRAGE",
+      "image_id": 86134
+    },
+    {
+      "match": "rozoPUKE",
+      "image_id": 86135
+    }
+  ]
+}

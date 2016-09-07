@@ -1,1 +1,15 @@
-{"name":"twitch-sub-ruintv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ruinousSOLRAGR","image_id":8955},{"match":"ruinousEAGLE","image_id":8740}]}
+{
+  "name": "twitch-sub-ruintv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ruinousSOLRAGR",
+      "image_id": 8955
+    },
+    {
+      "match": "ruinousEAGLE",
+      "image_id": 8740
+    }
+  ]
+}

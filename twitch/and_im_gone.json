@@ -1,1 +1,39 @@
-{"name":"twitch-sub-and_im_gone","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"goneBike","image_id":89039},{"match":"goneWarrior","image_id":45279},{"match":"gone1","image_id":57503},{"match":"goneSad","image_id":57497},{"match":"goneANGRY","image_id":76616},{"match":"goneLMAO","image_id":73375},{"match":"goneHYPE","image_id":73376},{"match":"gonePOOP","image_id":73373}]}
+{
+  "name": "twitch-sub-and_im_gone",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "goneBike",
+      "image_id": 89039
+    },
+    {
+      "match": "goneWarrior",
+      "image_id": 45279
+    },
+    {
+      "match": "gone1",
+      "image_id": 57503
+    },
+    {
+      "match": "goneSad",
+      "image_id": 57497
+    },
+    {
+      "match": "goneANGRY",
+      "image_id": 76616
+    },
+    {
+      "match": "goneLMAO",
+      "image_id": 73375
+    },
+    {
+      "match": "goneHYPE",
+      "image_id": 73376
+    },
+    {
+      "match": "gonePOOP",
+      "image_id": 73373
+    }
+  ]
+}

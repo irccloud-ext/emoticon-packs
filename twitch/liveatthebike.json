@@ -1,1 +1,31 @@
-{"name":"twitch-sub-liveatthebike","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"latbKISSES","image_id":70747},{"match":"latbNUTZ","image_id":70553},{"match":"latbPokerintheUSA","image_id":77584},{"match":"latbDrunkAbe","image_id":69984},{"match":"latbSub","image_id":94253},{"match":"latbTilt","image_id":94256}]}
+{
+  "name": "twitch-sub-liveatthebike",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "latbKISSES",
+      "image_id": 70747
+    },
+    {
+      "match": "latbNUTZ",
+      "image_id": 70553
+    },
+    {
+      "match": "latbPokerintheUSA",
+      "image_id": 77584
+    },
+    {
+      "match": "latbDrunkAbe",
+      "image_id": 69984
+    },
+    {
+      "match": "latbSub",
+      "image_id": 94253
+    },
+    {
+      "match": "latbTilt",
+      "image_id": 94256
+    }
+  ]
+}

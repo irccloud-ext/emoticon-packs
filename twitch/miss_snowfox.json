@@ -1,1 +1,23 @@
-{"name":"twitch-sub-miss_snowfox","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"snowfoxBrainfart","image_id":56997},{"match":"snowfoxHype","image_id":56507},{"match":"snowfoxRage","image_id":56508},{"match":"snowfoxEz","image_id":78668}]}
+{
+  "name": "twitch-sub-miss_snowfox",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "snowfoxBrainfart",
+      "image_id": 56997
+    },
+    {
+      "match": "snowfoxHype",
+      "image_id": 56507
+    },
+    {
+      "match": "snowfoxRage",
+      "image_id": 56508
+    },
+    {
+      "match": "snowfoxEz",
+      "image_id": 78668
+    }
+  ]
+}

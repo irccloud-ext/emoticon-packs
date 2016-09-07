@@ -1,1 +1,31 @@
-{"name":"twitch-sub-paperbagninja","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pbnPompe","image_id":58147},{"match":"pbnBugs","image_id":57757},{"match":"pbnDog","image_id":71086},{"match":"pbnPet","image_id":71087},{"match":"pbnToxic","image_id":82468},{"match":"pbnJape","image_id":104646}]}
+{
+  "name": "twitch-sub-paperbagninja",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pbnPompe",
+      "image_id": 58147
+    },
+    {
+      "match": "pbnBugs",
+      "image_id": 57757
+    },
+    {
+      "match": "pbnDog",
+      "image_id": 71086
+    },
+    {
+      "match": "pbnPet",
+      "image_id": 71087
+    },
+    {
+      "match": "pbnToxic",
+      "image_id": 82468
+    },
+    {
+      "match": "pbnJape",
+      "image_id": 104646
+    }
+  ]
+}

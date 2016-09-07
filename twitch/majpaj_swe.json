@@ -1,1 +1,39 @@
-{"name":"twitch-sub-majpaj_swe","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"majpajVAC","image_id":51837},{"match":"majpajSUBHYPE","image_id":51836},{"match":"majpajJANNEHYPE","image_id":51835},{"match":"majpajHEART","image_id":51839},{"match":"majpajHELLO","image_id":51840},{"match":"majpajERMAGERD","image_id":51846},{"match":"majpajDONUT","image_id":51842},{"match":"majpajPIZZA","image_id":53093}]}
+{
+  "name": "twitch-sub-majpaj_swe",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "majpajVAC",
+      "image_id": 51837
+    },
+    {
+      "match": "majpajSUBHYPE",
+      "image_id": 51836
+    },
+    {
+      "match": "majpajJANNEHYPE",
+      "image_id": 51835
+    },
+    {
+      "match": "majpajHEART",
+      "image_id": 51839
+    },
+    {
+      "match": "majpajHELLO",
+      "image_id": 51840
+    },
+    {
+      "match": "majpajERMAGERD",
+      "image_id": 51846
+    },
+    {
+      "match": "majpajDONUT",
+      "image_id": 51842
+    },
+    {
+      "match": "majpajPIZZA",
+      "image_id": 53093
+    }
+  ]
+}

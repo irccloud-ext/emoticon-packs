@@ -1,1 +1,39 @@
-{"name":"twitch-sub-oldskool_tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"otvWTF","image_id":16216},{"match":"otvOMG","image_id":54386},{"match":"otvHAPPY","image_id":23253},{"match":"otvACE","image_id":47559},{"match":"otvHYPE","image_id":55312},{"match":"otvPALM","image_id":76144},{"match":"otvMARVIN","image_id":78985},{"match":"otvBOT","image_id":100489}]}
+{
+  "name": "twitch-sub-oldskool_tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "otvWTF",
+      "image_id": 16216
+    },
+    {
+      "match": "otvOMG",
+      "image_id": 54386
+    },
+    {
+      "match": "otvHAPPY",
+      "image_id": 23253
+    },
+    {
+      "match": "otvACE",
+      "image_id": 47559
+    },
+    {
+      "match": "otvHYPE",
+      "image_id": 55312
+    },
+    {
+      "match": "otvPALM",
+      "image_id": 76144
+    },
+    {
+      "match": "otvMARVIN",
+      "image_id": 78985
+    },
+    {
+      "match": "otvBOT",
+      "image_id": 100489
+    }
+  ]
+}

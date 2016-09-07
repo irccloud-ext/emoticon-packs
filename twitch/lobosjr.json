@@ -1,1 +1,103 @@
-{"name":"twitch-sub-lobosjr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lobosWut","image_id":92710},{"match":"lobosLUL","image_id":110531},{"match":"lobosShrug","image_id":100099},{"match":"lobosCreep","image_id":92670},{"match":"lobosHi","image_id":92675},{"match":"lobosChair","image_id":92677},{"match":"lobosCheese","image_id":92678},{"match":"lobosSad","image_id":92679},{"match":"lobosGame","image_id":92680},{"match":"lobosLewd","image_id":92681},{"match":"lobosNo","image_id":92682},{"match":"lobosScream","image_id":92683},{"match":"lobosZ","image_id":92684},{"match":"lobosRage","image_id":92686},{"match":"lobosSleep","image_id":92687},{"match":"lobosSub","image_id":92700},{"match":"lobosRekt","image_id":92713},{"match":"lobosLove","image_id":92709},{"match":"lobosDied","image_id":92712},{"match":"lobosMindBlank","image_id":92685},{"match":"lobosWolf","image_id":92708},{"match":"lobosFail","image_id":92671},{"match":"lobosGasm","image_id":92672},{"match":"lobosFall","image_id":92921}]}
+{
+  "name": "twitch-sub-lobosjr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lobosWut",
+      "image_id": 92710
+    },
+    {
+      "match": "lobosLUL",
+      "image_id": 110531
+    },
+    {
+      "match": "lobosShrug",
+      "image_id": 100099
+    },
+    {
+      "match": "lobosCreep",
+      "image_id": 92670
+    },
+    {
+      "match": "lobosHi",
+      "image_id": 92675
+    },
+    {
+      "match": "lobosChair",
+      "image_id": 92677
+    },
+    {
+      "match": "lobosCheese",
+      "image_id": 92678
+    },
+    {
+      "match": "lobosSad",
+      "image_id": 92679
+    },
+    {
+      "match": "lobosGame",
+      "image_id": 92680
+    },
+    {
+      "match": "lobosLewd",
+      "image_id": 92681
+    },
+    {
+      "match": "lobosNo",
+      "image_id": 92682
+    },
+    {
+      "match": "lobosScream",
+      "image_id": 92683
+    },
+    {
+      "match": "lobosZ",
+      "image_id": 92684
+    },
+    {
+      "match": "lobosRage",
+      "image_id": 92686
+    },
+    {
+      "match": "lobosSleep",
+      "image_id": 92687
+    },
+    {
+      "match": "lobosSub",
+      "image_id": 92700
+    },
+    {
+      "match": "lobosRekt",
+      "image_id": 92713
+    },
+    {
+      "match": "lobosLove",
+      "image_id": 92709
+    },
+    {
+      "match": "lobosDied",
+      "image_id": 92712
+    },
+    {
+      "match": "lobosMindBlank",
+      "image_id": 92685
+    },
+    {
+      "match": "lobosWolf",
+      "image_id": 92708
+    },
+    {
+      "match": "lobosFail",
+      "image_id": 92671
+    },
+    {
+      "match": "lobosGasm",
+      "image_id": 92672
+    },
+    {
+      "match": "lobosFall",
+      "image_id": 92921
+    }
+  ]
+}

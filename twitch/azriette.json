@@ -1,1 +1,39 @@
-{"name":"twitch-sub-azriette","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"azriSub","image_id":92174},{"match":"azriRillettes","image_id":92080},{"match":"azriBoom","image_id":92079},{"match":"azriGrimace","image_id":92081},{"match":"azriBunny","image_id":92143},{"match":"azriP","image_id":96366},{"match":"azriDomi","image_id":103032},{"match":"azriHey","image_id":110008}]}
+{
+  "name": "twitch-sub-azriette",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "azriSub",
+      "image_id": 92174
+    },
+    {
+      "match": "azriRillettes",
+      "image_id": 92080
+    },
+    {
+      "match": "azriBoom",
+      "image_id": 92079
+    },
+    {
+      "match": "azriGrimace",
+      "image_id": 92081
+    },
+    {
+      "match": "azriBunny",
+      "image_id": 92143
+    },
+    {
+      "match": "azriP",
+      "image_id": 96366
+    },
+    {
+      "match": "azriDomi",
+      "image_id": 103032
+    },
+    {
+      "match": "azriHey",
+      "image_id": 110008
+    }
+  ]
+}

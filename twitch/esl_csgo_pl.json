@@ -1,1 +1,51 @@
-{"name":"twitch-sub-esl_csgo_pl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"esl3Rax","image_id":71440},{"match":"esl4Gate","image_id":71441},{"match":"eslCarryOnly","image_id":71442},{"match":"eslHeart","image_id":71443},{"match":"eslOne","image_id":71444},{"match":"eslGgwp","image_id":71445},{"match":"eslIEMAwesome","image_id":71446},{"match":"eslJungleOnly","image_id":71469},{"match":"eslKeepCalm","image_id":71470},{"match":"eslSupportOnly","image_id":71471},{"match":"eslTankOnly","image_id":71472}]}
+{
+  "name": "twitch-sub-esl_csgo_pl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "esl3Rax",
+      "image_id": 71440
+    },
+    {
+      "match": "esl4Gate",
+      "image_id": 71441
+    },
+    {
+      "match": "eslCarryOnly",
+      "image_id": 71442
+    },
+    {
+      "match": "eslHeart",
+      "image_id": 71443
+    },
+    {
+      "match": "eslOne",
+      "image_id": 71444
+    },
+    {
+      "match": "eslGgwp",
+      "image_id": 71445
+    },
+    {
+      "match": "eslIEMAwesome",
+      "image_id": 71446
+    },
+    {
+      "match": "eslJungleOnly",
+      "image_id": 71469
+    },
+    {
+      "match": "eslKeepCalm",
+      "image_id": 71470
+    },
+    {
+      "match": "eslSupportOnly",
+      "image_id": 71471
+    },
+    {
+      "match": "eslTankOnly",
+      "image_id": 71472
+    }
+  ]
+}

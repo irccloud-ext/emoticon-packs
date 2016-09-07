@@ -1,0 +1,23 @@
+{
+  "name": "twitch-sub-batyalquawen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "batysubQuido",
+      "image_id": 112392
+    },
+    {
+      "match": "batysubCamper",
+      "image_id": 112394
+    },
+    {
+      "match": "batysubHeart",
+      "image_id": 111906
+    },
+    {
+      "match": "batysubSub",
+      "image_id": 111907
+    }
+  ]
+}

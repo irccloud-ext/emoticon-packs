@@ -1,1 +1,23 @@
-{"name":"twitch-sub-mosrobin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mosareBohall","image_id":99497},{"match":"mosareIlda","image_id":99501},{"match":"mosareMath","image_id":99500},{"match":"mosareAng","image_id":99498}]}
+{
+  "name": "twitch-sub-mosrobin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mosareBohall",
+      "image_id": 99497
+    },
+    {
+      "match": "mosareIlda",
+      "image_id": 99501
+    },
+    {
+      "match": "mosareMath",
+      "image_id": 99500
+    },
+    {
+      "match": "mosareAng",
+      "image_id": 99498
+    }
+  ]
+}

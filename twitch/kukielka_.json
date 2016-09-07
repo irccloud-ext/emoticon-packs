@@ -1,1 +1,39 @@
-{"name":"twitch-sub-kukielka_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kukiKappa","image_id":41037},{"match":"kukiLuv","image_id":41133},{"match":"kukiDead","image_id":41336},{"match":"kukiHype","image_id":45795},{"match":"kukiNom","image_id":45860},{"match":"kukiRage","image_id":44779},{"match":"kukiEZ","image_id":44826},{"match":"kukiFail","image_id":45225}]}
+{
+  "name": "twitch-sub-kukielka_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kukiKappa",
+      "image_id": 41037
+    },
+    {
+      "match": "kukiLuv",
+      "image_id": 41133
+    },
+    {
+      "match": "kukiDead",
+      "image_id": 41336
+    },
+    {
+      "match": "kukiHype",
+      "image_id": 45795
+    },
+    {
+      "match": "kukiNom",
+      "image_id": 45860
+    },
+    {
+      "match": "kukiRage",
+      "image_id": 44779
+    },
+    {
+      "match": "kukiEZ",
+      "image_id": 44826
+    },
+    {
+      "match": "kukiFail",
+      "image_id": 45225
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-delave_fps","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"delaveReaper","image_id":108985},{"match":"delaveSmile","image_id":108984}]}
+{
+  "name": "twitch-sub-delave_fps",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "delaveReaper",
+      "image_id": 108985
+    },
+    {
+      "match": "delaveSmile",
+      "image_id": 108984
+    }
+  ]
+}

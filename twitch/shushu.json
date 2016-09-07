@@ -1,1 +1,31 @@
-{"name":"twitch-sub-shushu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shushuR","image_id":74311},{"match":"shushuHYPE","image_id":74433},{"match":"shushuREKT","image_id":74434},{"match":"shushuHG","image_id":74315},{"match":"shushuTHX","image_id":74314},{"match":"shushuL","image_id":74313}]}
+{
+  "name": "twitch-sub-shushu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shushuR",
+      "image_id": 74311
+    },
+    {
+      "match": "shushuHYPE",
+      "image_id": 74433
+    },
+    {
+      "match": "shushuREKT",
+      "image_id": 74434
+    },
+    {
+      "match": "shushuHG",
+      "image_id": 74315
+    },
+    {
+      "match": "shushuTHX",
+      "image_id": 74314
+    },
+    {
+      "match": "shushuL",
+      "image_id": 74313
+    }
+  ]
+}

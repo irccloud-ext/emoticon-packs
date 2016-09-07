@@ -1,1 +1,43 @@
-{"name":"twitch-sub-smashstudios","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"smashD1","image_id":8998},{"match":"smashYouWin","image_id":8999},{"match":"smash20XX","image_id":10287},{"match":"smashPray2Win","image_id":10288},{"match":"smashPbnjChamp","image_id":18905},{"match":"smashJimmyJoe","image_id":27212},{"match":"smash2Dollar","image_id":30305},{"match":"smashSSDABES","image_id":29880},{"match":"smashKickRocks","image_id":30720}]}
+{
+  "name": "twitch-sub-smashstudios",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "smashD1",
+      "image_id": 8998
+    },
+    {
+      "match": "smashYouWin",
+      "image_id": 8999
+    },
+    {
+      "match": "smash20XX",
+      "image_id": 10287
+    },
+    {
+      "match": "smashPray2Win",
+      "image_id": 10288
+    },
+    {
+      "match": "smashPbnjChamp",
+      "image_id": 18905
+    },
+    {
+      "match": "smashJimmyJoe",
+      "image_id": 27212
+    },
+    {
+      "match": "smash2Dollar",
+      "image_id": 30305
+    },
+    {
+      "match": "smashSSDABES",
+      "image_id": 29880
+    },
+    {
+      "match": "smashKickRocks",
+      "image_id": 30720
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-carsondrewit","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"drewitHug","image_id":64659},{"match":"drewitLick","image_id":64535},{"match":"drewitHype","image_id":64539},{"match":"drewitPaarlChamp","image_id":80906},{"match":"drewitW","image_id":109229},{"match":"drewitGuts","image_id":109231}]}
+{
+  "name": "twitch-sub-carsondrewit",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "drewitHug",
+      "image_id": 64659
+    },
+    {
+      "match": "drewitLick",
+      "image_id": 64535
+    },
+    {
+      "match": "drewitHype",
+      "image_id": 64539
+    },
+    {
+      "match": "drewitPaarlChamp",
+      "image_id": 80906
+    },
+    {
+      "match": "drewitW",
+      "image_id": 109229
+    },
+    {
+      "match": "drewitGuts",
+      "image_id": 109231
+    }
+  ]
+}

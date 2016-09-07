@@ -1,1 +1,47 @@
-{"name":"twitch-sub-itslewdicolo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lewWave","image_id":107772},{"match":"lewD","image_id":111012},{"match":"lewW","image_id":111008},{"match":"lewHeart","image_id":107650},{"match":"lewFist","image_id":107652},{"match":"lewShock","image_id":107653},{"match":"lewSad","image_id":110474},{"match":"lewHype","image_id":107651},{"match":"lewYes","image_id":107655},{"match":"lewFail","image_id":110473}]}
+{
+  "name": "twitch-sub-itslewdicolo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lewWave",
+      "image_id": 107772
+    },
+    {
+      "match": "lewD",
+      "image_id": 111012
+    },
+    {
+      "match": "lewW",
+      "image_id": 111008
+    },
+    {
+      "match": "lewHeart",
+      "image_id": 107650
+    },
+    {
+      "match": "lewFist",
+      "image_id": 107652
+    },
+    {
+      "match": "lewShock",
+      "image_id": 107653
+    },
+    {
+      "match": "lewSad",
+      "image_id": 110474
+    },
+    {
+      "match": "lewHype",
+      "image_id": 107651
+    },
+    {
+      "match": "lewYes",
+      "image_id": 107655
+    },
+    {
+      "match": "lewFail",
+      "image_id": 110473
+    }
+  ]
+}

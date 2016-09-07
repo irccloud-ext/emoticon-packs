@@ -1,1 +1,23 @@
-{"name":"twitch-sub-anmarchitv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"anmarchiSnowball","image_id":7998},{"match":"anmarchiEmerald","image_id":8153},{"match":"anmarchiHead","image_id":8406},{"match":"anmarchiTnt","image_id":8407}]}
+{
+  "name": "twitch-sub-anmarchitv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "anmarchiSnowball",
+      "image_id": 7998
+    },
+    {
+      "match": "anmarchiEmerald",
+      "image_id": 8153
+    },
+    {
+      "match": "anmarchiHead",
+      "image_id": 8406
+    },
+    {
+      "match": "anmarchiTnt",
+      "image_id": 8407
+    }
+  ]
+}

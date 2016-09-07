@@ -1,1 +1,23 @@
-{"name":"twitch-sub-lpgjustjohnny","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"justjohnnyEier","image_id":62712},{"match":"justjohnnyCaster","image_id":62709},{"match":"justjohnnyHype","image_id":62708},{"match":"justjohnnyCalculated","image_id":62707}]}
+{
+  "name": "twitch-sub-lpgjustjohnny",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "justjohnnyEier",
+      "image_id": 62712
+    },
+    {
+      "match": "justjohnnyCaster",
+      "image_id": 62709
+    },
+    {
+      "match": "justjohnnyHype",
+      "image_id": 62708
+    },
+    {
+      "match": "justjohnnyCalculated",
+      "image_id": 62707
+    }
+  ]
+}

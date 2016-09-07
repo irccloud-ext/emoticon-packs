@@ -1,1 +1,23 @@
-{"name":"twitch-sub-overwatchcentral","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"owcBaguette","image_id":107098},{"match":"owcReinChamp","image_id":107099},{"match":"owcDVA","image_id":107733},{"match":"owcKappa","image_id":108810}]}
+{
+  "name": "twitch-sub-overwatchcentral",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "owcBaguette",
+      "image_id": 107098
+    },
+    {
+      "match": "owcReinChamp",
+      "image_id": 107099
+    },
+    {
+      "match": "owcDVA",
+      "image_id": 107733
+    },
+    {
+      "match": "owcKappa",
+      "image_id": 108810
+    }
+  ]
+}

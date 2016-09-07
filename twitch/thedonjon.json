@@ -1,1 +1,15 @@
-{"name":"twitch-sub-thedonjon","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"thedonjonKappa","image_id":40719},{"match":"thedonjonEvil","image_id":40717}]}
+{
+  "name": "twitch-sub-thedonjon",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "thedonjonKappa",
+      "image_id": 40719
+    },
+    {
+      "match": "thedonjonEvil",
+      "image_id": 40717
+    }
+  ]
+}

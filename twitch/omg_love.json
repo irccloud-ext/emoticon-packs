@@ -1,1 +1,27 @@
-{"name":"twitch-sub-omg_love","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"loveEgghead","image_id":56251},{"match":"loveHype","image_id":55031},{"match":"love100","image_id":55030},{"match":"loveWTF","image_id":59715},{"match":"loveGang","image_id":59716}]}
+{
+  "name": "twitch-sub-omg_love",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "loveEgghead",
+      "image_id": 56251
+    },
+    {
+      "match": "loveHype",
+      "image_id": 55031
+    },
+    {
+      "match": "love100",
+      "image_id": 55030
+    },
+    {
+      "match": "loveWTF",
+      "image_id": 59715
+    },
+    {
+      "match": "loveGang",
+      "image_id": 59716
+    }
+  ]
+}

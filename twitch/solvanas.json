@@ -1,1 +1,31 @@
-{"name":"twitch-sub-solvanas","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"solTeatime","image_id":3265},{"match":"solSiren","image_id":3884},{"match":"solDraven","image_id":5334},{"match":"solTiphat","image_id":12121},{"match":"solFedoratip","image_id":12247},{"match":"solLux","image_id":58650}]}
+{
+  "name": "twitch-sub-solvanas",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "solTeatime",
+      "image_id": 3265
+    },
+    {
+      "match": "solSiren",
+      "image_id": 3884
+    },
+    {
+      "match": "solDraven",
+      "image_id": 5334
+    },
+    {
+      "match": "solTiphat",
+      "image_id": 12121
+    },
+    {
+      "match": "solFedoratip",
+      "image_id": 12247
+    },
+    {
+      "match": "solLux",
+      "image_id": 58650
+    }
+  ]
+}

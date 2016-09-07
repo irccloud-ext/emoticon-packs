@@ -1,1 +1,15 @@
-{"name":"twitch-sub-apollohs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"apolloBrain","image_id":83115},{"match":"apolloHype","image_id":94390}]}
+{
+  "name": "twitch-sub-apollohs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "apolloBrain",
+      "image_id": 83115
+    },
+    {
+      "match": "apolloHype",
+      "image_id": 94390
+    }
+  ]
+}

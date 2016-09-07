@@ -1,1 +1,39 @@
-{"name":"twitch-sub-tradechat","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"panserHorde","image_id":10409},{"match":"panserDoubloon","image_id":10464},{"match":"panserArthas","image_id":9887},{"match":"panserElf","image_id":9889},{"match":"panserNerd","image_id":9892},{"match":"panserSlashTwo","image_id":9888},{"match":"panserNiko","image_id":10354},{"match":"panserMarmighty","image_id":9923}]}
+{
+  "name": "twitch-sub-tradechat",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "panserHorde",
+      "image_id": 10409
+    },
+    {
+      "match": "panserDoubloon",
+      "image_id": 10464
+    },
+    {
+      "match": "panserArthas",
+      "image_id": 9887
+    },
+    {
+      "match": "panserElf",
+      "image_id": 9889
+    },
+    {
+      "match": "panserNerd",
+      "image_id": 9892
+    },
+    {
+      "match": "panserSlashTwo",
+      "image_id": 9888
+    },
+    {
+      "match": "panserNiko",
+      "image_id": 10354
+    },
+    {
+      "match": "panserMarmighty",
+      "image_id": 9923
+    }
+  ]
+}

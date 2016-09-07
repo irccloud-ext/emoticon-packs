@@ -1,1 +1,23 @@
-{"name":"twitch-sub-kevinddr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kddrQGasm","image_id":39699},{"match":"kddrKitaruTilde","image_id":44938},{"match":"kddrKitaruSmirk","image_id":50632},{"match":"kddrHype","image_id":60566}]}
+{
+  "name": "twitch-sub-kevinddr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kddrQGasm",
+      "image_id": 39699
+    },
+    {
+      "match": "kddrKitaruTilde",
+      "image_id": 44938
+    },
+    {
+      "match": "kddrKitaruSmirk",
+      "image_id": 50632
+    },
+    {
+      "match": "kddrHype",
+      "image_id": 60566
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-icey205","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"iceyRekt","image_id":18304},{"match":"iceyLove","image_id":41772}]}
+{
+  "name": "twitch-sub-icey205",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "iceyRekt",
+      "image_id": 18304
+    },
+    {
+      "match": "iceyLove",
+      "image_id": 41772
+    }
+  ]
+}

@@ -1,1 +1,43 @@
-{"name":"twitch-sub-fathersongaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fsgPapa","image_id":3274},{"match":"fsgZailey","image_id":3276},{"match":"fsgBang","image_id":9890},{"match":"fsgBomb","image_id":10893},{"match":"fsgJappa","image_id":16847},{"match":"fsgGasm","image_id":20835},{"match":"fsgSad","image_id":74977},{"match":"fsgW","image_id":74238},{"match":"fsgYay","image_id":83334}]}
+{
+  "name": "twitch-sub-fathersongaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fsgPapa",
+      "image_id": 3274
+    },
+    {
+      "match": "fsgZailey",
+      "image_id": 3276
+    },
+    {
+      "match": "fsgBang",
+      "image_id": 9890
+    },
+    {
+      "match": "fsgBomb",
+      "image_id": 10893
+    },
+    {
+      "match": "fsgJappa",
+      "image_id": 16847
+    },
+    {
+      "match": "fsgGasm",
+      "image_id": 20835
+    },
+    {
+      "match": "fsgSad",
+      "image_id": 74977
+    },
+    {
+      "match": "fsgW",
+      "image_id": 74238
+    },
+    {
+      "match": "fsgYay",
+      "image_id": 83334
+    }
+  ]
+}

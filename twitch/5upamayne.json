@@ -1,1 +1,23 @@
-{"name":"twitch-sub-5upamayne","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dgafSupNerd","image_id":1250},{"match":"dgafGotEm","image_id":1300},{"match":"dgafBlame5upa","image_id":1626},{"match":"dgafKry","image_id":27692}]}
+{
+  "name": "twitch-sub-5upamayne",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dgafSupNerd",
+      "image_id": 1250
+    },
+    {
+      "match": "dgafGotEm",
+      "image_id": 1300
+    },
+    {
+      "match": "dgafBlame5upa",
+      "image_id": 1626
+    },
+    {
+      "match": "dgafKry",
+      "image_id": 27692
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-opticmidnite","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"midniteMafia","image_id":97245},{"match":"midniteGG","image_id":97246},{"match":"midniteRage","image_id":97247},{"match":"midniteRekt","image_id":101436},{"match":"midniteK","image_id":101437},{"match":"midniteCool","image_id":101441},{"match":"midniteNala","image_id":101440},{"match":"midniteTaco","image_id":101527},{"match":"midniteHype","image_id":101439},{"match":"midniteSub","image_id":105765}]}
+{
+  "name": "twitch-sub-opticmidnite",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "midniteMafia",
+      "image_id": 97245
+    },
+    {
+      "match": "midniteGG",
+      "image_id": 97246
+    },
+    {
+      "match": "midniteRage",
+      "image_id": 97247
+    },
+    {
+      "match": "midniteRekt",
+      "image_id": 101436
+    },
+    {
+      "match": "midniteK",
+      "image_id": 101437
+    },
+    {
+      "match": "midniteCool",
+      "image_id": 101441
+    },
+    {
+      "match": "midniteNala",
+      "image_id": 101440
+    },
+    {
+      "match": "midniteTaco",
+      "image_id": 101527
+    },
+    {
+      "match": "midniteHype",
+      "image_id": 101439
+    },
+    {
+      "match": "midniteSub",
+      "image_id": 105765
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-monkeys_forever","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"monkeysPeel","image_id":9071},{"match":"monkeysStorm","image_id":8331},{"match":"monkeysGotem","image_id":10016},{"match":"monkeysHype","image_id":104197}]}
+{
+  "name": "twitch-sub-monkeys_forever",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "monkeysPeel",
+      "image_id": 9071
+    },
+    {
+      "match": "monkeysStorm",
+      "image_id": 8331
+    },
+    {
+      "match": "monkeysGotem",
+      "image_id": 10016
+    },
+    {
+      "match": "monkeysHype",
+      "image_id": 104197
+    }
+  ]
+}

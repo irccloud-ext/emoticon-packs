@@ -1,1 +1,87 @@
-{"name":"twitch-sub-trihex","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"triW","image_id":110402},{"match":"triLewd","image_id":26563},{"match":"triT","image_id":110411},{"match":"triS","image_id":110412},{"match":"triI","image_id":110413},{"match":"triF","image_id":110414},{"match":"tri4","image_id":110415},{"match":"tri3","image_id":110417},{"match":"tri2","image_id":110418},{"match":"tri1","image_id":110420},{"match":"triGasm","image_id":62401},{"match":"triDANK","image_id":66935},{"match":"triGiggle","image_id":67444},{"match":"triPantsu","image_id":67445},{"match":"triSugoi","image_id":75091},{"match":"triGropeL","image_id":90474},{"match":"triGropeR","image_id":90473},{"match":"triUgh","image_id":95485},{"match":"triPuke","image_id":95486},{"match":"triThirst","image_id":105971}]}
+{
+  "name": "twitch-sub-trihex",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "triW",
+      "image_id": 110402
+    },
+    {
+      "match": "triLewd",
+      "image_id": 26563
+    },
+    {
+      "match": "triT",
+      "image_id": 110411
+    },
+    {
+      "match": "triS",
+      "image_id": 110412
+    },
+    {
+      "match": "triI",
+      "image_id": 110413
+    },
+    {
+      "match": "triF",
+      "image_id": 110414
+    },
+    {
+      "match": "tri4",
+      "image_id": 110415
+    },
+    {
+      "match": "tri3",
+      "image_id": 110417
+    },
+    {
+      "match": "tri2",
+      "image_id": 110418
+    },
+    {
+      "match": "tri1",
+      "image_id": 110420
+    },
+    {
+      "match": "triGasm",
+      "image_id": 62401
+    },
+    {
+      "match": "triDANK",
+      "image_id": 66935
+    },
+    {
+      "match": "triGiggle",
+      "image_id": 67444
+    },
+    {
+      "match": "triPantsu",
+      "image_id": 67445
+    },
+    {
+      "match": "triSugoi",
+      "image_id": 75091
+    },
+    {
+      "match": "triGropeL",
+      "image_id": 90474
+    },
+    {
+      "match": "triGropeR",
+      "image_id": 90473
+    },
+    {
+      "match": "triUgh",
+      "image_id": 95485
+    },
+    {
+      "match": "triPuke",
+      "image_id": 95486
+    },
+    {
+      "match": "triThirst",
+      "image_id": 105971
+    }
+  ]
+}

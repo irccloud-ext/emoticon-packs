@@ -1,1 +1,23 @@
-{"name":"twitch-sub-thehm05","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hm05Fraud","image_id":110341},{"match":"hm05Love","image_id":110342},{"match":"hm05Undank","image_id":110343},{"match":"hm05Harambe","image_id":110569}]}
+{
+  "name": "twitch-sub-thehm05",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hm05Fraud",
+      "image_id": 110341
+    },
+    {
+      "match": "hm05Love",
+      "image_id": 110342
+    },
+    {
+      "match": "hm05Undank",
+      "image_id": 110343
+    },
+    {
+      "match": "hm05Harambe",
+      "image_id": 110569
+    }
+  ]
+}

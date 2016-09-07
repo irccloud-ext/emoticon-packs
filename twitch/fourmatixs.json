@@ -1,1 +1,19 @@
-{"name":"twitch-sub-fourmatixs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fourHype","image_id":23103},{"match":"fourGasm","image_id":20208},{"match":"fourNade","image_id":21351}]}
+{
+  "name": "twitch-sub-fourmatixs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fourHype",
+      "image_id": 23103
+    },
+    {
+      "match": "fourGasm",
+      "image_id": 20208
+    },
+    {
+      "match": "fourNade",
+      "image_id": 21351
+    }
+  ]
+}

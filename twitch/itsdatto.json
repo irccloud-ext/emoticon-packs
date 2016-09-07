@@ -1,1 +1,67 @@
-{"name":"twitch-sub-itsdatto","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dattoMASTER","image_id":19676},{"match":"dattoTH","image_id":93432},{"match":"dattoCAWW","image_id":27934},{"match":"dattoMC","image_id":64727},{"match":"dattoDEAL","image_id":29141},{"match":"dattoLEG","image_id":49365},{"match":"dattoSTAR","image_id":67331},{"match":"dattoRAGE","image_id":67329},{"match":"dattoLOVE","image_id":68311},{"match":"dattoHUH","image_id":68315},{"match":"dattoHYPE","image_id":71688},{"match":"dattoNC","image_id":81767},{"match":"dattoSOAK","image_id":81768},{"match":"dattoB","image_id":81769},{"match":"dattoA","image_id":110698}]}
+{
+  "name": "twitch-sub-itsdatto",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dattoMASTER",
+      "image_id": 19676
+    },
+    {
+      "match": "dattoTH",
+      "image_id": 93432
+    },
+    {
+      "match": "dattoCAWW",
+      "image_id": 27934
+    },
+    {
+      "match": "dattoMC",
+      "image_id": 64727
+    },
+    {
+      "match": "dattoDEAL",
+      "image_id": 29141
+    },
+    {
+      "match": "dattoLEG",
+      "image_id": 49365
+    },
+    {
+      "match": "dattoSTAR",
+      "image_id": 67331
+    },
+    {
+      "match": "dattoRAGE",
+      "image_id": 67329
+    },
+    {
+      "match": "dattoLOVE",
+      "image_id": 68311
+    },
+    {
+      "match": "dattoHUH",
+      "image_id": 68315
+    },
+    {
+      "match": "dattoHYPE",
+      "image_id": 71688
+    },
+    {
+      "match": "dattoNC",
+      "image_id": 81767
+    },
+    {
+      "match": "dattoSOAK",
+      "image_id": 81768
+    },
+    {
+      "match": "dattoB",
+      "image_id": 81769
+    },
+    {
+      "match": "dattoA",
+      "image_id": 110698
+    }
+  ]
+}

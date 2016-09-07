@@ -1,1 +1,19 @@
-{"name":"twitch-sub-larrylurr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"larrylurrG3VoiD","image_id":85174},{"match":"larrylurrWha","image_id":90291}]}
+{
+  "name": "twitch-sub-larrylurr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "larrylurrG3VoiD",
+      "image_id": 85174
+    },
+    {
+      "match": "larrylurrWha",
+      "image_id": 90291
+    },
+    {
+      "match": "larrylurrKawaii",
+      "image_id": 112591
+    }
+  ]
+}

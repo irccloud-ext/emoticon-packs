@@ -1,1 +1,47 @@
-{"name":"twitch-sub-ironchefbobbyflail","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bobbyRIP","image_id":51255},{"match":"bobbyF","image_id":51252},{"match":"bobbyR","image_id":50838},{"match":"bobbyO","image_id":50837},{"match":"bobbyM","image_id":50836},{"match":"bobbyL","image_id":51253},{"match":"bobbyH","image_id":54206},{"match":"bobbyLURK","image_id":54207},{"match":"bobbyW","image_id":53227},{"match":"bobbyB","image_id":53246}]}
+{
+  "name": "twitch-sub-ironchefbobbyflail",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bobbyRIP",
+      "image_id": 51255
+    },
+    {
+      "match": "bobbyF",
+      "image_id": 51252
+    },
+    {
+      "match": "bobbyR",
+      "image_id": 50838
+    },
+    {
+      "match": "bobbyO",
+      "image_id": 50837
+    },
+    {
+      "match": "bobbyM",
+      "image_id": 50836
+    },
+    {
+      "match": "bobbyL",
+      "image_id": 51253
+    },
+    {
+      "match": "bobbyH",
+      "image_id": 54206
+    },
+    {
+      "match": "bobbyLURK",
+      "image_id": 54207
+    },
+    {
+      "match": "bobbyW",
+      "image_id": 53227
+    },
+    {
+      "match": "bobbyB",
+      "image_id": 53246
+    }
+  ]
+}

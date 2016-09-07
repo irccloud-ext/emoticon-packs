@@ -1,1 +1,39 @@
-{"name":"twitch-sub-toperec","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"topecutYolo","image_id":104448},{"match":"topecutTopecut","image_id":104447},{"match":"topecutTopelove","image_id":104446},{"match":"topecutTroll","image_id":105409},{"match":"topecutWow","image_id":104465},{"match":"topecutRekt","image_id":104464},{"match":"topecutSub","image_id":104566},{"match":"topecutJopuke","image_id":106968}]}
+{
+  "name": "twitch-sub-toperec",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "topecutYolo",
+      "image_id": 104448
+    },
+    {
+      "match": "topecutTopecut",
+      "image_id": 104447
+    },
+    {
+      "match": "topecutTopelove",
+      "image_id": 104446
+    },
+    {
+      "match": "topecutTroll",
+      "image_id": 105409
+    },
+    {
+      "match": "topecutWow",
+      "image_id": 104465
+    },
+    {
+      "match": "topecutRekt",
+      "image_id": 104464
+    },
+    {
+      "match": "topecutSub",
+      "image_id": 104566
+    },
+    {
+      "match": "topecutJopuke",
+      "image_id": 106968
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-dillypoo69","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dillyDollars","image_id":20416},{"match":"dillyHiAnna","image_id":20417},{"match":"dillyCaw","image_id":67540},{"match":"dillyHat","image_id":75316},{"match":"dillyDevin","image_id":76229},{"match":"dillyOK","image_id":76230}]}
+{
+  "name": "twitch-sub-dillypoo69",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dillyDollars",
+      "image_id": 20416
+    },
+    {
+      "match": "dillyHiAnna",
+      "image_id": 20417
+    },
+    {
+      "match": "dillyCaw",
+      "image_id": 67540
+    },
+    {
+      "match": "dillyHat",
+      "image_id": 75316
+    },
+    {
+      "match": "dillyDevin",
+      "image_id": 76229
+    },
+    {
+      "match": "dillyOK",
+      "image_id": 76230
+    }
+  ]
+}

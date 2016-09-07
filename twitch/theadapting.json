@@ -1,1 +1,39 @@
-{"name":"twitch-sub-theadapting","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"adaptTap","image_id":77357},{"match":"adaptBlubb","image_id":83525},{"match":"adaptKing","image_id":66686},{"match":"adaptHype","image_id":48086},{"match":"adaptRage","image_id":56513},{"match":"adaptPPRN","image_id":65763},{"match":"adaptSigh","image_id":65241},{"match":"adaptOhboy","image_id":77410}]}
+{
+  "name": "twitch-sub-theadapting",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "adaptTap",
+      "image_id": 77357
+    },
+    {
+      "match": "adaptBlubb",
+      "image_id": 83525
+    },
+    {
+      "match": "adaptKing",
+      "image_id": 66686
+    },
+    {
+      "match": "adaptHype",
+      "image_id": 48086
+    },
+    {
+      "match": "adaptRage",
+      "image_id": 56513
+    },
+    {
+      "match": "adaptPPRN",
+      "image_id": 65763
+    },
+    {
+      "match": "adaptSigh",
+      "image_id": 65241
+    },
+    {
+      "match": "adaptOhboy",
+      "image_id": 77410
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-jeffgrosspoker","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jeffgrossDouble","image_id":90211},{"match":"jeffgrossBino","image_id":75298},{"match":"jeffgrossElena","image_id":75874},{"match":"jeffgrossHakem","image_id":81821},{"match":"jeffgrossPairs","image_id":90224},{"match":"jeffgrossCoffee","image_id":91115},{"match":"jeffgrossSurfer","image_id":90703},{"match":"jeffgrossMp","image_id":90854}]}
+{
+  "name": "twitch-sub-jeffgrosspoker",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jeffgrossDouble",
+      "image_id": 90211
+    },
+    {
+      "match": "jeffgrossBino",
+      "image_id": 75298
+    },
+    {
+      "match": "jeffgrossElena",
+      "image_id": 75874
+    },
+    {
+      "match": "jeffgrossHakem",
+      "image_id": 81821
+    },
+    {
+      "match": "jeffgrossPairs",
+      "image_id": 90224
+    },
+    {
+      "match": "jeffgrossCoffee",
+      "image_id": 91115
+    },
+    {
+      "match": "jeffgrossSurfer",
+      "image_id": 90703
+    },
+    {
+      "match": "jeffgrossMp",
+      "image_id": 90854
+    }
+  ]
+}

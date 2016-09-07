@@ -1,1 +1,39 @@
-{"name":"twitch-sub-v5at","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vsatLowkey","image_id":24425},{"match":"vsatGasm","image_id":74638},{"match":"vsatLove","image_id":49349},{"match":"vsatHype","image_id":49351},{"match":"vsatAwk","image_id":69835},{"match":"vsatCreep","image_id":91039},{"match":"vsatAy","image_id":80991},{"match":"vsatDuck","image_id":105982}]}
+{
+  "name": "twitch-sub-v5at",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vsatLowkey",
+      "image_id": 24425
+    },
+    {
+      "match": "vsatGasm",
+      "image_id": 74638
+    },
+    {
+      "match": "vsatLove",
+      "image_id": 49349
+    },
+    {
+      "match": "vsatHype",
+      "image_id": 49351
+    },
+    {
+      "match": "vsatAwk",
+      "image_id": 69835
+    },
+    {
+      "match": "vsatCreep",
+      "image_id": 91039
+    },
+    {
+      "match": "vsatAy",
+      "image_id": 80991
+    },
+    {
+      "match": "vsatDuck",
+      "image_id": 105982
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-madbrosplays","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"madbroW","image_id":86758},{"match":"madbroPleb","image_id":87272},{"match":"madbroJKN","image_id":87269},{"match":"madbroRage","image_id":86756},{"match":"madbroTryhard","image_id":86757},{"match":"madbroFu","image_id":86755}]}
+{
+  "name": "twitch-sub-madbrosplays",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "madbroW",
+      "image_id": 86758
+    },
+    {
+      "match": "madbroPleb",
+      "image_id": 87272
+    },
+    {
+      "match": "madbroJKN",
+      "image_id": 87269
+    },
+    {
+      "match": "madbroRage",
+      "image_id": 86756
+    },
+    {
+      "match": "madbroTryhard",
+      "image_id": 86757
+    },
+    {
+      "match": "madbroFu",
+      "image_id": 86755
+    }
+  ]
+}

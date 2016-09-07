@@ -1,1 +1,39 @@
-{"name":"twitch-sub-barrowsboy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"barrows7","image_id":7189},{"match":"barrowsHype","image_id":10922},{"match":"barrowsSWAG","image_id":15617},{"match":"barrowsPUP","image_id":15618},{"match":"barrowsSCUM","image_id":67833},{"match":"barrowsFN","image_id":42148},{"match":"barrowsLOVE","image_id":68798},{"match":"barrowsBASH","image_id":73891}]}
+{
+  "name": "twitch-sub-barrowsboy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "barrows7",
+      "image_id": 7189
+    },
+    {
+      "match": "barrowsHype",
+      "image_id": 10922
+    },
+    {
+      "match": "barrowsSWAG",
+      "image_id": 15617
+    },
+    {
+      "match": "barrowsPUP",
+      "image_id": 15618
+    },
+    {
+      "match": "barrowsSCUM",
+      "image_id": 67833
+    },
+    {
+      "match": "barrowsFN",
+      "image_id": 42148
+    },
+    {
+      "match": "barrowsLOVE",
+      "image_id": 68798
+    },
+    {
+      "match": "barrowsBASH",
+      "image_id": 73891
+    }
+  ]
+}

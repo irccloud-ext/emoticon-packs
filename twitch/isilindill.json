@@ -1,1 +1,23 @@
-{"name":"twitch-sub-isilindill","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"isiFEELS","image_id":80525},{"match":"isiSWAG","image_id":80313},{"match":"isiGASM","image_id":83231},{"match":"isiFAIL","image_id":82243}]}
+{
+  "name": "twitch-sub-isilindill",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "isiFEELS",
+      "image_id": 80525
+    },
+    {
+      "match": "isiSWAG",
+      "image_id": 80313
+    },
+    {
+      "match": "isiGASM",
+      "image_id": 83231
+    },
+    {
+      "match": "isiFAIL",
+      "image_id": 82243
+    }
+  ]
+}

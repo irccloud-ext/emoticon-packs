@@ -1,1 +1,87 @@
-{"name":"twitch-sub-brandon505","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"oroRIP","image_id":1309},{"match":"oroRage","image_id":1247},{"match":"oroSpooky","image_id":8805},{"match":"oroFast","image_id":1246},{"match":"oroLegend","image_id":1248},{"match":"oroCake","image_id":1310},{"match":"oroHug","image_id":5423},{"match":"oroSad","image_id":21806},{"match":"oroHeyGuys","image_id":32757},{"match":"oroR1","image_id":97472},{"match":"oroNinja","image_id":97460},{"match":"oroPizza","image_id":37092},{"match":"oroShoot","image_id":43936},{"match":"oroLove","image_id":43934},{"match":"oroSleeper","image_id":97458},{"match":"oroSummon","image_id":97489},{"match":"oroLewd","image_id":97335},{"match":"oroHey","image_id":97669},{"match":"oroFail","image_id":97666},{"match":"oroClap","image_id":97665}]}
+{
+  "name": "twitch-sub-brandon505",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "oroRIP",
+      "image_id": 1309
+    },
+    {
+      "match": "oroRage",
+      "image_id": 1247
+    },
+    {
+      "match": "oroSpooky",
+      "image_id": 8805
+    },
+    {
+      "match": "oroFast",
+      "image_id": 1246
+    },
+    {
+      "match": "oroLegend",
+      "image_id": 1248
+    },
+    {
+      "match": "oroCake",
+      "image_id": 1310
+    },
+    {
+      "match": "oroHug",
+      "image_id": 5423
+    },
+    {
+      "match": "oroSad",
+      "image_id": 21806
+    },
+    {
+      "match": "oroHeyGuys",
+      "image_id": 32757
+    },
+    {
+      "match": "oroR1",
+      "image_id": 97472
+    },
+    {
+      "match": "oroNinja",
+      "image_id": 97460
+    },
+    {
+      "match": "oroPizza",
+      "image_id": 37092
+    },
+    {
+      "match": "oroShoot",
+      "image_id": 43936
+    },
+    {
+      "match": "oroLove",
+      "image_id": 43934
+    },
+    {
+      "match": "oroSleeper",
+      "image_id": 97458
+    },
+    {
+      "match": "oroSummon",
+      "image_id": 97489
+    },
+    {
+      "match": "oroLewd",
+      "image_id": 97335
+    },
+    {
+      "match": "oroHey",
+      "image_id": 97669
+    },
+    {
+      "match": "oroFail",
+      "image_id": 97666
+    },
+    {
+      "match": "oroClap",
+      "image_id": 97665
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-{"name":"twitch-sub-archonthewizard","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"archonJonked","image_id":10607},{"match":"archonThe","image_id":10960},{"match":"archonJonk","image_id":10961},{"match":"archonLeg","image_id":10962},{"match":"archonNerf","image_id":10963}]}
+{
+  "name": "twitch-sub-archonthewizard",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "archonJonked",
+      "image_id": 10607
+    },
+    {
+      "match": "archonThe",
+      "image_id": 10960
+    },
+    {
+      "match": "archonJonk",
+      "image_id": 10961
+    },
+    {
+      "match": "archonLeg",
+      "image_id": 10962
+    },
+    {
+      "match": "archonNerf",
+      "image_id": 10963
+    }
+  ]
+}

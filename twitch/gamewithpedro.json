@@ -1,1 +1,11 @@
-{"name":"twitch-sub-gamewithpedro","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gwpHu3","image_id":30702}]}
+{
+  "name": "twitch-sub-gamewithpedro",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gwpHu3",
+      "image_id": 30702
+    }
+  ]
+}

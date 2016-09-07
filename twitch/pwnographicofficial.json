@@ -1,1 +1,39 @@
-{"name":"twitch-sub-pwnographicofficial","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"azumiHype","image_id":100425},{"match":"azumiGlasses","image_id":22470},{"match":"azumiRage","image_id":23790},{"match":"azumiTeemo","image_id":31891},{"match":"azumiPikappa","image_id":33035},{"match":"azumiViking","image_id":100459},{"match":"azumiJelly","image_id":100539},{"match":"azumiFeels","image_id":100399}]}
+{
+  "name": "twitch-sub-pwnographicofficial",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "azumiHype",
+      "image_id": 100425
+    },
+    {
+      "match": "azumiGlasses",
+      "image_id": 22470
+    },
+    {
+      "match": "azumiRage",
+      "image_id": 23790
+    },
+    {
+      "match": "azumiTeemo",
+      "image_id": 31891
+    },
+    {
+      "match": "azumiPikappa",
+      "image_id": 33035
+    },
+    {
+      "match": "azumiViking",
+      "image_id": 100459
+    },
+    {
+      "match": "azumiJelly",
+      "image_id": 100539
+    },
+    {
+      "match": "azumiFeels",
+      "image_id": 100399
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"name":"twitch-sub-s4","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"s4dotaW","image_id":91033},{"match":"s4dotaFeelsGood","image_id":95150},{"match":"s4dotaLUL","image_id":95148}]}
+{
+  "name": "twitch-sub-s4",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "s4dotaW",
+      "image_id": 91033
+    },
+    {
+      "match": "s4dotaFeelsGood",
+      "image_id": 95150
+    },
+    {
+      "match": "s4dotaLUL",
+      "image_id": 95148
+    }
+  ]
+}

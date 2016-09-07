@@ -1,1 +1,87 @@
-{"name":"twitch-sub-bibixhd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bibCSTA","image_id":65867},{"match":"bibWTF","image_id":65863},{"match":"bibMDR","image_id":18189},{"match":"bibNewsubs","image_id":24259},{"match":"bibDon","image_id":27526},{"match":"bibRagdol","image_id":27807},{"match":"bibRetard","image_id":77270},{"match":"bibPleure","image_id":88269},{"match":"bibGg","image_id":36981},{"match":"bibSalut","image_id":48661},{"match":"bibJust","image_id":55818},{"match":"bibKarma","image_id":95967},{"match":"bibEvilz","image_id":89201},{"match":"bibRespect","image_id":88430},{"match":"bibSouleve","image_id":104820},{"match":"bibJK","image_id":77573},{"match":"bibBrain","image_id":88142},{"match":"bibFullStuf","image_id":97288},{"match":"bibInfo","image_id":98339},{"match":"bibMenteur","image_id":98707}]}
+{
+  "name": "twitch-sub-bibixhd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bibCSTA",
+      "image_id": 65867
+    },
+    {
+      "match": "bibWTF",
+      "image_id": 65863
+    },
+    {
+      "match": "bibMDR",
+      "image_id": 18189
+    },
+    {
+      "match": "bibNewsubs",
+      "image_id": 24259
+    },
+    {
+      "match": "bibDon",
+      "image_id": 27526
+    },
+    {
+      "match": "bibRagdol",
+      "image_id": 27807
+    },
+    {
+      "match": "bibRetard",
+      "image_id": 77270
+    },
+    {
+      "match": "bibPleure",
+      "image_id": 88269
+    },
+    {
+      "match": "bibGg",
+      "image_id": 36981
+    },
+    {
+      "match": "bibSalut",
+      "image_id": 48661
+    },
+    {
+      "match": "bibJust",
+      "image_id": 55818
+    },
+    {
+      "match": "bibKarma",
+      "image_id": 95967
+    },
+    {
+      "match": "bibEvilz",
+      "image_id": 89201
+    },
+    {
+      "match": "bibRespect",
+      "image_id": 88430
+    },
+    {
+      "match": "bibSouleve",
+      "image_id": 104820
+    },
+    {
+      "match": "bibJK",
+      "image_id": 77573
+    },
+    {
+      "match": "bibBrain",
+      "image_id": 88142
+    },
+    {
+      "match": "bibFullStuf",
+      "image_id": 97288
+    },
+    {
+      "match": "bibInfo",
+      "image_id": 98339
+    },
+    {
+      "match": "bibMenteur",
+      "image_id": 98707
+    }
+  ]
+}

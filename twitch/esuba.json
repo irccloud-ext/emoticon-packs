@@ -1,1 +1,15 @@
-{"name":"twitch-sub-esuba","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"esubaHYPE","image_id":99308},{"match":"esubaLOVE","image_id":99309}]}
+{
+  "name": "twitch-sub-esuba",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "esubaHYPE",
+      "image_id": 99308
+    },
+    {
+      "match": "esubaLOVE",
+      "image_id": 99309
+    }
+  ]
+}

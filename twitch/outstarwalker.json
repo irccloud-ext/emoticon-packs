@@ -1,1 +1,23 @@
-{"name":"twitch-sub-outstarwalker","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"outstarFace","image_id":105489},{"match":"outstarRage","image_id":106411},{"match":"outstarSad","image_id":106410},{"match":"outstarPoop","image_id":106332}]}
+{
+  "name": "twitch-sub-outstarwalker",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "outstarFace",
+      "image_id": 105489
+    },
+    {
+      "match": "outstarRage",
+      "image_id": 106411
+    },
+    {
+      "match": "outstarSad",
+      "image_id": 106410
+    },
+    {
+      "match": "outstarPoop",
+      "image_id": 106332
+    }
+  ]
+}

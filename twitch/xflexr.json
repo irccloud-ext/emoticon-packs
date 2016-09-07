@@ -1,1 +1,19 @@
-{"name":"twitch-sub-xflexr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"flexDerp","image_id":21785},{"match":"flexSalute","image_id":21788},{"match":"flexRage","image_id":21951}]}
+{
+  "name": "twitch-sub-xflexr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "flexDerp",
+      "image_id": 21785
+    },
+    {
+      "match": "flexSalute",
+      "image_id": 21788
+    },
+    {
+      "match": "flexRage",
+      "image_id": 21951
+    }
+  ]
+}

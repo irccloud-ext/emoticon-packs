@@ -1,1 +1,39 @@
-{"name":"twitch-sub-jonofallgames","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jonRIP","image_id":15850},{"match":"jonScare","image_id":15845},{"match":"jonEvil","image_id":15886},{"match":"jonThank","image_id":16068},{"match":"jonNyssa","image_id":17588},{"match":"jonHype","image_id":29497},{"match":"jonPalm","image_id":78483},{"match":"jonDumb","image_id":83253}]}
+{
+  "name": "twitch-sub-jonofallgames",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jonRIP",
+      "image_id": 15850
+    },
+    {
+      "match": "jonScare",
+      "image_id": 15845
+    },
+    {
+      "match": "jonEvil",
+      "image_id": 15886
+    },
+    {
+      "match": "jonThank",
+      "image_id": 16068
+    },
+    {
+      "match": "jonNyssa",
+      "image_id": 17588
+    },
+    {
+      "match": "jonHype",
+      "image_id": 29497
+    },
+    {
+      "match": "jonPalm",
+      "image_id": 78483
+    },
+    {
+      "match": "jonDumb",
+      "image_id": 83253
+    }
+  ]
+}

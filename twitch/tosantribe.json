@@ -1,1 +1,39 @@
-{"name":"twitch-sub-tosantribe","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tosanP","image_id":86171},{"match":"tosanF","image_id":69341},{"match":"tosanFG","image_id":77171},{"match":"tosanCYA","image_id":85785},{"match":"tosanR","image_id":87540},{"match":"tosanL","image_id":87541},{"match":"tosanShots","image_id":87855},{"match":"tosanLove","image_id":93115}]}
+{
+  "name": "twitch-sub-tosantribe",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tosanP",
+      "image_id": 86171
+    },
+    {
+      "match": "tosanF",
+      "image_id": 69341
+    },
+    {
+      "match": "tosanFG",
+      "image_id": 77171
+    },
+    {
+      "match": "tosanCYA",
+      "image_id": 85785
+    },
+    {
+      "match": "tosanR",
+      "image_id": 87540
+    },
+    {
+      "match": "tosanL",
+      "image_id": 87541
+    },
+    {
+      "match": "tosanShots",
+      "image_id": 87855
+    },
+    {
+      "match": "tosanLove",
+      "image_id": 93115
+    }
+  ]
+}

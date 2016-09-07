@@ -1,1 +1,23 @@
-{"name":"twitch-sub-duedrop","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"duedropYS","image_id":86511},{"match":"duedrop2","image_id":86512},{"match":"duedropUp","image_id":90127},{"match":"duedropCoco","image_id":94838}]}
+{
+  "name": "twitch-sub-duedrop",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "duedropYS",
+      "image_id": 86511
+    },
+    {
+      "match": "duedrop2",
+      "image_id": 86512
+    },
+    {
+      "match": "duedropUp",
+      "image_id": 90127
+    },
+    {
+      "match": "duedropCoco",
+      "image_id": 94838
+    }
+  ]
+}

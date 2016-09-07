@@ -1,1 +1,39 @@
-{"name":"twitch-sub-omgbomber","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bombRAD","image_id":64880},{"match":"bombFire","image_id":64879},{"match":"bombHeart","image_id":64892},{"match":"bombThump","image_id":60564},{"match":"bombWarn","image_id":65273},{"match":"bombRIP","image_id":64870},{"match":"bombAP","image_id":84277},{"match":"bombFL","image_id":84278}]}
+{
+  "name": "twitch-sub-omgbomber",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bombRAD",
+      "image_id": 64880
+    },
+    {
+      "match": "bombFire",
+      "image_id": 64879
+    },
+    {
+      "match": "bombHeart",
+      "image_id": 64892
+    },
+    {
+      "match": "bombThump",
+      "image_id": 60564
+    },
+    {
+      "match": "bombWarn",
+      "image_id": 65273
+    },
+    {
+      "match": "bombRIP",
+      "image_id": 64870
+    },
+    {
+      "match": "bombAP",
+      "image_id": 84277
+    },
+    {
+      "match": "bombFL",
+      "image_id": 84278
+    }
+  ]
+}

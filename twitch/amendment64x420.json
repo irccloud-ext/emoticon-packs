@@ -1,1 +1,19 @@
-{"name":"twitch-sub-amendment64x420","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gracecoinMane","image_id":37003},{"match":"gracecoinCoin","image_id":37004},{"match":"gracecoinBox","image_id":36569}]}
+{
+  "name": "twitch-sub-amendment64x420",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gracecoinMane",
+      "image_id": 37003
+    },
+    {
+      "match": "gracecoinCoin",
+      "image_id": 37004
+    },
+    {
+      "match": "gracecoinBox",
+      "image_id": 36569
+    }
+  ]
+}

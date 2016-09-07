@@ -1,1 +1,23 @@
-{"name":"twitch-sub-gamestahtv1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gstahByza","image_id":93788},{"match":"gstahEJ","image_id":71863},{"match":"gstahChrisis","image_id":71864},{"match":"gstahIVERTIM","image_id":95702}]}
+{
+  "name": "twitch-sub-gamestahtv1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gstahByza",
+      "image_id": 93788
+    },
+    {
+      "match": "gstahEJ",
+      "image_id": 71863
+    },
+    {
+      "match": "gstahChrisis",
+      "image_id": 71864
+    },
+    {
+      "match": "gstahIVERTIM",
+      "image_id": 95702
+    }
+  ]
+}

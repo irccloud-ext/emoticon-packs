@@ -1,1 +1,31 @@
-{"name":"twitch-sub-nahj","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nahjCombat","image_id":39524},{"match":"nahj21","image_id":37759},{"match":"nahjW","image_id":37761},{"match":"nahjCrack","image_id":37858},{"match":"nahjToxic","image_id":39435},{"match":"nahjTTB","image_id":39451}]}
+{
+  "name": "twitch-sub-nahj",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nahjCombat",
+      "image_id": 39524
+    },
+    {
+      "match": "nahj21",
+      "image_id": 37759
+    },
+    {
+      "match": "nahjW",
+      "image_id": 37761
+    },
+    {
+      "match": "nahjCrack",
+      "image_id": 37858
+    },
+    {
+      "match": "nahjToxic",
+      "image_id": 39435
+    },
+    {
+      "match": "nahjTTB",
+      "image_id": 39451
+    }
+  ]
+}

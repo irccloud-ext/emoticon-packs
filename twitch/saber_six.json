@@ -1,1 +1,39 @@
-{"name":"twitch-sub-saber_six","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"erinTaco","image_id":5832},{"match":"erinKappa","image_id":5962},{"match":"erinAfrica","image_id":52325},{"match":"erinTeemo","image_id":9283},{"match":"erinPeng","image_id":11228},{"match":"erinOlaf","image_id":11221},{"match":"erinDuck","image_id":14470},{"match":"erinGnome","image_id":27230}]}
+{
+  "name": "twitch-sub-saber_six",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "erinTaco",
+      "image_id": 5832
+    },
+    {
+      "match": "erinKappa",
+      "image_id": 5962
+    },
+    {
+      "match": "erinAfrica",
+      "image_id": 52325
+    },
+    {
+      "match": "erinTeemo",
+      "image_id": 9283
+    },
+    {
+      "match": "erinPeng",
+      "image_id": 11228
+    },
+    {
+      "match": "erinOlaf",
+      "image_id": 11221
+    },
+    {
+      "match": "erinDuck",
+      "image_id": 14470
+    },
+    {
+      "match": "erinGnome",
+      "image_id": 27230
+    }
+  ]
+}

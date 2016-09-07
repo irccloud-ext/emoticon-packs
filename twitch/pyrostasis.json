@@ -1,1 +1,27 @@
-{"name":"twitch-sub-pyrostasis","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tdkLorebunny","image_id":6749},{"match":"tdkShots","image_id":6878},{"match":"tdkSub","image_id":22619},{"match":"tdkHF","image_id":22620},{"match":"tdkFireball","image_id":22627}]}
+{
+  "name": "twitch-sub-pyrostasis",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tdkLorebunny",
+      "image_id": 6749
+    },
+    {
+      "match": "tdkShots",
+      "image_id": 6878
+    },
+    {
+      "match": "tdkSub",
+      "image_id": 22619
+    },
+    {
+      "match": "tdkHF",
+      "image_id": 22620
+    },
+    {
+      "match": "tdkFireball",
+      "image_id": 22627
+    }
+  ]
+}

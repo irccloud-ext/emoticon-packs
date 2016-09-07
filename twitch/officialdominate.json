@@ -1,1 +1,39 @@
-{"name":"twitch-sub-officialdominate","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"domiTap","image_id":23748},{"match":"domiCap","image_id":23302},{"match":"domiChoke","image_id":23341},{"match":"domiHead","image_id":23303},{"match":"domiThumb","image_id":23304},{"match":"domiHype","image_id":23350},{"match":"domiKappa","image_id":23982},{"match":"domiWhat","image_id":24509}]}
+{
+  "name": "twitch-sub-officialdominate",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "domiTap",
+      "image_id": 23748
+    },
+    {
+      "match": "domiCap",
+      "image_id": 23302
+    },
+    {
+      "match": "domiChoke",
+      "image_id": 23341
+    },
+    {
+      "match": "domiHead",
+      "image_id": 23303
+    },
+    {
+      "match": "domiThumb",
+      "image_id": 23304
+    },
+    {
+      "match": "domiHype",
+      "image_id": 23350
+    },
+    {
+      "match": "domiKappa",
+      "image_id": 23982
+    },
+    {
+      "match": "domiWhat",
+      "image_id": 24509
+    }
+  ]
+}

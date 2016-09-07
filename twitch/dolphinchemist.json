@@ -1,1 +1,39 @@
-{"name":"twitch-sub-dolphinchemist","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dolphinOtter","image_id":97628},{"match":"dolphinGasm","image_id":97627},{"match":"dolphinHey","image_id":101253},{"match":"dolphinFeels","image_id":100112},{"match":"dolphinW","image_id":93919},{"match":"dolphinKobe","image_id":96426},{"match":"dolphinWut","image_id":100333},{"match":"dolphinCute","image_id":102139}]}
+{
+  "name": "twitch-sub-dolphinchemist",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dolphinOtter",
+      "image_id": 97628
+    },
+    {
+      "match": "dolphinGasm",
+      "image_id": 97627
+    },
+    {
+      "match": "dolphinHey",
+      "image_id": 101253
+    },
+    {
+      "match": "dolphinFeels",
+      "image_id": 100112
+    },
+    {
+      "match": "dolphinW",
+      "image_id": 93919
+    },
+    {
+      "match": "dolphinKobe",
+      "image_id": 96426
+    },
+    {
+      "match": "dolphinWut",
+      "image_id": 100333
+    },
+    {
+      "match": "dolphinCute",
+      "image_id": 102139
+    }
+  ]
+}

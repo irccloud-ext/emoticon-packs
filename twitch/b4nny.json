@@ -1,1 +1,47 @@
-{"name":"twitch-sub-b4nny","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"banny4G","image_id":29852},{"match":"bannyCat","image_id":29849},{"match":"bannyFat","image_id":107365},{"match":"bannyDeep","image_id":70097},{"match":"bannyLater","image_id":67893},{"match":"bannyMouse","image_id":76333},{"match":"bannyHate","image_id":107366},{"match":"bannyP","image_id":95254},{"match":"bannyBrain","image_id":92099},{"match":"bannyChamp","image_id":96867}]}
+{
+  "name": "twitch-sub-b4nny",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "banny4G",
+      "image_id": 29852
+    },
+    {
+      "match": "bannyCat",
+      "image_id": 29849
+    },
+    {
+      "match": "bannyFat",
+      "image_id": 107365
+    },
+    {
+      "match": "bannyDeep",
+      "image_id": 70097
+    },
+    {
+      "match": "bannyLater",
+      "image_id": 67893
+    },
+    {
+      "match": "bannyMouse",
+      "image_id": 76333
+    },
+    {
+      "match": "bannyHate",
+      "image_id": 107366
+    },
+    {
+      "match": "bannyP",
+      "image_id": 95254
+    },
+    {
+      "match": "bannyBrain",
+      "image_id": 92099
+    },
+    {
+      "match": "bannyChamp",
+      "image_id": 96867
+    }
+  ]
+}

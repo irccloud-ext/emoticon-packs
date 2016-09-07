@@ -1,1 +1,31 @@
-{"name":"twitch-sub-megaking1337","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"minus25Fp","image_id":25272},{"match":"minus25Rage","image_id":25283},{"match":"minus25Ez","image_id":27517},{"match":"minus25Team","image_id":27518},{"match":"minus25N","image_id":78844},{"match":"minus25K","image_id":78842}]}
+{
+  "name": "twitch-sub-megaking1337",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "minus25Fp",
+      "image_id": 25272
+    },
+    {
+      "match": "minus25Rage",
+      "image_id": 25283
+    },
+    {
+      "match": "minus25Ez",
+      "image_id": 27517
+    },
+    {
+      "match": "minus25Team",
+      "image_id": 27518
+    },
+    {
+      "match": "minus25N",
+      "image_id": 78844
+    },
+    {
+      "match": "minus25K",
+      "image_id": 78842
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"name":"twitch-sub-rogerbrown","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rogiGreek","image_id":82390},{"match":"rogiLove","image_id":82388},{"match":"rogiCheers","image_id":101673}]}
+{
+  "name": "twitch-sub-rogerbrown",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rogiGreek",
+      "image_id": 82390
+    },
+    {
+      "match": "rogiLove",
+      "image_id": 82388
+    },
+    {
+      "match": "rogiCheers",
+      "image_id": 101673
+    }
+  ]
+}

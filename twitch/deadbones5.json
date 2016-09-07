@@ -1,1 +1,27 @@
-{"name":"twitch-sub-deadbones5","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dboneMute","image_id":28331},{"match":"dboneHoi","image_id":72411},{"match":"dboneGG","image_id":66757},{"match":"dboneColin","image_id":66731},{"match":"dboneDrink","image_id":66732}]}
+{
+  "name": "twitch-sub-deadbones5",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dboneMute",
+      "image_id": 28331
+    },
+    {
+      "match": "dboneHoi",
+      "image_id": 72411
+    },
+    {
+      "match": "dboneGG",
+      "image_id": 66757
+    },
+    {
+      "match": "dboneColin",
+      "image_id": 66731
+    },
+    {
+      "match": "dboneDrink",
+      "image_id": 66732
+    }
+  ]
+}

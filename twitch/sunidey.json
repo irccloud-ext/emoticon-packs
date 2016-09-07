@@ -1,1 +1,39 @@
-{"name":"twitch-sub-sunidey","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"suniLove","image_id":58902},{"match":"suniHello","image_id":58901},{"match":"suniRIP","image_id":58917},{"match":"suniHype","image_id":58916},{"match":"suniFraud","image_id":77133},{"match":"suniD","image_id":77135},{"match":"suniGasm","image_id":78621},{"match":"suniPika","image_id":99603}]}
+{
+  "name": "twitch-sub-sunidey",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "suniLove",
+      "image_id": 58902
+    },
+    {
+      "match": "suniHello",
+      "image_id": 58901
+    },
+    {
+      "match": "suniRIP",
+      "image_id": 58917
+    },
+    {
+      "match": "suniHype",
+      "image_id": 58916
+    },
+    {
+      "match": "suniFraud",
+      "image_id": 77133
+    },
+    {
+      "match": "suniD",
+      "image_id": 77135
+    },
+    {
+      "match": "suniGasm",
+      "image_id": 78621
+    },
+    {
+      "match": "suniPika",
+      "image_id": 99603
+    }
+  ]
+}

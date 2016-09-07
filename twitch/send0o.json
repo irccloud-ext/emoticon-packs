@@ -1,1 +1,19 @@
-{"name":"twitch-sub-send0o","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sendoCalmarno","image_id":94202},{"match":"sendoThug","image_id":98189},{"match":"sendoG2WIN","image_id":94197}]}
+{
+  "name": "twitch-sub-send0o",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sendoCalmarno",
+      "image_id": 94202
+    },
+    {
+      "match": "sendoThug",
+      "image_id": 98189
+    },
+    {
+      "match": "sendoG2WIN",
+      "image_id": 94197
+    }
+  ]
+}

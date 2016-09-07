@@ -1,1 +1,31 @@
-{"name":"twitch-sub-xmissskillz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bkaeD","image_id":91449},{"match":"bkaeSUB","image_id":91460},{"match":"bkaeGasm","image_id":91448},{"match":"bkaeLove","image_id":91447},{"match":"bkaeSquad","image_id":57226},{"match":"bkaeWhale","image_id":54313}]}
+{
+  "name": "twitch-sub-xmissskillz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bkaeD",
+      "image_id": 91449
+    },
+    {
+      "match": "bkaeSUB",
+      "image_id": 91460
+    },
+    {
+      "match": "bkaeGasm",
+      "image_id": 91448
+    },
+    {
+      "match": "bkaeLove",
+      "image_id": 91447
+    },
+    {
+      "match": "bkaeSquad",
+      "image_id": 57226
+    },
+    {
+      "match": "bkaeWhale",
+      "image_id": 54313
+    }
+  ]
+}

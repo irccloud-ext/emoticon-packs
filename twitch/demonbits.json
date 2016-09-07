@@ -1,1 +1,23 @@
-{"name":"twitch-sub-demonbits","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"k404Cochi","image_id":62588},{"match":"k404Bthump","image_id":67899},{"match":"k404Kill","image_id":66979},{"match":"k404Rata","image_id":75234}]}
+{
+  "name": "twitch-sub-demonbits",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "k404Cochi",
+      "image_id": 62588
+    },
+    {
+      "match": "k404Bthump",
+      "image_id": 67899
+    },
+    {
+      "match": "k404Kill",
+      "image_id": 66979
+    },
+    {
+      "match": "k404Rata",
+      "image_id": 75234
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-lumptv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lumpChair","image_id":84650},{"match":"lumpThumbsUp","image_id":84649},{"match":"lumpFail","image_id":80076},{"match":"lumpPanWaff","image_id":81880},{"match":"lumpBBird","image_id":81881},{"match":"lumpRage","image_id":81879},{"match":"lumpBigDog","image_id":91189},{"match":"lumpAri","image_id":95305}]}
+{
+  "name": "twitch-sub-lumptv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lumpChair",
+      "image_id": 84650
+    },
+    {
+      "match": "lumpThumbsUp",
+      "image_id": 84649
+    },
+    {
+      "match": "lumpFail",
+      "image_id": 80076
+    },
+    {
+      "match": "lumpPanWaff",
+      "image_id": 81880
+    },
+    {
+      "match": "lumpBBird",
+      "image_id": 81881
+    },
+    {
+      "match": "lumpRage",
+      "image_id": 81879
+    },
+    {
+      "match": "lumpBigDog",
+      "image_id": 91189
+    },
+    {
+      "match": "lumpAri",
+      "image_id": 95305
+    }
+  ]
+}

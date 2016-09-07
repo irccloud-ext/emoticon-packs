@@ -1,1 +1,39 @@
-{"name":"twitch-sub-kbmod","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kbmodAYY","image_id":38819},{"match":"kbmodNF3N","image_id":86802},{"match":"kbmodAPL","image_id":86812},{"match":"kbmodTimHole","image_id":86811},{"match":"kbmodNIKON","image_id":86805},{"match":"kbmodGunnarBob","image_id":86804},{"match":"kbmodHEX","image_id":86799},{"match":"kbmodGrampappy","image_id":86795}]}
+{
+  "name": "twitch-sub-kbmod",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kbmodAYY",
+      "image_id": 38819
+    },
+    {
+      "match": "kbmodNF3N",
+      "image_id": 86802
+    },
+    {
+      "match": "kbmodAPL",
+      "image_id": 86812
+    },
+    {
+      "match": "kbmodTimHole",
+      "image_id": 86811
+    },
+    {
+      "match": "kbmodNIKON",
+      "image_id": 86805
+    },
+    {
+      "match": "kbmodGunnarBob",
+      "image_id": 86804
+    },
+    {
+      "match": "kbmodHEX",
+      "image_id": 86799
+    },
+    {
+      "match": "kbmodGrampappy",
+      "image_id": 86795
+    }
+  ]
+}

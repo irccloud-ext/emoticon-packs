@@ -1,1 +1,31 @@
-{"name":"twitch-sub-esportmaniacos","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"espSalt","image_id":70878},{"match":"espEstudiao","image_id":70872},{"match":"espYustada","image_id":69748},{"match":"espMaria","image_id":75482},{"match":"espExplosivo","image_id":81395},{"match":"espMotito","image_id":100838}]}
+{
+  "name": "twitch-sub-esportmaniacos",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "espSalt",
+      "image_id": 70878
+    },
+    {
+      "match": "espEstudiao",
+      "image_id": 70872
+    },
+    {
+      "match": "espYustada",
+      "image_id": 69748
+    },
+    {
+      "match": "espMaria",
+      "image_id": 75482
+    },
+    {
+      "match": "espExplosivo",
+      "image_id": 81395
+    },
+    {
+      "match": "espMotito",
+      "image_id": 100838
+    }
+  ]
+}

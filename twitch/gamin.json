@@ -1,1 +1,23 @@
-{"name":"twitch-sub-gamin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gamin102401","image_id":59670},{"match":"gamin062301","image_id":59669},{"match":"gamin062302","image_id":62395},{"match":"gamin87","image_id":62396}]}
+{
+  "name": "twitch-sub-gamin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gamin102401",
+      "image_id": 59670
+    },
+    {
+      "match": "gamin062301",
+      "image_id": 59669
+    },
+    {
+      "match": "gamin062302",
+      "image_id": 62395
+    },
+    {
+      "match": "gamin87",
+      "image_id": 62396
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-warhuryeah","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"warhurCat","image_id":45568},{"match":"warhurLads","image_id":75844},{"match":"warhurFace","image_id":91098},{"match":"warhurPipe","image_id":94514}]}
+{
+  "name": "twitch-sub-warhuryeah",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "warhurCat",
+      "image_id": 45568
+    },
+    {
+      "match": "warhurLads",
+      "image_id": 75844
+    },
+    {
+      "match": "warhurFace",
+      "image_id": 91098
+    },
+    {
+      "match": "warhurPipe",
+      "image_id": 94514
+    }
+  ]
+}

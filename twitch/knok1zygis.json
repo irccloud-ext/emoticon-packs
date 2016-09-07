@@ -1,1 +1,39 @@
-{"name":"twitch-sub-knok1zygis","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"knokPa","image_id":88885},{"match":"knokXD","image_id":88886},{"match":"knokHi","image_id":89885},{"match":"knokHype","image_id":89884},{"match":"knokNever","image_id":90907},{"match":"knokLucky","image_id":90906},{"match":"knokBronze","image_id":88888},{"match":"knokHelm","image_id":88887}]}
+{
+  "name": "twitch-sub-knok1zygis",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "knokPa",
+      "image_id": 88885
+    },
+    {
+      "match": "knokXD",
+      "image_id": 88886
+    },
+    {
+      "match": "knokHi",
+      "image_id": 89885
+    },
+    {
+      "match": "knokHype",
+      "image_id": 89884
+    },
+    {
+      "match": "knokNever",
+      "image_id": 90907
+    },
+    {
+      "match": "knokLucky",
+      "image_id": 90906
+    },
+    {
+      "match": "knokBronze",
+      "image_id": 88888
+    },
+    {
+      "match": "knokHelm",
+      "image_id": 88887
+    }
+  ]
+}

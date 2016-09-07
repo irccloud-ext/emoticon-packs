@@ -1,1 +1,23 @@
-{"name":"twitch-sub-asmoogl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"asmooglHype","image_id":107292},{"match":"asmooglWow","image_id":107293},{"match":"asmooglGG","image_id":100006},{"match":"asmooglMaus","image_id":100007}]}
+{
+  "name": "twitch-sub-asmoogl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "asmooglHype",
+      "image_id": 107292
+    },
+    {
+      "match": "asmooglWow",
+      "image_id": 107293
+    },
+    {
+      "match": "asmooglGG",
+      "image_id": 100006
+    },
+    {
+      "match": "asmooglMaus",
+      "image_id": 100007
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-headshinsky","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kopfHeadshot","image_id":96367},{"match":"kopf3AWP","image_id":96683}]}
+{
+  "name": "twitch-sub-headshinsky",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kopfHeadshot",
+      "image_id": 96367
+    },
+    {
+      "match": "kopf3AWP",
+      "image_id": 96683
+    }
+  ]
+}

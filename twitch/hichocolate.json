@@ -1,1 +1,31 @@
-{"name":"twitch-sub-hichocolate","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hihiEat","image_id":34330},{"match":"hihiBad","image_id":34468},{"match":"hihiCry","image_id":38214},{"match":"hihiWow","image_id":38215},{"match":"hihiQq","image_id":105246},{"match":"hihiDd","image_id":105245}]}
+{
+  "name": "twitch-sub-hichocolate",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hihiEat",
+      "image_id": 34330
+    },
+    {
+      "match": "hihiBad",
+      "image_id": 34468
+    },
+    {
+      "match": "hihiCry",
+      "image_id": 38214
+    },
+    {
+      "match": "hihiWow",
+      "image_id": 38215
+    },
+    {
+      "match": "hihiQq",
+      "image_id": 105246
+    },
+    {
+      "match": "hihiDd",
+      "image_id": 105245
+    }
+  ]
+}

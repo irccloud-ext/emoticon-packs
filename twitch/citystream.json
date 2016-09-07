@@ -1,1 +1,23 @@
-{"name":"twitch-sub-citystream","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cityRAVE","image_id":81043},{"match":"cityMORTIMER","image_id":80520},{"match":"cityBEEP","image_id":78929},{"match":"cityMOON","image_id":81042}]}
+{
+  "name": "twitch-sub-citystream",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cityRAVE",
+      "image_id": 81043
+    },
+    {
+      "match": "cityMORTIMER",
+      "image_id": 80520
+    },
+    {
+      "match": "cityBEEP",
+      "image_id": 78929
+    },
+    {
+      "match": "cityMOON",
+      "image_id": 81042
+    }
+  ]
+}

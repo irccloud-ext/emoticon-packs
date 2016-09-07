@@ -1,1 +1,27 @@
-{"name":"twitch-sub-tr0ublmak3r","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"trubzGasm","image_id":20775},{"match":"trubzPown","image_id":19585},{"match":"trubzHippo","image_id":20340},{"match":"trubzDrunk","image_id":22141},{"match":"trubzHappy","image_id":21972}]}
+{
+  "name": "twitch-sub-tr0ublmak3r",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "trubzGasm",
+      "image_id": 20775
+    },
+    {
+      "match": "trubzPown",
+      "image_id": 19585
+    },
+    {
+      "match": "trubzHippo",
+      "image_id": 20340
+    },
+    {
+      "match": "trubzDrunk",
+      "image_id": 22141
+    },
+    {
+      "match": "trubzHappy",
+      "image_id": 21972
+    }
+  ]
+}

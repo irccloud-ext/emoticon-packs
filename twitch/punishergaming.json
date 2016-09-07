@@ -1,1 +1,39 @@
-{"name":"twitch-sub-punishergaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"karthusPAUL","image_id":41415},{"match":"karthusNUKE","image_id":41448},{"match":"karthusLOVE","image_id":41500},{"match":"karthusCATCH","image_id":41490},{"match":"karthusBEER","image_id":41534},{"match":"karthusCHADD","image_id":44249},{"match":"karthusLUCK","image_id":44248},{"match":"karthusPUNISHER","image_id":44971}]}
+{
+  "name": "twitch-sub-punishergaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "karthusPAUL",
+      "image_id": 41415
+    },
+    {
+      "match": "karthusNUKE",
+      "image_id": 41448
+    },
+    {
+      "match": "karthusLOVE",
+      "image_id": 41500
+    },
+    {
+      "match": "karthusCATCH",
+      "image_id": 41490
+    },
+    {
+      "match": "karthusBEER",
+      "image_id": 41534
+    },
+    {
+      "match": "karthusCHADD",
+      "image_id": 44249
+    },
+    {
+      "match": "karthusLUCK",
+      "image_id": 44248
+    },
+    {
+      "match": "karthusPUNISHER",
+      "image_id": 44971
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"twitch-sub-machinegunkayla","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mgkKek","image_id":111218},{"match":"mgkLove","image_id":50517},{"match":"mgkSavage","image_id":50553},{"match":"mgkSalt","image_id":50552},{"match":"mgkRip","image_id":50516},{"match":"mgkRage","image_id":50515},{"match":"mgkDF","image_id":110185},{"match":"mgkHype","image_id":97021}]}
+{
+  "name": "twitch-sub-machinegunkayla",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mgkKek",
+      "image_id": 111218
+    },
+    {
+      "match": "mgkSavage",
+      "image_id": 50553
+    },
+    {
+      "match": "mgkSalt",
+      "image_id": 50552
+    },
+    {
+      "match": "mgkRip",
+      "image_id": 50516
+    },
+    {
+      "match": "mgkRage",
+      "image_id": 50515
+    },
+    {
+      "match": "mgkDF",
+      "image_id": 110185
+    },
+    {
+      "match": "mgkHype",
+      "image_id": 97021
+    }
+  ]
+}

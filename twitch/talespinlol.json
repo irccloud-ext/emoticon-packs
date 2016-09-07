@@ -1,1 +1,19 @@
-{"name":"twitch-sub-talespinlol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hellaScum","image_id":45911},{"match":"hellaHam","image_id":45907},{"match":"hellaNA","image_id":107223}]}
+{
+  "name": "twitch-sub-talespinlol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hellaScum",
+      "image_id": 45911
+    },
+    {
+      "match": "hellaHam",
+      "image_id": 45907
+    },
+    {
+      "match": "hellaNA",
+      "image_id": 107223
+    }
+  ]
+}

@@ -1,1 +1,11 @@
-{"name":"twitch-sub-mye_bipod_4shor","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bipodChamp","image_id":110265}]}
+{
+  "name": "twitch-sub-mye_bipod_4shor",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bipodChamp",
+      "image_id": 110265
+    }
+  ]
+}

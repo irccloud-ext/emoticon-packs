@@ -1,1 +1,47 @@
-{"name":"twitch-sub-zoodatv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zoodaVAC","image_id":57073},{"match":"zoodaREKT","image_id":21795},{"match":"zoodaRAGE","image_id":21794},{"match":"zoodaHF","image_id":28433},{"match":"zoodaFAIL","image_id":32072},{"match":"zoodaCRY","image_id":31359},{"match":"zoodaEP","image_id":42128},{"match":"zoodaBjorn","image_id":49647},{"match":"zoodaKappa","image_id":57337},{"match":"zoodaRIP","image_id":57072}]}
+{
+  "name": "twitch-sub-zoodatv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zoodaVAC",
+      "image_id": 57073
+    },
+    {
+      "match": "zoodaREKT",
+      "image_id": 21795
+    },
+    {
+      "match": "zoodaRAGE",
+      "image_id": 21794
+    },
+    {
+      "match": "zoodaHF",
+      "image_id": 28433
+    },
+    {
+      "match": "zoodaFAIL",
+      "image_id": 32072
+    },
+    {
+      "match": "zoodaCRY",
+      "image_id": 31359
+    },
+    {
+      "match": "zoodaEP",
+      "image_id": 42128
+    },
+    {
+      "match": "zoodaBjorn",
+      "image_id": 49647
+    },
+    {
+      "match": "zoodaKappa",
+      "image_id": 57337
+    },
+    {
+      "match": "zoodaRIP",
+      "image_id": 57072
+    }
+  ]
+}

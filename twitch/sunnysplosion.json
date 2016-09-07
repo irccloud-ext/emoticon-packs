@@ -1,1 +1,47 @@
-{"name":"twitch-sub-sunnysplosion","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"splodeHeart","image_id":58990},{"match":"splodeSpook","image_id":58988},{"match":"splodeSun","image_id":58416},{"match":"splodeChin","image_id":58415},{"match":"splodeD","image_id":72080},{"match":"splodePum","image_id":70405},{"match":"splodeDead","image_id":70406},{"match":"splodeGrump","image_id":82631},{"match":"splodeWut","image_id":82632},{"match":"splodeGasm","image_id":87589}]}
+{
+  "name": "twitch-sub-sunnysplosion",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "splodeHeart",
+      "image_id": 58990
+    },
+    {
+      "match": "splodeSpook",
+      "image_id": 58988
+    },
+    {
+      "match": "splodeSun",
+      "image_id": 58416
+    },
+    {
+      "match": "splodeChin",
+      "image_id": 58415
+    },
+    {
+      "match": "splodeD",
+      "image_id": 72080
+    },
+    {
+      "match": "splodePum",
+      "image_id": 70405
+    },
+    {
+      "match": "splodeDead",
+      "image_id": 70406
+    },
+    {
+      "match": "splodeGrump",
+      "image_id": 82631
+    },
+    {
+      "match": "splodeWut",
+      "image_id": 82632
+    },
+    {
+      "match": "splodeGasm",
+      "image_id": 87589
+    }
+  ]
+}

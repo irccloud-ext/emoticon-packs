@@ -1,1 +1,23 @@
-{"name":"twitch-sub-zerinagaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zerHat","image_id":103268},{"match":"zerW","image_id":52178},{"match":"zerThump","image_id":54587},{"match":"zerRip","image_id":54588}]}
+{
+  "name": "twitch-sub-zerinagaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zerHat",
+      "image_id": 103268
+    },
+    {
+      "match": "zerW",
+      "image_id": 52178
+    },
+    {
+      "match": "zerThump",
+      "image_id": 54587
+    },
+    {
+      "match": "zerRip",
+      "image_id": 54588
+    }
+  ]
+}

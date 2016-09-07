@@ -1,1 +1,39 @@
-{"name":"twitch-sub-rabbitbong","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"thatKawaii","image_id":7191},{"match":"thatLOL","image_id":18012},{"match":"thatYoni","image_id":104850},{"match":"thatRIP","image_id":104848},{"match":"thatPLS","image_id":94406},{"match":"thatGasm","image_id":104798},{"match":"thatThirst","image_id":105370},{"match":"thatWTF","image_id":105365}]}
+{
+  "name": "twitch-sub-rabbitbong",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "thatKawaii",
+      "image_id": 7191
+    },
+    {
+      "match": "thatLOL",
+      "image_id": 18012
+    },
+    {
+      "match": "thatYoni",
+      "image_id": 104850
+    },
+    {
+      "match": "thatRIP",
+      "image_id": 104848
+    },
+    {
+      "match": "thatPLS",
+      "image_id": 94406
+    },
+    {
+      "match": "thatGasm",
+      "image_id": 104798
+    },
+    {
+      "match": "thatThirst",
+      "image_id": 105370
+    },
+    {
+      "match": "thatWTF",
+      "image_id": 105365
+    }
+  ]
+}

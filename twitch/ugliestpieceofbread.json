@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ugliestpieceofbread","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"breddyCONFUSED","image_id":59342},{"match":"breddyANGRY","image_id":59530},{"match":"breddyLOVE","image_id":60468},{"match":"breddyARNOLD","image_id":60467},{"match":"breddyHI","image_id":59344},{"match":"breddySAD","image_id":59343}]}
+{
+  "name": "twitch-sub-ugliestpieceofbread",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "breddyCONFUSED",
+      "image_id": 59342
+    },
+    {
+      "match": "breddyANGRY",
+      "image_id": 59530
+    },
+    {
+      "match": "breddyLOVE",
+      "image_id": 60468
+    },
+    {
+      "match": "breddyARNOLD",
+      "image_id": 60467
+    },
+    {
+      "match": "breddyHI",
+      "image_id": 59344
+    },
+    {
+      "match": "breddySAD",
+      "image_id": 59343
+    }
+  ]
+}

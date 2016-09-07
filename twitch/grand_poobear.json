@@ -1,1 +1,39 @@
-{"name":"twitch-sub-grand_poobear","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pooMeh","image_id":109426},{"match":"pooBlock","image_id":75565},{"match":"pooYatta","image_id":75567},{"match":"pooGasm","image_id":76576},{"match":"pooGress","image_id":80163},{"match":"pooFail","image_id":75877},{"match":"pooRain","image_id":83359},{"match":"poo3","image_id":96120},{"match":"poo2","image_id":96121},{"match":"poo1","image_id":96122}]}
+{
+  "name": "twitch-sub-grand_poobear",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pooBlock",
+      "image_id": 75565
+    },
+    {
+      "match": "pooYatta",
+      "image_id": 75567
+    },
+    {
+      "match": "pooGasm",
+      "image_id": 76576
+    },
+    {
+      "match": "pooFail",
+      "image_id": 75877
+    },
+    {
+      "match": "pooRain",
+      "image_id": 83359
+    },
+    {
+      "match": "poo3",
+      "image_id": 96120
+    },
+    {
+      "match": "poo2",
+      "image_id": 96121
+    },
+    {
+      "match": "poo1",
+      "image_id": 96122
+    }
+  ]
+}

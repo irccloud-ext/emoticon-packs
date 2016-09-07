@@ -1,1 +1,19 @@
-{"name":"twitch-sub-kapigameplay","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kapiGG","image_id":30032},{"match":"kapiKAPPA","image_id":30031},{"match":"kapiRAGE","image_id":32355}]}
+{
+  "name": "twitch-sub-kapigameplay",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kapiGG",
+      "image_id": 30032
+    },
+    {
+      "match": "kapiKAPPA",
+      "image_id": 30031
+    },
+    {
+      "match": "kapiRAGE",
+      "image_id": 32355
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"twitch-sub-angel20739","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"c2c2Z","image_id":71210},{"match":"c2c2GG","image_id":70698},{"match":"c2c2LOVE","image_id":70699},{"match":"c2c2CARRYYY","image_id":69654},{"match":"c2c287","image_id":71209},{"match":"c2c2CAT","image_id":85667},{"match":"c2c2F","image_id":85773}]}
+{
+  "name": "twitch-sub-angel20739",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "c2c2Z",
+      "image_id": 71210
+    },
+    {
+      "match": "c2c2GG",
+      "image_id": 70698
+    },
+    {
+      "match": "c2c2LOVE",
+      "image_id": 70699
+    },
+    {
+      "match": "c2c2CARRYYY",
+      "image_id": 69654
+    },
+    {
+      "match": "c2c287",
+      "image_id": 71209
+    },
+    {
+      "match": "c2c2CAT",
+      "image_id": 85667
+    },
+    {
+      "match": "c2c2F",
+      "image_id": 85773
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-babayetu_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yetuFish","image_id":51621},{"match":"yetuScrap","image_id":58974},{"match":"yetuLobby","image_id":67135},{"match":"yetuSub","image_id":49223},{"match":"yetuPult","image_id":55426},{"match":"yetuPetra","image_id":50391},{"match":"yetuPolder","image_id":57627},{"match":"yetuZ","image_id":90189}]}
+{
+  "name": "twitch-sub-babayetu_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yetuFish",
+      "image_id": 51621
+    },
+    {
+      "match": "yetuScrap",
+      "image_id": 58974
+    },
+    {
+      "match": "yetuLobby",
+      "image_id": 67135
+    },
+    {
+      "match": "yetuSub",
+      "image_id": 49223
+    },
+    {
+      "match": "yetuPult",
+      "image_id": 55426
+    },
+    {
+      "match": "yetuPetra",
+      "image_id": 50391
+    },
+    {
+      "match": "yetuPolder",
+      "image_id": 57627
+    },
+    {
+      "match": "yetuZ",
+      "image_id": 90189
+    }
+  ]
+}

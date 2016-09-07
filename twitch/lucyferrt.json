@@ -1,1 +1,23 @@
-{"name":"twitch-sub-lucyferrt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mundoDinHuang","image_id":5582},{"match":"mundoVMundo","image_id":5581},{"match":"mundoUCCU","image_id":6245},{"match":"mundoGirl","image_id":6498}]}
+{
+  "name": "twitch-sub-lucyferrt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mundoDinHuang",
+      "image_id": 5582
+    },
+    {
+      "match": "mundoVMundo",
+      "image_id": 5581
+    },
+    {
+      "match": "mundoUCCU",
+      "image_id": 6245
+    },
+    {
+      "match": "mundoGirl",
+      "image_id": 6498
+    }
+  ]
+}

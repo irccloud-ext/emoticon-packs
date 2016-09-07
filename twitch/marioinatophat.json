@@ -1,1 +1,27 @@
-{"name":"twitch-sub-marioinatophat","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mariaBust","image_id":110397},{"match":"mariaPup","image_id":109960},{"match":"mariaFill","image_id":109961},{"match":"mariaTon","image_id":110449}]}
+{
+  "name": "twitch-sub-marioinatophat",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mariaBust",
+      "image_id": 110397
+    },
+    {
+      "match": "mariaPup",
+      "image_id": 109960
+    },
+    {
+      "match": "mariaFill",
+      "image_id": 109961
+    },
+    {
+      "match": "mariaTon",
+      "image_id": 110449
+    },
+    {
+      "match": "mariaPew",
+      "image_id": 112373
+    }
+  ]
+}

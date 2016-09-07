@@ -1,1 +1,47 @@
-{"name":"twitch-sub-execcs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"execR","image_id":13358},{"match":"execDogro","image_id":5996},{"match":"execBdrop","image_id":6059},{"match":"execSnipe","image_id":6128},{"match":"execSalt","image_id":37593},{"match":"execNinjaP","image_id":38290},{"match":"execC","image_id":38289},{"match":"execB","image_id":38291},{"match":"execChamp","image_id":86672},{"match":"execShady","image_id":86673}]}
+{
+  "name": "twitch-sub-execcs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "execR",
+      "image_id": 13358
+    },
+    {
+      "match": "execDogro",
+      "image_id": 5996
+    },
+    {
+      "match": "execBdrop",
+      "image_id": 6059
+    },
+    {
+      "match": "execSnipe",
+      "image_id": 6128
+    },
+    {
+      "match": "execSalt",
+      "image_id": 37593
+    },
+    {
+      "match": "execNinjaP",
+      "image_id": 38290
+    },
+    {
+      "match": "execC",
+      "image_id": 38289
+    },
+    {
+      "match": "execB",
+      "image_id": 38291
+    },
+    {
+      "match": "execChamp",
+      "image_id": 86672
+    },
+    {
+      "match": "execShady",
+      "image_id": 86673
+    }
+  ]
+}

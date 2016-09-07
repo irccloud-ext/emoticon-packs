@@ -1,1 +1,31 @@
-{"name":"twitch-sub-qwsxzaq1117","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"liontw87","image_id":104967},{"match":"liontwNo1","image_id":104904},{"match":"liontwNamo","image_id":103918},{"match":"liontw666","image_id":105448},{"match":"liontwAngry","image_id":106422},{"match":"liontwLove","image_id":105449}]}
+{
+  "name": "twitch-sub-qwsxzaq1117",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "liontw87",
+      "image_id": 104967
+    },
+    {
+      "match": "liontwNo1",
+      "image_id": 104904
+    },
+    {
+      "match": "liontwNamo",
+      "image_id": 103918
+    },
+    {
+      "match": "liontw666",
+      "image_id": 105448
+    },
+    {
+      "match": "liontwAngry",
+      "image_id": 106422
+    },
+    {
+      "match": "liontwLove",
+      "image_id": 105449
+    }
+  ]
+}

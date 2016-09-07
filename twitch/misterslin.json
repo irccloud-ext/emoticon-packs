@@ -1,1 +1,111 @@
-{"name":"twitch-sub-misterslin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"slinFace","image_id":16765},{"match":"slinW","image_id":89021},{"match":"slinSoCheesy","image_id":89022},{"match":"slinRIP","image_id":7988},{"match":"slinG","image_id":34392},{"match":"slinDab","image_id":104687},{"match":"slinLUL","image_id":104688},{"match":"slinH","image_id":103186},{"match":"slinP","image_id":68204},{"match":"slinHey","image_id":68205},{"match":"slinY","image_id":59984},{"match":"slinDrop","image_id":59993},{"match":"slinN","image_id":60000},{"match":"slinO","image_id":60169},{"match":"slinV","image_id":68299},{"match":"slinS","image_id":68229},{"match":"slinKy","image_id":79383},{"match":"slinEZ","image_id":83777},{"match":"slinXD","image_id":86201},{"match":"slinVite","image_id":16748},{"match":"slinTalk","image_id":90065},{"match":"slinDog","image_id":86150},{"match":"slinP1","image_id":100801},{"match":"slinP2","image_id":100802},{"match":"slinP3","image_id":100803},{"match":"slinP4","image_id":100804}]}
+{
+  "name": "twitch-sub-misterslin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "slinFace",
+      "image_id": 16765
+    },
+    {
+      "match": "slinW",
+      "image_id": 89021
+    },
+    {
+      "match": "slinSoCheesy",
+      "image_id": 89022
+    },
+    {
+      "match": "slinRIP",
+      "image_id": 7988
+    },
+    {
+      "match": "slinG",
+      "image_id": 34392
+    },
+    {
+      "match": "slinDab",
+      "image_id": 104687
+    },
+    {
+      "match": "slinLUL",
+      "image_id": 104688
+    },
+    {
+      "match": "slinH",
+      "image_id": 103186
+    },
+    {
+      "match": "slinP",
+      "image_id": 68204
+    },
+    {
+      "match": "slinHey",
+      "image_id": 68205
+    },
+    {
+      "match": "slinY",
+      "image_id": 59984
+    },
+    {
+      "match": "slinDrop",
+      "image_id": 59993
+    },
+    {
+      "match": "slinN",
+      "image_id": 60000
+    },
+    {
+      "match": "slinO",
+      "image_id": 60169
+    },
+    {
+      "match": "slinV",
+      "image_id": 68299
+    },
+    {
+      "match": "slinS",
+      "image_id": 68229
+    },
+    {
+      "match": "slinKy",
+      "image_id": 79383
+    },
+    {
+      "match": "slinEZ",
+      "image_id": 83777
+    },
+    {
+      "match": "slinXD",
+      "image_id": 86201
+    },
+    {
+      "match": "slinVite",
+      "image_id": 16748
+    },
+    {
+      "match": "slinTalk",
+      "image_id": 90065
+    },
+    {
+      "match": "slinDog",
+      "image_id": 86150
+    },
+    {
+      "match": "slinP1",
+      "image_id": 100801
+    },
+    {
+      "match": "slinP2",
+      "image_id": 100802
+    },
+    {
+      "match": "slinP3",
+      "image_id": 100803
+    },
+    {
+      "match": "slinP4",
+      "image_id": 100804
+    }
+  ]
+}

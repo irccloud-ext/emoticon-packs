@@ -1,1 +1,23 @@
-{"name":"twitch-sub-7sealassen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"assenHEHE","image_id":52108},{"match":"assenRUN","image_id":52071},{"match":"assenMei","image_id":73527},{"match":"assenIN","image_id":73526}]}
+{
+  "name": "twitch-sub-7sealassen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "assenHEHE",
+      "image_id": 52108
+    },
+    {
+      "match": "assenRUN",
+      "image_id": 52071
+    },
+    {
+      "match": "assenMei",
+      "image_id": 73527
+    },
+    {
+      "match": "assenIN",
+      "image_id": 73526
+    }
+  ]
+}

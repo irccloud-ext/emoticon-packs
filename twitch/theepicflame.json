@@ -1,1 +1,31 @@
-{"name":"twitch-sub-theepicflame","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tefStar","image_id":18474},{"match":"tefHeart","image_id":18737},{"match":"tefChibi","image_id":18742},{"match":"tefRage","image_id":20915},{"match":"tefSad","image_id":20274},{"match":"tefLewd","image_id":33339}]}
+{
+  "name": "twitch-sub-theepicflame",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tefStar",
+      "image_id": 18474
+    },
+    {
+      "match": "tefHeart",
+      "image_id": 18737
+    },
+    {
+      "match": "tefChibi",
+      "image_id": 18742
+    },
+    {
+      "match": "tefRage",
+      "image_id": 20915
+    },
+    {
+      "match": "tefSad",
+      "image_id": 20274
+    },
+    {
+      "match": "tefLewd",
+      "image_id": 33339
+    }
+  ]
+}

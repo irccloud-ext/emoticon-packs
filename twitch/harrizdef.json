@@ -1,1 +1,27 @@
-{"name":"twitch-sub-harrizdef","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"noodlesSee","image_id":5987},{"match":"noodlesFace","image_id":5999},{"match":"noodlesSinged","image_id":7798},{"match":"noodlesLOVE","image_id":7214},{"match":"noodlesShen","image_id":7299}]}
+{
+  "name": "twitch-sub-harrizdef",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "noodlesSee",
+      "image_id": 5987
+    },
+    {
+      "match": "noodlesFace",
+      "image_id": 5999
+    },
+    {
+      "match": "noodlesSinged",
+      "image_id": 7798
+    },
+    {
+      "match": "noodlesLOVE",
+      "image_id": 7214
+    },
+    {
+      "match": "noodlesShen",
+      "image_id": 7299
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-vitecp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vitUC","image_id":4557},{"match":"vitDrop","image_id":7001},{"match":"vitVit","image_id":6283},{"match":"vitCrab","image_id":6545}]}
+{
+  "name": "twitch-sub-vitecp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vitUC",
+      "image_id": 4557
+    },
+    {
+      "match": "vitDrop",
+      "image_id": 7001
+    },
+    {
+      "match": "vitVit",
+      "image_id": 6283
+    },
+    {
+      "match": "vitCrab",
+      "image_id": 6545
+    }
+  ]
+}

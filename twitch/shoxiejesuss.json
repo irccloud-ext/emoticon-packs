@@ -1,1 +1,27 @@
-{"name":"twitch-sub-shoxiejesuss","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shoxDarkface","image_id":30769},{"match":"shoxLDLC","image_id":30772},{"match":"shoxFenks","image_id":30775},{"match":"shoxJESUS","image_id":30857},{"match":"shoxLod","image_id":30865}]}
+{
+  "name": "twitch-sub-shoxiejesuss",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shoxDarkface",
+      "image_id": 30769
+    },
+    {
+      "match": "shoxLDLC",
+      "image_id": 30772
+    },
+    {
+      "match": "shoxFenks",
+      "image_id": 30775
+    },
+    {
+      "match": "shoxJESUS",
+      "image_id": 30857
+    },
+    {
+      "match": "shoxLod",
+      "image_id": 30865
+    }
+  ]
+}

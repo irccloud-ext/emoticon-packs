@@ -1,1 +1,31 @@
-{"name":"twitch-sub-kiaztv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kiazSUIT","image_id":83121},{"match":"kiazCHAMP","image_id":83240},{"match":"kiazFAIL","image_id":84044},{"match":"kiazCREEPY","image_id":83242},{"match":"kiazRAGE","image_id":95003},{"match":"kiazGASM","image_id":95557}]}
+{
+  "name": "twitch-sub-kiaztv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kiazSUIT",
+      "image_id": 83121
+    },
+    {
+      "match": "kiazCHAMP",
+      "image_id": 83240
+    },
+    {
+      "match": "kiazFAIL",
+      "image_id": 84044
+    },
+    {
+      "match": "kiazCREEPY",
+      "image_id": 83242
+    },
+    {
+      "match": "kiazRAGE",
+      "image_id": 95003
+    },
+    {
+      "match": "kiazGASM",
+      "image_id": 95557
+    }
+  ]
+}

@@ -1,1 +1,11 @@
-{"name":"twitch-sub-shawk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"Anon","image_id":23108}]}
+{
+  "name": "twitch-sub-shawk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "Anon",
+      "image_id": 23108
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-{"name":"twitch-sub-anakiinntv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mertEkmek","image_id":59621},{"match":"mertAs","image_id":111107},{"match":"mertRekt","image_id":111108},{"match":"mertZafer","image_id":111105},{"match":"mertVefat","image_id":110952}]}
+{
+  "name": "twitch-sub-anakiinntv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mertEkmek",
+      "image_id": 59621
+    },
+    {
+      "match": "mertAs",
+      "image_id": 111107
+    },
+    {
+      "match": "mertRekt",
+      "image_id": 111108
+    },
+    {
+      "match": "mertZafer",
+      "image_id": 111105
+    },
+    {
+      "match": "mertVefat",
+      "image_id": 110952
+    }
+  ]
+}

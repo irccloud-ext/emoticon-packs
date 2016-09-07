@@ -1,1 +1,31 @@
-{"name":"twitch-sub-radowity","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"radoByk","image_id":109263},{"match":"radoRage","image_id":109262},{"match":"radoSub","image_id":107266},{"match":"radoAce","image_id":107265},{"match":"radoSiema","image_id":107304},{"match":"radoBoosted","image_id":107303}]}
+{
+  "name": "twitch-sub-radowity",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "radoByk",
+      "image_id": 109263
+    },
+    {
+      "match": "radoRage",
+      "image_id": 109262
+    },
+    {
+      "match": "radoSub",
+      "image_id": 107266
+    },
+    {
+      "match": "radoAce",
+      "image_id": 107265
+    },
+    {
+      "match": "radoSiema",
+      "image_id": 107304
+    },
+    {
+      "match": "radoBoosted",
+      "image_id": 107303
+    }
+  ]
+}

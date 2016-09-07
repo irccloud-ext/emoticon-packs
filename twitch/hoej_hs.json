@@ -1,1 +1,31 @@
-{"name":"twitch-sub-hoej_hs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pidgeyHype","image_id":97516},{"match":"pidgeyW","image_id":97515},{"match":"pidgeyLove","image_id":99409},{"match":"pidgeySMOrc","image_id":99408},{"match":"pidgeyFeelsHoejMan","image_id":100596},{"match":"pidgeyThump","image_id":100597}]}
+{
+  "name": "twitch-sub-hoej_hs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pidgeyHype",
+      "image_id": 97516
+    },
+    {
+      "match": "pidgeyW",
+      "image_id": 97515
+    },
+    {
+      "match": "pidgeyLove",
+      "image_id": 99409
+    },
+    {
+      "match": "pidgeySMOrc",
+      "image_id": 99408
+    },
+    {
+      "match": "pidgeyFeelsHoejMan",
+      "image_id": 100596
+    },
+    {
+      "match": "pidgeyThump",
+      "image_id": 100597
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-shadybunny","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shadyChamp","image_id":16149},{"match":"shadyH","image_id":67998},{"match":"shadyFace","image_id":46099},{"match":"shadyDiggy","image_id":46100},{"match":"shadyW","image_id":46101},{"match":"shadyHey","image_id":57563},{"match":"shadyWut","image_id":57564},{"match":"shadyPala","image_id":94584}]}
+{
+  "name": "twitch-sub-shadybunny",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shadyChamp",
+      "image_id": 16149
+    },
+    {
+      "match": "shadyH",
+      "image_id": 67998
+    },
+    {
+      "match": "shadyFace",
+      "image_id": 46099
+    },
+    {
+      "match": "shadyDiggy",
+      "image_id": 46100
+    },
+    {
+      "match": "shadyW",
+      "image_id": 46101
+    },
+    {
+      "match": "shadyHey",
+      "image_id": 57563
+    },
+    {
+      "match": "shadyWut",
+      "image_id": 57564
+    },
+    {
+      "match": "shadyPala",
+      "image_id": 94584
+    }
+  ]
+}

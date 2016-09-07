@@ -1,1 +1,15 @@
-{"name":"twitch-sub-john8497","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nurseRICE","image_id":87301},{"match":"nurseOnepunch","image_id":110477}]}
+{
+  "name": "twitch-sub-john8497",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nurseRICE",
+      "image_id": 87301
+    },
+    {
+      "match": "nurseOnepunch",
+      "image_id": 110477
+    }
+  ]
+}

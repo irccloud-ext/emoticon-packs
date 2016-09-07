@@ -1,1 +1,43 @@
-{"name":"twitch-sub-iwinuloselol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"iwinOmg","image_id":16732},{"match":"iwinLukerZ","image_id":21153},{"match":"iwinPow","image_id":22049},{"match":"iwinMod","image_id":26538},{"match":"iwinInvasion","image_id":39664},{"match":"iwinCactus","image_id":39663},{"match":"iwinSOB","image_id":88360},{"match":"iwinBlood","image_id":57251},{"match":"iwinHip","image_id":59655}]}
+{
+  "name": "twitch-sub-iwinuloselol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "iwinOmg",
+      "image_id": 16732
+    },
+    {
+      "match": "iwinLukerZ",
+      "image_id": 21153
+    },
+    {
+      "match": "iwinPow",
+      "image_id": 22049
+    },
+    {
+      "match": "iwinMod",
+      "image_id": 26538
+    },
+    {
+      "match": "iwinInvasion",
+      "image_id": 39664
+    },
+    {
+      "match": "iwinCactus",
+      "image_id": 39663
+    },
+    {
+      "match": "iwinSOB",
+      "image_id": 88360
+    },
+    {
+      "match": "iwinBlood",
+      "image_id": 57251
+    },
+    {
+      "match": "iwinHip",
+      "image_id": 59655
+    }
+  ]
+}

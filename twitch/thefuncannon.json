@@ -1,1 +1,31 @@
-{"name":"twitch-sub-thefuncannon","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"funSkooma","image_id":49403},{"match":"funQuad","image_id":49557},{"match":"funStrimmah","image_id":48696},{"match":"funHi","image_id":52018},{"match":"funCannon","image_id":52016},{"match":"funWhoops","image_id":52017}]}
+{
+  "name": "twitch-sub-thefuncannon",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "funSkooma",
+      "image_id": 49403
+    },
+    {
+      "match": "funQuad",
+      "image_id": 49557
+    },
+    {
+      "match": "funStrimmah",
+      "image_id": 48696
+    },
+    {
+      "match": "funHi",
+      "image_id": 52018
+    },
+    {
+      "match": "funCannon",
+      "image_id": 52016
+    },
+    {
+      "match": "funWhoops",
+      "image_id": 52017
+    }
+  ]
+}

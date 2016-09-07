@@ -1,1 +1,39 @@
-{"name":"twitch-sub-paydayteamevil","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tseHype","image_id":16808},{"match":"tseLogo","image_id":17039},{"match":"tseWave","image_id":17299},{"match":"tseBomb","image_id":17286},{"match":"tseAlmir","image_id":99605},{"match":"tseFacedesk","image_id":99606},{"match":"tseRIP","image_id":99667},{"match":"tseCuffs","image_id":99668}]}
+{
+  "name": "twitch-sub-paydayteamevil",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tseHype",
+      "image_id": 16808
+    },
+    {
+      "match": "tseLogo",
+      "image_id": 17039
+    },
+    {
+      "match": "tseWave",
+      "image_id": 17299
+    },
+    {
+      "match": "tseBomb",
+      "image_id": 17286
+    },
+    {
+      "match": "tseAlmir",
+      "image_id": 99605
+    },
+    {
+      "match": "tseFacedesk",
+      "image_id": 99606
+    },
+    {
+      "match": "tseRIP",
+      "image_id": 99667
+    },
+    {
+      "match": "tseCuffs",
+      "image_id": 99668
+    }
+  ]
+}

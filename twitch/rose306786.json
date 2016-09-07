@@ -1,1 +1,11 @@
-{"name":"twitch-sub-rose306786","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rosehot01","image_id":25233}]}
+{
+  "name": "twitch-sub-rose306786",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rosehot01",
+      "image_id": 25233
+    }
+  ]
+}

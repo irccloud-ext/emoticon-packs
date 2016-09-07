@@ -1,1 +1,19 @@
-{"name":"twitch-sub-zonafantasmatv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zftvXurulo","image_id":13382},{"match":"zftv8","image_id":13505},{"match":"zftvGio","image_id":60296}]}
+{
+  "name": "twitch-sub-zonafantasmatv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zftvXurulo",
+      "image_id": 13382
+    },
+    {
+      "match": "zftv8",
+      "image_id": 13505
+    },
+    {
+      "match": "zftvGio",
+      "image_id": 60296
+    }
+  ]
+}

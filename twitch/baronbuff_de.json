@@ -1,1 +1,11 @@
-{"name":"twitch-sub-baronbuff_de","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"baronKappaMinke","image_id":7144}]}
+{
+  "name": "twitch-sub-baronbuff_de",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "baronKappaMinke",
+      "image_id": 7144
+    }
+  ]
+}

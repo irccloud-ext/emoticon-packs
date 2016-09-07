@@ -1,1 +1,11 @@
-{"name":"twitch-sub-super_yan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yanBooshka","image_id":82010}]}
+{
+  "name": "twitch-sub-super_yan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yanBooshka",
+      "image_id": 82010
+    }
+  ]
+}

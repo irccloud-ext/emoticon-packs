@@ -1,1 +1,23 @@
-{"name":"twitch-sub-coco_the_louder","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"loudCray","image_id":107840},{"match":"loudYay","image_id":107843},{"match":"loudShh","image_id":107841},{"match":"loudMad","image_id":107839}]}
+{
+  "name": "twitch-sub-coco_the_louder",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "loudCray",
+      "image_id": 107840
+    },
+    {
+      "match": "loudYay",
+      "image_id": 107843
+    },
+    {
+      "match": "loudShh",
+      "image_id": 107841
+    },
+    {
+      "match": "loudMad",
+      "image_id": 107839
+    }
+  ]
+}

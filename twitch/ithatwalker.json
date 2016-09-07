@@ -1,1 +1,11 @@
-{"name":"twitch-sub-ithatwalker","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"walkerGG","image_id":106943}]}
+{
+  "name": "twitch-sub-ithatwalker",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "walkerGG",
+      "image_id": 106943
+    }
+  ]
+}

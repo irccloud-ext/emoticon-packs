@@ -1,1 +1,39 @@
-{"name":"twitch-sub-strictlygrumps","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chaseLeft","image_id":19098},{"match":"chaseRight","image_id":39274},{"match":"chaseO","image_id":39290},{"match":"chasePls","image_id":77347},{"match":"chaseStank","image_id":77330},{"match":"chaseSup","image_id":54006},{"match":"chaseScare","image_id":77341},{"match":"chaseRage","image_id":81032}]}
+{
+  "name": "twitch-sub-strictlygrumps",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chaseLeft",
+      "image_id": 19098
+    },
+    {
+      "match": "chaseRight",
+      "image_id": 39274
+    },
+    {
+      "match": "chaseO",
+      "image_id": 39290
+    },
+    {
+      "match": "chasePls",
+      "image_id": 77347
+    },
+    {
+      "match": "chaseStank",
+      "image_id": 77330
+    },
+    {
+      "match": "chaseSup",
+      "image_id": 54006
+    },
+    {
+      "match": "chaseScare",
+      "image_id": 77341
+    },
+    {
+      "match": "chaseRage",
+      "image_id": 81032
+    }
+  ]
+}

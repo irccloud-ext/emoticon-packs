@@ -1,1 +1,23 @@
-{"name":"twitch-sub-prayscream","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"prayHype","image_id":81067},{"match":"prayGG","image_id":85224},{"match":"prayRage","image_id":75245},{"match":"prayW","image_id":75247}]}
+{
+  "name": "twitch-sub-prayscream",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "prayHype",
+      "image_id": 81067
+    },
+    {
+      "match": "prayGG",
+      "image_id": 85224
+    },
+    {
+      "match": "prayRage",
+      "image_id": 75245
+    },
+    {
+      "match": "prayW",
+      "image_id": 75247
+    }
+  ]
+}

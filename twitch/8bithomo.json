@@ -1,1 +1,39 @@
-{"name":"twitch-sub-8bithomo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"8bitYas","image_id":59727},{"match":"8bitHey","image_id":59728},{"match":"8bitRip","image_id":59729},{"match":"8bitBye","image_id":59730},{"match":"8bitSlay","image_id":59732},{"match":"8bitSad","image_id":59733},{"match":"8bitRekt","image_id":97031},{"match":"8bitCat","image_id":97032}]}
+{
+  "name": "twitch-sub-8bithomo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "8bitYas",
+      "image_id": 59727
+    },
+    {
+      "match": "8bitHey",
+      "image_id": 59728
+    },
+    {
+      "match": "8bitRip",
+      "image_id": 59729
+    },
+    {
+      "match": "8bitBye",
+      "image_id": 59730
+    },
+    {
+      "match": "8bitSlay",
+      "image_id": 59732
+    },
+    {
+      "match": "8bitSad",
+      "image_id": 59733
+    },
+    {
+      "match": "8bitRekt",
+      "image_id": 97031
+    },
+    {
+      "match": "8bitCat",
+      "image_id": 97032
+    }
+  ]
+}

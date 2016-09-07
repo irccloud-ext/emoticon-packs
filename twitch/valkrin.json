@@ -1,1 +1,67 @@
-{"name":"twitch-sub-valkrin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"valkrinFeelsChewyMan","image_id":91626},{"match":"valkrinAntiJanna","image_id":18724},{"match":"valkrinAntiEzreal","image_id":18725},{"match":"valkrinShoulderCat","image_id":23887},{"match":"valkrinAntiLeeSin","image_id":22857},{"match":"valkrinTeam","image_id":48007},{"match":"valkrinCalm","image_id":50635},{"match":"valkrinTilt","image_id":50634},{"match":"valkrinChair","image_id":83749},{"match":"valkrinSpicy","image_id":83753},{"match":"valkrinHolymoly","image_id":66112},{"match":"valkrinQuote","image_id":66111},{"match":"valkrinCarry","image_id":83752},{"match":"valkrinHailchewy","image_id":83751},{"match":"valkrinSuper","image_id":83750}]}
+{
+  "name": "twitch-sub-valkrin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "valkrinFeelsChewyMan",
+      "image_id": 91626
+    },
+    {
+      "match": "valkrinAntiJanna",
+      "image_id": 18724
+    },
+    {
+      "match": "valkrinAntiEzreal",
+      "image_id": 18725
+    },
+    {
+      "match": "valkrinShoulderCat",
+      "image_id": 23887
+    },
+    {
+      "match": "valkrinAntiLeeSin",
+      "image_id": 22857
+    },
+    {
+      "match": "valkrinTeam",
+      "image_id": 48007
+    },
+    {
+      "match": "valkrinCalm",
+      "image_id": 50635
+    },
+    {
+      "match": "valkrinTilt",
+      "image_id": 50634
+    },
+    {
+      "match": "valkrinChair",
+      "image_id": 83749
+    },
+    {
+      "match": "valkrinSpicy",
+      "image_id": 83753
+    },
+    {
+      "match": "valkrinHolymoly",
+      "image_id": 66112
+    },
+    {
+      "match": "valkrinQuote",
+      "image_id": 66111
+    },
+    {
+      "match": "valkrinCarry",
+      "image_id": 83752
+    },
+    {
+      "match": "valkrinHailchewy",
+      "image_id": 83751
+    },
+    {
+      "match": "valkrinSuper",
+      "image_id": 83750
+    }
+  ]
+}

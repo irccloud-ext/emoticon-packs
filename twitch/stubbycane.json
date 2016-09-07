@@ -1,1 +1,39 @@
-{"name":"twitch-sub-stubbycane","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"stubbyDoge","image_id":84556},{"match":"stubbyHype","image_id":32081},{"match":"stubbyBeam","image_id":32175},{"match":"stubbyChair","image_id":34478},{"match":"stubbySub","image_id":84596},{"match":"stubbyWave","image_id":43708},{"match":"stubbyKappa","image_id":84895},{"match":"stubbyLove","image_id":111515}]}
+{
+  "name": "twitch-sub-stubbycane",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "stubbyDoge",
+      "image_id": 84556
+    },
+    {
+      "match": "stubbyHype",
+      "image_id": 32081
+    },
+    {
+      "match": "stubbyBeam",
+      "image_id": 32175
+    },
+    {
+      "match": "stubbyChair",
+      "image_id": 34478
+    },
+    {
+      "match": "stubbySub",
+      "image_id": 84596
+    },
+    {
+      "match": "stubbyWave",
+      "image_id": 43708
+    },
+    {
+      "match": "stubbyKappa",
+      "image_id": 84895
+    },
+    {
+      "match": "stubbyLove",
+      "image_id": 111515
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-mmobuff","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mmoLove","image_id":15979},{"match":"mmoYes","image_id":15980}]}
+{
+  "name": "twitch-sub-mmobuff",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mmoLove",
+      "image_id": 15979
+    },
+    {
+      "match": "mmoYes",
+      "image_id": 15980
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "twitch-sub-xxxdesperadoxxx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "despHAMMER",
+      "image_id": 112484
+    },
+    {
+      "match": "despFLEXL",
+      "image_id": 112121
+    },
+    {
+      "match": "despLOVE",
+      "image_id": 112122
+    },
+    {
+      "match": "despTROLL",
+      "image_id": 112123
+    },
+    {
+      "match": "despFLEXR",
+      "image_id": 112143
+    },
+    {
+      "match": "despSTAR",
+      "image_id": 112146
+    },
+    {
+      "match": "despRAGE",
+      "image_id": 112149
+    }
+  ]
+}

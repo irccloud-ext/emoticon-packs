@@ -1,1 +1,11 @@
-{"name":"twitch-sub-hampstar","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"maxyHappy","image_id":48520}]}
+{
+  "name": "twitch-sub-hampstar",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "maxyHappy",
+      "image_id": 48520
+    }
+  ]
+}

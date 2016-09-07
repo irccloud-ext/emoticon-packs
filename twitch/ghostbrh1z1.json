@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ghostbrh1z1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gbrHype","image_id":101293},{"match":"gbrLove","image_id":100170},{"match":"gbrGG","image_id":99630},{"match":"gbrGhost","image_id":99631}]}
+{
+  "name": "twitch-sub-ghostbrh1z1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gbrHype",
+      "image_id": 101293
+    },
+    {
+      "match": "gbrLove",
+      "image_id": 100170
+    },
+    {
+      "match": "gbrGG",
+      "image_id": 99630
+    },
+    {
+      "match": "gbrGhost",
+      "image_id": 99631
+    }
+  ]
+}

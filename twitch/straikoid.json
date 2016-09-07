@@ -1,1 +1,39 @@
-{"name":"twitch-sub-straikoid","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"straikFace","image_id":24947},{"match":"straikOgnetyshitel","image_id":24948},{"match":"straikPerdak","image_id":24949},{"match":"straikPotato","image_id":31297},{"match":"straikLol","image_id":36929},{"match":"straikKirilloid","image_id":37064},{"match":"straikCkpuna4","image_id":99098},{"match":"straik5319","image_id":99143}]}
+{
+  "name": "twitch-sub-straikoid",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "straikFace",
+      "image_id": 24947
+    },
+    {
+      "match": "straikOgnetyshitel",
+      "image_id": 24948
+    },
+    {
+      "match": "straikPerdak",
+      "image_id": 24949
+    },
+    {
+      "match": "straikPotato",
+      "image_id": 31297
+    },
+    {
+      "match": "straikLol",
+      "image_id": 36929
+    },
+    {
+      "match": "straikKirilloid",
+      "image_id": 37064
+    },
+    {
+      "match": "straikCkpuna4",
+      "image_id": 99098
+    },
+    {
+      "match": "straik5319",
+      "image_id": 99143
+    }
+  ]
+}

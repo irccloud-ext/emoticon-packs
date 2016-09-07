@@ -1,1 +1,39 @@
-{"name":"twitch-sub-chaosflo44","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"floDrei","image_id":88332},{"match":"floXD","image_id":105814},{"match":"floSchnitzel","image_id":95086},{"match":"floLaik","image_id":95351},{"match":"floMLG","image_id":95352},{"match":"floInternet","image_id":95356},{"match":"floRIP","image_id":95090},{"match":"floAustria","image_id":95087}]}
+{
+  "name": "twitch-sub-chaosflo44",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "floDrei",
+      "image_id": 88332
+    },
+    {
+      "match": "floXD",
+      "image_id": 105814
+    },
+    {
+      "match": "floSchnitzel",
+      "image_id": 95086
+    },
+    {
+      "match": "floLaik",
+      "image_id": 95351
+    },
+    {
+      "match": "floMLG",
+      "image_id": 95352
+    },
+    {
+      "match": "floInternet",
+      "image_id": 95356
+    },
+    {
+      "match": "floRIP",
+      "image_id": 95090
+    },
+    {
+      "match": "floAustria",
+      "image_id": 95087
+    }
+  ]
+}

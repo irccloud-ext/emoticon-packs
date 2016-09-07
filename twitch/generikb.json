@@ -1,1 +1,15 @@
-{"name":"twitch-sub-generikb","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hermitDangerzone","image_id":2664},{"match":"hermitEmerald","image_id":2665}]}
+{
+  "name": "twitch-sub-generikb",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hermitDangerzone",
+      "image_id": 2664
+    },
+    {
+      "match": "hermitEmerald",
+      "image_id": 2665
+    }
+  ]
+}

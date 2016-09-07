@@ -1,1 +1,67 @@
-{"name":"twitch-sub-luminosity48","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"luminW","image_id":87059},{"match":"luminB","image_id":87062},{"match":"luminWTF","image_id":87063},{"match":"luminR","image_id":87060},{"match":"luminH","image_id":87058},{"match":"luminK","image_id":81045},{"match":"luminC","image_id":87057},{"match":"luminA","image_id":95005},{"match":"luminS","image_id":60671},{"match":"luminHype","image_id":60670},{"match":"luminMilk","image_id":62938},{"match":"luminN","image_id":81284},{"match":"luminBaby","image_id":60430},{"match":"luminBSK","image_id":60431},{"match":"luminRIP","image_id":87083}]}
+{
+  "name": "twitch-sub-luminosity48",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "luminW",
+      "image_id": 87059
+    },
+    {
+      "match": "luminB",
+      "image_id": 87062
+    },
+    {
+      "match": "luminWTF",
+      "image_id": 87063
+    },
+    {
+      "match": "luminR",
+      "image_id": 87060
+    },
+    {
+      "match": "luminH",
+      "image_id": 87058
+    },
+    {
+      "match": "luminK",
+      "image_id": 81045
+    },
+    {
+      "match": "luminC",
+      "image_id": 87057
+    },
+    {
+      "match": "luminA",
+      "image_id": 95005
+    },
+    {
+      "match": "luminS",
+      "image_id": 60671
+    },
+    {
+      "match": "luminHype",
+      "image_id": 60670
+    },
+    {
+      "match": "luminMilk",
+      "image_id": 62938
+    },
+    {
+      "match": "luminN",
+      "image_id": 81284
+    },
+    {
+      "match": "luminBaby",
+      "image_id": 60430
+    },
+    {
+      "match": "luminBSK",
+      "image_id": 60431
+    },
+    {
+      "match": "luminRIP",
+      "image_id": 87083
+    }
+  ]
+}

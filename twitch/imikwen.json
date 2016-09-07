@@ -1,1 +1,27 @@
-{"name":"twitch-sub-imikwen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"imikwenKappa","image_id":18198},{"match":"imikwenBro","image_id":20014},{"match":"imikwenUnreal","image_id":20050},{"match":"imikwenSub","image_id":30033},{"match":"imikwenFace","image_id":44325}]}
+{
+  "name": "twitch-sub-imikwen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "imikwenKappa",
+      "image_id": 18198
+    },
+    {
+      "match": "imikwenBro",
+      "image_id": 20014
+    },
+    {
+      "match": "imikwenUnreal",
+      "image_id": 20050
+    },
+    {
+      "match": "imikwenSub",
+      "image_id": 30033
+    },
+    {
+      "match": "imikwenFace",
+      "image_id": 44325
+    }
+  ]
+}

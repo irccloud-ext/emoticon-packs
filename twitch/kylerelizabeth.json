@@ -1,1 +1,39 @@
-{"name":"twitch-sub-kylerelizabeth","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kylerRage","image_id":83722},{"match":"kylerCreep","image_id":53922},{"match":"kylerMolly","image_id":75649},{"match":"kylerRIP","image_id":83723},{"match":"kylerHELLO","image_id":83721},{"match":"kylerLove","image_id":83720},{"match":"kylerSteve","image_id":83719},{"match":"kylerFP","image_id":83718}]}
+{
+  "name": "twitch-sub-kylerelizabeth",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kylerRage",
+      "image_id": 83722
+    },
+    {
+      "match": "kylerCreep",
+      "image_id": 53922
+    },
+    {
+      "match": "kylerMolly",
+      "image_id": 75649
+    },
+    {
+      "match": "kylerRIP",
+      "image_id": 83723
+    },
+    {
+      "match": "kylerHELLO",
+      "image_id": 83721
+    },
+    {
+      "match": "kylerLove",
+      "image_id": 83720
+    },
+    {
+      "match": "kylerSteve",
+      "image_id": 83719
+    },
+    {
+      "match": "kylerFP",
+      "image_id": 83718
+    }
+  ]
+}

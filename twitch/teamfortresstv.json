@@ -1,1 +1,43 @@
-{"name":"twitch-sub-teamfortresstv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tftvSlinTastic","image_id":542},{"match":"tftvDrop","image_id":61675},{"match":"tftvVAC","image_id":61676},{"match":"tftvKurtkurt","image_id":406},{"match":"tftvBigbear","image_id":408},{"match":"tftvBus","image_id":83680},{"match":"tftvTrap","image_id":83681},{"match":"tftvMVP","image_id":93934},{"match":"tftvGoldenCap","image_id":93935}]}
+{
+  "name": "twitch-sub-teamfortresstv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tftvSlinTastic",
+      "image_id": 542
+    },
+    {
+      "match": "tftvDrop",
+      "image_id": 61675
+    },
+    {
+      "match": "tftvVAC",
+      "image_id": 61676
+    },
+    {
+      "match": "tftvKurtkurt",
+      "image_id": 406
+    },
+    {
+      "match": "tftvBigbear",
+      "image_id": 408
+    },
+    {
+      "match": "tftvBus",
+      "image_id": 83680
+    },
+    {
+      "match": "tftvTrap",
+      "image_id": 83681
+    },
+    {
+      "match": "tftvMVP",
+      "image_id": 93934
+    },
+    {
+      "match": "tftvGoldenCap",
+      "image_id": 93935
+    }
+  ]
+}

@@ -1,1 +1,59 @@
-{"name":"twitch-sub-bikeman","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bikePlottinG","image_id":2028},{"match":"bikeReallY","image_id":2030},{"match":"bikeNod","image_id":51812},{"match":"bikeKreally","image_id":11507},{"match":"bikeL","image_id":9989},{"match":"bikeKraken","image_id":11486},{"match":"bikeOmg","image_id":33062},{"match":"bikeConcur","image_id":51670},{"match":"bikeWM","image_id":88654},{"match":"bikeDYC","image_id":88655},{"match":"bikeR","image_id":88656},{"match":"bikeTroll","image_id":88850},{"match":"bikeS","image_id":97502}]}
+{
+  "name": "twitch-sub-bikeman",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bikePlottinG",
+      "image_id": 2028
+    },
+    {
+      "match": "bikeReallY",
+      "image_id": 2030
+    },
+    {
+      "match": "bikeNod",
+      "image_id": 51812
+    },
+    {
+      "match": "bikeKreally",
+      "image_id": 11507
+    },
+    {
+      "match": "bikeL",
+      "image_id": 9989
+    },
+    {
+      "match": "bikeKraken",
+      "image_id": 11486
+    },
+    {
+      "match": "bikeOmg",
+      "image_id": 33062
+    },
+    {
+      "match": "bikeConcur",
+      "image_id": 51670
+    },
+    {
+      "match": "bikeWM",
+      "image_id": 88654
+    },
+    {
+      "match": "bikeDYC",
+      "image_id": 88655
+    },
+    {
+      "match": "bikeR",
+      "image_id": 88656
+    },
+    {
+      "match": "bikeTroll",
+      "image_id": 88850
+    },
+    {
+      "match": "bikeS",
+      "image_id": 97502
+    }
+  ]
+}

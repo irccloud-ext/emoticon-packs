@@ -1,1 +1,11 @@
-{"name":"twitch-sub-snipedronetv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sdroneFace","image_id":86807}]}
+{
+  "name": "twitch-sub-snipedronetv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sdroneFace",
+      "image_id": 86807
+    }
+  ]
+}

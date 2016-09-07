@@ -1,1 +1,39 @@
-{"name":"twitch-sub-vanqswisher","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vanqFeels","image_id":109629},{"match":"vanqLaud","image_id":109576},{"match":"vanqBlast","image_id":109575},{"match":"vanqHahaa","image_id":110677},{"match":"vanqChair","image_id":110678},{"match":"vanqWitcher","image_id":110679},{"match":"vanqVanqNation","image_id":111440},{"match":"vanqVanqLines","image_id":111439}]}
+{
+  "name": "twitch-sub-vanqswisher",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vanqFeels",
+      "image_id": 109629
+    },
+    {
+      "match": "vanqLaud",
+      "image_id": 109576
+    },
+    {
+      "match": "vanqBlast",
+      "image_id": 109575
+    },
+    {
+      "match": "vanqHahaa",
+      "image_id": 110677
+    },
+    {
+      "match": "vanqChair",
+      "image_id": 110678
+    },
+    {
+      "match": "vanqWitcher",
+      "image_id": 110679
+    },
+    {
+      "match": "vanqVanqNation",
+      "image_id": 111440
+    },
+    {
+      "match": "vanqVanqLines",
+      "image_id": 111439
+    }
+  ]
+}

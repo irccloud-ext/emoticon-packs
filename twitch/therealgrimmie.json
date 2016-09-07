@@ -1,1 +1,35 @@
-{"name":"twitch-sub-therealgrimmie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"grimmFrand","image_id":46165},{"match":"grimm500","image_id":46189},{"match":"grimmBien","image_id":78391},{"match":"grimmChloe","image_id":45899},{"match":"grimmMark","image_id":45935},{"match":"grimmChibi","image_id":46416},{"match":"grimmRawk","image_id":46137}]}
+{
+  "name": "twitch-sub-therealgrimmie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "grimmFrand",
+      "image_id": 46165
+    },
+    {
+      "match": "grimm500",
+      "image_id": 46189
+    },
+    {
+      "match": "grimmBien",
+      "image_id": 78391
+    },
+    {
+      "match": "grimmChloe",
+      "image_id": 45899
+    },
+    {
+      "match": "grimmMark",
+      "image_id": 45935
+    },
+    {
+      "match": "grimmChibi",
+      "image_id": 46416
+    },
+    {
+      "match": "grimmRawk",
+      "image_id": 46137
+    }
+  ]
+}

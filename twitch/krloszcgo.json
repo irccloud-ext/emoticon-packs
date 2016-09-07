@@ -1,1 +1,23 @@
-{"name":"twitch-sub-krloszcgo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"krloszGG","image_id":68978},{"match":"krloszOMG","image_id":71880},{"match":"krloszLOVE","image_id":71876},{"match":"krloszKHA","image_id":73715}]}
+{
+  "name": "twitch-sub-krloszcgo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "krloszGG",
+      "image_id": 68978
+    },
+    {
+      "match": "krloszOMG",
+      "image_id": 71880
+    },
+    {
+      "match": "krloszLOVE",
+      "image_id": 71876
+    },
+    {
+      "match": "krloszKHA",
+      "image_id": 73715
+    }
+  ]
+}

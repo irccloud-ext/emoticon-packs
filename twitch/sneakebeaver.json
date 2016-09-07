@@ -1,1 +1,11 @@
-{"name":"twitch-sub-sneakebeaver","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"beaverRay","image_id":93025}]}
+{
+  "name": "twitch-sub-sneakebeaver",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "beaverRay",
+      "image_id": 93025
+    }
+  ]
+}

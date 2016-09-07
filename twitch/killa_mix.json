@@ -1,1 +1,23 @@
-{"name":"twitch-sub-killa_mix","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mixPulseCereal","image_id":81640},{"match":"mixBoba","image_id":77762},{"match":"mixThermal","image_id":77763},{"match":"mixSubHype","image_id":78846}]}
+{
+  "name": "twitch-sub-killa_mix",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mixPulseCereal",
+      "image_id": 81640
+    },
+    {
+      "match": "mixBoba",
+      "image_id": 77762
+    },
+    {
+      "match": "mixThermal",
+      "image_id": 77763
+    },
+    {
+      "match": "mixSubHype",
+      "image_id": 78846
+    }
+  ]
+}

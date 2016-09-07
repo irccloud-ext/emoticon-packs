@@ -1,1 +1,39 @@
-{"name":"twitch-sub-deucenickalo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nicREKT","image_id":62817},{"match":"nicSUB","image_id":62815},{"match":"nicCHEERS","image_id":62813},{"match":"nicWIFEY","image_id":62812},{"match":"nicLOVE","image_id":62811},{"match":"nicDED","image_id":76499},{"match":"nicRAGE","image_id":71500},{"match":"nicPOO","image_id":84039}]}
+{
+  "name": "twitch-sub-deucenickalo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nicREKT",
+      "image_id": 62817
+    },
+    {
+      "match": "nicSUB",
+      "image_id": 62815
+    },
+    {
+      "match": "nicCHEERS",
+      "image_id": 62813
+    },
+    {
+      "match": "nicWIFEY",
+      "image_id": 62812
+    },
+    {
+      "match": "nicLOVE",
+      "image_id": 62811
+    },
+    {
+      "match": "nicDED",
+      "image_id": 76499
+    },
+    {
+      "match": "nicRAGE",
+      "image_id": 71500
+    },
+    {
+      "match": "nicPOO",
+      "image_id": 84039
+    }
+  ]
+}

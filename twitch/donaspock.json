@@ -1,1 +1,43 @@
-{"name":"twitch-sub-donaspock","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"donaMbeezy","image_id":100870},{"match":"donaTampon","image_id":100672},{"match":"donaHype","image_id":100690},{"match":"donaLove","image_id":101493},{"match":"donaDigga","image_id":100701},{"match":"donaHi","image_id":104336},{"match":"donaReported","image_id":101420},{"match":"donaFlash","image_id":104303},{"match":"donaWow","image_id":104304}]}
+{
+  "name": "twitch-sub-donaspock",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "donaMbeezy",
+      "image_id": 100870
+    },
+    {
+      "match": "donaTampon",
+      "image_id": 100672
+    },
+    {
+      "match": "donaHype",
+      "image_id": 100690
+    },
+    {
+      "match": "donaLove",
+      "image_id": 101493
+    },
+    {
+      "match": "donaDigga",
+      "image_id": 100701
+    },
+    {
+      "match": "donaHi",
+      "image_id": 104336
+    },
+    {
+      "match": "donaReported",
+      "image_id": 101420
+    },
+    {
+      "match": "donaFlash",
+      "image_id": 104303
+    },
+    {
+      "match": "donaWow",
+      "image_id": 104304
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-shadowila","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shadowilaRage","image_id":10811},{"match":"shadowilaFeed","image_id":10852},{"match":"shadowilaBunny","image_id":10853},{"match":"shadowilaPotato","image_id":26243},{"match":"shadowilaThirst","image_id":35975},{"match":"shadowilaHype","image_id":36496},{"match":"shadowilaBobs","image_id":36609},{"match":"shadowilaPleb","image_id":47923},{"match":"shadowilaCrab","image_id":45476},{"match":"shadowilaDerp","image_id":48014}]}
+{
+  "name": "twitch-sub-shadowila",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shadowilaRage",
+      "image_id": 10811
+    },
+    {
+      "match": "shadowilaFeed",
+      "image_id": 10852
+    },
+    {
+      "match": "shadowilaBunny",
+      "image_id": 10853
+    },
+    {
+      "match": "shadowilaPotato",
+      "image_id": 26243
+    },
+    {
+      "match": "shadowilaThirst",
+      "image_id": 35975
+    },
+    {
+      "match": "shadowilaHype",
+      "image_id": 36496
+    },
+    {
+      "match": "shadowilaBobs",
+      "image_id": 36609
+    },
+    {
+      "match": "shadowilaPleb",
+      "image_id": 47923
+    },
+    {
+      "match": "shadowilaCrab",
+      "image_id": 45476
+    },
+    {
+      "match": "shadowilaDerp",
+      "image_id": 48014
+    }
+  ]
+}

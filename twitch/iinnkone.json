@@ -1,1 +1,35 @@
-{"name":"twitch-sub-iinnkone","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"iinnky1Love","image_id":66809},{"match":"iinnky1Hype","image_id":65330},{"match":"iinnky1Erase","image_id":65331},{"match":"iinnky1Sheets","image_id":69848},{"match":"iinnky1Tj","image_id":72880},{"match":"iinnky1Mic","image_id":78722},{"match":"iinnky1Rant","image_id":97079}]}
+{
+  "name": "twitch-sub-iinnkone",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "iinnky1Love",
+      "image_id": 66809
+    },
+    {
+      "match": "iinnky1Hype",
+      "image_id": 65330
+    },
+    {
+      "match": "iinnky1Erase",
+      "image_id": 65331
+    },
+    {
+      "match": "iinnky1Sheets",
+      "image_id": 69848
+    },
+    {
+      "match": "iinnky1Tj",
+      "image_id": 72880
+    },
+    {
+      "match": "iinnky1Mic",
+      "image_id": 78722
+    },
+    {
+      "match": "iinnky1Rant",
+      "image_id": 97079
+    }
+  ]
+}

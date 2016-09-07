@@ -1,1 +1,31 @@
-{"name":"twitch-sub-punishedprops","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"foamSafe","image_id":99782},{"match":"foamSmith","image_id":99781},{"match":"foamCat","image_id":98644},{"match":"foamTart","image_id":98643},{"match":"foamBill","image_id":99151},{"match":"foamBritt","image_id":99152}]}
+{
+  "name": "twitch-sub-punishedprops",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "foamSafe",
+      "image_id": 99782
+    },
+    {
+      "match": "foamSmith",
+      "image_id": 99781
+    },
+    {
+      "match": "foamCat",
+      "image_id": 98644
+    },
+    {
+      "match": "foamTart",
+      "image_id": 98643
+    },
+    {
+      "match": "foamBill",
+      "image_id": 99151
+    },
+    {
+      "match": "foamBritt",
+      "image_id": 99152
+    }
+  ]
+}

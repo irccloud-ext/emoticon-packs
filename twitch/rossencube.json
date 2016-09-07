@@ -1,1 +1,39 @@
-{"name":"twitch-sub-rossencube","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rossRp","image_id":54427},{"match":"rossRip","image_id":54425},{"match":"rossMDR","image_id":54426},{"match":"rossSub","image_id":54424},{"match":"rossYo","image_id":54423},{"match":"rossPo","image_id":70200},{"match":"rossCrash","image_id":97846},{"match":"rossNoob","image_id":97788}]}
+{
+  "name": "twitch-sub-rossencube",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rossRp",
+      "image_id": 54427
+    },
+    {
+      "match": "rossRip",
+      "image_id": 54425
+    },
+    {
+      "match": "rossMDR",
+      "image_id": 54426
+    },
+    {
+      "match": "rossSub",
+      "image_id": 54424
+    },
+    {
+      "match": "rossYo",
+      "image_id": 54423
+    },
+    {
+      "match": "rossPo",
+      "image_id": 70200
+    },
+    {
+      "match": "rossCrash",
+      "image_id": 97846
+    },
+    {
+      "match": "rossNoob",
+      "image_id": 97788
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-{"name":"twitch-sub-speity","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"speityKappa","image_id":21776},{"match":"speityOpie","image_id":24246},{"match":"speityRude","image_id":30417},{"match":"speityCarrot","image_id":31226},{"match":"speityLove","image_id":35467}]}
+{
+  "name": "twitch-sub-speity",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "speityKappa",
+      "image_id": 21776
+    },
+    {
+      "match": "speityOpie",
+      "image_id": 24246
+    },
+    {
+      "match": "speityRude",
+      "image_id": 30417
+    },
+    {
+      "match": "speityCarrot",
+      "image_id": 31226
+    },
+    {
+      "match": "speityLove",
+      "image_id": 35467
+    }
+  ]
+}

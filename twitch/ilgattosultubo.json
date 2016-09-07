@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ilgattosultubo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zamp1CAT","image_id":65198},{"match":"zamp1EHE","image_id":65319},{"match":"zamp1Ckibe","image_id":74006},{"match":"zamp1Occhiolino","image_id":74149}]}
+{
+  "name": "twitch-sub-ilgattosultubo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zamp1CAT",
+      "image_id": 65198
+    },
+    {
+      "match": "zamp1EHE",
+      "image_id": 65319
+    },
+    {
+      "match": "zamp1Ckibe",
+      "image_id": 74006
+    },
+    {
+      "match": "zamp1Occhiolino",
+      "image_id": 74149
+    }
+  ]
+}

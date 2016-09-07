@@ -1,1 +1,31 @@
-{"name":"twitch-sub-arkanum","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"arkHood","image_id":42247},{"match":"arkJacked","image_id":34975},{"match":"arkFace","image_id":45394},{"match":"arkHype","image_id":45508},{"match":"arkDoge","image_id":45500},{"match":"arkTikFox","image_id":48655}]}
+{
+  "name": "twitch-sub-arkanum",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "arkHood",
+      "image_id": 42247
+    },
+    {
+      "match": "arkJacked",
+      "image_id": 34975
+    },
+    {
+      "match": "arkFace",
+      "image_id": 45394
+    },
+    {
+      "match": "arkHype",
+      "image_id": 45508
+    },
+    {
+      "match": "arkDoge",
+      "image_id": 45500
+    },
+    {
+      "match": "arkTikFox",
+      "image_id": 48655
+    }
+  ]
+}

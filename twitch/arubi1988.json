@@ -1,1 +1,15 @@
-{"name":"twitch-sub-arubi1988","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"arubi1988BANANA","image_id":94847},{"match":"arubi1988Hame","image_id":96470}]}
+{
+  "name": "twitch-sub-arubi1988",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "arubi1988BANANA",
+      "image_id": 94847
+    },
+    {
+      "match": "arubi1988Hame",
+      "image_id": 96470
+    }
+  ]
+}

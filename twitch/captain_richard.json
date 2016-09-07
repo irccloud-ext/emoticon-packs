@@ -1,1 +1,39 @@
-{"name":"twitch-sub-captain_richard","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"radRifle","image_id":51120},{"match":"radAlien","image_id":51249},{"match":"radTest","image_id":50596},{"match":"radVintage","image_id":50594},{"match":"radDerp","image_id":53169},{"match":"radRoll","image_id":56351},{"match":"radHeart","image_id":56352},{"match":"radZyloh","image_id":109137}]}
+{
+  "name": "twitch-sub-captain_richard",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "radRifle",
+      "image_id": 51120
+    },
+    {
+      "match": "radAlien",
+      "image_id": 51249
+    },
+    {
+      "match": "radTest",
+      "image_id": 50596
+    },
+    {
+      "match": "radVintage",
+      "image_id": 50594
+    },
+    {
+      "match": "radDerp",
+      "image_id": 53169
+    },
+    {
+      "match": "radRoll",
+      "image_id": 56351
+    },
+    {
+      "match": "radHeart",
+      "image_id": 56352
+    },
+    {
+      "match": "radZyloh",
+      "image_id": 109137
+    }
+  ]
+}

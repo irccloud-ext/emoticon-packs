@@ -1,1 +1,23 @@
-{"name":"twitch-sub-rhexx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rhexxW","image_id":47655},{"match":"rhexxUp","image_id":48005},{"match":"rhexxFail","image_id":49306},{"match":"rhexxSword","image_id":49542}]}
+{
+  "name": "twitch-sub-rhexx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rhexxW",
+      "image_id": 47655
+    },
+    {
+      "match": "rhexxUp",
+      "image_id": 48005
+    },
+    {
+      "match": "rhexxFail",
+      "image_id": 49306
+    },
+    {
+      "match": "rhexxSword",
+      "image_id": 49542
+    }
+  ]
+}

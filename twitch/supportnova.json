@@ -1,1 +1,15 @@
-{"name":"twitch-sub-supportnova","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nvaGlasses","image_id":7740},{"match":"nvaGloves","image_id":7741}]}
+{
+  "name": "twitch-sub-supportnova",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nvaGlasses",
+      "image_id": 7740
+    },
+    {
+      "match": "nvaGloves",
+      "image_id": 7741
+    }
+  ]
+}

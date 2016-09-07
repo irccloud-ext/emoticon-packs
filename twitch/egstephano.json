@@ -1,1 +1,31 @@
-{"name":"twitch-sub-egstephano","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"stephWoot","image_id":8958},{"match":"stephHmm","image_id":8959},{"match":"stephCujo","image_id":7560},{"match":"stephNotBad","image_id":7559},{"match":"stephHat","image_id":7562},{"match":"stephBoss","image_id":7561}]}
+{
+  "name": "twitch-sub-egstephano",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "stephWoot",
+      "image_id": 8958
+    },
+    {
+      "match": "stephHmm",
+      "image_id": 8959
+    },
+    {
+      "match": "stephCujo",
+      "image_id": 7560
+    },
+    {
+      "match": "stephNotBad",
+      "image_id": 7559
+    },
+    {
+      "match": "stephHat",
+      "image_id": 7562
+    },
+    {
+      "match": "stephBoss",
+      "image_id": 7561
+    }
+  ]
+}

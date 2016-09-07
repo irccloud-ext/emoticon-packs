@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ladyavianna","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aviaHEY","image_id":94674},{"match":"aviaHYPE","image_id":94676},{"match":"aviaLEWD","image_id":90307},{"match":"aviaLOVE","image_id":90306},{"match":"aviaSWORD","image_id":90308},{"match":"aviaTHULU","image_id":90309}]}
+{
+  "name": "twitch-sub-ladyavianna",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aviaHEY",
+      "image_id": 94674
+    },
+    {
+      "match": "aviaHYPE",
+      "image_id": 94676
+    },
+    {
+      "match": "aviaLEWD",
+      "image_id": 90307
+    },
+    {
+      "match": "aviaLOVE",
+      "image_id": 90306
+    },
+    {
+      "match": "aviaSWORD",
+      "image_id": 90308
+    },
+    {
+      "match": "aviaTHULU",
+      "image_id": 90309
+    }
+  ]
+}

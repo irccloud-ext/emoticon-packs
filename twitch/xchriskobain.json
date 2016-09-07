@@ -1,1 +1,39 @@
-{"name":"twitch-sub-xchriskobain","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xckFail","image_id":17727},{"match":"xckUSA","image_id":19903},{"match":"xckSalt","image_id":19904},{"match":"xckChu","image_id":22463},{"match":"xckHeart","image_id":31782},{"match":"xckRIP","image_id":40838},{"match":"xckFreeze","image_id":41150},{"match":"xckCheese","image_id":57362}]}
+{
+  "name": "twitch-sub-xchriskobain",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xckFail",
+      "image_id": 17727
+    },
+    {
+      "match": "xckUSA",
+      "image_id": 19903
+    },
+    {
+      "match": "xckSalt",
+      "image_id": 19904
+    },
+    {
+      "match": "xckChu",
+      "image_id": 22463
+    },
+    {
+      "match": "xckHeart",
+      "image_id": 31782
+    },
+    {
+      "match": "xckRIP",
+      "image_id": 40838
+    },
+    {
+      "match": "xckFreeze",
+      "image_id": 41150
+    },
+    {
+      "match": "xckCheese",
+      "image_id": 57362
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"name":"twitch-sub-cpkaka","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ckaCpCookie","image_id":1871},{"match":"ckaSmugBeard","image_id":1873},{"match":"ckaYaHoo","image_id":8031}]}
+{
+  "name": "twitch-sub-cpkaka",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ckaCpCookie",
+      "image_id": 1871
+    },
+    {
+      "match": "ckaSmugBeard",
+      "image_id": 1873
+    },
+    {
+      "match": "ckaYaHoo",
+      "image_id": 8031
+    }
+  ]
+}

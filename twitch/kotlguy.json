@@ -1,1 +1,39 @@
-{"name":"twitch-sub-kotlguy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kotlDude","image_id":21852},{"match":"kotlGasm","image_id":21960},{"match":"kotlGrump","image_id":25710},{"match":"kotlGerg","image_id":22982},{"match":"kotlChamp","image_id":22983},{"match":"kotlSpirit","image_id":25931},{"match":"kotlKappa","image_id":43619},{"match":"kotlW","image_id":56998}]}
+{
+  "name": "twitch-sub-kotlguy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kotlDude",
+      "image_id": 21852
+    },
+    {
+      "match": "kotlGasm",
+      "image_id": 21960
+    },
+    {
+      "match": "kotlGrump",
+      "image_id": 25710
+    },
+    {
+      "match": "kotlGerg",
+      "image_id": 22982
+    },
+    {
+      "match": "kotlChamp",
+      "image_id": 22983
+    },
+    {
+      "match": "kotlSpirit",
+      "image_id": 25931
+    },
+    {
+      "match": "kotlKappa",
+      "image_id": 43619
+    },
+    {
+      "match": "kotlW",
+      "image_id": 56998
+    }
+  ]
+}

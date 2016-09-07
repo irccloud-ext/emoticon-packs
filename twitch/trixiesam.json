@@ -1,1 +1,39 @@
-{"name":"twitch-sub-trixiesam","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"esamBye","image_id":64597},{"match":"esamEFAM","image_id":64309},{"match":"esamHeart","image_id":66158},{"match":"esamEHAM","image_id":66157},{"match":"esamSub","image_id":64308},{"match":"esamWOW","image_id":69658},{"match":"esamNemu","image_id":96910},{"match":"esamESAD","image_id":89555}]}
+{
+  "name": "twitch-sub-trixiesam",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "esamBye",
+      "image_id": 64597
+    },
+    {
+      "match": "esamEFAM",
+      "image_id": 64309
+    },
+    {
+      "match": "esamHeart",
+      "image_id": 66158
+    },
+    {
+      "match": "esamEHAM",
+      "image_id": 66157
+    },
+    {
+      "match": "esamSub",
+      "image_id": 64308
+    },
+    {
+      "match": "esamWOW",
+      "image_id": 69658
+    },
+    {
+      "match": "esamNemu",
+      "image_id": 96910
+    },
+    {
+      "match": "esamESAD",
+      "image_id": 89555
+    }
+  ]
+}

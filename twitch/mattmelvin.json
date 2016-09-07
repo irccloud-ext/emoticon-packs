@@ -1,1 +1,39 @@
-{"name":"twitch-sub-mattmelvin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mattSquee","image_id":14777},{"match":"mattPoo","image_id":20362},{"match":"mattWut","image_id":71861},{"match":"mattEinstein","image_id":56026},{"match":"mattButts","image_id":56304},{"match":"mattZombo","image_id":56305},{"match":"mattEllie","image_id":56038},{"match":"mattDoof","image_id":61711}]}
+{
+  "name": "twitch-sub-mattmelvin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mattSquee",
+      "image_id": 14777
+    },
+    {
+      "match": "mattPoo",
+      "image_id": 20362
+    },
+    {
+      "match": "mattWut",
+      "image_id": 71861
+    },
+    {
+      "match": "mattEinstein",
+      "image_id": 56026
+    },
+    {
+      "match": "mattButts",
+      "image_id": 56304
+    },
+    {
+      "match": "mattZombo",
+      "image_id": 56305
+    },
+    {
+      "match": "mattEllie",
+      "image_id": 56038
+    },
+    {
+      "match": "mattDoof",
+      "image_id": 61711
+    }
+  ]
+}

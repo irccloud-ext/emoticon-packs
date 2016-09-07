@@ -1,1 +1,47 @@
-{"name":"twitch-sub-prettysinsin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sin666Acid","image_id":74015},{"match":"sin666No1","image_id":74012},{"match":"sin66680","image_id":74622},{"match":"sin666Unsub","image_id":74690},{"match":"sin666Omg3","image_id":73125},{"match":"sin666Rrr","image_id":73115},{"match":"sin666Normal","image_id":73456},{"match":"sin666Love1","image_id":73458},{"match":"sin666Papapa","image_id":73462},{"match":"sin666888","image_id":73911}]}
+{
+  "name": "twitch-sub-prettysinsin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sin666Acid",
+      "image_id": 74015
+    },
+    {
+      "match": "sin666No1",
+      "image_id": 74012
+    },
+    {
+      "match": "sin66680",
+      "image_id": 74622
+    },
+    {
+      "match": "sin666Unsub",
+      "image_id": 74690
+    },
+    {
+      "match": "sin666Omg3",
+      "image_id": 73125
+    },
+    {
+      "match": "sin666Rrr",
+      "image_id": 73115
+    },
+    {
+      "match": "sin666Normal",
+      "image_id": 73456
+    },
+    {
+      "match": "sin666Love1",
+      "image_id": 73458
+    },
+    {
+      "match": "sin666Papapa",
+      "image_id": 73462
+    },
+    {
+      "match": "sin666888",
+      "image_id": 73911
+    }
+  ]
+}

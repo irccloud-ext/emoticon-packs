@@ -1,1 +1,19 @@
-{"name":"twitch-sub-cronoregen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cronoSad","image_id":29857},{"match":"cronoChamp","image_id":35841},{"match":"cronoTriggered","image_id":86991}]}
+{
+  "name": "twitch-sub-cronoregen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cronoSad",
+      "image_id": 29857
+    },
+    {
+      "match": "cronoChamp",
+      "image_id": 35841
+    },
+    {
+      "match": "cronoTriggered",
+      "image_id": 86991
+    }
+  ]
+}

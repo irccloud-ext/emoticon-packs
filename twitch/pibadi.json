@@ -1,1 +1,27 @@
-{"name":"twitch-sub-pibadi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pibaHype","image_id":42197},{"match":"pibaChert","image_id":40403},{"match":"pibaMaslo","image_id":40385},{"match":"pibaKoko","image_id":40543},{"match":"pibaBaba","image_id":40534}]}
+{
+  "name": "twitch-sub-pibadi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pibaHype",
+      "image_id": 42197
+    },
+    {
+      "match": "pibaChert",
+      "image_id": 40403
+    },
+    {
+      "match": "pibaMaslo",
+      "image_id": 40385
+    },
+    {
+      "match": "pibaKoko",
+      "image_id": 40543
+    },
+    {
+      "match": "pibaBaba",
+      "image_id": 40534
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-herdyn","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"herdynSex","image_id":78744},{"match":"herdynSurprise","image_id":30317},{"match":"herdynWard","image_id":30326},{"match":"herdynRage","image_id":32714},{"match":"herdynKappa","image_id":32713},{"match":"herdynCry","image_id":35536},{"match":"herdynW","image_id":78707},{"match":"herdynRip","image_id":78924},{"match":"herdynLove","image_id":82564},{"match":"herdynGasm","image_id":107687}]}
+{
+  "name": "twitch-sub-herdyn",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "herdynSex",
+      "image_id": 78744
+    },
+    {
+      "match": "herdynSurprise",
+      "image_id": 30317
+    },
+    {
+      "match": "herdynWard",
+      "image_id": 30326
+    },
+    {
+      "match": "herdynRage",
+      "image_id": 32714
+    },
+    {
+      "match": "herdynKappa",
+      "image_id": 32713
+    },
+    {
+      "match": "herdynCry",
+      "image_id": 35536
+    },
+    {
+      "match": "herdynW",
+      "image_id": 78707
+    },
+    {
+      "match": "herdynRip",
+      "image_id": 78924
+    },
+    {
+      "match": "herdynLove",
+      "image_id": 82564
+    },
+    {
+      "match": "herdynGasm",
+      "image_id": 107687
+    }
+  ]
+}

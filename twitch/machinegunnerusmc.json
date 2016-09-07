@@ -1,1 +1,67 @@
-{"name":"twitch-sub-machinegunnerusmc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gunnerKappa","image_id":13378},{"match":"gunnerGrill","image_id":13408},{"match":"gunnerYaboy","image_id":13405},{"match":"gunnerJoey","image_id":19578},{"match":"gunnerFail","image_id":21875},{"match":"gunnerCow","image_id":22343},{"match":"gunnerHajri","image_id":30856},{"match":"gunnerMoga","image_id":30850},{"match":"gunnerBousepack","image_id":31715},{"match":"gunnerTaryn","image_id":35794},{"match":"gunnerJeepman","image_id":35811},{"match":"gunnerGasm","image_id":35807},{"match":"gunnerWolfpack","image_id":38176},{"match":"gunnerRivington","image_id":52399},{"match":"gunnerChamp","image_id":49532}]}
+{
+  "name": "twitch-sub-machinegunnerusmc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gunnerKappa",
+      "image_id": 13378
+    },
+    {
+      "match": "gunnerGrill",
+      "image_id": 13408
+    },
+    {
+      "match": "gunnerYaboy",
+      "image_id": 13405
+    },
+    {
+      "match": "gunnerJoey",
+      "image_id": 19578
+    },
+    {
+      "match": "gunnerFail",
+      "image_id": 21875
+    },
+    {
+      "match": "gunnerCow",
+      "image_id": 22343
+    },
+    {
+      "match": "gunnerHajri",
+      "image_id": 30856
+    },
+    {
+      "match": "gunnerMoga",
+      "image_id": 30850
+    },
+    {
+      "match": "gunnerBousepack",
+      "image_id": 31715
+    },
+    {
+      "match": "gunnerTaryn",
+      "image_id": 35794
+    },
+    {
+      "match": "gunnerJeepman",
+      "image_id": 35811
+    },
+    {
+      "match": "gunnerGasm",
+      "image_id": 35807
+    },
+    {
+      "match": "gunnerWolfpack",
+      "image_id": 38176
+    },
+    {
+      "match": "gunnerRivington",
+      "image_id": 52399
+    },
+    {
+      "match": "gunnerChamp",
+      "image_id": 49532
+    }
+  ]
+}

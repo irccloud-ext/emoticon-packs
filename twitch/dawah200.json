@@ -1,1 +1,31 @@
-{"name":"twitch-sub-dawah200","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dawahBurn","image_id":74783},{"match":"dawahHype","image_id":71100},{"match":"dawahHammer","image_id":74129},{"match":"dawahCookie","image_id":71120},{"match":"dawahArrow","image_id":99534},{"match":"dawahBow","image_id":99966}]}
+{
+  "name": "twitch-sub-dawah200",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dawahBurn",
+      "image_id": 74783
+    },
+    {
+      "match": "dawahHype",
+      "image_id": 71100
+    },
+    {
+      "match": "dawahHammer",
+      "image_id": 74129
+    },
+    {
+      "match": "dawahCookie",
+      "image_id": 71120
+    },
+    {
+      "match": "dawahArrow",
+      "image_id": 99534
+    },
+    {
+      "match": "dawahBow",
+      "image_id": 99966
+    }
+  ]
+}

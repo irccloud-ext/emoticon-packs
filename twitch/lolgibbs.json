@@ -1,1 +1,39 @@
-{"name":"twitch-sub-lolgibbs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gibbsGot","image_id":55572},{"match":"gibbsHype","image_id":31025},{"match":"gibbsHi","image_id":31419},{"match":"gibbsDone","image_id":31753},{"match":"gibbsMvp","image_id":39101},{"match":"gibbsCoach","image_id":46059},{"match":"gibbsRage","image_id":57824},{"match":"gibbsSub","image_id":57825}]}
+{
+  "name": "twitch-sub-lolgibbs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gibbsGot",
+      "image_id": 55572
+    },
+    {
+      "match": "gibbsHype",
+      "image_id": 31025
+    },
+    {
+      "match": "gibbsHi",
+      "image_id": 31419
+    },
+    {
+      "match": "gibbsDone",
+      "image_id": 31753
+    },
+    {
+      "match": "gibbsMvp",
+      "image_id": 39101
+    },
+    {
+      "match": "gibbsCoach",
+      "image_id": 46059
+    },
+    {
+      "match": "gibbsRage",
+      "image_id": 57824
+    },
+    {
+      "match": "gibbsSub",
+      "image_id": 57825
+    }
+  ]
+}

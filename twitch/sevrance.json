@@ -1,1 +1,23 @@
-{"name":"twitch-sub-sevrance","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sevrNation","image_id":21055},{"match":"sevrLoveit","image_id":21056},{"match":"sevrWaitwat","image_id":22139},{"match":"sevrHype","image_id":21724}]}
+{
+  "name": "twitch-sub-sevrance",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sevrNation",
+      "image_id": 21055
+    },
+    {
+      "match": "sevrLoveit",
+      "image_id": 21056
+    },
+    {
+      "match": "sevrWaitwat",
+      "image_id": 22139
+    },
+    {
+      "match": "sevrHype",
+      "image_id": 21724
+    }
+  ]
+}

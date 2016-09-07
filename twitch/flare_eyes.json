@@ -1,1 +1,23 @@
-{"name":"twitch-sub-flare_eyes","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"flareVorppa","image_id":36512},{"match":"flareHype","image_id":39945},{"match":"flareHai","image_id":63868},{"match":"flareBag","image_id":63788}]}
+{
+  "name": "twitch-sub-flare_eyes",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "flareVorppa",
+      "image_id": 36512
+    },
+    {
+      "match": "flareHype",
+      "image_id": 39945
+    },
+    {
+      "match": "flareHai",
+      "image_id": 63868
+    },
+    {
+      "match": "flareBag",
+      "image_id": 63788
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"name":"twitch-sub-danobrienpoker","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"danobBusboy","image_id":49140},{"match":"danobSolo","image_id":49142},{"match":"danobWet","image_id":49143}]}
+{
+  "name": "twitch-sub-danobrienpoker",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "danobBusboy",
+      "image_id": 49140
+    },
+    {
+      "match": "danobSolo",
+      "image_id": 49142
+    },
+    {
+      "match": "danobWet",
+      "image_id": 49143
+    }
+  ]
+}

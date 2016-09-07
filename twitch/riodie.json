@@ -1,1 +1,31 @@
-{"name":"twitch-sub-riodie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rioHYPER","image_id":21787},{"match":"rioSNIPED","image_id":28089},{"match":"rioRIP","image_id":30571},{"match":"rioLove","image_id":109724},{"match":"rioRekt","image_id":109725},{"match":"rioWave","image_id":109727}]}
+{
+  "name": "twitch-sub-riodie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rioHYPER",
+      "image_id": 21787
+    },
+    {
+      "match": "rioSNIPED",
+      "image_id": 28089
+    },
+    {
+      "match": "rioRIP",
+      "image_id": 30571
+    },
+    {
+      "match": "rioLove",
+      "image_id": 109724
+    },
+    {
+      "match": "rioRekt",
+      "image_id": 109725
+    },
+    {
+      "match": "rioWave",
+      "image_id": 109727
+    }
+  ]
+}

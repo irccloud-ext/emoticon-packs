@@ -1,1 +1,23 @@
-{"name":"twitch-sub-mashed8","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mashedAim","image_id":76150},{"match":"mashedHype","image_id":76149},{"match":"mashedUp","image_id":76273},{"match":"mashedFacepalm","image_id":76272}]}
+{
+  "name": "twitch-sub-mashed8",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mashedAim",
+      "image_id": 76150
+    },
+    {
+      "match": "mashedHype",
+      "image_id": 76149
+    },
+    {
+      "match": "mashedUp",
+      "image_id": 76273
+    },
+    {
+      "match": "mashedFacepalm",
+      "image_id": 76272
+    }
+  ]
+}

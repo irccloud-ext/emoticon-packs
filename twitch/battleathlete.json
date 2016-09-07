@@ -1,1 +1,39 @@
-{"name":"twitch-sub-battleathlete","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"battleLove","image_id":62990},{"match":"battleSalt","image_id":33067},{"match":"battleSpam","image_id":32611},{"match":"battleWow","image_id":33068},{"match":"battleKappa","image_id":34545},{"match":"battleHype","image_id":62987},{"match":"battleLewd","image_id":62988},{"match":"battleGasm","image_id":62989}]}
+{
+  "name": "twitch-sub-battleathlete",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "battleLove",
+      "image_id": 62990
+    },
+    {
+      "match": "battleSalt",
+      "image_id": 33067
+    },
+    {
+      "match": "battleSpam",
+      "image_id": 32611
+    },
+    {
+      "match": "battleWow",
+      "image_id": 33068
+    },
+    {
+      "match": "battleKappa",
+      "image_id": 34545
+    },
+    {
+      "match": "battleHype",
+      "image_id": 62987
+    },
+    {
+      "match": "battleLewd",
+      "image_id": 62988
+    },
+    {
+      "match": "battleGasm",
+      "image_id": 62989
+    }
+  ]
+}

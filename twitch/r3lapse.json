@@ -1,1 +1,19 @@
-{"name":"twitch-sub-r3lapse","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kershMeat","image_id":12721},{"match":"kershDisappointed","image_id":12722},{"match":"kershMoist","image_id":14192}]}
+{
+  "name": "twitch-sub-r3lapse",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kershMeat",
+      "image_id": 12721
+    },
+    {
+      "match": "kershDisappointed",
+      "image_id": 12722
+    },
+    {
+      "match": "kershMoist",
+      "image_id": 14192
+    }
+  ]
+}

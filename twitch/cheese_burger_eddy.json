@@ -1,1 +1,11 @@
-{"name":"twitch-sub-cheese_burger_eddy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"burgFail","image_id":45554}]}
+{
+  "name": "twitch-sub-cheese_burger_eddy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "burgFail",
+      "image_id": 45554
+    }
+  ]
+}

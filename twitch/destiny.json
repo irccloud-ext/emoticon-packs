@@ -1,1 +1,47 @@
-{"name":"twitch-sub-destiny","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nathanRuse","image_id":41971},{"match":"nathanDank","image_id":41972},{"match":"nathanFeels","image_id":41973},{"match":"nathanFather","image_id":41986},{"match":"nathanDad","image_id":41458},{"match":"nathanEww","image_id":46708},{"match":"nathanDubs1","image_id":44481},{"match":"nathanParty","image_id":44479},{"match":"nathanDubs3","image_id":44483},{"match":"nathanDubs2","image_id":44482}]}
+{
+  "name": "twitch-sub-destiny",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nathanRuse",
+      "image_id": 41971
+    },
+    {
+      "match": "nathanDank",
+      "image_id": 41972
+    },
+    {
+      "match": "nathanFeels",
+      "image_id": 41973
+    },
+    {
+      "match": "nathanFather",
+      "image_id": 41986
+    },
+    {
+      "match": "nathanDad",
+      "image_id": 41458
+    },
+    {
+      "match": "nathanEww",
+      "image_id": 46708
+    },
+    {
+      "match": "nathanDubs1",
+      "image_id": 44481
+    },
+    {
+      "match": "nathanParty",
+      "image_id": 44479
+    },
+    {
+      "match": "nathanDubs3",
+      "image_id": 44483
+    },
+    {
+      "match": "nathanDubs2",
+      "image_id": 44482
+    }
+  ]
+}

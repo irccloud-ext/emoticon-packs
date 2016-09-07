@@ -1,1 +1,75 @@
-{"name":"twitch-sub-day9tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dayJ","image_id":75},{"match":"dayHmm","image_id":1018},{"match":"dayHeart","image_id":3144},{"match":"dayDerp","image_id":3503},{"match":"dayTroll","image_id":4384},{"match":"dayP","image_id":33772},{"match":"dayG","image_id":33770},{"match":"dayB","image_id":33771},{"match":"dayDespy","image_id":35652},{"match":"daySheriff","image_id":35654},{"match":"dayJoy","image_id":34909},{"match":"dayRope","image_id":36248},{"match":"dayKnight","image_id":41651},{"match":"dayGoblin","image_id":50408},{"match":"daySave","image_id":53359},{"match":"dayBroken","image_id":58744},{"match":"dayGG","image_id":79624}]}
+{
+  "name": "twitch-sub-day9tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dayJ",
+      "image_id": 75
+    },
+    {
+      "match": "dayHmm",
+      "image_id": 1018
+    },
+    {
+      "match": "dayHeart",
+      "image_id": 3144
+    },
+    {
+      "match": "dayDerp",
+      "image_id": 3503
+    },
+    {
+      "match": "dayTroll",
+      "image_id": 4384
+    },
+    {
+      "match": "dayP",
+      "image_id": 33772
+    },
+    {
+      "match": "dayG",
+      "image_id": 33770
+    },
+    {
+      "match": "dayB",
+      "image_id": 33771
+    },
+    {
+      "match": "dayDespy",
+      "image_id": 35652
+    },
+    {
+      "match": "daySheriff",
+      "image_id": 35654
+    },
+    {
+      "match": "dayJoy",
+      "image_id": 34909
+    },
+    {
+      "match": "dayRope",
+      "image_id": 36248
+    },
+    {
+      "match": "dayKnight",
+      "image_id": 41651
+    },
+    {
+      "match": "dayGoblin",
+      "image_id": 50408
+    },
+    {
+      "match": "daySave",
+      "image_id": 53359
+    },
+    {
+      "match": "dayBroken",
+      "image_id": 58744
+    },
+    {
+      "match": "dayGG",
+      "image_id": 79624
+    }
+  ]
+}

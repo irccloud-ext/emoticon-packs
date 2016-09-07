@@ -1,1 +1,31 @@
-{"name":"twitch-sub-eastergamerstv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"easterCAY","image_id":24426},{"match":"easterYATARIK","image_id":90254},{"match":"easterSarma","image_id":89412},{"match":"easterPLS","image_id":96237},{"match":"easterYIS","image_id":95971},{"match":"easterANAM","image_id":96378}]}
+{
+  "name": "twitch-sub-eastergamerstv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "easterCAY",
+      "image_id": 24426
+    },
+    {
+      "match": "easterYATARIK",
+      "image_id": 90254
+    },
+    {
+      "match": "easterSarma",
+      "image_id": 89412
+    },
+    {
+      "match": "easterPLS",
+      "image_id": 96237
+    },
+    {
+      "match": "easterYIS",
+      "image_id": 95971
+    },
+    {
+      "match": "easterANAM",
+      "image_id": 96378
+    }
+  ]
+}

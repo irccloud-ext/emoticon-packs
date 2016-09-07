@@ -1,1 +1,47 @@
-{"name":"twitch-sub-shofu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shofuEwbaby","image_id":8785},{"match":"shofuPause","image_id":25920},{"match":"shofuBnf","image_id":25155},{"match":"shofuRealm","image_id":70626},{"match":"shofuDisney","image_id":70659},{"match":"shofuFree","image_id":70631},{"match":"shofuHype","image_id":70610},{"match":"shofuPacman","image_id":70482},{"match":"shofuBanned","image_id":70612},{"match":"shofuGawn","image_id":71146}]}
+{
+  "name": "twitch-sub-shofu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shofuEwbaby",
+      "image_id": 8785
+    },
+    {
+      "match": "shofuPause",
+      "image_id": 25920
+    },
+    {
+      "match": "shofuBnf",
+      "image_id": 25155
+    },
+    {
+      "match": "shofuRealm",
+      "image_id": 70626
+    },
+    {
+      "match": "shofuDisney",
+      "image_id": 70659
+    },
+    {
+      "match": "shofuFree",
+      "image_id": 70631
+    },
+    {
+      "match": "shofuHype",
+      "image_id": 70610
+    },
+    {
+      "match": "shofuPacman",
+      "image_id": 70482
+    },
+    {
+      "match": "shofuBanned",
+      "image_id": 70612
+    },
+    {
+      "match": "shofuGawn",
+      "image_id": 71146
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-kirastream","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kiraBan","image_id":38170},{"match":"kiraWoo","image_id":22140},{"match":"kiraNo","image_id":22143},{"match":"kiraJarro","image_id":38172},{"match":"kiraDiana","image_id":38171},{"match":"kiraRage","image_id":48869},{"match":"kiraGasm","image_id":48868},{"match":"kiraYolo","image_id":48930}]}
+{
+  "name": "twitch-sub-kirastream",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kiraBan",
+      "image_id": 38170
+    },
+    {
+      "match": "kiraWoo",
+      "image_id": 22140
+    },
+    {
+      "match": "kiraNo",
+      "image_id": 22143
+    },
+    {
+      "match": "kiraJarro",
+      "image_id": 38172
+    },
+    {
+      "match": "kiraDiana",
+      "image_id": 38171
+    },
+    {
+      "match": "kiraRage",
+      "image_id": 48869
+    },
+    {
+      "match": "kiraGasm",
+      "image_id": 48868
+    },
+    {
+      "match": "kiraYolo",
+      "image_id": 48930
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-esl_runonflat","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ronfHype","image_id":86813},{"match":"ronfClickClickBoom","image_id":95777}]}
+{
+  "name": "twitch-sub-esl_runonflat",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ronfHype",
+      "image_id": 86813
+    },
+    {
+      "match": "ronfClickClickBoom",
+      "image_id": 95777
+    }
+  ]
+}

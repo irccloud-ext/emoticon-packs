@@ -1,1 +1,39 @@
-{"name":"twitch-sub-sleepis4darich","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tnsHorsey","image_id":107627},{"match":"tnsBroken","image_id":107104},{"match":"tnsGates","image_id":107106},{"match":"tnsSubHype","image_id":107108},{"match":"tnsGG","image_id":107979},{"match":"tnsBruh","image_id":109504},{"match":"tnsFYT","image_id":109505}]}
+{
+  "name": "twitch-sub-sleepis4darich",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tnsHorsey",
+      "image_id": 107627
+    },
+    {
+      "match": "tnsGates",
+      "image_id": 107106
+    },
+    {
+      "match": "tnsSubHype",
+      "image_id": 107108
+    },
+    {
+      "match": "tnsBoyIfYouDont",
+      "image_id": 111857
+    },
+    {
+      "match": "tnsGG",
+      "image_id": 107979
+    },
+    {
+      "match": "tnsBruh",
+      "image_id": 109504
+    },
+    {
+      "match": "tnsFYT",
+      "image_id": 109505
+    },
+    {
+      "match": "tnsBill",
+      "image_id": 111719
+    }
+  ]
+}

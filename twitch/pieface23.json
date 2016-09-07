@@ -1,1 +1,35 @@
-{"name":"twitch-sub-pieface23","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pf23Legend","image_id":68982},{"match":"pf23Rage","image_id":68956},{"match":"pf23Love","image_id":70944},{"match":"pf23Harambae","image_id":111112},{"match":"pf23Scenes","image_id":86114},{"match":"pf23Kappa","image_id":98895},{"match":"pf23Hero","image_id":104911}]}
+{
+  "name": "twitch-sub-pieface23",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pf23Legend",
+      "image_id": 68982
+    },
+    {
+      "match": "pf23Rage",
+      "image_id": 68956
+    },
+    {
+      "match": "pf23Love",
+      "image_id": 70944
+    },
+    {
+      "match": "pf23Harambae",
+      "image_id": 111112
+    },
+    {
+      "match": "pf23Scenes",
+      "image_id": 86114
+    },
+    {
+      "match": "pf23Kappa",
+      "image_id": 98895
+    },
+    {
+      "match": "pf23Hero",
+      "image_id": 104911
+    }
+  ]
+}

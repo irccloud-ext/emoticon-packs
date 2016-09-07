@@ -1,1 +1,39 @@
-{"name":"twitch-sub-goseigen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"igoSatan","image_id":103735},{"match":"igoAloha","image_id":101352},{"match":"igoDangit","image_id":101942},{"match":"igoStumped","image_id":100600},{"match":"igoRuru","image_id":100601},{"match":"igoChomp","image_id":100602},{"match":"igoHam","image_id":105676},{"match":"igoMer","image_id":105677}]}
+{
+  "name": "twitch-sub-goseigen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "igoSatan",
+      "image_id": 103735
+    },
+    {
+      "match": "igoAloha",
+      "image_id": 101352
+    },
+    {
+      "match": "igoDangit",
+      "image_id": 101942
+    },
+    {
+      "match": "igoStumped",
+      "image_id": 100600
+    },
+    {
+      "match": "igoRuru",
+      "image_id": 100601
+    },
+    {
+      "match": "igoChomp",
+      "image_id": 100602
+    },
+    {
+      "match": "igoHam",
+      "image_id": 105676
+    },
+    {
+      "match": "igoMer",
+      "image_id": 105677
+    }
+  ]
+}

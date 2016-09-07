@@ -1,1 +1,171 @@
-{"name":"twitch-sub-xangold","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xanNinja","image_id":11018},{"match":"xanOMG","image_id":10404},{"match":"xanAlert","image_id":10406},{"match":"xanCash","image_id":10407},{"match":"xanRIP","image_id":16727},{"match":"xanFedora","image_id":16728},{"match":"xanAlpaca","image_id":9503},{"match":"xanBurn","image_id":10403},{"match":"xanViking","image_id":11135},{"match":"xanCop","image_id":11136},{"match":"xanCutie","image_id":11139},{"match":"xanLove","image_id":16730},{"match":"xanSad","image_id":10728},{"match":"xanPup","image_id":11137},{"match":"xanMooh","image_id":10734},{"match":"xanURF","image_id":11138},{"match":"xanEasy","image_id":11154},{"match":"xanGotchu","image_id":11384},{"match":"xanMammy","image_id":11385},{"match":"xanMax","image_id":11386},{"match":"xanGG","image_id":11156},{"match":"xanShapEile","image_id":11387},{"match":"xanHY","image_id":11301},{"match":"xanPE","image_id":11302},{"match":"xanPole","image_id":46760},{"match":"xanSun","image_id":13157},{"match":"xan8Ball","image_id":17795},{"match":"xanBulance","image_id":18768},{"match":"xanInLove","image_id":27154},{"match":"xanBYE","image_id":27155},{"match":"xanNotAmused","image_id":27156},{"match":"xanRage","image_id":27157},{"match":"xanWhat","image_id":27159},{"match":"xanHusky","image_id":26097},{"match":"xanDerp","image_id":26107},{"match":"xanUp","image_id":8122},{"match":"xanDown","image_id":8123},{"match":"xanLeft","image_id":8124},{"match":"xanRight","image_id":8125},{"match":"xanO","image_id":80800},{"match":"xanP","image_id":97478}]}
+{
+  "name": "twitch-sub-xangold",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xanNinja",
+      "image_id": 11018
+    },
+    {
+      "match": "xanOMG",
+      "image_id": 10404
+    },
+    {
+      "match": "xanAlert",
+      "image_id": 10406
+    },
+    {
+      "match": "xanCash",
+      "image_id": 10407
+    },
+    {
+      "match": "xanRIP",
+      "image_id": 16727
+    },
+    {
+      "match": "xanFedora",
+      "image_id": 16728
+    },
+    {
+      "match": "xanAlpaca",
+      "image_id": 9503
+    },
+    {
+      "match": "xanBurn",
+      "image_id": 10403
+    },
+    {
+      "match": "xanViking",
+      "image_id": 11135
+    },
+    {
+      "match": "xanCop",
+      "image_id": 11136
+    },
+    {
+      "match": "xanCutie",
+      "image_id": 11139
+    },
+    {
+      "match": "xanLove",
+      "image_id": 16730
+    },
+    {
+      "match": "xanSad",
+      "image_id": 10728
+    },
+    {
+      "match": "xanPup",
+      "image_id": 11137
+    },
+    {
+      "match": "xanMooh",
+      "image_id": 10734
+    },
+    {
+      "match": "xanURF",
+      "image_id": 11138
+    },
+    {
+      "match": "xanEasy",
+      "image_id": 11154
+    },
+    {
+      "match": "xanGotchu",
+      "image_id": 11384
+    },
+    {
+      "match": "xanMammy",
+      "image_id": 11385
+    },
+    {
+      "match": "xanMax",
+      "image_id": 11386
+    },
+    {
+      "match": "xanGG",
+      "image_id": 11156
+    },
+    {
+      "match": "xanShapEile",
+      "image_id": 11387
+    },
+    {
+      "match": "xanHY",
+      "image_id": 11301
+    },
+    {
+      "match": "xanPE",
+      "image_id": 11302
+    },
+    {
+      "match": "xanPole",
+      "image_id": 46760
+    },
+    {
+      "match": "xanSun",
+      "image_id": 13157
+    },
+    {
+      "match": "xan8Ball",
+      "image_id": 17795
+    },
+    {
+      "match": "xanBulance",
+      "image_id": 18768
+    },
+    {
+      "match": "xanInLove",
+      "image_id": 27154
+    },
+    {
+      "match": "xanBYE",
+      "image_id": 27155
+    },
+    {
+      "match": "xanNotAmused",
+      "image_id": 27156
+    },
+    {
+      "match": "xanRage",
+      "image_id": 27157
+    },
+    {
+      "match": "xanWhat",
+      "image_id": 27159
+    },
+    {
+      "match": "xanHusky",
+      "image_id": 26097
+    },
+    {
+      "match": "xanDerp",
+      "image_id": 26107
+    },
+    {
+      "match": "xanUp",
+      "image_id": 8122
+    },
+    {
+      "match": "xanDown",
+      "image_id": 8123
+    },
+    {
+      "match": "xanLeft",
+      "image_id": 8124
+    },
+    {
+      "match": "xanRight",
+      "image_id": 8125
+    },
+    {
+      "match": "xanO",
+      "image_id": 80800
+    },
+    {
+      "match": "xanP",
+      "image_id": 97478
+    }
+  ]
+}

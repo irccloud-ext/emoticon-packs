@@ -1,1 +1,23 @@
-{"name":"twitch-sub-0nuqtive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"onuqFail","image_id":102317},{"match":"onuqGood","image_id":102315},{"match":"onuqCry","image_id":101828},{"match":"onuqBloody","image_id":102312}]}
+{
+  "name": "twitch-sub-0nuqtive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "onuqFail",
+      "image_id": 102317
+    },
+    {
+      "match": "onuqGood",
+      "image_id": 102315
+    },
+    {
+      "match": "onuqCry",
+      "image_id": 101828
+    },
+    {
+      "match": "onuqBloody",
+      "image_id": 102312
+    }
+  ]
+}

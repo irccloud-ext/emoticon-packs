@@ -1,1 +1,39 @@
-{"name":"twitch-sub-michaelaverage","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aveFace","image_id":24225},{"match":"aveRage","image_id":26788},{"match":"aveZapaty","image_id":51000},{"match":"aveMucha","image_id":50999},{"match":"aveW","image_id":99050},{"match":"aveFlash","image_id":79985},{"match":"aveD","image_id":107351},{"match":"aveLORE","image_id":107350}]}
+{
+  "name": "twitch-sub-michaelaverage",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aveFace",
+      "image_id": 24225
+    },
+    {
+      "match": "aveRage",
+      "image_id": 26788
+    },
+    {
+      "match": "aveZapaty",
+      "image_id": 51000
+    },
+    {
+      "match": "aveMucha",
+      "image_id": 50999
+    },
+    {
+      "match": "aveW",
+      "image_id": 99050
+    },
+    {
+      "match": "aveFlash",
+      "image_id": 79985
+    },
+    {
+      "match": "aveD",
+      "image_id": 107351
+    },
+    {
+      "match": "aveLORE",
+      "image_id": 107350
+    }
+  ]
+}

@@ -1,1 +1,43 @@
-{"name":"twitch-sub-spartanthedogg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"spartyFace","image_id":36256},{"match":"spartyPug","image_id":47997},{"match":"spartyKappa","image_id":48951},{"match":"spartyRIP","image_id":85688},{"match":"spartyOhMy","image_id":85681},{"match":"spartyLove","image_id":97311},{"match":"spartyLiquid","image_id":97312},{"match":"spartyHype","image_id":97313},{"match":"spartyGasm","image_id":97314}]}
+{
+  "name": "twitch-sub-spartanthedogg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "spartyFace",
+      "image_id": 36256
+    },
+    {
+      "match": "spartyPug",
+      "image_id": 47997
+    },
+    {
+      "match": "spartyKappa",
+      "image_id": 48951
+    },
+    {
+      "match": "spartyRIP",
+      "image_id": 85688
+    },
+    {
+      "match": "spartyOhMy",
+      "image_id": 85681
+    },
+    {
+      "match": "spartyLove",
+      "image_id": 97311
+    },
+    {
+      "match": "spartyLiquid",
+      "image_id": 97312
+    },
+    {
+      "match": "spartyHype",
+      "image_id": 97313
+    },
+    {
+      "match": "spartyGasm",
+      "image_id": 97314
+    }
+  ]
+}

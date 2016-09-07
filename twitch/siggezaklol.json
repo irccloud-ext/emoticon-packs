@@ -1,1 +1,39 @@
-{"name":"twitch-sub-siggezaklol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sigge69","image_id":94735},{"match":"siggeTog","image_id":97064},{"match":"siggeLapper","image_id":97065},{"match":"siggeWendel","image_id":94582},{"match":"siggeBoosted","image_id":96945},{"match":"siggeMaase","image_id":94592},{"match":"siggeRage","image_id":94555},{"match":"siggeBurger","image_id":94556}]}
+{
+  "name": "twitch-sub-siggezaklol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sigge69",
+      "image_id": 94735
+    },
+    {
+      "match": "siggeTog",
+      "image_id": 97064
+    },
+    {
+      "match": "siggeLapper",
+      "image_id": 97065
+    },
+    {
+      "match": "siggeWendel",
+      "image_id": 94582
+    },
+    {
+      "match": "siggeBoosted",
+      "image_id": 96945
+    },
+    {
+      "match": "siggeMaase",
+      "image_id": 94592
+    },
+    {
+      "match": "siggeRage",
+      "image_id": 94555
+    },
+    {
+      "match": "siggeBurger",
+      "image_id": 94556
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-innominatus","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"innoRewind","image_id":30013},{"match":"innoLove","image_id":32128},{"match":"innoPoly","image_id":43538},{"match":"innoLd","image_id":56691},{"match":"innoPe","image_id":60567},{"match":"innoEndo","image_id":69793}]}
+{
+  "name": "twitch-sub-innominatus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "innoRewind",
+      "image_id": 30013
+    },
+    {
+      "match": "innoLove",
+      "image_id": 32128
+    },
+    {
+      "match": "innoPoly",
+      "image_id": 43538
+    },
+    {
+      "match": "innoLd",
+      "image_id": 56691
+    },
+    {
+      "match": "innoPe",
+      "image_id": 60567
+    },
+    {
+      "match": "innoEndo",
+      "image_id": 69793
+    }
+  ]
+}

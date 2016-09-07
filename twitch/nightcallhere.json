@@ -1,1 +1,31 @@
-{"name":"twitch-sub-nightcallhere","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nightcallW","image_id":51951},{"match":"nightcallKappa","image_id":54119},{"match":"nightcallANAN","image_id":55554},{"match":"nightcallMisplay","image_id":54404},{"match":"nightcallClap","image_id":87659},{"match":"nightcallTrolden","image_id":92059}]}
+{
+  "name": "twitch-sub-nightcallhere",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nightcallW",
+      "image_id": 51951
+    },
+    {
+      "match": "nightcallKappa",
+      "image_id": 54119
+    },
+    {
+      "match": "nightcallANAN",
+      "image_id": 55554
+    },
+    {
+      "match": "nightcallMisplay",
+      "image_id": 54404
+    },
+    {
+      "match": "nightcallClap",
+      "image_id": 87659
+    },
+    {
+      "match": "nightcallTrolden",
+      "image_id": 92059
+    }
+  ]
+}

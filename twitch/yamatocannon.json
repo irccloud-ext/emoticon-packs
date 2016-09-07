@@ -1,1 +1,27 @@
-{"name":"twitch-sub-yamatocannon","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yamatoSuitup","image_id":65525},{"match":"yamatoNando","image_id":56189},{"match":"yamatoW","image_id":57110},{"match":"yamatoRage","image_id":60562},{"match":"yamatoClown","image_id":65392}]}
+{
+  "name": "twitch-sub-yamatocannon",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yamatoSuitup",
+      "image_id": 65525
+    },
+    {
+      "match": "yamatoNando",
+      "image_id": 56189
+    },
+    {
+      "match": "yamatoW",
+      "image_id": 57110
+    },
+    {
+      "match": "yamatoRage",
+      "image_id": 60562
+    },
+    {
+      "match": "yamatoClown",
+      "image_id": 65392
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-xoynuzi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"eniZugriff","image_id":109545},{"match":"eniBoosted","image_id":109525},{"match":"eniSalty","image_id":109828},{"match":"eniGasm","image_id":109833},{"match":"eniHype","image_id":109737},{"match":"eniAltimate","image_id":109738},{"match":"eniGrill","image_id":110457},{"match":"eniCoco","image_id":110877}]}
+{
+  "name": "twitch-sub-xoynuzi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "eniZugriff",
+      "image_id": 109545
+    },
+    {
+      "match": "eniBoosted",
+      "image_id": 109525
+    },
+    {
+      "match": "eniSalty",
+      "image_id": 109828
+    },
+    {
+      "match": "eniGasm",
+      "image_id": 109833
+    },
+    {
+      "match": "eniHype",
+      "image_id": 109737
+    },
+    {
+      "match": "eniAltimate",
+      "image_id": 109738
+    },
+    {
+      "match": "eniGrill",
+      "image_id": 110457
+    },
+    {
+      "match": "eniCoco",
+      "image_id": 110877
+    }
+  ]
+}

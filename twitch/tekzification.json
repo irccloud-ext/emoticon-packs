@@ -1,1 +1,35 @@
-{"name":"twitch-sub-tekzification","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tekziSub","image_id":47544},{"match":"tekzi69","image_id":47501},{"match":"tekziBiscotte","image_id":41937},{"match":"tekziChamp","image_id":42170},{"match":"tekziTitan","image_id":56223},{"match":"tekziGems","image_id":82552},{"match":"tekziRIP","image_id":82551}]}
+{
+  "name": "twitch-sub-tekzification",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tekziSub",
+      "image_id": 47544
+    },
+    {
+      "match": "tekzi69",
+      "image_id": 47501
+    },
+    {
+      "match": "tekziBiscotte",
+      "image_id": 41937
+    },
+    {
+      "match": "tekziChamp",
+      "image_id": 42170
+    },
+    {
+      "match": "tekziTitan",
+      "image_id": 56223
+    },
+    {
+      "match": "tekziGems",
+      "image_id": 82552
+    },
+    {
+      "match": "tekziRIP",
+      "image_id": 82551
+    }
+  ]
+}

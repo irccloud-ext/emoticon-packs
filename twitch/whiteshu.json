@@ -1,1 +1,31 @@
-{"name":"twitch-sub-whiteshu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mo1Oh","image_id":81511},{"match":"mo1NoProblem","image_id":81512},{"match":"mo1ShutUp","image_id":81513},{"match":"mo1Ohohoh","image_id":81514},{"match":"mo1WhatThe","image_id":81515},{"match":"mo187","image_id":82210}]}
+{
+  "name": "twitch-sub-whiteshu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mo1Oh",
+      "image_id": 81511
+    },
+    {
+      "match": "mo1NoProblem",
+      "image_id": 81512
+    },
+    {
+      "match": "mo1ShutUp",
+      "image_id": 81513
+    },
+    {
+      "match": "mo1Ohohoh",
+      "image_id": 81514
+    },
+    {
+      "match": "mo1WhatThe",
+      "image_id": 81515
+    },
+    {
+      "match": "mo187",
+      "image_id": 82210
+    }
+  ]
+}

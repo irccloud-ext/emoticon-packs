@@ -1,1 +1,11 @@
-{"name":"twitch-sub-zakreble","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zakuLove","image_id":75956}]}
+{
+  "name": "twitch-sub-zakreble",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zakuLove",
+      "image_id": 75956
+    }
+  ]
+}

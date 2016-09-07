@@ -1,1 +1,63 @@
-{"name":"twitch-sub-kampyvids","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kampyNaireHype","image_id":57301},{"match":"kampyWelcome","image_id":63024},{"match":"kampyTater","image_id":102845},{"match":"kampyWaow","image_id":67019},{"match":"kampySlinkyRage","image_id":63027},{"match":"kampyDino","image_id":60722},{"match":"kampyChoke","image_id":80925},{"match":"kampyBungie","image_id":80926},{"match":"kampyNinja","image_id":91313},{"match":"kampyGasm","image_id":91314},{"match":"kampyChamp","image_id":102855},{"match":"kampyRockets","image_id":102846},{"match":"kampyBronze","image_id":102960},{"match":"kampyLUL","image_id":102927},{"match":"kampyC","image_id":102912}]}
+{
+  "name": "twitch-sub-kampyvids",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kampyNaireHype",
+      "image_id": 57301
+    },
+    {
+      "match": "kampyWelcome",
+      "image_id": 63024
+    },
+    {
+      "match": "kampyTater",
+      "image_id": 102845
+    },
+    {
+      "match": "kampyDino",
+      "image_id": 60722
+    },
+    {
+      "match": "kampyBomb",
+      "image_id": 112526
+    },
+    {
+      "match": "kampyChoke",
+      "image_id": 80925
+    },
+    {
+      "match": "kampyBungie",
+      "image_id": 80926
+    },
+    {
+      "match": "kampyNinja",
+      "image_id": 91313
+    },
+    {
+      "match": "kampyGasm",
+      "image_id": 91314
+    },
+    {
+      "match": "kampyChamp",
+      "image_id": 102855
+    },
+    {
+      "match": "kampyRockets",
+      "image_id": 102846
+    },
+    {
+      "match": "kampyBronze",
+      "image_id": 102960
+    },
+    {
+      "match": "kampyLUL",
+      "image_id": 102927
+    },
+    {
+      "match": "kampyC",
+      "image_id": 102912
+    }
+  ]
+}

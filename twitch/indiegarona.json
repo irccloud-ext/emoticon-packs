@@ -1,1 +1,31 @@
-{"name":"twitch-sub-indiegarona","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"indiLOVE","image_id":95885},{"match":"indiLURK","image_id":95884},{"match":"indiDERP","image_id":100681},{"match":"indiRIP","image_id":100684},{"match":"indiHEARTH","image_id":105333},{"match":"indiHYPE","image_id":105435}]}
+{
+  "name": "twitch-sub-indiegarona",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "indiLOVE",
+      "image_id": 95885
+    },
+    {
+      "match": "indiLURK",
+      "image_id": 95884
+    },
+    {
+      "match": "indiDERP",
+      "image_id": 100681
+    },
+    {
+      "match": "indiRIP",
+      "image_id": 100684
+    },
+    {
+      "match": "indiHEARTH",
+      "image_id": 105333
+    },
+    {
+      "match": "indiHYPE",
+      "image_id": 105435
+    }
+  ]
+}

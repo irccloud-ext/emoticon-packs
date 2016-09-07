@@ -1,1 +1,11 @@
-{"name":"twitch-sub-axryung","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ryungIMBA","image_id":67940}]}
+{
+  "name": "twitch-sub-axryung",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ryungIMBA",
+      "image_id": 67940
+    }
+  ]
+}

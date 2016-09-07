@@ -1,1 +1,15 @@
-{"name":"twitch-sub-igoturpistola","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"olaFace","image_id":56482},{"match":"olaWizardhat","image_id":56481}]}
+{
+  "name": "twitch-sub-igoturpistola",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "olaFace",
+      "image_id": 56482
+    },
+    {
+      "match": "olaWizardhat",
+      "image_id": 56481
+    }
+  ]
+}

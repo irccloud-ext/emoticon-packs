@@ -1,1 +1,27 @@
-{"name":"twitch-sub-molldenntv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"molldennGEIL","image_id":91784},{"match":"molldennOLE","image_id":91207},{"match":"molldennOMG","image_id":91796},{"match":"molldennHS","image_id":91228},{"match":"molldennBAJER","image_id":103558}]}
+{
+  "name": "twitch-sub-molldenntv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "molldennGEIL",
+      "image_id": 91784
+    },
+    {
+      "match": "molldennOLE",
+      "image_id": 91207
+    },
+    {
+      "match": "molldennOMG",
+      "image_id": 91796
+    },
+    {
+      "match": "molldennHS",
+      "image_id": 91228
+    },
+    {
+      "match": "molldennBAJER",
+      "image_id": 103558
+    }
+  ]
+}

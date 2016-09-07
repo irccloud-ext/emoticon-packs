@@ -1,1 +1,27 @@
-{"name":"twitch-sub-k0reangamer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"koreanSour","image_id":38641},{"match":"koreanMeal","image_id":38913},{"match":"koreanThump","image_id":42168},{"match":"koreanKawaii","image_id":41670},{"match":"korean5","image_id":44960}]}
+{
+  "name": "twitch-sub-k0reangamer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "koreanSour",
+      "image_id": 38641
+    },
+    {
+      "match": "koreanMeal",
+      "image_id": 38913
+    },
+    {
+      "match": "koreanThump",
+      "image_id": 42168
+    },
+    {
+      "match": "koreanKawaii",
+      "image_id": 41670
+    },
+    {
+      "match": "korean5",
+      "image_id": 44960
+    }
+  ]
+}

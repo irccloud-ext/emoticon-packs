@@ -1,1 +1,15 @@
-{"name":"twitch-sub-worldclasslol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"Happy","image_id":18263},{"match":"Wat","image_id":18264}]}
+{
+  "name": "twitch-sub-worldclasslol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "Happy",
+      "image_id": 18263
+    },
+    {
+      "match": "Wat",
+      "image_id": 18264
+    }
+  ]
+}

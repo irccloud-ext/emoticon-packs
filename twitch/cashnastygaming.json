@@ -1,1 +1,87 @@
-{"name":"twitch-sub-cashnastygaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cashAsh","image_id":11473},{"match":"cashYeet","image_id":12819},{"match":"cashDog","image_id":14605},{"match":"cashKing","image_id":14101},{"match":"cashChoke","image_id":25208},{"match":"cashOwl","image_id":25214},{"match":"cashOmg","image_id":33527},{"match":"cashReally","image_id":33022},{"match":"cashCry","image_id":32967},{"match":"cashFire","image_id":49329},{"match":"cashEar","image_id":72770},{"match":"cashSleep","image_id":78219},{"match":"cashFax","image_id":78222},{"match":"cashHype","image_id":86945},{"match":"cashDerp","image_id":86944},{"match":"cashSweat","image_id":99523},{"match":"cashHa","image_id":99522},{"match":"cashTim","image_id":100744},{"match":"cashCmon","image_id":106989},{"match":"cashCringe","image_id":106991}]}
+{
+  "name": "twitch-sub-cashnastygaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cashAsh",
+      "image_id": 11473
+    },
+    {
+      "match": "cashYeet",
+      "image_id": 12819
+    },
+    {
+      "match": "cashDog",
+      "image_id": 14605
+    },
+    {
+      "match": "cashKing",
+      "image_id": 14101
+    },
+    {
+      "match": "cashChoke",
+      "image_id": 25208
+    },
+    {
+      "match": "cashOwl",
+      "image_id": 25214
+    },
+    {
+      "match": "cashOmg",
+      "image_id": 33527
+    },
+    {
+      "match": "cashReally",
+      "image_id": 33022
+    },
+    {
+      "match": "cashCry",
+      "image_id": 32967
+    },
+    {
+      "match": "cashFire",
+      "image_id": 49329
+    },
+    {
+      "match": "cashEar",
+      "image_id": 72770
+    },
+    {
+      "match": "cashSleep",
+      "image_id": 78219
+    },
+    {
+      "match": "cashFax",
+      "image_id": 78222
+    },
+    {
+      "match": "cashHype",
+      "image_id": 86945
+    },
+    {
+      "match": "cashDerp",
+      "image_id": 86944
+    },
+    {
+      "match": "cashSweat",
+      "image_id": 99523
+    },
+    {
+      "match": "cashHa",
+      "image_id": 99522
+    },
+    {
+      "match": "cashTim",
+      "image_id": 100744
+    },
+    {
+      "match": "cashCmon",
+      "image_id": 106989
+    },
+    {
+      "match": "cashCringe",
+      "image_id": 106991
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-mmoden","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"limpyGG","image_id":2857},{"match":"limpyMad","image_id":22094},{"match":"limpyTU","image_id":22095},{"match":"limpyT","image_id":22093},{"match":"limpyBB","image_id":22090},{"match":"limpyJJ","image_id":22091},{"match":"limpyDog","image_id":22092},{"match":"limpyH","image_id":25844},{"match":"limpyC","image_id":28949},{"match":"limpyV","image_id":28950}]}
+{
+  "name": "twitch-sub-mmoden",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "limpyGG",
+      "image_id": 2857
+    },
+    {
+      "match": "limpyMad",
+      "image_id": 22094
+    },
+    {
+      "match": "limpyTU",
+      "image_id": 22095
+    },
+    {
+      "match": "limpyT",
+      "image_id": 22093
+    },
+    {
+      "match": "limpyBB",
+      "image_id": 22090
+    },
+    {
+      "match": "limpyJJ",
+      "image_id": 22091
+    },
+    {
+      "match": "limpyDog",
+      "image_id": 22092
+    },
+    {
+      "match": "limpyH",
+      "image_id": 25844
+    },
+    {
+      "match": "limpyC",
+      "image_id": 28949
+    },
+    {
+      "match": "limpyV",
+      "image_id": 28950
+    }
+  ]
+}

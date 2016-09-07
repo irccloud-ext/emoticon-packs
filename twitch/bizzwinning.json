@@ -1,1 +1,15 @@
-{"name":"twitch-sub-bizzwinning","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"winningRAGE","image_id":82678},{"match":"winningHYPE","image_id":82677}]}
+{
+  "name": "twitch-sub-bizzwinning",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "winningRAGE",
+      "image_id": 82678
+    },
+    {
+      "match": "winningHYPE",
+      "image_id": 82677
+    }
+  ]
+}

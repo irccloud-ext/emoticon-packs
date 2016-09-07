@@ -1,1 +1,23 @@
-{"name":"twitch-sub-leko92","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lekoKappa","image_id":66288},{"match":"lekoMacaco","image_id":66289},{"match":"lekoTamo","image_id":66286},{"match":"lekoUrf","image_id":66287}]}
+{
+  "name": "twitch-sub-leko92",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lekoKappa",
+      "image_id": 66288
+    },
+    {
+      "match": "lekoMacaco",
+      "image_id": 66289
+    },
+    {
+      "match": "lekoTamo",
+      "image_id": 66286
+    },
+    {
+      "match": "lekoUrf",
+      "image_id": 66287
+    }
+  ]
+}

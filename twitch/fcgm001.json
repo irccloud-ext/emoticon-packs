@@ -1,1 +1,27 @@
-{"name":"twitch-sub-fcgm001","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"angelSleep","image_id":53796},{"match":"angelDotz","image_id":53671},{"match":"angelCry","image_id":50549},{"match":"angelYum","image_id":50547},{"match":"angelHungry","image_id":53797}]}
+{
+  "name": "twitch-sub-fcgm001",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "angelSleep",
+      "image_id": 53796
+    },
+    {
+      "match": "angelDotz",
+      "image_id": 53671
+    },
+    {
+      "match": "angelCry",
+      "image_id": 50549
+    },
+    {
+      "match": "angelYum",
+      "image_id": 50547
+    },
+    {
+      "match": "angelHungry",
+      "image_id": 53797
+    }
+  ]
+}

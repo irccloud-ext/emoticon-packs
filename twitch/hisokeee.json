@@ -1,1 +1,39 @@
-{"name":"twitch-sub-hisokeee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hisoRigged","image_id":60661},{"match":"hisoScum","image_id":53193},{"match":"hisoDerp","image_id":54681},{"match":"hisoMoan","image_id":53520},{"match":"hisoCate","image_id":59579},{"match":"hisoXD","image_id":60162},{"match":"hisoPomp","image_id":58789},{"match":"hisoBruh","image_id":109163}]}
+{
+  "name": "twitch-sub-hisokeee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hisoRigged",
+      "image_id": 60661
+    },
+    {
+      "match": "hisoScum",
+      "image_id": 53193
+    },
+    {
+      "match": "hisoDerp",
+      "image_id": 54681
+    },
+    {
+      "match": "hisoMoan",
+      "image_id": 53520
+    },
+    {
+      "match": "hisoCate",
+      "image_id": 59579
+    },
+    {
+      "match": "hisoXD",
+      "image_id": 60162
+    },
+    {
+      "match": "hisoPomp",
+      "image_id": 58789
+    },
+    {
+      "match": "hisoBruh",
+      "image_id": 109163
+    }
+  ]
+}

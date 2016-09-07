@@ -1,1 +1,19 @@
-{"name":"twitch-sub-nolife","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nolNoco","image_id":59031},{"match":"nolNolife","image_id":59030},{"match":"nolNormal","image_id":47948}]}
+{
+  "name": "twitch-sub-nolife",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nolNoco",
+      "image_id": 59031
+    },
+    {
+      "match": "nolNolife",
+      "image_id": 59030
+    },
+    {
+      "match": "nolNormal",
+      "image_id": 47948
+    }
+  ]
+}

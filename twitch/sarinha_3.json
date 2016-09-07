@@ -1,1 +1,23 @@
-{"name":"twitch-sub-sarinha_3","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"spigOk","image_id":90191},{"match":"spigGorro","image_id":90190},{"match":"spigSarinha","image_id":88652},{"match":"spigChipy","image_id":88651}]}
+{
+  "name": "twitch-sub-sarinha_3",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "spigOk",
+      "image_id": 90191
+    },
+    {
+      "match": "spigGorro",
+      "image_id": 90190
+    },
+    {
+      "match": "spigSarinha",
+      "image_id": 88652
+    },
+    {
+      "match": "spigChipy",
+      "image_id": 88651
+    }
+  ]
+}

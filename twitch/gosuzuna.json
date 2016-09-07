@@ -1,1 +1,23 @@
-{"name":"twitch-sub-gosuzuna","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zunaPug","image_id":29424},{"match":"zunaWarglaives","image_id":31291},{"match":"zunaAbathur","image_id":30577},{"match":"zunaFace","image_id":32178}]}
+{
+  "name": "twitch-sub-gosuzuna",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zunaPug",
+      "image_id": 29424
+    },
+    {
+      "match": "zunaWarglaives",
+      "image_id": 31291
+    },
+    {
+      "match": "zunaAbathur",
+      "image_id": 30577
+    },
+    {
+      "match": "zunaFace",
+      "image_id": 32178
+    }
+  ]
+}

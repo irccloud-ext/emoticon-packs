@@ -1,1 +1,39 @@
-{"name":"twitch-sub-queen_jelz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jelzFeels","image_id":98142},{"match":"jelzWhip","image_id":98424},{"match":"jelzW","image_id":71173},{"match":"jelzHype","image_id":98143},{"match":"jelzLove","image_id":98144},{"match":"jelzHey","image_id":98145},{"match":"jelzOldman","image_id":98146},{"match":"jelzPee","image_id":98147}]}
+{
+  "name": "twitch-sub-queen_jelz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jelzFeels",
+      "image_id": 98142
+    },
+    {
+      "match": "jelzWhip",
+      "image_id": 98424
+    },
+    {
+      "match": "jelzW",
+      "image_id": 71173
+    },
+    {
+      "match": "jelzHype",
+      "image_id": 98143
+    },
+    {
+      "match": "jelzLove",
+      "image_id": 98144
+    },
+    {
+      "match": "jelzHey",
+      "image_id": 98145
+    },
+    {
+      "match": "jelzOldman",
+      "image_id": 98146
+    },
+    {
+      "match": "jelzPee",
+      "image_id": 98147
+    }
+  ]
+}

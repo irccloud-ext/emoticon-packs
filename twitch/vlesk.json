@@ -1,1 +1,31 @@
-{"name":"twitch-sub-vlesk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vleskStare","image_id":28688},{"match":"vleskW","image_id":48166},{"match":"vleskPleb","image_id":54067},{"match":"vleskWut","image_id":69810},{"match":"vleskH","image_id":69803},{"match":"vleskCookie","image_id":88724}]}
+{
+  "name": "twitch-sub-vlesk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vleskStare",
+      "image_id": 28688
+    },
+    {
+      "match": "vleskPleb",
+      "image_id": 54067
+    },
+    {
+      "match": "vleskWut",
+      "image_id": 69810
+    },
+    {
+      "match": "vleskH",
+      "image_id": 69803
+    },
+    {
+      "match": "vleskCookie",
+      "image_id": 88724
+    },
+    {
+      "match": "vleskFeels",
+      "image_id": 112089
+    }
+  ]
+}

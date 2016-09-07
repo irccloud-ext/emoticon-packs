@@ -1,1 +1,35 @@
-{"name":"twitch-sub-zero","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"scarfDu","image_id":60673},{"match":"scarfEvo","image_id":60849},{"match":"scarfChile","image_id":60604},{"match":"scarfKappa","image_id":60605},{"match":"scarfPizza","image_id":60672},{"match":"scarfArmy","image_id":60602},{"match":"scarfHoo","image_id":60601}]}
+{
+  "name": "twitch-sub-zero",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "scarfDu",
+      "image_id": 60673
+    },
+    {
+      "match": "scarfEvo",
+      "image_id": 60849
+    },
+    {
+      "match": "scarfChile",
+      "image_id": 60604
+    },
+    {
+      "match": "scarfKappa",
+      "image_id": 60605
+    },
+    {
+      "match": "scarfPizza",
+      "image_id": 60672
+    },
+    {
+      "match": "scarfArmy",
+      "image_id": 60602
+    },
+    {
+      "match": "scarfHoo",
+      "image_id": 60601
+    }
+  ]
+}

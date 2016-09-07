@@ -1,1 +1,39 @@
-{"name":"twitch-sub-lulaboo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lulaHank","image_id":27763},{"match":"lulaRage","image_id":29624},{"match":"lulaSns","image_id":31656},{"match":"lulaPray","image_id":44088},{"match":"lulaPuke","image_id":50323},{"match":"lulaYay","image_id":50324},{"match":"lulaOnion","image_id":104159},{"match":"lulaDidit","image_id":104158}]}
+{
+  "name": "twitch-sub-lulaboo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lulaHank",
+      "image_id": 27763
+    },
+    {
+      "match": "lulaRage",
+      "image_id": 29624
+    },
+    {
+      "match": "lulaSns",
+      "image_id": 31656
+    },
+    {
+      "match": "lulaPray",
+      "image_id": 44088
+    },
+    {
+      "match": "lulaPuke",
+      "image_id": 50323
+    },
+    {
+      "match": "lulaYay",
+      "image_id": 50324
+    },
+    {
+      "match": "lulaOnion",
+      "image_id": 104159
+    },
+    {
+      "match": "lulaDidit",
+      "image_id": 104158
+    }
+  ]
+}

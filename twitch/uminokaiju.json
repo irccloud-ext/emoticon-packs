@@ -1,1 +1,67 @@
-{"name":"twitch-sub-uminokaiju","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"umiNom","image_id":6065},{"match":"umiZhonya","image_id":6138},{"match":"umiKS","image_id":7962},{"match":"umiLOL","image_id":8870},{"match":"umiWave","image_id":30751},{"match":"umiYip","image_id":12097},{"match":"umiAYE","image_id":17431},{"match":"umiUmi","image_id":32231},{"match":"umiRapid","image_id":37734},{"match":"umiNami","image_id":37733},{"match":"umiLaser","image_id":60089},{"match":"umiTroll","image_id":68325},{"match":"umiCry","image_id":68180},{"match":"umiGasm","image_id":82452},{"match":"umiHeart","image_id":109511}]}
+{
+  "name": "twitch-sub-uminokaiju",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "umiNom",
+      "image_id": 6065
+    },
+    {
+      "match": "umiZhonya",
+      "image_id": 6138
+    },
+    {
+      "match": "umiKS",
+      "image_id": 7962
+    },
+    {
+      "match": "umiLOL",
+      "image_id": 8870
+    },
+    {
+      "match": "umiWave",
+      "image_id": 30751
+    },
+    {
+      "match": "umiYip",
+      "image_id": 12097
+    },
+    {
+      "match": "umiAYE",
+      "image_id": 17431
+    },
+    {
+      "match": "umiUmi",
+      "image_id": 32231
+    },
+    {
+      "match": "umiRapid",
+      "image_id": 37734
+    },
+    {
+      "match": "umiNami",
+      "image_id": 37733
+    },
+    {
+      "match": "umiLaser",
+      "image_id": 60089
+    },
+    {
+      "match": "umiTroll",
+      "image_id": 68325
+    },
+    {
+      "match": "umiCry",
+      "image_id": 68180
+    },
+    {
+      "match": "umiGasm",
+      "image_id": 82452
+    },
+    {
+      "match": "umiHeart",
+      "image_id": 109511
+    }
+  ]
+}

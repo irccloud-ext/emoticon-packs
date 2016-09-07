@@ -1,1 +1,31 @@
-{"name":"twitch-sub-frostfangstv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fangsHEART","image_id":98052},{"match":"fangsRAGE","image_id":93578},{"match":"fangsHYPE","image_id":93575},{"match":"fangsLOL","image_id":94874},{"match":"fangsSAD","image_id":96287},{"match":"fangsRIP","image_id":95426}]}
+{
+  "name": "twitch-sub-frostfangstv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fangsHEART",
+      "image_id": 98052
+    },
+    {
+      "match": "fangsRAGE",
+      "image_id": 93578
+    },
+    {
+      "match": "fangsHYPE",
+      "image_id": 93575
+    },
+    {
+      "match": "fangsLOL",
+      "image_id": 94874
+    },
+    {
+      "match": "fangsSAD",
+      "image_id": 96287
+    },
+    {
+      "match": "fangsRIP",
+      "image_id": 95426
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-itsdemented","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dementedGetTheD","image_id":94085},{"match":"dementedYGOD","image_id":94084}]}
+{
+  "name": "twitch-sub-itsdemented",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dementedGetTheD",
+      "image_id": 94085
+    },
+    {
+      "match": "dementedYGOD",
+      "image_id": 94084
+    }
+  ]
+}

@@ -1,1 +1,63 @@
-{"name":"twitch-sub-mym_alkapone","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"alkanoobDiva","image_id":8303},{"match":"alkanoobTox","image_id":15718},{"match":"alkanoobTemp","image_id":15768},{"match":"alkanoobPunos","image_id":19926},{"match":"alkanoobPollo","image_id":20040},{"match":"alkanoobDonpen","image_id":83903},{"match":"alkanoobNoesjusto","image_id":83904},{"match":"alkanoobBur","image_id":37259},{"match":"alkanoob90","image_id":37260},{"match":"alkanoobKappa","image_id":37303},{"match":"alkanoobBocadin","image_id":37262},{"match":"alkanoobNar","image_id":37261},{"match":"alkanoobSillapone","image_id":84505},{"match":"alkanoobVendido","image_id":84506}]}
+{
+  "name": "twitch-sub-mym_alkapone",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "alkanoobDiva",
+      "image_id": 8303
+    },
+    {
+      "match": "alkanoobTox",
+      "image_id": 15718
+    },
+    {
+      "match": "alkanoobTemp",
+      "image_id": 15768
+    },
+    {
+      "match": "alkanoobPunos",
+      "image_id": 19926
+    },
+    {
+      "match": "alkanoobPollo",
+      "image_id": 20040
+    },
+    {
+      "match": "alkanoobDonpen",
+      "image_id": 83903
+    },
+    {
+      "match": "alkanoobNoesjusto",
+      "image_id": 83904
+    },
+    {
+      "match": "alkanoobBur",
+      "image_id": 37259
+    },
+    {
+      "match": "alkanoob90",
+      "image_id": 37260
+    },
+    {
+      "match": "alkanoobKappa",
+      "image_id": 37303
+    },
+    {
+      "match": "alkanoobBocadin",
+      "image_id": 37262
+    },
+    {
+      "match": "alkanoobNar",
+      "image_id": 37261
+    },
+    {
+      "match": "alkanoobSillapone",
+      "image_id": 84505
+    },
+    {
+      "match": "alkanoobVendido",
+      "image_id": 84506
+    }
+  ]
+}

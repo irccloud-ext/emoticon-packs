@@ -1,1 +1,39 @@
-{"name":"twitch-sub-shedeviil_09","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"deviilHype","image_id":102807},{"match":"deviilLove","image_id":102803},{"match":"deviilRip","image_id":102811},{"match":"deviilCry","image_id":102804},{"match":"deviilDerp","image_id":102805},{"match":"deviilRage","image_id":102806},{"match":"deviilVape","image_id":102809},{"match":"deviilTato","image_id":102810}]}
+{
+  "name": "twitch-sub-shedeviil_09",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "deviilHype",
+      "image_id": 102807
+    },
+    {
+      "match": "deviilLove",
+      "image_id": 102803
+    },
+    {
+      "match": "deviilRip",
+      "image_id": 102811
+    },
+    {
+      "match": "deviilCry",
+      "image_id": 102804
+    },
+    {
+      "match": "deviilDerp",
+      "image_id": 102805
+    },
+    {
+      "match": "deviilRage",
+      "image_id": 102806
+    },
+    {
+      "match": "deviilVape",
+      "image_id": 102809
+    },
+    {
+      "match": "deviilTato",
+      "image_id": 102810
+    }
+  ]
+}

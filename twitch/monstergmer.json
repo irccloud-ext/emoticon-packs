@@ -1,1 +1,23 @@
-{"name":"twitch-sub-monstergmer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"modrugY","image_id":90001},{"match":"modrugR","image_id":88615},{"match":"modrugU","image_id":88618},{"match":"modrugO","image_id":90283}]}
+{
+  "name": "twitch-sub-monstergmer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "modrugY",
+      "image_id": 90001
+    },
+    {
+      "match": "modrugR",
+      "image_id": 88615
+    },
+    {
+      "match": "modrugU",
+      "image_id": 88618
+    },
+    {
+      "match": "modrugO",
+      "image_id": 90283
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-wei81610","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"weiweiDie","image_id":75560},{"match":"weiweiAHQ","image_id":103147},{"match":"weiweiLove","image_id":103145},{"match":"weiweiHurt","image_id":103144},{"match":"weiwei87","image_id":92020},{"match":"weiweiOh","image_id":75410},{"match":"weiweiCry","image_id":75411},{"match":"weiwei666","image_id":92197}]}
+{
+  "name": "twitch-sub-wei81610",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "weiweiDie",
+      "image_id": 75560
+    },
+    {
+      "match": "weiweiAHQ",
+      "image_id": 103147
+    },
+    {
+      "match": "weiweiLove",
+      "image_id": 103145
+    },
+    {
+      "match": "weiweiHurt",
+      "image_id": 103144
+    },
+    {
+      "match": "weiwei87",
+      "image_id": 92020
+    },
+    {
+      "match": "weiweiOh",
+      "image_id": 75410
+    },
+    {
+      "match": "weiweiCry",
+      "image_id": 75411
+    },
+    {
+      "match": "weiwei666",
+      "image_id": 92197
+    }
+  ]
+}

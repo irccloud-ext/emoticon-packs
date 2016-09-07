@@ -1,1 +1,47 @@
-{"name":"twitch-sub-majintaj","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tajSenpai","image_id":42227},{"match":"tajSit","image_id":64591},{"match":"tajStupid","image_id":47569},{"match":"tajDaMVP","image_id":41451},{"match":"tajKappa","image_id":49851},{"match":"tajHeart","image_id":68121},{"match":"tajBuu","image_id":68119},{"match":"tajRage","image_id":68118},{"match":"tajSad","image_id":68117},{"match":"tajHey","image_id":68115}]}
+{
+  "name": "twitch-sub-majintaj",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tajSenpai",
+      "image_id": 42227
+    },
+    {
+      "match": "tajSit",
+      "image_id": 64591
+    },
+    {
+      "match": "tajStupid",
+      "image_id": 47569
+    },
+    {
+      "match": "tajDaMVP",
+      "image_id": 41451
+    },
+    {
+      "match": "tajKappa",
+      "image_id": 49851
+    },
+    {
+      "match": "tajHeart",
+      "image_id": 68121
+    },
+    {
+      "match": "tajBuu",
+      "image_id": 68119
+    },
+    {
+      "match": "tajRage",
+      "image_id": 68118
+    },
+    {
+      "match": "tajSad",
+      "image_id": 68117
+    },
+    {
+      "match": "tajHey",
+      "image_id": 68115
+    }
+  ]
+}

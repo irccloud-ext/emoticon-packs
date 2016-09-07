@@ -1,1 +1,23 @@
-{"name":"twitch-sub-bestrivenna","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"brnaRiven","image_id":65476},{"match":"brnaFrog","image_id":65478},{"match":"brnaBoots","image_id":65477},{"match":"brnaMana","image_id":65475}]}
+{
+  "name": "twitch-sub-bestrivenna",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "brnaRiven",
+      "image_id": 65476
+    },
+    {
+      "match": "brnaFrog",
+      "image_id": 65478
+    },
+    {
+      "match": "brnaBoots",
+      "image_id": 65477
+    },
+    {
+      "match": "brnaMana",
+      "image_id": 65475
+    }
+  ]
+}

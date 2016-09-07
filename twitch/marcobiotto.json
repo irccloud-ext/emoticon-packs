@@ -1,1 +1,31 @@
-{"name":"twitch-sub-marcobiotto","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"marcaodeliKPA","image_id":39966},{"match":"marcaodeliCIA","image_id":39963},{"match":"marcaodeliFD","image_id":41165},{"match":"marcaodeliFIDDLE","image_id":41163},{"match":"marcaodeliHMM","image_id":54095},{"match":"marcaodeliRLY","image_id":54096}]}
+{
+  "name": "twitch-sub-marcobiotto",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "marcaodeliKPA",
+      "image_id": 39966
+    },
+    {
+      "match": "marcaodeliCIA",
+      "image_id": 39963
+    },
+    {
+      "match": "marcaodeliFD",
+      "image_id": 41165
+    },
+    {
+      "match": "marcaodeliFIDDLE",
+      "image_id": 41163
+    },
+    {
+      "match": "marcaodeliHMM",
+      "image_id": 54095
+    },
+    {
+      "match": "marcaodeliRLY",
+      "image_id": 54096
+    }
+  ]
+}

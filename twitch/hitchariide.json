@@ -1,1 +1,43 @@
-{"name":"twitch-sub-hitchariide","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gangTST","image_id":107440},{"match":"gangGG","image_id":103869},{"match":"gangChoke","image_id":103868},{"match":"gangHitch","image_id":102799},{"match":"gangJorge","image_id":102800},{"match":"gangBlake","image_id":102801},{"match":"gangGang","image_id":102808},{"match":"gangOG","image_id":102813},{"match":"gangVision","image_id":102815}]}
+{
+  "name": "twitch-sub-hitchariide",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gangTST",
+      "image_id": 107440
+    },
+    {
+      "match": "gangGG",
+      "image_id": 103869
+    },
+    {
+      "match": "gangChoke",
+      "image_id": 103868
+    },
+    {
+      "match": "gangHitch",
+      "image_id": 102799
+    },
+    {
+      "match": "gangJorge",
+      "image_id": 102800
+    },
+    {
+      "match": "gangBlake",
+      "image_id": 102801
+    },
+    {
+      "match": "gangGang",
+      "image_id": 102808
+    },
+    {
+      "match": "gangOG",
+      "image_id": 102813
+    },
+    {
+      "match": "gangVision",
+      "image_id": 102815
+    }
+  ]
+}

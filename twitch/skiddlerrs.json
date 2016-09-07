@@ -1,1 +1,47 @@
-{"name":"twitch-sub-skiddlerrs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"skidRip","image_id":91882},{"match":"skidGG","image_id":33425},{"match":"skidLove","image_id":41896},{"match":"skidStory","image_id":41253},{"match":"skidFail","image_id":45687},{"match":"skidDumb","image_id":45417},{"match":"skidCreeper","image_id":68177},{"match":"skidHey","image_id":93890},{"match":"skidWut","image_id":96793},{"match":"skidTilt","image_id":104226}]}
+{
+  "name": "twitch-sub-skiddlerrs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "skidRip",
+      "image_id": 91882
+    },
+    {
+      "match": "skidGG",
+      "image_id": 33425
+    },
+    {
+      "match": "skidLove",
+      "image_id": 41896
+    },
+    {
+      "match": "skidStory",
+      "image_id": 41253
+    },
+    {
+      "match": "skidFail",
+      "image_id": 45687
+    },
+    {
+      "match": "skidDumb",
+      "image_id": 45417
+    },
+    {
+      "match": "skidCreeper",
+      "image_id": 68177
+    },
+    {
+      "match": "skidHey",
+      "image_id": 93890
+    },
+    {
+      "match": "skidWut",
+      "image_id": 96793
+    },
+    {
+      "match": "skidTilt",
+      "image_id": 104226
+    }
+  ]
+}

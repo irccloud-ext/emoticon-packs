@@ -1,1 +1,39 @@
-{"name":"twitch-sub-shinyprofessor","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sproRage","image_id":40896},{"match":"sproHype","image_id":40900},{"match":"sproShiny","image_id":41243},{"match":"sproFAIL","image_id":41473},{"match":"sproLove","image_id":41586},{"match":"sproRaid","image_id":45095},{"match":"sproSub","image_id":45247},{"match":"sproEvil","image_id":66921}]}
+{
+  "name": "twitch-sub-shinyprofessor",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sproRage",
+      "image_id": 40896
+    },
+    {
+      "match": "sproHype",
+      "image_id": 40900
+    },
+    {
+      "match": "sproShiny",
+      "image_id": 41243
+    },
+    {
+      "match": "sproFAIL",
+      "image_id": 41473
+    },
+    {
+      "match": "sproLove",
+      "image_id": 41586
+    },
+    {
+      "match": "sproRaid",
+      "image_id": 45095
+    },
+    {
+      "match": "sproSub",
+      "image_id": 45247
+    },
+    {
+      "match": "sproEvil",
+      "image_id": 66921
+    }
+  ]
+}

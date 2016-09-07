@@ -1,0 +1,15 @@
+{
+  "name": "twitch-sub-pokecinema",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cinemaHype",
+      "image_id": 111980
+    },
+    {
+      "match": "cinemaDab",
+      "image_id": 111979
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-melbournemelee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"melbJankwa","image_id":73799},{"match":"melbDread","image_id":73801}]}
+{
+  "name": "twitch-sub-melbournemelee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "melbJankwa",
+      "image_id": 73799
+    },
+    {
+      "match": "melbDread",
+      "image_id": 73801
+    }
+  ]
+}

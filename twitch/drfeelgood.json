@@ -1,1 +1,35 @@
-{"name":"twitch-sub-drfeelgood","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dfgClown","image_id":83084},{"match":"dfgChamp","image_id":83085},{"match":"dfgEye","image_id":83086},{"match":"dfgSub","image_id":84147},{"match":"dfgRip","image_id":84148},{"match":"dfgLove","image_id":86843},{"match":"dfgGG","image_id":99946}]}
+{
+  "name": "twitch-sub-drfeelgood",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dfgClown",
+      "image_id": 83084
+    },
+    {
+      "match": "dfgChamp",
+      "image_id": 83085
+    },
+    {
+      "match": "dfgEye",
+      "image_id": 83086
+    },
+    {
+      "match": "dfgSub",
+      "image_id": 84147
+    },
+    {
+      "match": "dfgRip",
+      "image_id": 84148
+    },
+    {
+      "match": "dfgLove",
+      "image_id": 86843
+    },
+    {
+      "match": "dfgGG",
+      "image_id": 99946
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-joetaks93","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"joetaksGasm","image_id":57530},{"match":"joetaksRekt","image_id":58417},{"match":"joetaksSup","image_id":60398},{"match":"joetaksSad","image_id":61567},{"match":"joetaksHype","image_id":62722},{"match":"joetaksLove","image_id":62721}]}
+{
+  "name": "twitch-sub-joetaks93",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "joetaksGasm",
+      "image_id": 57530
+    },
+    {
+      "match": "joetaksRekt",
+      "image_id": 58417
+    },
+    {
+      "match": "joetaksSup",
+      "image_id": 60398
+    },
+    {
+      "match": "joetaksSad",
+      "image_id": 61567
+    },
+    {
+      "match": "joetaksHype",
+      "image_id": 62722
+    },
+    {
+      "match": "joetaksLove",
+      "image_id": 62721
+    }
+  ]
+}

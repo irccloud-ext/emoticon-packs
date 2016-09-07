@@ -1,1 +1,47 @@
-{"name":"twitch-sub-inochi_undomiell","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"inochiRip","image_id":64745},{"match":"inochiCry","image_id":64746},{"match":"inochiHype","image_id":64742},{"match":"inochiHi","image_id":64740},{"match":"inochiGasm","image_id":63445},{"match":"inochiFab","image_id":63444},{"match":"inochiArmy","image_id":63443},{"match":"inochiSalt","image_id":63446},{"match":"inochiFail","image_id":73068},{"match":"inochiH","image_id":73067}]}
+{
+  "name": "twitch-sub-inochi_undomiell",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "inochiRip",
+      "image_id": 64745
+    },
+    {
+      "match": "inochiCry",
+      "image_id": 64746
+    },
+    {
+      "match": "inochiHype",
+      "image_id": 64742
+    },
+    {
+      "match": "inochiHi",
+      "image_id": 64740
+    },
+    {
+      "match": "inochiGasm",
+      "image_id": 63445
+    },
+    {
+      "match": "inochiFab",
+      "image_id": 63444
+    },
+    {
+      "match": "inochiArmy",
+      "image_id": 63443
+    },
+    {
+      "match": "inochiSalt",
+      "image_id": 63446
+    },
+    {
+      "match": "inochiFail",
+      "image_id": 73068
+    },
+    {
+      "match": "inochiH",
+      "image_id": 73067
+    }
+  ]
+}

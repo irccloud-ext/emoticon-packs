@@ -1,1 +1,31 @@
-{"name":"twitch-sub-gamerzvoice","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gvfredTaxi","image_id":37184},{"match":"gvfredSubwarz","image_id":37182},{"match":"gvfredStarwars","image_id":36319},{"match":"gvfredFace","image_id":36318},{"match":"gvfredFred","image_id":36534},{"match":"gvfredLotion","image_id":36540}]}
+{
+  "name": "twitch-sub-gamerzvoice",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gvfredTaxi",
+      "image_id": 37184
+    },
+    {
+      "match": "gvfredSubwarz",
+      "image_id": 37182
+    },
+    {
+      "match": "gvfredStarwars",
+      "image_id": 36319
+    },
+    {
+      "match": "gvfredFace",
+      "image_id": 36318
+    },
+    {
+      "match": "gvfredFred",
+      "image_id": 36534
+    },
+    {
+      "match": "gvfredLotion",
+      "image_id": 36540
+    }
+  ]
+}

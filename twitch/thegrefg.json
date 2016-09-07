@@ -1,1 +1,31 @@
-{"name":"twitch-sub-thegrefg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"grefgAngry","image_id":64601},{"match":"grefgFacepalm","image_id":63703},{"match":"grefgSexy","image_id":63127},{"match":"grefgWow","image_id":63133},{"match":"grefgLOL","image_id":63132},{"match":"grefgCrazy","image_id":63131}]}
+{
+  "name": "twitch-sub-thegrefg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "grefgAngry",
+      "image_id": 64601
+    },
+    {
+      "match": "grefgFacepalm",
+      "image_id": 63703
+    },
+    {
+      "match": "grefgSexy",
+      "image_id": 63127
+    },
+    {
+      "match": "grefgWow",
+      "image_id": 63133
+    },
+    {
+      "match": "grefgLOL",
+      "image_id": 63132
+    },
+    {
+      "match": "grefgCrazy",
+      "image_id": 63131
+    }
+  ]
+}

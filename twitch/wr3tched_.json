@@ -1,1 +1,23 @@
-{"name":"twitch-sub-wr3tched_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wr3Subhype","image_id":101779},{"match":"wr3AyyyLmao","image_id":74527},{"match":"wr3StayLive","image_id":74528},{"match":"wr3WigHype","image_id":74530}]}
+{
+  "name": "twitch-sub-wr3tched_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wr3Subhype",
+      "image_id": 101779
+    },
+    {
+      "match": "wr3AyyyLmao",
+      "image_id": 74527
+    },
+    {
+      "match": "wr3StayLive",
+      "image_id": 74528
+    },
+    {
+      "match": "wr3WigHype",
+      "image_id": 74530
+    }
+  ]
+}

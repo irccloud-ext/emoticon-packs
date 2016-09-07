@@ -1,1 +1,23 @@
-{"name":"twitch-sub-yoitzsonnytv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yistvTEAMSONNY","image_id":108255},{"match":"yistvBESTBRID","image_id":108177},{"match":"yistvSPEC","image_id":108183},{"match":"yistvSPLASH","image_id":108013}]}
+{
+  "name": "twitch-sub-yoitzsonnytv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yistvTEAMSONNY",
+      "image_id": 108255
+    },
+    {
+      "match": "yistvBESTBRID",
+      "image_id": 108177
+    },
+    {
+      "match": "yistvSPEC",
+      "image_id": 108183
+    },
+    {
+      "match": "yistvSPLASH",
+      "image_id": 108013
+    }
+  ]
+}

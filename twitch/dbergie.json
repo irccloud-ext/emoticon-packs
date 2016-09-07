@@ -1,1 +1,11 @@
-{"name":"twitch-sub-dbergie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bergieFace","image_id":47077}]}
+{
+  "name": "twitch-sub-dbergie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bergieFace",
+      "image_id": 47077
+    }
+  ]
+}

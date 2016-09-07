@@ -1,1 +1,67 @@
-{"name":"twitch-sub-badeschlappenlp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"badeWWW","image_id":93468},{"match":"badeTots","image_id":93469},{"match":"badeFail","image_id":65892},{"match":"badeWow","image_id":99838},{"match":"badeRage","image_id":99841},{"match":"badeHype","image_id":72144},{"match":"badeGoal","image_id":72147},{"match":"badeLove","image_id":72150},{"match":"badeInform","image_id":72151},{"match":"badeGG","image_id":85411},{"match":"badeLappen","image_id":100123},{"match":"badeCena","image_id":80646},{"match":"badeKappa","image_id":90650},{"match":"badeRip","image_id":100686},{"match":"badeDraft","image_id":100034}]}
+{
+  "name": "twitch-sub-badeschlappenlp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "badeWWW",
+      "image_id": 93468
+    },
+    {
+      "match": "badeTots",
+      "image_id": 93469
+    },
+    {
+      "match": "badeFail",
+      "image_id": 65892
+    },
+    {
+      "match": "badeWow",
+      "image_id": 99838
+    },
+    {
+      "match": "badeRage",
+      "image_id": 99841
+    },
+    {
+      "match": "badeHype",
+      "image_id": 72144
+    },
+    {
+      "match": "badeGoal",
+      "image_id": 72147
+    },
+    {
+      "match": "badeLove",
+      "image_id": 72150
+    },
+    {
+      "match": "badeInform",
+      "image_id": 72151
+    },
+    {
+      "match": "badeGG",
+      "image_id": 85411
+    },
+    {
+      "match": "badeLappen",
+      "image_id": 100123
+    },
+    {
+      "match": "badeCena",
+      "image_id": 80646
+    },
+    {
+      "match": "badeKappa",
+      "image_id": 90650
+    },
+    {
+      "match": "badeRip",
+      "image_id": 100686
+    },
+    {
+      "match": "badeDraft",
+      "image_id": 100034
+    }
+  ]
+}

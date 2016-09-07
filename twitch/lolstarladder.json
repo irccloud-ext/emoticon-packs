@@ -1,1 +1,39 @@
-{"name":"twitch-sub-lolstarladder","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sltvlolDolphins","image_id":58100},{"match":"sltvlolHr","image_id":58102},{"match":"sltvlolRox","image_id":58103},{"match":"sltvlolCd","image_id":58104},{"match":"sltvlolAwe","image_id":16712},{"match":"sltvlolDelfin","image_id":16713},{"match":"sltvlolOlsi","image_id":16715},{"match":"sltvlolTriangle","image_id":16717}]}
+{
+  "name": "twitch-sub-lolstarladder",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sltvlolDolphins",
+      "image_id": 58100
+    },
+    {
+      "match": "sltvlolHr",
+      "image_id": 58102
+    },
+    {
+      "match": "sltvlolRox",
+      "image_id": 58103
+    },
+    {
+      "match": "sltvlolCd",
+      "image_id": 58104
+    },
+    {
+      "match": "sltvlolAwe",
+      "image_id": 16712
+    },
+    {
+      "match": "sltvlolDelfin",
+      "image_id": 16713
+    },
+    {
+      "match": "sltvlolOlsi",
+      "image_id": 16715
+    },
+    {
+      "match": "sltvlolTriangle",
+      "image_id": 16717
+    }
+  ]
+}

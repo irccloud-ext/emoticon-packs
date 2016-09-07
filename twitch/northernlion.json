@@ -1,1 +1,67 @@
-{"name":"twitch-sub-northernlion","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lionSalt","image_id":4099},{"match":"lionIsaac","image_id":2618},{"match":"lionDongers","image_id":2619},{"match":"lionWut","image_id":3933},{"match":"lionThrow","image_id":3955},{"match":"lionTomo","image_id":8194},{"match":"lionPride","image_id":8193},{"match":"lionOverlay","image_id":14899},{"match":"lionSlab","image_id":14901},{"match":"lionHifive","image_id":16826},{"match":"lionElmoFace","image_id":54748},{"match":"lionRoasted","image_id":75195},{"match":"lionToasted","image_id":75196},{"match":"lionBumbo","image_id":78656},{"match":"lionBurnt","image_id":78658}]}
+{
+  "name": "twitch-sub-northernlion",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lionSalt",
+      "image_id": 4099
+    },
+    {
+      "match": "lionIsaac",
+      "image_id": 2618
+    },
+    {
+      "match": "lionDongers",
+      "image_id": 2619
+    },
+    {
+      "match": "lionWut",
+      "image_id": 3933
+    },
+    {
+      "match": "lionThrow",
+      "image_id": 3955
+    },
+    {
+      "match": "lionTomo",
+      "image_id": 8194
+    },
+    {
+      "match": "lionPride",
+      "image_id": 8193
+    },
+    {
+      "match": "lionOverlay",
+      "image_id": 14899
+    },
+    {
+      "match": "lionSlab",
+      "image_id": 14901
+    },
+    {
+      "match": "lionHifive",
+      "image_id": 16826
+    },
+    {
+      "match": "lionElmoFace",
+      "image_id": 54748
+    },
+    {
+      "match": "lionRoasted",
+      "image_id": 75195
+    },
+    {
+      "match": "lionToasted",
+      "image_id": 75196
+    },
+    {
+      "match": "lionBumbo",
+      "image_id": 78656
+    },
+    {
+      "match": "lionBurnt",
+      "image_id": 78658
+    }
+  ]
+}

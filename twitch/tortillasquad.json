@@ -1,1 +1,23 @@
-{"name":"twitch-sub-tortillasquad","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tsqGalleta","image_id":70188},{"match":"tsqOshe","image_id":70192},{"match":"tsqRage","image_id":88345},{"match":"tsqKapollo","image_id":88344}]}
+{
+  "name": "twitch-sub-tortillasquad",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tsqGalleta",
+      "image_id": 70188
+    },
+    {
+      "match": "tsqOshe",
+      "image_id": 70192
+    },
+    {
+      "match": "tsqRage",
+      "image_id": 88345
+    },
+    {
+      "match": "tsqKapollo",
+      "image_id": 88344
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-{"name":"twitch-sub-mrfousing","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mrfsubGoal","image_id":75934},{"match":"mrfsubGasm","image_id":82423},{"match":"mrfsubSub","image_id":74595},{"match":"mrfsubGm","image_id":74697},{"match":"mrfsubWtf","image_id":82268}]}
+{
+  "name": "twitch-sub-mrfousing",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mrfsubGoal",
+      "image_id": 75934
+    },
+    {
+      "match": "mrfsubGasm",
+      "image_id": 82423
+    },
+    {
+      "match": "mrfsubSub",
+      "image_id": 74595
+    },
+    {
+      "match": "mrfsubGm",
+      "image_id": 74697
+    },
+    {
+      "match": "mrfsubWtf",
+      "image_id": 82268
+    }
+  ]
+}

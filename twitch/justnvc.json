@@ -1,1 +1,15 @@
-{"name":"twitch-sub-justnvc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nvcBeanie","image_id":20070},{"match":"nvcAfk","image_id":20095}]}
+{
+  "name": "twitch-sub-justnvc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nvcAfk",
+      "image_id": 20095
+    },
+    {
+      "match": "nvcAtr",
+      "image_id": 112351
+    }
+  ]
+}

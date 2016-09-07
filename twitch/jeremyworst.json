@@ -1,1 +1,31 @@
-{"name":"twitch-sub-jeremyworst","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jwsipB","image_id":106257},{"match":"jwsipFeels","image_id":95653},{"match":"jwsipGG","image_id":91001},{"match":"jwsipS","image_id":102619},{"match":"jwsipL","image_id":107273},{"match":"jwsipC","image_id":97365}]}
+{
+  "name": "twitch-sub-jeremyworst",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jwsipB",
+      "image_id": 106257
+    },
+    {
+      "match": "jwsipFeels",
+      "image_id": 95653
+    },
+    {
+      "match": "jwsipGG",
+      "image_id": 91001
+    },
+    {
+      "match": "jwsipS",
+      "image_id": 102619
+    },
+    {
+      "match": "jwsipL",
+      "image_id": 107273
+    },
+    {
+      "match": "jwsipC",
+      "image_id": 97365
+    }
+  ]
+}

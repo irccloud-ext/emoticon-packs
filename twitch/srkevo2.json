@@ -1,1 +1,63 @@
-{"name":"twitch-sub-srkevo2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"evo14China","image_id":17011},{"match":"evo14DeKappa","image_id":17012},{"match":"evo14Japan","image_id":17016},{"match":"evo14MindBlown","image_id":17020},{"match":"evo14PressOne","image_id":17021},{"match":"evo144th","image_id":17008},{"match":"evo14France","image_id":17013},{"match":"evo14Korea","image_id":17017},{"match":"evo14Taiwan","image_id":17022},{"match":"evo14UK","image_id":17023},{"match":"evo14Canada","image_id":17009},{"match":"evo14Mexico","image_id":17019},{"match":"evo14USA","image_id":17024},{"match":"evo142014","image_id":17391}]}
+{
+  "name": "twitch-sub-srkevo2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "evo14China",
+      "image_id": 17011
+    },
+    {
+      "match": "evo14DeKappa",
+      "image_id": 17012
+    },
+    {
+      "match": "evo14Japan",
+      "image_id": 17016
+    },
+    {
+      "match": "evo14MindBlown",
+      "image_id": 17020
+    },
+    {
+      "match": "evo14PressOne",
+      "image_id": 17021
+    },
+    {
+      "match": "evo144th",
+      "image_id": 17008
+    },
+    {
+      "match": "evo14France",
+      "image_id": 17013
+    },
+    {
+      "match": "evo14Korea",
+      "image_id": 17017
+    },
+    {
+      "match": "evo14Taiwan",
+      "image_id": 17022
+    },
+    {
+      "match": "evo14UK",
+      "image_id": 17023
+    },
+    {
+      "match": "evo14Canada",
+      "image_id": 17009
+    },
+    {
+      "match": "evo14Mexico",
+      "image_id": 17019
+    },
+    {
+      "match": "evo14USA",
+      "image_id": 17024
+    },
+    {
+      "match": "evo142014",
+      "image_id": 17391
+    }
+  ]
+}

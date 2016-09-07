@@ -1,1 +1,23 @@
-{"name":"twitch-sub-silvanotorres","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"torresFace","image_id":97081},{"match":"torresArmy","image_id":97082},{"match":"torresPunch","image_id":98358},{"match":"torresDigga","image_id":98359}]}
+{
+  "name": "twitch-sub-silvanotorres",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "torresFace",
+      "image_id": 97081
+    },
+    {
+      "match": "torresArmy",
+      "image_id": 97082
+    },
+    {
+      "match": "torresPunch",
+      "image_id": 98358
+    },
+    {
+      "match": "torresDigga",
+      "image_id": 98359
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-jdm64","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jdmBot","image_id":80529},{"match":"jdmGod","image_id":80528},{"match":"jdmVac","image_id":80486},{"match":"jdmGame","image_id":80298},{"match":"jdmKappa","image_id":80299},{"match":"jdmLounge","image_id":79525},{"match":"jdmWhiff","image_id":80211},{"match":"jdmLeg","image_id":80212},{"match":"jdmNot","image_id":96997},{"match":"jdmCap","image_id":97001}]}
+{
+  "name": "twitch-sub-jdm64",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jdmBot",
+      "image_id": 80529
+    },
+    {
+      "match": "jdmGod",
+      "image_id": 80528
+    },
+    {
+      "match": "jdmVac",
+      "image_id": 80486
+    },
+    {
+      "match": "jdmGame",
+      "image_id": 80298
+    },
+    {
+      "match": "jdmKappa",
+      "image_id": 80299
+    },
+    {
+      "match": "jdmLounge",
+      "image_id": 79525
+    },
+    {
+      "match": "jdmWhiff",
+      "image_id": 80211
+    },
+    {
+      "match": "jdmLeg",
+      "image_id": 80212
+    },
+    {
+      "match": "jdmNot",
+      "image_id": 96997
+    },
+    {
+      "match": "jdmCap",
+      "image_id": 97001
+    }
+  ]
+}

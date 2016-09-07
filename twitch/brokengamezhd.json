@@ -1,1 +1,15 @@
-{"name":"twitch-sub-brokengamezhd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bghdCry","image_id":29114},{"match":"bghdMad","image_id":29113}]}
+{
+  "name": "twitch-sub-brokengamezhd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bghdCry",
+      "image_id": 29114
+    },
+    {
+      "match": "bghdMad",
+      "image_id": 29113
+    }
+  ]
+}

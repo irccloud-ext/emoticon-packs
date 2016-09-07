@@ -1,1 +1,67 @@
-{"name":"twitch-sub-emilyispro","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"emily4","image_id":97907},{"match":"emilyDoge","image_id":4500},{"match":"emilyArmy","image_id":4499},{"match":"emily3","image_id":97906},{"match":"emily2","image_id":97905},{"match":"emily1","image_id":97904},{"match":"emilyC","image_id":52690},{"match":"emilyW","image_id":36376},{"match":"emilyYes","image_id":45961},{"match":"emilyKlappa","image_id":52678},{"match":"emilyThump","image_id":91011},{"match":"emilyGasm","image_id":91010},{"match":"emilyWut","image_id":111322},{"match":"emilyBAM","image_id":111238},{"match":"emilyLUL","image_id":111454}]}
+{
+  "name": "twitch-sub-emilyispro",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "emily4",
+      "image_id": 97907
+    },
+    {
+      "match": "emilyDoge",
+      "image_id": 4500
+    },
+    {
+      "match": "emilyArmy",
+      "image_id": 4499
+    },
+    {
+      "match": "emily3",
+      "image_id": 97906
+    },
+    {
+      "match": "emily2",
+      "image_id": 97905
+    },
+    {
+      "match": "emily1",
+      "image_id": 97904
+    },
+    {
+      "match": "emilyC",
+      "image_id": 52690
+    },
+    {
+      "match": "emilyW",
+      "image_id": 36376
+    },
+    {
+      "match": "emilyYes",
+      "image_id": 45961
+    },
+    {
+      "match": "emilyKlappa",
+      "image_id": 52678
+    },
+    {
+      "match": "emilyThump",
+      "image_id": 91011
+    },
+    {
+      "match": "emilyGasm",
+      "image_id": 91010
+    },
+    {
+      "match": "emilyWut",
+      "image_id": 111322
+    },
+    {
+      "match": "emilyBAM",
+      "image_id": 111238
+    },
+    {
+      "match": "emilyLUL",
+      "image_id": 111454
+    }
+  ]
+}

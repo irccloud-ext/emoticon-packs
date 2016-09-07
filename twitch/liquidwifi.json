@@ -1,1 +1,31 @@
-{"name":"twitch-sub-liquidwifi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wifiCrownBag","image_id":72644},{"match":"wifiWhy","image_id":70513},{"match":"wifiCry","image_id":72214},{"match":"wifiDance","image_id":79375},{"match":"wifiStare","image_id":79540},{"match":"wifiHey","image_id":103030}]}
+{
+  "name": "twitch-sub-liquidwifi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wifiCrownBag",
+      "image_id": 72644
+    },
+    {
+      "match": "wifiWhy",
+      "image_id": 70513
+    },
+    {
+      "match": "wifiCry",
+      "image_id": 72214
+    },
+    {
+      "match": "wifiDance",
+      "image_id": 79375
+    },
+    {
+      "match": "wifiStare",
+      "image_id": 79540
+    },
+    {
+      "match": "wifiHey",
+      "image_id": 103030
+    }
+  ]
+}

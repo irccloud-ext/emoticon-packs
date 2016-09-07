@@ -1,1 +1,39 @@
-{"name":"twitch-sub-asaonigiriyama","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"asaoRIP","image_id":75549},{"match":"asaoSleep","image_id":75696},{"match":"asaoTEEMO","image_id":75697},{"match":"asaoWhat","image_id":75311},{"match":"asaoOP","image_id":75314},{"match":"asaoCry","image_id":76357},{"match":"asaoIcecream","image_id":76358},{"match":"asaoSWAG","image_id":76404}]}
+{
+  "name": "twitch-sub-asaonigiriyama",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "asaoRIP",
+      "image_id": 75549
+    },
+    {
+      "match": "asaoSleep",
+      "image_id": 75696
+    },
+    {
+      "match": "asaoTEEMO",
+      "image_id": 75697
+    },
+    {
+      "match": "asaoWhat",
+      "image_id": 75311
+    },
+    {
+      "match": "asaoOP",
+      "image_id": 75314
+    },
+    {
+      "match": "asaoCry",
+      "image_id": 76357
+    },
+    {
+      "match": "asaoIcecream",
+      "image_id": 76358
+    },
+    {
+      "match": "asaoSWAG",
+      "image_id": 76404
+    }
+  ]
+}

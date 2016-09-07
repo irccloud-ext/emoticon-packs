@@ -1,1 +1,23 @@
-{"name":"twitch-sub-skillsthename","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"buildCarry","image_id":94979},{"match":"buildSellout","image_id":94978},{"match":"buildLove","image_id":94977},{"match":"buildRoast","image_id":63581}]}
+{
+  "name": "twitch-sub-skillsthename",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "buildCarry",
+      "image_id": 94979
+    },
+    {
+      "match": "buildSellout",
+      "image_id": 94978
+    },
+    {
+      "match": "buildLove",
+      "image_id": 94977
+    },
+    {
+      "match": "buildRoast",
+      "image_id": 63581
+    }
+  ]
+}

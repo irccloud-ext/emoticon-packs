@@ -1,1 +1,23 @@
-{"name":"twitch-sub-carmanov","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"carmanRage","image_id":110862},{"match":"carmanVac","image_id":110863},{"match":"carmanFail","image_id":110885},{"match":"carmanPride","image_id":110884}]}
+{
+  "name": "twitch-sub-carmanov",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "carmanRage",
+      "image_id": 110862
+    },
+    {
+      "match": "carmanVac",
+      "image_id": 110863
+    },
+    {
+      "match": "carmanFail",
+      "image_id": 110885
+    },
+    {
+      "match": "carmanPride",
+      "image_id": 110884
+    }
+  ]
+}

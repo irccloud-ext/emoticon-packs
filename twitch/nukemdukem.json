@@ -1,1 +1,47 @@
-{"name":"twitch-sub-nukemdukem","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nukemFail","image_id":8742},{"match":"nukemCheer","image_id":8458},{"match":"nukemCry","image_id":10430},{"match":"nukemRage","image_id":10220},{"match":"nukemHug","image_id":10293},{"match":"nukemRekt","image_id":34951},{"match":"nukemScare","image_id":34972},{"match":"nukemDrink","image_id":106549},{"match":"nukemLol","image_id":105551},{"match":"nukemFood","image_id":105552}]}
+{
+  "name": "twitch-sub-nukemdukem",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nukemFail",
+      "image_id": 8742
+    },
+    {
+      "match": "nukemCheer",
+      "image_id": 8458
+    },
+    {
+      "match": "nukemCry",
+      "image_id": 10430
+    },
+    {
+      "match": "nukemRage",
+      "image_id": 10220
+    },
+    {
+      "match": "nukemHug",
+      "image_id": 10293
+    },
+    {
+      "match": "nukemRekt",
+      "image_id": 34951
+    },
+    {
+      "match": "nukemScare",
+      "image_id": 34972
+    },
+    {
+      "match": "nukemDrink",
+      "image_id": 106549
+    },
+    {
+      "match": "nukemLol",
+      "image_id": 105551
+    },
+    {
+      "match": "nukemFood",
+      "image_id": 105552
+    }
+  ]
+}

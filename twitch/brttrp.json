@@ -1,1 +1,19 @@
-{"name":"twitch-sub-brttrp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"brtBandit","image_id":18751},{"match":"brtBart","image_id":58631},{"match":"brtWolf","image_id":58630}]}
+{
+  "name": "twitch-sub-brttrp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "brtBandit",
+      "image_id": 18751
+    },
+    {
+      "match": "brtBart",
+      "image_id": 58631
+    },
+    {
+      "match": "brtWolf",
+      "image_id": 58630
+    }
+  ]
+}

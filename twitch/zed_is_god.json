@@ -1,1 +1,31 @@
-{"name":"twitch-sub-zed_is_god","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zedThump","image_id":29354},{"match":"zedBotrk","image_id":29452},{"match":"zedHello","image_id":47120},{"match":"zedTilt","image_id":46992},{"match":"zedRengardoge","image_id":46923},{"match":"zedNice","image_id":48575}]}
+{
+  "name": "twitch-sub-zed_is_god",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zedThump",
+      "image_id": 29354
+    },
+    {
+      "match": "zedBotrk",
+      "image_id": 29452
+    },
+    {
+      "match": "zedHello",
+      "image_id": 47120
+    },
+    {
+      "match": "zedTilt",
+      "image_id": 46992
+    },
+    {
+      "match": "zedRengardoge",
+      "image_id": 46923
+    },
+    {
+      "match": "zedNice",
+      "image_id": 48575
+    }
+  ]
+}

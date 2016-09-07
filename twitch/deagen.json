@@ -1,1 +1,43 @@
-{"name":"twitch-sub-deagen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"geagenAmy","image_id":2472},{"match":"geagenFrown","image_id":2473},{"match":"geagenTroll","image_id":2471},{"match":"geagenGen","image_id":5469},{"match":"geagenBall","image_id":9311},{"match":"geagenLuna","image_id":9313},{"match":"geagenClub","image_id":9312},{"match":"geagenPB","image_id":9683},{"match":"geagenPG","image_id":11172}]}
+{
+  "name": "twitch-sub-deagen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "geagenAmy",
+      "image_id": 2472
+    },
+    {
+      "match": "geagenFrown",
+      "image_id": 2473
+    },
+    {
+      "match": "geagenTroll",
+      "image_id": 2471
+    },
+    {
+      "match": "geagenGen",
+      "image_id": 5469
+    },
+    {
+      "match": "geagenBall",
+      "image_id": 9311
+    },
+    {
+      "match": "geagenLuna",
+      "image_id": 9313
+    },
+    {
+      "match": "geagenClub",
+      "image_id": 9312
+    },
+    {
+      "match": "geagenPB",
+      "image_id": 9683
+    },
+    {
+      "match": "geagenPG",
+      "image_id": 11172
+    }
+  ]
+}

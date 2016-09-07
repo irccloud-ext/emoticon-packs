@@ -1,1 +1,23 @@
-{"name":"twitch-sub-nickblade","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cookSaved","image_id":103930},{"match":"cookRuin","image_id":103928},{"match":"cookGasm","image_id":103367},{"match":"cookTache","image_id":103531}]}
+{
+  "name": "twitch-sub-nickblade",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cookSaved",
+      "image_id": 103930
+    },
+    {
+      "match": "cookRuin",
+      "image_id": 103928
+    },
+    {
+      "match": "cookGasm",
+      "image_id": 103367
+    },
+    {
+      "match": "cookTache",
+      "image_id": 103531
+    }
+  ]
+}

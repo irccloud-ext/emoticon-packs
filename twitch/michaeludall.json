@@ -1,1 +1,15 @@
-{"name":"twitch-sub-michaeludall","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"udallDab","image_id":106757},{"match":"udallW","image_id":106758}]}
+{
+  "name": "twitch-sub-michaeludall",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "udallDab",
+      "image_id": 106757
+    },
+    {
+      "match": "udallW",
+      "image_id": 106758
+    }
+  ]
+}

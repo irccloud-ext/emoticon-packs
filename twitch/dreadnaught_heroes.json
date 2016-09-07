@@ -1,1 +1,35 @@
-{"name":"twitch-sub-dreadnaught_heroes","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dreadW","image_id":55995},{"match":"dreadPrince","image_id":55994},{"match":"dreadBodied1","image_id":56587},{"match":"dreadBodied2","image_id":56588},{"match":"dreadGasm","image_id":55235},{"match":"dreadChamp","image_id":61262},{"match":"dreadHello","image_id":61256}]}
+{
+  "name": "twitch-sub-dreadnaught_heroes",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dreadW",
+      "image_id": 55995
+    },
+    {
+      "match": "dreadPrince",
+      "image_id": 55994
+    },
+    {
+      "match": "dreadBodied1",
+      "image_id": 56587
+    },
+    {
+      "match": "dreadBodied2",
+      "image_id": 56588
+    },
+    {
+      "match": "dreadGasm",
+      "image_id": 55235
+    },
+    {
+      "match": "dreadChamp",
+      "image_id": 61262
+    },
+    {
+      "match": "dreadHello",
+      "image_id": 61256
+    }
+  ]
+}

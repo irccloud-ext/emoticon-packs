@@ -1,1 +1,23 @@
-{"name":"twitch-sub-efsaneyayinci","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"efsaneHaykir","image_id":37068},{"match":"efsaneCirkin","image_id":37066},{"match":"efsaneSasi","image_id":37069},{"match":"efsaneArtist","image_id":37067}]}
+{
+  "name": "twitch-sub-efsaneyayinci",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "efsaneHaykir",
+      "image_id": 37068
+    },
+    {
+      "match": "efsaneCirkin",
+      "image_id": 37066
+    },
+    {
+      "match": "efsaneSasi",
+      "image_id": 37069
+    },
+    {
+      "match": "efsaneArtist",
+      "image_id": 37067
+    }
+  ]
+}

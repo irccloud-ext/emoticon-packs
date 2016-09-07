@@ -1,1 +1,19 @@
-{"name":"twitch-sub-yadsacid","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mamaHENDRIK","image_id":73330},{"match":"mamaHYPE","image_id":73327},{"match":"mamaKokos","image_id":88328}]}
+{
+  "name": "twitch-sub-yadsacid",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mamaHENDRIK",
+      "image_id": 73330
+    },
+    {
+      "match": "mamaHYPE",
+      "image_id": 73327
+    },
+    {
+      "match": "mamaKokos",
+      "image_id": 88328
+    }
+  ]
+}

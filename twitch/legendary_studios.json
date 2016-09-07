@@ -1,1 +1,39 @@
-{"name":"twitch-sub-legendary_studios","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"seanHype","image_id":67270},{"match":"seanHi","image_id":67269},{"match":"seanFail","image_id":67268},{"match":"seanRip","image_id":67271},{"match":"seanLove","image_id":74537},{"match":"seanCry","image_id":74538},{"match":"seanDerp","image_id":91731},{"match":"seanWow","image_id":91732}]}
+{
+  "name": "twitch-sub-legendary_studios",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "seanHype",
+      "image_id": 67270
+    },
+    {
+      "match": "seanHi",
+      "image_id": 67269
+    },
+    {
+      "match": "seanFail",
+      "image_id": 67268
+    },
+    {
+      "match": "seanRip",
+      "image_id": 67271
+    },
+    {
+      "match": "seanLove",
+      "image_id": 74537
+    },
+    {
+      "match": "seanCry",
+      "image_id": 74538
+    },
+    {
+      "match": "seanDerp",
+      "image_id": 91731
+    },
+    {
+      "match": "seanWow",
+      "image_id": 91732
+    }
+  ]
+}

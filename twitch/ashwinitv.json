@@ -1,1 +1,39 @@
-{"name":"twitch-sub-ashwinitv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"datashBlaze","image_id":19513},{"match":"datashRawr","image_id":86242},{"match":"datashHug","image_id":76485},{"match":"datashHype","image_id":76484},{"match":"datashDoge","image_id":41223},{"match":"datashCry","image_id":53136},{"match":"datashDerp","image_id":63054},{"match":"datashMeow","image_id":104922}]}
+{
+  "name": "twitch-sub-ashwinitv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "datashBlaze",
+      "image_id": 19513
+    },
+    {
+      "match": "datashRawr",
+      "image_id": 86242
+    },
+    {
+      "match": "datashHug",
+      "image_id": 76485
+    },
+    {
+      "match": "datashHype",
+      "image_id": 76484
+    },
+    {
+      "match": "datashDoge",
+      "image_id": 41223
+    },
+    {
+      "match": "datashCry",
+      "image_id": 53136
+    },
+    {
+      "match": "datashDerp",
+      "image_id": 63054
+    },
+    {
+      "match": "datashMeow",
+      "image_id": 104922
+    }
+  ]
+}

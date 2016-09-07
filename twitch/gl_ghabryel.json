@@ -1,1 +1,11 @@
-{"name":"twitch-sub-gl_ghabryel","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ghbGhaby","image_id":69060}]}
+{
+  "name": "twitch-sub-gl_ghabryel",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ghbGhaby",
+      "image_id": 69060
+    }
+  ]
+}

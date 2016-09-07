@@ -1,1 +1,39 @@
-{"name":"twitch-sub-zumbiezuza","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zuzaHi","image_id":74360},{"match":"zuzaCringe","image_id":78098},{"match":"zuzaLove","image_id":78099},{"match":"zuzaHype","image_id":100871},{"match":"zuzaRIP","image_id":100872},{"match":"zuzaMOM","image_id":100873},{"match":"zuzaHug","image_id":100874},{"match":"zuzaEGO","image_id":100875}]}
+{
+  "name": "twitch-sub-zumbiezuza",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zuzaHi",
+      "image_id": 74360
+    },
+    {
+      "match": "zuzaCringe",
+      "image_id": 78098
+    },
+    {
+      "match": "zuzaLove",
+      "image_id": 78099
+    },
+    {
+      "match": "zuzaHype",
+      "image_id": 100871
+    },
+    {
+      "match": "zuzaRIP",
+      "image_id": 100872
+    },
+    {
+      "match": "zuzaMOM",
+      "image_id": 100873
+    },
+    {
+      "match": "zuzaHug",
+      "image_id": 100874
+    },
+    {
+      "match": "zuzaEGO",
+      "image_id": 100875
+    }
+  ]
+}

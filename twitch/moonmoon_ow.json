@@ -1,1 +1,95 @@
-{"name":"twitch-sub-moonmoon_ow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"moon2HAHAA","image_id":110379},{"match":"moon2AWW","image_id":110380},{"match":"moon2CHAMP","image_id":109052},{"match":"moon2GASM","image_id":110378},{"match":"moon2TEABAG","image_id":106087},{"match":"moon2THUMP","image_id":103441},{"match":"moon2HEART","image_id":103534},{"match":"moon2NOBRAIN","image_id":103442},{"match":"moon2XD","image_id":103624},{"match":"moon2SATAN","image_id":103626},{"match":"moon2SMUG","image_id":103628},{"match":"moon2PACHI","image_id":104173},{"match":"moon2RIP","image_id":106086},{"match":"moon2WUT","image_id":107799},{"match":"moon2WINKY","image_id":110301},{"match":"moon2COOL","image_id":110302},{"match":"moon2LUL","image_id":110303},{"match":"moon2WHY","image_id":110015},{"match":"moon2HEY","image_id":110220},{"match":"moon2AMAZING","image_id":109722},{"match":"moon2MLADY","image_id":109723},{"match":"moon2VAPE","image_id":110790}]}
+{
+  "name": "twitch-sub-moonmoon_ow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "moon2HAHAA",
+      "image_id": 110379
+    },
+    {
+      "match": "moon2AWW",
+      "image_id": 110380
+    },
+    {
+      "match": "moon2CHAMP",
+      "image_id": 109052
+    },
+    {
+      "match": "moon2GASM",
+      "image_id": 110378
+    },
+    {
+      "match": "moon2TEABAG",
+      "image_id": 106087
+    },
+    {
+      "match": "moon2THUMP",
+      "image_id": 103441
+    },
+    {
+      "match": "moon2HEART",
+      "image_id": 103534
+    },
+    {
+      "match": "moon2NOBRAIN",
+      "image_id": 103442
+    },
+    {
+      "match": "moon2XD",
+      "image_id": 103624
+    },
+    {
+      "match": "moon2SATAN",
+      "image_id": 103626
+    },
+    {
+      "match": "moon2SMUG",
+      "image_id": 103628
+    },
+    {
+      "match": "moon2PACHI",
+      "image_id": 104173
+    },
+    {
+      "match": "moon2RIP",
+      "image_id": 106086
+    },
+    {
+      "match": "moon2WUT",
+      "image_id": 107799
+    },
+    {
+      "match": "moon2WINKY",
+      "image_id": 110301
+    },
+    {
+      "match": "moon2COOL",
+      "image_id": 110302
+    },
+    {
+      "match": "moon2LUL",
+      "image_id": 110303
+    },
+    {
+      "match": "moon2WHY",
+      "image_id": 110015
+    },
+    {
+      "match": "moon2HEY",
+      "image_id": 110220
+    },
+    {
+      "match": "moon2AMAZING",
+      "image_id": 109722
+    },
+    {
+      "match": "moon2MLADY",
+      "image_id": 109723
+    },
+    {
+      "match": "moon2VAPE",
+      "image_id": 110790
+    }
+  ]
+}

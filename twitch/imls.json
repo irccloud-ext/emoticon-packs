@@ -1,1 +1,23 @@
-{"name":"twitch-sub-imls","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lsxyzNoboots","image_id":22031},{"match":"lsxyzLotion","image_id":21738},{"match":"lsxyzNodab","image_id":21739},{"match":"lsxyzTilt","image_id":27395},{"match":"lsxyzOk","image_id":32089},{"match":"lsxyzBP","image_id":39897},{"match":"lsxyzUnlucky","image_id":49257},{"match":"lsxyzQuality","image_id":49258}]}
+{
+  "name": "twitch-sub-imls",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lsxyzLotion",
+      "image_id": 21738
+    },
+    {
+      "match": "lsxyzTilt",
+      "image_id": 27395
+    },
+    {
+      "match": "lsxyzOk",
+      "image_id": 32089
+    },
+    {
+      "match": "lsxyzBP",
+      "image_id": 39897
+    }
+  ]
+}

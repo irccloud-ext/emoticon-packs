@@ -1,1 +1,27 @@
-{"name":"twitch-sub-xxbloodynyuuxx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nyuuRAGE","image_id":52329},{"match":"nyuuOTTO","image_id":52327},{"match":"nyuuMETAL","image_id":52415},{"match":"nyuuULT","image_id":73319},{"match":"nyuuHEART","image_id":73360}]}
+{
+  "name": "twitch-sub-xxbloodynyuuxx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nyuuRAGE",
+      "image_id": 52329
+    },
+    {
+      "match": "nyuuOTTO",
+      "image_id": 52327
+    },
+    {
+      "match": "nyuuMETAL",
+      "image_id": 52415
+    },
+    {
+      "match": "nyuuULT",
+      "image_id": 73319
+    },
+    {
+      "match": "nyuuHEART",
+      "image_id": 73360
+    }
+  ]
+}

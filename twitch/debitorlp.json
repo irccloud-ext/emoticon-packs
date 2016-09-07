@@ -1,1 +1,55 @@
-{"name":"twitch-sub-debitorlp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"debiLogo","image_id":7073},{"match":"debiTroll","image_id":15467},{"match":"debiFun","image_id":16350},{"match":"debiChamp","image_id":18847},{"match":"debiWirr","image_id":39222},{"match":"debiKrass","image_id":33629},{"match":"debiBing","image_id":33006},{"match":"debiDani","image_id":35913},{"match":"debiLove","image_id":35710},{"match":"debiFail","image_id":37071},{"match":"debiSad","image_id":37531},{"match":"debiKiss","image_id":40289}]}
+{
+  "name": "twitch-sub-debitorlp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "debiLogo",
+      "image_id": 7073
+    },
+    {
+      "match": "debiTroll",
+      "image_id": 15467
+    },
+    {
+      "match": "debiFun",
+      "image_id": 16350
+    },
+    {
+      "match": "debiChamp",
+      "image_id": 18847
+    },
+    {
+      "match": "debiWirr",
+      "image_id": 39222
+    },
+    {
+      "match": "debiKrass",
+      "image_id": 33629
+    },
+    {
+      "match": "debiBing",
+      "image_id": 33006
+    },
+    {
+      "match": "debiDani",
+      "image_id": 35913
+    },
+    {
+      "match": "debiLove",
+      "image_id": 35710
+    },
+    {
+      "match": "debiFail",
+      "image_id": 37071
+    },
+    {
+      "match": "debiSad",
+      "image_id": 37531
+    },
+    {
+      "match": "debiKiss",
+      "image_id": 40289
+    }
+  ]
+}

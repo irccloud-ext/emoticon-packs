@@ -1,1 +1,23 @@
-{"name":"twitch-sub-mikeolliston","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mikeWTF","image_id":33824},{"match":"mikeSweet","image_id":33823},{"match":"mikeGG","image_id":34990},{"match":"mikeDonate","image_id":34989}]}
+{
+  "name": "twitch-sub-mikeolliston",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mikeWTF",
+      "image_id": 33824
+    },
+    {
+      "match": "mikeSweet",
+      "image_id": 33823
+    },
+    {
+      "match": "mikeGG",
+      "image_id": 34990
+    },
+    {
+      "match": "mikeDonate",
+      "image_id": 34989
+    }
+  ]
+}

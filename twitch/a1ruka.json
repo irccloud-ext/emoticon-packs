@@ -1,1 +1,23 @@
-{"name":"twitch-sub-a1ruka","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ruka1","image_id":87326},{"match":"ruka2","image_id":87328},{"match":"ruka3","image_id":104428},{"match":"ruka4","image_id":104429}]}
+{
+  "name": "twitch-sub-a1ruka",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ruka1",
+      "image_id": 87326
+    },
+    {
+      "match": "ruka2",
+      "image_id": 87328
+    },
+    {
+      "match": "ruka3",
+      "image_id": 104428
+    },
+    {
+      "match": "ruka4",
+      "image_id": 104429
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-annushka_wow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"annuWAT","image_id":100556},{"match":"annuHEY","image_id":100554},{"match":"annuW","image_id":93558},{"match":"annuHYPE","image_id":95677},{"match":"annuGASM","image_id":94593},{"match":"annuSALZ","image_id":93367},{"match":"annuUHH","image_id":100555},{"match":"annuBLOND","image_id":93363}]}
+{
+  "name": "twitch-sub-annushka_wow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "annuWAT",
+      "image_id": 100556
+    },
+    {
+      "match": "annuHEY",
+      "image_id": 100554
+    },
+    {
+      "match": "annuW",
+      "image_id": 93558
+    },
+    {
+      "match": "annuHYPE",
+      "image_id": 95677
+    },
+    {
+      "match": "annuGASM",
+      "image_id": 94593
+    },
+    {
+      "match": "annuSALZ",
+      "image_id": 93367
+    },
+    {
+      "match": "annuUHH",
+      "image_id": 100555
+    },
+    {
+      "match": "annuBLOND",
+      "image_id": 93363
+    }
+  ]
+}

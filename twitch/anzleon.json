@@ -1,1 +1,39 @@
-{"name":"twitch-sub-anzleon","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"anzSalt","image_id":19981},{"match":"anzWolf","image_id":20609},{"match":"anzEw","image_id":89033},{"match":"anzBarb","image_id":35054},{"match":"anzGasm","image_id":49885},{"match":"anzCry","image_id":102399},{"match":"anzWut","image_id":102413},{"match":"anzNuke","image_id":106067}]}
+{
+  "name": "twitch-sub-anzleon",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "anzSalt",
+      "image_id": 19981
+    },
+    {
+      "match": "anzWolf",
+      "image_id": 20609
+    },
+    {
+      "match": "anzEw",
+      "image_id": 89033
+    },
+    {
+      "match": "anzBarb",
+      "image_id": 35054
+    },
+    {
+      "match": "anzGasm",
+      "image_id": 49885
+    },
+    {
+      "match": "anzCry",
+      "image_id": 102399
+    },
+    {
+      "match": "anzWut",
+      "image_id": 102413
+    },
+    {
+      "match": "anzNuke",
+      "image_id": 106067
+    }
+  ]
+}

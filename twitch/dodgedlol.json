@@ -1,1 +1,15 @@
-{"name":"twitch-sub-dodgedlol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dodgedDogysalt","image_id":42207},{"match":"dodgedMafiagravesgun","image_id":9657}]}
+{
+  "name": "twitch-sub-dodgedlol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dodgedDogysalt",
+      "image_id": 42207
+    },
+    {
+      "match": "dodgedMafiagravesgun",
+      "image_id": 9657
+    }
+  ]
+}

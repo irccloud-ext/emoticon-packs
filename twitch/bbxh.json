@@ -1,1 +1,39 @@
-{"name":"twitch-sub-bbxh","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bbxhFace","image_id":98153},{"match":"bbxhPrincess","image_id":101618},{"match":"bbxhAngel","image_id":109418},{"match":"bbxhWat","image_id":98285},{"match":"bbxhHype","image_id":101894},{"match":"bbxhHeart","image_id":98159},{"match":"bbxhDevil","image_id":111278},{"match":"bbxhGG","image_id":111284}]}
+{
+  "name": "twitch-sub-bbxh",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bbxhFace",
+      "image_id": 98153
+    },
+    {
+      "match": "bbxhPrincess",
+      "image_id": 101618
+    },
+    {
+      "match": "bbxhAngel",
+      "image_id": 109418
+    },
+    {
+      "match": "bbxhWat",
+      "image_id": 98285
+    },
+    {
+      "match": "bbxhHype",
+      "image_id": 101894
+    },
+    {
+      "match": "bbxhHeart",
+      "image_id": 98159
+    },
+    {
+      "match": "bbxhDevil",
+      "image_id": 111278
+    },
+    {
+      "match": "bbxhGG",
+      "image_id": 111284
+    }
+  ]
+}

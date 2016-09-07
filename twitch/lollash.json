@@ -1,1 +1,19 @@
-{"name":"twitch-sub-lollash","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lashOOPS","image_id":55930},{"match":"lashRIP","image_id":54884},{"match":"lashLOVE","image_id":55393}]}
+{
+  "name": "twitch-sub-lollash",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lashOOPS",
+      "image_id": 55930
+    },
+    {
+      "match": "lashRIP",
+      "image_id": 54884
+    },
+    {
+      "match": "lashLOVE",
+      "image_id": 55393
+    }
+  ]
+}

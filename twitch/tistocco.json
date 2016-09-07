@@ -1,1 +1,15 @@
-{"name":"twitch-sub-tistocco","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tistoccoGalio","image_id":15459},{"match":"tistoccoNunu","image_id":15475}]}
+{
+  "name": "twitch-sub-tistocco",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tistoccoGalio",
+      "image_id": 15459
+    },
+    {
+      "match": "tistoccoNunu",
+      "image_id": 15475
+    }
+  ]
+}

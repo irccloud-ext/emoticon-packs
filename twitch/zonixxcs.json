@@ -1,1 +1,47 @@
-{"name":"twitch-sub-zonixxcs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zonixxFokus","image_id":20789},{"match":"zonixxGold","image_id":20864},{"match":"zonixxSirene","image_id":21230},{"match":"zonixxOhoh","image_id":23908},{"match":"zonixxMull","image_id":23907},{"match":"zonixxLogo","image_id":22752},{"match":"zonixxCheck","image_id":34819},{"match":"zonixxMates","image_id":34821},{"match":"zonixxDeagle","image_id":54079},{"match":"zonixxHund","image_id":70376}]}
+{
+  "name": "twitch-sub-zonixxcs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zonixxFokus",
+      "image_id": 20789
+    },
+    {
+      "match": "zonixxGold",
+      "image_id": 20864
+    },
+    {
+      "match": "zonixxSirene",
+      "image_id": 21230
+    },
+    {
+      "match": "zonixxOhoh",
+      "image_id": 23908
+    },
+    {
+      "match": "zonixxMull",
+      "image_id": 23907
+    },
+    {
+      "match": "zonixxLogo",
+      "image_id": 22752
+    },
+    {
+      "match": "zonixxCheck",
+      "image_id": 34819
+    },
+    {
+      "match": "zonixxMates",
+      "image_id": 34821
+    },
+    {
+      "match": "zonixxDeagle",
+      "image_id": 54079
+    },
+    {
+      "match": "zonixxHund",
+      "image_id": 70376
+    }
+  ]
+}

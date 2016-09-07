@@ -1,1 +1,39 @@
-{"name":"twitch-sub-solexxsfifahd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"soleHand","image_id":90939},{"match":"soleGoal","image_id":108892},{"match":"soleHype","image_id":108891},{"match":"soleLutscher","image_id":108893},{"match":"soleMoin","image_id":108894},{"match":"soleRage","image_id":108895},{"match":"soleWir","image_id":108896},{"match":"soleNice","image_id":108897}]}
+{
+  "name": "twitch-sub-solexxsfifahd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "soleHand",
+      "image_id": 90939
+    },
+    {
+      "match": "soleGoal",
+      "image_id": 108892
+    },
+    {
+      "match": "soleHype",
+      "image_id": 108891
+    },
+    {
+      "match": "soleLutscher",
+      "image_id": 108893
+    },
+    {
+      "match": "soleMoin",
+      "image_id": 108894
+    },
+    {
+      "match": "soleRage",
+      "image_id": 108895
+    },
+    {
+      "match": "soleWir",
+      "image_id": 108896
+    },
+    {
+      "match": "soleNice",
+      "image_id": 108897
+    }
+  ]
+}

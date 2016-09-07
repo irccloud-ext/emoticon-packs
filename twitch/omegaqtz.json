@@ -1,1 +1,39 @@
-{"name":"twitch-sub-omegaqtz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"omegaNoWards","image_id":25288},{"match":"omegaKappa","image_id":25334},{"match":"omegaJigz","image_id":30939},{"match":"omegaRekt","image_id":71824},{"match":"omegaW","image_id":71853},{"match":"omegaFire","image_id":71825},{"match":"omegaNv","image_id":85854},{"match":"omegaOS","image_id":85855}]}
+{
+  "name": "twitch-sub-omegaqtz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "omegaNoWards",
+      "image_id": 25288
+    },
+    {
+      "match": "omegaKappa",
+      "image_id": 25334
+    },
+    {
+      "match": "omegaJigz",
+      "image_id": 30939
+    },
+    {
+      "match": "omegaRekt",
+      "image_id": 71824
+    },
+    {
+      "match": "omegaW",
+      "image_id": 71853
+    },
+    {
+      "match": "omegaFire",
+      "image_id": 71825
+    },
+    {
+      "match": "omegaNv",
+      "image_id": 85854
+    },
+    {
+      "match": "omegaOS",
+      "image_id": 85855
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-{"name":"twitch-sub-bonjwa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bonjwaCheese","image_id":70287},{"match":"bonjwaMental","image_id":70282},{"match":"bonjwaHonor","image_id":70281},{"match":"bonjwaNikita","image_id":70283},{"match":"bonjwaGg","image_id":70286}]}
+{
+  "name": "twitch-sub-bonjwa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bonjwaCheese",
+      "image_id": 70287
+    },
+    {
+      "match": "bonjwaMental",
+      "image_id": 70282
+    },
+    {
+      "match": "bonjwaHonor",
+      "image_id": 70281
+    },
+    {
+      "match": "bonjwaNikita",
+      "image_id": 70283
+    },
+    {
+      "match": "bonjwaGg",
+      "image_id": 70286
+    }
+  ]
+}

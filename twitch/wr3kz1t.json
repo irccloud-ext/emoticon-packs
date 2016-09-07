@@ -1,1 +1,39 @@
-{"name":"twitch-sub-wr3kz1t","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wr3kLove","image_id":23654},{"match":"wr3kSafet","image_id":27060},{"match":"wr3kHype","image_id":27057},{"match":"wr3kRip","image_id":27058},{"match":"wr3kLyfe","image_id":27055},{"match":"wr3kSkins","image_id":27056},{"match":"wr3kBurst","image_id":33461},{"match":"wr3kPeeld","image_id":33462}]}
+{
+  "name": "twitch-sub-wr3kz1t",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wr3kLove",
+      "image_id": 23654
+    },
+    {
+      "match": "wr3kSafet",
+      "image_id": 27060
+    },
+    {
+      "match": "wr3kHype",
+      "image_id": 27057
+    },
+    {
+      "match": "wr3kRip",
+      "image_id": 27058
+    },
+    {
+      "match": "wr3kLyfe",
+      "image_id": 27055
+    },
+    {
+      "match": "wr3kSkins",
+      "image_id": 27056
+    },
+    {
+      "match": "wr3kBurst",
+      "image_id": 33461
+    },
+    {
+      "match": "wr3kPeeld",
+      "image_id": 33462
+    }
+  ]
+}

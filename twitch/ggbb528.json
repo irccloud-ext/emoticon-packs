@@ -1,1 +1,15 @@
-{"name":"twitch-sub-ggbb528","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ggbb528Juke","image_id":30659},{"match":"ggbb52874","image_id":33918}]}
+{
+  "name": "twitch-sub-ggbb528",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ggbb528Juke",
+      "image_id": 30659
+    },
+    {
+      "match": "ggbb52874",
+      "image_id": 33918
+    }
+  ]
+}

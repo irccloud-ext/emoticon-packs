@@ -1,1 +1,23 @@
-{"name":"twitch-sub-pbykaptan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kaptanZengin","image_id":110686},{"match":"kaptanPert","image_id":110688},{"match":"kaptanTek","image_id":110689},{"match":"kaptanRek","image_id":110697}]}
+{
+  "name": "twitch-sub-pbykaptan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kaptanZengin",
+      "image_id": 110686
+    },
+    {
+      "match": "kaptanPert",
+      "image_id": 110688
+    },
+    {
+      "match": "kaptanTek",
+      "image_id": 110689
+    },
+    {
+      "match": "kaptanRek",
+      "image_id": 110697
+    }
+  ]
+}

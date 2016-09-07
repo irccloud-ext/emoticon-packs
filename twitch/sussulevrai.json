@@ -1,1 +1,31 @@
-{"name":"twitch-sub-sussulevrai","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ssauvagesGG","image_id":78710},{"match":"ssauvagesSvge","image_id":78746},{"match":"ssauvagesSub","image_id":78791},{"match":"ssauvagesZer","image_id":79288},{"match":"ssauvagesFace","image_id":78796},{"match":"ssauvagesDon","image_id":79652}]}
+{
+  "name": "twitch-sub-sussulevrai",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ssauvagesGG",
+      "image_id": 78710
+    },
+    {
+      "match": "ssauvagesSvge",
+      "image_id": 78746
+    },
+    {
+      "match": "ssauvagesSub",
+      "image_id": 78791
+    },
+    {
+      "match": "ssauvagesZer",
+      "image_id": 79288
+    },
+    {
+      "match": "ssauvagesFace",
+      "image_id": 78796
+    },
+    {
+      "match": "ssauvagesDon",
+      "image_id": 79652
+    }
+  ]
+}

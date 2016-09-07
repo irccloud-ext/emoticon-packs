@@ -1,1 +1,39 @@
-{"name":"twitch-sub-mmoboom_ru","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dwarfCRY","image_id":96024},{"match":"dwarfHYPE","image_id":72209},{"match":"dwarfPALM","image_id":102672},{"match":"dwarfLOL","image_id":96022},{"match":"dwarfGASM","image_id":86165},{"match":"dwarfHEART","image_id":92780}]}
+{
+  "name": "twitch-sub-mmoboom_ru",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dwarfCRY",
+      "image_id": 96024
+    },
+    {
+      "match": "dwarfHYPE",
+      "image_id": 72209
+    },
+    {
+      "match": "dwarfPALM",
+      "image_id": 102672
+    },
+    {
+      "match": "dwarfLOL",
+      "image_id": 96022
+    },
+    {
+      "match": "dwarfGASM",
+      "image_id": 86165
+    },
+    {
+      "match": "dwarfHEART",
+      "image_id": 92780
+    },
+    {
+      "match": "dwarfRIP",
+      "image_id": 111983
+    },
+    {
+      "match": "dwarfROFL",
+      "image_id": 111969
+    }
+  ]
+}

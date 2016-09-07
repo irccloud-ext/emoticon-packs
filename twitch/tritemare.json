@@ -1,1 +1,39 @@
-{"name":"twitch-sub-tritemare","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"triteMistakes","image_id":56688},{"match":"triteHoley","image_id":56689},{"match":"triteDance","image_id":56440},{"match":"triteKnight","image_id":56439},{"match":"triteHeart","image_id":57025},{"match":"triteTrain","image_id":57026},{"match":"triteRip","image_id":59282},{"match":"triteWat","image_id":59283}]}
+{
+  "name": "twitch-sub-tritemare",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "triteMistakes",
+      "image_id": 56688
+    },
+    {
+      "match": "triteHoley",
+      "image_id": 56689
+    },
+    {
+      "match": "triteDance",
+      "image_id": 56440
+    },
+    {
+      "match": "triteKnight",
+      "image_id": 56439
+    },
+    {
+      "match": "triteHeart",
+      "image_id": 57025
+    },
+    {
+      "match": "triteTrain",
+      "image_id": 57026
+    },
+    {
+      "match": "triteRip",
+      "image_id": 59282
+    },
+    {
+      "match": "triteWat",
+      "image_id": 59283
+    }
+  ]
+}

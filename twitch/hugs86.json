@@ -1,1 +1,47 @@
-{"name":"twitch-sub-hugs86","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hugsNiceshot","image_id":31771},{"match":"hugsW","image_id":90981},{"match":"hugsAlex19dotcom","image_id":98275},{"match":"hugsCraft","image_id":84231},{"match":"hugsWedidit","image_id":91278},{"match":"hugsRoasted","image_id":96597},{"match":"hugsBibbityBopped","image_id":96190},{"match":"hugsSamusW","image_id":94654},{"match":"hugsTriggered","image_id":106985},{"match":"hugsMoneyshot","image_id":106986}]}
+{
+  "name": "twitch-sub-hugs86",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hugsNiceshot",
+      "image_id": 31771
+    },
+    {
+      "match": "hugsW",
+      "image_id": 90981
+    },
+    {
+      "match": "hugsAlex19dotcom",
+      "image_id": 98275
+    },
+    {
+      "match": "hugsCraft",
+      "image_id": 84231
+    },
+    {
+      "match": "hugsWedidit",
+      "image_id": 91278
+    },
+    {
+      "match": "hugsRoasted",
+      "image_id": 96597
+    },
+    {
+      "match": "hugsBibbityBopped",
+      "image_id": 96190
+    },
+    {
+      "match": "hugsSamusW",
+      "image_id": 94654
+    },
+    {
+      "match": "hugsTriggered",
+      "image_id": 106985
+    },
+    {
+      "match": "hugsMoneyshot",
+      "image_id": 106986
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-missmagicmid","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"m4gicCool","image_id":90491},{"match":"m4gicGasm","image_id":90490},{"match":"m4gicHi","image_id":91345},{"match":"m4gicUh","image_id":91344},{"match":"m4gicFail","image_id":94205},{"match":"m4gicKappa","image_id":94196},{"match":"m4gicLove","image_id":97200},{"match":"m4gicHype","image_id":94353}]}
+{
+  "name": "twitch-sub-missmagicmid",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "m4gicCool",
+      "image_id": 90491
+    },
+    {
+      "match": "m4gicGasm",
+      "image_id": 90490
+    },
+    {
+      "match": "m4gicHi",
+      "image_id": 91345
+    },
+    {
+      "match": "m4gicUh",
+      "image_id": 91344
+    },
+    {
+      "match": "m4gicFail",
+      "image_id": 94205
+    },
+    {
+      "match": "m4gicKappa",
+      "image_id": 94196
+    },
+    {
+      "match": "m4gicLove",
+      "image_id": 97200
+    },
+    {
+      "match": "m4gicHype",
+      "image_id": 94353
+    }
+  ]
+}

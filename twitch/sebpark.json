@@ -1,1 +1,15 @@
-{"name":"twitch-sub-sebpark","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"teamarchonTeam","image_id":72346},{"match":"teamarchonGo","image_id":72348}]}
+{
+  "name": "twitch-sub-sebpark",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "teamarchonTeam",
+      "image_id": 72346
+    },
+    {
+      "match": "teamarchonGo",
+      "image_id": 72348
+    }
+  ]
+}

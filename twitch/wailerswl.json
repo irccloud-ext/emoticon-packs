@@ -1,1 +1,31 @@
-{"name":"twitch-sub-wailerswl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wailQuandbrokycrie","image_id":90799},{"match":"wailBoitlaconcurrence","image_id":90794},{"match":"wailVforVictory","image_id":90798},{"match":"wailGLOUGLOUGLOU","image_id":90795},{"match":"wailWforWailers","image_id":90796},{"match":"wailTempestparty","image_id":90797}]}
+{
+  "name": "twitch-sub-wailerswl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wailQuandbrokycrie",
+      "image_id": 90799
+    },
+    {
+      "match": "wailBoitlaconcurrence",
+      "image_id": 90794
+    },
+    {
+      "match": "wailVforVictory",
+      "image_id": 90798
+    },
+    {
+      "match": "wailGLOUGLOUGLOU",
+      "image_id": 90795
+    },
+    {
+      "match": "wailWforWailers",
+      "image_id": 90796
+    },
+    {
+      "match": "wailTempestparty",
+      "image_id": 90797
+    }
+  ]
+}

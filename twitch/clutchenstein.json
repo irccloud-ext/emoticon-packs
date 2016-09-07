@@ -1,1 +1,31 @@
-{"name":"twitch-sub-clutchenstein","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"clutchCat","image_id":21655},{"match":"clutchDoom","image_id":32759},{"match":"clutchHype","image_id":32766},{"match":"clutchTilt","image_id":88028},{"match":"clutchFbm","image_id":85323},{"match":"clutchShame","image_id":96492}]}
+{
+  "name": "twitch-sub-clutchenstein",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "clutchCat",
+      "image_id": 21655
+    },
+    {
+      "match": "clutchDoom",
+      "image_id": 32759
+    },
+    {
+      "match": "clutchHype",
+      "image_id": 32766
+    },
+    {
+      "match": "clutchTilt",
+      "image_id": 88028
+    },
+    {
+      "match": "clutchFbm",
+      "image_id": 85323
+    },
+    {
+      "match": "clutchShame",
+      "image_id": 96492
+    }
+  ]
+}

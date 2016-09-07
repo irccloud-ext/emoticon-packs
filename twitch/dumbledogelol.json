@@ -1,1 +1,27 @@
-{"name":"twitch-sub-dumbledogelol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dumbleFirst","image_id":50890},{"match":"dumbleSwag","image_id":50889},{"match":"dumbleDore","image_id":50891},{"match":"dumbleKappa","image_id":48796},{"match":"dumbleShades","image_id":51042}]}
+{
+  "name": "twitch-sub-dumbledogelol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dumbleFirst",
+      "image_id": 50890
+    },
+    {
+      "match": "dumbleSwag",
+      "image_id": 50889
+    },
+    {
+      "match": "dumbleDore",
+      "image_id": 50891
+    },
+    {
+      "match": "dumbleKappa",
+      "image_id": 48796
+    },
+    {
+      "match": "dumbleShades",
+      "image_id": 51042
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-getawhale","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"getaClue","image_id":102347},{"match":"getaGun","image_id":99561},{"match":"getaCheers","image_id":101834},{"match":"getaPhone","image_id":99516},{"match":"getaLUL","image_id":103045},{"match":"getaDog","image_id":98973}]}
+{
+  "name": "twitch-sub-getawhale",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "getaClue",
+      "image_id": 102347
+    },
+    {
+      "match": "getaGun",
+      "image_id": 99561
+    },
+    {
+      "match": "getaCheers",
+      "image_id": 101834
+    },
+    {
+      "match": "getaPhone",
+      "image_id": 99516
+    },
+    {
+      "match": "getaLUL",
+      "image_id": 103045
+    },
+    {
+      "match": "getaDog",
+      "image_id": 98973
+    }
+  ]
+}

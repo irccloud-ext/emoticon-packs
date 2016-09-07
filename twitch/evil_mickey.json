@@ -1,1 +1,23 @@
-{"name":"twitch-sub-evil_mickey","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"evilmickeySolder","image_id":95012},{"match":"evilmickeyVac","image_id":95010},{"match":"evilmickeyKnife","image_id":95128},{"match":"evilmickeyDonat5k","image_id":95129}]}
+{
+  "name": "twitch-sub-evil_mickey",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "evilmickeySolder",
+      "image_id": 95012
+    },
+    {
+      "match": "evilmickeyVac",
+      "image_id": 95010
+    },
+    {
+      "match": "evilmickeyKnife",
+      "image_id": 95128
+    },
+    {
+      "match": "evilmickeyDonat5k",
+      "image_id": 95129
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-idarkeness_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rip01NewSub","image_id":88842},{"match":"rip01PasTouche","image_id":88843},{"match":"rip01GG","image_id":90131},{"match":"rip01Rip","image_id":90132},{"match":"rip01Money","image_id":102180},{"match":"rip01REKT","image_id":102178}]}
+{
+  "name": "twitch-sub-idarkeness_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rip01NewSub",
+      "image_id": 88842
+    },
+    {
+      "match": "rip01PasTouche",
+      "image_id": 88843
+    },
+    {
+      "match": "rip01GG",
+      "image_id": 90131
+    },
+    {
+      "match": "rip01Rip",
+      "image_id": 90132
+    },
+    {
+      "match": "rip01Money",
+      "image_id": 102180
+    },
+    {
+      "match": "rip01REKT",
+      "image_id": 102178
+    }
+  ]
+}

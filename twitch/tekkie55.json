@@ -1,1 +1,31 @@
-{"name":"twitch-sub-tekkie55","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tekkOtter","image_id":21851},{"match":"tekkDoge","image_id":21854},{"match":"tekkRunOtter","image_id":22891},{"match":"tekkLewd","image_id":27958},{"match":"tekkStoked","image_id":36208},{"match":"tekkScarlet","image_id":36637}]}
+{
+  "name": "twitch-sub-tekkie55",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tekkOtter",
+      "image_id": 21851
+    },
+    {
+      "match": "tekkDoge",
+      "image_id": 21854
+    },
+    {
+      "match": "tekkRunOtter",
+      "image_id": 22891
+    },
+    {
+      "match": "tekkLewd",
+      "image_id": 27958
+    },
+    {
+      "match": "tekkStoked",
+      "image_id": 36208
+    },
+    {
+      "match": "tekkScarlet",
+      "image_id": 36637
+    }
+  ]
+}

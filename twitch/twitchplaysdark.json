@@ -1,1 +1,35 @@
-{"name":"twitch-sub-twitchplaysdark","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tpdsZwei","image_id":62801},{"match":"tpdsGreedSack","image_id":65521},{"match":"tpdsPOOL","image_id":61653},{"match":"tpdsSun","image_id":62823},{"match":"tpdsThanks","image_id":62821},{"match":"tpdsEmbarrassing","image_id":63421},{"match":"tpdsSunnyD","image_id":64550}]}
+{
+  "name": "twitch-sub-twitchplaysdark",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tpdsZwei",
+      "image_id": 62801
+    },
+    {
+      "match": "tpdsGreedSack",
+      "image_id": 65521
+    },
+    {
+      "match": "tpdsPOOL",
+      "image_id": 61653
+    },
+    {
+      "match": "tpdsSun",
+      "image_id": 62823
+    },
+    {
+      "match": "tpdsThanks",
+      "image_id": 62821
+    },
+    {
+      "match": "tpdsEmbarrassing",
+      "image_id": 63421
+    },
+    {
+      "match": "tpdsSunnyD",
+      "image_id": 64550
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-blahblahlps","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"blafiaKappa","image_id":54602},{"match":"blafiaSkip","image_id":69452},{"match":"blafiaThirst","image_id":91343},{"match":"blafiaHype","image_id":91342}]}
+{
+  "name": "twitch-sub-blahblahlps",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "blafiaKappa",
+      "image_id": 54602
+    },
+    {
+      "match": "blafiaSkip",
+      "image_id": 69452
+    },
+    {
+      "match": "blafiaThirst",
+      "image_id": 91343
+    },
+    {
+      "match": "blafiaHype",
+      "image_id": 91342
+    }
+  ]
+}

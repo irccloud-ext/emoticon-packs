@@ -1,1 +1,39 @@
-{"name":"twitch-sub-lordbabyhulk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hulkgawdSwan","image_id":109611},{"match":"hulkgawdExposed","image_id":105930},{"match":"hulkgawdIq","image_id":105918},{"match":"hulkgawdDimer","image_id":108887},{"match":"hulkgawdRage","image_id":109013},{"match":"hulkgawdSub","image_id":107343},{"match":"hulkgawdJordan","image_id":108775},{"match":"hulkgawdTrash","image_id":108220}]}
+{
+  "name": "twitch-sub-lordbabyhulk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hulkgawdSwan",
+      "image_id": 109611
+    },
+    {
+      "match": "hulkgawdExposed",
+      "image_id": 105930
+    },
+    {
+      "match": "hulkgawdIq",
+      "image_id": 105918
+    },
+    {
+      "match": "hulkgawdDimer",
+      "image_id": 108887
+    },
+    {
+      "match": "hulkgawdSub",
+      "image_id": 107343
+    },
+    {
+      "match": "hulkgawdTrash",
+      "image_id": 108220
+    },
+    {
+      "match": "hulkgawdRip",
+      "image_id": 112404
+    },
+    {
+      "match": "hulkgawdLol",
+      "image_id": 112405
+    }
+  ]
+}

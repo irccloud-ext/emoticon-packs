@@ -1,1 +1,31 @@
-{"name":"twitch-sub-evac","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"evacThump","image_id":105139},{"match":"evacHead","image_id":25175},{"match":"evacDoge","image_id":4832},{"match":"evacTilt","image_id":105141},{"match":"evacHype","image_id":105142},{"match":"evacTrash","image_id":105140}]}
+{
+  "name": "twitch-sub-evac",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "evacThump",
+      "image_id": 105139
+    },
+    {
+      "match": "evacHead",
+      "image_id": 25175
+    },
+    {
+      "match": "evacDoge",
+      "image_id": 4832
+    },
+    {
+      "match": "evacTilt",
+      "image_id": 105141
+    },
+    {
+      "match": "evacHype",
+      "image_id": 105142
+    },
+    {
+      "match": "evacTrash",
+      "image_id": 105140
+    }
+  ]
+}

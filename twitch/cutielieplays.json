@@ -1,1 +1,39 @@
-{"name":"twitch-sub-cutielieplays","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cutieHey","image_id":72291},{"match":"cutieHype","image_id":72292},{"match":"cutieMango","image_id":72293},{"match":"cutieLove","image_id":72294},{"match":"cutiePipi","image_id":72297},{"match":"cutieRage","image_id":72295},{"match":"cutieNom","image_id":72296},{"match":"cutieFail","image_id":72298}]}
+{
+  "name": "twitch-sub-cutielieplays",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cutieHey",
+      "image_id": 72291
+    },
+    {
+      "match": "cutieHype",
+      "image_id": 72292
+    },
+    {
+      "match": "cutieMango",
+      "image_id": 72293
+    },
+    {
+      "match": "cutieLove",
+      "image_id": 72294
+    },
+    {
+      "match": "cutiePipi",
+      "image_id": 72297
+    },
+    {
+      "match": "cutieRage",
+      "image_id": 72295
+    },
+    {
+      "match": "cutieNom",
+      "image_id": 72296
+    },
+    {
+      "match": "cutieFail",
+      "image_id": 72298
+    }
+  ]
+}

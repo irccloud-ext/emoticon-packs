@@ -1,1 +1,47 @@
-{"name":"twitch-sub-chillindude","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chillinNoLefZone","image_id":29708},{"match":"chillinLuminati","image_id":31813},{"match":"chillinMyB","image_id":38973},{"match":"chillinPushUps","image_id":46460},{"match":"chillinDamn","image_id":46461},{"match":"chillinThump","image_id":47942},{"match":"chillinWhoa","image_id":47814},{"match":"chillinDatAz","image_id":84440},{"match":"chillinHugs","image_id":111292},{"match":"chillinBubble","image_id":111293}]}
+{
+  "name": "twitch-sub-chillindude",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chillinNoLefZone",
+      "image_id": 29708
+    },
+    {
+      "match": "chillinLuminati",
+      "image_id": 31813
+    },
+    {
+      "match": "chillinMyB",
+      "image_id": 38973
+    },
+    {
+      "match": "chillinPushUps",
+      "image_id": 46460
+    },
+    {
+      "match": "chillinDamn",
+      "image_id": 46461
+    },
+    {
+      "match": "chillinThump",
+      "image_id": 47942
+    },
+    {
+      "match": "chillinWhoa",
+      "image_id": 47814
+    },
+    {
+      "match": "chillinDatAz",
+      "image_id": 84440
+    },
+    {
+      "match": "chillinHugs",
+      "image_id": 111292
+    },
+    {
+      "match": "chillinBubble",
+      "image_id": 111293
+    }
+  ]
+}

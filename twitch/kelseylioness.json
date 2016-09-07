@@ -1,1 +1,47 @@
-{"name":"twitch-sub-kelseylioness","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kelsCry","image_id":103710},{"match":"kelsCoffee","image_id":104312},{"match":"kelsLurk","image_id":103872},{"match":"kelsLove","image_id":103464},{"match":"kelsShy","image_id":103445},{"match":"kelsHey","image_id":103449},{"match":"kelsFail","image_id":104313},{"match":"kelsHype","image_id":104195},{"match":"kelsRage","image_id":104314},{"match":"kelsBark","image_id":104346}]}
+{
+  "name": "twitch-sub-kelseylioness",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kelsCry",
+      "image_id": 103710
+    },
+    {
+      "match": "kelsCoffee",
+      "image_id": 104312
+    },
+    {
+      "match": "kelsLurk",
+      "image_id": 103872
+    },
+    {
+      "match": "kelsLove",
+      "image_id": 103464
+    },
+    {
+      "match": "kelsShy",
+      "image_id": 103445
+    },
+    {
+      "match": "kelsHey",
+      "image_id": 103449
+    },
+    {
+      "match": "kelsFail",
+      "image_id": 104313
+    },
+    {
+      "match": "kelsHype",
+      "image_id": 104195
+    },
+    {
+      "match": "kelsRage",
+      "image_id": 104314
+    },
+    {
+      "match": "kelsBark",
+      "image_id": 104346
+    }
+  ]
+}

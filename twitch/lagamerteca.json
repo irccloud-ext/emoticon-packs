@@ -1,1 +1,15 @@
-{"name":"twitch-sub-lagamerteca","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"weroGAMER","image_id":25232},{"match":"weroCABRA","image_id":25286}]}
+{
+  "name": "twitch-sub-lagamerteca",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "weroGAMER",
+      "image_id": 25232
+    },
+    {
+      "match": "weroCABRA",
+      "image_id": 25286
+    }
+  ]
+}

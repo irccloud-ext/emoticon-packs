@@ -1,1 +1,27 @@
-{"name":"twitch-sub-tretzytv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tretzyCRY","image_id":59128},{"match":"tretzySUB","image_id":59137},{"match":"tretzyRAGE","image_id":59138},{"match":"tretzyLOVE","image_id":59139},{"match":"tretzyFLIGHT","image_id":61174}]}
+{
+  "name": "twitch-sub-tretzytv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tretzyCRY",
+      "image_id": 59128
+    },
+    {
+      "match": "tretzySUB",
+      "image_id": 59137
+    },
+    {
+      "match": "tretzyRAGE",
+      "image_id": 59138
+    },
+    {
+      "match": "tretzyLOVE",
+      "image_id": 59139
+    },
+    {
+      "match": "tretzyFLIGHT",
+      "image_id": 61174
+    }
+  ]
+}

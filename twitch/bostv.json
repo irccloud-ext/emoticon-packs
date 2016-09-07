@@ -1,1 +1,39 @@
-{"name":"twitch-sub-bostv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bosMagic","image_id":17625},{"match":"bosPls","image_id":17660},{"match":"bosDerp","image_id":18853},{"match":"bosZ","image_id":25336},{"match":"bosDrag","image_id":25335},{"match":"bosTV","image_id":28622},{"match":"bosR","image_id":55283},{"match":"bosL","image_id":55284}]}
+{
+  "name": "twitch-sub-bostv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bosMagic",
+      "image_id": 17625
+    },
+    {
+      "match": "bosPls",
+      "image_id": 17660
+    },
+    {
+      "match": "bosDerp",
+      "image_id": 18853
+    },
+    {
+      "match": "bosZ",
+      "image_id": 25336
+    },
+    {
+      "match": "bosDrag",
+      "image_id": 25335
+    },
+    {
+      "match": "bosTV",
+      "image_id": 28622
+    },
+    {
+      "match": "bosR",
+      "image_id": 55283
+    },
+    {
+      "match": "bosL",
+      "image_id": 55284
+    }
+  ]
+}

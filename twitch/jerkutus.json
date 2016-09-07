@@ -1,1 +1,31 @@
-{"name":"twitch-sub-jerkutus","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jerkkuDOGE","image_id":63641},{"match":"jerkkuCIGAR","image_id":63762},{"match":"jerkkuKAPPA","image_id":63350},{"match":"jerkkuUKIRMAN","image_id":64218},{"match":"jerkkuRIP","image_id":65239},{"match":"jerkkuPOTATO","image_id":65242}]}
+{
+  "name": "twitch-sub-jerkutus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jerkkuDOGE",
+      "image_id": 63641
+    },
+    {
+      "match": "jerkkuCIGAR",
+      "image_id": 63762
+    },
+    {
+      "match": "jerkkuKAPPA",
+      "image_id": 63350
+    },
+    {
+      "match": "jerkkuUKIRMAN",
+      "image_id": 64218
+    },
+    {
+      "match": "jerkkuRIP",
+      "image_id": 65239
+    },
+    {
+      "match": "jerkkuPOTATO",
+      "image_id": 65242
+    }
+  ]
+}

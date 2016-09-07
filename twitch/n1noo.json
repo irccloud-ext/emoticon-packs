@@ -1,1 +1,15 @@
-{"name":"twitch-sub-n1noo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"n1nooMata","image_id":27476},{"match":"n1nooShow","image_id":26738}]}
+{
+  "name": "twitch-sub-n1noo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "n1nooMata",
+      "image_id": 27476
+    },
+    {
+      "match": "n1nooShow",
+      "image_id": 26738
+    }
+  ]
+}

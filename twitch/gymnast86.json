@@ -1,1 +1,15 @@
-{"name":"twitch-sub-gymnast86","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gymPhone","image_id":21074},{"match":"gymPubert","image_id":24899}]}
+{
+  "name": "twitch-sub-gymnast86",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gymPhone",
+      "image_id": 21074
+    },
+    {
+      "match": "gymPubert",
+      "image_id": 24899
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"twitch-sub-chris_vanmeter","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cvmBeard","image_id":24427},{"match":"cvmBearddragon","image_id":24430},{"match":"cvmKing","image_id":37109},{"match":"cvmMomo","image_id":67195},{"match":"cvmZuul","image_id":67198},{"match":"cvmHype","image_id":69370},{"match":"cvmTilt","image_id":69369}]}
+{
+  "name": "twitch-sub-chris_vanmeter",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cvmBeard",
+      "image_id": 24427
+    },
+    {
+      "match": "cvmBearddragon",
+      "image_id": 24430
+    },
+    {
+      "match": "cvmKing",
+      "image_id": 37109
+    },
+    {
+      "match": "cvmMomo",
+      "image_id": 67195
+    },
+    {
+      "match": "cvmZuul",
+      "image_id": 67198
+    },
+    {
+      "match": "cvmHype",
+      "image_id": 69370
+    },
+    {
+      "match": "cvmTilt",
+      "image_id": 69369
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-connectesport","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"coesWaza","image_id":106559},{"match":"coesFAMILY","image_id":106407}]}
+{
+  "name": "twitch-sub-connectesport",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "coesWaza",
+      "image_id": 106559
+    },
+    {
+      "match": "coesFAMILY",
+      "image_id": 106407
+    }
+  ]
+}

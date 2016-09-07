@@ -1,1 +1,19 @@
-{"name":"twitch-sub-kackishd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kackLolwut","image_id":88560},{"match":"kackRickt","image_id":94428},{"match":"kackSuh","image_id":107048}]}
+{
+  "name": "twitch-sub-kackishd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kackLolwut",
+      "image_id": 88560
+    },
+    {
+      "match": "kackRickt",
+      "image_id": 94428
+    },
+    {
+      "match": "kackSuh",
+      "image_id": 107048
+    }
+  ]
+}

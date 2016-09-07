@@ -1,1 +1,39 @@
-{"name":"twitch-sub-otakuhaven72","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"otaTroll","image_id":45565},{"match":"otaPoint","image_id":33322},{"match":"otaHype","image_id":30171},{"match":"otaBattle","image_id":45924},{"match":"otaTaco","image_id":46028},{"match":"otaRage","image_id":77624},{"match":"otaLove","image_id":78790},{"match":"otaNyaa","image_id":84589}]}
+{
+  "name": "twitch-sub-otakuhaven72",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "otaTroll",
+      "image_id": 45565
+    },
+    {
+      "match": "otaPoint",
+      "image_id": 33322
+    },
+    {
+      "match": "otaHype",
+      "image_id": 30171
+    },
+    {
+      "match": "otaBattle",
+      "image_id": 45924
+    },
+    {
+      "match": "otaTaco",
+      "image_id": 46028
+    },
+    {
+      "match": "otaRage",
+      "image_id": 77624
+    },
+    {
+      "match": "otaLove",
+      "image_id": 78790
+    },
+    {
+      "match": "otaNyaa",
+      "image_id": 84589
+    }
+  ]
+}

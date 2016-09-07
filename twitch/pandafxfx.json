@@ -1,1 +1,31 @@
-{"name":"twitch-sub-pandafxfx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fxpandaSmilepanda","image_id":43983},{"match":"fxpanda228","image_id":17684},{"match":"fxpanda229","image_id":17685},{"match":"fxpandaEAPANDA","image_id":44027},{"match":"fxpanda888","image_id":28948},{"match":"fxpandaGOAL","image_id":86254}]}
+{
+  "name": "twitch-sub-pandafxfx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fxpandaSmilepanda",
+      "image_id": 43983
+    },
+    {
+      "match": "fxpanda228",
+      "image_id": 17684
+    },
+    {
+      "match": "fxpanda229",
+      "image_id": 17685
+    },
+    {
+      "match": "fxpandaEAPANDA",
+      "image_id": 44027
+    },
+    {
+      "match": "fxpanda888",
+      "image_id": 28948
+    },
+    {
+      "match": "fxpandaGOAL",
+      "image_id": 86254
+    }
+  ]
+}

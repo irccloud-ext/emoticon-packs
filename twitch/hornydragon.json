@@ -1,1 +1,27 @@
-{"name":"twitch-sub-hornydragon","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hornydYaranaika","image_id":75680},{"match":"hornydTemmie","image_id":75406},{"match":"hornydMtt","image_id":77228},{"match":"hornydRIP","image_id":111153},{"match":"hornydFlag","image_id":110864}]}
+{
+  "name": "twitch-sub-hornydragon",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hornydYaranaika",
+      "image_id": 75680
+    },
+    {
+      "match": "hornydTemmie",
+      "image_id": 75406
+    },
+    {
+      "match": "hornydMtt",
+      "image_id": 77228
+    },
+    {
+      "match": "hornydRIP",
+      "image_id": 111153
+    },
+    {
+      "match": "hornydFlag",
+      "image_id": 110864
+    }
+  ]
+}

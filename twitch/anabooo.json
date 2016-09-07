@@ -1,1 +1,39 @@
-{"name":"twitch-sub-anabooo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"anaPEW","image_id":35541},{"match":"anaHEART","image_id":34878},{"match":"anaHYPE","image_id":34895},{"match":"anaBOOO","image_id":37340},{"match":"anaMagic","image_id":52101},{"match":"anaKITTY","image_id":54745},{"match":"anaGG","image_id":54412},{"match":"anaRAWR","image_id":93540}]}
+{
+  "name": "twitch-sub-anabooo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "anaPEW",
+      "image_id": 35541
+    },
+    {
+      "match": "anaHEART",
+      "image_id": 34878
+    },
+    {
+      "match": "anaHYPE",
+      "image_id": 34895
+    },
+    {
+      "match": "anaBOOO",
+      "image_id": 37340
+    },
+    {
+      "match": "anaMagic",
+      "image_id": 52101
+    },
+    {
+      "match": "anaKITTY",
+      "image_id": 54745
+    },
+    {
+      "match": "anaGG",
+      "image_id": 54412
+    },
+    {
+      "match": "anaRAWR",
+      "image_id": 93540
+    }
+  ]
+}

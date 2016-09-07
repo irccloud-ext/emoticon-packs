@@ -1,1 +1,27 @@
-{"name":"twitch-sub-chaosxsilencer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cxsTEAMCHAOS","image_id":7707},{"match":"cxsCHAOS","image_id":7760},{"match":"cxsMCSELFIE","image_id":10258},{"match":"cxsTK","image_id":10006},{"match":"cxsMINECRAFT","image_id":10008}]}
+{
+  "name": "twitch-sub-chaosxsilencer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cxsTEAMCHAOS",
+      "image_id": 7707
+    },
+    {
+      "match": "cxsCHAOS",
+      "image_id": 7760
+    },
+    {
+      "match": "cxsMCSELFIE",
+      "image_id": 10258
+    },
+    {
+      "match": "cxsTK",
+      "image_id": 10006
+    },
+    {
+      "match": "cxsMINECRAFT",
+      "image_id": 10008
+    }
+  ]
+}

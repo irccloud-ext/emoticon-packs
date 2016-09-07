@@ -1,1 +1,39 @@
-{"name":"twitch-sub-doomsday93","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"doomsdayGasm","image_id":54576},{"match":"doomsdayCorgi","image_id":44061},{"match":"doomsdayW","image_id":43535},{"match":"doomsdayToot","image_id":43536},{"match":"doomsdayFC","image_id":44929},{"match":"doomsdayChamp","image_id":54555},{"match":"doomsdayBad","image_id":54554},{"match":"doomsdayCute","image_id":54553}]}
+{
+  "name": "twitch-sub-doomsday93",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "doomsdayGasm",
+      "image_id": 54576
+    },
+    {
+      "match": "doomsdayCorgi",
+      "image_id": 44061
+    },
+    {
+      "match": "doomsdayW",
+      "image_id": 43535
+    },
+    {
+      "match": "doomsdayToot",
+      "image_id": 43536
+    },
+    {
+      "match": "doomsdayFC",
+      "image_id": 44929
+    },
+    {
+      "match": "doomsdayChamp",
+      "image_id": 54555
+    },
+    {
+      "match": "doomsdayBad",
+      "image_id": 54554
+    },
+    {
+      "match": "doomsdayCute",
+      "image_id": 54553
+    }
+  ]
+}

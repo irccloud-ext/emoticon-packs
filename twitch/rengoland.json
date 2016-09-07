@@ -1,1 +1,23 @@
-{"name":"twitch-sub-rengoland","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rengoDeal","image_id":85523},{"match":"rengoRekt","image_id":85522},{"match":"rengoJanna","image_id":79796},{"match":"rengoBola","image_id":79767}]}
+{
+  "name": "twitch-sub-rengoland",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rengoDeal",
+      "image_id": 85523
+    },
+    {
+      "match": "rengoRekt",
+      "image_id": 85522
+    },
+    {
+      "match": "rengoJanna",
+      "image_id": 79796
+    },
+    {
+      "match": "rengoBola",
+      "image_id": 79767
+    }
+  ]
+}

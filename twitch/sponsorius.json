@@ -1,1 +1,39 @@
-{"name":"twitch-sub-sponsorius","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"spoCry","image_id":34757},{"match":"spoGasm","image_id":34751},{"match":"spoFail","image_id":38875},{"match":"spoHYPE","image_id":55674},{"match":"spoZDRV","image_id":97509},{"match":"spoMLG","image_id":97213},{"match":"spoFEELS","image_id":97212},{"match":"spoKa","image_id":97211}]}
+{
+  "name": "twitch-sub-sponsorius",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "spoCry",
+      "image_id": 34757
+    },
+    {
+      "match": "spoGasm",
+      "image_id": 34751
+    },
+    {
+      "match": "spoFail",
+      "image_id": 38875
+    },
+    {
+      "match": "spoHYPE",
+      "image_id": 55674
+    },
+    {
+      "match": "spoZDRV",
+      "image_id": 97509
+    },
+    {
+      "match": "spoMLG",
+      "image_id": 97213
+    },
+    {
+      "match": "spoFEELS",
+      "image_id": 97212
+    },
+    {
+      "match": "spoKa",
+      "image_id": 97211
+    }
+  ]
+}

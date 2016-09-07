@@ -1,1 +1,87 @@
-{"name":"twitch-sub-nosleeptv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tipAmen","image_id":23410},{"match":"tipSeal","image_id":41764},{"match":"tipFail","image_id":36999},{"match":"tipAwn","image_id":37027},{"match":"tipHug","image_id":37021},{"match":"tipBaby","image_id":37841},{"match":"tipDonezo","image_id":42079},{"match":"tipSalute","image_id":41930},{"match":"tipW","image_id":77808},{"match":"tipWop","image_id":46293},{"match":"tipZone","image_id":49570},{"match":"tipSloth","image_id":49571},{"match":"tipChamp","image_id":49572},{"match":"tipGasm","image_id":49573},{"match":"tipScript","image_id":62786},{"match":"tip2319","image_id":63430},{"match":"tipWhiteknight","image_id":63426},{"match":"tipCry","image_id":63433},{"match":"tipRealtalk","image_id":65351},{"match":"tipHowl","image_id":65117}]}
+{
+  "name": "twitch-sub-nosleeptv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tipAmen",
+      "image_id": 23410
+    },
+    {
+      "match": "tipSeal",
+      "image_id": 41764
+    },
+    {
+      "match": "tipFail",
+      "image_id": 36999
+    },
+    {
+      "match": "tipAwn",
+      "image_id": 37027
+    },
+    {
+      "match": "tipHug",
+      "image_id": 37021
+    },
+    {
+      "match": "tipBaby",
+      "image_id": 37841
+    },
+    {
+      "match": "tipDonezo",
+      "image_id": 42079
+    },
+    {
+      "match": "tipSalute",
+      "image_id": 41930
+    },
+    {
+      "match": "tipW",
+      "image_id": 77808
+    },
+    {
+      "match": "tipWop",
+      "image_id": 46293
+    },
+    {
+      "match": "tipZone",
+      "image_id": 49570
+    },
+    {
+      "match": "tipSloth",
+      "image_id": 49571
+    },
+    {
+      "match": "tipChamp",
+      "image_id": 49572
+    },
+    {
+      "match": "tipGasm",
+      "image_id": 49573
+    },
+    {
+      "match": "tipScript",
+      "image_id": 62786
+    },
+    {
+      "match": "tip2319",
+      "image_id": 63430
+    },
+    {
+      "match": "tipWhiteknight",
+      "image_id": 63426
+    },
+    {
+      "match": "tipCry",
+      "image_id": 63433
+    },
+    {
+      "match": "tipRealtalk",
+      "image_id": 65351
+    },
+    {
+      "match": "tipHowl",
+      "image_id": 65117
+    }
+  ]
+}

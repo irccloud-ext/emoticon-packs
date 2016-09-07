@@ -1,1 +1,19 @@
-{"name":"twitch-sub-hanssama","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hanssamaKappa","image_id":109968},{"match":"hanssamaMisfits","image_id":109969}]}
+{
+  "name": "twitch-sub-hanssama",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hanssamaExdee",
+      "image_id": 112521
+    },
+    {
+      "match": "hanssamaKappa",
+      "image_id": 109968
+    },
+    {
+      "match": "hanssamaMisfits",
+      "image_id": 109969
+    }
+  ]
+}

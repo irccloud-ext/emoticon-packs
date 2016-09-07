@@ -1,1 +1,31 @@
-{"name":"twitch-sub-approachingnirvana","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"appTater","image_id":12785},{"match":"appHupe","image_id":47086},{"match":"appDrop","image_id":47087},{"match":"appDerp","image_id":47088},{"match":"appAndrew","image_id":47093},{"match":"appTequila","image_id":47094}]}
+{
+  "name": "twitch-sub-approachingnirvana",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "appTater",
+      "image_id": 12785
+    },
+    {
+      "match": "appHupe",
+      "image_id": 47086
+    },
+    {
+      "match": "appDrop",
+      "image_id": 47087
+    },
+    {
+      "match": "appDerp",
+      "image_id": 47088
+    },
+    {
+      "match": "appAndrew",
+      "image_id": 47093
+    },
+    {
+      "match": "appTequila",
+      "image_id": 47094
+    }
+  ]
+}

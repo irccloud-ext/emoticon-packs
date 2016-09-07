@@ -1,1 +1,47 @@
-{"name":"twitch-sub-wowhobbs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hobbs1","image_id":3000},{"match":"hobbsS","image_id":3729},{"match":"hobbsNova","image_id":24890},{"match":"hobbsGmonkey","image_id":77046},{"match":"hobbsCho","image_id":63392},{"match":"hobbsTea","image_id":70700},{"match":"hobbsLeper","image_id":70701},{"match":"hobbsLethal","image_id":85747},{"match":"hobbsRope","image_id":96557},{"match":"hobbsBurn","image_id":96556}]}
+{
+  "name": "twitch-sub-wowhobbs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hobbs1",
+      "image_id": 3000
+    },
+    {
+      "match": "hobbsS",
+      "image_id": 3729
+    },
+    {
+      "match": "hobbsNova",
+      "image_id": 24890
+    },
+    {
+      "match": "hobbsGmonkey",
+      "image_id": 77046
+    },
+    {
+      "match": "hobbsCho",
+      "image_id": 63392
+    },
+    {
+      "match": "hobbsTea",
+      "image_id": 70700
+    },
+    {
+      "match": "hobbsLeper",
+      "image_id": 70701
+    },
+    {
+      "match": "hobbsLethal",
+      "image_id": 85747
+    },
+    {
+      "match": "hobbsRope",
+      "image_id": 96557
+    },
+    {
+      "match": "hobbsBurn",
+      "image_id": 96556
+    }
+  ]
+}

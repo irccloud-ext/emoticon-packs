@@ -1,1 +1,15 @@
-{"name":"twitch-sub-caelaneuw","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"caeOnFire","image_id":96364},{"match":"caeFacePalm","image_id":96296}]}
+{
+  "name": "twitch-sub-caelaneuw",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "caeOnFire",
+      "image_id": 96364
+    },
+    {
+      "match": "caeFacePalm",
+      "image_id": 96296
+    }
+  ]
+}

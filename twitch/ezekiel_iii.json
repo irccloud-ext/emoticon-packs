@@ -1,1 +1,83 @@
-{"name":"twitch-sub-ezekiel_iii","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zekeZ","image_id":2557},{"match":"zekeRAGE","image_id":2559},{"match":"zekeYUP","image_id":2560},{"match":"zekeFIST","image_id":2553},{"match":"zekeCM","image_id":2798},{"match":"zekeRAID","image_id":3756},{"match":"zekeDAD","image_id":4708},{"match":"zekeBRO","image_id":6241},{"match":"zekeGOD","image_id":40720},{"match":"zekeSMRT","image_id":77273},{"match":"zekeFK","image_id":17715},{"match":"zekeLOVE","image_id":20599},{"match":"zekeO","image_id":25744},{"match":"zekeLB","image_id":33865},{"match":"zekePIMP","image_id":46072},{"match":"zekeMOM","image_id":45496},{"match":"zekeNOPE","image_id":54724},{"match":"zekeBIZ","image_id":79677},{"match":"zekeSALT","image_id":98923}]}
+{
+  "name": "twitch-sub-ezekiel_iii",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zekeZ",
+      "image_id": 2557
+    },
+    {
+      "match": "zekeRAGE",
+      "image_id": 2559
+    },
+    {
+      "match": "zekeYUP",
+      "image_id": 2560
+    },
+    {
+      "match": "zekeFIST",
+      "image_id": 2553
+    },
+    {
+      "match": "zekeCM",
+      "image_id": 2798
+    },
+    {
+      "match": "zekeRAID",
+      "image_id": 3756
+    },
+    {
+      "match": "zekeDAD",
+      "image_id": 4708
+    },
+    {
+      "match": "zekeBRO",
+      "image_id": 6241
+    },
+    {
+      "match": "zekeGOD",
+      "image_id": 40720
+    },
+    {
+      "match": "zekeSMRT",
+      "image_id": 77273
+    },
+    {
+      "match": "zekeFK",
+      "image_id": 17715
+    },
+    {
+      "match": "zekeLOVE",
+      "image_id": 20599
+    },
+    {
+      "match": "zekeO",
+      "image_id": 25744
+    },
+    {
+      "match": "zekeLB",
+      "image_id": 33865
+    },
+    {
+      "match": "zekePIMP",
+      "image_id": 46072
+    },
+    {
+      "match": "zekeMOM",
+      "image_id": 45496
+    },
+    {
+      "match": "zekeNOPE",
+      "image_id": 54724
+    },
+    {
+      "match": "zekeBIZ",
+      "image_id": 79677
+    },
+    {
+      "match": "zekeSALT",
+      "image_id": 98923
+    }
+  ]
+}

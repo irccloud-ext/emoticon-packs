@@ -1,1 +1,23 @@
-{"name":"twitch-sub-skurkbro","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"skurkAkei","image_id":21956},{"match":"skurkFhrow","image_id":21957},{"match":"skurkWelcome","image_id":21958},{"match":"skurkDeag","image_id":21959}]}
+{
+  "name": "twitch-sub-skurkbro",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "skurkAkei",
+      "image_id": 21956
+    },
+    {
+      "match": "skurkFhrow",
+      "image_id": 21957
+    },
+    {
+      "match": "skurkWelcome",
+      "image_id": 21958
+    },
+    {
+      "match": "skurkDeag",
+      "image_id": 21959
+    }
+  ]
+}

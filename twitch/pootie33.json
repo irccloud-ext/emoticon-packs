@@ -1,1 +1,47 @@
-{"name":"twitch-sub-pootie33","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"impootieA33","image_id":72732},{"match":"impootieLove","image_id":67888},{"match":"impootieProbs","image_id":68451},{"match":"impootieGotdied","image_id":67881},{"match":"impootieHype","image_id":67891},{"match":"impootie33","image_id":78811},{"match":"impootieTroll","image_id":78808},{"match":"impootieHD","image_id":78806},{"match":"impootieBlackout","image_id":78803},{"match":"impootieET","image_id":80924}]}
+{
+  "name": "twitch-sub-pootie33",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "impootieA33",
+      "image_id": 72732
+    },
+    {
+      "match": "impootieLove",
+      "image_id": 67888
+    },
+    {
+      "match": "impootieProbs",
+      "image_id": 68451
+    },
+    {
+      "match": "impootieGotdied",
+      "image_id": 67881
+    },
+    {
+      "match": "impootieHype",
+      "image_id": 67891
+    },
+    {
+      "match": "impootie33",
+      "image_id": 78811
+    },
+    {
+      "match": "impootieTroll",
+      "image_id": 78808
+    },
+    {
+      "match": "impootieHD",
+      "image_id": 78806
+    },
+    {
+      "match": "impootieBlackout",
+      "image_id": 78803
+    },
+    {
+      "match": "impootieET",
+      "image_id": 80924
+    }
+  ]
+}

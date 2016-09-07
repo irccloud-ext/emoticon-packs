@@ -1,1 +1,47 @@
-{"name":"twitch-sub-derick99","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"danielsCat","image_id":64697},{"match":"danielsRed","image_id":86533},{"match":"danielsKawaipotato","image_id":71591},{"match":"danielsMtvlw","image_id":69662},{"match":"danielsPotato","image_id":71592},{"match":"danielsWoow","image_id":79253},{"match":"danielsTab","image_id":83362},{"match":"danielsPika","image_id":86407},{"match":"danielsPiranha","image_id":87655},{"match":"danielsCry","image_id":96156}]}
+{
+  "name": "twitch-sub-derick99",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "danielsCat",
+      "image_id": 64697
+    },
+    {
+      "match": "danielsRed",
+      "image_id": 86533
+    },
+    {
+      "match": "danielsKawaipotato",
+      "image_id": 71591
+    },
+    {
+      "match": "danielsMtvlw",
+      "image_id": 69662
+    },
+    {
+      "match": "danielsPotato",
+      "image_id": 71592
+    },
+    {
+      "match": "danielsWoow",
+      "image_id": 79253
+    },
+    {
+      "match": "danielsTab",
+      "image_id": 83362
+    },
+    {
+      "match": "danielsPika",
+      "image_id": 86407
+    },
+    {
+      "match": "danielsPiranha",
+      "image_id": 87655
+    },
+    {
+      "match": "danielsCry",
+      "image_id": 96156
+    }
+  ]
+}

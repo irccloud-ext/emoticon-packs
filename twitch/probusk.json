@@ -1,1 +1,31 @@
-{"name":"twitch-sub-probusk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"buskP4L","image_id":8632},{"match":"buskNH","image_id":8557},{"match":"buskFail","image_id":46544},{"match":"buskGasm","image_id":46543},{"match":"buskW","image_id":51363},{"match":"buskTea","image_id":51364}]}
+{
+  "name": "twitch-sub-probusk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "buskP4L",
+      "image_id": 8632
+    },
+    {
+      "match": "buskNH",
+      "image_id": 8557
+    },
+    {
+      "match": "buskFail",
+      "image_id": 46544
+    },
+    {
+      "match": "buskGasm",
+      "image_id": 46543
+    },
+    {
+      "match": "buskW",
+      "image_id": 51363
+    },
+    {
+      "match": "buskTea",
+      "image_id": 51364
+    }
+  ]
+}

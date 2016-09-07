@@ -1,1 +1,35 @@
-{"name":"twitch-sub-empyriangaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"empyALK","image_id":46094},{"match":"empyPIZZA","image_id":45001},{"match":"empyEQ","image_id":67125},{"match":"empyCOFFEE","image_id":53062},{"match":"empySPECTRUM","image_id":53061},{"match":"empyOP","image_id":62644},{"match":"empyPOOL","image_id":66437}]}
+{
+  "name": "twitch-sub-empyriangaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "empyALK",
+      "image_id": 46094
+    },
+    {
+      "match": "empyPIZZA",
+      "image_id": 45001
+    },
+    {
+      "match": "empyEQ",
+      "image_id": 67125
+    },
+    {
+      "match": "empyCOFFEE",
+      "image_id": 53062
+    },
+    {
+      "match": "empySPECTRUM",
+      "image_id": 53061
+    },
+    {
+      "match": "empyOP",
+      "image_id": 62644
+    },
+    {
+      "match": "empyPOOL",
+      "image_id": 66437
+    }
+  ]
+}

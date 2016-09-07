@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mr_troll_lol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mrtrollPELAS","image_id":70136},{"match":"mrtrollTHUG","image_id":70424},{"match":"mrtrollHYPE","image_id":70148},{"match":"mrtrollKAWAI","image_id":69733},{"match":"mrtrollSHURIMA","image_id":69736},{"match":"mrtrollRIP","image_id":69841}]}
+{
+  "name": "twitch-sub-mr_troll_lol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mrtrollPELAS",
+      "image_id": 70136
+    },
+    {
+      "match": "mrtrollTHUG",
+      "image_id": 70424
+    },
+    {
+      "match": "mrtrollHYPE",
+      "image_id": 70148
+    },
+    {
+      "match": "mrtrollKAWAI",
+      "image_id": 69733
+    },
+    {
+      "match": "mrtrollSHURIMA",
+      "image_id": 69736
+    },
+    {
+      "match": "mrtrollRIP",
+      "image_id": 69841
+    }
+  ]
+}

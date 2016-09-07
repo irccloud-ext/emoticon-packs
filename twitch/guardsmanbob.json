@@ -1,1 +1,47 @@
-{"name":"twitch-sub-guardsmanbob","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bobDino","image_id":5462},{"match":"bobPengu","image_id":5388},{"match":"bobPanda","image_id":5390},{"match":"bobHug","image_id":5069},{"match":"bobTea","image_id":5078},{"match":"bobWick","image_id":5077},{"match":"bobCat","image_id":5885},{"match":"bobAlert","image_id":8405},{"match":"bobRage","image_id":99818},{"match":"bobHype","image_id":98893}]}
+{
+  "name": "twitch-sub-guardsmanbob",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bobDino",
+      "image_id": 5462
+    },
+    {
+      "match": "bobPengu",
+      "image_id": 5388
+    },
+    {
+      "match": "bobPanda",
+      "image_id": 5390
+    },
+    {
+      "match": "bobHug",
+      "image_id": 5069
+    },
+    {
+      "match": "bobTea",
+      "image_id": 5078
+    },
+    {
+      "match": "bobWick",
+      "image_id": 5077
+    },
+    {
+      "match": "bobCat",
+      "image_id": 5885
+    },
+    {
+      "match": "bobAlert",
+      "image_id": 8405
+    },
+    {
+      "match": "bobRage",
+      "image_id": 99818
+    },
+    {
+      "match": "bobHype",
+      "image_id": 98893
+    }
+  ]
+}

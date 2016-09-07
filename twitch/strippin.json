@@ -1,1 +1,67 @@
-{"name":"twitch-sub-strippin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"stripBRO","image_id":68012},{"match":"stripHype","image_id":76465},{"match":"stripSalt","image_id":76463},{"match":"stripLOVE","image_id":77299},{"match":"stripDed","image_id":76119},{"match":"stripWot","image_id":44574},{"match":"stripRage","image_id":76117},{"match":"stripPin","image_id":76118},{"match":"stripIAM","image_id":66318},{"match":"stripK","image_id":76381},{"match":"stripO","image_id":76382},{"match":"stripFliff","image_id":86091},{"match":"stripHey","image_id":100840},{"match":"stripDoogs","image_id":100842},{"match":"stripMwah","image_id":100843}]}
+{
+  "name": "twitch-sub-strippin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "stripBRO",
+      "image_id": 68012
+    },
+    {
+      "match": "stripHype",
+      "image_id": 76465
+    },
+    {
+      "match": "stripSalt",
+      "image_id": 76463
+    },
+    {
+      "match": "stripLOVE",
+      "image_id": 77299
+    },
+    {
+      "match": "stripDed",
+      "image_id": 76119
+    },
+    {
+      "match": "stripWot",
+      "image_id": 44574
+    },
+    {
+      "match": "stripRage",
+      "image_id": 76117
+    },
+    {
+      "match": "stripPin",
+      "image_id": 76118
+    },
+    {
+      "match": "stripIAM",
+      "image_id": 66318
+    },
+    {
+      "match": "stripK",
+      "image_id": 76381
+    },
+    {
+      "match": "stripO",
+      "image_id": 76382
+    },
+    {
+      "match": "stripFliff",
+      "image_id": 86091
+    },
+    {
+      "match": "stripHey",
+      "image_id": 100840
+    },
+    {
+      "match": "stripDoogs",
+      "image_id": 100842
+    },
+    {
+      "match": "stripMwah",
+      "image_id": 100843
+    }
+  ]
+}

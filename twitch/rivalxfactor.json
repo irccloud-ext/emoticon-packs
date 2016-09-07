@@ -1,1 +1,47 @@
-{"name":"twitch-sub-rivalxfactor","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xf1C4","image_id":15480},{"match":"xf1Taco","image_id":15481},{"match":"xf1Juan","image_id":15970},{"match":"xf1Wookie","image_id":19471},{"match":"xf1Rustle","image_id":19798},{"match":"xf1Mad","image_id":21884},{"match":"xf1Dice","image_id":22389},{"match":"xf1Eagle","image_id":28258},{"match":"xf1UCAV","image_id":28255},{"match":"xf1Salt","image_id":32864}]}
+{
+  "name": "twitch-sub-rivalxfactor",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xf1C4",
+      "image_id": 15480
+    },
+    {
+      "match": "xf1Taco",
+      "image_id": 15481
+    },
+    {
+      "match": "xf1Juan",
+      "image_id": 15970
+    },
+    {
+      "match": "xf1Wookie",
+      "image_id": 19471
+    },
+    {
+      "match": "xf1Rustle",
+      "image_id": 19798
+    },
+    {
+      "match": "xf1Mad",
+      "image_id": 21884
+    },
+    {
+      "match": "xf1Dice",
+      "image_id": 22389
+    },
+    {
+      "match": "xf1Eagle",
+      "image_id": 28258
+    },
+    {
+      "match": "xf1UCAV",
+      "image_id": 28255
+    },
+    {
+      "match": "xf1Salt",
+      "image_id": 32864
+    }
+  ]
+}

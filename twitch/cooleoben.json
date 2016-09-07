@@ -1,1 +1,15 @@
-{"name":"twitch-sub-cooleoben","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cooleoToilet","image_id":32192},{"match":"cooleoWaldo","image_id":32197}]}
+{
+  "name": "twitch-sub-cooleoben",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cooleoToilet",
+      "image_id": 32192
+    },
+    {
+      "match": "cooleoWaldo",
+      "image_id": 32197
+    }
+  ]
+}

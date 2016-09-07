@@ -1,1 +1,47 @@
-{"name":"twitch-sub-mlc_st3alth","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mlcStealth","image_id":8730},{"match":"mlcStella","image_id":8922},{"match":"mlcMilk","image_id":16549},{"match":"mlcScylla","image_id":37415},{"match":"mlcMVP","image_id":37438},{"match":"mlcSong","image_id":37491},{"match":"mlcFriend","image_id":38944},{"match":"mlcZone","image_id":83160},{"match":"mlcW","image_id":83162},{"match":"mlcSub","image_id":83103}]}
+{
+  "name": "twitch-sub-mlc_st3alth",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mlcStealth",
+      "image_id": 8730
+    },
+    {
+      "match": "mlcStella",
+      "image_id": 8922
+    },
+    {
+      "match": "mlcMilk",
+      "image_id": 16549
+    },
+    {
+      "match": "mlcScylla",
+      "image_id": 37415
+    },
+    {
+      "match": "mlcMVP",
+      "image_id": 37438
+    },
+    {
+      "match": "mlcSong",
+      "image_id": 37491
+    },
+    {
+      "match": "mlcFriend",
+      "image_id": 38944
+    },
+    {
+      "match": "mlcZone",
+      "image_id": 83160
+    },
+    {
+      "match": "mlcW",
+      "image_id": 83162
+    },
+    {
+      "match": "mlcSub",
+      "image_id": 83103
+    }
+  ]
+}

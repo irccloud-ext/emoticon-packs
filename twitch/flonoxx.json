@@ -1,1 +1,27 @@
-{"name":"twitch-sub-flonoxx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"flonoxxGOAL","image_id":46246},{"match":"flonoxxCarotte","image_id":45483},{"match":"flonoxxTropico","image_id":53469},{"match":"flonoxxEscroc","image_id":53470},{"match":"flonoxxNewsub","image_id":53471}]}
+{
+  "name": "twitch-sub-flonoxx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "flonoxxGOAL",
+      "image_id": 46246
+    },
+    {
+      "match": "flonoxxCarotte",
+      "image_id": 45483
+    },
+    {
+      "match": "flonoxxTropico",
+      "image_id": 53469
+    },
+    {
+      "match": "flonoxxEscroc",
+      "image_id": 53470
+    },
+    {
+      "match": "flonoxxNewsub",
+      "image_id": 53471
+    }
+  ]
+}

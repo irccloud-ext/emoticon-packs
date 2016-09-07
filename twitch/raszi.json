@@ -1,1 +1,47 @@
-{"name":"twitch-sub-raszi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rasziANI","image_id":105454},{"match":"rasziRage","image_id":95634},{"match":"rasziBALL","image_id":105455},{"match":"rasziWHAT","image_id":99000},{"match":"rasziBANG","image_id":110377},{"match":"rasziLA","image_id":110534},{"match":"rasziBOOM","image_id":98328},{"match":"rasziCT","image_id":98193},{"match":"rasziST","image_id":95376},{"match":"rasziTRM","image_id":99141}]}
+{
+  "name": "twitch-sub-raszi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rasziANI",
+      "image_id": 105454
+    },
+    {
+      "match": "rasziRage",
+      "image_id": 95634
+    },
+    {
+      "match": "rasziBALL",
+      "image_id": 105455
+    },
+    {
+      "match": "rasziWHAT",
+      "image_id": 99000
+    },
+    {
+      "match": "rasziBANG",
+      "image_id": 110377
+    },
+    {
+      "match": "rasziLA",
+      "image_id": 110534
+    },
+    {
+      "match": "rasziBOOM",
+      "image_id": 98328
+    },
+    {
+      "match": "rasziCT",
+      "image_id": 98193
+    },
+    {
+      "match": "rasziST",
+      "image_id": 95376
+    },
+    {
+      "match": "rasziTRM",
+      "image_id": 99141
+    }
+  ]
+}

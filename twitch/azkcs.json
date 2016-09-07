@@ -1,1 +1,23 @@
-{"name":"twitch-sub-azkcs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"azkAce","image_id":18999},{"match":"azkBomb","image_id":25170},{"match":"azkRekt","image_id":38308},{"match":"azkSub","image_id":38311}]}
+{
+  "name": "twitch-sub-azkcs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "azkAce",
+      "image_id": 18999
+    },
+    {
+      "match": "azkBomb",
+      "image_id": 25170
+    },
+    {
+      "match": "azkRekt",
+      "image_id": 38308
+    },
+    {
+      "match": "azkSub",
+      "image_id": 38311
+    }
+  ]
+}

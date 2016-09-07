@@ -1,1 +1,39 @@
-{"name":"twitch-sub-tangyd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tangyTilt","image_id":101110},{"match":"tangyRIP","image_id":108153},{"match":"tangyIQ","image_id":108130},{"match":"tangyFeels","image_id":97838},{"match":"tangyPotato","image_id":96389},{"match":"tangyClutch","image_id":95047},{"match":"tangySalt","image_id":96390},{"match":"tangyLove","image_id":96391}]}
+{
+  "name": "twitch-sub-tangyd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tangyTilt",
+      "image_id": 101110
+    },
+    {
+      "match": "tangyRIP",
+      "image_id": 108153
+    },
+    {
+      "match": "tangyIQ",
+      "image_id": 108130
+    },
+    {
+      "match": "tangyFeels",
+      "image_id": 97838
+    },
+    {
+      "match": "tangyPotato",
+      "image_id": 96389
+    },
+    {
+      "match": "tangyClutch",
+      "image_id": 95047
+    },
+    {
+      "match": "tangySalt",
+      "image_id": 96390
+    },
+    {
+      "match": "tangyLove",
+      "image_id": 96391
+    }
+  ]
+}

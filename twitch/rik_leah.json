@@ -1,1 +1,39 @@
-{"name":"twitch-sub-rik_leah","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rikEvil","image_id":72684},{"match":"rikX","image_id":83913},{"match":"rikCREW","image_id":71671},{"match":"rikVeverka","image_id":71527},{"match":"rikBanzai","image_id":71392},{"match":"rikRage","image_id":71495},{"match":"rikRIP","image_id":78964},{"match":"rikFail","image_id":78988}]}
+{
+  "name": "twitch-sub-rik_leah",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rikEvil",
+      "image_id": 72684
+    },
+    {
+      "match": "rikX",
+      "image_id": 83913
+    },
+    {
+      "match": "rikCREW",
+      "image_id": 71671
+    },
+    {
+      "match": "rikVeverka",
+      "image_id": 71527
+    },
+    {
+      "match": "rikBanzai",
+      "image_id": 71392
+    },
+    {
+      "match": "rikRage",
+      "image_id": 71495
+    },
+    {
+      "match": "rikRIP",
+      "image_id": 78964
+    },
+    {
+      "match": "rikFail",
+      "image_id": 78988
+    }
+  ]
+}

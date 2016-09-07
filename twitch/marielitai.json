@@ -1,1 +1,15 @@
-{"name":"twitch-sub-marielitai","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mtaiWink","image_id":95100},{"match":"mtaiLove","image_id":95099}]}
+{
+  "name": "twitch-sub-marielitai",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mtaiWink",
+      "image_id": 95100
+    },
+    {
+      "match": "mtaiLove",
+      "image_id": 95099
+    }
+  ]
+}

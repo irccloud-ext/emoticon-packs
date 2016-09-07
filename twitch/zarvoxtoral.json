@@ -1,1 +1,43 @@
-{"name":"twitch-sub-zarvoxtoral","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zarBORSK","image_id":75397},{"match":"zarGASM","image_id":73557},{"match":"zarMAN","image_id":77173},{"match":"zarDANK","image_id":93666},{"match":"zarNOTGOOD","image_id":93811},{"match":"zarLESS","image_id":95212},{"match":"zarDOOM","image_id":93989},{"match":"zarSMALL","image_id":93681},{"match":"zarGF","image_id":93687}]}
+{
+  "name": "twitch-sub-zarvoxtoral",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zarBORSK",
+      "image_id": 75397
+    },
+    {
+      "match": "zarGASM",
+      "image_id": 73557
+    },
+    {
+      "match": "zarMAN",
+      "image_id": 77173
+    },
+    {
+      "match": "zarDANK",
+      "image_id": 93666
+    },
+    {
+      "match": "zarNOTGOOD",
+      "image_id": 93811
+    },
+    {
+      "match": "zarLESS",
+      "image_id": 95212
+    },
+    {
+      "match": "zarDOOM",
+      "image_id": 93989
+    },
+    {
+      "match": "zarSMALL",
+      "image_id": 93681
+    },
+    {
+      "match": "zarGF",
+      "image_id": 93687
+    }
+  ]
+}

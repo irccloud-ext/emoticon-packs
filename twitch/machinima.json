@@ -1,1 +1,47 @@
-{"name":"twitch-sub-machinima","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mliveKOVIC","image_id":3945},{"match":"mliveBRUCE","image_id":3947},{"match":"mliveBLACK","image_id":3948},{"match":"mliveTUNT","image_id":7632},{"match":"mliveAPL","image_id":15943},{"match":"mliveCHILLED","image_id":15944},{"match":"mliveJAMES","image_id":15945},{"match":"mliveLES","image_id":15946},{"match":"mliveSHAM","image_id":15947},{"match":"mliveZACK","image_id":15948}]}
+{
+  "name": "twitch-sub-machinima",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mliveKOVIC",
+      "image_id": 3945
+    },
+    {
+      "match": "mliveBRUCE",
+      "image_id": 3947
+    },
+    {
+      "match": "mliveBLACK",
+      "image_id": 3948
+    },
+    {
+      "match": "mliveTUNT",
+      "image_id": 7632
+    },
+    {
+      "match": "mliveAPL",
+      "image_id": 15943
+    },
+    {
+      "match": "mliveCHILLED",
+      "image_id": 15944
+    },
+    {
+      "match": "mliveJAMES",
+      "image_id": 15945
+    },
+    {
+      "match": "mliveLES",
+      "image_id": 15946
+    },
+    {
+      "match": "mliveSHAM",
+      "image_id": 15947
+    },
+    {
+      "match": "mliveZACK",
+      "image_id": 15948
+    }
+  ]
+}

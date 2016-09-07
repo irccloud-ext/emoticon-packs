@@ -1,1 +1,47 @@
-{"name":"twitch-sub-noway4u_sir","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nowayScripts","image_id":56375},{"match":"nowayPony","image_id":90925},{"match":"nowayRIP","image_id":56127},{"match":"nowayLanguste","image_id":90926},{"match":"nowayElo","image_id":56403},{"match":"nowayBalanced","image_id":56315},{"match":"nowayBoosted","image_id":56128},{"match":"nowayMate","image_id":57495},{"match":"nowayBlob","image_id":82089},{"match":"nowayBahama","image_id":90924}]}
+{
+  "name": "twitch-sub-noway4u_sir",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nowayScripts",
+      "image_id": 56375
+    },
+    {
+      "match": "nowayPony",
+      "image_id": 90925
+    },
+    {
+      "match": "nowayRIP",
+      "image_id": 56127
+    },
+    {
+      "match": "nowayLanguste",
+      "image_id": 90926
+    },
+    {
+      "match": "nowayElo",
+      "image_id": 56403
+    },
+    {
+      "match": "nowayBalanced",
+      "image_id": 56315
+    },
+    {
+      "match": "nowayBoosted",
+      "image_id": 56128
+    },
+    {
+      "match": "nowayMate",
+      "image_id": 57495
+    },
+    {
+      "match": "nowayBlob",
+      "image_id": 82089
+    },
+    {
+      "match": "nowayBahama",
+      "image_id": 90924
+    }
+  ]
+}

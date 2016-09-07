@@ -1,1 +1,15 @@
-{"name":"twitch-sub-missfritza","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kuppaFritza","image_id":18910},{"match":"kuppaFerni","image_id":18924}]}
+{
+  "name": "twitch-sub-missfritza",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kuppaFritza",
+      "image_id": 18910
+    },
+    {
+      "match": "kuppaFerni",
+      "image_id": 18924
+    }
+  ]
+}

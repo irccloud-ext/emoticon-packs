@@ -1,1 +1,27 @@
-{"name":"twitch-sub-whitera","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wraCarrier","image_id":2660},{"match":"wraReaver","image_id":2661},{"match":"wraTt","image_id":2662},{"match":"wraDt","image_id":4656},{"match":"wraFace","image_id":4816}]}
+{
+  "name": "twitch-sub-whitera",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wraCarrier",
+      "image_id": 2660
+    },
+    {
+      "match": "wraReaver",
+      "image_id": 2661
+    },
+    {
+      "match": "wraTt",
+      "image_id": 2662
+    },
+    {
+      "match": "wraDt",
+      "image_id": 4656
+    },
+    {
+      "match": "wraFace",
+      "image_id": 4816
+    }
+  ]
+}

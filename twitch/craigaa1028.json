@@ -1,1 +1,23 @@
-{"name":"twitch-sub-craigaa1028","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"caaBlameBrett","image_id":61072},{"match":"caaPepperCraig","image_id":50183},{"match":"caaStealthpig","image_id":50182},{"match":"caaKingDan","image_id":63057}]}
+{
+  "name": "twitch-sub-craigaa1028",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "caaBlameBrett",
+      "image_id": 61072
+    },
+    {
+      "match": "caaPepperCraig",
+      "image_id": 50183
+    },
+    {
+      "match": "caaStealthpig",
+      "image_id": 50182
+    },
+    {
+      "match": "caaKingDan",
+      "image_id": 63057
+    }
+  ]
+}

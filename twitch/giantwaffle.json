@@ -1,1 +1,75 @@
-{"name":"twitch-sub-giantwaffle","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"waffleD","image_id":985},{"match":"waffleYes","image_id":49875},{"match":"waffleYay","image_id":49874},{"match":"waffleTen","image_id":49873},{"match":"waffleScared","image_id":49872},{"match":"waffleSad","image_id":49871},{"match":"wafflePizza","image_id":49870},{"match":"wafflePalm","image_id":49869},{"match":"waffleLove","image_id":49868},{"match":"waffleHype","image_id":49867},{"match":"waffleGrump","image_id":49864},{"match":"waffleHey","image_id":49866},{"match":"waffleHeart","image_id":49865},{"match":"waffleDead","image_id":49863},{"match":"waffleCute","image_id":49861},{"match":"waffleChair","image_id":49860},{"match":"waffleButch","image_id":49859}]}
+{
+  "name": "twitch-sub-giantwaffle",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "waffleD",
+      "image_id": 985
+    },
+    {
+      "match": "waffleYes",
+      "image_id": 49875
+    },
+    {
+      "match": "waffleYay",
+      "image_id": 49874
+    },
+    {
+      "match": "waffleTen",
+      "image_id": 49873
+    },
+    {
+      "match": "waffleScared",
+      "image_id": 49872
+    },
+    {
+      "match": "waffleSad",
+      "image_id": 49871
+    },
+    {
+      "match": "wafflePizza",
+      "image_id": 49870
+    },
+    {
+      "match": "wafflePalm",
+      "image_id": 49869
+    },
+    {
+      "match": "waffleLove",
+      "image_id": 49868
+    },
+    {
+      "match": "waffleHype",
+      "image_id": 49867
+    },
+    {
+      "match": "waffleGrump",
+      "image_id": 49864
+    },
+    {
+      "match": "waffleHey",
+      "image_id": 49866
+    },
+    {
+      "match": "waffleHeart",
+      "image_id": 49865
+    },
+    {
+      "match": "waffleDead",
+      "image_id": 49863
+    },
+    {
+      "match": "waffleCute",
+      "image_id": 49861
+    },
+    {
+      "match": "waffleChair",
+      "image_id": 49860
+    },
+    {
+      "match": "waffleButch",
+      "image_id": 49859
+    }
+  ]
+}

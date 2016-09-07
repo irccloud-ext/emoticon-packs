@@ -1,1 +1,39 @@
-{"name":"twitch-sub-nospimi99","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nossyHi","image_id":62322},{"match":"nossyLove","image_id":62002},{"match":"nossyPanic","image_id":62003},{"match":"nossyDerp","image_id":62324},{"match":"nossyHelp","image_id":62005},{"match":"nossyParty","image_id":83004},{"match":"nossyLewd","image_id":88513},{"match":"nossyW","image_id":97333}]}
+{
+  "name": "twitch-sub-nospimi99",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nossyHi",
+      "image_id": 62322
+    },
+    {
+      "match": "nossyLove",
+      "image_id": 62002
+    },
+    {
+      "match": "nossyPanic",
+      "image_id": 62003
+    },
+    {
+      "match": "nossyDerp",
+      "image_id": 62324
+    },
+    {
+      "match": "nossyHelp",
+      "image_id": 62005
+    },
+    {
+      "match": "nossyParty",
+      "image_id": 83004
+    },
+    {
+      "match": "nossyLewd",
+      "image_id": 88513
+    },
+    {
+      "match": "nossyW",
+      "image_id": 97333
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-{"name":"twitch-sub-viklund","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"viklundSleep","image_id":35709},{"match":"viklundBY","image_id":103733},{"match":"viklundKappa","image_id":36082},{"match":"viklundDoge","image_id":44422}]}
+{
+  "name": "twitch-sub-viklund",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "viklundT",
+      "image_id": 112001
+    },
+    {
+      "match": "viklundSleep",
+      "image_id": 35709
+    },
+    {
+      "match": "viklundBY",
+      "image_id": 103733
+    },
+    {
+      "match": "viklundKappa",
+      "image_id": 36082
+    },
+    {
+      "match": "viklundDoge",
+      "image_id": 44422
+    }
+  ]
+}

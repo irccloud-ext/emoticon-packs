@@ -1,1 +1,31 @@
-{"name":"twitch-sub-sottle","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sottleChamp","image_id":49297},{"match":"sottleYoYo","image_id":50623},{"match":"sottleRNG","image_id":56483},{"match":"sottleEars","image_id":68604},{"match":"sottleHi","image_id":68619},{"match":"sottleC","image_id":104589}]}
+{
+  "name": "twitch-sub-sottle",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sottleChamp",
+      "image_id": 49297
+    },
+    {
+      "match": "sottleYoYo",
+      "image_id": 50623
+    },
+    {
+      "match": "sottleRNG",
+      "image_id": 56483
+    },
+    {
+      "match": "sottleEars",
+      "image_id": 68604
+    },
+    {
+      "match": "sottleHi",
+      "image_id": 68619
+    },
+    {
+      "match": "sottleC",
+      "image_id": 104589
+    }
+  ]
+}

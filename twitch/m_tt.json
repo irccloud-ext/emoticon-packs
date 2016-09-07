@@ -1,1 +1,31 @@
-{"name":"twitch-sub-m_tt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mttWOOO","image_id":103332},{"match":"mttW","image_id":110463},{"match":"mttHH","image_id":102475},{"match":"mttGasm","image_id":103675},{"match":"mttLove","image_id":102460},{"match":"mttSkateBag","image_id":102462}]}
+{
+  "name": "twitch-sub-m_tt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mttWOOO",
+      "image_id": 103332
+    },
+    {
+      "match": "mttW",
+      "image_id": 110463
+    },
+    {
+      "match": "mttHH",
+      "image_id": 102475
+    },
+    {
+      "match": "mttGasm",
+      "image_id": 103675
+    },
+    {
+      "match": "mttLove",
+      "image_id": 102460
+    },
+    {
+      "match": "mttSkateBag",
+      "image_id": 102462
+    }
+  ]
+}

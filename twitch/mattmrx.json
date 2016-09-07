@@ -1,1 +1,15 @@
-{"name":"twitch-sub-mattmrx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mrxFleek","image_id":72095},{"match":"mrxMaven","image_id":72093}]}
+{
+  "name": "twitch-sub-mattmrx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mrxFleek",
+      "image_id": 72095
+    },
+    {
+      "match": "mrxMaven",
+      "image_id": 72093
+    }
+  ]
+}

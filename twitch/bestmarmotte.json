@@ -1,1 +1,15 @@
-{"name":"twitch-sub-bestmarmotte","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"marmotteRng","image_id":57988},{"match":"marmotteKappa","image_id":57989}]}
+{
+  "name": "twitch-sub-bestmarmotte",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "marmotteRng",
+      "image_id": 57988
+    },
+    {
+      "match": "marmotteKappa",
+      "image_id": 57989
+    }
+  ]
+}

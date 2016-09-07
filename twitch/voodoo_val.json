@@ -1,1 +1,31 @@
-{"name":"twitch-sub-voodoo_val","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vdvThump","image_id":99840},{"match":"vdvSpell","image_id":99836},{"match":"vdvRekt","image_id":99839},{"match":"vdvLuv","image_id":77830},{"match":"vdvLurk","image_id":75501},{"match":"vdvCast","image_id":100325}]}
+{
+  "name": "twitch-sub-voodoo_val",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vdvThump",
+      "image_id": 99840
+    },
+    {
+      "match": "vdvSpell",
+      "image_id": 99836
+    },
+    {
+      "match": "vdvRekt",
+      "image_id": 99839
+    },
+    {
+      "match": "vdvLuv",
+      "image_id": 77830
+    },
+    {
+      "match": "vdvLurk",
+      "image_id": 75501
+    },
+    {
+      "match": "vdvCast",
+      "image_id": 100325
+    }
+  ]
+}

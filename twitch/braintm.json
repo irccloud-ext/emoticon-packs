@@ -1,1 +1,35 @@
-{"name":"twitch-sub-braintm","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"btmHeart","image_id":75779},{"match":"btmFart","image_id":75646},{"match":"btmTM","image_id":75645},{"match":"btmTie","image_id":75721},{"match":"btmWiggle","image_id":75878},{"match":"btmNarf","image_id":77179},{"match":"btmBot","image_id":94719}]}
+{
+  "name": "twitch-sub-braintm",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "btmHeart",
+      "image_id": 75779
+    },
+    {
+      "match": "btmFart",
+      "image_id": 75646
+    },
+    {
+      "match": "btmTM",
+      "image_id": 75645
+    },
+    {
+      "match": "btmTie",
+      "image_id": 75721
+    },
+    {
+      "match": "btmWiggle",
+      "image_id": 75878
+    },
+    {
+      "match": "btmNarf",
+      "image_id": 77179
+    },
+    {
+      "match": "btmBot",
+      "image_id": 94719
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-aka_skinnyy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"skinnyQT","image_id":107286},{"match":"skinnyCry","image_id":95337},{"match":"skinnyChill","image_id":63038},{"match":"skinnyMilk","image_id":86492},{"match":"skinnyLove","image_id":95338},{"match":"skinnyHype","image_id":95336},{"match":"skinny24","image_id":96682},{"match":"skinnyFail","image_id":95334},{"match":"skinnyHi","image_id":95335},{"match":"skinnyMew","image_id":107285}]}
+{
+  "name": "twitch-sub-aka_skinnyy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "skinnyQT",
+      "image_id": 107286
+    },
+    {
+      "match": "skinnyCry",
+      "image_id": 95337
+    },
+    {
+      "match": "skinnyChill",
+      "image_id": 63038
+    },
+    {
+      "match": "skinnyMilk",
+      "image_id": 86492
+    },
+    {
+      "match": "skinnyLove",
+      "image_id": 95338
+    },
+    {
+      "match": "skinnyHype",
+      "image_id": 95336
+    },
+    {
+      "match": "skinny24",
+      "image_id": 96682
+    },
+    {
+      "match": "skinnyFail",
+      "image_id": 95334
+    },
+    {
+      "match": "skinnyHi",
+      "image_id": 95335
+    },
+    {
+      "match": "skinnyMew",
+      "image_id": 107285
+    }
+  ]
+}

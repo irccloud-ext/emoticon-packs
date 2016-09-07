@@ -1,1 +1,15 @@
-{"name":"twitch-sub-sah4rcorejz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sah4rFace","image_id":34148},{"match":"sah4rBeaviseFace","image_id":34145}]}
+{
+  "name": "twitch-sub-sah4rcorejz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sah4rFace",
+      "image_id": 34148
+    },
+    {
+      "match": "sah4rBeaviseFace",
+      "image_id": 34145
+    }
+  ]
+}

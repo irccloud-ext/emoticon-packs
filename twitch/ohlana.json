@@ -1,1 +1,39 @@
-{"name":"twitch-sub-ohlana","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ohlanaA","image_id":65498},{"match":"ohlanaLa","image_id":52742},{"match":"ohlanaCry","image_id":53660},{"match":"ohlanaBurger","image_id":53197},{"match":"ohlanaHype","image_id":95750},{"match":"ohlanaRage","image_id":85555},{"match":"ohlanaLove","image_id":85556},{"match":"ohlanaRip","image_id":85557}]}
+{
+  "name": "twitch-sub-ohlana",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ohlanaA",
+      "image_id": 65498
+    },
+    {
+      "match": "ohlanaLa",
+      "image_id": 52742
+    },
+    {
+      "match": "ohlanaCry",
+      "image_id": 53660
+    },
+    {
+      "match": "ohlanaBurger",
+      "image_id": 53197
+    },
+    {
+      "match": "ohlanaHype",
+      "image_id": 95750
+    },
+    {
+      "match": "ohlanaRage",
+      "image_id": 85555
+    },
+    {
+      "match": "ohlanaLove",
+      "image_id": 85556
+    },
+    {
+      "match": "ohlanaRip",
+      "image_id": 85557
+    }
+  ]
+}

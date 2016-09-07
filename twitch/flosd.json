@@ -1,1 +1,67 @@
-{"name":"twitch-sub-flosd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"boxBOX","image_id":35777},{"match":"boxKAPPA","image_id":10314},{"match":"boxBLUETHING","image_id":26777},{"match":"boxDEAD","image_id":27859},{"match":"boxBLUE","image_id":27855},{"match":"boxPINK","image_id":27854},{"match":"boxORANGE","image_id":27852},{"match":"boxTHUMB","image_id":65773},{"match":"boxWAVE","image_id":65775},{"match":"boxTHUMP","image_id":65774},{"match":"boxMOM","image_id":65769},{"match":"boxSURPRISEDRICEBALL","image_id":65772},{"match":"boxSELLOUT","image_id":65771},{"match":"boxHUH","image_id":65768},{"match":"boxDAD","image_id":65765}]}
+{
+  "name": "twitch-sub-flosd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "boxBOX",
+      "image_id": 35777
+    },
+    {
+      "match": "boxKAPPA",
+      "image_id": 10314
+    },
+    {
+      "match": "boxBLUETHING",
+      "image_id": 26777
+    },
+    {
+      "match": "boxDEAD",
+      "image_id": 27859
+    },
+    {
+      "match": "boxBLUE",
+      "image_id": 27855
+    },
+    {
+      "match": "boxPINK",
+      "image_id": 27854
+    },
+    {
+      "match": "boxORANGE",
+      "image_id": 27852
+    },
+    {
+      "match": "boxTHUMB",
+      "image_id": 65773
+    },
+    {
+      "match": "boxWAVE",
+      "image_id": 65775
+    },
+    {
+      "match": "boxTHUMP",
+      "image_id": 65774
+    },
+    {
+      "match": "boxMOM",
+      "image_id": 65769
+    },
+    {
+      "match": "boxSURPRISEDRICEBALL",
+      "image_id": 65772
+    },
+    {
+      "match": "boxSELLOUT",
+      "image_id": 65771
+    },
+    {
+      "match": "boxHUH",
+      "image_id": 65768
+    },
+    {
+      "match": "boxDAD",
+      "image_id": 65765
+    }
+  ]
+}

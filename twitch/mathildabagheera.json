@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mathildabagheera","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mathBagcat","image_id":14324},{"match":"mathNoggihelm","image_id":14325},{"match":"mathSkull","image_id":15458},{"match":"mathFail","image_id":15583},{"match":"mathRage","image_id":15564},{"match":"mathKappa","image_id":15565}]}
+{
+  "name": "twitch-sub-mathildabagheera",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mathBagcat",
+      "image_id": 14324
+    },
+    {
+      "match": "mathNoggihelm",
+      "image_id": 14325
+    },
+    {
+      "match": "mathSkull",
+      "image_id": 15458
+    },
+    {
+      "match": "mathFail",
+      "image_id": 15583
+    },
+    {
+      "match": "mathRage",
+      "image_id": 15564
+    },
+    {
+      "match": "mathKappa",
+      "image_id": 15565
+    }
+  ]
+}

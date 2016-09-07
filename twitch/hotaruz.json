@@ -1,1 +1,15 @@
-{"name":"twitch-sub-hotaruz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hotaW","image_id":69178},{"match":"hotaPride","image_id":92637}]}
+{
+  "name": "twitch-sub-hotaruz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hotaW",
+      "image_id": 69178
+    },
+    {
+      "match": "hotaPride",
+      "image_id": 92637
+    }
+  ]
+}

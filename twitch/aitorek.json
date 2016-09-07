@@ -1,1 +1,31 @@
-{"name":"twitch-sub-aitorek","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aitorekChamp","image_id":103218},{"match":"aitorekBuitre","image_id":32942},{"match":"aitorekGafas","image_id":48490},{"match":"aitorekTim","image_id":73091},{"match":"aitorekWtf","image_id":99077},{"match":"aitorekBicho","image_id":99292}]}
+{
+  "name": "twitch-sub-aitorek",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aitorekChamp",
+      "image_id": 103218
+    },
+    {
+      "match": "aitorekBuitre",
+      "image_id": 32942
+    },
+    {
+      "match": "aitorekGafas",
+      "image_id": 48490
+    },
+    {
+      "match": "aitorekTim",
+      "image_id": 73091
+    },
+    {
+      "match": "aitorekWtf",
+      "image_id": 99077
+    },
+    {
+      "match": "aitorekBicho",
+      "image_id": 99292
+    }
+  ]
+}

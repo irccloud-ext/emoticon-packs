@@ -1,1 +1,39 @@
-{"name":"twitch-sub-avanityzumba","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"avanityGive","image_id":18181},{"match":"avanityHappy","image_id":60777},{"match":"avanityHYPE","image_id":19065},{"match":"avanityLove","image_id":32027},{"match":"avanityL","image_id":39519},{"match":"avanityMad","image_id":60709},{"match":"avanityFeels","image_id":60690},{"match":"avanityOMG","image_id":60689}]}
+{
+  "name": "twitch-sub-avanityzumba",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "avanityGive",
+      "image_id": 18181
+    },
+    {
+      "match": "avanityHappy",
+      "image_id": 60777
+    },
+    {
+      "match": "avanityHYPE",
+      "image_id": 19065
+    },
+    {
+      "match": "avanityLove",
+      "image_id": 32027
+    },
+    {
+      "match": "avanityL",
+      "image_id": 39519
+    },
+    {
+      "match": "avanityMad",
+      "image_id": 60709
+    },
+    {
+      "match": "avanityFeels",
+      "image_id": 60690
+    },
+    {
+      "match": "avanityOMG",
+      "image_id": 60689
+    }
+  ]
+}

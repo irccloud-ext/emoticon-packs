@@ -1,1 +1,39 @@
-{"name":"twitch-sub-frank_sg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"faneraPlatinum","image_id":37032},{"match":"faneraTraktor","image_id":40812},{"match":"faneraGennadiy","image_id":38546},{"match":"faneraSlavaGalp","image_id":40815},{"match":"faneraFanera","image_id":40806},{"match":"faneraKoleso","image_id":40804},{"match":"faneraPidorsuer","image_id":48889},{"match":"faneraPesets","image_id":48888}]}
+{
+  "name": "twitch-sub-frank_sg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "faneraPlatinum",
+      "image_id": 37032
+    },
+    {
+      "match": "faneraTraktor",
+      "image_id": 40812
+    },
+    {
+      "match": "faneraGennadiy",
+      "image_id": 38546
+    },
+    {
+      "match": "faneraSlavaGalp",
+      "image_id": 40815
+    },
+    {
+      "match": "faneraFanera",
+      "image_id": 40806
+    },
+    {
+      "match": "faneraKoleso",
+      "image_id": 40804
+    },
+    {
+      "match": "faneraPidorsuer",
+      "image_id": 48889
+    },
+    {
+      "match": "faneraPesets",
+      "image_id": 48888
+    }
+  ]
+}

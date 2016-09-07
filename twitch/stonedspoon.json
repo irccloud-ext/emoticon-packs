@@ -1,1 +1,39 @@
-{"name":"twitch-sub-stonedspoon","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"stonesREKT","image_id":83931},{"match":"stonesSweety","image_id":71076},{"match":"stonesBeliefteam","image_id":71077},{"match":"stonesSpoony","image_id":71528},{"match":"stonesVape","image_id":71084},{"match":"stonesStonesquad","image_id":71083},{"match":"stonesCase","image_id":83451},{"match":"stonesLeston","image_id":83449}]}
+{
+  "name": "twitch-sub-stonedspoon",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "stonesREKT",
+      "image_id": 83931
+    },
+    {
+      "match": "stonesSweety",
+      "image_id": 71076
+    },
+    {
+      "match": "stonesBeliefteam",
+      "image_id": 71077
+    },
+    {
+      "match": "stonesSpoony",
+      "image_id": 71528
+    },
+    {
+      "match": "stonesVape",
+      "image_id": 71084
+    },
+    {
+      "match": "stonesStonesquad",
+      "image_id": 71083
+    },
+    {
+      "match": "stonesCase",
+      "image_id": 83451
+    },
+    {
+      "match": "stonesLeston",
+      "image_id": 83449
+    }
+  ]
+}

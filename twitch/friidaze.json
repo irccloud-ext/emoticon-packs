@@ -1,1 +1,39 @@
-{"name":"twitch-sub-friidaze","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"friiHype","image_id":108317},{"match":"friiTGIF","image_id":108319},{"match":"friiLying","image_id":108318},{"match":"friiWtf","image_id":108320},{"match":"friiPray","image_id":108597},{"match":"friiHey","image_id":108598},{"match":"friiCup","image_id":108315},{"match":"friiLove","image_id":108316}]}
+{
+  "name": "twitch-sub-friidaze",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "friiHype",
+      "image_id": 108317
+    },
+    {
+      "match": "friiTGIF",
+      "image_id": 108319
+    },
+    {
+      "match": "friiLying",
+      "image_id": 108318
+    },
+    {
+      "match": "friiWtf",
+      "image_id": 108320
+    },
+    {
+      "match": "friiPray",
+      "image_id": 108597
+    },
+    {
+      "match": "friiHey",
+      "image_id": 108598
+    },
+    {
+      "match": "friiCup",
+      "image_id": 108315
+    },
+    {
+      "match": "friiLove",
+      "image_id": 108316
+    }
+  ]
+}

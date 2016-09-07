@@ -1,1 +1,31 @@
-{"name":"twitch-sub-icwobbles","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wobbleSopo","image_id":42240},{"match":"wobbleHeart","image_id":40800},{"match":"wobbleThrow","image_id":40799},{"match":"wobbleThump","image_id":40308},{"match":"wobbleNappa","image_id":41036},{"match":"wobbleThinker","image_id":44174}]}
+{
+  "name": "twitch-sub-icwobbles",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wobbleSopo",
+      "image_id": 42240
+    },
+    {
+      "match": "wobbleHeart",
+      "image_id": 40800
+    },
+    {
+      "match": "wobbleThrow",
+      "image_id": 40799
+    },
+    {
+      "match": "wobbleThump",
+      "image_id": 40308
+    },
+    {
+      "match": "wobbleNappa",
+      "image_id": 41036
+    },
+    {
+      "match": "wobbleThinker",
+      "image_id": 44174
+    }
+  ]
+}

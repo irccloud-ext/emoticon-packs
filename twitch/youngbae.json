@@ -1,1 +1,15 @@
-{"name":"twitch-sub-youngbae","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"baeMwah","image_id":76694},{"match":"baeFeels","image_id":99187}]}
+{
+  "name": "twitch-sub-youngbae",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "baeMwah",
+      "image_id": 76694
+    },
+    {
+      "match": "baeFeels",
+      "image_id": 99187
+    }
+  ]
+}

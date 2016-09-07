@@ -1,1 +1,31 @@
-{"name":"twitch-sub-pelaaja616","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ropoSauva","image_id":20117},{"match":"ropoSpeaks","image_id":20118},{"match":"ropoGG","image_id":32071},{"match":"ropoFail","image_id":32030},{"match":"ropoElmeri","image_id":32637},{"match":"ropoJone","image_id":32642}]}
+{
+  "name": "twitch-sub-pelaaja616",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ropoSauva",
+      "image_id": 20117
+    },
+    {
+      "match": "ropoSpeaks",
+      "image_id": 20118
+    },
+    {
+      "match": "ropoGG",
+      "image_id": 32071
+    },
+    {
+      "match": "ropoFail",
+      "image_id": 32030
+    },
+    {
+      "match": "ropoElmeri",
+      "image_id": 32637
+    },
+    {
+      "match": "ropoJone",
+      "image_id": 32642
+    }
+  ]
+}

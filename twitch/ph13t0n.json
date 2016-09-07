@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ph13t0n","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ph13Vaselin","image_id":94837},{"match":"ph13Luva","image_id":94836},{"match":"ph13Hype","image_id":95234},{"match":"ph13Sub","image_id":97091}]}
+{
+  "name": "twitch-sub-ph13t0n",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ph13Vaselin",
+      "image_id": 94837
+    },
+    {
+      "match": "ph13Luva",
+      "image_id": 94836
+    },
+    {
+      "match": "ph13Hype",
+      "image_id": 95234
+    },
+    {
+      "match": "ph13Sub",
+      "image_id": 97091
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"twitch-sub-karrigango","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"karriganDenGer","image_id":96532},{"match":"karriganReally","image_id":96531},{"match":"karriganCARRY","image_id":50399},{"match":"karriganCLAPCLAP","image_id":50398},{"match":"karriganRATTLE","image_id":50882},{"match":"karriganFight","image_id":96559},{"match":"karriganAstralis","image_id":95785}]}
+{
+  "name": "twitch-sub-karrigango",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "karriganDenGer",
+      "image_id": 96532
+    },
+    {
+      "match": "karriganReally",
+      "image_id": 96531
+    },
+    {
+      "match": "karriganCARRY",
+      "image_id": 50399
+    },
+    {
+      "match": "karriganCLAPCLAP",
+      "image_id": 50398
+    },
+    {
+      "match": "karriganRATTLE",
+      "image_id": 50882
+    },
+    {
+      "match": "karriganFight",
+      "image_id": 96559
+    },
+    {
+      "match": "karriganAstralis",
+      "image_id": 95785
+    }
+  ]
+}

@@ -1,1 +1,11 @@
-{"name":"twitch-sub-ariumtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ariumKappa","image_id":20166}]}
+{
+  "name": "twitch-sub-ariumtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ariumKappa",
+      "image_id": 20166
+    }
+  ]
+}

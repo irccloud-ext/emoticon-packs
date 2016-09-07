@@ -1,1 +1,15 @@
-{"name":"twitch-sub-pevidebr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pvdMan","image_id":23249},{"match":"pvdAhh","image_id":23264}]}
+{
+  "name": "twitch-sub-pevidebr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pvdMan",
+      "image_id": 23249
+    },
+    {
+      "match": "pvdAhh",
+      "image_id": 23264
+    }
+  ]
+}

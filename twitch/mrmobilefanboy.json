@@ -1,1 +1,23 @@
-{"name":"twitch-sub-mrmobilefanboy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mbfMabuel","image_id":25434},{"match":"mbfFred","image_id":25608},{"match":"mbfTV","image_id":43637},{"match":"mbfLogo","image_id":41700}]}
+{
+  "name": "twitch-sub-mrmobilefanboy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mbfMabuel",
+      "image_id": 25434
+    },
+    {
+      "match": "mbfFred",
+      "image_id": 25608
+    },
+    {
+      "match": "mbfTV",
+      "image_id": 43637
+    },
+    {
+      "match": "mbfLogo",
+      "image_id": 41700
+    }
+  ]
+}

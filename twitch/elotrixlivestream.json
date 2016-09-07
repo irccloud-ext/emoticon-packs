@@ -1,1 +1,63 @@
-{"name":"twitch-sub-elotrixlivestream","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"elotrixDollar","image_id":28685},{"match":"elotrixKappatrix","image_id":6782},{"match":"elotrixAbgehoben","image_id":28975},{"match":"elotrix247","image_id":28971},{"match":"elotrixK","image_id":79175},{"match":"elotrixRofl","image_id":84873},{"match":"elotrixCash","image_id":78864},{"match":"elotrixH","image_id":78863},{"match":"elotrixNO","image_id":109309},{"match":"elotrixWTF","image_id":109308},{"match":"elotrixKappa","image_id":109307},{"match":"elotrixBarcode","image_id":108958},{"match":"elotrixPog","image_id":108960},{"match":"elotrixLEL","image_id":109233}]}
+{
+  "name": "twitch-sub-elotrixlivestream",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "elotrixDollar",
+      "image_id": 28685
+    },
+    {
+      "match": "elotrixKappatrix",
+      "image_id": 6782
+    },
+    {
+      "match": "elotrixAbgehoben",
+      "image_id": 28975
+    },
+    {
+      "match": "elotrix247",
+      "image_id": 28971
+    },
+    {
+      "match": "elotrixK",
+      "image_id": 79175
+    },
+    {
+      "match": "elotrixRofl",
+      "image_id": 84873
+    },
+    {
+      "match": "elotrixCash",
+      "image_id": 78864
+    },
+    {
+      "match": "elotrixH",
+      "image_id": 78863
+    },
+    {
+      "match": "elotrixNO",
+      "image_id": 109309
+    },
+    {
+      "match": "elotrixWTF",
+      "image_id": 109308
+    },
+    {
+      "match": "elotrixKappa",
+      "image_id": 109307
+    },
+    {
+      "match": "elotrixBarcode",
+      "image_id": 108958
+    },
+    {
+      "match": "elotrixPog",
+      "image_id": 108960
+    },
+    {
+      "match": "elotrixLEL",
+      "image_id": 109233
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-thehypercraft","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hypercraftDad","image_id":101475},{"match":"hypercraftSub","image_id":100862},{"match":"hypercraftLOVE","image_id":102390},{"match":"hypercraftCry","image_id":101955},{"match":"hypercraftCringe","image_id":101920},{"match":"hypercraftCash","image_id":101623}]}
+{
+  "name": "twitch-sub-thehypercraft",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hypercraftDad",
+      "image_id": 101475
+    },
+    {
+      "match": "hypercraftSub",
+      "image_id": 100862
+    },
+    {
+      "match": "hypercraftLOVE",
+      "image_id": 102390
+    },
+    {
+      "match": "hypercraftCry",
+      "image_id": 101955
+    },
+    {
+      "match": "hypercraftCringe",
+      "image_id": 101920
+    },
+    {
+      "match": "hypercraftCash",
+      "image_id": 101623
+    }
+  ]
+}

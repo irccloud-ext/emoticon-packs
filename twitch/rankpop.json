@@ -1,1 +1,31 @@
-{"name":"twitch-sub-rankpop","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rankPlsNo","image_id":89894},{"match":"rankVapor","image_id":89881},{"match":"rankHYPE","image_id":87505},{"match":"rankPlop","image_id":86818},{"match":"rank808","image_id":87729}]}
+{
+  "name": "twitch-sub-rankpop",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rankWinner",
+      "image_id": 111767
+    },
+    {
+      "match": "rankSucc",
+      "image_id": 111768
+    },
+    {
+      "match": "rankRigged",
+      "image_id": 111771
+    },
+    {
+      "match": "rankDrop",
+      "image_id": 111777
+    },
+    {
+      "match": "rankLit",
+      "image_id": 111779
+    },
+    {
+      "match": "rankRIP",
+      "image_id": 111788
+    }
+  ]
+}

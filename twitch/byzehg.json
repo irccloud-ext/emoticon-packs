@@ -1,1 +1,47 @@
-{"name":"twitch-sub-byzehg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"byzeO","image_id":105796},{"match":"byzeRIP","image_id":17971},{"match":"byzeSPUD","image_id":56989},{"match":"byzeBRAH","image_id":56235},{"match":"byzeCHICKEN","image_id":66512},{"match":"byzeSTUNTS","image_id":66511},{"match":"byzeF","image_id":106429},{"match":"byzeD","image_id":106433},{"match":"byzeH","image_id":106455},{"match":"byzeP","image_id":106456}]}
+{
+  "name": "twitch-sub-byzehg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "byzeO",
+      "image_id": 105796
+    },
+    {
+      "match": "byzeRIP",
+      "image_id": 17971
+    },
+    {
+      "match": "byzeSPUD",
+      "image_id": 56989
+    },
+    {
+      "match": "byzeBRAH",
+      "image_id": 56235
+    },
+    {
+      "match": "byzeCHICKEN",
+      "image_id": 66512
+    },
+    {
+      "match": "byzeSTUNTS",
+      "image_id": 66511
+    },
+    {
+      "match": "byzeF",
+      "image_id": 106429
+    },
+    {
+      "match": "byzeD",
+      "image_id": 106433
+    },
+    {
+      "match": "byzeH",
+      "image_id": 106455
+    },
+    {
+      "match": "byzeP",
+      "image_id": 106456
+    }
+  ]
+}

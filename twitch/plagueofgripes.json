@@ -1,1 +1,23 @@
-{"name":"twitch-sub-plagueofgripes","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"plagueFace","image_id":93437},{"match":"plagueChirei","image_id":86489},{"match":"plagueImoya","image_id":86490},{"match":"plagueGripes","image_id":91762}]}
+{
+  "name": "twitch-sub-plagueofgripes",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "plagueFace",
+      "image_id": 93437
+    },
+    {
+      "match": "plagueChirei",
+      "image_id": 86489
+    },
+    {
+      "match": "plagueImoya",
+      "image_id": 86490
+    },
+    {
+      "match": "plagueGripes",
+      "image_id": 91762
+    }
+  ]
+}

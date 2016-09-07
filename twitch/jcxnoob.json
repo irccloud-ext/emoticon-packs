@@ -1,1 +1,23 @@
-{"name":"twitch-sub-jcxnoob","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jcxNo","image_id":7816},{"match":"jcxMage","image_id":8139},{"match":"jcxHeart","image_id":15309},{"match":"jcxGG","image_id":15314}]}
+{
+  "name": "twitch-sub-jcxnoob",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jcxNo",
+      "image_id": 7816
+    },
+    {
+      "match": "jcxMage",
+      "image_id": 8139
+    },
+    {
+      "match": "jcxHeart",
+      "image_id": 15309
+    },
+    {
+      "match": "jcxGG",
+      "image_id": 15314
+    }
+  ]
+}

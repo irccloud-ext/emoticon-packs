@@ -1,1 +1,15 @@
-{"name":"twitch-sub-meczeoro","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mecBeard","image_id":15181},{"match":"mecSub","image_id":75827}]}
+{
+  "name": "twitch-sub-meczeoro",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mecBeard",
+      "image_id": 15181
+    },
+    {
+      "match": "mecSub",
+      "image_id": 75827
+    }
+  ]
+}

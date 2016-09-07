@@ -1,1 +1,19 @@
-{"name":"twitch-sub-ratpumpnkids","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fuzzCarlito","image_id":64155},{"match":"fuzzUSA","image_id":64156},{"match":"fuzzBonk","image_id":73231}]}
+{
+  "name": "twitch-sub-ratpumpnkids",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fuzzCarlito",
+      "image_id": 64155
+    },
+    {
+      "match": "fuzzUSA",
+      "image_id": 64156
+    },
+    {
+      "match": "fuzzBonk",
+      "image_id": 73231
+    }
+  ]
+}

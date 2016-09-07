@@ -1,1 +1,23 @@
-{"name":"twitch-sub-treshtoons","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"treshGenki","image_id":100482},{"match":"treshRUFUS","image_id":110133},{"match":"treshOH","image_id":103878},{"match":"treshGASM","image_id":110098}]}
+{
+  "name": "twitch-sub-treshtoons",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "treshGenki",
+      "image_id": 100482
+    },
+    {
+      "match": "treshRUFUS",
+      "image_id": 110133
+    },
+    {
+      "match": "treshOH",
+      "image_id": 103878
+    },
+    {
+      "match": "treshGASM",
+      "image_id": 110098
+    }
+  ]
+}

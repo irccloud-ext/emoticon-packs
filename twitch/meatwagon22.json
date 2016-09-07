@@ -1,1 +1,39 @@
-{"name":"twitch-sub-meatwagon22","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"meatyKing","image_id":64153},{"match":"meatyWow","image_id":64086},{"match":"meatyJam","image_id":63685},{"match":"meatyHead","image_id":63611},{"match":"meatyBoris","image_id":64152},{"match":"meatyRip","image_id":67505},{"match":"meatyRekt","image_id":67504},{"match":"meatyGg","image_id":67503}]}
+{
+  "name": "twitch-sub-meatwagon22",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "meatyKing",
+      "image_id": 64153
+    },
+    {
+      "match": "meatyWow",
+      "image_id": 64086
+    },
+    {
+      "match": "meatyJam",
+      "image_id": 63685
+    },
+    {
+      "match": "meatyHead",
+      "image_id": 63611
+    },
+    {
+      "match": "meatyBoris",
+      "image_id": 64152
+    },
+    {
+      "match": "meatyRip",
+      "image_id": 67505
+    },
+    {
+      "match": "meatyRekt",
+      "image_id": 67504
+    },
+    {
+      "match": "meatyGg",
+      "image_id": 67503
+    }
+  ]
+}

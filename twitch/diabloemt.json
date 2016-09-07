@@ -1,1 +1,23 @@
-{"name":"twitch-sub-diabloemt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"diabloemtBAN","image_id":94303},{"match":"diabloemtPolice1","image_id":108413},{"match":"diabloemtPolice2","image_id":108414},{"match":"diabloemtX6tence","image_id":29977}]}
+{
+  "name": "twitch-sub-diabloemt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "diabloemtBAN",
+      "image_id": 94303
+    },
+    {
+      "match": "diabloemtPolice1",
+      "image_id": 108413
+    },
+    {
+      "match": "diabloemtPolice2",
+      "image_id": 108414
+    },
+    {
+      "match": "diabloemtX6tence",
+      "image_id": 29977
+    }
+  ]
+}

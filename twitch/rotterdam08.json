@@ -1,1 +1,63 @@
-{"name":"twitch-sub-rotterdam08","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rottiP","image_id":5632},{"match":"rottiChamp","image_id":57124},{"match":"rottiFS","image_id":93783},{"match":"rottiBuild","image_id":35332},{"match":"rottiCheeky","image_id":35331},{"match":"rottiDonkey","image_id":46944},{"match":"rottiMask","image_id":50630},{"match":"rottiRace","image_id":57263},{"match":"rottiBull","image_id":84057},{"match":"rottiClub","image_id":84056},{"match":"rottiGasm","image_id":84516},{"match":"rottiHi","image_id":84514},{"match":"rottiPh","image_id":90679},{"match":"rottiLuv","image_id":92198}]}
+{
+  "name": "twitch-sub-rotterdam08",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rottiP",
+      "image_id": 5632
+    },
+    {
+      "match": "rottiChamp",
+      "image_id": 57124
+    },
+    {
+      "match": "rottiFS",
+      "image_id": 93783
+    },
+    {
+      "match": "rottiBuild",
+      "image_id": 35332
+    },
+    {
+      "match": "rottiCheeky",
+      "image_id": 35331
+    },
+    {
+      "match": "rottiDonkey",
+      "image_id": 46944
+    },
+    {
+      "match": "rottiMask",
+      "image_id": 50630
+    },
+    {
+      "match": "rottiRace",
+      "image_id": 57263
+    },
+    {
+      "match": "rottiBull",
+      "image_id": 84057
+    },
+    {
+      "match": "rottiClub",
+      "image_id": 84056
+    },
+    {
+      "match": "rottiGasm",
+      "image_id": 84516
+    },
+    {
+      "match": "rottiHi",
+      "image_id": 84514
+    },
+    {
+      "match": "rottiPh",
+      "image_id": 90679
+    },
+    {
+      "match": "rottiLuv",
+      "image_id": 92198
+    }
+  ]
+}

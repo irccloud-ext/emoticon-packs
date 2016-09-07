@@ -1,1 +1,63 @@
-{"name":"twitch-sub-natosaphix2k14","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nato1deag","image_id":25721},{"match":"natoAfro","image_id":25722},{"match":"natoHello","image_id":26034},{"match":"natoNoscope","image_id":26035},{"match":"natoClutch","image_id":26781},{"match":"natoNerd","image_id":26802},{"match":"natoAdmiral","image_id":34485},{"match":"natoAce","image_id":32434},{"match":"natoVAC","image_id":37845},{"match":"natoGrill","image_id":38497},{"match":"natoSpaghetti","image_id":46341},{"match":"natoHoldMe","image_id":45416},{"match":"natoIlluminato","image_id":45415},{"match":"natoCarrot","image_id":49151}]}
+{
+  "name": "twitch-sub-natosaphix2k14",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nato1deag",
+      "image_id": 25721
+    },
+    {
+      "match": "natoAfro",
+      "image_id": 25722
+    },
+    {
+      "match": "natoHello",
+      "image_id": 26034
+    },
+    {
+      "match": "natoNoscope",
+      "image_id": 26035
+    },
+    {
+      "match": "natoClutch",
+      "image_id": 26781
+    },
+    {
+      "match": "natoNerd",
+      "image_id": 26802
+    },
+    {
+      "match": "natoAdmiral",
+      "image_id": 34485
+    },
+    {
+      "match": "natoAce",
+      "image_id": 32434
+    },
+    {
+      "match": "natoVAC",
+      "image_id": 37845
+    },
+    {
+      "match": "natoGrill",
+      "image_id": 38497
+    },
+    {
+      "match": "natoSpaghetti",
+      "image_id": 46341
+    },
+    {
+      "match": "natoHoldMe",
+      "image_id": 45416
+    },
+    {
+      "match": "natoIlluminato",
+      "image_id": 45415
+    },
+    {
+      "match": "natoCarrot",
+      "image_id": 49151
+    }
+  ]
+}

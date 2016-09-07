@@ -1,1 +1,23 @@
-{"name":"twitch-sub-codrinbradeasatana","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"codrinOk","image_id":32164},{"match":"codrinPrajitura","image_id":32163},{"match":"codrinCamioanie","image_id":37311},{"match":"codrinNotbad","image_id":37312}]}
+{
+  "name": "twitch-sub-codrinbradeasatana",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "codrinOk",
+      "image_id": 32164
+    },
+    {
+      "match": "codrinPrajitura",
+      "image_id": 32163
+    },
+    {
+      "match": "codrinCamioanie",
+      "image_id": 37311
+    },
+    {
+      "match": "codrinNotbad",
+      "image_id": 37312
+    }
+  ]
+}

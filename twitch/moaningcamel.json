@@ -1,1 +1,27 @@
-{"name":"twitch-sub-moaningcamel","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"camelDerp","image_id":7091},{"match":"camelRage","image_id":8434},{"match":"camelSkills","image_id":10448},{"match":"camelBan","image_id":13749},{"match":"camelHart","image_id":21992}]}
+{
+  "name": "twitch-sub-moaningcamel",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "camelDerp",
+      "image_id": 7091
+    },
+    {
+      "match": "camelRage",
+      "image_id": 8434
+    },
+    {
+      "match": "camelSkills",
+      "image_id": 10448
+    },
+    {
+      "match": "camelBan",
+      "image_id": 13749
+    },
+    {
+      "match": "camelHart",
+      "image_id": 21992
+    }
+  ]
+}

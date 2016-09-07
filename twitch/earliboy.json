@@ -1,1 +1,27 @@
-{"name":"twitch-sub-earliboy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"earliFromage","image_id":15989},{"match":"earliBanana","image_id":16349},{"match":"earliPingu","image_id":44012},{"match":"earliUn","image_id":41125},{"match":"earliLava","image_id":50036}]}
+{
+  "name": "twitch-sub-earliboy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "earliFromage",
+      "image_id": 15989
+    },
+    {
+      "match": "earliBanana",
+      "image_id": 16349
+    },
+    {
+      "match": "earliPingu",
+      "image_id": 44012
+    },
+    {
+      "match": "earliUn",
+      "image_id": 41125
+    },
+    {
+      "match": "earliLava",
+      "image_id": 50036
+    }
+  ]
+}

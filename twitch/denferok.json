@@ -1,1 +1,31 @@
-{"name":"twitch-sub-denferok","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"denHype","image_id":5722},{"match":"denFork","image_id":53818},{"match":"denSad","image_id":53878},{"match":"denHey","image_id":53877},{"match":"denHue","image_id":53876},{"match":"denLove","image_id":53875}]}
+{
+  "name": "twitch-sub-denferok",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "denHype",
+      "image_id": 5722
+    },
+    {
+      "match": "denFork",
+      "image_id": 53818
+    },
+    {
+      "match": "denSad",
+      "image_id": 53878
+    },
+    {
+      "match": "denHey",
+      "image_id": 53877
+    },
+    {
+      "match": "denHue",
+      "image_id": 53876
+    },
+    {
+      "match": "denLove",
+      "image_id": 53875
+    }
+  ]
+}

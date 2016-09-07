@@ -1,1 +1,39 @@
-{"name":"twitch-sub-malufoxy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"foxyMe","image_id":12171},{"match":"foxyHi","image_id":12169},{"match":"foxyBear","image_id":12170},{"match":"foxyCute","image_id":18240},{"match":"foxySwag","image_id":15664},{"match":"foxyMalu","image_id":15521},{"match":"foxyCult","image_id":17200},{"match":"foxyWard","image_id":18245}]}
+{
+  "name": "twitch-sub-malufoxy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "foxyMe",
+      "image_id": 12171
+    },
+    {
+      "match": "foxyHi",
+      "image_id": 12169
+    },
+    {
+      "match": "foxyBear",
+      "image_id": 12170
+    },
+    {
+      "match": "foxyCute",
+      "image_id": 18240
+    },
+    {
+      "match": "foxySwag",
+      "image_id": 15664
+    },
+    {
+      "match": "foxyMalu",
+      "image_id": 15521
+    },
+    {
+      "match": "foxyCult",
+      "image_id": 17200
+    },
+    {
+      "match": "foxyWard",
+      "image_id": 18245
+    }
+  ]
+}

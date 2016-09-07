@@ -1,1 +1,23 @@
-{"name":"twitch-sub-navegga","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"navHype","image_id":73423},{"match":"navBad","image_id":73409},{"match":"navLove","image_id":73416},{"match":"navDez","image_id":73480}]}
+{
+  "name": "twitch-sub-navegga",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "navHype",
+      "image_id": 73423
+    },
+    {
+      "match": "navBad",
+      "image_id": 73409
+    },
+    {
+      "match": "navLove",
+      "image_id": 73416
+    },
+    {
+      "match": "navDez",
+      "image_id": 73480
+    }
+  ]
+}

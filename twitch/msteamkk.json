@@ -1,1 +1,107 @@
-{"name":"twitch-sub-msteamkk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mskkSub","image_id":52672},{"match":"mskkLit","image_id":74960},{"match":"mskkFeels","image_id":68399},{"match":"mskkUpset","image_id":64897},{"match":"mskkHype","image_id":68400},{"match":"mskkHC","image_id":94754},{"match":"mskkUH","image_id":104508},{"match":"mskkS","image_id":95705},{"match":"mskkLove","image_id":52933},{"match":"mskkGG","image_id":57734},{"match":"mskkNot","image_id":57543},{"match":"mskkWTF","image_id":57587},{"match":"mskkCool","image_id":57136},{"match":"mskkFail","image_id":58204},{"match":"mskkGasm","image_id":58242},{"match":"mskkPL","image_id":64425},{"match":"mskkOstrich","image_id":74560},{"match":"mskkBan","image_id":78970},{"match":"mskkThirsty","image_id":78971},{"match":"mskkHi","image_id":78973},{"match":"mskkAw","image_id":78975},{"match":"mskkWhsky","image_id":78976},{"match":"mskk0","image_id":105143},{"match":"mskkCute","image_id":110643}]}
+{
+  "name": "twitch-sub-msteamkk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mskkSub",
+      "image_id": 52672
+    },
+    {
+      "match": "mskkLit",
+      "image_id": 74960
+    },
+    {
+      "match": "mskkFeels",
+      "image_id": 68399
+    },
+    {
+      "match": "mskkUpset",
+      "image_id": 64897
+    },
+    {
+      "match": "mskkHype",
+      "image_id": 68400
+    },
+    {
+      "match": "mskkHC",
+      "image_id": 112153
+    },
+    {
+      "match": "mskkHug",
+      "image_id": 112154
+    },
+    {
+      "match": "mskkUH",
+      "image_id": 104508
+    },
+    {
+      "match": "mskkS",
+      "image_id": 95705
+    },
+    {
+      "match": "mskkLove",
+      "image_id": 52933
+    },
+    {
+      "match": "mskkGG",
+      "image_id": 57734
+    },
+    {
+      "match": "mskkNot",
+      "image_id": 57543
+    },
+    {
+      "match": "mskkWTF",
+      "image_id": 57587
+    },
+    {
+      "match": "mskkCool",
+      "image_id": 57136
+    },
+    {
+      "match": "mskkFail",
+      "image_id": 58204
+    },
+    {
+      "match": "mskkGasm",
+      "image_id": 58242
+    },
+    {
+      "match": "mskkPL",
+      "image_id": 64425
+    },
+    {
+      "match": "mskkOstrich",
+      "image_id": 74560
+    },
+    {
+      "match": "mskkThirsty",
+      "image_id": 112155
+    },
+    {
+      "match": "mskk42",
+      "image_id": 112156
+    },
+    {
+      "match": "mskkBan",
+      "image_id": 78970
+    },
+    {
+      "match": "mskkHi",
+      "image_id": 78973
+    },
+    {
+      "match": "mskkWhsky",
+      "image_id": 78976
+    },
+    {
+      "match": "mskk0",
+      "image_id": 105143
+    },
+    {
+      "match": "mskkCute",
+      "image_id": 110643
+    }
+  ]
+}

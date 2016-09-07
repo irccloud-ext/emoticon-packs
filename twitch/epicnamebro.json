@@ -1,0 +1,19 @@
+{
+  "name": "twitch-sub-epicnamebro",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "enbSup",
+      "image_id": 111769
+    },
+    {
+      "match": "enbWut",
+      "image_id": 111770
+    },
+    {
+      "match": "enbPraise",
+      "image_id": 111990
+    }
+  ]
+}

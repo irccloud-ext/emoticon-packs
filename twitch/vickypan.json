@@ -1,1 +1,31 @@
-{"name":"twitch-sub-vickypan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hahahaOP","image_id":13383},{"match":"hahahaOH","image_id":11442},{"match":"hahahaCarry","image_id":40751},{"match":"hahaha87","image_id":40748},{"match":"hahahaMM","image_id":40516},{"match":"hahahaSS","image_id":40514}]}
+{
+  "name": "twitch-sub-vickypan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hahahaOP",
+      "image_id": 13383
+    },
+    {
+      "match": "hahahaOH",
+      "image_id": 11442
+    },
+    {
+      "match": "hahahaCarry",
+      "image_id": 40751
+    },
+    {
+      "match": "hahaha87",
+      "image_id": 40748
+    },
+    {
+      "match": "hahahaMM",
+      "image_id": 40516
+    },
+    {
+      "match": "hahahaSS",
+      "image_id": 40514
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-j4ckiechan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"j4ckieEgg","image_id":90607},{"match":"j4ckieHatch","image_id":90608},{"match":"j4ckieGasm","image_id":90606},{"match":"j4ckieClimb","image_id":100295},{"match":"j4ckieTea","image_id":100017},{"match":"j4ckieTurtle","image_id":100022},{"match":"j4ckieHi","image_id":102177},{"match":"j4ckieMuted","image_id":103064}]}
+{
+  "name": "twitch-sub-j4ckiechan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "j4ckieEgg",
+      "image_id": 90607
+    },
+    {
+      "match": "j4ckieHatch",
+      "image_id": 90608
+    },
+    {
+      "match": "j4ckieGasm",
+      "image_id": 90606
+    },
+    {
+      "match": "j4ckieClimb",
+      "image_id": 100295
+    },
+    {
+      "match": "j4ckieTea",
+      "image_id": 100017
+    },
+    {
+      "match": "j4ckieTurtle",
+      "image_id": 100022
+    },
+    {
+      "match": "j4ckieHi",
+      "image_id": 102177
+    },
+    {
+      "match": "j4ckieMuted",
+      "image_id": 103064
+    }
+  ]
+}

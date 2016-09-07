@@ -1,1 +1,35 @@
-{"name":"twitch-sub-iplaywinner","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"seabiscuit","image_id":223},{"match":"ednorton","image_id":225},{"match":"neomax","image_id":226},{"match":"whensmarvel","image_id":227},{"match":"howdoyou","image_id":228},{"match":"fightmoney","image_id":230},{"match":"fightmoney","image_id":231}]}
+{
+  "name": "twitch-sub-iplaywinner",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "seabiscuit",
+      "image_id": 223
+    },
+    {
+      "match": "ednorton",
+      "image_id": 225
+    },
+    {
+      "match": "neomax",
+      "image_id": 226
+    },
+    {
+      "match": "whensmarvel",
+      "image_id": 227
+    },
+    {
+      "match": "howdoyou",
+      "image_id": 228
+    },
+    {
+      "match": "fightmoney",
+      "image_id": 230
+    },
+    {
+      "match": "fightmoney",
+      "image_id": 231
+    }
+  ]
+}

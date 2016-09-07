@@ -1,1 +1,19 @@
-{"name":"twitch-sub-jks_au","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jksDealwithit","image_id":55755},{"match":"jksDink","image_id":55864},{"match":"jksRenegade","image_id":55742}]}
+{
+  "name": "twitch-sub-jks_au",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jksDealwithit",
+      "image_id": 55755
+    },
+    {
+      "match": "jksDink",
+      "image_id": 55864
+    },
+    {
+      "match": "jksRenegade",
+      "image_id": 55742
+    }
+  ]
+}

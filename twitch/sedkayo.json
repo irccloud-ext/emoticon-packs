@@ -1,1 +1,23 @@
-{"name":"twitch-sub-sedkayo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sedkaSparov","image_id":55895},{"match":"sedkaW","image_id":54649},{"match":"sedkaRekt","image_id":58740},{"match":"sedkaThump","image_id":58775}]}
+{
+  "name": "twitch-sub-sedkayo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sedkaSparov",
+      "image_id": 55895
+    },
+    {
+      "match": "sedkaW",
+      "image_id": 54649
+    },
+    {
+      "match": "sedkaRekt",
+      "image_id": 58740
+    },
+    {
+      "match": "sedkaThump",
+      "image_id": 58775
+    }
+  ]
+}

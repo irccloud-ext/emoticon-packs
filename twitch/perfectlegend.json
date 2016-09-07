@@ -1,1 +1,31 @@
-{"name":"twitch-sub-perfectlegend","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"legendHype","image_id":29288},{"match":"legendBelt","image_id":31135},{"match":"legendTheread","image_id":101594},{"match":"legendBruh","image_id":108229},{"match":"legendBoy","image_id":111607},{"match":"legendHarambe","image_id":111608}]}
+{
+  "name": "twitch-sub-perfectlegend",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "legendHype",
+      "image_id": 29288
+    },
+    {
+      "match": "legendBelt",
+      "image_id": 31135
+    },
+    {
+      "match": "legendTheread",
+      "image_id": 101594
+    },
+    {
+      "match": "legendBruh",
+      "image_id": 108229
+    },
+    {
+      "match": "legendBoy",
+      "image_id": 111607
+    },
+    {
+      "match": "legendHarambe",
+      "image_id": 111608
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-pacifae","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"paciSub","image_id":98591},{"match":"paciGG","image_id":98593},{"match":"paciPLS","image_id":98616},{"match":"paciExe","image_id":98598},{"match":"paciNC","image_id":98594},{"match":"paciRSPCT","image_id":98635}]}
+{
+  "name": "twitch-sub-pacifae",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "paciSub",
+      "image_id": 98591
+    },
+    {
+      "match": "paciGG",
+      "image_id": 98593
+    },
+    {
+      "match": "paciPLS",
+      "image_id": 98616
+    },
+    {
+      "match": "paciExe",
+      "image_id": 98598
+    },
+    {
+      "match": "paciNC",
+      "image_id": 98594
+    },
+    {
+      "match": "paciRSPCT",
+      "image_id": 98635
+    }
+  ]
+}

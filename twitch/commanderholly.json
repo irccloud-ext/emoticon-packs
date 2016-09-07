@@ -1,1 +1,39 @@
-{"name":"twitch-sub-commanderholly","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"birbTweetheart","image_id":91504},{"match":"birbPeent","image_id":91507},{"match":"birbOrph","image_id":91506},{"match":"birbHype","image_id":91505},{"match":"birbPain","image_id":89217},{"match":"birbLove","image_id":89771},{"match":"birbSwol","image_id":89770},{"match":"birbUke","image_id":89769}]}
+{
+  "name": "twitch-sub-commanderholly",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "birbTweetheart",
+      "image_id": 91504
+    },
+    {
+      "match": "birbPeent",
+      "image_id": 91507
+    },
+    {
+      "match": "birbOrph",
+      "image_id": 91506
+    },
+    {
+      "match": "birbHype",
+      "image_id": 91505
+    },
+    {
+      "match": "birbPain",
+      "image_id": 89217
+    },
+    {
+      "match": "birbLove",
+      "image_id": 89771
+    },
+    {
+      "match": "birbSwol",
+      "image_id": 89770
+    },
+    {
+      "match": "birbUke",
+      "image_id": 89769
+    }
+  ]
+}

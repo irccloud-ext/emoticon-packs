@@ -1,1 +1,31 @@
-{"name":"twitch-sub-wilkosc2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wilkQQ","image_id":46824},{"match":"wilkLove","image_id":44807},{"match":"wilkHype","image_id":56001},{"match":"wilkDoge","image_id":78333},{"match":"wilkFacepaw","image_id":89780},{"match":"wilkHi","image_id":97857}]}
+{
+  "name": "twitch-sub-wilkosc2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wilkQQ",
+      "image_id": 46824
+    },
+    {
+      "match": "wilkLove",
+      "image_id": 44807
+    },
+    {
+      "match": "wilkHype",
+      "image_id": 56001
+    },
+    {
+      "match": "wilkDoge",
+      "image_id": 78333
+    },
+    {
+      "match": "wilkFacepaw",
+      "image_id": 89780
+    },
+    {
+      "match": "wilkHi",
+      "image_id": 97857
+    }
+  ]
+}

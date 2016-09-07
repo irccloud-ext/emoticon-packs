@@ -1,1 +1,47 @@
-{"name":"twitch-sub-zcurseddd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cursedHYPE","image_id":105442},{"match":"cursedK","image_id":105072},{"match":"cursedFEELS","image_id":105081},{"match":"cursedRLY","image_id":105084},{"match":"cursedLOL","image_id":105440},{"match":"cursedL","image_id":105441},{"match":"cursedCREEP","image_id":105074},{"match":"cursedTRIG","image_id":105069},{"match":"cursedYAS","image_id":105133},{"match":"cursedSAD","image_id":105254}]}
+{
+  "name": "twitch-sub-zcurseddd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cursedHYPE",
+      "image_id": 105442
+    },
+    {
+      "match": "cursedK",
+      "image_id": 105072
+    },
+    {
+      "match": "cursedFEELS",
+      "image_id": 105081
+    },
+    {
+      "match": "cursedRLY",
+      "image_id": 105084
+    },
+    {
+      "match": "cursedLOL",
+      "image_id": 105440
+    },
+    {
+      "match": "cursedL",
+      "image_id": 105441
+    },
+    {
+      "match": "cursedCREEP",
+      "image_id": 105074
+    },
+    {
+      "match": "cursedTRIG",
+      "image_id": 105069
+    },
+    {
+      "match": "cursedYAS",
+      "image_id": 105133
+    },
+    {
+      "match": "cursedSAD",
+      "image_id": 105254
+    }
+  ]
+}

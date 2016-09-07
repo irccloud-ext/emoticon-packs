@@ -1,1 +1,27 @@
-{"name":"twitch-sub-ohnips","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nipSlip","image_id":108614},{"match":"nipLuv","image_id":68010},{"match":"nipPls","image_id":39936},{"match":"nipAyy","image_id":54678},{"match":"nipOop","image_id":108518}]}
+{
+  "name": "twitch-sub-ohnips",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nipSlip",
+      "image_id": 108614
+    },
+    {
+      "match": "nipLuv",
+      "image_id": 68010
+    },
+    {
+      "match": "nipPls",
+      "image_id": 39936
+    },
+    {
+      "match": "nipAyy",
+      "image_id": 54678
+    },
+    {
+      "match": "nipOop",
+      "image_id": 108518
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-brixbri","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"brixMode","image_id":85811},{"match":"brixOhai","image_id":85102},{"match":"brixLove","image_id":85103},{"match":"brixHypu","image_id":85101},{"match":"brixArang","image_id":85105},{"match":"brixRoss","image_id":85104}]}
+{
+  "name": "twitch-sub-brixbri",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "brixMode",
+      "image_id": 85811
+    },
+    {
+      "match": "brixOhai",
+      "image_id": 85102
+    },
+    {
+      "match": "brixLove",
+      "image_id": 85103
+    },
+    {
+      "match": "brixHypu",
+      "image_id": 85101
+    },
+    {
+      "match": "brixArang",
+      "image_id": 85105
+    },
+    {
+      "match": "brixRoss",
+      "image_id": 85104
+    }
+  ]
+}

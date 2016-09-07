@@ -1,1 +1,31 @@
-{"name":"twitch-sub-thehypoxiaxp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"poxxGasm","image_id":75079},{"match":"poxxSad","image_id":67017},{"match":"poxxSB","image_id":67075},{"match":"poxxLuv","image_id":68339},{"match":"poxxHeh","image_id":68340},{"match":"poxxUgh","image_id":75080}]}
+{
+  "name": "twitch-sub-thehypoxiaxp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "poxxGasm",
+      "image_id": 75079
+    },
+    {
+      "match": "poxxSad",
+      "image_id": 67017
+    },
+    {
+      "match": "poxxSB",
+      "image_id": 67075
+    },
+    {
+      "match": "poxxLuv",
+      "image_id": 68339
+    },
+    {
+      "match": "poxxHeh",
+      "image_id": 68340
+    },
+    {
+      "match": "poxxUgh",
+      "image_id": 75080
+    }
+  ]
+}

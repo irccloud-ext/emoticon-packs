@@ -1,1 +1,27 @@
-{"name":"twitch-sub-luke_lafr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lafrChamp","image_id":61807},{"match":"lafrNickyV","image_id":63807},{"match":"lafrCreep","image_id":63809},{"match":"lafrKappa","image_id":63811},{"match":"lafrDennis","image_id":63793}]}
+{
+  "name": "twitch-sub-luke_lafr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lafrChamp",
+      "image_id": 61807
+    },
+    {
+      "match": "lafrNickyV",
+      "image_id": 63807
+    },
+    {
+      "match": "lafrCreep",
+      "image_id": 63809
+    },
+    {
+      "match": "lafrKappa",
+      "image_id": 63811
+    },
+    {
+      "match": "lafrDennis",
+      "image_id": 63793
+    }
+  ]
+}

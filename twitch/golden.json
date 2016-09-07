@@ -1,1 +1,23 @@
-{"name":"twitch-sub-golden","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"goldPride","image_id":6738},{"match":"goldGappa","image_id":6885},{"match":"goldCast","image_id":6512},{"match":"goldYay","image_id":6589}]}
+{
+  "name": "twitch-sub-golden",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "goldPride",
+      "image_id": 6738
+    },
+    {
+      "match": "goldGappa",
+      "image_id": 6885
+    },
+    {
+      "match": "goldCast",
+      "image_id": 6512
+    },
+    {
+      "match": "goldYay",
+      "image_id": 6589
+    }
+  ]
+}

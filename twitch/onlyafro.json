@@ -1,1 +1,31 @@
-{"name":"twitch-sub-onlyafro","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"onlyafroROCK","image_id":94990},{"match":"onlyafroHello","image_id":94935},{"match":"onlyafroWALL","image_id":94982},{"match":"onlyafroWWIT","image_id":94888},{"match":"onlyafroGasm","image_id":102052},{"match":"onlyafroLegs2","image_id":100957}]}
+{
+  "name": "twitch-sub-onlyafro",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "onlyafroROCK",
+      "image_id": 94990
+    },
+    {
+      "match": "onlyafroHello",
+      "image_id": 94935
+    },
+    {
+      "match": "onlyafroWALL",
+      "image_id": 94982
+    },
+    {
+      "match": "onlyafroWWIT",
+      "image_id": 94888
+    },
+    {
+      "match": "onlyafroGasm",
+      "image_id": 102052
+    },
+    {
+      "match": "onlyafroLegs2",
+      "image_id": 100957
+    }
+  ]
+}

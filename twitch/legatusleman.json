@@ -1,1 +1,39 @@
-{"name":"twitch-sub-legatusleman","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"legatusGladius","image_id":109274},{"match":"legatusRekt","image_id":109273},{"match":"legatusPride","image_id":111089},{"match":"legatusBible","image_id":109397},{"match":"legatusScutum","image_id":109495},{"match":"legatusSeven","image_id":110776},{"match":"legatusKappa","image_id":111291}]}
+{
+  "name": "twitch-sub-legatusleman",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "legatusGladius",
+      "image_id": 109274
+    },
+    {
+      "match": "legatusRekt",
+      "image_id": 109273
+    },
+    {
+      "match": "legatusPride",
+      "image_id": 111089
+    },
+    {
+      "match": "legatusScutum",
+      "image_id": 109495
+    },
+    {
+      "match": "legatusSeven",
+      "image_id": 110776
+    },
+    {
+      "match": "legatusKappa",
+      "image_id": 111291
+    },
+    {
+      "match": "legatusHard",
+      "image_id": 112260
+    },
+    {
+      "match": "legatusBible",
+      "image_id": 112263
+    }
+  ]
+}

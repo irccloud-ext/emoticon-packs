@@ -1,1 +1,31 @@
-{"name":"twitch-sub-laggin24x","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tikiHappy","image_id":96611},{"match":"tikiRage","image_id":96612},{"match":"tikiSAD","image_id":96613},{"match":"tikiSub","image_id":67664},{"match":"tikiLove","image_id":96970},{"match":"tikiCrazy","image_id":96973}]}
+{
+  "name": "twitch-sub-laggin24x",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tikiHappy",
+      "image_id": 96611
+    },
+    {
+      "match": "tikiRage",
+      "image_id": 96612
+    },
+    {
+      "match": "tikiSAD",
+      "image_id": 96613
+    },
+    {
+      "match": "tikiSub",
+      "image_id": 67664
+    },
+    {
+      "match": "tikiLove",
+      "image_id": 96970
+    },
+    {
+      "match": "tikiCrazy",
+      "image_id": 96973
+    }
+  ]
+}

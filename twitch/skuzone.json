@@ -1,1 +1,39 @@
-{"name":"twitch-sub-skuzone","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"skuzGOJO","image_id":74085},{"match":"skuzKAPPA","image_id":68304},{"match":"skuzSHRUG","image_id":105829},{"match":"skuzLURK","image_id":97993},{"match":"skuzGARBO","image_id":97989},{"match":"skuzHYPE","image_id":97988},{"match":"skuzLOVE","image_id":98993},{"match":"skuzCRY","image_id":98992}]}
+{
+  "name": "twitch-sub-skuzone",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "skuzRIP",
+      "image_id": 112009
+    },
+    {
+      "match": "skuzGOJO",
+      "image_id": 74085
+    },
+    {
+      "match": "skuzKAPPA",
+      "image_id": 68304
+    },
+    {
+      "match": "skuzSHRUG",
+      "image_id": 105829
+    },
+    {
+      "match": "skuzLURK",
+      "image_id": 97993
+    },
+    {
+      "match": "skuzGARBO",
+      "image_id": 97989
+    },
+    {
+      "match": "skuzHYPE",
+      "image_id": 97988
+    },
+    {
+      "match": "skuzLOVE",
+      "image_id": 98993
+    }
+  ]
+}

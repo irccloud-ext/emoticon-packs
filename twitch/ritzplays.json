@@ -1,1 +1,47 @@
-{"name":"twitch-sub-ritzplays","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ritzLaugh","image_id":64886},{"match":"ritzStar","image_id":25469},{"match":"ritzHeart","image_id":26940},{"match":"ritzRage","image_id":64693},{"match":"ritzGasm","image_id":68648},{"match":"ritzSad","image_id":68777},{"match":"ritzBamf","image_id":68649},{"match":"ritzSenpai","image_id":68778},{"match":"ritzLove","image_id":68650},{"match":"ritzKill","image_id":68651}]}
+{
+  "name": "twitch-sub-ritzplays",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ritzLaugh",
+      "image_id": 64886
+    },
+    {
+      "match": "ritzStar",
+      "image_id": 25469
+    },
+    {
+      "match": "ritzHeart",
+      "image_id": 26940
+    },
+    {
+      "match": "ritzRage",
+      "image_id": 64693
+    },
+    {
+      "match": "ritzGasm",
+      "image_id": 68648
+    },
+    {
+      "match": "ritzSad",
+      "image_id": 68777
+    },
+    {
+      "match": "ritzBamf",
+      "image_id": 68649
+    },
+    {
+      "match": "ritzSenpai",
+      "image_id": 68778
+    },
+    {
+      "match": "ritzLove",
+      "image_id": 68650
+    },
+    {
+      "match": "ritzKill",
+      "image_id": 68651
+    }
+  ]
+}

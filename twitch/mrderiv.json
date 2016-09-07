@@ -1,1 +1,15 @@
-{"name":"twitch-sub-mrderiv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"derivYeah","image_id":99787},{"match":"derivFPALM","image_id":99785}]}
+{
+  "name": "twitch-sub-mrderiv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "derivYeah",
+      "image_id": 99787
+    },
+    {
+      "match": "derivFPALM",
+      "image_id": 99785
+    }
+  ]
+}

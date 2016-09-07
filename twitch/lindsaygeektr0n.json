@@ -1,1 +1,19 @@
-{"name":"twitch-sub-lindsaygeektr0n","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"amoPregtr0n","image_id":16994},{"match":"amoShield","image_id":38281},{"match":"amoBanjo","image_id":38285}]}
+{
+  "name": "twitch-sub-lindsaygeektr0n",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "amoPregtr0n",
+      "image_id": 16994
+    },
+    {
+      "match": "amoShield",
+      "image_id": 38281
+    },
+    {
+      "match": "amoBanjo",
+      "image_id": 38285
+    }
+  ]
+}

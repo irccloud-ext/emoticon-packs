@@ -1,1 +1,15 @@
-{"name":"twitch-sub-irljasmine","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"irlShield","image_id":8898},{"match":"irlTea","image_id":8919}]}
+{
+  "name": "twitch-sub-irljasmine",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "irlShield",
+      "image_id": 8898
+    },
+    {
+      "match": "irlTea",
+      "image_id": 8919
+    }
+  ]
+}

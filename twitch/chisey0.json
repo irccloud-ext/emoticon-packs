@@ -1,1 +1,39 @@
-{"name":"twitch-sub-chisey0","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chiCoco","image_id":86192},{"match":"chiHello","image_id":86195},{"match":"chiW","image_id":88462},{"match":"chiGasp","image_id":85831},{"match":"chiRare","image_id":85672},{"match":"chiCry","image_id":85754},{"match":"chiLate","image_id":85755},{"match":"chiHb","image_id":85776}]}
+{
+  "name": "twitch-sub-chisey0",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chiCoco",
+      "image_id": 86192
+    },
+    {
+      "match": "chiHello",
+      "image_id": 86195
+    },
+    {
+      "match": "chiW",
+      "image_id": 88462
+    },
+    {
+      "match": "chiGasp",
+      "image_id": 85831
+    },
+    {
+      "match": "chiRare",
+      "image_id": 85672
+    },
+    {
+      "match": "chiCry",
+      "image_id": 85754
+    },
+    {
+      "match": "chiLate",
+      "image_id": 85755
+    },
+    {
+      "match": "chiHb",
+      "image_id": 85776
+    }
+  ]
+}

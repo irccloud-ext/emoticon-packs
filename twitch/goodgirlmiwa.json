@@ -1,1 +1,27 @@
-{"name":"twitch-sub-goodgirlmiwa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"miwaNaniwa","image_id":12476},{"match":"miwaRIP","image_id":27367},{"match":"miwaHype","image_id":29028},{"match":"miwaWK","image_id":33432},{"match":"miwaUni","image_id":33433}]}
+{
+  "name": "twitch-sub-goodgirlmiwa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "miwaNaniwa",
+      "image_id": 12476
+    },
+    {
+      "match": "miwaRIP",
+      "image_id": 27367
+    },
+    {
+      "match": "miwaHype",
+      "image_id": 29028
+    },
+    {
+      "match": "miwaWK",
+      "image_id": 33432
+    },
+    {
+      "match": "miwaUni",
+      "image_id": 33433
+    }
+  ]
+}

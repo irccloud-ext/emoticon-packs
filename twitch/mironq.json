@@ -1,1 +1,23 @@
-{"name":"twitch-sub-mironq","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mironMoge","image_id":27171},{"match":"mironLizu","image_id":27293},{"match":"mironWarta","image_id":28540},{"match":"mironGra","image_id":28539}]}
+{
+  "name": "twitch-sub-mironq",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mironMoge",
+      "image_id": 27171
+    },
+    {
+      "match": "mironLizu",
+      "image_id": 27293
+    },
+    {
+      "match": "mironWarta",
+      "image_id": 28540
+    },
+    {
+      "match": "mironGra",
+      "image_id": 28539
+    }
+  ]
+}

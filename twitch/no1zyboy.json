@@ -1,1 +1,31 @@
-{"name":"twitch-sub-no1zyboy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"noizyCalm","image_id":49918},{"match":"noizyRage","image_id":49919},{"match":"noizyPeace","image_id":50682},{"match":"noizyBag","image_id":50681},{"match":"noizyLike","image_id":83633},{"match":"noizyTube","image_id":82554}]}
+{
+  "name": "twitch-sub-no1zyboy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "noizyCalm",
+      "image_id": 49918
+    },
+    {
+      "match": "noizyRage",
+      "image_id": 49919
+    },
+    {
+      "match": "noizyPeace",
+      "image_id": 50682
+    },
+    {
+      "match": "noizyBag",
+      "image_id": 50681
+    },
+    {
+      "match": "noizyLike",
+      "image_id": 83633
+    },
+    {
+      "match": "noizyTube",
+      "image_id": 82554
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-fniure","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fniWORLDRECORD","image_id":83852},{"match":"fniSeemsGoodMan","image_id":83853},{"match":"fniFsociety","image_id":82442},{"match":"fni40min","image_id":66249},{"match":"fniHydrate","image_id":66430},{"match":"fniLUGN","image_id":66246},{"match":"fniMike","image_id":76055},{"match":"fniSwag","image_id":105058}]}
+{
+  "name": "twitch-sub-fniure",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fniWORLDRECORD",
+      "image_id": 83852
+    },
+    {
+      "match": "fniSeemsGoodMan",
+      "image_id": 83853
+    },
+    {
+      "match": "fniFsociety",
+      "image_id": 82442
+    },
+    {
+      "match": "fni40min",
+      "image_id": 66249
+    },
+    {
+      "match": "fniHydrate",
+      "image_id": 66430
+    },
+    {
+      "match": "fniLUGN",
+      "image_id": 66246
+    },
+    {
+      "match": "fniMike",
+      "image_id": 76055
+    },
+    {
+      "match": "fniSwag",
+      "image_id": 105058
+    }
+  ]
+}

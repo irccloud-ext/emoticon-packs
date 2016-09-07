@@ -1,1 +1,15 @@
-{"name":"twitch-sub-melikebigboom","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mlbbVAC","image_id":76958},{"match":"mlbbRIP","image_id":76954}]}
+{
+  "name": "twitch-sub-melikebigboom",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mlbbVAC",
+      "image_id": 76958
+    },
+    {
+      "match": "mlbbRIP",
+      "image_id": 76954
+    }
+  ]
+}

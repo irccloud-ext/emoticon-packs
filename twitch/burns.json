@@ -1,1 +1,31 @@
-{"name":"twitch-sub-burns","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"burnsPrayers","image_id":82130},{"match":"burnsMoo","image_id":82129},{"match":"burnsSerious","image_id":82128},{"match":"burnsGG","image_id":82127},{"match":"burnsNinja","image_id":82126},{"match":"burnsHype","image_id":82125}]}
+{
+  "name": "twitch-sub-burns",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "burnsPrayers",
+      "image_id": 82130
+    },
+    {
+      "match": "burnsMoo",
+      "image_id": 82129
+    },
+    {
+      "match": "burnsSerious",
+      "image_id": 82128
+    },
+    {
+      "match": "burnsGG",
+      "image_id": 82127
+    },
+    {
+      "match": "burnsNinja",
+      "image_id": 82126
+    },
+    {
+      "match": "burnsHype",
+      "image_id": 82125
+    }
+  ]
+}

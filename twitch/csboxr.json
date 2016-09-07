@@ -1,1 +1,47 @@
-{"name":"twitch-sub-csboxr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"boxrW","image_id":64704},{"match":"boxrArt","image_id":23622},{"match":"boxrYes","image_id":23792},{"match":"boxrO","image_id":64571},{"match":"boxrCandle","image_id":44915},{"match":"boxrNo","image_id":109564},{"match":"boxrSleeper","image_id":109561},{"match":"boxrL","image_id":109559},{"match":"boxrGG","image_id":68171},{"match":"boxrY","image_id":109578}]}
+{
+  "name": "twitch-sub-csboxr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "boxrW",
+      "image_id": 64704
+    },
+    {
+      "match": "boxrArt",
+      "image_id": 23622
+    },
+    {
+      "match": "boxrYes",
+      "image_id": 23792
+    },
+    {
+      "match": "boxrO",
+      "image_id": 64571
+    },
+    {
+      "match": "boxrCandle",
+      "image_id": 44915
+    },
+    {
+      "match": "boxrNo",
+      "image_id": 109564
+    },
+    {
+      "match": "boxrSleeper",
+      "image_id": 109561
+    },
+    {
+      "match": "boxrL",
+      "image_id": 109559
+    },
+    {
+      "match": "boxrGG",
+      "image_id": 68171
+    },
+    {
+      "match": "boxrY",
+      "image_id": 109578
+    }
+  ]
+}

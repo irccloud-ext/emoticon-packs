@@ -1,1 +1,19 @@
-{"name":"twitch-sub-hanaliu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hanaThump","image_id":14031},{"match":"hanaBomb","image_id":14074},{"match":"hanaBao","image_id":14075}]}
+{
+  "name": "twitch-sub-hanaliu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hanaThump",
+      "image_id": 14031
+    },
+    {
+      "match": "hanaBomb",
+      "image_id": 14074
+    },
+    {
+      "match": "hanaBao",
+      "image_id": 14075
+    }
+  ]
+}

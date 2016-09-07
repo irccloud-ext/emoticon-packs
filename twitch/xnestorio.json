@@ -1,1 +1,39 @@
-{"name":"twitch-sub-xnestorio","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ngalFiddlesticks","image_id":104723},{"match":"ngalXray","image_id":91513},{"match":"ngalShotem","image_id":68355},{"match":"ngalDolphin","image_id":68353},{"match":"ngalOnetap","image_id":90708},{"match":"ngalSub","image_id":90709},{"match":"ngalNylarzz","image_id":100836},{"match":"ngalSaddle","image_id":100837}]}
+{
+  "name": "twitch-sub-xnestorio",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ngalFiddlesticks",
+      "image_id": 104723
+    },
+    {
+      "match": "ngalXray",
+      "image_id": 91513
+    },
+    {
+      "match": "ngalShotem",
+      "image_id": 68355
+    },
+    {
+      "match": "ngalDolphin",
+      "image_id": 68353
+    },
+    {
+      "match": "ngalOnetap",
+      "image_id": 90708
+    },
+    {
+      "match": "ngalSub",
+      "image_id": 90709
+    },
+    {
+      "match": "ngalNylarzz",
+      "image_id": 100836
+    },
+    {
+      "match": "ngalSaddle",
+      "image_id": 100837
+    }
+  ]
+}

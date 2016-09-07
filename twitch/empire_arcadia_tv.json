@@ -1,1 +1,15 @@
-{"name":"twitch-sub-empire_arcadia_tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"empTrollpunch","image_id":52119},{"match":"empRavioli","image_id":52120}]}
+{
+  "name": "twitch-sub-empire_arcadia_tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "empTrollpunch",
+      "image_id": 52119
+    },
+    {
+      "match": "empRavioli",
+      "image_id": 52120
+    }
+  ]
+}

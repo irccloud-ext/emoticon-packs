@@ -1,1 +1,67 @@
-{"name":"twitch-sub-kosdff","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kosNOT","image_id":106141},{"match":"kosImpressive1","image_id":106142},{"match":"kosFeels","image_id":106140},{"match":"kosImpressive2","image_id":106143},{"match":"kosMarble","image_id":106130},{"match":"kosTK","image_id":106034},{"match":"kosHomie","image_id":106131},{"match":"kosHugeD","image_id":106132},{"match":"kosRIP","image_id":106139},{"match":"kos1KOS","image_id":106134},{"match":"kosRaid","image_id":106135},{"match":"kosFalkor1","image_id":106136},{"match":"kos4Head","image_id":106033},{"match":"kosFalkor2","image_id":106137},{"match":"kosVLOG","image_id":106138}]}
+{
+  "name": "twitch-sub-kosdff",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kosNOT",
+      "image_id": 106141
+    },
+    {
+      "match": "kosImpressive1",
+      "image_id": 106142
+    },
+    {
+      "match": "kosFeels",
+      "image_id": 106140
+    },
+    {
+      "match": "kosImpressive2",
+      "image_id": 106143
+    },
+    {
+      "match": "kosMarble",
+      "image_id": 106130
+    },
+    {
+      "match": "kosTK",
+      "image_id": 106034
+    },
+    {
+      "match": "kosHomie",
+      "image_id": 106131
+    },
+    {
+      "match": "kosHugeD",
+      "image_id": 106132
+    },
+    {
+      "match": "kosRIP",
+      "image_id": 106139
+    },
+    {
+      "match": "kos1KOS",
+      "image_id": 106134
+    },
+    {
+      "match": "kosRaid",
+      "image_id": 106135
+    },
+    {
+      "match": "kosFalkor1",
+      "image_id": 106136
+    },
+    {
+      "match": "kos4Head",
+      "image_id": 106033
+    },
+    {
+      "match": "kosFalkor2",
+      "image_id": 106137
+    },
+    {
+      "match": "kosVLOG",
+      "image_id": 106138
+    }
+  ]
+}

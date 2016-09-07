@@ -1,1 +1,23 @@
-{"name":"twitch-sub-jassy666","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"janSchelle","image_id":14512},{"match":"janWau","image_id":15627},{"match":"janKappa","image_id":21919},{"match":"janSchrank","image_id":68715}]}
+{
+  "name": "twitch-sub-jassy666",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "janSchelle",
+      "image_id": 14512
+    },
+    {
+      "match": "janWau",
+      "image_id": 15627
+    },
+    {
+      "match": "janKappa",
+      "image_id": 21919
+    },
+    {
+      "match": "janSchrank",
+      "image_id": 68715
+    }
+  ]
+}

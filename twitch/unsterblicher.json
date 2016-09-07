@@ -1,1 +1,31 @@
-{"name":"twitch-sub-unsterblicher","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"unsterColere","image_id":72470},{"match":"unsterDiable","image_id":72469},{"match":"unsterClinDoeil","image_id":63664},{"match":"unsterSourire","image_id":63749},{"match":"unsterMoney","image_id":65633},{"match":"unsterGG","image_id":65632}]}
+{
+  "name": "twitch-sub-unsterblicher",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "unsterColere",
+      "image_id": 72470
+    },
+    {
+      "match": "unsterDiable",
+      "image_id": 72469
+    },
+    {
+      "match": "unsterClinDoeil",
+      "image_id": 63664
+    },
+    {
+      "match": "unsterSourire",
+      "image_id": 63749
+    },
+    {
+      "match": "unsterMoney",
+      "image_id": 65633
+    },
+    {
+      "match": "unsterGG",
+      "image_id": 65632
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-theblackhokage","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tbhSilly","image_id":72967},{"match":"tbhDisappointed","image_id":72965},{"match":"tbhFlirty","image_id":72963},{"match":"tbhShocked","image_id":72959},{"match":"tbhBirdman","image_id":72956},{"match":"tbhL","image_id":35569},{"match":"tbhJC","image_id":36078},{"match":"tbhSad","image_id":72958},{"match":"tbhDrunk","image_id":77755},{"match":"tbhW","image_id":77756}]}
+{
+  "name": "twitch-sub-theblackhokage",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tbhSilly",
+      "image_id": 72967
+    },
+    {
+      "match": "tbhDisappointed",
+      "image_id": 72965
+    },
+    {
+      "match": "tbhFlirty",
+      "image_id": 72963
+    },
+    {
+      "match": "tbhShocked",
+      "image_id": 72959
+    },
+    {
+      "match": "tbhBirdman",
+      "image_id": 72956
+    },
+    {
+      "match": "tbhL",
+      "image_id": 35569
+    },
+    {
+      "match": "tbhJC",
+      "image_id": 36078
+    },
+    {
+      "match": "tbhSad",
+      "image_id": 72958
+    },
+    {
+      "match": "tbhDrunk",
+      "image_id": 77755
+    },
+    {
+      "match": "tbhW",
+      "image_id": 77756
+    }
+  ]
+}

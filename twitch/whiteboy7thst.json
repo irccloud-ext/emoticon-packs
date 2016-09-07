@@ -1,1 +1,47 @@
-{"name":"twitch-sub-whiteboy7thst","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"whiteboyWILD","image_id":89818},{"match":"whiteboyGOAT","image_id":4324},{"match":"whiteboyGOLD","image_id":5805},{"match":"whiteboyCAT","image_id":5863},{"match":"whiteboyCUP","image_id":11513},{"match":"whiteboyWOO","image_id":15629},{"match":"whiteboyMONEY","image_id":53868},{"match":"whiteboyONE","image_id":39886},{"match":"whiteboyRIP","image_id":53879},{"match":"whiteboySTOP","image_id":66937}]}
+{
+  "name": "twitch-sub-whiteboy7thst",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "whiteboyWILD",
+      "image_id": 89818
+    },
+    {
+      "match": "whiteboyGOAT",
+      "image_id": 4324
+    },
+    {
+      "match": "whiteboyGOLD",
+      "image_id": 5805
+    },
+    {
+      "match": "whiteboyCAT",
+      "image_id": 5863
+    },
+    {
+      "match": "whiteboyCUP",
+      "image_id": 11513
+    },
+    {
+      "match": "whiteboyWOO",
+      "image_id": 15629
+    },
+    {
+      "match": "whiteboyMONEY",
+      "image_id": 53868
+    },
+    {
+      "match": "whiteboyONE",
+      "image_id": 39886
+    },
+    {
+      "match": "whiteboyRIP",
+      "image_id": 53879
+    },
+    {
+      "match": "whiteboySTOP",
+      "image_id": 66937
+    }
+  ]
+}

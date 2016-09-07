@@ -1,1 +1,31 @@
-{"name":"twitch-sub-djraykuo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"raykuohiHi","image_id":76618},{"match":"raykuohiEightSeven","image_id":76619},{"match":"raykuohiPromisePride","image_id":80890},{"match":"raykuohiLip","image_id":91618},{"match":"raykuohiHeart","image_id":91617},{"match":"raykuohiK7","image_id":89642}]}
+{
+  "name": "twitch-sub-djraykuo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "raykuohiHi",
+      "image_id": 76618
+    },
+    {
+      "match": "raykuohiEightSeven",
+      "image_id": 76619
+    },
+    {
+      "match": "raykuohiPromisePride",
+      "image_id": 80890
+    },
+    {
+      "match": "raykuohiLip",
+      "image_id": 91618
+    },
+    {
+      "match": "raykuohiHeart",
+      "image_id": 91617
+    },
+    {
+      "match": "raykuohiK7",
+      "image_id": 89642
+    }
+  ]
+}

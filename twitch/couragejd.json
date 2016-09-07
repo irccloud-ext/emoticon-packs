@@ -1,1 +1,67 @@
-{"name":"twitch-sub-couragejd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"courageSUB","image_id":84092},{"match":"courageFALL","image_id":103698},{"match":"courageRAGE","image_id":87348},{"match":"courageSPEECH","image_id":106314},{"match":"courageHYPE","image_id":84089},{"match":"courageDAB","image_id":84090},{"match":"courageCRY","image_id":84091},{"match":"courageKAPPA","image_id":87349},{"match":"courageFACEPALM","image_id":86023},{"match":"courageGG","image_id":102166},{"match":"courageTRASH","image_id":103417},{"match":"courageMILK","image_id":106215},{"match":"couragePOTATO","image_id":106214},{"match":"courageJOKED","image_id":106216},{"match":"courageBOTGOD","image_id":106217}]}
+{
+  "name": "twitch-sub-couragejd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "courageSUB",
+      "image_id": 84092
+    },
+    {
+      "match": "courageFALL",
+      "image_id": 103698
+    },
+    {
+      "match": "courageRAGE",
+      "image_id": 87348
+    },
+    {
+      "match": "courageSPEECH",
+      "image_id": 106314
+    },
+    {
+      "match": "courageHYPE",
+      "image_id": 84089
+    },
+    {
+      "match": "courageDAB",
+      "image_id": 84090
+    },
+    {
+      "match": "courageCRY",
+      "image_id": 84091
+    },
+    {
+      "match": "courageKAPPA",
+      "image_id": 87349
+    },
+    {
+      "match": "courageFACEPALM",
+      "image_id": 86023
+    },
+    {
+      "match": "courageGG",
+      "image_id": 102166
+    },
+    {
+      "match": "courageTRASH",
+      "image_id": 103417
+    },
+    {
+      "match": "courageMILK",
+      "image_id": 106215
+    },
+    {
+      "match": "couragePOTATO",
+      "image_id": 106214
+    },
+    {
+      "match": "courageJOKED",
+      "image_id": 106216
+    },
+    {
+      "match": "courageBOTGOD",
+      "image_id": 106217
+    }
+  ]
+}

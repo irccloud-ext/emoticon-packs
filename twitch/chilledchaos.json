@@ -1,1 +1,15 @@
-{"name":"twitch-sub-chilledchaos","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cccChilled","image_id":21033},{"match":"cccMartha","image_id":21044}]}
+{
+  "name": "twitch-sub-chilledchaos",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cccChilled",
+      "image_id": 21033
+    },
+    {
+      "match": "cccMartha",
+      "image_id": 21044
+    }
+  ]
+}

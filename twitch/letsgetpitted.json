@@ -1,1 +1,23 @@
-{"name":"twitch-sub-letsgetpitted","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"letsgetSleepy","image_id":43621},{"match":"letsgetLovely","image_id":43622},{"match":"letsgetGraceful","image_id":44242},{"match":"letsgetGold","image_id":44241}]}
+{
+  "name": "twitch-sub-letsgetpitted",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "letsgetSleepy",
+      "image_id": 43621
+    },
+    {
+      "match": "letsgetLovely",
+      "image_id": 43622
+    },
+    {
+      "match": "letsgetGraceful",
+      "image_id": 44242
+    },
+    {
+      "match": "letsgetGold",
+      "image_id": 44241
+    }
+  ]
+}

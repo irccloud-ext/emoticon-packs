@@ -1,1 +1,39 @@
-{"name":"twitch-sub-hazdev","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hazV","image_id":106309},{"match":"hazRAGE","image_id":79612},{"match":"hazMOIST","image_id":80635},{"match":"hazHYPE","image_id":96590},{"match":"hazLOVE","image_id":90652},{"match":"hazFAIL","image_id":98583},{"match":"hazHEY","image_id":98582},{"match":"hazCHAIR","image_id":99669}]}
+{
+  "name": "twitch-sub-hazdev",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hazV",
+      "image_id": 106309
+    },
+    {
+      "match": "hazRAGE",
+      "image_id": 79612
+    },
+    {
+      "match": "hazMOIST",
+      "image_id": 80635
+    },
+    {
+      "match": "hazHYPE",
+      "image_id": 96590
+    },
+    {
+      "match": "hazLOVE",
+      "image_id": 90652
+    },
+    {
+      "match": "hazFAIL",
+      "image_id": 98583
+    },
+    {
+      "match": "hazHEY",
+      "image_id": 98582
+    },
+    {
+      "match": "hazCHAIR",
+      "image_id": 99669
+    }
+  ]
+}

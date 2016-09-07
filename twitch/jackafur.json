@@ -1,1 +1,27 @@
-{"name":"twitch-sub-jackafur","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"stabTarus","image_id":22236},{"match":"stabCat","image_id":22235},{"match":"stabRage","image_id":23593},{"match":"stabWaifu","image_id":22686},{"match":"stabWhitey","image_id":22764}]}
+{
+  "name": "twitch-sub-jackafur",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "stabTarus",
+      "image_id": 22236
+    },
+    {
+      "match": "stabCat",
+      "image_id": 22235
+    },
+    {
+      "match": "stabRage",
+      "image_id": 23593
+    },
+    {
+      "match": "stabWaifu",
+      "image_id": 22686
+    },
+    {
+      "match": "stabWhitey",
+      "image_id": 22764
+    }
+  ]
+}

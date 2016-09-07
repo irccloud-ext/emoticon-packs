@@ -1,1 +1,15 @@
-{"name":"twitch-sub-suzanne_helmigh","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"suusraidSuusraid","image_id":77960},{"match":"suusraidSuuspower","image_id":93670}]}
+{
+  "name": "twitch-sub-suzanne_helmigh",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "suusraidSuusraid",
+      "image_id": 77960
+    },
+    {
+      "match": "suusraidSuuspower",
+      "image_id": 93670
+    }
+  ]
+}

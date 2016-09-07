@@ -1,1 +1,39 @@
-{"name":"twitch-sub-mimodie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mimoMum","image_id":44741},{"match":"mimoBouya","image_id":54966},{"match":"mimoChat","image_id":54971},{"match":"mimoAlbatar","image_id":55099},{"match":"mimoKK","image_id":55012},{"match":"mimoScream","image_id":54995},{"match":"mimoKappa","image_id":62473},{"match":"mimoFU","image_id":91209}]}
+{
+  "name": "twitch-sub-mimodie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mimoMum",
+      "image_id": 44741
+    },
+    {
+      "match": "mimoBouya",
+      "image_id": 54966
+    },
+    {
+      "match": "mimoChat",
+      "image_id": 54971
+    },
+    {
+      "match": "mimoAlbatar",
+      "image_id": 55099
+    },
+    {
+      "match": "mimoKK",
+      "image_id": 55012
+    },
+    {
+      "match": "mimoScream",
+      "image_id": 54995
+    },
+    {
+      "match": "mimoKappa",
+      "image_id": 62473
+    },
+    {
+      "match": "mimoFU",
+      "image_id": 91209
+    }
+  ]
+}

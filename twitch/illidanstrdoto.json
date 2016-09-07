@@ -1,1 +1,23 @@
-{"name":"twitch-sub-illidanstrdoto","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nobkbNoskill","image_id":36612},{"match":"nobkbAntidan","image_id":36611},{"match":"nobkbMUSOR","image_id":84488},{"match":"nobkbSTR","image_id":84489}]}
+{
+  "name": "twitch-sub-illidanstrdoto",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nobkbNoskill",
+      "image_id": 36612
+    },
+    {
+      "match": "nobkbAntidan",
+      "image_id": 36611
+    },
+    {
+      "match": "nobkbMUSOR",
+      "image_id": 84488
+    },
+    {
+      "match": "nobkbSTR",
+      "image_id": 84489
+    }
+  ]
+}

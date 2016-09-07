@@ -1,1 +1,27 @@
-{"name":"twitch-sub-therealhandi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hanHandi","image_id":8941},{"match":"hanAlmighty","image_id":8917},{"match":"hanAlmightyr","image_id":9005},{"match":"hanTiff","image_id":20907},{"match":"hanAyy","image_id":48648}]}
+{
+  "name": "twitch-sub-therealhandi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hanHandi",
+      "image_id": 8941
+    },
+    {
+      "match": "hanAlmighty",
+      "image_id": 8917
+    },
+    {
+      "match": "hanAlmightyr",
+      "image_id": 9005
+    },
+    {
+      "match": "hanTiff",
+      "image_id": 20907
+    },
+    {
+      "match": "hanAyy",
+      "image_id": 48648
+    }
+  ]
+}

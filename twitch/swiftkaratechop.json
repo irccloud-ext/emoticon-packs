@@ -1,1 +1,15 @@
-{"name":"twitch-sub-swiftkaratechop","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"skcEvil","image_id":9977},{"match":"skcLaugh","image_id":9978}]}
+{
+  "name": "twitch-sub-swiftkaratechop",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "skcEvil",
+      "image_id": 9977
+    },
+    {
+      "match": "skcLaugh",
+      "image_id": 9978
+    }
+  ]
+}

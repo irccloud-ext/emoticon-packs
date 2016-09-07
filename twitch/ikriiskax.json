@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ikriiskax","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kriisFouet","image_id":94199},{"match":"kriisWtf","image_id":94716},{"match":"kriisBip","image_id":94001},{"match":"kriisBip2","image_id":94002},{"match":"kriisFail","image_id":94201},{"match":"kriisThug","image_id":99110}]}
+{
+  "name": "twitch-sub-ikriiskax",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kriisFouet",
+      "image_id": 94199
+    },
+    {
+      "match": "kriisWtf",
+      "image_id": 94716
+    },
+    {
+      "match": "kriisBip",
+      "image_id": 94001
+    },
+    {
+      "match": "kriisBip2",
+      "image_id": 94002
+    },
+    {
+      "match": "kriisFail",
+      "image_id": 94201
+    },
+    {
+      "match": "kriisThug",
+      "image_id": 99110
+    }
+  ]
+}

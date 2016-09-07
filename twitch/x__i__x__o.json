@@ -1,1 +1,27 @@
-{"name":"twitch-sub-x__i__x__o","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xixoCoin","image_id":19000},{"match":"xixoLied","image_id":19957},{"match":"xixoPirate","image_id":36089},{"match":"xixoHaha","image_id":38956},{"match":"xixoImp","image_id":38952}]}
+{
+  "name": "twitch-sub-x__i__x__o",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xixoCoin",
+      "image_id": 19000
+    },
+    {
+      "match": "xixoLied",
+      "image_id": 19957
+    },
+    {
+      "match": "xixoPirate",
+      "image_id": 36089
+    },
+    {
+      "match": "xixoHaha",
+      "image_id": 38956
+    },
+    {
+      "match": "xixoImp",
+      "image_id": 38952
+    }
+  ]
+}

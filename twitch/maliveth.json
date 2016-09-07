@@ -1,1 +1,39 @@
-{"name":"twitch-sub-maliveth","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"malivBUTTIE","image_id":92386},{"match":"malivLASERR","image_id":92179},{"match":"malivLOVE","image_id":92067},{"match":"malivHICCUP","image_id":92096},{"match":"malivLASER","image_id":92163},{"match":"malivRAGE","image_id":93399},{"match":"malivMLEM","image_id":103085},{"match":"malivGASM","image_id":102915}]}
+{
+  "name": "twitch-sub-maliveth",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "malivBUTTIE",
+      "image_id": 92386
+    },
+    {
+      "match": "malivLASERR",
+      "image_id": 92179
+    },
+    {
+      "match": "malivLOVE",
+      "image_id": 92067
+    },
+    {
+      "match": "malivHICCUP",
+      "image_id": 92096
+    },
+    {
+      "match": "malivLASER",
+      "image_id": 92163
+    },
+    {
+      "match": "malivRAGE",
+      "image_id": 93399
+    },
+    {
+      "match": "malivMLEM",
+      "image_id": 103085
+    },
+    {
+      "match": "malivGASM",
+      "image_id": 102915
+    }
+  ]
+}

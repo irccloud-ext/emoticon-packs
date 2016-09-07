@@ -1,1 +1,31 @@
-{"name":"twitch-sub-civila","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"civilaK","image_id":94985},{"match":"civilaAkan","image_id":81953},{"match":"civilaFace","image_id":82173},{"match":"civilaCEO","image_id":84227},{"match":"civilaBan","image_id":84228},{"match":"civilaDNG","image_id":96209}]}
+{
+  "name": "twitch-sub-civila",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "civilaK",
+      "image_id": 94985
+    },
+    {
+      "match": "civilaAkan",
+      "image_id": 81953
+    },
+    {
+      "match": "civilaFace",
+      "image_id": 82173
+    },
+    {
+      "match": "civilaCEO",
+      "image_id": 84227
+    },
+    {
+      "match": "civilaBan",
+      "image_id": 84228
+    },
+    {
+      "match": "civilaDNG",
+      "image_id": 96209
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-evltv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"evlPause","image_id":60371},{"match":"evlGecks","image_id":62913}]}
+{
+  "name": "twitch-sub-evltv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "evlPause",
+      "image_id": 60371
+    },
+    {
+      "match": "evlGecks",
+      "image_id": 62913
+    }
+  ]
+}

@@ -1,1 +1,215 @@
-{"name":"twitch-sub-pgl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pglAce","image_id":43997},{"match":"pglDolphin","image_id":43999},{"match":"pglGg","image_id":44000},{"match":"pglGold","image_id":44001},{"match":"pglGunl","image_id":44002},{"match":"pglGunr","image_id":44003},{"match":"pglHoldthed","image_id":44004},{"match":"pglLife","image_id":44005},{"match":"pglRekt","image_id":44006},{"match":"pglGgwp","image_id":44007},{"match":"pglRekt","image_id":64404},{"match":"pglGunr","image_id":64407},{"match":"pglDealwithit","image_id":41196},{"match":"pglBananapeel","image_id":41195},{"match":"pglIlluminati","image_id":41197},{"match":"pglSadokist","image_id":41198},{"match":"pglBoom","image_id":41255},{"match":"pglHeadshot","image_id":41256},{"match":"pglKappasniperi","image_id":41257},{"match":"pglKnife","image_id":41258},{"match":"pglNothingbuthead","image_id":41260},{"match":"pglPacpac","image_id":41261},{"match":"pglStache","image_id":41262},{"match":"pglReplay","image_id":41281},{"match":"pglCajun","image_id":44508},{"match":"pglCamera","image_id":44509},{"match":"pglGodofwar","image_id":44510},{"match":"pglTv","image_id":44511},{"match":"pglReplay","image_id":64413},{"match":"pglSadokist","image_id":64421},{"match":"pglTv","image_id":64399},{"match":"pglGodofwar","image_id":64400},{"match":"pglCamera","image_id":64401},{"match":"pglCajun","image_id":64402},{"match":"pglGgwp","image_id":64403},{"match":"pglLife","image_id":64405},{"match":"pglHoldthed","image_id":64406},{"match":"pglGunl","image_id":64408},{"match":"pglGold","image_id":64409},{"match":"pglGg","image_id":64410},{"match":"pglDolphin","image_id":64411},{"match":"pglAce","image_id":64412},{"match":"pglStache","image_id":64414},{"match":"pglPacpac","image_id":64415},{"match":"pglNothingbuthead","image_id":64416},{"match":"pglKnife","image_id":64417},{"match":"pglKappasniperi","image_id":64418},{"match":"pglHeadshot","image_id":64419},{"match":"pglBoom","image_id":64420},{"match":"pglIlluminati","image_id":64422},{"match":"pglDealwithit","image_id":64423},{"match":"pglBananapeel","image_id":64424}]}
+{
+  "name": "twitch-sub-pgl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pglAce",
+      "image_id": 43997
+    },
+    {
+      "match": "pglDolphin",
+      "image_id": 43999
+    },
+    {
+      "match": "pglGg",
+      "image_id": 44000
+    },
+    {
+      "match": "pglGold",
+      "image_id": 44001
+    },
+    {
+      "match": "pglGunl",
+      "image_id": 44002
+    },
+    {
+      "match": "pglGunr",
+      "image_id": 44003
+    },
+    {
+      "match": "pglHoldthed",
+      "image_id": 44004
+    },
+    {
+      "match": "pglLife",
+      "image_id": 44005
+    },
+    {
+      "match": "pglRekt",
+      "image_id": 44006
+    },
+    {
+      "match": "pglGgwp",
+      "image_id": 44007
+    },
+    {
+      "match": "pglRekt",
+      "image_id": 64404
+    },
+    {
+      "match": "pglGunr",
+      "image_id": 64407
+    },
+    {
+      "match": "pglDealwithit",
+      "image_id": 41196
+    },
+    {
+      "match": "pglBananapeel",
+      "image_id": 41195
+    },
+    {
+      "match": "pglIlluminati",
+      "image_id": 41197
+    },
+    {
+      "match": "pglSadokist",
+      "image_id": 41198
+    },
+    {
+      "match": "pglBoom",
+      "image_id": 41255
+    },
+    {
+      "match": "pglHeadshot",
+      "image_id": 41256
+    },
+    {
+      "match": "pglKappasniperi",
+      "image_id": 41257
+    },
+    {
+      "match": "pglKnife",
+      "image_id": 41258
+    },
+    {
+      "match": "pglNothingbuthead",
+      "image_id": 41260
+    },
+    {
+      "match": "pglPacpac",
+      "image_id": 41261
+    },
+    {
+      "match": "pglStache",
+      "image_id": 41262
+    },
+    {
+      "match": "pglReplay",
+      "image_id": 41281
+    },
+    {
+      "match": "pglCajun",
+      "image_id": 44508
+    },
+    {
+      "match": "pglCamera",
+      "image_id": 44509
+    },
+    {
+      "match": "pglGodofwar",
+      "image_id": 44510
+    },
+    {
+      "match": "pglTv",
+      "image_id": 44511
+    },
+    {
+      "match": "pglReplay",
+      "image_id": 64413
+    },
+    {
+      "match": "pglSadokist",
+      "image_id": 64421
+    },
+    {
+      "match": "pglTv",
+      "image_id": 64399
+    },
+    {
+      "match": "pglGodofwar",
+      "image_id": 64400
+    },
+    {
+      "match": "pglCamera",
+      "image_id": 64401
+    },
+    {
+      "match": "pglCajun",
+      "image_id": 64402
+    },
+    {
+      "match": "pglGgwp",
+      "image_id": 64403
+    },
+    {
+      "match": "pglLife",
+      "image_id": 64405
+    },
+    {
+      "match": "pglHoldthed",
+      "image_id": 64406
+    },
+    {
+      "match": "pglGunl",
+      "image_id": 64408
+    },
+    {
+      "match": "pglGold",
+      "image_id": 64409
+    },
+    {
+      "match": "pglGg",
+      "image_id": 64410
+    },
+    {
+      "match": "pglDolphin",
+      "image_id": 64411
+    },
+    {
+      "match": "pglAce",
+      "image_id": 64412
+    },
+    {
+      "match": "pglStache",
+      "image_id": 64414
+    },
+    {
+      "match": "pglPacpac",
+      "image_id": 64415
+    },
+    {
+      "match": "pglNothingbuthead",
+      "image_id": 64416
+    },
+    {
+      "match": "pglKnife",
+      "image_id": 64417
+    },
+    {
+      "match": "pglKappasniperi",
+      "image_id": 64418
+    },
+    {
+      "match": "pglHeadshot",
+      "image_id": 64419
+    },
+    {
+      "match": "pglBoom",
+      "image_id": 64420
+    },
+    {
+      "match": "pglIlluminati",
+      "image_id": 64422
+    },
+    {
+      "match": "pglDealwithit",
+      "image_id": 64423
+    },
+    {
+      "match": "pglBananapeel",
+      "image_id": 64424
+    }
+  ]
+}

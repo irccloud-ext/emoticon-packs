@@ -1,1 +1,31 @@
-{"name":"twitch-sub-teadusbluetv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"teadusLove","image_id":41811},{"match":"teadusCrack","image_id":41960},{"match":"teadusAaa","image_id":42146},{"match":"teadusWhat","image_id":42150},{"match":"teadusOle","image_id":44168},{"match":"teadusCup","image_id":45320}]}
+{
+  "name": "twitch-sub-teadusbluetv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "teadusLove",
+      "image_id": 41811
+    },
+    {
+      "match": "teadusCrack",
+      "image_id": 41960
+    },
+    {
+      "match": "teadusAaa",
+      "image_id": 42146
+    },
+    {
+      "match": "teadusWhat",
+      "image_id": 42150
+    },
+    {
+      "match": "teadusOle",
+      "image_id": 44168
+    },
+    {
+      "match": "teadusCup",
+      "image_id": 45320
+    }
+  ]
+}

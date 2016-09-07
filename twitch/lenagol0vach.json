@@ -1,1 +1,39 @@
-{"name":"twitch-sub-lenagol0vach","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"golovachVitas","image_id":111060},{"match":"golovachSub","image_id":111357},{"match":"golovachGavno","image_id":111359},{"match":"golovachJaga","image_id":111226},{"match":"golovachUnSub","image_id":111069},{"match":"golovachBravo","image_id":111360},{"match":"golovachGood","image_id":111358},{"match":"golovachPudge","image_id":111356}]}
+{
+  "name": "twitch-sub-lenagol0vach",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "golovachVitas",
+      "image_id": 111060
+    },
+    {
+      "match": "golovachSub",
+      "image_id": 111357
+    },
+    {
+      "match": "golovachGavno",
+      "image_id": 111359
+    },
+    {
+      "match": "golovachJaga",
+      "image_id": 111226
+    },
+    {
+      "match": "golovachUnSub",
+      "image_id": 111069
+    },
+    {
+      "match": "golovachBravo",
+      "image_id": 111360
+    },
+    {
+      "match": "golovachGood",
+      "image_id": 111358
+    },
+    {
+      "match": "golovachPudge",
+      "image_id": 111356
+    }
+  ]
+}

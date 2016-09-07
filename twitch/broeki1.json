@@ -1,1 +1,35 @@
-{"name":"twitch-sub-broeki1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"broekiBo","image_id":71197},{"match":"broekiPanda","image_id":47580},{"match":"broekiRage","image_id":48613},{"match":"broekiTroll","image_id":49620},{"match":"broekiKappa","image_id":50308},{"match":"broekiTilt","image_id":55759},{"match":"broekiUnlucky","image_id":102130}]}
+{
+  "name": "twitch-sub-broeki1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "broekiBo",
+      "image_id": 71197
+    },
+    {
+      "match": "broekiPanda",
+      "image_id": 47580
+    },
+    {
+      "match": "broekiRage",
+      "image_id": 48613
+    },
+    {
+      "match": "broekiTroll",
+      "image_id": 49620
+    },
+    {
+      "match": "broekiKappa",
+      "image_id": 50308
+    },
+    {
+      "match": "broekiTilt",
+      "image_id": 55759
+    },
+    {
+      "match": "broekiUnlucky",
+      "image_id": 102130
+    }
+  ]
+}

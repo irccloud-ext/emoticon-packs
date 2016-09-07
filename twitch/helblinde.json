@@ -1,1 +1,27 @@
-{"name":"twitch-sub-helblinde","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"helBalls","image_id":34317},{"match":"helWaifu","image_id":75602},{"match":"helDungeon","image_id":65400},{"match":"hel1","image_id":74091},{"match":"helRage","image_id":77149}]}
+{
+  "name": "twitch-sub-helblinde",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "helBalls",
+      "image_id": 34317
+    },
+    {
+      "match": "helWaifu",
+      "image_id": 75602
+    },
+    {
+      "match": "helDungeon",
+      "image_id": 65400
+    },
+    {
+      "match": "hel1",
+      "image_id": 74091
+    },
+    {
+      "match": "helRage",
+      "image_id": 77149
+    }
+  ]
+}

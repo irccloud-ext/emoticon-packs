@@ -1,1 +1,31 @@
-{"name":"twitch-sub-shadowjacky","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dedSJ","image_id":22260},{"match":"dedBootyBat","image_id":21413},{"match":"dedDayum","image_id":22563},{"match":"dedHype","image_id":30037},{"match":"dedNasty","image_id":89768},{"match":"dedComfy","image_id":89812}]}
+{
+  "name": "twitch-sub-shadowjacky",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dedSJ",
+      "image_id": 22260
+    },
+    {
+      "match": "dedBootyBat",
+      "image_id": 21413
+    },
+    {
+      "match": "dedDayum",
+      "image_id": 22563
+    },
+    {
+      "match": "dedHype",
+      "image_id": 30037
+    },
+    {
+      "match": "dedNasty",
+      "image_id": 89768
+    },
+    {
+      "match": "dedComfy",
+      "image_id": 89812
+    }
+  ]
+}

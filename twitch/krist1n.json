@@ -1,1 +1,39 @@
-{"name":"twitch-sub-krist1n","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bubuGasm","image_id":75791},{"match":"bubuPicnic","image_id":75566},{"match":"bubuOne","image_id":38854},{"match":"bubuDiego","image_id":38855},{"match":"bubuA","image_id":39144},{"match":"bubuWink","image_id":61048},{"match":"bubuLewd","image_id":60386},{"match":"bubuThump","image_id":60365}]}
+{
+  "name": "twitch-sub-krist1n",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bubuGasm",
+      "image_id": 75791
+    },
+    {
+      "match": "bubuPicnic",
+      "image_id": 75566
+    },
+    {
+      "match": "bubuOne",
+      "image_id": 38854
+    },
+    {
+      "match": "bubuDiego",
+      "image_id": 38855
+    },
+    {
+      "match": "bubuA",
+      "image_id": 39144
+    },
+    {
+      "match": "bubuWink",
+      "image_id": 61048
+    },
+    {
+      "match": "bubuLewd",
+      "image_id": 60386
+    },
+    {
+      "match": "bubuThump",
+      "image_id": 60365
+    }
+  ]
+}

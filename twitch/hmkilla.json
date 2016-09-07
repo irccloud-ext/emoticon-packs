@@ -1,1 +1,31 @@
-{"name":"twitch-sub-hmkilla","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hmkDaddysBelt","image_id":77488},{"match":"hmkSalt","image_id":77491},{"match":"hmkRage","image_id":94781},{"match":"hmkHype","image_id":75620},{"match":"hmkYOOO","image_id":75618},{"match":"hmkRIP","image_id":94465}]}
+{
+  "name": "twitch-sub-hmkilla",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hmkDaddysBelt",
+      "image_id": 77488
+    },
+    {
+      "match": "hmkSalt",
+      "image_id": 77491
+    },
+    {
+      "match": "hmkRage",
+      "image_id": 94781
+    },
+    {
+      "match": "hmkHype",
+      "image_id": 75620
+    },
+    {
+      "match": "hmkYOOO",
+      "image_id": 75618
+    },
+    {
+      "match": "hmkRIP",
+      "image_id": 94465
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-bakedchicken","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bakedXD","image_id":95060},{"match":"bakedKEK","image_id":95829},{"match":"bakedTrash","image_id":99285}]}
+{
+  "name": "twitch-sub-bakedchicken",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bakedXD",
+      "image_id": 95060
+    },
+    {
+      "match": "bakedKEK",
+      "image_id": 95829
+    },
+    {
+      "match": "bakedTrash",
+      "image_id": 99285
+    },
+    {
+      "match": "bakedET",
+      "image_id": 111761
+    }
+  ]
+}

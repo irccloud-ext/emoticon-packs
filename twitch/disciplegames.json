@@ -1,1 +1,31 @@
-{"name":"twitch-sub-disciplegames","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"diskiLlama","image_id":21117},{"match":"diskiPoro","image_id":21118},{"match":"diskiSalt","image_id":21182},{"match":"diskiRaise","image_id":21449},{"match":"diskiAmaze","image_id":21660},{"match":"diskiPhead","image_id":23522}]}
+{
+  "name": "twitch-sub-disciplegames",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "diskiLlama",
+      "image_id": 21117
+    },
+    {
+      "match": "diskiPoro",
+      "image_id": 21118
+    },
+    {
+      "match": "diskiSalt",
+      "image_id": 21182
+    },
+    {
+      "match": "diskiRaise",
+      "image_id": 21449
+    },
+    {
+      "match": "diskiAmaze",
+      "image_id": 21660
+    },
+    {
+      "match": "diskiPhead",
+      "image_id": 23522
+    }
+  ]
+}

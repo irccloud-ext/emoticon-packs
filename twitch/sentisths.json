@@ -1,1 +1,15 @@
-{"name":"twitch-sub-sentisths","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sentistMaldaero","image_id":108047},{"match":"sentistWhodraw","image_id":108046}]}
+{
+  "name": "twitch-sub-sentisths",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sentistMaldaero",
+      "image_id": 108047
+    },
+    {
+      "match": "sentistWhodraw",
+      "image_id": 108046
+    }
+  ]
+}

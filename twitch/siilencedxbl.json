@@ -1,1 +1,27 @@
-{"name":"twitch-sub-siilencedxbl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"famGreg","image_id":18963},{"match":"famStain","image_id":19205},{"match":"famHype","image_id":108620},{"match":"famGG","image_id":108621},{"match":"famKappa","image_id":108631}]}
+{
+  "name": "twitch-sub-siilencedxbl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "famGreg",
+      "image_id": 18963
+    },
+    {
+      "match": "famStain",
+      "image_id": 19205
+    },
+    {
+      "match": "famHype",
+      "image_id": 108620
+    },
+    {
+      "match": "famGG",
+      "image_id": 108621
+    },
+    {
+      "match": "famKappa",
+      "image_id": 108631
+    }
+  ]
+}

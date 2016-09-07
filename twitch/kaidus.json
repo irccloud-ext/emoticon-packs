@@ -1,1 +1,19 @@
-{"name":"twitch-sub-kaidus","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kaidusIpperZ","image_id":8582},{"match":"kaidusBrits","image_id":68109},{"match":"kaidusDonk","image_id":41095}]}
+{
+  "name": "twitch-sub-kaidus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kaidusIpperZ",
+      "image_id": 8582
+    },
+    {
+      "match": "kaidusBrits",
+      "image_id": 68109
+    },
+    {
+      "match": "kaidusDonk",
+      "image_id": 41095
+    }
+  ]
+}

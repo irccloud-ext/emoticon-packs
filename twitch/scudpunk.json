@@ -1,1 +1,67 @@
-{"name":"twitch-sub-scudpunk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"scudVape","image_id":70861},{"match":"scudRip","image_id":70859},{"match":"scudRekt","image_id":70858},{"match":"scudSad","image_id":70860},{"match":"scudSavage","image_id":91463},{"match":"scudGreed","image_id":91462},{"match":"scudScum","image_id":91461},{"match":"scudFB","image_id":91526},{"match":"scudHype","image_id":70855},{"match":"scudOcto","image_id":70856},{"match":"scudLove","image_id":81145},{"match":"scudPoop","image_id":81146},{"match":"scudGasm","image_id":90617},{"match":"scudFail","image_id":91322},{"match":"scudRage","image_id":91320}]}
+{
+  "name": "twitch-sub-scudpunk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "scudVape",
+      "image_id": 70861
+    },
+    {
+      "match": "scudRip",
+      "image_id": 70859
+    },
+    {
+      "match": "scudRekt",
+      "image_id": 70858
+    },
+    {
+      "match": "scudSad",
+      "image_id": 70860
+    },
+    {
+      "match": "scudSavage",
+      "image_id": 91463
+    },
+    {
+      "match": "scudGreed",
+      "image_id": 91462
+    },
+    {
+      "match": "scudScum",
+      "image_id": 91461
+    },
+    {
+      "match": "scudFB",
+      "image_id": 91526
+    },
+    {
+      "match": "scudHype",
+      "image_id": 70855
+    },
+    {
+      "match": "scudOcto",
+      "image_id": 70856
+    },
+    {
+      "match": "scudLove",
+      "image_id": 81145
+    },
+    {
+      "match": "scudPoop",
+      "image_id": 81146
+    },
+    {
+      "match": "scudGasm",
+      "image_id": 90617
+    },
+    {
+      "match": "scudFail",
+      "image_id": 91322
+    },
+    {
+      "match": "scudRage",
+      "image_id": 91320
+    }
+  ]
+}

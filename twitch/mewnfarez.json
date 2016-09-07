@@ -1,1 +1,47 @@
-{"name":"twitch-sub-mewnfarez","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mewnW","image_id":67812},{"match":"mewnAa1","image_id":91813},{"match":"mewnF","image_id":69050},{"match":"mewnBaby","image_id":68183},{"match":"mewnNose","image_id":74224},{"match":"mewnMisty","image_id":91782},{"match":"mewnStory","image_id":91783},{"match":"mewnAa2","image_id":91815},{"match":"mewnLampy","image_id":98786},{"match":"mewnG","image_id":105105}]}
+{
+  "name": "twitch-sub-mewnfarez",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mewnW",
+      "image_id": 67812
+    },
+    {
+      "match": "mewnAa1",
+      "image_id": 91813
+    },
+    {
+      "match": "mewnF",
+      "image_id": 69050
+    },
+    {
+      "match": "mewnBaby",
+      "image_id": 68183
+    },
+    {
+      "match": "mewnNose",
+      "image_id": 74224
+    },
+    {
+      "match": "mewnMisty",
+      "image_id": 91782
+    },
+    {
+      "match": "mewnStory",
+      "image_id": 91783
+    },
+    {
+      "match": "mewnAa2",
+      "image_id": 91815
+    },
+    {
+      "match": "mewnLampy",
+      "image_id": 98786
+    },
+    {
+      "match": "mewnG",
+      "image_id": 105105
+    }
+  ]
+}

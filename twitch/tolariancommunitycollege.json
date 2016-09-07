@@ -1,1 +1,39 @@
-{"name":"twitch-sub-tolariancommunitycollege","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"snapHugs","image_id":72036},{"match":"snapPunt","image_id":71805},{"match":"snapOldMan","image_id":62865},{"match":"snapCool","image_id":62864},{"match":"snapTcc","image_id":70578},{"match":"snapNuts","image_id":70609},{"match":"snapMerfolk","image_id":70485},{"match":"snapYawn","image_id":70619}]}
+{
+  "name": "twitch-sub-tolariancommunitycollege",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "snapHugs",
+      "image_id": 72036
+    },
+    {
+      "match": "snapPunt",
+      "image_id": 71805
+    },
+    {
+      "match": "snapOldMan",
+      "image_id": 62865
+    },
+    {
+      "match": "snapCool",
+      "image_id": 62864
+    },
+    {
+      "match": "snapTcc",
+      "image_id": 70578
+    },
+    {
+      "match": "snapNuts",
+      "image_id": 70609
+    },
+    {
+      "match": "snapMerfolk",
+      "image_id": 70485
+    },
+    {
+      "match": "snapYawn",
+      "image_id": 70619
+    }
+  ]
+}

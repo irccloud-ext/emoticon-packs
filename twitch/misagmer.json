@@ -1,1 +1,31 @@
-{"name":"twitch-sub-misagmer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"misagHype","image_id":84921},{"match":"misagSadsaurio","image_id":94020},{"match":"misagYea","image_id":110563},{"match":"misagDon","image_id":110564},{"match":"misagLove","image_id":109339},{"match":"misagPRRO","image_id":110858}]}
+{
+  "name": "twitch-sub-misagmer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "misagHype",
+      "image_id": 84921
+    },
+    {
+      "match": "misagSadsaurio",
+      "image_id": 94020
+    },
+    {
+      "match": "misagYea",
+      "image_id": 110563
+    },
+    {
+      "match": "misagDon",
+      "image_id": 110564
+    },
+    {
+      "match": "misagLove",
+      "image_id": 109339
+    },
+    {
+      "match": "misagPRRO",
+      "image_id": 110858
+    }
+  ]
+}

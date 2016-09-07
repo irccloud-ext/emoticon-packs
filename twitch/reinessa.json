@@ -1,1 +1,31 @@
-{"name":"twitch-sub-reinessa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nessaBanana","image_id":73747},{"match":"nessaHug","image_id":80429},{"match":"nessaSleeper","image_id":90389},{"match":"nessaThump","image_id":90390},{"match":"nessaGlare","image_id":90388},{"match":"nessaThrow","image_id":90391}]}
+{
+  "name": "twitch-sub-reinessa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nessaBanana",
+      "image_id": 73747
+    },
+    {
+      "match": "nessaHug",
+      "image_id": 80429
+    },
+    {
+      "match": "nessaSleeper",
+      "image_id": 90389
+    },
+    {
+      "match": "nessaThump",
+      "image_id": 90390
+    },
+    {
+      "match": "nessaGlare",
+      "image_id": 90388
+    },
+    {
+      "match": "nessaThrow",
+      "image_id": 90391
+    }
+  ]
+}

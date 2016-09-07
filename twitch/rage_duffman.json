@@ -1,1 +1,35 @@
-{"name":"twitch-sub-rage_duffman","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"duffCRY","image_id":18217},{"match":"duffRAGE","image_id":17502},{"match":"duffNOPE","image_id":17885},{"match":"duffWELP","image_id":40461},{"match":"duffPLS","image_id":40459},{"match":"duffRIP","image_id":48140},{"match":"duffLOVE","image_id":48178}]}
+{
+  "name": "twitch-sub-rage_duffman",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "duffCRY",
+      "image_id": 18217
+    },
+    {
+      "match": "duffRAGE",
+      "image_id": 17502
+    },
+    {
+      "match": "duffNOPE",
+      "image_id": 17885
+    },
+    {
+      "match": "duffWELP",
+      "image_id": 40461
+    },
+    {
+      "match": "duffPLS",
+      "image_id": 40459
+    },
+    {
+      "match": "duffRIP",
+      "image_id": 48140
+    },
+    {
+      "match": "duffLOVE",
+      "image_id": 48178
+    }
+  ]
+}

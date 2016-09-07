@@ -1,1 +1,11 @@
-{"name":"twitch-sub-ms_yuyu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yuyuPig","image_id":15917}]}
+{
+  "name": "twitch-sub-ms_yuyu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yuyuPig",
+      "image_id": 15917
+    }
+  ]
+}

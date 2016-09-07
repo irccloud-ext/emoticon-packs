@@ -1,1 +1,15 @@
-{"name":"twitch-sub-kingrajagames","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rajKlappa","image_id":104764},{"match":"rajW","image_id":96851}]}
+{
+  "name": "twitch-sub-kingrajagames",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rajKlappa",
+      "image_id": 104764
+    },
+    {
+      "match": "rajW",
+      "image_id": 96851
+    }
+  ]
+}

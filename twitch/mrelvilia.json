@@ -1,1 +1,47 @@
-{"name":"twitch-sub-mrelvilia","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"elviSub","image_id":98746},{"match":"elviSel","image_id":98747},{"match":"elviRIP","image_id":98749},{"match":"elviUSA","image_id":98739},{"match":"elviMoney","image_id":98745},{"match":"elviKappa","image_id":98744},{"match":"elviHey","image_id":98743},{"match":"elviGG","image_id":98742},{"match":"elviGasm","image_id":98741},{"match":"elviBeauf","image_id":98740}]}
+{
+  "name": "twitch-sub-mrelvilia",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "elviSub",
+      "image_id": 98746
+    },
+    {
+      "match": "elviSel",
+      "image_id": 98747
+    },
+    {
+      "match": "elviRIP",
+      "image_id": 98749
+    },
+    {
+      "match": "elviUSA",
+      "image_id": 98739
+    },
+    {
+      "match": "elviMoney",
+      "image_id": 98745
+    },
+    {
+      "match": "elviKappa",
+      "image_id": 98744
+    },
+    {
+      "match": "elviHey",
+      "image_id": 98743
+    },
+    {
+      "match": "elviGG",
+      "image_id": 98742
+    },
+    {
+      "match": "elviGasm",
+      "image_id": 98741
+    },
+    {
+      "match": "elviBeauf",
+      "image_id": 98740
+    }
+  ]
+}

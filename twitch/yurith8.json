@@ -1,1 +1,23 @@
-{"name":"twitch-sub-yurith8","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yurithRage","image_id":79959},{"match":"yurithYo","image_id":72304},{"match":"yurithArmy","image_id":72305},{"match":"yurithHifive","image_id":79958}]}
+{
+  "name": "twitch-sub-yurith8",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yurithRage",
+      "image_id": 79959
+    },
+    {
+      "match": "yurithYo",
+      "image_id": 72304
+    },
+    {
+      "match": "yurithArmy",
+      "image_id": 72305
+    },
+    {
+      "match": "yurithHifive",
+      "image_id": 79958
+    }
+  ]
+}

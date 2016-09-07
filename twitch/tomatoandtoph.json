@@ -1,1 +1,15 @@
-{"name":"twitch-sub-tomatoandtoph","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tomatoRat","image_id":109447},{"match":"tomatoSad","image_id":109450}]}
+{
+  "name": "twitch-sub-tomatoandtoph",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tomatoRat",
+      "image_id": 109447
+    },
+    {
+      "match": "tomatoSad",
+      "image_id": 109450
+    }
+  ]
+}

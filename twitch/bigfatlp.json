@@ -1,1 +1,143 @@
-{"name":"twitch-sub-bigfatlp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bigfatSheep","image_id":4152},{"match":"bigfatTammi","image_id":4154},{"match":"bigfatCat","image_id":4093},{"match":"bigfatNFGL","image_id":4094},{"match":"bigfatKing","image_id":4558},{"match":"bigfatPride","image_id":90888},{"match":"bigfatH4","image_id":6089},{"match":"bigfatMissy","image_id":6113},{"match":"bigfatWhistle","image_id":6182},{"match":"bigfatNomi","image_id":13129},{"match":"bigfatOpieperv","image_id":30725},{"match":"bigfatCool","image_id":85610},{"match":"bigfatRyu","image_id":85612},{"match":"bigfatAyy","image_id":56213},{"match":"bigfatDerp","image_id":56214},{"match":"bigfatGrandma","image_id":56215},{"match":"bigfatGunni","image_id":56216},{"match":"bigfatO","image_id":56217},{"match":"bigfatTammah","image_id":56218},{"match":"bigfatChauSterZ","image_id":67603},{"match":"bigfatChauXD","image_id":67604},{"match":"bigfatChauZzz","image_id":67605},{"match":"bigfatChauDoge","image_id":67606},{"match":"bigfatChauWtf","image_id":67607},{"match":"bigfatPaw","image_id":75401},{"match":"bigfatSmile","image_id":75402},{"match":"bigfatWave","image_id":75403},{"match":"bigfatWow","image_id":75404},{"match":"bigfatWeeb","image_id":97182},{"match":"bigfatKO3","image_id":97183},{"match":"bigfatKO2","image_id":97184},{"match":"bigfatKO1","image_id":97185},{"match":"bigfatGood","image_id":97253},{"match":"bigfatGiggle","image_id":97201}]}
+{
+  "name": "twitch-sub-bigfatlp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bigfatSheep",
+      "image_id": 4152
+    },
+    {
+      "match": "bigfatTammi",
+      "image_id": 4154
+    },
+    {
+      "match": "bigfatCat",
+      "image_id": 4093
+    },
+    {
+      "match": "bigfatNFGL",
+      "image_id": 4094
+    },
+    {
+      "match": "bigfatKing",
+      "image_id": 4558
+    },
+    {
+      "match": "bigfatPride",
+      "image_id": 90888
+    },
+    {
+      "match": "bigfatH4",
+      "image_id": 6089
+    },
+    {
+      "match": "bigfatMissy",
+      "image_id": 6113
+    },
+    {
+      "match": "bigfatWhistle",
+      "image_id": 6182
+    },
+    {
+      "match": "bigfatNomi",
+      "image_id": 13129
+    },
+    {
+      "match": "bigfatOpieperv",
+      "image_id": 30725
+    },
+    {
+      "match": "bigfatCool",
+      "image_id": 85610
+    },
+    {
+      "match": "bigfatRyu",
+      "image_id": 85612
+    },
+    {
+      "match": "bigfatAyy",
+      "image_id": 56213
+    },
+    {
+      "match": "bigfatDerp",
+      "image_id": 56214
+    },
+    {
+      "match": "bigfatGrandma",
+      "image_id": 56215
+    },
+    {
+      "match": "bigfatGunni",
+      "image_id": 56216
+    },
+    {
+      "match": "bigfatO",
+      "image_id": 56217
+    },
+    {
+      "match": "bigfatTammah",
+      "image_id": 56218
+    },
+    {
+      "match": "bigfatChauSterZ",
+      "image_id": 67603
+    },
+    {
+      "match": "bigfatChauXD",
+      "image_id": 67604
+    },
+    {
+      "match": "bigfatChauZzz",
+      "image_id": 67605
+    },
+    {
+      "match": "bigfatChauDoge",
+      "image_id": 67606
+    },
+    {
+      "match": "bigfatChauWtf",
+      "image_id": 67607
+    },
+    {
+      "match": "bigfatPaw",
+      "image_id": 75401
+    },
+    {
+      "match": "bigfatSmile",
+      "image_id": 75402
+    },
+    {
+      "match": "bigfatWave",
+      "image_id": 75403
+    },
+    {
+      "match": "bigfatWow",
+      "image_id": 75404
+    },
+    {
+      "match": "bigfatWeeb",
+      "image_id": 97182
+    },
+    {
+      "match": "bigfatKO3",
+      "image_id": 97183
+    },
+    {
+      "match": "bigfatKO2",
+      "image_id": 97184
+    },
+    {
+      "match": "bigfatKO1",
+      "image_id": 97185
+    },
+    {
+      "match": "bigfatGood",
+      "image_id": 97253
+    },
+    {
+      "match": "bigfatGiggle",
+      "image_id": 97201
+    }
+  ]
+}

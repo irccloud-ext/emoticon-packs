@@ -1,1 +1,39 @@
-{"name":"twitch-sub-scream","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"screamFace","image_id":43748},{"match":"screamBiceps","image_id":90723},{"match":"screamChicken","image_id":90724},{"match":"screamHype","image_id":90728},{"match":"screamHS","image_id":90726},{"match":"screamNo","image_id":90729},{"match":"screamRage","image_id":90730},{"match":"screamVAC","image_id":90731}]}
+{
+  "name": "twitch-sub-scream",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "screamFace",
+      "image_id": 43748
+    },
+    {
+      "match": "screamBiceps",
+      "image_id": 90723
+    },
+    {
+      "match": "screamChicken",
+      "image_id": 90724
+    },
+    {
+      "match": "screamHype",
+      "image_id": 90728
+    },
+    {
+      "match": "screamHS",
+      "image_id": 90726
+    },
+    {
+      "match": "screamNo",
+      "image_id": 90729
+    },
+    {
+      "match": "screamRage",
+      "image_id": 90730
+    },
+    {
+      "match": "screamVAC",
+      "image_id": 90731
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-wizra","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wizraGasm","image_id":101551},{"match":"wizraValue","image_id":101647},{"match":"wizraWave","image_id":101646},{"match":"wizraChill","image_id":101407},{"match":"wizraHype","image_id":101408},{"match":"wizraVibes","image_id":101409},{"match":"wizraWhy","image_id":101411},{"match":"wizraW","image_id":101367}]}
+{
+  "name": "twitch-sub-wizra",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wizraGasm",
+      "image_id": 101551
+    },
+    {
+      "match": "wizraValue",
+      "image_id": 101647
+    },
+    {
+      "match": "wizraWave",
+      "image_id": 101646
+    },
+    {
+      "match": "wizraChill",
+      "image_id": 101407
+    },
+    {
+      "match": "wizraHype",
+      "image_id": 101408
+    },
+    {
+      "match": "wizraVibes",
+      "image_id": 101409
+    },
+    {
+      "match": "wizraWhy",
+      "image_id": 101411
+    },
+    {
+      "match": "wizraW",
+      "image_id": 101367
+    }
+  ]
+}

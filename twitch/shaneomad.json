@@ -1,1 +1,67 @@
-{"name":"twitch-sub-shaneomad","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shaneTrain","image_id":12864},{"match":"shaneCart","image_id":13016},{"match":"shaneHam","image_id":12006},{"match":"shaneWizard","image_id":12448},{"match":"shaneStop","image_id":16190},{"match":"shaneWork","image_id":16396},{"match":"shaneDeal","image_id":20738},{"match":"shaneGive","image_id":20739},{"match":"shaneLove","image_id":20740},{"match":"shaneFarm","image_id":20318},{"match":"shaneHorse","image_id":20420},{"match":"shaneW","image_id":92299},{"match":"shaneThump","image_id":92300},{"match":"shaneGood","image_id":92301},{"match":"shaneFail","image_id":92302}]}
+{
+  "name": "twitch-sub-shaneomad",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shaneTrain",
+      "image_id": 12864
+    },
+    {
+      "match": "shaneCart",
+      "image_id": 13016
+    },
+    {
+      "match": "shaneHam",
+      "image_id": 12006
+    },
+    {
+      "match": "shaneWizard",
+      "image_id": 12448
+    },
+    {
+      "match": "shaneStop",
+      "image_id": 16190
+    },
+    {
+      "match": "shaneWork",
+      "image_id": 16396
+    },
+    {
+      "match": "shaneDeal",
+      "image_id": 20738
+    },
+    {
+      "match": "shaneGive",
+      "image_id": 20739
+    },
+    {
+      "match": "shaneLove",
+      "image_id": 20740
+    },
+    {
+      "match": "shaneFarm",
+      "image_id": 20318
+    },
+    {
+      "match": "shaneHorse",
+      "image_id": 20420
+    },
+    {
+      "match": "shaneW",
+      "image_id": 92299
+    },
+    {
+      "match": "shaneThump",
+      "image_id": 92300
+    },
+    {
+      "match": "shaneGood",
+      "image_id": 92301
+    },
+    {
+      "match": "shaneFail",
+      "image_id": 92302
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-fazelinkzy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"linkzyHYPE","image_id":62263},{"match":"linkzySqueakyChair","image_id":62262},{"match":"linkzyTherewego","image_id":54562},{"match":"linkzyImagine","image_id":54560},{"match":"linkzyBoatbang","image_id":54559},{"match":"linkzyLuck","image_id":54698}]}
+{
+  "name": "twitch-sub-fazelinkzy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "linkzyHYPE",
+      "image_id": 62263
+    },
+    {
+      "match": "linkzySqueakyChair",
+      "image_id": 62262
+    },
+    {
+      "match": "linkzyTherewego",
+      "image_id": 54562
+    },
+    {
+      "match": "linkzyImagine",
+      "image_id": 54560
+    },
+    {
+      "match": "linkzyBoatbang",
+      "image_id": 54559
+    },
+    {
+      "match": "linkzyLuck",
+      "image_id": 54698
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-falballa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ballaDown","image_id":88383},{"match":"ballaRip","image_id":88381},{"match":"ballaRage","image_id":88382},{"match":"ballaDance","image_id":87401},{"match":"ballaUp","image_id":87403},{"match":"ballaLove","image_id":87399},{"match":"ballaBla","image_id":111519},{"match":"ballaCheer","image_id":111520}]}
+{
+  "name": "twitch-sub-falballa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ballaDown",
+      "image_id": 88383
+    },
+    {
+      "match": "ballaRip",
+      "image_id": 88381
+    },
+    {
+      "match": "ballaRage",
+      "image_id": 88382
+    },
+    {
+      "match": "ballaDance",
+      "image_id": 87401
+    },
+    {
+      "match": "ballaUp",
+      "image_id": 87403
+    },
+    {
+      "match": "ballaLove",
+      "image_id": 87399
+    },
+    {
+      "match": "ballaBla",
+      "image_id": 111519
+    },
+    {
+      "match": "ballaCheer",
+      "image_id": 111520
+    }
+  ]
+}

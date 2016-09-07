@@ -1,1 +1,39 @@
-{"name":"twitch-sub-weghuz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wegH","image_id":105500},{"match":"wegChamp","image_id":107373},{"match":"wegL","image_id":105499},{"match":"wegMet","image_id":107374},{"match":"wegP","image_id":105621},{"match":"wegPride","image_id":106315},{"match":"wegM","image_id":105630},{"match":"wegT","image_id":105707}]}
+{
+  "name": "twitch-sub-weghuz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wegH",
+      "image_id": 105500
+    },
+    {
+      "match": "wegChamp",
+      "image_id": 107373
+    },
+    {
+      "match": "wegL",
+      "image_id": 105499
+    },
+    {
+      "match": "wegMet",
+      "image_id": 107374
+    },
+    {
+      "match": "wegP",
+      "image_id": 105621
+    },
+    {
+      "match": "wegPride",
+      "image_id": 106315
+    },
+    {
+      "match": "wegM",
+      "image_id": 105630
+    },
+    {
+      "match": "wegT",
+      "image_id": 105707
+    }
+  ]
+}

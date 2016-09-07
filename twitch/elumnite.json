@@ -1,1 +1,31 @@
-{"name":"twitch-sub-elumnite","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"elumHype","image_id":33670},{"match":"elumRaid","image_id":32600},{"match":"elumChill","image_id":34826},{"match":"elumKawaii","image_id":34852},{"match":"elumFro","image_id":54239},{"match":"elumEnvy","image_id":99357}]}
+{
+  "name": "twitch-sub-elumnite",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "elumHype",
+      "image_id": 33670
+    },
+    {
+      "match": "elumRaid",
+      "image_id": 32600
+    },
+    {
+      "match": "elumChill",
+      "image_id": 34826
+    },
+    {
+      "match": "elumKawaii",
+      "image_id": 34852
+    },
+    {
+      "match": "elumFro",
+      "image_id": 54239
+    },
+    {
+      "match": "elumEnvy",
+      "image_id": 99357
+    }
+  ]
+}

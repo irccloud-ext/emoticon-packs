@@ -1,1 +1,31 @@
-{"name":"twitch-sub-italiand0g","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"d0gsaltSucco","image_id":91480},{"match":"d0gsaltMaiale","image_id":76867},{"match":"d0gsaltFace","image_id":74047},{"match":"d0gsaltCaffe","image_id":91352},{"match":"d0gsaltPitagora","image_id":91355},{"match":"d0gsaltComandare","image_id":91356}]}
+{
+  "name": "twitch-sub-italiand0g",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "d0gsaltSucco",
+      "image_id": 91480
+    },
+    {
+      "match": "d0gsaltMaiale",
+      "image_id": 76867
+    },
+    {
+      "match": "d0gsaltFace",
+      "image_id": 74047
+    },
+    {
+      "match": "d0gsaltCaffe",
+      "image_id": 91352
+    },
+    {
+      "match": "d0gsaltPitagora",
+      "image_id": 91355
+    },
+    {
+      "match": "d0gsaltComandare",
+      "image_id": 91356
+    }
+  ]
+}

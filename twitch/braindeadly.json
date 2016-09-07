@@ -1,1 +1,27 @@
-{"name":"twitch-sub-braindeadly","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bendeadlyScatah","image_id":8041},{"match":"bendeadlyHeyguys","image_id":7984},{"match":"bendeadlySaffie","image_id":8190},{"match":"bendeadlyJIMOS","image_id":8280},{"match":"bendeadlyBRUV","image_id":8368}]}
+{
+  "name": "twitch-sub-braindeadly",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bendeadlyScatah",
+      "image_id": 8041
+    },
+    {
+      "match": "bendeadlyHeyguys",
+      "image_id": 7984
+    },
+    {
+      "match": "bendeadlySaffie",
+      "image_id": 8190
+    },
+    {
+      "match": "bendeadlyJIMOS",
+      "image_id": 8280
+    },
+    {
+      "match": "bendeadlyBRUV",
+      "image_id": 8368
+    }
+  ]
+}

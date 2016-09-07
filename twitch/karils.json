@@ -1,1 +1,31 @@
-{"name":"twitch-sub-karils","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"karilsStack","image_id":76352},{"match":"karilsAGS","image_id":77809},{"match":"karilsTrain","image_id":62345},{"match":"karilsSplash","image_id":62353},{"match":"karilsChamp","image_id":63211},{"match":"karilsSotd","image_id":63374}]}
+{
+  "name": "twitch-sub-karils",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "karilsStack",
+      "image_id": 76352
+    },
+    {
+      "match": "karilsAGS",
+      "image_id": 77809
+    },
+    {
+      "match": "karilsTrain",
+      "image_id": 62345
+    },
+    {
+      "match": "karilsSplash",
+      "image_id": 62353
+    },
+    {
+      "match": "karilsChamp",
+      "image_id": 63211
+    },
+    {
+      "match": "karilsSotd",
+      "image_id": 63374
+    }
+  ]
+}

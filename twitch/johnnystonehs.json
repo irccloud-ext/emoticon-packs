@@ -1,1 +1,23 @@
-{"name":"twitch-sub-johnnystonehs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jstoneFlow","image_id":94698},{"match":"jstonePriest","image_id":105580},{"match":"jstoneJay","image_id":105581},{"match":"jstoneRage","image_id":108051}]}
+{
+  "name": "twitch-sub-johnnystonehs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jstoneFlow",
+      "image_id": 94698
+    },
+    {
+      "match": "jstonePriest",
+      "image_id": 105580
+    },
+    {
+      "match": "jstoneJay",
+      "image_id": 105581
+    },
+    {
+      "match": "jstoneRage",
+      "image_id": 108051
+    }
+  ]
+}

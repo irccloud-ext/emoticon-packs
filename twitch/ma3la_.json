@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ma3la_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ma3KitRain","image_id":13712},{"match":"ma3CoolTurtle","image_id":65038},{"match":"ma3Lady","image_id":63921},{"match":"ma3Champ","image_id":66450}]}
+{
+  "name": "twitch-sub-ma3la_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ma3KitRain",
+      "image_id": 13712
+    },
+    {
+      "match": "ma3CoolTurtle",
+      "image_id": 65038
+    },
+    {
+      "match": "ma3Lady",
+      "image_id": 63921
+    },
+    {
+      "match": "ma3Champ",
+      "image_id": 66450
+    }
+  ]
+}

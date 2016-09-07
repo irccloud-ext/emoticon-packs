@@ -1,1 +1,47 @@
-{"name":"twitch-sub-sirfoch","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fochClick","image_id":30478},{"match":"fochCandy","image_id":16099},{"match":"fochSalt","image_id":24364},{"match":"fochTen","image_id":30492},{"match":"fochSalty","image_id":52612},{"match":"fochAce","image_id":45313},{"match":"fochCheers","image_id":78341},{"match":"fochEsports","image_id":78338},{"match":"fochPew","image_id":93153},{"match":"fochWat","image_id":103380}]}
+{
+  "name": "twitch-sub-sirfoch",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fochClick",
+      "image_id": 30478
+    },
+    {
+      "match": "fochCandy",
+      "image_id": 16099
+    },
+    {
+      "match": "fochSalt",
+      "image_id": 24364
+    },
+    {
+      "match": "fochTen",
+      "image_id": 30492
+    },
+    {
+      "match": "fochSalty",
+      "image_id": 52612
+    },
+    {
+      "match": "fochAce",
+      "image_id": 45313
+    },
+    {
+      "match": "fochCheers",
+      "image_id": 78341
+    },
+    {
+      "match": "fochEsports",
+      "image_id": 78338
+    },
+    {
+      "match": "fochPew",
+      "image_id": 93153
+    },
+    {
+      "match": "fochWat",
+      "image_id": 103380
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-{"name":"twitch-sub-stevicules","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"stevPaape","image_id":5200},{"match":"stevStevinho","image_id":5139},{"match":"stevPepe","image_id":18361},{"match":"stevQueen","image_id":31083},{"match":"stevFigo","image_id":33536}]}
+{
+  "name": "twitch-sub-stevicules",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "stevPaape",
+      "image_id": 5200
+    },
+    {
+      "match": "stevStevinho",
+      "image_id": 5139
+    },
+    {
+      "match": "stevPepe",
+      "image_id": 18361
+    },
+    {
+      "match": "stevQueen",
+      "image_id": 31083
+    },
+    {
+      "match": "stevFigo",
+      "image_id": 33536
+    }
+  ]
+}

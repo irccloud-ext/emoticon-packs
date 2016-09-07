@@ -1,1 +1,15 @@
-{"name":"twitch-sub-gl_lelay","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"monolelayLelay","image_id":68243},{"match":"monolelayKappa","image_id":68583}]}
+{
+  "name": "twitch-sub-gl_lelay",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "monolelayLelay",
+      "image_id": 68243
+    },
+    {
+      "match": "monolelayKappa",
+      "image_id": 68583
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-twingamingtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"twinsSub","image_id":101248},{"match":"twinsL","image_id":110459},{"match":"twinsCaveBob","image_id":101100},{"match":"twinsDab","image_id":98840},{"match":"twinsGG","image_id":98922},{"match":"twinsLove","image_id":110318}]}
+{
+  "name": "twitch-sub-twingamingtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "twinsSub",
+      "image_id": 101248
+    },
+    {
+      "match": "twinsL",
+      "image_id": 110459
+    },
+    {
+      "match": "twinsCaveBob",
+      "image_id": 101100
+    },
+    {
+      "match": "twinsDab",
+      "image_id": 98840
+    },
+    {
+      "match": "twinsGG",
+      "image_id": 98922
+    },
+    {
+      "match": "twinsLove",
+      "image_id": 110318
+    }
+  ]
+}

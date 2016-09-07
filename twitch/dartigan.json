@@ -1,1 +1,23 @@
-{"name":"twitch-sub-dartigan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dartiganDING","image_id":67898},{"match":"dartiganStarwipe","image_id":71389},{"match":"dartiganYouFool","image_id":88114},{"match":"dartiganLedgePainter","image_id":97981}]}
+{
+  "name": "twitch-sub-dartigan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dartiganDING",
+      "image_id": 67898
+    },
+    {
+      "match": "dartiganStarwipe",
+      "image_id": 71389
+    },
+    {
+      "match": "dartiganYouFool",
+      "image_id": 88114
+    },
+    {
+      "match": "dartiganLedgePainter",
+      "image_id": 97981
+    }
+  ]
+}

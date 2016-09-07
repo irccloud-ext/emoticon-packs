@@ -1,1 +1,67 @@
-{"name":"twitch-sub-dethridgecraft","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dethPew","image_id":100625},{"match":"dethBarry","image_id":77986},{"match":"dethBooty","image_id":104478},{"match":"dethBan","image_id":100624},{"match":"dethSword","image_id":100623},{"match":"dethCheers","image_id":87312},{"match":"dethLove","image_id":83163},{"match":"dethSaxy","image_id":86967},{"match":"dethLil","image_id":98069},{"match":"dethHam","image_id":98025},{"match":"dethGold","image_id":100631},{"match":"dethRage","image_id":100626},{"match":"dethCoffee","image_id":104052},{"match":"dethGasm","image_id":100620},{"match":"dethFeels","image_id":100621}]}
+{
+  "name": "twitch-sub-dethridgecraft",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dethPew",
+      "image_id": 100625
+    },
+    {
+      "match": "dethBarry",
+      "image_id": 77986
+    },
+    {
+      "match": "dethBooty",
+      "image_id": 104478
+    },
+    {
+      "match": "dethBan",
+      "image_id": 100624
+    },
+    {
+      "match": "dethSword",
+      "image_id": 100623
+    },
+    {
+      "match": "dethCheers",
+      "image_id": 87312
+    },
+    {
+      "match": "dethLove",
+      "image_id": 83163
+    },
+    {
+      "match": "dethSaxy",
+      "image_id": 86967
+    },
+    {
+      "match": "dethLil",
+      "image_id": 98069
+    },
+    {
+      "match": "dethHam",
+      "image_id": 98025
+    },
+    {
+      "match": "dethGold",
+      "image_id": 100631
+    },
+    {
+      "match": "dethRage",
+      "image_id": 100626
+    },
+    {
+      "match": "dethCoffee",
+      "image_id": 104052
+    },
+    {
+      "match": "dethGasm",
+      "image_id": 100620
+    },
+    {
+      "match": "dethFeels",
+      "image_id": 100621
+    }
+  ]
+}

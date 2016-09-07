@@ -1,1 +1,19 @@
-{"name":"twitch-sub-lcshu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lcshuKex","image_id":66810},{"match":"lcshuJajj","image_id":57459},{"match":"lcshuKAPA","image_id":85771}]}
+{
+  "name": "twitch-sub-lcshu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lcshuKex",
+      "image_id": 66810
+    },
+    {
+      "match": "lcshuJajj",
+      "image_id": 57459
+    },
+    {
+      "match": "lcshuKAPA",
+      "image_id": 85771
+    }
+  ]
+}

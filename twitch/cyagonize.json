@@ -1,1 +1,23 @@
-{"name":"twitch-sub-cyagonize","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cyagoJsmeNevideli","image_id":101339},{"match":"cyagoPogCya","image_id":101337},{"match":"cyagoLinda","image_id":97401},{"match":"cyagoPivko","image_id":99280}]}
+{
+  "name": "twitch-sub-cyagonize",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cyagoJsmeNevideli",
+      "image_id": 101339
+    },
+    {
+      "match": "cyagoPogCya",
+      "image_id": 101337
+    },
+    {
+      "match": "cyagoLinda",
+      "image_id": 97401
+    },
+    {
+      "match": "cyagoPivko",
+      "image_id": 99280
+    }
+  ]
+}

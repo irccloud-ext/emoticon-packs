@@ -1,1 +1,47 @@
-{"name":"twitch-sub-rushhoursmash","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rhsFalsigi","image_id":40670},{"match":"rhsKeitaro","image_id":44858},{"match":"rhsHype","image_id":47307},{"match":"rhsRekt","image_id":47310},{"match":"rhsHuhey","image_id":60720},{"match":"rhsSwooce","image_id":59446},{"match":"rhsEsports","image_id":60712},{"match":"rhsSaltyfalse","image_id":58773},{"match":"rhsKawaii","image_id":58792},{"match":"rhsExposed","image_id":58870}]}
+{
+  "name": "twitch-sub-rushhoursmash",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rhsFalsigi",
+      "image_id": 40670
+    },
+    {
+      "match": "rhsKeitaro",
+      "image_id": 44858
+    },
+    {
+      "match": "rhsHype",
+      "image_id": 47307
+    },
+    {
+      "match": "rhsRekt",
+      "image_id": 47310
+    },
+    {
+      "match": "rhsHuhey",
+      "image_id": 60720
+    },
+    {
+      "match": "rhsSwooce",
+      "image_id": 59446
+    },
+    {
+      "match": "rhsEsports",
+      "image_id": 60712
+    },
+    {
+      "match": "rhsSaltyfalse",
+      "image_id": 58773
+    },
+    {
+      "match": "rhsKawaii",
+      "image_id": 58792
+    },
+    {
+      "match": "rhsExposed",
+      "image_id": 58870
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-pipepunklive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"paipShi","image_id":103150},{"match":"paipPool","image_id":111305}]}
+{
+  "name": "twitch-sub-pipepunklive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "paipShi",
+      "image_id": 103150
+    },
+    {
+      "match": "paipPool",
+      "image_id": 111305
+    }
+  ]
+}

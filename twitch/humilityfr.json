@@ -1,1 +1,39 @@
-{"name":"twitch-sub-humilityfr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"humiFace","image_id":44119},{"match":"humiFluffy","image_id":44123},{"match":"humiRush","image_id":61754},{"match":"humiCrit","image_id":62304},{"match":"humiIop","image_id":78501},{"match":"humiOMG","image_id":78356},{"match":"humiWhat","image_id":81835},{"match":"humiSub","image_id":81828}]}
+{
+  "name": "twitch-sub-humilityfr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "humiFace",
+      "image_id": 44119
+    },
+    {
+      "match": "humiFluffy",
+      "image_id": 44123
+    },
+    {
+      "match": "humiRush",
+      "image_id": 61754
+    },
+    {
+      "match": "humiCrit",
+      "image_id": 62304
+    },
+    {
+      "match": "humiIop",
+      "image_id": 78501
+    },
+    {
+      "match": "humiOMG",
+      "image_id": 78356
+    },
+    {
+      "match": "humiWhat",
+      "image_id": 81835
+    },
+    {
+      "match": "humiSub",
+      "image_id": 81828
+    }
+  ]
+}

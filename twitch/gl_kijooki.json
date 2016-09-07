@@ -1,1 +1,15 @@
-{"name":"twitch-sub-gl_kijooki","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kijCrash","image_id":75609},{"match":"kijBonnet","image_id":92584}]}
+{
+  "name": "twitch-sub-gl_kijooki",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kijCrash",
+      "image_id": 75609
+    },
+    {
+      "match": "kijBonnet",
+      "image_id": 92584
+    }
+  ]
+}

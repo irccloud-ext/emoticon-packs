@@ -1,1 +1,47 @@
-{"name":"twitch-sub-phantomsfx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sfxFIGHT","image_id":65861},{"match":"sfxGASM","image_id":64893},{"match":"sfxYO","image_id":57877},{"match":"sfxTUNE","image_id":40001},{"match":"sfxTNS","image_id":39994},{"match":"sfxREKT","image_id":59825},{"match":"sfxSHOTS","image_id":64888},{"match":"sfxFEELS","image_id":104268},{"match":"sfxLOVE","image_id":104269},{"match":"sfxRAGE","image_id":104270}]}
+{
+  "name": "twitch-sub-phantomsfx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sfxFIGHT",
+      "image_id": 65861
+    },
+    {
+      "match": "sfxGASM",
+      "image_id": 64893
+    },
+    {
+      "match": "sfxYO",
+      "image_id": 57877
+    },
+    {
+      "match": "sfxTUNE",
+      "image_id": 40001
+    },
+    {
+      "match": "sfxTNS",
+      "image_id": 39994
+    },
+    {
+      "match": "sfxREKT",
+      "image_id": 59825
+    },
+    {
+      "match": "sfxSHOTS",
+      "image_id": 64888
+    },
+    {
+      "match": "sfxFEELS",
+      "image_id": 104268
+    },
+    {
+      "match": "sfxLOVE",
+      "image_id": 104269
+    },
+    {
+      "match": "sfxRAGE",
+      "image_id": 104270
+    }
+  ]
+}

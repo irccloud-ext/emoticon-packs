@@ -1,1 +1,87 @@
-{"name":"twitch-sub-timmac","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"timmacF","image_id":23471},{"match":"timmacP","image_id":22308},{"match":"timmacT","image_id":22441},{"match":"timmacRIP","image_id":28882},{"match":"timmacB","image_id":31882},{"match":"timmacH","image_id":35663},{"match":"timmacWE","image_id":36375},{"match":"timmacC","image_id":39156},{"match":"timmacHYPE","image_id":40384},{"match":"timmacCRY","image_id":45755},{"match":"timmacOMG","image_id":45372},{"match":"timmacD","image_id":61113},{"match":"timmacTEN","image_id":64387},{"match":"timmacK","image_id":71655},{"match":"timmacCRINGE","image_id":70656},{"match":"timmacBLIND","image_id":70039},{"match":"timmacLUL","image_id":104047},{"match":"timmacTU","image_id":104777},{"match":"timmacHI","image_id":91399},{"match":"timmacFeels","image_id":109925}]}
+{
+  "name": "twitch-sub-timmac",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "timmacF",
+      "image_id": 23471
+    },
+    {
+      "match": "timmacP",
+      "image_id": 22308
+    },
+    {
+      "match": "timmacT",
+      "image_id": 22441
+    },
+    {
+      "match": "timmacRIP",
+      "image_id": 28882
+    },
+    {
+      "match": "timmacB",
+      "image_id": 31882
+    },
+    {
+      "match": "timmacH",
+      "image_id": 35663
+    },
+    {
+      "match": "timmacWE",
+      "image_id": 36375
+    },
+    {
+      "match": "timmacC",
+      "image_id": 39156
+    },
+    {
+      "match": "timmacHYPE",
+      "image_id": 40384
+    },
+    {
+      "match": "timmacCRY",
+      "image_id": 45755
+    },
+    {
+      "match": "timmacOMG",
+      "image_id": 45372
+    },
+    {
+      "match": "timmacD",
+      "image_id": 61113
+    },
+    {
+      "match": "timmacTEN",
+      "image_id": 64387
+    },
+    {
+      "match": "timmacK",
+      "image_id": 71655
+    },
+    {
+      "match": "timmacCRINGE",
+      "image_id": 70656
+    },
+    {
+      "match": "timmacBLIND",
+      "image_id": 70039
+    },
+    {
+      "match": "timmacLUL",
+      "image_id": 104047
+    },
+    {
+      "match": "timmacTU",
+      "image_id": 104777
+    },
+    {
+      "match": "timmacHI",
+      "image_id": 91399
+    },
+    {
+      "match": "timmacFeels",
+      "image_id": 109925
+    }
+  ]
+}

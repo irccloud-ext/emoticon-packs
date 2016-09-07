@@ -1,1 +1,23 @@
-{"name":"twitch-sub-chezz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chezzWedge","image_id":4210},{"match":"chezzCat","image_id":4212},{"match":"chezzHeli","image_id":4891},{"match":"chezzOs","image_id":4892}]}
+{
+  "name": "twitch-sub-chezz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chezzWedge",
+      "image_id": 4210
+    },
+    {
+      "match": "chezzCat",
+      "image_id": 4212
+    },
+    {
+      "match": "chezzHeli",
+      "image_id": 4891
+    },
+    {
+      "match": "chezzOs",
+      "image_id": 4892
+    }
+  ]
+}

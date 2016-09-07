@@ -1,1 +1,15 @@
-{"name":"twitch-sub-makcumka_goodoq","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"makcHit","image_id":106813},{"match":"makcWow","image_id":106924}]}
+{
+  "name": "twitch-sub-makcumka_goodoq",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "makcHit",
+      "image_id": 106813
+    },
+    {
+      "match": "makcWow",
+      "image_id": 106924
+    }
+  ]
+}

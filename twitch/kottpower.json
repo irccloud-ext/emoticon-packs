@@ -1,1 +1,39 @@
-{"name":"twitch-sub-kottpower","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kottShicken","image_id":11690},{"match":"kottKatt","image_id":10163},{"match":"kottFlame","image_id":9710},{"match":"kottGrill","image_id":10192},{"match":"kottBud","image_id":11634},{"match":"kottWink","image_id":35170},{"match":"kottToon","image_id":94736},{"match":"kottDeer","image_id":94734}]}
+{
+  "name": "twitch-sub-kottpower",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kottShicken",
+      "image_id": 11690
+    },
+    {
+      "match": "kottKatt",
+      "image_id": 10163
+    },
+    {
+      "match": "kottFlame",
+      "image_id": 9710
+    },
+    {
+      "match": "kottGrill",
+      "image_id": 10192
+    },
+    {
+      "match": "kottBud",
+      "image_id": 11634
+    },
+    {
+      "match": "kottWink",
+      "image_id": 35170
+    },
+    {
+      "match": "kottToon",
+      "image_id": 94736
+    },
+    {
+      "match": "kottDeer",
+      "image_id": 94734
+    }
+  ]
+}

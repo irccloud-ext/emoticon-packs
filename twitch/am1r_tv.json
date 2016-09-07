@@ -1,1 +1,31 @@
-{"name":"twitch-sub-am1r_tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"amirLol","image_id":7236},{"match":"amirDisaster","image_id":7583},{"match":"amirDoge","image_id":8621},{"match":"amirRage","image_id":8273},{"match":"amirFan","image_id":26204},{"match":"amirBlind","image_id":27980}]}
+{
+  "name": "twitch-sub-am1r_tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "amirLol",
+      "image_id": 7236
+    },
+    {
+      "match": "amirDisaster",
+      "image_id": 7583
+    },
+    {
+      "match": "amirDoge",
+      "image_id": 8621
+    },
+    {
+      "match": "amirRage",
+      "image_id": 8273
+    },
+    {
+      "match": "amirFan",
+      "image_id": 26204
+    },
+    {
+      "match": "amirBlind",
+      "image_id": 27980
+    }
+  ]
+}

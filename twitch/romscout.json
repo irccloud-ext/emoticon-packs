@@ -1,1 +1,23 @@
-{"name":"twitch-sub-romscout","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"romAirSlash","image_id":1384},{"match":"romEnFuego","image_id":1385},{"match":"romJuesePlay","image_id":1402},{"match":"romTacoBelmont","image_id":1687}]}
+{
+  "name": "twitch-sub-romscout",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "romAirSlash",
+      "image_id": 1384
+    },
+    {
+      "match": "romEnFuego",
+      "image_id": 1385
+    },
+    {
+      "match": "romJuesePlay",
+      "image_id": 1402
+    },
+    {
+      "match": "romTacoBelmont",
+      "image_id": 1687
+    }
+  ]
+}

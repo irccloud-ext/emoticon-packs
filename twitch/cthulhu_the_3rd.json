@@ -1,1 +1,23 @@
-{"name":"twitch-sub-cthulhu_the_3rd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cthBAD","image_id":12038},{"match":"cthLeft","image_id":1360},{"match":"cthRight","image_id":1361},{"match":"cthRaid","image_id":1363}]}
+{
+  "name": "twitch-sub-cthulhu_the_3rd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cthBAD",
+      "image_id": 12038
+    },
+    {
+      "match": "cthLeft",
+      "image_id": 1360
+    },
+    {
+      "match": "cthRight",
+      "image_id": 1361
+    },
+    {
+      "match": "cthRaid",
+      "image_id": 1363
+    }
+  ]
+}

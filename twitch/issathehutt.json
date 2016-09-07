@@ -1,1 +1,31 @@
-{"name":"twitch-sub-issathehutt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"issaRiki","image_id":73581},{"match":"issaHype","image_id":73035},{"match":"issaNinja","image_id":71670},{"match":"issaGasm","image_id":73036},{"match":"issaFeels","image_id":74832},{"match":"issaLove","image_id":75226}]}
+{
+  "name": "twitch-sub-issathehutt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "issaRiki",
+      "image_id": 73581
+    },
+    {
+      "match": "issaHype",
+      "image_id": 73035
+    },
+    {
+      "match": "issaNinja",
+      "image_id": 71670
+    },
+    {
+      "match": "issaGasm",
+      "image_id": 73036
+    },
+    {
+      "match": "issaFeels",
+      "image_id": 74832
+    },
+    {
+      "match": "issaLove",
+      "image_id": 75226
+    }
+  ]
+}

@@ -1,1 +1,87 @@
-{"name":"twitch-sub-calebhart42","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"calebFIX","image_id":90945},{"match":"calebJug","image_id":90946},{"match":"calebPB","image_id":90947},{"match":"calebREK","image_id":90948},{"match":"calebRNG","image_id":90949},{"match":"calebFlexL","image_id":35935},{"match":"calebFlexR","image_id":35936},{"match":"calebRESET","image_id":46895},{"match":"calebBOP","image_id":74641},{"match":"calebFREE","image_id":75461},{"match":"caleb4Head","image_id":109581},{"match":"calebRage","image_id":108150},{"match":"calebKappa","image_id":108149},{"match":"calebHart","image_id":108136},{"match":"calebIRIS","image_id":104364},{"match":"calebCORE","image_id":109789},{"match":"calebCHOKE","image_id":110310},{"match":"calebTHEBEAST","image_id":109931},{"match":"calebSUB","image_id":109382},{"match":"calebDuck","image_id":109381}]}
+{
+  "name": "twitch-sub-calebhart42",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "calebFIX",
+      "image_id": 90945
+    },
+    {
+      "match": "calebJug",
+      "image_id": 90946
+    },
+    {
+      "match": "calebPB",
+      "image_id": 90947
+    },
+    {
+      "match": "calebREK",
+      "image_id": 90948
+    },
+    {
+      "match": "calebRNG",
+      "image_id": 90949
+    },
+    {
+      "match": "calebFlexL",
+      "image_id": 35935
+    },
+    {
+      "match": "calebFlexR",
+      "image_id": 35936
+    },
+    {
+      "match": "calebRESET",
+      "image_id": 46895
+    },
+    {
+      "match": "calebBOP",
+      "image_id": 74641
+    },
+    {
+      "match": "calebFREE",
+      "image_id": 75461
+    },
+    {
+      "match": "caleb4Head",
+      "image_id": 109581
+    },
+    {
+      "match": "calebRage",
+      "image_id": 108150
+    },
+    {
+      "match": "calebKappa",
+      "image_id": 108149
+    },
+    {
+      "match": "calebHart",
+      "image_id": 108136
+    },
+    {
+      "match": "calebIRIS",
+      "image_id": 104364
+    },
+    {
+      "match": "calebCORE",
+      "image_id": 109789
+    },
+    {
+      "match": "calebCHOKE",
+      "image_id": 110310
+    },
+    {
+      "match": "calebTHEBEAST",
+      "image_id": 109931
+    },
+    {
+      "match": "calebSUB",
+      "image_id": 109382
+    },
+    {
+      "match": "calebDuck",
+      "image_id": 109381
+    }
+  ]
+}

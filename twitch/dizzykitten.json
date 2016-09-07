@@ -1,1 +1,87 @@
-{"name":"twitch-sub-dizzykitten","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dizzyDolphin","image_id":5590},{"match":"dizzyPls","image_id":23783},{"match":"dizzyCool","image_id":26171},{"match":"dizzyAwk","image_id":27630},{"match":"dizzyCrab","image_id":55549},{"match":"dizzyCry","image_id":55550},{"match":"dizzyGasm","image_id":55551},{"match":"dizzyH","image_id":55552},{"match":"dizzySeal","image_id":55553},{"match":"dizzyTen","image_id":59286},{"match":"dizzyPalm","image_id":59287},{"match":"dizzyPout","image_id":59288},{"match":"dizzyHey","image_id":59290},{"match":"dizzyRen","image_id":59388},{"match":"dizzyPotato","image_id":59383},{"match":"dizzyOmg","image_id":59390},{"match":"dizzyPika","image_id":60444},{"match":"dizzySenpai","image_id":59384},{"match":"dizzyLewd","image_id":59386},{"match":"dizzyW","image_id":64796}]}
+{
+  "name": "twitch-sub-dizzykitten",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dizzyDolphin",
+      "image_id": 5590
+    },
+    {
+      "match": "dizzyPls",
+      "image_id": 23783
+    },
+    {
+      "match": "dizzyCool",
+      "image_id": 26171
+    },
+    {
+      "match": "dizzyAwk",
+      "image_id": 27630
+    },
+    {
+      "match": "dizzyCrab",
+      "image_id": 55549
+    },
+    {
+      "match": "dizzyCry",
+      "image_id": 55550
+    },
+    {
+      "match": "dizzyGasm",
+      "image_id": 55551
+    },
+    {
+      "match": "dizzyH",
+      "image_id": 55552
+    },
+    {
+      "match": "dizzySeal",
+      "image_id": 55553
+    },
+    {
+      "match": "dizzyTen",
+      "image_id": 59286
+    },
+    {
+      "match": "dizzyPalm",
+      "image_id": 59287
+    },
+    {
+      "match": "dizzyPout",
+      "image_id": 59288
+    },
+    {
+      "match": "dizzyHey",
+      "image_id": 59290
+    },
+    {
+      "match": "dizzyRen",
+      "image_id": 59388
+    },
+    {
+      "match": "dizzyPotato",
+      "image_id": 59383
+    },
+    {
+      "match": "dizzyOmg",
+      "image_id": 59390
+    },
+    {
+      "match": "dizzyPika",
+      "image_id": 60444
+    },
+    {
+      "match": "dizzySenpai",
+      "image_id": 59384
+    },
+    {
+      "match": "dizzyLewd",
+      "image_id": 59386
+    },
+    {
+      "match": "dizzyW",
+      "image_id": 64796
+    }
+  ]
+}

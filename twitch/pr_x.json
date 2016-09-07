@@ -1,1 +1,23 @@
-{"name":"twitch-sub-pr_x","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"itsprHYPE","image_id":95108},{"match":"itsprDERP","image_id":47946},{"match":"itsprEZ","image_id":51496},{"match":"itsprTRASH","image_id":97732}]}
+{
+  "name": "twitch-sub-pr_x",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "itsprHYPE",
+      "image_id": 95108
+    },
+    {
+      "match": "itsprDERP",
+      "image_id": 47946
+    },
+    {
+      "match": "itsprEZ",
+      "image_id": 51496
+    },
+    {
+      "match": "itsprTRASH",
+      "image_id": 97732
+    }
+  ]
+}

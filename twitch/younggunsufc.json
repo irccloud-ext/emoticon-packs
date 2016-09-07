@@ -1,1 +1,31 @@
-{"name":"twitch-sub-younggunsufc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ygsubYG","image_id":9110},{"match":"ygsubYOUMADBRO","image_id":9126},{"match":"ygsubHAIR","image_id":66878},{"match":"ygsubGOT","image_id":70098},{"match":"ygsubONETAPPED","image_id":53296},{"match":"ygsubTUB","image_id":53288}]}
+{
+  "name": "twitch-sub-younggunsufc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ygsubYG",
+      "image_id": 9110
+    },
+    {
+      "match": "ygsubYOUMADBRO",
+      "image_id": 9126
+    },
+    {
+      "match": "ygsubHAIR",
+      "image_id": 66878
+    },
+    {
+      "match": "ygsubGOT",
+      "image_id": 70098
+    },
+    {
+      "match": "ygsubONETAPPED",
+      "image_id": 53296
+    },
+    {
+      "match": "ygsubTUB",
+      "image_id": 53288
+    }
+  ]
+}

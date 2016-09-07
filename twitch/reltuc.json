@@ -1,1 +1,19 @@
-{"name":"twitch-sub-reltuc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"reltucKillem","image_id":41213},{"match":"reltucBabyptr","image_id":41299},{"match":"reltucDragon1","image_id":44244}]}
+{
+  "name": "twitch-sub-reltuc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "reltucKillem",
+      "image_id": 41213
+    },
+    {
+      "match": "reltucBabyptr",
+      "image_id": 41299
+    },
+    {
+      "match": "reltucDragon1",
+      "image_id": 44244
+    }
+  ]
+}

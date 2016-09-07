@@ -1,1 +1,23 @@
-{"name":"twitch-sub-munclesonkey","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"muncleFace","image_id":27587},{"match":"muncleStaff","image_id":27590},{"match":"muncleDragon","image_id":29971},{"match":"muncleKappa","image_id":29972}]}
+{
+  "name": "twitch-sub-munclesonkey",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "muncleFace",
+      "image_id": 27587
+    },
+    {
+      "match": "muncleStaff",
+      "image_id": 27590
+    },
+    {
+      "match": "muncleDragon",
+      "image_id": 29971
+    },
+    {
+      "match": "muncleKappa",
+      "image_id": 29972
+    }
+  ]
+}

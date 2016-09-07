@@ -1,1 +1,39 @@
-{"name":"twitch-sub-fullgrowngaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fggGG","image_id":21790},{"match":"fggFail","image_id":95219},{"match":"fggZeldo","image_id":22726},{"match":"fggKevin","image_id":27979},{"match":"fggHey","image_id":36403},{"match":"fggPasta","image_id":36497},{"match":"fggExistence","image_id":95602},{"match":"fggCoffee","image_id":104217}]}
+{
+  "name": "twitch-sub-fullgrowngaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fggGG",
+      "image_id": 21790
+    },
+    {
+      "match": "fggFail",
+      "image_id": 95219
+    },
+    {
+      "match": "fggZeldo",
+      "image_id": 22726
+    },
+    {
+      "match": "fggKevin",
+      "image_id": 27979
+    },
+    {
+      "match": "fggHey",
+      "image_id": 36403
+    },
+    {
+      "match": "fggPasta",
+      "image_id": 36497
+    },
+    {
+      "match": "fggExistence",
+      "image_id": 95602
+    },
+    {
+      "match": "fggCoffee",
+      "image_id": 104217
+    }
+  ]
+}

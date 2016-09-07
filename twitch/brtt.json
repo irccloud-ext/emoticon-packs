@@ -1,1 +1,39 @@
-{"name":"twitch-sub-brtt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aloFACEPALM","image_id":104734},{"match":"aloRXILHA","image_id":104740},{"match":"aloRATO","image_id":104739},{"match":"aloQQHOUVE","image_id":104738},{"match":"aloRX","image_id":104737},{"match":"aloPALMAS","image_id":104736},{"match":"aloCAJU","image_id":104735},{"match":"aloXP","image_id":101458}]}
+{
+  "name": "twitch-sub-brtt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aloFACEPALM",
+      "image_id": 104734
+    },
+    {
+      "match": "aloRXILHA",
+      "image_id": 104740
+    },
+    {
+      "match": "aloRATO",
+      "image_id": 104739
+    },
+    {
+      "match": "aloQQHOUVE",
+      "image_id": 104738
+    },
+    {
+      "match": "aloRX",
+      "image_id": 104737
+    },
+    {
+      "match": "aloPALMAS",
+      "image_id": 104736
+    },
+    {
+      "match": "aloCAJU",
+      "image_id": 104735
+    },
+    {
+      "match": "aloXP",
+      "image_id": 101458
+    }
+  ]
+}

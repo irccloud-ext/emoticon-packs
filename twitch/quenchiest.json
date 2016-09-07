@@ -1,1 +1,39 @@
-{"name":"twitch-sub-quenchiest","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"quenchBITE","image_id":4723},{"match":"quenchPICKLE","image_id":5986},{"match":"quenchFAIL","image_id":8197},{"match":"quenchSALT","image_id":13907},{"match":"quenchRAGE","image_id":15030},{"match":"quenchGJ","image_id":15029},{"match":"quenchCART","image_id":25808},{"match":"quenchCAT","image_id":25809}]}
+{
+  "name": "twitch-sub-quenchiest",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "quenchBITE",
+      "image_id": 4723
+    },
+    {
+      "match": "quenchPICKLE",
+      "image_id": 5986
+    },
+    {
+      "match": "quenchFAIL",
+      "image_id": 8197
+    },
+    {
+      "match": "quenchSALT",
+      "image_id": 13907
+    },
+    {
+      "match": "quenchRAGE",
+      "image_id": 15030
+    },
+    {
+      "match": "quenchGJ",
+      "image_id": 15029
+    },
+    {
+      "match": "quenchCART",
+      "image_id": 25808
+    },
+    {
+      "match": "quenchCAT",
+      "image_id": 25809
+    }
+  ]
+}

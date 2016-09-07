@@ -1,1 +1,27 @@
-{"name":"twitch-sub-vespur","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vesMvp","image_id":21062},{"match":"vesSake","image_id":21063},{"match":"vesSenpai","image_id":20370},{"match":"vesKbomb","image_id":20412},{"match":"vesVescutter","image_id":20451}]}
+{
+  "name": "twitch-sub-vespur",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vesMvp",
+      "image_id": 21062
+    },
+    {
+      "match": "vesSake",
+      "image_id": 21063
+    },
+    {
+      "match": "vesSenpai",
+      "image_id": 20370
+    },
+    {
+      "match": "vesKbomb",
+      "image_id": 20412
+    },
+    {
+      "match": "vesVescutter",
+      "image_id": 20451
+    }
+  ]
+}

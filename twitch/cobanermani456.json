@@ -1,1 +1,39 @@
-{"name":"twitch-sub-cobanermani456","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cobiRekt","image_id":23958},{"match":"cobiSonic","image_id":24744},{"match":"cobiKappa","image_id":24451},{"match":"cobiSub","image_id":25400},{"match":"cobiGetout","image_id":31076},{"match":"cobiSkadoosh","image_id":31177},{"match":"cobiPad","image_id":32621},{"match":"cobiSpike","image_id":32620}]}
+{
+  "name": "twitch-sub-cobanermani456",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cobiRekt",
+      "image_id": 23958
+    },
+    {
+      "match": "cobiSonic",
+      "image_id": 24744
+    },
+    {
+      "match": "cobiKappa",
+      "image_id": 24451
+    },
+    {
+      "match": "cobiSub",
+      "image_id": 25400
+    },
+    {
+      "match": "cobiGetout",
+      "image_id": 31076
+    },
+    {
+      "match": "cobiSkadoosh",
+      "image_id": 31177
+    },
+    {
+      "match": "cobiPad",
+      "image_id": 32621
+    },
+    {
+      "match": "cobiSpike",
+      "image_id": 32620
+    }
+  ]
+}

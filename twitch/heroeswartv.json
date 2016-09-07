@@ -1,1 +1,23 @@
-{"name":"twitch-sub-heroeswartv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hwarKappa","image_id":62080},{"match":"hwarThrow","image_id":66264},{"match":"hwarGG","image_id":62044},{"match":"hwarCoins","image_id":67477}]}
+{
+  "name": "twitch-sub-heroeswartv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hwarKappa",
+      "image_id": 62080
+    },
+    {
+      "match": "hwarThrow",
+      "image_id": 66264
+    },
+    {
+      "match": "hwarGG",
+      "image_id": 62044
+    },
+    {
+      "match": "hwarCoins",
+      "image_id": 67477
+    }
+  ]
+}

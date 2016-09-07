@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mobilmobil","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"opcPD","image_id":7598},{"match":"opcBad","image_id":7597},{"match":"opcOP","image_id":8606},{"match":"opcTable","image_id":14481},{"match":"opcGL","image_id":34750},{"match":"opcND","image_id":34749}]}
+{
+  "name": "twitch-sub-mobilmobil",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "opcPD",
+      "image_id": 7598
+    },
+    {
+      "match": "opcBad",
+      "image_id": 7597
+    },
+    {
+      "match": "opcOP",
+      "image_id": 8606
+    },
+    {
+      "match": "opcTable",
+      "image_id": 14481
+    },
+    {
+      "match": "opcGL",
+      "image_id": 34750
+    },
+    {
+      "match": "opcND",
+      "image_id": 34749
+    }
+  ]
+}

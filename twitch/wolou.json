@@ -1,1 +1,31 @@
-{"name":"twitch-sub-wolou","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wolouGasm","image_id":93833},{"match":"wolouRosiGasm","image_id":93729},{"match":"wolouNicoGasm","image_id":93704},{"match":"wolouHey","image_id":94126},{"match":"wolouJelly","image_id":93095},{"match":"wolouZeldaGasm","image_id":93873}]}
+{
+  "name": "twitch-sub-wolou",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wolouGasm",
+      "image_id": 93833
+    },
+    {
+      "match": "wolouRosiGasm",
+      "image_id": 93729
+    },
+    {
+      "match": "wolouNicoGasm",
+      "image_id": 93704
+    },
+    {
+      "match": "wolouHey",
+      "image_id": 94126
+    },
+    {
+      "match": "wolouJelly",
+      "image_id": 93095
+    },
+    {
+      "match": "wolouZeldaGasm",
+      "image_id": 93873
+    }
+  ]
+}

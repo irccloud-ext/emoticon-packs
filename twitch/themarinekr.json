@@ -1,1 +1,15 @@
-{"name":"twitch-sub-themarinekr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"themarineHaha","image_id":96359},{"match":"themarineHBK","image_id":96245}]}
+{
+  "name": "twitch-sub-themarinekr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "themarineHaha",
+      "image_id": 96359
+    },
+    {
+      "match": "themarineHBK",
+      "image_id": 96245
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-coopgameplays","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"coopPINGU","image_id":13498},{"match":"coopGG","image_id":12248},{"match":"coopPosey","image_id":12250},{"match":"coopLOL","image_id":13682}]}
+{
+  "name": "twitch-sub-coopgameplays",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "coopPINGU",
+      "image_id": 13498
+    },
+    {
+      "match": "coopGG",
+      "image_id": 12248
+    },
+    {
+      "match": "coopPosey",
+      "image_id": 12250
+    },
+    {
+      "match": "coopLOL",
+      "image_id": 13682
+    }
+  ]
+}

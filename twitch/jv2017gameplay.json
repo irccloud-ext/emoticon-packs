@@ -1,1 +1,15 @@
-{"name":"twitch-sub-jv2017gameplay","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jvgSYNTH","image_id":79615},{"match":"jvgRIPDT","image_id":81572}]}
+{
+  "name": "twitch-sub-jv2017gameplay",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jvgSYNTH",
+      "image_id": 79615
+    },
+    {
+      "match": "jvgRIPDT",
+      "image_id": 81572
+    }
+  ]
+}

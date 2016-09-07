@@ -1,1 +1,19 @@
-{"name":"twitch-sub-mefju23","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mefjuGong","image_id":109478},{"match":"mefjuDrewno","image_id":109479},{"match":"mefjuNudy","image_id":111326}]}
+{
+  "name": "twitch-sub-mefju23",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mefjuGong",
+      "image_id": 109478
+    },
+    {
+      "match": "mefjuDrewno",
+      "image_id": 109479
+    },
+    {
+      "match": "mefjuNudy",
+      "image_id": 111326
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-coldzin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"coldTio","image_id":28571},{"match":"coldTroll","image_id":28572}]}
+{
+  "name": "twitch-sub-coldzin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "coldTio",
+      "image_id": 28571
+    },
+    {
+      "match": "coldTroll",
+      "image_id": 28572
+    }
+  ]
+}

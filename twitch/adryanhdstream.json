@@ -1,1 +1,19 @@
-{"name":"twitch-sub-adryanhdstream","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"adryanZOLWIK","image_id":33129},{"match":"adryanHARDBASS","image_id":32618},{"match":"adryanGIMBUS","image_id":32712}]}
+{
+  "name": "twitch-sub-adryanhdstream",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "adryanZOLWIK",
+      "image_id": 33129
+    },
+    {
+      "match": "adryanHARDBASS",
+      "image_id": 32618
+    },
+    {
+      "match": "adryanGIMBUS",
+      "image_id": 32712
+    }
+  ]
+}

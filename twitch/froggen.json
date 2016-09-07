@@ -1,1 +1,51 @@
-{"name":"twitch-sub-froggen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"frogniviaFroggenZ","image_id":3571},{"match":"frogniviaWelcome","image_id":34237},{"match":"frogniviaFrog","image_id":28343},{"match":"frogniviaSwag","image_id":28355},{"match":"frogniviaBird","image_id":30596},{"match":"frogniviaCannon","image_id":34372},{"match":"frogniviaHype","image_id":34029},{"match":"frogniviaTP","image_id":34028},{"match":"frogniviaLe","image_id":34102},{"match":"frogniviaDDOS","image_id":34103},{"match":"frogniviaWings","image_id":34689}]}
+{
+  "name": "twitch-sub-froggen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "frogniviaFroggenZ",
+      "image_id": 3571
+    },
+    {
+      "match": "frogniviaWelcome",
+      "image_id": 34237
+    },
+    {
+      "match": "frogniviaFrog",
+      "image_id": 28343
+    },
+    {
+      "match": "frogniviaSwag",
+      "image_id": 28355
+    },
+    {
+      "match": "frogniviaBird",
+      "image_id": 30596
+    },
+    {
+      "match": "frogniviaCannon",
+      "image_id": 34372
+    },
+    {
+      "match": "frogniviaHype",
+      "image_id": 34029
+    },
+    {
+      "match": "frogniviaTP",
+      "image_id": 34028
+    },
+    {
+      "match": "frogniviaLe",
+      "image_id": 34102
+    },
+    {
+      "match": "frogniviaDDOS",
+      "image_id": 34103
+    },
+    {
+      "match": "frogniviaWings",
+      "image_id": 34689
+    }
+  ]
+}

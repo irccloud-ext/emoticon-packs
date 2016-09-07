@@ -1,1 +1,39 @@
-{"name":"twitch-sub-smexxin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"smexEz","image_id":52748},{"match":"smexDunk","image_id":52749},{"match":"smexFunk","image_id":52747},{"match":"smexOld","image_id":84364},{"match":"smexOrc","image_id":83774},{"match":"smexEcute","image_id":82993},{"match":"smexLove","image_id":86292},{"match":"smexRespect","image_id":86300}]}
+{
+  "name": "twitch-sub-smexxin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "smexEz",
+      "image_id": 52748
+    },
+    {
+      "match": "smexDunk",
+      "image_id": 52749
+    },
+    {
+      "match": "smexFunk",
+      "image_id": 52747
+    },
+    {
+      "match": "smexOld",
+      "image_id": 84364
+    },
+    {
+      "match": "smexOrc",
+      "image_id": 83774
+    },
+    {
+      "match": "smexEcute",
+      "image_id": 82993
+    },
+    {
+      "match": "smexLove",
+      "image_id": 86292
+    },
+    {
+      "match": "smexRespect",
+      "image_id": 86300
+    }
+  ]
+}

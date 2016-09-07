@@ -1,1 +1,39 @@
-{"name":"twitch-sub-pony_punch","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pnyDope","image_id":106781},{"match":"pnyWha","image_id":106960},{"match":"pnyWut","image_id":106959},{"match":"pnyNeat","image_id":108158},{"match":"pnyRly","image_id":111118},{"match":"pnyEy","image_id":106963},{"match":"pnyHeart","image_id":106718},{"match":"pnyLord","image_id":106719}]}
+{
+  "name": "twitch-sub-pony_punch",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pnyDope",
+      "image_id": 106781
+    },
+    {
+      "match": "pnyWha",
+      "image_id": 106960
+    },
+    {
+      "match": "pnyWut",
+      "image_id": 106959
+    },
+    {
+      "match": "pnyNeat",
+      "image_id": 108158
+    },
+    {
+      "match": "pnyRly",
+      "image_id": 111118
+    },
+    {
+      "match": "pnyEy",
+      "image_id": 106963
+    },
+    {
+      "match": "pnyHeart",
+      "image_id": 106718
+    },
+    {
+      "match": "pnyLord",
+      "image_id": 106719
+    }
+  ]
+}

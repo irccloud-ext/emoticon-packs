@@ -1,1 +1,87 @@
-{"name":"twitch-sub-lpmassive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lpmSpast","image_id":84870},{"match":"lpmSub","image_id":26645},{"match":"lpmBop","image_id":45866},{"match":"lpmClap","image_id":63188},{"match":"lpmDuck","image_id":63194},{"match":"lpmCry","image_id":63189},{"match":"lpmBaby","image_id":63205},{"match":"lpmMops","image_id":65244},{"match":"lpmLol","image_id":64496},{"match":"lpmSexy","image_id":64505},{"match":"lpmDeal","image_id":84853},{"match":"lpmArmy","image_id":84856},{"match":"lpmAmeno","image_id":84858},{"match":"lpmNotbad","image_id":84859},{"match":"lpmOrgasm","image_id":85017},{"match":"lpmDe","image_id":85020},{"match":"lpmRage","image_id":85018},{"match":"lpmLow","image_id":84866},{"match":"lpmHase","image_id":84864},{"match":"lpmPushen","image_id":85013}]}
+{
+  "name": "twitch-sub-lpmassive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lpmSpast",
+      "image_id": 84870
+    },
+    {
+      "match": "lpmSub",
+      "image_id": 26645
+    },
+    {
+      "match": "lpmBop",
+      "image_id": 45866
+    },
+    {
+      "match": "lpmClap",
+      "image_id": 63188
+    },
+    {
+      "match": "lpmDuck",
+      "image_id": 63194
+    },
+    {
+      "match": "lpmCry",
+      "image_id": 63189
+    },
+    {
+      "match": "lpmBaby",
+      "image_id": 63205
+    },
+    {
+      "match": "lpmMops",
+      "image_id": 65244
+    },
+    {
+      "match": "lpmLol",
+      "image_id": 64496
+    },
+    {
+      "match": "lpmSexy",
+      "image_id": 64505
+    },
+    {
+      "match": "lpmDeal",
+      "image_id": 84853
+    },
+    {
+      "match": "lpmArmy",
+      "image_id": 84856
+    },
+    {
+      "match": "lpmAmeno",
+      "image_id": 84858
+    },
+    {
+      "match": "lpmNotbad",
+      "image_id": 84859
+    },
+    {
+      "match": "lpmOrgasm",
+      "image_id": 85017
+    },
+    {
+      "match": "lpmDe",
+      "image_id": 85020
+    },
+    {
+      "match": "lpmRage",
+      "image_id": 85018
+    },
+    {
+      "match": "lpmLow",
+      "image_id": 84866
+    },
+    {
+      "match": "lpmHase",
+      "image_id": 84864
+    },
+    {
+      "match": "lpmPushen",
+      "image_id": 85013
+    }
+  ]
+}

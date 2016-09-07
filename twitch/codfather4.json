@@ -1,1 +1,23 @@
-{"name":"twitch-sub-codfather4","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"codfatherSquad","image_id":82104},{"match":"codfatherLove","image_id":82103},{"match":"codfatherDnf","image_id":82102},{"match":"codfatherFire","image_id":82101}]}
+{
+  "name": "twitch-sub-codfather4",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "codfatherSquad",
+      "image_id": 82104
+    },
+    {
+      "match": "codfatherLove",
+      "image_id": 82103
+    },
+    {
+      "match": "codfatherDnf",
+      "image_id": 82102
+    },
+    {
+      "match": "codfatherFire",
+      "image_id": 82101
+    }
+  ]
+}

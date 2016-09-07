@@ -1,1 +1,31 @@
-{"name":"twitch-sub-treble","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"trebLewd","image_id":51119},{"match":"trebSanic","image_id":29749},{"match":"trebSkyyHeart","image_id":37307},{"match":"trebTrash","image_id":37313},{"match":"trebBurn","image_id":37830},{"match":"trebZiral","image_id":43938}]}
+{
+  "name": "twitch-sub-treble",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "trebLewd",
+      "image_id": 51119
+    },
+    {
+      "match": "trebSanic",
+      "image_id": 29749
+    },
+    {
+      "match": "trebSkyyHeart",
+      "image_id": 37307
+    },
+    {
+      "match": "trebTrash",
+      "image_id": 37313
+    },
+    {
+      "match": "trebBurn",
+      "image_id": 37830
+    },
+    {
+      "match": "trebZiral",
+      "image_id": 43938
+    }
+  ]
+}

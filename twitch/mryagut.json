@@ -1,1 +1,39 @@
-{"name":"twitch-sub-mryagut","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yagutW","image_id":42124},{"match":"yagutValeera","image_id":43753},{"match":"yagutOrc","image_id":46647},{"match":"yagutMoe","image_id":45062},{"match":"yagutHype","image_id":69505},{"match":"yagutRage","image_id":69503},{"match":"yagutPride","image_id":76737},{"match":"yagutLove","image_id":76738}]}
+{
+  "name": "twitch-sub-mryagut",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yagutW",
+      "image_id": 42124
+    },
+    {
+      "match": "yagutValeera",
+      "image_id": 43753
+    },
+    {
+      "match": "yagutOrc",
+      "image_id": 46647
+    },
+    {
+      "match": "yagutMoe",
+      "image_id": 45062
+    },
+    {
+      "match": "yagutHype",
+      "image_id": 69505
+    },
+    {
+      "match": "yagutRage",
+      "image_id": 69503
+    },
+    {
+      "match": "yagutPride",
+      "image_id": 76737
+    },
+    {
+      "match": "yagutLove",
+      "image_id": 76738
+    }
+  ]
+}

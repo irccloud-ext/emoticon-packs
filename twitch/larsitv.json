@@ -1,1 +1,23 @@
-{"name":"twitch-sub-larsitv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"larsZ","image_id":28753},{"match":"larsSexy","image_id":26071},{"match":"larsNice","image_id":26072},{"match":"larsFliegen","image_id":25951}]}
+{
+  "name": "twitch-sub-larsitv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "larsZ",
+      "image_id": 28753
+    },
+    {
+      "match": "larsSexy",
+      "image_id": 26071
+    },
+    {
+      "match": "larsNice",
+      "image_id": 26072
+    },
+    {
+      "match": "larsFliegen",
+      "image_id": 25951
+    }
+  ]
+}

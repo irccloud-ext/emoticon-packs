@@ -1,1 +1,31 @@
-{"name":"twitch-sub-kuxir97","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kuxPoints","image_id":80066},{"match":"kuxGreatPass","image_id":80065},{"match":"kux3style","image_id":74367},{"match":"kuxNoooo","image_id":74368},{"match":"kuxGlasses","image_id":74369},{"match":"kuxWall","image_id":74370}]}
+{
+  "name": "twitch-sub-kuxir97",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kuxPoints",
+      "image_id": 80066
+    },
+    {
+      "match": "kuxGreatPass",
+      "image_id": 80065
+    },
+    {
+      "match": "kux3style",
+      "image_id": 74367
+    },
+    {
+      "match": "kuxNoooo",
+      "image_id": 74368
+    },
+    {
+      "match": "kuxGlasses",
+      "image_id": 74369
+    },
+    {
+      "match": "kuxWall",
+      "image_id": 74370
+    }
+  ]
+}

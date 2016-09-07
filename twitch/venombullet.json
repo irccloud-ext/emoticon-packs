@@ -1,1 +1,23 @@
-{"name":"twitch-sub-venombullet","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vnmLove","image_id":48759},{"match":"vnmTbag","image_id":48758},{"match":"vnmNuts","image_id":50092},{"match":"vnmSub","image_id":53992}]}
+{
+  "name": "twitch-sub-venombullet",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vnmLove",
+      "image_id": 48759
+    },
+    {
+      "match": "vnmTbag",
+      "image_id": 48758
+    },
+    {
+      "match": "vnmNuts",
+      "image_id": 50092
+    },
+    {
+      "match": "vnmSub",
+      "image_id": 53992
+    }
+  ]
+}

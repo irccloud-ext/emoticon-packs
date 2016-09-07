@@ -1,1 +1,27 @@
-{"name":"twitch-sub-cherishlol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cherishHihi","image_id":18233},{"match":"cherishHappy","image_id":16497},{"match":"cherishBoba","image_id":16493},{"match":"cherishPuppy","image_id":18052},{"match":"cherishLAG","image_id":18053}]}
+{
+  "name": "twitch-sub-cherishlol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cherishHihi",
+      "image_id": 18233
+    },
+    {
+      "match": "cherishHappy",
+      "image_id": 16497
+    },
+    {
+      "match": "cherishBoba",
+      "image_id": 16493
+    },
+    {
+      "match": "cherishPuppy",
+      "image_id": 18052
+    },
+    {
+      "match": "cherishLAG",
+      "image_id": 18053
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-tomyhawktv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"faceWeg","image_id":54160},{"match":"faceHome","image_id":54161}]}
+{
+  "name": "twitch-sub-tomyhawktv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "faceWeg",
+      "image_id": 54160
+    },
+    {
+      "match": "faceHome",
+      "image_id": 54161
+    }
+  ]
+}

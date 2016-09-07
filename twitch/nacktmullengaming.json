@@ -1,1 +1,39 @@
-{"name":"twitch-sub-nacktmullengaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mulleMudz","image_id":23242},{"match":"mulleLove","image_id":23243},{"match":"mulleMoin","image_id":24479},{"match":"mulleMopse","image_id":24480},{"match":"mulleHack","image_id":24481},{"match":"mulleFb","image_id":24482},{"match":"mulleBan","image_id":37063},{"match":"mulleJut","image_id":37386}]}
+{
+  "name": "twitch-sub-nacktmullengaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mulleMudz",
+      "image_id": 23242
+    },
+    {
+      "match": "mulleLove",
+      "image_id": 23243
+    },
+    {
+      "match": "mulleMoin",
+      "image_id": 24479
+    },
+    {
+      "match": "mulleMopse",
+      "image_id": 24480
+    },
+    {
+      "match": "mulleHack",
+      "image_id": 24481
+    },
+    {
+      "match": "mulleFb",
+      "image_id": 24482
+    },
+    {
+      "match": "mulleBan",
+      "image_id": 37063
+    },
+    {
+      "match": "mulleJut",
+      "image_id": 37386
+    }
+  ]
+}

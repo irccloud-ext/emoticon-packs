@@ -1,1 +1,23 @@
-{"name":"twitch-sub-lanfest","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lanfestHype","image_id":28901},{"match":"lanfestLove","image_id":28903},{"match":"lanfestTrain","image_id":28905},{"match":"lanfestChip","image_id":107515}]}
+{
+  "name": "twitch-sub-lanfest",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lanfestHype",
+      "image_id": 28901
+    },
+    {
+      "match": "lanfestLove",
+      "image_id": 28903
+    },
+    {
+      "match": "lanfestTrain",
+      "image_id": 28905
+    },
+    {
+      "match": "lanfestChip",
+      "image_id": 107515
+    }
+  ]
+}

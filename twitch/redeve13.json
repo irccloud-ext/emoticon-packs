@@ -1,1 +1,31 @@
-{"name":"twitch-sub-redeve13","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"redeveSulk","image_id":88952},{"match":"redeveCry","image_id":88944},{"match":"redeveYawn","image_id":85631},{"match":"redeveYeh","image_id":85662},{"match":"redeveHuh","image_id":85806},{"match":"redeveWa","image_id":111540}]}
+{
+  "name": "twitch-sub-redeve13",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "redeveSulk",
+      "image_id": 88952
+    },
+    {
+      "match": "redeveCry",
+      "image_id": 88944
+    },
+    {
+      "match": "redeveYawn",
+      "image_id": 85631
+    },
+    {
+      "match": "redeveYeh",
+      "image_id": 85662
+    },
+    {
+      "match": "redeveHuh",
+      "image_id": 85806
+    },
+    {
+      "match": "redeveWa",
+      "image_id": 111540
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-gaminglive_dota2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"glftvLulunette","image_id":57152},{"match":"glftvLuluHype","image_id":56850},{"match":"glftvJuna","image_id":56827},{"match":"glftvMarsuT","image_id":56672},{"match":"glftvShibaSleeper","image_id":56673},{"match":"glftvYouyouChamp","image_id":56674},{"match":"glftvVojo","image_id":56975},{"match":"glftvHugoBeauf","image_id":56741},{"match":"glftvFail","image_id":61259},{"match":"glftvNul","image_id":63095}]}
+{
+  "name": "twitch-sub-gaminglive_dota2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "glftvLulunette",
+      "image_id": 57152
+    },
+    {
+      "match": "glftvLuluHype",
+      "image_id": 56850
+    },
+    {
+      "match": "glftvJuna",
+      "image_id": 56827
+    },
+    {
+      "match": "glftvMarsuT",
+      "image_id": 56672
+    },
+    {
+      "match": "glftvShibaSleeper",
+      "image_id": 56673
+    },
+    {
+      "match": "glftvYouyouChamp",
+      "image_id": 56674
+    },
+    {
+      "match": "glftvVojo",
+      "image_id": 56975
+    },
+    {
+      "match": "glftvHugoBeauf",
+      "image_id": 56741
+    },
+    {
+      "match": "glftvFail",
+      "image_id": 61259
+    },
+    {
+      "match": "glftvNul",
+      "image_id": 63095
+    }
+  ]
+}

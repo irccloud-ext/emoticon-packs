@@ -1,1 +1,35 @@
-{"name":"twitch-sub-tartaruscast","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tarcDimitri","image_id":78216},{"match":"tarcMarin","image_id":110375},{"match":"tarcTCJ","image_id":75443},{"match":"tarcFanboys","image_id":75445},{"match":"tarcZippo","image_id":77651},{"match":"tarcBIAS","image_id":77657},{"match":"tarcSunny","image_id":78536}]}
+{
+  "name": "twitch-sub-tartaruscast",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tarcDimitri",
+      "image_id": 78216
+    },
+    {
+      "match": "tarcMarin",
+      "image_id": 110375
+    },
+    {
+      "match": "tarcTCJ",
+      "image_id": 75443
+    },
+    {
+      "match": "tarcFanboys",
+      "image_id": 75445
+    },
+    {
+      "match": "tarcZippo",
+      "image_id": 77651
+    },
+    {
+      "match": "tarcBIAS",
+      "image_id": 77657
+    },
+    {
+      "match": "tarcSunny",
+      "image_id": 78536
+    }
+  ]
+}

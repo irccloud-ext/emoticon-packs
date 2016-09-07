@@ -1,1 +1,23 @@
-{"name":"twitch-sub-minim0e_tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"liethBotar2k","image_id":90465},{"match":"liethBike","image_id":95978},{"match":"lieth4websplayside","image_id":94986},{"match":"liethVac","image_id":95979}]}
+{
+  "name": "twitch-sub-minim0e_tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "liethBotar2k",
+      "image_id": 90465
+    },
+    {
+      "match": "liethBike",
+      "image_id": 95978
+    },
+    {
+      "match": "lieth4websplayside",
+      "image_id": 94986
+    },
+    {
+      "match": "liethVac",
+      "image_id": 95979
+    }
+  ]
+}

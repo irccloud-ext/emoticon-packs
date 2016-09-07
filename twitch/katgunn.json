@@ -1,1 +1,47 @@
-{"name":"twitch-sub-katgunn","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"katgunnKG","image_id":21270},{"match":"katgunnMARBLE","image_id":21271},{"match":"katgunnSPAWN","image_id":27440},{"match":"katgunnClam","image_id":31869},{"match":"katgunnRIOT","image_id":90257},{"match":"katgunnTILT","image_id":85644},{"match":"katgunnThirsty","image_id":49231},{"match":"katgunnSavage","image_id":90256},{"match":"katgunnREKT","image_id":92104},{"match":"katgunnGG","image_id":92108}]}
+{
+  "name": "twitch-sub-katgunn",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "katgunnKG",
+      "image_id": 21270
+    },
+    {
+      "match": "katgunnMARBLE",
+      "image_id": 21271
+    },
+    {
+      "match": "katgunnSPAWN",
+      "image_id": 27440
+    },
+    {
+      "match": "katgunnClam",
+      "image_id": 31869
+    },
+    {
+      "match": "katgunnRIOT",
+      "image_id": 90257
+    },
+    {
+      "match": "katgunnTILT",
+      "image_id": 85644
+    },
+    {
+      "match": "katgunnThirsty",
+      "image_id": 49231
+    },
+    {
+      "match": "katgunnSavage",
+      "image_id": 90256
+    },
+    {
+      "match": "katgunnREKT",
+      "image_id": 92104
+    },
+    {
+      "match": "katgunnGG",
+      "image_id": 92108
+    }
+  ]
+}

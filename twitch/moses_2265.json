@@ -1,1 +1,39 @@
-{"name":"twitch-sub-moses_2265","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mosesMute","image_id":8089},{"match":"mosesBro","image_id":8758},{"match":"mosesTroll","image_id":8769},{"match":"mosesRip","image_id":9754},{"match":"mosesHype","image_id":9724},{"match":"mosesTough","image_id":9786},{"match":"mosesL","image_id":12712},{"match":"mosesFr","image_id":24199}]}
+{
+  "name": "twitch-sub-moses_2265",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mosesMute",
+      "image_id": 8089
+    },
+    {
+      "match": "mosesBro",
+      "image_id": 8758
+    },
+    {
+      "match": "mosesTroll",
+      "image_id": 8769
+    },
+    {
+      "match": "mosesRip",
+      "image_id": 9754
+    },
+    {
+      "match": "mosesHype",
+      "image_id": 9724
+    },
+    {
+      "match": "mosesTough",
+      "image_id": 9786
+    },
+    {
+      "match": "mosesL",
+      "image_id": 12712
+    },
+    {
+      "match": "mosesFr",
+      "image_id": 24199
+    }
+  ]
+}

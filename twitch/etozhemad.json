@@ -1,1 +1,87 @@
-{"name":"twitch-sub-etozhemad","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"etmGenius","image_id":100661},{"match":"etmTyanvchate","image_id":102033},{"match":"etmTen","image_id":101799},{"match":"etmBye","image_id":101801},{"match":"etmLol","image_id":101803},{"match":"etmRage","image_id":101805},{"match":"etmYeah","image_id":101807},{"match":"etmMeh","image_id":101808},{"match":"etmSleep","image_id":101810},{"match":"etmSad","image_id":101809},{"match":"etmHello","image_id":101811},{"match":"etmDrisnya","image_id":101812},{"match":"etmRIP","image_id":101813},{"match":"etmLS","image_id":101814},{"match":"etmMLG","image_id":101815},{"match":"etmBeer","image_id":101816},{"match":"etmWTF","image_id":101818},{"match":"etmFacepalm","image_id":101819},{"match":"etmNya","image_id":101820},{"match":"etmHype","image_id":101821}]}
+{
+  "name": "twitch-sub-etozhemad",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "etmGenius",
+      "image_id": 100661
+    },
+    {
+      "match": "etmTyanvchate",
+      "image_id": 102033
+    },
+    {
+      "match": "etmTen",
+      "image_id": 101799
+    },
+    {
+      "match": "etmBye",
+      "image_id": 101801
+    },
+    {
+      "match": "etmLol",
+      "image_id": 101803
+    },
+    {
+      "match": "etmRage",
+      "image_id": 101805
+    },
+    {
+      "match": "etmYeah",
+      "image_id": 101807
+    },
+    {
+      "match": "etmMeh",
+      "image_id": 101808
+    },
+    {
+      "match": "etmSleep",
+      "image_id": 101810
+    },
+    {
+      "match": "etmSad",
+      "image_id": 101809
+    },
+    {
+      "match": "etmHello",
+      "image_id": 101811
+    },
+    {
+      "match": "etmDrisnya",
+      "image_id": 101812
+    },
+    {
+      "match": "etmRIP",
+      "image_id": 101813
+    },
+    {
+      "match": "etmLS",
+      "image_id": 101814
+    },
+    {
+      "match": "etmMLG",
+      "image_id": 101815
+    },
+    {
+      "match": "etmBeer",
+      "image_id": 101816
+    },
+    {
+      "match": "etmWTF",
+      "image_id": 101818
+    },
+    {
+      "match": "etmFacepalm",
+      "image_id": 101819
+    },
+    {
+      "match": "etmNya",
+      "image_id": 101820
+    },
+    {
+      "match": "etmHype",
+      "image_id": 101821
+    }
+  ]
+}

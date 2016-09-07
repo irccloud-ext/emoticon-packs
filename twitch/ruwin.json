@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ruwin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ruwBub","image_id":2048},{"match":"ruwTalk","image_id":9609},{"match":"ruwW","image_id":32079},{"match":"ruwGrill","image_id":32655},{"match":"ruwCREE","image_id":110582},{"match":"ruwGASM","image_id":111144}]}
+{
+  "name": "twitch-sub-ruwin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ruwBub",
+      "image_id": 2048
+    },
+    {
+      "match": "ruwTalk",
+      "image_id": 9609
+    },
+    {
+      "match": "ruwW",
+      "image_id": 32079
+    },
+    {
+      "match": "ruwGrill",
+      "image_id": 32655
+    },
+    {
+      "match": "ruwCREE",
+      "image_id": 110582
+    },
+    {
+      "match": "ruwGASM",
+      "image_id": 111144
+    }
+  ]
+}

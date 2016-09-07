@@ -1,1 +1,47 @@
-{"name":"twitch-sub-shesnaps","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"snapsRIP","image_id":81122},{"match":"snapsBRB","image_id":77143},{"match":"snapsLURK","image_id":77147},{"match":"snapsHEY","image_id":77185},{"match":"snapsHYPE","image_id":77421},{"match":"snapsLOVE","image_id":79017},{"match":"snapsGASM","image_id":81414},{"match":"snapsLOL","image_id":81156},{"match":"snapsPLS","image_id":110912},{"match":"snapsRAGE","image_id":110825}]}
+{
+  "name": "twitch-sub-shesnaps",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "snapsRIP",
+      "image_id": 81122
+    },
+    {
+      "match": "snapsBRB",
+      "image_id": 77143
+    },
+    {
+      "match": "snapsLURK",
+      "image_id": 77147
+    },
+    {
+      "match": "snapsHEY",
+      "image_id": 77185
+    },
+    {
+      "match": "snapsHYPE",
+      "image_id": 77421
+    },
+    {
+      "match": "snapsLOVE",
+      "image_id": 79017
+    },
+    {
+      "match": "snapsGASM",
+      "image_id": 81414
+    },
+    {
+      "match": "snapsLOL",
+      "image_id": 81156
+    },
+    {
+      "match": "snapsPLS",
+      "image_id": 110912
+    },
+    {
+      "match": "snapsRAGE",
+      "image_id": 110825
+    }
+  ]
+}

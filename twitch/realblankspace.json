@@ -1,1 +1,31 @@
-{"name":"twitch-sub-realblankspace","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"blankChalice","image_id":8094},{"match":"blankAxe","image_id":8093},{"match":"blankRaid","image_id":8100},{"match":"blankHeart","image_id":12471},{"match":"blankLilly","image_id":65840},{"match":"blankRekt","image_id":18007}]}
+{
+  "name": "twitch-sub-realblankspace",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "blankChalice",
+      "image_id": 8094
+    },
+    {
+      "match": "blankAxe",
+      "image_id": 8093
+    },
+    {
+      "match": "blankRaid",
+      "image_id": 8100
+    },
+    {
+      "match": "blankHeart",
+      "image_id": 12471
+    },
+    {
+      "match": "blankLilly",
+      "image_id": 65840
+    },
+    {
+      "match": "blankRekt",
+      "image_id": 18007
+    }
+  ]
+}

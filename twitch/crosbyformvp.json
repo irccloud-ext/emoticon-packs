@@ -1,1 +1,39 @@
-{"name":"twitch-sub-crosbyformvp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tonyMurica","image_id":18875},{"match":"tonyWelp","image_id":19057},{"match":"tonyPartyhard","image_id":19540},{"match":"tonySewers","image_id":20901},{"match":"tonyHype","image_id":20902},{"match":"tonyWink","image_id":20903},{"match":"tonyMalditos","image_id":27759},{"match":"tonyPlop","image_id":88102}]}
+{
+  "name": "twitch-sub-crosbyformvp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tonyMurica",
+      "image_id": 18875
+    },
+    {
+      "match": "tonyWelp",
+      "image_id": 19057
+    },
+    {
+      "match": "tonyPartyhard",
+      "image_id": 19540
+    },
+    {
+      "match": "tonySewers",
+      "image_id": 20901
+    },
+    {
+      "match": "tonyHype",
+      "image_id": 20902
+    },
+    {
+      "match": "tonyWink",
+      "image_id": 20903
+    },
+    {
+      "match": "tonyMalditos",
+      "image_id": 27759
+    },
+    {
+      "match": "tonyPlop",
+      "image_id": 88102
+    }
+  ]
+}

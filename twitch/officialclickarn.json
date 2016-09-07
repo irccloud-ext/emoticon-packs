@@ -1,1 +1,39 @@
-{"name":"twitch-sub-officialclickarn","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"clickarnCHOKE","image_id":67767},{"match":"clickarnARMY","image_id":66669},{"match":"clickarnGF","image_id":45553},{"match":"clickarnTOXIC","image_id":66575},{"match":"clickarnCARRY","image_id":57413},{"match":"clickarnSWAG","image_id":52883},{"match":"clickarnHYPE","image_id":67673},{"match":"clickarnHEY","image_id":67690}]}
+{
+  "name": "twitch-sub-officialclickarn",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "clickarnCHOKE",
+      "image_id": 67767
+    },
+    {
+      "match": "clickarnARMY",
+      "image_id": 66669
+    },
+    {
+      "match": "clickarnGF",
+      "image_id": 45553
+    },
+    {
+      "match": "clickarnTOXIC",
+      "image_id": 66575
+    },
+    {
+      "match": "clickarnCARRY",
+      "image_id": 57413
+    },
+    {
+      "match": "clickarnSWAG",
+      "image_id": 52883
+    },
+    {
+      "match": "clickarnHYPE",
+      "image_id": 67673
+    },
+    {
+      "match": "clickarnHEY",
+      "image_id": 67690
+    }
+  ]
+}

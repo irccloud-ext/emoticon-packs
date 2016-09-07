@@ -1,1 +1,31 @@
-{"name":"twitch-sub-lost1nplace","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lostHAX","image_id":23172},{"match":"lostBB","image_id":23174},{"match":"lostGMOD","image_id":21723},{"match":"lostBEER","image_id":21728},{"match":"lostSUB","image_id":44771},{"match":"lostDONATE","image_id":44770}]}
+{
+  "name": "twitch-sub-lost1nplace",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lostHAX",
+      "image_id": 23172
+    },
+    {
+      "match": "lostBB",
+      "image_id": 23174
+    },
+    {
+      "match": "lostGMOD",
+      "image_id": 21723
+    },
+    {
+      "match": "lostBEER",
+      "image_id": 21728
+    },
+    {
+      "match": "lostSUB",
+      "image_id": 44771
+    },
+    {
+      "match": "lostDONATE",
+      "image_id": 44770
+    }
+  ]
+}

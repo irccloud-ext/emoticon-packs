@@ -1,1 +1,11 @@
-{"name":"twitch-sub-jintaee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jinPz","image_id":28610}]}
+{
+  "name": "twitch-sub-jintaee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jinPz",
+      "image_id": 28610
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-theemero","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"emeyBerniCap","image_id":1504},{"match":"emeyDuNase","image_id":1505},{"match":"emeySmirk","image_id":11175},{"match":"emeyKapp","image_id":21368},{"match":"emeyDongle","image_id":28892},{"match":"emeyTeemo","image_id":41611},{"match":"emeyParty","image_id":41628},{"match":"emeyHand","image_id":68488},{"match":"emeyGasm","image_id":73135},{"match":"emeyLewd","image_id":73201}]}
+{
+  "name": "twitch-sub-theemero",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "emeyBerniCap",
+      "image_id": 1504
+    },
+    {
+      "match": "emeyDuNase",
+      "image_id": 1505
+    },
+    {
+      "match": "emeySmirk",
+      "image_id": 11175
+    },
+    {
+      "match": "emeyKapp",
+      "image_id": 21368
+    },
+    {
+      "match": "emeyDongle",
+      "image_id": 28892
+    },
+    {
+      "match": "emeyTeemo",
+      "image_id": 41611
+    },
+    {
+      "match": "emeyParty",
+      "image_id": 41628
+    },
+    {
+      "match": "emeyHand",
+      "image_id": 68488
+    },
+    {
+      "match": "emeyGasm",
+      "image_id": 73135
+    },
+    {
+      "match": "emeyLewd",
+      "image_id": 73201
+    }
+  ]
+}

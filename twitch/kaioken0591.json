@@ -1,1 +1,31 @@
-{"name":"twitch-sub-kaioken0591","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kaiHeft","image_id":33732},{"match":"kaiYim","image_id":32848},{"match":"kaiPrit","image_id":35316},{"match":"kaiGreed","image_id":40099},{"match":"kaiJuice","image_id":55869},{"match":"kaiDeh","image_id":69944}]}
+{
+  "name": "twitch-sub-kaioken0591",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kaiHeft",
+      "image_id": 33732
+    },
+    {
+      "match": "kaiYim",
+      "image_id": 32848
+    },
+    {
+      "match": "kaiPrit",
+      "image_id": 35316
+    },
+    {
+      "match": "kaiGreed",
+      "image_id": 40099
+    },
+    {
+      "match": "kaiJuice",
+      "image_id": 55869
+    },
+    {
+      "match": "kaiDeh",
+      "image_id": 69944
+    }
+  ]
+}

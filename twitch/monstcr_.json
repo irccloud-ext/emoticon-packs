@@ -1,1 +1,15 @@
-{"name":"twitch-sub-monstcr_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"monstcrWarZ","image_id":111471},{"match":"monstcrHello","image_id":111470}]}
+{
+  "name": "twitch-sub-monstcr_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "monstcrWarZ",
+      "image_id": 111471
+    },
+    {
+      "match": "monstcrHello",
+      "image_id": 111470
+    }
+  ]
+}

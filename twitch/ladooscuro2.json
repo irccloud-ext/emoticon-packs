@@ -1,1 +1,15 @@
-{"name":"twitch-sub-ladooscuro2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ladoChamp","image_id":49697},{"match":"ladoGafas","image_id":66473}]}
+{
+  "name": "twitch-sub-ladooscuro2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ladoChamp",
+      "image_id": 49697
+    },
+    {
+      "match": "ladoGafas",
+      "image_id": 66473
+    }
+  ]
+}

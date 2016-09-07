@@ -1,1 +1,31 @@
-{"name":"twitch-sub-sowavey","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"waveyRage","image_id":4607},{"match":"waveySniff","image_id":4627},{"match":"waveyHoney","image_id":4566},{"match":"waveyNoob","image_id":5459},{"match":"waveyClean","image_id":4841},{"match":"waveyPow","image_id":8905}]}
+{
+  "name": "twitch-sub-sowavey",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "waveyRage",
+      "image_id": 4607
+    },
+    {
+      "match": "waveySniff",
+      "image_id": 4627
+    },
+    {
+      "match": "waveyHoney",
+      "image_id": 4566
+    },
+    {
+      "match": "waveyNoob",
+      "image_id": 5459
+    },
+    {
+      "match": "waveyClean",
+      "image_id": 4841
+    },
+    {
+      "match": "waveyPow",
+      "image_id": 8905
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-smitetv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"watCats","image_id":48174},{"match":"watNo","image_id":49205},{"match":"watFury","image_id":57211},{"match":"watCat","image_id":57121},{"match":"watBear","image_id":57511},{"match":"watSup","image_id":71280},{"match":"watDog","image_id":80589},{"match":"watThe","image_id":81036}]}
+{
+  "name": "twitch-sub-smitetv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "watCats",
+      "image_id": 48174
+    },
+    {
+      "match": "watNo",
+      "image_id": 49205
+    },
+    {
+      "match": "watFury",
+      "image_id": 57211
+    },
+    {
+      "match": "watCat",
+      "image_id": 57121
+    },
+    {
+      "match": "watBear",
+      "image_id": 57511
+    },
+    {
+      "match": "watSup",
+      "image_id": 71280
+    },
+    {
+      "match": "watDog",
+      "image_id": 80589
+    },
+    {
+      "match": "watThe",
+      "image_id": 81036
+    }
+  ]
+}

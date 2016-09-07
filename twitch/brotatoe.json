@@ -1,1 +1,87 @@
-{"name":"twitch-sub-brotatoe","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"broHi","image_id":83790},{"match":"broW","image_id":51815},{"match":"broLove","image_id":4952},{"match":"broCry","image_id":109682},{"match":"broHype","image_id":70317},{"match":"broNo","image_id":99043},{"match":"broBosco","image_id":85537},{"match":"broDingus","image_id":85538},{"match":"broRiot","image_id":82018},{"match":"broFlynn","image_id":85539},{"match":"broGasm","image_id":85541},{"match":"broXD","image_id":85544},{"match":"broC","image_id":100163},{"match":"broSup","image_id":93186},{"match":"broButts","image_id":98666},{"match":"broPls","image_id":98667},{"match":"broMG","image_id":103572},{"match":"broDoge","image_id":109663},{"match":"broH","image_id":109664},{"match":"broSudoku","image_id":109665}]}
+{
+  "name": "twitch-sub-brotatoe",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "broHi",
+      "image_id": 83790
+    },
+    {
+      "match": "broW",
+      "image_id": 51815
+    },
+    {
+      "match": "broLove",
+      "image_id": 4952
+    },
+    {
+      "match": "broCry",
+      "image_id": 109682
+    },
+    {
+      "match": "broHype",
+      "image_id": 70317
+    },
+    {
+      "match": "broNo",
+      "image_id": 99043
+    },
+    {
+      "match": "broBosco",
+      "image_id": 85537
+    },
+    {
+      "match": "broDingus",
+      "image_id": 85538
+    },
+    {
+      "match": "broRiot",
+      "image_id": 82018
+    },
+    {
+      "match": "broFlynn",
+      "image_id": 85539
+    },
+    {
+      "match": "broGasm",
+      "image_id": 85541
+    },
+    {
+      "match": "broXD",
+      "image_id": 85544
+    },
+    {
+      "match": "broC",
+      "image_id": 100163
+    },
+    {
+      "match": "broSup",
+      "image_id": 93186
+    },
+    {
+      "match": "broButts",
+      "image_id": 98666
+    },
+    {
+      "match": "broPls",
+      "image_id": 98667
+    },
+    {
+      "match": "broMG",
+      "image_id": 103572
+    },
+    {
+      "match": "broDoge",
+      "image_id": 109663
+    },
+    {
+      "match": "broH",
+      "image_id": 109664
+    },
+    {
+      "match": "broSudoku",
+      "image_id": 109665
+    }
+  ]
+}

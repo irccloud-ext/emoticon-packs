@@ -1,1 +1,15 @@
-{"name":"twitch-sub-oprime3659","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"opeleRoD","image_id":106972},{"match":"opeleGM","image_id":106974}]}
+{
+  "name": "twitch-sub-oprime3659",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "opeleGodbold",
+      "image_id": 111772
+    },
+    {
+      "match": "opeleTracer",
+      "image_id": 111773
+    }
+  ]
+}

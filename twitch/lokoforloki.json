@@ -1,1 +1,23 @@
-{"name":"twitch-sub-lokoforloki","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zaoFace","image_id":38543},{"match":"zaoBody","image_id":38544},{"match":"zaoTail","image_id":38545},{"match":"zaoGF","image_id":44627}]}
+{
+  "name": "twitch-sub-lokoforloki",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zaoFace",
+      "image_id": 38543
+    },
+    {
+      "match": "zaoBody",
+      "image_id": 38544
+    },
+    {
+      "match": "zaoTail",
+      "image_id": 38545
+    },
+    {
+      "match": "zaoGF",
+      "image_id": 44627
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-azox360","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"teambcAzox","image_id":101732},{"match":"teambcClutch","image_id":101733}]}
+{
+  "name": "twitch-sub-azox360",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "teambcAzox",
+      "image_id": 101732
+    },
+    {
+      "match": "teambcClutch",
+      "image_id": 101733
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-carnagejohnson","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"carnageRolled","image_id":41097},{"match":"carnageCaco","image_id":43598},{"match":"carnageGreenhat","image_id":41205},{"match":"carnageWidow","image_id":102398}]}
+{
+  "name": "twitch-sub-carnagejohnson",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "carnageRolled",
+      "image_id": 41097
+    },
+    {
+      "match": "carnageCaco",
+      "image_id": 43598
+    },
+    {
+      "match": "carnageGreenhat",
+      "image_id": 41205
+    },
+    {
+      "match": "carnageWidow",
+      "image_id": 102398
+    }
+  ]
+}

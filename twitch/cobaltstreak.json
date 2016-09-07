@@ -1,1 +1,151 @@
-{"name":"twitch-sub-cobaltstreak","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cobaltMrCool","image_id":556},{"match":"cobaltRainbroMe","image_id":557},{"match":"cobaltLoKor","image_id":924},{"match":"cobaltOhgasm","image_id":4722},{"match":"cobaltRIP","image_id":5322},{"match":"cobaltLurkor","image_id":15425},{"match":"cobaltKraken","image_id":12982},{"match":"cobaltKrampus","image_id":11964},{"match":"cobaltSqueezy","image_id":55711},{"match":"cobaltLovekor","image_id":23222},{"match":"cobaltBot","image_id":23214},{"match":"cobaltRNG","image_id":23224},{"match":"cobaltL","image_id":55714},{"match":"cobaltR","image_id":55715},{"match":"cobaltW","image_id":55716},{"match":"cobaltBum","image_id":29179},{"match":"cobaltSoul","image_id":29187},{"match":"cobaltEd","image_id":30590},{"match":"cobaltGood","image_id":30591},{"match":"cobaltTeam","image_id":30594},{"match":"cobaltWiz","image_id":30642},{"match":"cobaltPAX","image_id":46875},{"match":"cobaltJuicy","image_id":46876},{"match":"cobaltFite","image_id":46877},{"match":"cobaltAds","image_id":79707},{"match":"cobaltBumbo","image_id":79708},{"match":"cobaltSrs","image_id":79710},{"match":"cobaltLove","image_id":94655},{"match":"cobaltB","image_id":94657},{"match":"cobaltRat","image_id":94658},{"match":"cobaltC","image_id":102753},{"match":"cobaltH","image_id":102754},{"match":"cobaltHi","image_id":102755},{"match":"cobaltDead","image_id":102756},{"match":"cobaltSad","image_id":102757},{"match":"cobaltSalute","image_id":102758}]}
+{
+  "name": "twitch-sub-cobaltstreak",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cobaltMrCool",
+      "image_id": 556
+    },
+    {
+      "match": "cobaltRainbroMe",
+      "image_id": 557
+    },
+    {
+      "match": "cobaltLoKor",
+      "image_id": 924
+    },
+    {
+      "match": "cobaltOhgasm",
+      "image_id": 4722
+    },
+    {
+      "match": "cobaltRIP",
+      "image_id": 5322
+    },
+    {
+      "match": "cobaltLurkor",
+      "image_id": 15425
+    },
+    {
+      "match": "cobaltKraken",
+      "image_id": 12982
+    },
+    {
+      "match": "cobaltKrampus",
+      "image_id": 11964
+    },
+    {
+      "match": "cobaltSqueezy",
+      "image_id": 55711
+    },
+    {
+      "match": "cobaltLovekor",
+      "image_id": 23222
+    },
+    {
+      "match": "cobaltBot",
+      "image_id": 23214
+    },
+    {
+      "match": "cobaltRNG",
+      "image_id": 23224
+    },
+    {
+      "match": "cobaltL",
+      "image_id": 55714
+    },
+    {
+      "match": "cobaltR",
+      "image_id": 55715
+    },
+    {
+      "match": "cobaltW",
+      "image_id": 55716
+    },
+    {
+      "match": "cobaltBum",
+      "image_id": 29179
+    },
+    {
+      "match": "cobaltSoul",
+      "image_id": 29187
+    },
+    {
+      "match": "cobaltEd",
+      "image_id": 30590
+    },
+    {
+      "match": "cobaltGood",
+      "image_id": 30591
+    },
+    {
+      "match": "cobaltTeam",
+      "image_id": 30594
+    },
+    {
+      "match": "cobaltWiz",
+      "image_id": 30642
+    },
+    {
+      "match": "cobaltPAX",
+      "image_id": 46875
+    },
+    {
+      "match": "cobaltJuicy",
+      "image_id": 46876
+    },
+    {
+      "match": "cobaltFite",
+      "image_id": 46877
+    },
+    {
+      "match": "cobaltAds",
+      "image_id": 79707
+    },
+    {
+      "match": "cobaltBumbo",
+      "image_id": 79708
+    },
+    {
+      "match": "cobaltSrs",
+      "image_id": 79710
+    },
+    {
+      "match": "cobaltLove",
+      "image_id": 94655
+    },
+    {
+      "match": "cobaltB",
+      "image_id": 94657
+    },
+    {
+      "match": "cobaltRat",
+      "image_id": 94658
+    },
+    {
+      "match": "cobaltC",
+      "image_id": 102753
+    },
+    {
+      "match": "cobaltH",
+      "image_id": 102754
+    },
+    {
+      "match": "cobaltHi",
+      "image_id": 102755
+    },
+    {
+      "match": "cobaltDead",
+      "image_id": 102756
+    },
+    {
+      "match": "cobaltSad",
+      "image_id": 102757
+    },
+    {
+      "match": "cobaltSalute",
+      "image_id": 102758
+    }
+  ]
+}

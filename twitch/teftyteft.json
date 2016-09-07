@@ -1,1 +1,67 @@
-{"name":"twitch-sub-teftyteft","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"teftSad","image_id":75056},{"match":"teftRip","image_id":75054},{"match":"teftPerf","image_id":75055},{"match":"teftHi","image_id":74740},{"match":"teftLove","image_id":74741},{"match":"teftHype","image_id":74742},{"match":"teftRekt","image_id":74743},{"match":"teftTrig","image_id":96937},{"match":"teftSalt","image_id":88222},{"match":"teftPepe","image_id":96938},{"match":"teftLol","image_id":100276},{"match":"teftHey","image_id":100277},{"match":"teftPog","image_id":100278},{"match":"teftC","image_id":100279},{"match":"teftFan","image_id":100280}]}
+{
+  "name": "twitch-sub-teftyteft",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "teftSad",
+      "image_id": 75056
+    },
+    {
+      "match": "teftRip",
+      "image_id": 75054
+    },
+    {
+      "match": "teftPerf",
+      "image_id": 75055
+    },
+    {
+      "match": "teftHi",
+      "image_id": 74740
+    },
+    {
+      "match": "teftLove",
+      "image_id": 74741
+    },
+    {
+      "match": "teftHype",
+      "image_id": 74742
+    },
+    {
+      "match": "teftRekt",
+      "image_id": 74743
+    },
+    {
+      "match": "teftTrig",
+      "image_id": 96937
+    },
+    {
+      "match": "teftSalt",
+      "image_id": 88222
+    },
+    {
+      "match": "teftPepe",
+      "image_id": 96938
+    },
+    {
+      "match": "teftLol",
+      "image_id": 100276
+    },
+    {
+      "match": "teftHey",
+      "image_id": 100277
+    },
+    {
+      "match": "teftPog",
+      "image_id": 100278
+    },
+    {
+      "match": "teftC",
+      "image_id": 100279
+    },
+    {
+      "match": "teftFan",
+      "image_id": 100280
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-joaos92","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"js92Play","image_id":22662},{"match":"js92GG","image_id":26892},{"match":"js92Welcome","image_id":28428},{"match":"js92MIT","image_id":46914},{"match":"js92Braum","image_id":47306},{"match":"js92Hoje","image_id":48488},{"match":"js92Cool","image_id":63080},{"match":"js92Ze","image_id":63100}]}
+{
+  "name": "twitch-sub-joaos92",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "js92Play",
+      "image_id": 22662
+    },
+    {
+      "match": "js92GG",
+      "image_id": 26892
+    },
+    {
+      "match": "js92Welcome",
+      "image_id": 28428
+    },
+    {
+      "match": "js92MIT",
+      "image_id": 46914
+    },
+    {
+      "match": "js92Braum",
+      "image_id": 47306
+    },
+    {
+      "match": "js92Hoje",
+      "image_id": 48488
+    },
+    {
+      "match": "js92Cool",
+      "image_id": 63080
+    },
+    {
+      "match": "js92Ze",
+      "image_id": 63100
+    }
+  ]
+}

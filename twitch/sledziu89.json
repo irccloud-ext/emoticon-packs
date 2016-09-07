@@ -1,1 +1,31 @@
-{"name":"twitch-sub-sledziu89","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sledzFail","image_id":90923},{"match":"sledzRage","image_id":90922},{"match":"sledzHej","image_id":90921},{"match":"sledzBoom","image_id":99815},{"match":"sledzKappa","image_id":73485},{"match":"sledzHype","image_id":91362}]}
+{
+  "name": "twitch-sub-sledziu89",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sledzFail",
+      "image_id": 90923
+    },
+    {
+      "match": "sledzRage",
+      "image_id": 90922
+    },
+    {
+      "match": "sledzHej",
+      "image_id": 90921
+    },
+    {
+      "match": "sledzBoom",
+      "image_id": 99815
+    },
+    {
+      "match": "sledzKappa",
+      "image_id": 73485
+    },
+    {
+      "match": "sledzHype",
+      "image_id": 91362
+    }
+  ]
+}

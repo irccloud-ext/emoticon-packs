@@ -1,1 +1,23 @@
-{"name":"twitch-sub-mercadertv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"merCrip","image_id":63982},{"match":"merCout","image_id":64394},{"match":"merCin","image_id":79364},{"match":"merCChamp","image_id":82399}]}
+{
+  "name": "twitch-sub-mercadertv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "merCrip",
+      "image_id": 63982
+    },
+    {
+      "match": "merCout",
+      "image_id": 64394
+    },
+    {
+      "match": "merCin",
+      "image_id": 79364
+    },
+    {
+      "match": "merCChamp",
+      "image_id": 82399
+    }
+  ]
+}

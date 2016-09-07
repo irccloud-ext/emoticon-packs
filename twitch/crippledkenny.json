@@ -1,1 +1,31 @@
-{"name":"twitch-sub-crippledkenny","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"crippledBH","image_id":69463},{"match":"crippledHellen","image_id":96885},{"match":"crippledD8","image_id":67698},{"match":"crippledBAT","image_id":70558},{"match":"crippledPants","image_id":97002},{"match":"crippledRekt","image_id":96884}]}
+{
+  "name": "twitch-sub-crippledkenny",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "crippledBH",
+      "image_id": 69463
+    },
+    {
+      "match": "crippledHellen",
+      "image_id": 96885
+    },
+    {
+      "match": "crippledD8",
+      "image_id": 67698
+    },
+    {
+      "match": "crippledBAT",
+      "image_id": 70558
+    },
+    {
+      "match": "crippledPants",
+      "image_id": 97002
+    },
+    {
+      "match": "crippledRekt",
+      "image_id": 96884
+    }
+  ]
+}

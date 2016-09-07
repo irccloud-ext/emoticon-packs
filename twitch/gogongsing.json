@@ -1,1 +1,31 @@
-{"name":"twitch-sub-gogongsing","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gogongNoruway","image_id":91615},{"match":"gogongHi","image_id":91614},{"match":"gogongBF","image_id":91613},{"match":"gogongTong","image_id":78524},{"match":"gogong5ing","image_id":91612},{"match":"gogongHoney","image_id":78681}]}
+{
+  "name": "twitch-sub-gogongsing",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gogongNoruway",
+      "image_id": 91615
+    },
+    {
+      "match": "gogongHi",
+      "image_id": 91614
+    },
+    {
+      "match": "gogongBF",
+      "image_id": 91613
+    },
+    {
+      "match": "gogongTong",
+      "image_id": 78524
+    },
+    {
+      "match": "gogong5ing",
+      "image_id": 91612
+    },
+    {
+      "match": "gogongHoney",
+      "image_id": 78681
+    }
+  ]
+}

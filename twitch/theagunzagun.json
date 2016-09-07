@@ -1,1 +1,19 @@
-{"name":"twitch-sub-theagunzagun","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"agunAtkafasi","image_id":12426},{"match":"agunKappa","image_id":48418},{"match":"agunGGWP","image_id":48694}]}
+{
+  "name": "twitch-sub-theagunzagun",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "agunAtkafasi",
+      "image_id": 12426
+    },
+    {
+      "match": "agunKappa",
+      "image_id": 48418
+    },
+    {
+      "match": "agunGGWP",
+      "image_id": 48694
+    }
+  ]
+}

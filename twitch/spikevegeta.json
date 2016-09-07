@@ -1,1 +1,39 @@
-{"name":"twitch-sub-spikevegeta","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ssjSalty","image_id":7541},{"match":"ssjSpikeChamp","image_id":46912},{"match":"ssjGooGoo","image_id":63914},{"match":"ssjNUUU","image_id":100190},{"match":"ssjRaptor","image_id":100191},{"match":"ssjYEAH","image_id":100192},{"match":"ssjHHH","image_id":100193},{"match":"ssjOhMama","image_id":100194}]}
+{
+  "name": "twitch-sub-spikevegeta",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ssjSalty",
+      "image_id": 7541
+    },
+    {
+      "match": "ssjSpikeChamp",
+      "image_id": 46912
+    },
+    {
+      "match": "ssjGooGoo",
+      "image_id": 63914
+    },
+    {
+      "match": "ssjNUUU",
+      "image_id": 100190
+    },
+    {
+      "match": "ssjRaptor",
+      "image_id": 100191
+    },
+    {
+      "match": "ssjYEAH",
+      "image_id": 100192
+    },
+    {
+      "match": "ssjHHH",
+      "image_id": 100193
+    },
+    {
+      "match": "ssjOhMama",
+      "image_id": 100194
+    }
+  ]
+}

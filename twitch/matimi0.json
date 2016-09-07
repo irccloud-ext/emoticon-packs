@@ -1,1 +1,67 @@
-{"name":"twitch-sub-matimi0","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mat1Hype","image_id":80155},{"match":"mat1Muffin","image_id":47557},{"match":"mat1Grin","image_id":49167},{"match":"mat1Bingbong","image_id":65788},{"match":"mat1Sad","image_id":82559},{"match":"mat1Steven","image_id":80159},{"match":"mat1Rage","image_id":82558},{"match":"mat1Hey","image_id":82557},{"match":"mat1Praise","image_id":110164},{"match":"mat1Dice","image_id":104815},{"match":"mat1Love","image_id":92309},{"match":"mat1Derp","image_id":92310},{"match":"mat1Plunger","image_id":92819},{"match":"mat1Tip","image_id":92820},{"match":"mat1Vac","image_id":104053}]}
+{
+  "name": "twitch-sub-matimi0",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mat1Hype",
+      "image_id": 80155
+    },
+    {
+      "match": "mat1Muffin",
+      "image_id": 47557
+    },
+    {
+      "match": "mat1Grin",
+      "image_id": 49167
+    },
+    {
+      "match": "mat1Bingbong",
+      "image_id": 65788
+    },
+    {
+      "match": "mat1Sad",
+      "image_id": 82559
+    },
+    {
+      "match": "mat1Steven",
+      "image_id": 80159
+    },
+    {
+      "match": "mat1Rage",
+      "image_id": 82558
+    },
+    {
+      "match": "mat1Hey",
+      "image_id": 82557
+    },
+    {
+      "match": "mat1Praise",
+      "image_id": 110164
+    },
+    {
+      "match": "mat1Dice",
+      "image_id": 104815
+    },
+    {
+      "match": "mat1Love",
+      "image_id": 92309
+    },
+    {
+      "match": "mat1Derp",
+      "image_id": 92310
+    },
+    {
+      "match": "mat1Plunger",
+      "image_id": 92819
+    },
+    {
+      "match": "mat1Tip",
+      "image_id": 92820
+    },
+    {
+      "match": "mat1Vac",
+      "image_id": 104053
+    }
+  ]
+}

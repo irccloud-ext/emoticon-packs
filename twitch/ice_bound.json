@@ -1,1 +1,27 @@
-{"name":"twitch-sub-ice_bound","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"icedHeart","image_id":84652},{"match":"icedHype","image_id":86486},{"match":"icedIndy","image_id":86241},{"match":"icedRip","image_id":85268},{"match":"icedAutumn","image_id":87425}]}
+{
+  "name": "twitch-sub-ice_bound",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "icedHeart",
+      "image_id": 84652
+    },
+    {
+      "match": "icedHype",
+      "image_id": 86486
+    },
+    {
+      "match": "icedIndy",
+      "image_id": 86241
+    },
+    {
+      "match": "icedRip",
+      "image_id": 85268
+    },
+    {
+      "match": "icedAutumn",
+      "image_id": 87425
+    }
+  ]
+}

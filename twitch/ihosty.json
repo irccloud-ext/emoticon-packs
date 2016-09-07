@@ -1,1 +1,39 @@
-{"name":"twitch-sub-ihosty","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hostyPaste","image_id":31958},{"match":"hostyBM","image_id":24559},{"match":"hostyHey","image_id":24563},{"match":"hostyGasm","image_id":31962},{"match":"hostyObb","image_id":31960},{"match":"hostyTeam","image_id":24734},{"match":"hostyBday","image_id":26065},{"match":"hostyGhost","image_id":37227}]}
+{
+  "name": "twitch-sub-ihosty",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hostyPaste",
+      "image_id": 31958
+    },
+    {
+      "match": "hostyBM",
+      "image_id": 24559
+    },
+    {
+      "match": "hostyHey",
+      "image_id": 24563
+    },
+    {
+      "match": "hostyGasm",
+      "image_id": 31962
+    },
+    {
+      "match": "hostyObb",
+      "image_id": 31960
+    },
+    {
+      "match": "hostyTeam",
+      "image_id": 24734
+    },
+    {
+      "match": "hostyBday",
+      "image_id": 26065
+    },
+    {
+      "match": "hostyGhost",
+      "image_id": 37227
+    }
+  ]
+}

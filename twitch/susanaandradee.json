@@ -1,1 +1,23 @@
-{"name":"twitch-sub-susanaandradee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"suhCry","image_id":104956},{"match":"suhLado","image_id":80192},{"match":"suhClap","image_id":80583},{"match":"suhB","image_id":98678}]}
+{
+  "name": "twitch-sub-susanaandradee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "suhCry",
+      "image_id": 104956
+    },
+    {
+      "match": "suhLado",
+      "image_id": 80192
+    },
+    {
+      "match": "suhClap",
+      "image_id": 80583
+    },
+    {
+      "match": "suhB",
+      "image_id": 98678
+    }
+  ]
+}

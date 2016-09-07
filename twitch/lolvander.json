@@ -1,1 +1,39 @@
-{"name":"twitch-sub-lolvander","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vanderLife","image_id":60999},{"match":"vanderToxic","image_id":66925},{"match":"vanderClown","image_id":69602},{"match":"vanderZnowu","image_id":67621},{"match":"vanderHook","image_id":67688},{"match":"vanderCpt","image_id":67655},{"match":"vanderW","image_id":67687},{"match":"vanderYAR","image_id":69517}]}
+{
+  "name": "twitch-sub-lolvander",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vanderLife",
+      "image_id": 60999
+    },
+    {
+      "match": "vanderToxic",
+      "image_id": 66925
+    },
+    {
+      "match": "vanderClown",
+      "image_id": 69602
+    },
+    {
+      "match": "vanderZnowu",
+      "image_id": 67621
+    },
+    {
+      "match": "vanderHook",
+      "image_id": 67688
+    },
+    {
+      "match": "vanderCpt",
+      "image_id": 67655
+    },
+    {
+      "match": "vanderW",
+      "image_id": 67687
+    },
+    {
+      "match": "vanderYAR",
+      "image_id": 69517
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-metasigma","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mtsigmaSuccess","image_id":111630},{"match":"mtsigmaMaggot","image_id":110450}]}
+{
+  "name": "twitch-sub-metasigma",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mtsigmaSuccess",
+      "image_id": 111630
+    },
+    {
+      "match": "mtsigmaMaggot",
+      "image_id": 110450
+    }
+  ]
+}

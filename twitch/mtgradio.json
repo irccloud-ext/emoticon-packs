@@ -1,1 +1,23 @@
-{"name":"twitch-sub-mtgradio","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mtgradioCollusion","image_id":23532},{"match":"mtgradioF8","image_id":22862},{"match":"mtgradioCups","image_id":26415},{"match":"mtgradioBlast","image_id":51469}]}
+{
+  "name": "twitch-sub-mtgradio",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mtgradioCollusion",
+      "image_id": 23532
+    },
+    {
+      "match": "mtgradioF8",
+      "image_id": 22862
+    },
+    {
+      "match": "mtgradioCups",
+      "image_id": 26415
+    },
+    {
+      "match": "mtgradioBlast",
+      "image_id": 51469
+    }
+  ]
+}

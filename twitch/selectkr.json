@@ -1,1 +1,19 @@
-{"name":"twitch-sub-selectkr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"supSonl","image_id":997},{"match":"supSonr","image_id":1007},{"match":"supFace","image_id":986}]}
+{
+  "name": "twitch-sub-selectkr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "supSonl",
+      "image_id": 997
+    },
+    {
+      "match": "supSonr",
+      "image_id": 1007
+    },
+    {
+      "match": "supFace",
+      "image_id": 986
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-{"name":"twitch-sub-mrkrees31","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mrkrees31Bichon","image_id":50460},{"match":"mrkrees31But","image_id":54503},{"match":"mrkrees31Pizza","image_id":54746},{"match":"mrkrees31Teamr","image_id":84660},{"match":"mrkrees31Scandaleux","image_id":99689}]}
+{
+  "name": "twitch-sub-mrkrees31",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mrkrees31Bichon",
+      "image_id": 50460
+    },
+    {
+      "match": "mrkrees31But",
+      "image_id": 54503
+    },
+    {
+      "match": "mrkrees31Pizza",
+      "image_id": 54746
+    },
+    {
+      "match": "mrkrees31Teamr",
+      "image_id": 84660
+    },
+    {
+      "match": "mrkrees31Scandaleux",
+      "image_id": 99689
+    }
+  ]
+}

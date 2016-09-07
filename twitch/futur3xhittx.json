@@ -1,1 +1,11 @@
-{"name":"twitch-sub-futur3xhittx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"futur3kingCar","image_id":94168}]}
+{
+  "name": "twitch-sub-futur3xhittx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "futur3kingCar",
+      "image_id": 94168
+    }
+  ]
+}

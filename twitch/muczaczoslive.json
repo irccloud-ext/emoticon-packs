@@ -1,1 +1,31 @@
-{"name":"twitch-sub-muczaczoslive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"muczuLatwo","image_id":47397},{"match":"muczuGrzyb","image_id":47443},{"match":"muczuGorzej","image_id":49320},{"match":"muczuNinja","image_id":83916},{"match":"muczuMuczu","image_id":83699},{"match":"muczuDef","image_id":83312}]}
+{
+  "name": "twitch-sub-muczaczoslive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "muczuLatwo",
+      "image_id": 47397
+    },
+    {
+      "match": "muczuGrzyb",
+      "image_id": 47443
+    },
+    {
+      "match": "muczuGorzej",
+      "image_id": 49320
+    },
+    {
+      "match": "muczuNinja",
+      "image_id": 83916
+    },
+    {
+      "match": "muczuMuczu",
+      "image_id": 83699
+    },
+    {
+      "match": "muczuDef",
+      "image_id": 83312
+    }
+  ]
+}

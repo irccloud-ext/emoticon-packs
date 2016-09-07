@@ -1,1 +1,15 @@
-{"name":"twitch-sub-aphroditequeen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"queenNightbot","image_id":26829},{"match":"queenHm","image_id":26830}]}
+{
+  "name": "twitch-sub-aphroditequeen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "queenNightbot",
+      "image_id": 26829
+    },
+    {
+      "match": "queenHm",
+      "image_id": 26830
+    }
+  ]
+}

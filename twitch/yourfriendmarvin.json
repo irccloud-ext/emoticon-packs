@@ -1,1 +1,23 @@
-{"name":"twitch-sub-yourfriendmarvin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yfmPMA","image_id":102336},{"match":"yfmPFMA","image_id":103319},{"match":"yfmDigums","image_id":108563},{"match":"yfmLove","image_id":108562}]}
+{
+  "name": "twitch-sub-yourfriendmarvin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yfmPMA",
+      "image_id": 102336
+    },
+    {
+      "match": "yfmPFMA",
+      "image_id": 103319
+    },
+    {
+      "match": "yfmDigums",
+      "image_id": 108563
+    },
+    {
+      "match": "yfmLove",
+      "image_id": 108562
+    }
+  ]
+}

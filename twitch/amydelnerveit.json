@@ -1,1 +1,11 @@
-{"name":"twitch-sub-amydelnerveit","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"amydelEoq","image_id":109047}]}
+{
+  "name": "twitch-sub-amydelnerveit",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "amydelEoq",
+      "image_id": 109047
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-thebaldunit","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"baldHype","image_id":58959},{"match":"baldKiwi","image_id":57242},{"match":"baldFace","image_id":57038},{"match":"baldTaxii","image_id":57454},{"match":"baldChur","image_id":59487},{"match":"baldBlood","image_id":60270}]}
+{
+  "name": "twitch-sub-thebaldunit",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "baldHype",
+      "image_id": 58959
+    },
+    {
+      "match": "baldKiwi",
+      "image_id": 57242
+    },
+    {
+      "match": "baldFace",
+      "image_id": 57038
+    },
+    {
+      "match": "baldTaxii",
+      "image_id": 57454
+    },
+    {
+      "match": "baldChur",
+      "image_id": 59487
+    },
+    {
+      "match": "baldBlood",
+      "image_id": 60270
+    }
+  ]
+}

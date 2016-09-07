@@ -1,1 +1,87 @@
-{"name":"twitch-sub-dasquirrelsnuts","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sqrlHAX","image_id":104725},{"match":"sqrlMEH","image_id":70877},{"match":"sqrlSCUMBAG","image_id":70876},{"match":"sqrlHNNNG","image_id":70875},{"match":"sqrlGG","image_id":70873},{"match":"sqrlRAGE","image_id":39677},{"match":"sqrlNUTS","image_id":39676},{"match":"sqrlROFL","image_id":39673},{"match":"sqrlHYPE","image_id":39613},{"match":"sqrlFAIL","image_id":39682},{"match":"sqrlTEN","image_id":39611},{"match":"sqrlCRY","image_id":39610},{"match":"sqrlHI","image_id":39607},{"match":"sqrlYES","image_id":106012},{"match":"sqrlNOPE","image_id":106011},{"match":"sqrlREKT","image_id":106010},{"match":"sqrlLOVE","image_id":79833},{"match":"sqrlDOYLE","image_id":83251},{"match":"sqrlGLOVE","image_id":106057},{"match":"sqrlBYE","image_id":106056}]}
+{
+  "name": "twitch-sub-dasquirrelsnuts",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sqrlHAX",
+      "image_id": 104725
+    },
+    {
+      "match": "sqrlMEH",
+      "image_id": 70877
+    },
+    {
+      "match": "sqrlSCUMBAG",
+      "image_id": 70876
+    },
+    {
+      "match": "sqrlHNNNG",
+      "image_id": 70875
+    },
+    {
+      "match": "sqrlGG",
+      "image_id": 70873
+    },
+    {
+      "match": "sqrlRAGE",
+      "image_id": 39677
+    },
+    {
+      "match": "sqrlNUTS",
+      "image_id": 39676
+    },
+    {
+      "match": "sqrlROFL",
+      "image_id": 39673
+    },
+    {
+      "match": "sqrlHYPE",
+      "image_id": 39613
+    },
+    {
+      "match": "sqrlFAIL",
+      "image_id": 39682
+    },
+    {
+      "match": "sqrlTEN",
+      "image_id": 39611
+    },
+    {
+      "match": "sqrlCRY",
+      "image_id": 39610
+    },
+    {
+      "match": "sqrlHI",
+      "image_id": 39607
+    },
+    {
+      "match": "sqrlYES",
+      "image_id": 106012
+    },
+    {
+      "match": "sqrlNOPE",
+      "image_id": 106011
+    },
+    {
+      "match": "sqrlREKT",
+      "image_id": 106010
+    },
+    {
+      "match": "sqrlLOVE",
+      "image_id": 79833
+    },
+    {
+      "match": "sqrlDOYLE",
+      "image_id": 83251
+    },
+    {
+      "match": "sqrlGLOVE",
+      "image_id": 106057
+    },
+    {
+      "match": "sqrlBYE",
+      "image_id": 106056
+    }
+  ]
+}

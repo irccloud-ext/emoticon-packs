@@ -1,1 +1,15 @@
-{"name":"twitch-sub-mill_origin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"oriPALM","image_id":61237},{"match":"oriOMG","image_id":60701}]}
+{
+  "name": "twitch-sub-mill_origin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "oriPALM",
+      "image_id": 61237
+    },
+    {
+      "match": "oriOMG",
+      "image_id": 60701
+    }
+  ]
+}

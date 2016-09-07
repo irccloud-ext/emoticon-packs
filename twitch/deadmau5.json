@@ -1,1 +1,171 @@
-{"name":"twitch-sub-deadmau5","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mau5Stfu","image_id":66561},{"match":"mau5Cheese","image_id":66564},{"match":"mau5Smirk","image_id":66570},{"match":"mau5Nog","image_id":76019},{"match":"mau5Sweater","image_id":76020},{"match":"mau5Snowman","image_id":76021},{"match":"mau5Helpercat","image_id":76022},{"match":"mau5Moose","image_id":76023},{"match":"mau5Fkd","image_id":66569},{"match":"mau5Wut","image_id":66568},{"match":"mau5Fml","image_id":66567},{"match":"mau5Half","image_id":66719},{"match":"mau5Baller","image_id":66566},{"match":"mau5Heart","image_id":66720},{"match":"mau51337","image_id":66721},{"match":"mau5Smoked","image_id":66722},{"match":"mau5Lel","image_id":66723},{"match":"mau5404","image_id":66724},{"match":"mau5Umadbro","image_id":66725},{"match":"mau5Pwned","image_id":66726},{"match":"mau5Beer","image_id":66727},{"match":"mau5Brb","image_id":66728},{"match":"mau5W00t","image_id":66729},{"match":"mau5Umadbro","image_id":67291},{"match":"mau5Cheese","image_id":67295},{"match":"mau5Heart","image_id":67299},{"match":"mau5Smirk","image_id":67303},{"match":"mau5Stfu","image_id":67305},{"match":"mau5Baller","image_id":67288},{"match":"mau5404","image_id":67292},{"match":"mau5Brb","image_id":67296},{"match":"mau5Half","image_id":67300},{"match":"mau5Beer","image_id":67289},{"match":"mau5Lel","image_id":67293},{"match":"mau5Fkd","image_id":67297},{"match":"mau51337","image_id":67301},{"match":"mau5Smoked","image_id":67290},{"match":"mau5Pwnd","image_id":67294},{"match":"mau5W00t","image_id":67298},{"match":"mau5Fml","image_id":67302},{"match":"mau5Wut","image_id":67304}]}
+{
+  "name": "twitch-sub-deadmau5",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mau5Stfu",
+      "image_id": 66561
+    },
+    {
+      "match": "mau5Cheese",
+      "image_id": 66564
+    },
+    {
+      "match": "mau5Smirk",
+      "image_id": 66570
+    },
+    {
+      "match": "mau5Nog",
+      "image_id": 76019
+    },
+    {
+      "match": "mau5Sweater",
+      "image_id": 76020
+    },
+    {
+      "match": "mau5Snowman",
+      "image_id": 76021
+    },
+    {
+      "match": "mau5Helpercat",
+      "image_id": 76022
+    },
+    {
+      "match": "mau5Moose",
+      "image_id": 76023
+    },
+    {
+      "match": "mau5Fkd",
+      "image_id": 66569
+    },
+    {
+      "match": "mau5Wut",
+      "image_id": 66568
+    },
+    {
+      "match": "mau5Fml",
+      "image_id": 66567
+    },
+    {
+      "match": "mau5Half",
+      "image_id": 66719
+    },
+    {
+      "match": "mau5Baller",
+      "image_id": 66566
+    },
+    {
+      "match": "mau5Heart",
+      "image_id": 66720
+    },
+    {
+      "match": "mau51337",
+      "image_id": 66721
+    },
+    {
+      "match": "mau5Smoked",
+      "image_id": 66722
+    },
+    {
+      "match": "mau5Lel",
+      "image_id": 66723
+    },
+    {
+      "match": "mau5404",
+      "image_id": 66724
+    },
+    {
+      "match": "mau5Umadbro",
+      "image_id": 66725
+    },
+    {
+      "match": "mau5Pwned",
+      "image_id": 66726
+    },
+    {
+      "match": "mau5Beer",
+      "image_id": 66727
+    },
+    {
+      "match": "mau5Brb",
+      "image_id": 66728
+    },
+    {
+      "match": "mau5W00t",
+      "image_id": 66729
+    },
+    {
+      "match": "mau5Umadbro",
+      "image_id": 67291
+    },
+    {
+      "match": "mau5Cheese",
+      "image_id": 67295
+    },
+    {
+      "match": "mau5Heart",
+      "image_id": 67299
+    },
+    {
+      "match": "mau5Smirk",
+      "image_id": 67303
+    },
+    {
+      "match": "mau5Stfu",
+      "image_id": 67305
+    },
+    {
+      "match": "mau5Baller",
+      "image_id": 67288
+    },
+    {
+      "match": "mau5404",
+      "image_id": 67292
+    },
+    {
+      "match": "mau5Brb",
+      "image_id": 67296
+    },
+    {
+      "match": "mau5Half",
+      "image_id": 67300
+    },
+    {
+      "match": "mau5Beer",
+      "image_id": 67289
+    },
+    {
+      "match": "mau5Lel",
+      "image_id": 67293
+    },
+    {
+      "match": "mau5Fkd",
+      "image_id": 67297
+    },
+    {
+      "match": "mau51337",
+      "image_id": 67301
+    },
+    {
+      "match": "mau5Smoked",
+      "image_id": 67290
+    },
+    {
+      "match": "mau5Pwnd",
+      "image_id": 67294
+    },
+    {
+      "match": "mau5W00t",
+      "image_id": 67298
+    },
+    {
+      "match": "mau5Fml",
+      "image_id": 67302
+    },
+    {
+      "match": "mau5Wut",
+      "image_id": 67304
+    }
+  ]
+}

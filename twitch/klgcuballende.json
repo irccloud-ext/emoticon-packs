@@ -1,1 +1,23 @@
-{"name":"twitch-sub-klgcuballende","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cubaPANDA","image_id":24434},{"match":"cubaPared","image_id":59111},{"match":"cubaKLG","image_id":59151},{"match":"cubaKappa","image_id":59152}]}
+{
+  "name": "twitch-sub-klgcuballende",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cubaPANDA",
+      "image_id": 24434
+    },
+    {
+      "match": "cubaPared",
+      "image_id": 59111
+    },
+    {
+      "match": "cubaKLG",
+      "image_id": 59151
+    },
+    {
+      "match": "cubaKappa",
+      "image_id": 59152
+    }
+  ]
+}

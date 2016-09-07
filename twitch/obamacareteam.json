@@ -1,1 +1,35 @@
-{"name":"twitch-sub-obamacareteam","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"obc2","image_id":17986},{"match":"obc1","image_id":18753},{"match":"obcTubhype","image_id":49702},{"match":"obcStealz","image_id":49703},{"match":"obcPigeon","image_id":49613},{"match":"obcWC","image_id":49614},{"match":"obc3","image_id":49615}]}
+{
+  "name": "twitch-sub-obamacareteam",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "obc2",
+      "image_id": 17986
+    },
+    {
+      "match": "obc1",
+      "image_id": 18753
+    },
+    {
+      "match": "obcTubhype",
+      "image_id": 49702
+    },
+    {
+      "match": "obcStealz",
+      "image_id": 49703
+    },
+    {
+      "match": "obcPigeon",
+      "image_id": 49613
+    },
+    {
+      "match": "obcWC",
+      "image_id": 49614
+    },
+    {
+      "match": "obc3",
+      "image_id": 49615
+    }
+  ]
+}

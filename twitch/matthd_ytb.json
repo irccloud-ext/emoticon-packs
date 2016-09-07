@@ -1,1 +1,15 @@
-{"name":"twitch-sub-matthd_ytb","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mattfrOMG","image_id":40544},{"match":"mattfrHype","image_id":60843}]}
+{
+  "name": "twitch-sub-matthd_ytb",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mattfrOMG",
+      "image_id": 40544
+    },
+    {
+      "match": "mattfrHype",
+      "image_id": 60843
+    }
+  ]
+}

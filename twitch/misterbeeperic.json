@@ -1,1 +1,31 @@
-{"name":"twitch-sub-misterbeeperic","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"boopConfetti","image_id":87237},{"match":"boopOMG","image_id":87238},{"match":"boopROBSQUAD","image_id":85893},{"match":"boopPayToWin","image_id":85892},{"match":"boopBeepBoop","image_id":85896},{"match":"boopHeyGuys","image_id":86119}]}
+{
+  "name": "twitch-sub-misterbeeperic",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "boopConfetti",
+      "image_id": 87237
+    },
+    {
+      "match": "boopOMG",
+      "image_id": 87238
+    },
+    {
+      "match": "boopROBSQUAD",
+      "image_id": 85893
+    },
+    {
+      "match": "boopPayToWin",
+      "image_id": 85892
+    },
+    {
+      "match": "boopBeepBoop",
+      "image_id": 85896
+    },
+    {
+      "match": "boopHeyGuys",
+      "image_id": 86119
+    }
+  ]
+}

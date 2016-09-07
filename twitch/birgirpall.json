@@ -1,1 +1,31 @@
-{"name":"twitch-sub-birgirpall","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"biggiSub","image_id":77533},{"match":"biggiB","image_id":77531},{"match":"biggiYoda","image_id":88290},{"match":"biggiBanzaii","image_id":74483},{"match":"biggiPoonikins","image_id":74488},{"match":"biggiChamp","image_id":88536}]}
+{
+  "name": "twitch-sub-birgirpall",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "biggiSub",
+      "image_id": 77533
+    },
+    {
+      "match": "biggiB",
+      "image_id": 77531
+    },
+    {
+      "match": "biggiYoda",
+      "image_id": 88290
+    },
+    {
+      "match": "biggiBanzaii",
+      "image_id": 74483
+    },
+    {
+      "match": "biggiPoonikins",
+      "image_id": 74488
+    },
+    {
+      "match": "biggiChamp",
+      "image_id": 88536
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-fanboypl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fanEasy","image_id":41989},{"match":"fanVac","image_id":60251},{"match":"fanSiema","image_id":44950},{"match":"fanGG","image_id":48155},{"match":"fanMikro","image_id":58550},{"match":"fanFail","image_id":106810},{"match":"fanBoy","image_id":90772},{"match":"fanRage","image_id":106575}]}
+{
+  "name": "twitch-sub-fanboypl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fanEasy",
+      "image_id": 41989
+    },
+    {
+      "match": "fanVac",
+      "image_id": 60251
+    },
+    {
+      "match": "fanSiema",
+      "image_id": 44950
+    },
+    {
+      "match": "fanGG",
+      "image_id": 48155
+    },
+    {
+      "match": "fanMikro",
+      "image_id": 58550
+    },
+    {
+      "match": "fanFail",
+      "image_id": 106810
+    },
+    {
+      "match": "fanBoy",
+      "image_id": 90772
+    },
+    {
+      "match": "fanRage",
+      "image_id": 106575
+    }
+  ]
+}

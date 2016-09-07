@@ -1,1 +1,47 @@
-{"name":"twitch-sub-thegodfathergeorge","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"afro2","image_id":62829},{"match":"afroKing","image_id":25977},{"match":"afroRage","image_id":26118},{"match":"afroKappa","image_id":26199},{"match":"afroGrin","image_id":30301},{"match":"afroLove","image_id":53667},{"match":"afro3","image_id":62830},{"match":"afro1","image_id":62828},{"match":"afro4","image_id":62831},{"match":"afroW","image_id":87337}]}
+{
+  "name": "twitch-sub-thegodfathergeorge",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "afro2",
+      "image_id": 62829
+    },
+    {
+      "match": "afroKing",
+      "image_id": 25977
+    },
+    {
+      "match": "afroRage",
+      "image_id": 26118
+    },
+    {
+      "match": "afroKappa",
+      "image_id": 26199
+    },
+    {
+      "match": "afroGrin",
+      "image_id": 30301
+    },
+    {
+      "match": "afroLove",
+      "image_id": 53667
+    },
+    {
+      "match": "afro3",
+      "image_id": 62830
+    },
+    {
+      "match": "afro1",
+      "image_id": 62828
+    },
+    {
+      "match": "afro4",
+      "image_id": 62831
+    },
+    {
+      "match": "afroW",
+      "image_id": 87337
+    }
+  ]
+}

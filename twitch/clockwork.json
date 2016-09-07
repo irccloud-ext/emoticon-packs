@@ -1,1 +1,23 @@
-{"name":"twitch-sub-clockwork","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"clockSTEVE","image_id":69349},{"match":"clockFLEX","image_id":66294},{"match":"clockWink","image_id":66426},{"match":"clockBEEF","image_id":66427}]}
+{
+  "name": "twitch-sub-clockwork",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "clockSTEVE",
+      "image_id": 69349
+    },
+    {
+      "match": "clockFLEX",
+      "image_id": 66294
+    },
+    {
+      "match": "clockWink",
+      "image_id": 66426
+    },
+    {
+      "match": "clockBEEF",
+      "image_id": 66427
+    }
+  ]
+}

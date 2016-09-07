@@ -1,1 +1,39 @@
-{"name":"twitch-sub-jemimaru","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jemPkr","image_id":65169},{"match":"jemOmg","image_id":65095},{"match":"jemGrr","image_id":65104},{"match":"jemGlb","image_id":66759},{"match":"jemCry","image_id":66760},{"match":"jemOps","image_id":65162},{"match":"jemLol","image_id":68186},{"match":"jemWave","image_id":68301}]}
+{
+  "name": "twitch-sub-jemimaru",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jemPkr",
+      "image_id": 65169
+    },
+    {
+      "match": "jemOmg",
+      "image_id": 65095
+    },
+    {
+      "match": "jemGrr",
+      "image_id": 65104
+    },
+    {
+      "match": "jemGlb",
+      "image_id": 66759
+    },
+    {
+      "match": "jemCry",
+      "image_id": 66760
+    },
+    {
+      "match": "jemOps",
+      "image_id": 65162
+    },
+    {
+      "match": "jemLol",
+      "image_id": 68186
+    },
+    {
+      "match": "jemWave",
+      "image_id": 68301
+    }
+  ]
+}

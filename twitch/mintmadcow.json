@@ -1,1 +1,47 @@
-{"name":"twitch-sub-mintmadcow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mintySenpai","image_id":62108},{"match":"mintyF","image_id":74425},{"match":"mintyPew","image_id":60308},{"match":"mintyFresh","image_id":61728},{"match":"mintyTunes","image_id":63121},{"match":"mintyHype","image_id":62607},{"match":"mintyH","image_id":101094},{"match":"mintyGasm","image_id":100275},{"match":"mintyW","image_id":98692},{"match":"mintyPog","image_id":98858}]}
+{
+  "name": "twitch-sub-mintmadcow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mintySenpai",
+      "image_id": 62108
+    },
+    {
+      "match": "mintyF",
+      "image_id": 74425
+    },
+    {
+      "match": "mintyPew",
+      "image_id": 60308
+    },
+    {
+      "match": "mintyFresh",
+      "image_id": 61728
+    },
+    {
+      "match": "mintyTunes",
+      "image_id": 63121
+    },
+    {
+      "match": "mintyHype",
+      "image_id": 62607
+    },
+    {
+      "match": "mintyH",
+      "image_id": 101094
+    },
+    {
+      "match": "mintyGasm",
+      "image_id": 100275
+    },
+    {
+      "match": "mintyW",
+      "image_id": 98692
+    },
+    {
+      "match": "mintyPog",
+      "image_id": 98858
+    }
+  ]
+}

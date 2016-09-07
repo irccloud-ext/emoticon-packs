@@ -1,1 +1,23 @@
-{"name":"twitch-sub-kingdom_soldier","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kingdomThug","image_id":24223},{"match":"kingdomWarrior","image_id":24224},{"match":"kingdomBeard","image_id":36953},{"match":"kingdomFro","image_id":36952}]}
+{
+  "name": "twitch-sub-kingdom_soldier",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kingdomThug",
+      "image_id": 24223
+    },
+    {
+      "match": "kingdomWarrior",
+      "image_id": 24224
+    },
+    {
+      "match": "kingdomBeard",
+      "image_id": 36953
+    },
+    {
+      "match": "kingdomFro",
+      "image_id": 36952
+    }
+  ]
+}

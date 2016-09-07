@@ -1,1 +1,23 @@
-{"name":"twitch-sub-efraglive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"efragGGWP","image_id":10077},{"match":"efragDUDU","image_id":10078},{"match":"efragYEAH","image_id":11085},{"match":"efragREALLY","image_id":11089}]}
+{
+  "name": "twitch-sub-efraglive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "efragGGWP",
+      "image_id": 10077
+    },
+    {
+      "match": "efragDUDU",
+      "image_id": 10078
+    },
+    {
+      "match": "efragYEAH",
+      "image_id": 11085
+    },
+    {
+      "match": "efragREALLY",
+      "image_id": 11089
+    }
+  ]
+}

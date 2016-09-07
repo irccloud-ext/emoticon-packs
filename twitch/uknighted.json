@@ -1,1 +1,87 @@
-{"name":"twitch-sub-uknighted","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ohnKoji","image_id":5762},{"match":"ohnBoss","image_id":5670},{"match":"ohnFiddle","image_id":11709},{"match":"ohnDud","image_id":46386},{"match":"ohnMOH","image_id":46219},{"match":"ohnDD","image_id":61444},{"match":"ohnBox","image_id":61428},{"match":"ohnYell","image_id":60546},{"match":"ohnKazpa","image_id":61589},{"match":"ohnPeace","image_id":108716},{"match":"ohnLUL","image_id":108713},{"match":"ohnHong","image_id":25047},{"match":"ohnPuke","image_id":109703},{"match":"ohnLove","image_id":107529},{"match":"ohnGasm","image_id":108006},{"match":"ohnTen","image_id":107547},{"match":"ohnNo","image_id":107522},{"match":"ohnYes","image_id":107550},{"match":"ohnHello","image_id":107533},{"match":"ohnPrettygood","image_id":107525}]}
+{
+  "name": "twitch-sub-uknighted",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ohnKoji",
+      "image_id": 5762
+    },
+    {
+      "match": "ohnBoss",
+      "image_id": 5670
+    },
+    {
+      "match": "ohnFiddle",
+      "image_id": 11709
+    },
+    {
+      "match": "ohnDud",
+      "image_id": 46386
+    },
+    {
+      "match": "ohnMOH",
+      "image_id": 46219
+    },
+    {
+      "match": "ohnDD",
+      "image_id": 61444
+    },
+    {
+      "match": "ohnBox",
+      "image_id": 61428
+    },
+    {
+      "match": "ohnYell",
+      "image_id": 60546
+    },
+    {
+      "match": "ohnKazpa",
+      "image_id": 61589
+    },
+    {
+      "match": "ohnPeace",
+      "image_id": 108716
+    },
+    {
+      "match": "ohnLUL",
+      "image_id": 108713
+    },
+    {
+      "match": "ohnHong",
+      "image_id": 25047
+    },
+    {
+      "match": "ohnPuke",
+      "image_id": 109703
+    },
+    {
+      "match": "ohnLove",
+      "image_id": 107529
+    },
+    {
+      "match": "ohnGasm",
+      "image_id": 108006
+    },
+    {
+      "match": "ohnTen",
+      "image_id": 107547
+    },
+    {
+      "match": "ohnNo",
+      "image_id": 107522
+    },
+    {
+      "match": "ohnYes",
+      "image_id": 107550
+    },
+    {
+      "match": "ohnHello",
+      "image_id": 107533
+    },
+    {
+      "match": "ohnPrettygood",
+      "image_id": 107525
+    }
+  ]
+}

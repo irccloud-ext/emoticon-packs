@@ -1,1 +1,43 @@
-{"name":"twitch-sub-colminigun","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chadDoge","image_id":5224},{"match":"chadKing","image_id":7009},{"match":"chadKappa","image_id":7813},{"match":"chadPop","image_id":7819},{"match":"chadBandit","image_id":14448},{"match":"chadSmokey","image_id":14451},{"match":"chadREKT","image_id":19472},{"match":"chadAWC","image_id":20155},{"match":"chadKlappa","image_id":20196}]}
+{
+  "name": "twitch-sub-colminigun",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chadDoge",
+      "image_id": 5224
+    },
+    {
+      "match": "chadKing",
+      "image_id": 7009
+    },
+    {
+      "match": "chadKappa",
+      "image_id": 7813
+    },
+    {
+      "match": "chadPop",
+      "image_id": 7819
+    },
+    {
+      "match": "chadBandit",
+      "image_id": 14448
+    },
+    {
+      "match": "chadSmokey",
+      "image_id": 14451
+    },
+    {
+      "match": "chadREKT",
+      "image_id": 19472
+    },
+    {
+      "match": "chadAWC",
+      "image_id": 20155
+    },
+    {
+      "match": "chadKlappa",
+      "image_id": 20196
+    }
+  ]
+}

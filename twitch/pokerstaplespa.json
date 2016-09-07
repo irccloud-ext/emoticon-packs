@@ -1,1 +1,31 @@
-{"name":"twitch-sub-pokerstaplespa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ppaJam","image_id":75460},{"match":"ppaChamp","image_id":75459},{"match":"ppaDolla","image_id":76321},{"match":"ppaBarrel","image_id":81729},{"match":"ppaLamp","image_id":95456},{"match":"ppaFish","image_id":101984}]}
+{
+  "name": "twitch-sub-pokerstaplespa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ppaJam",
+      "image_id": 75460
+    },
+    {
+      "match": "ppaChamp",
+      "image_id": 75459
+    },
+    {
+      "match": "ppaDolla",
+      "image_id": 76321
+    },
+    {
+      "match": "ppaBarrel",
+      "image_id": 81729
+    },
+    {
+      "match": "ppaLamp",
+      "image_id": 95456
+    },
+    {
+      "match": "ppaFish",
+      "image_id": 101984
+    }
+  ]
+}

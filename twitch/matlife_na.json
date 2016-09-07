@@ -1,1 +1,23 @@
-{"name":"twitch-sub-matlife_na","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"matlifeAndIm","image_id":53783},{"match":"matlifeAAA","image_id":53044},{"match":"matlifeGone","image_id":53784},{"match":"matlifeDyrus","image_id":53339}]}
+{
+  "name": "twitch-sub-matlife_na",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "matlifeAndIm",
+      "image_id": 53783
+    },
+    {
+      "match": "matlifeAAA",
+      "image_id": 53044
+    },
+    {
+      "match": "matlifeGone",
+      "image_id": 53784
+    },
+    {
+      "match": "matlifeDyrus",
+      "image_id": 53339
+    }
+  ]
+}

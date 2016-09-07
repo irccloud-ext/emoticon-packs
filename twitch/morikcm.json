@@ -1,1 +1,27 @@
-{"name":"twitch-sub-morikcm","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hoodieTheone","image_id":12823},{"match":"hoodiePrizehype","image_id":13577},{"match":"hoodieBM","image_id":20551},{"match":"hoodieLethal","image_id":20552},{"match":"hoodieHeist","image_id":39526}]}
+{
+  "name": "twitch-sub-morikcm",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hoodieTheone",
+      "image_id": 12823
+    },
+    {
+      "match": "hoodiePrizehype",
+      "image_id": 13577
+    },
+    {
+      "match": "hoodieBM",
+      "image_id": 20551
+    },
+    {
+      "match": "hoodieLethal",
+      "image_id": 20552
+    },
+    {
+      "match": "hoodieHeist",
+      "image_id": 39526
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-vektikyt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vekEvin","image_id":71933},{"match":"vekLol","image_id":22065},{"match":"vekTroll","image_id":22066},{"match":"vekOha","image_id":27363},{"match":"vekPalm","image_id":27364},{"match":"vekRagetik","image_id":26936},{"match":"vekPew","image_id":26938},{"match":"vekAufihn","image_id":93830},{"match":"vekGlatze","image_id":85110},{"match":"vekWal","image_id":85107}]}
+{
+  "name": "twitch-sub-vektikyt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vekEvin",
+      "image_id": 71933
+    },
+    {
+      "match": "vekLol",
+      "image_id": 22065
+    },
+    {
+      "match": "vekTroll",
+      "image_id": 22066
+    },
+    {
+      "match": "vekOha",
+      "image_id": 27363
+    },
+    {
+      "match": "vekPalm",
+      "image_id": 27364
+    },
+    {
+      "match": "vekRagetik",
+      "image_id": 26936
+    },
+    {
+      "match": "vekPew",
+      "image_id": 26938
+    },
+    {
+      "match": "vekAufihn",
+      "image_id": 93830
+    },
+    {
+      "match": "vekGlatze",
+      "image_id": 85110
+    },
+    {
+      "match": "vekWal",
+      "image_id": 85107
+    }
+  ]
+}

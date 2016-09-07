@@ -1,1 +1,35 @@
-{"name":"twitch-sub-ireliacarriesu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"buttIreliakappa","image_id":13805},{"match":"buttFrostblade","image_id":43566},{"match":"buttNightblade","image_id":41357},{"match":"buttInfiltrator","image_id":43875},{"match":"buttBang","image_id":49232},{"match":"buttUmad","image_id":63029},{"match":"buttFrostrelia","image_id":102007}]}
+{
+  "name": "twitch-sub-ireliacarriesu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "buttIreliakappa",
+      "image_id": 13805
+    },
+    {
+      "match": "buttFrostblade",
+      "image_id": 43566
+    },
+    {
+      "match": "buttNightblade",
+      "image_id": 41357
+    },
+    {
+      "match": "buttInfiltrator",
+      "image_id": 43875
+    },
+    {
+      "match": "buttBang",
+      "image_id": 49232
+    },
+    {
+      "match": "buttUmad",
+      "image_id": 63029
+    },
+    {
+      "match": "buttFrostrelia",
+      "image_id": 102007
+    }
+  ]
+}

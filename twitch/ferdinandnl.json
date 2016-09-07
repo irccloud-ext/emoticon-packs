@@ -1,1 +1,19 @@
-{"name":"twitch-sub-ferdinandnl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ferdKappa","image_id":72111},{"match":"ferdParley","image_id":78807},{"match":"ferdRekt","image_id":79491}]}
+{
+  "name": "twitch-sub-ferdinandnl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ferdKappa",
+      "image_id": 72111
+    },
+    {
+      "match": "ferdParley",
+      "image_id": 78807
+    },
+    {
+      "match": "ferdRekt",
+      "image_id": 79491
+    }
+  ]
+}

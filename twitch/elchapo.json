@@ -1,1 +1,39 @@
-{"name":"twitch-sub-elchapo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chapoHYPE","image_id":77454},{"match":"chapoREKT","image_id":77455},{"match":"chapoFEET","image_id":83996},{"match":"chapoMUSIC","image_id":84268},{"match":"chapoRepresent","image_id":100462},{"match":"chapoChapoVAPE","image_id":92243},{"match":"chapoSOLO","image_id":92246},{"match":"chapoThor","image_id":100659}]}
+{
+  "name": "twitch-sub-elchapo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chapoHYPE",
+      "image_id": 77454
+    },
+    {
+      "match": "chapoREKT",
+      "image_id": 77455
+    },
+    {
+      "match": "chapoFEET",
+      "image_id": 83996
+    },
+    {
+      "match": "chapoMUSIC",
+      "image_id": 84268
+    },
+    {
+      "match": "chapoRepresent",
+      "image_id": 100462
+    },
+    {
+      "match": "chapoChapoVAPE",
+      "image_id": 92243
+    },
+    {
+      "match": "chapoSOLO",
+      "image_id": 92246
+    },
+    {
+      "match": "chapoThor",
+      "image_id": 100659
+    }
+  ]
+}

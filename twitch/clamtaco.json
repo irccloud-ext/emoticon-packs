@@ -1,1 +1,47 @@
-{"name":"twitch-sub-clamtaco","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"clamFish","image_id":39397},{"match":"clamSword","image_id":47167},{"match":"clamL","image_id":62297},{"match":"clamAUGH","image_id":77780},{"match":"clamR","image_id":77782},{"match":"clamFeels","image_id":83339},{"match":"clamLove","image_id":83340},{"match":"clamBronson","image_id":94171},{"match":"clamAzing","image_id":111066},{"match":"clamGirl","image_id":101463}]}
+{
+  "name": "twitch-sub-clamtaco",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "clamFish",
+      "image_id": 39397
+    },
+    {
+      "match": "clamSword",
+      "image_id": 47167
+    },
+    {
+      "match": "clamL",
+      "image_id": 62297
+    },
+    {
+      "match": "clamR",
+      "image_id": 77782
+    },
+    {
+      "match": "clamCringe",
+      "image_id": 112527
+    },
+    {
+      "match": "clamCreep",
+      "image_id": 112492
+    },
+    {
+      "match": "clamFeels",
+      "image_id": 83339
+    },
+    {
+      "match": "clamLove",
+      "image_id": 83340
+    },
+    {
+      "match": "clamBronson",
+      "image_id": 94171
+    },
+    {
+      "match": "clamAzing",
+      "image_id": 111066
+    }
+  ]
+}

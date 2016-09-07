@@ -1,1 +1,27 @@
-{"name":"twitch-sub-pulseau","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pulseJam","image_id":52695},{"match":"pulseW","image_id":53603},{"match":"pulseSeb","image_id":55214},{"match":"pulseBarrel","image_id":55215},{"match":"pulseCash","image_id":58421}]}
+{
+  "name": "twitch-sub-pulseau",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pulseJam",
+      "image_id": 52695
+    },
+    {
+      "match": "pulseW",
+      "image_id": 53603
+    },
+    {
+      "match": "pulseSeb",
+      "image_id": 55214
+    },
+    {
+      "match": "pulseBarrel",
+      "image_id": 55215
+    },
+    {
+      "match": "pulseCash",
+      "image_id": 58421
+    }
+  ]
+}

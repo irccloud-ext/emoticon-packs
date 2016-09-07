@@ -1,1 +1,15 @@
-{"name":"twitch-sub-kotei_zousa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"koteiBronze","image_id":84043},{"match":"koteiPullvert","image_id":84887}]}
+{
+  "name": "twitch-sub-kotei_zousa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "koteiBronze",
+      "image_id": 84043
+    },
+    {
+      "match": "koteiPullvert",
+      "image_id": 84887
+    }
+  ]
+}

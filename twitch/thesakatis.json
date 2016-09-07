@@ -1,1 +1,39 @@
-{"name":"twitch-sub-thesakatis","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sakaMew","image_id":87137},{"match":"sakaWAH","image_id":87982},{"match":"sakaGau","image_id":87428},{"match":"sakaDele","image_id":87638},{"match":"sakaH","image_id":86970},{"match":"sakaTI","image_id":89386},{"match":"sakaSHY","image_id":92317},{"match":"sakaGG","image_id":92414}]}
+{
+  "name": "twitch-sub-thesakatis",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sakaMew",
+      "image_id": 87137
+    },
+    {
+      "match": "sakaWAH",
+      "image_id": 87982
+    },
+    {
+      "match": "sakaGau",
+      "image_id": 87428
+    },
+    {
+      "match": "sakaDele",
+      "image_id": 87638
+    },
+    {
+      "match": "sakaH",
+      "image_id": 86970
+    },
+    {
+      "match": "sakaTI",
+      "image_id": 89386
+    },
+    {
+      "match": "sakaSHY",
+      "image_id": 92317
+    },
+    {
+      "match": "sakaGG",
+      "image_id": 92414
+    }
+  ]
+}

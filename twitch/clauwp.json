@@ -1,1 +1,31 @@
-{"name":"twitch-sub-clauwp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"clauwW","image_id":48963},{"match":"clauwIly","image_id":46699},{"match":"clauwSub","image_id":46886},{"match":"clauwMoka","image_id":55964},{"match":"clauwFeels","image_id":75146},{"match":"clauwGG","image_id":80898}]}
+{
+  "name": "twitch-sub-clauwp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "clauwW",
+      "image_id": 48963
+    },
+    {
+      "match": "clauwIly",
+      "image_id": 46699
+    },
+    {
+      "match": "clauwSub",
+      "image_id": 46886
+    },
+    {
+      "match": "clauwMoka",
+      "image_id": 55964
+    },
+    {
+      "match": "clauwFeels",
+      "image_id": 75146
+    },
+    {
+      "match": "clauwGG",
+      "image_id": 80898
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-sinapsisyt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hitmark3rHs","image_id":56402},{"match":"hitmark3rHIT","image_id":52928}]}
+{
+  "name": "twitch-sub-sinapsisyt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hitmark3rHs",
+      "image_id": 56402
+    },
+    {
+      "match": "hitmark3rHIT",
+      "image_id": 52928
+    }
+  ]
+}

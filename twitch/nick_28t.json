@@ -1,1 +1,107 @@
-{"name":"twitch-sub-nick_28t","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"goldfish1","image_id":5484},{"match":"goldfishTroll","image_id":11126},{"match":"goldfishEthan","image_id":10797},{"match":"goldfishRIP","image_id":11448},{"match":"goldfishRAGE","image_id":11449},{"match":"goldfishOooo","image_id":57886},{"match":"goldfishPacks","image_id":29980},{"match":"goldfishEwww","image_id":57887},{"match":"goldfishNAN","image_id":47986},{"match":"goldfishMoney","image_id":52522},{"match":"goldfishFUF","image_id":50456},{"match":"goldfishPotatoe","image_id":69921},{"match":"goldfishPOG","image_id":90221},{"match":"goldfishFBM","image_id":90219},{"match":"goldfishZ","image_id":108198},{"match":"goldfishCry","image_id":108199},{"match":"goldfishD","image_id":108201},{"match":"goldfishYES","image_id":108196},{"match":"goldfishLOVE","image_id":108202},{"match":"goldfishNIKT","image_id":108200},{"match":"goldfishNO","image_id":108197},{"match":"goldfishVIP","image_id":108191},{"match":"goldfishOG","image_id":108194},{"match":"goldfishGG","image_id":108311},{"match":"goldfishBoom","image_id":110740}]}
+{
+  "name": "twitch-sub-nick_28t",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "goldfish1",
+      "image_id": 5484
+    },
+    {
+      "match": "goldfishTroll",
+      "image_id": 11126
+    },
+    {
+      "match": "goldfishEthan",
+      "image_id": 10797
+    },
+    {
+      "match": "goldfishRIP",
+      "image_id": 11448
+    },
+    {
+      "match": "goldfishRAGE",
+      "image_id": 11449
+    },
+    {
+      "match": "goldfishOooo",
+      "image_id": 57886
+    },
+    {
+      "match": "goldfishPacks",
+      "image_id": 29980
+    },
+    {
+      "match": "goldfishEwww",
+      "image_id": 57887
+    },
+    {
+      "match": "goldfishNAN",
+      "image_id": 47986
+    },
+    {
+      "match": "goldfishMoney",
+      "image_id": 52522
+    },
+    {
+      "match": "goldfishFUF",
+      "image_id": 50456
+    },
+    {
+      "match": "goldfishPotatoe",
+      "image_id": 69921
+    },
+    {
+      "match": "goldfishPOG",
+      "image_id": 90221
+    },
+    {
+      "match": "goldfishFBM",
+      "image_id": 90219
+    },
+    {
+      "match": "goldfishZ",
+      "image_id": 108198
+    },
+    {
+      "match": "goldfishCry",
+      "image_id": 108199
+    },
+    {
+      "match": "goldfishD",
+      "image_id": 108201
+    },
+    {
+      "match": "goldfishYES",
+      "image_id": 108196
+    },
+    {
+      "match": "goldfishLOVE",
+      "image_id": 108202
+    },
+    {
+      "match": "goldfishNIKT",
+      "image_id": 108200
+    },
+    {
+      "match": "goldfishNO",
+      "image_id": 108197
+    },
+    {
+      "match": "goldfishVIP",
+      "image_id": 108191
+    },
+    {
+      "match": "goldfishOG",
+      "image_id": 108194
+    },
+    {
+      "match": "goldfishGG",
+      "image_id": 108311
+    },
+    {
+      "match": "goldfishBoom",
+      "image_id": 110740
+    }
+  ]
+}

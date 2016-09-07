@@ -1,1 +1,15 @@
-{"name":"twitch-sub-snitchhhhh","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"snitchSSD","image_id":49604},{"match":"snitchW","image_id":91341}]}
+{
+  "name": "twitch-sub-snitchhhhh",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "snitchSSD",
+      "image_id": 49604
+    },
+    {
+      "match": "snitchW",
+      "image_id": 91341
+    }
+  ]
+}

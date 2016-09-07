@@ -1,1 +1,11 @@
-{"name":"twitch-sub-mlghuskers","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"warRat","image_id":3675}]}
+{
+  "name": "twitch-sub-mlghuskers",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "warRat",
+      "image_id": 3675
+    }
+  ]
+}

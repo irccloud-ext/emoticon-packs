@@ -1,1 +1,79 @@
-{"name":"twitch-sub-bigfoltz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"foltz1Bar","image_id":5043},{"match":"foltzReal","image_id":18237},{"match":"foltzSweg","image_id":23693},{"match":"foltzTrash","image_id":24423},{"match":"foltzBabe","image_id":55279},{"match":"foltzKappa","image_id":55278},{"match":"foltzRip","image_id":31325},{"match":"foltzChill","image_id":31394},{"match":"foltzSavage","image_id":75546},{"match":"foltzFIRE","image_id":75545},{"match":"foltzCry","image_id":75544},{"match":"foltzLIT","image_id":75543},{"match":"foltzGG","image_id":75542},{"match":"foltzAye","image_id":58181},{"match":"foltzLove","image_id":61322},{"match":"foltzVC","image_id":69090},{"match":"foltzDad","image_id":73178},{"match":"foltzHype","image_id":72328}]}
+{
+  "name": "twitch-sub-bigfoltz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "foltz1Bar",
+      "image_id": 5043
+    },
+    {
+      "match": "foltzReal",
+      "image_id": 18237
+    },
+    {
+      "match": "foltzSweg",
+      "image_id": 23693
+    },
+    {
+      "match": "foltzTrash",
+      "image_id": 24423
+    },
+    {
+      "match": "foltzBabe",
+      "image_id": 55279
+    },
+    {
+      "match": "foltzKappa",
+      "image_id": 55278
+    },
+    {
+      "match": "foltzRip",
+      "image_id": 31325
+    },
+    {
+      "match": "foltzChill",
+      "image_id": 31394
+    },
+    {
+      "match": "foltzSavage",
+      "image_id": 75546
+    },
+    {
+      "match": "foltzFIRE",
+      "image_id": 75545
+    },
+    {
+      "match": "foltzCry",
+      "image_id": 75544
+    },
+    {
+      "match": "foltzLIT",
+      "image_id": 75543
+    },
+    {
+      "match": "foltzGG",
+      "image_id": 75542
+    },
+    {
+      "match": "foltzAye",
+      "image_id": 58181
+    },
+    {
+      "match": "foltzLove",
+      "image_id": 61322
+    },
+    {
+      "match": "foltzVC",
+      "image_id": 69090
+    },
+    {
+      "match": "foltzDad",
+      "image_id": 73178
+    },
+    {
+      "match": "foltzHype",
+      "image_id": 72328
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-clickmetw","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"clickKkhaha","image_id":6430},{"match":"clickKchaha","image_id":6429},{"match":"clickE04","image_id":33794},{"match":"clickSp4","image_id":33799}]}
+{
+  "name": "twitch-sub-clickmetw",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "clickKkhaha",
+      "image_id": 6430
+    },
+    {
+      "match": "clickKchaha",
+      "image_id": 6429
+    },
+    {
+      "match": "clickE04",
+      "image_id": 33794
+    },
+    {
+      "match": "clickSp4",
+      "image_id": 33799
+    }
+  ]
+}

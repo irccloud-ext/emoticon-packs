@@ -1,1 +1,27 @@
-{"name":"twitch-sub-doktorfroid","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dokHype","image_id":90008},{"match":"dokEasy","image_id":90007},{"match":"dokGoodJob","image_id":90009},{"match":"dokRage","image_id":90010},{"match":"dokDodoJesus","image_id":90349}]}
+{
+  "name": "twitch-sub-doktorfroid",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dokHype",
+      "image_id": 90008
+    },
+    {
+      "match": "dokEasy",
+      "image_id": 90007
+    },
+    {
+      "match": "dokGoodJob",
+      "image_id": 90009
+    },
+    {
+      "match": "dokRage",
+      "image_id": 90010
+    },
+    {
+      "match": "dokDodoJesus",
+      "image_id": 90349
+    }
+  ]
+}

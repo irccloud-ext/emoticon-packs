@@ -1,1 +1,39 @@
-{"name":"twitch-sub-evilarthas","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"roflanHiddenpool","image_id":90896},{"match":"roflanTsar","image_id":43996},{"match":"roflanTigran","image_id":86331},{"match":"roflanBounty","image_id":86350},{"match":"roflanPapich","image_id":41134},{"match":"roflanPomoika","image_id":41135},{"match":"roflanMicro","image_id":59918},{"match":"roflanEbalo","image_id":90817}]}
+{
+  "name": "twitch-sub-evilarthas",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "roflanHiddenpool",
+      "image_id": 90896
+    },
+    {
+      "match": "roflanTsar",
+      "image_id": 43996
+    },
+    {
+      "match": "roflanTigran",
+      "image_id": 86331
+    },
+    {
+      "match": "roflanBounty",
+      "image_id": 86350
+    },
+    {
+      "match": "roflanPapich",
+      "image_id": 41134
+    },
+    {
+      "match": "roflanPomoika",
+      "image_id": 41135
+    },
+    {
+      "match": "roflanMicro",
+      "image_id": 59918
+    },
+    {
+      "match": "roflanEbalo",
+      "image_id": 90817
+    }
+  ]
+}

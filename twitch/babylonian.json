@@ -1,1 +1,19 @@
-{"name":"twitch-sub-babylonian","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"babylonNick","image_id":36466},{"match":"babylonHeart","image_id":41412},{"match":"babylonStringCheese","image_id":41411}]}
+{
+  "name": "twitch-sub-babylonian",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "babylonNick",
+      "image_id": 36466
+    },
+    {
+      "match": "babylonHeart",
+      "image_id": 41412
+    },
+    {
+      "match": "babylonStringCheese",
+      "image_id": 41411
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-singollo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sdhTnk","image_id":97106}]}
+{
+  "name": "twitch-sub-singollo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sdhAP",
+      "image_id": 111938
+    },
+    {
+      "match": "sdhTnk",
+      "image_id": 97106
+    }
+  ]
+}

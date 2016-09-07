@@ -1,1 +1,39 @@
-{"name":"twitch-sub-flashdavin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"flashGoal","image_id":25900},{"match":"flashPAPA","image_id":51007},{"match":"flashDINO","image_id":51008},{"match":"flashRAMMED","image_id":51425},{"match":"flashCREEP","image_id":52479},{"match":"flashCRY","image_id":53243},{"match":"flashSAVE","image_id":87789},{"match":"flashSAVE","image_id":87921}]}
+{
+  "name": "twitch-sub-flashdavin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "flashGoal",
+      "image_id": 25900
+    },
+    {
+      "match": "flashPAPA",
+      "image_id": 51007
+    },
+    {
+      "match": "flashDINO",
+      "image_id": 51008
+    },
+    {
+      "match": "flashRAMMED",
+      "image_id": 51425
+    },
+    {
+      "match": "flashCREEP",
+      "image_id": 52479
+    },
+    {
+      "match": "flashCRY",
+      "image_id": 53243
+    },
+    {
+      "match": "flashSAVE",
+      "image_id": 87789
+    },
+    {
+      "match": "flashSAVE",
+      "image_id": 87921
+    }
+  ]
+}

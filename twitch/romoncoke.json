@@ -1,1 +1,19 @@
-{"name":"twitch-sub-romoncoke","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"romonMilkbois","image_id":63782},{"match":"romonSleep","image_id":63725}]}
+{
+  "name": "twitch-sub-romoncoke",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "romonMilkbois",
+      "image_id": 63782
+    },
+    {
+      "match": "romonSleep",
+      "image_id": 63725
+    },
+    {
+      "match": "romonMadman",
+      "image_id": 112077
+    }
+  ]
+}

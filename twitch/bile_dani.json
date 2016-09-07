@@ -1,1 +1,23 @@
-{"name":"twitch-sub-bile_dani","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"derpdaniHyi","image_id":72836},{"match":"derpdaniKing","image_id":72841},{"match":"derpdaniWow","image_id":72839},{"match":"derpdaniDeprp","image_id":72834}]}
+{
+  "name": "twitch-sub-bile_dani",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "derpdaniHyi",
+      "image_id": 72836
+    },
+    {
+      "match": "derpdaniKing",
+      "image_id": 72841
+    },
+    {
+      "match": "derpdaniWow",
+      "image_id": 72839
+    },
+    {
+      "match": "derpdaniDeprp",
+      "image_id": 72834
+    }
+  ]
+}

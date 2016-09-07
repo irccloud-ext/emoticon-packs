@@ -1,1 +1,31 @@
-{"name":"twitch-sub-thethingssheplays","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ttspLewd","image_id":99241},{"match":"ttspThump","image_id":101576},{"match":"ttspLove","image_id":99233},{"match":"ttspRage","image_id":99232},{"match":"ttspHype","image_id":101538},{"match":"ttspGopher","image_id":101539}]}
+{
+  "name": "twitch-sub-thethingssheplays",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ttspLewd",
+      "image_id": 99241
+    },
+    {
+      "match": "ttspThump",
+      "image_id": 101576
+    },
+    {
+      "match": "ttspLove",
+      "image_id": 99233
+    },
+    {
+      "match": "ttspRage",
+      "image_id": 99232
+    },
+    {
+      "match": "ttspHype",
+      "image_id": 101538
+    },
+    {
+      "match": "ttspGopher",
+      "image_id": 101539
+    }
+  ]
+}

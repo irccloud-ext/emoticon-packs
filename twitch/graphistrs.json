@@ -1,1 +1,47 @@
-{"name":"twitch-sub-graphistrs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"graphSPECTELE","image_id":62779},{"match":"graphLOUD","image_id":59885},{"match":"graphThump","image_id":91465},{"match":"graphKFC","image_id":97674},{"match":"graphBANGER","image_id":60478},{"match":"graphBOOM","image_id":60314},{"match":"graphFRESHAIR","image_id":60315},{"match":"graphMELON","image_id":91131},{"match":"graphRIP","image_id":90765},{"match":"graphTriHard","image_id":90858}]}
+{
+  "name": "twitch-sub-graphistrs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "graphSPECTELE",
+      "image_id": 62779
+    },
+    {
+      "match": "graphLOUD",
+      "image_id": 59885
+    },
+    {
+      "match": "graphThump",
+      "image_id": 91465
+    },
+    {
+      "match": "graphKFC",
+      "image_id": 97674
+    },
+    {
+      "match": "graphBANGER",
+      "image_id": 60478
+    },
+    {
+      "match": "graphBOOM",
+      "image_id": 60314
+    },
+    {
+      "match": "graphFRESHAIR",
+      "image_id": 60315
+    },
+    {
+      "match": "graphMELON",
+      "image_id": 91131
+    },
+    {
+      "match": "graphRIP",
+      "image_id": 90765
+    },
+    {
+      "match": "graphTriHard",
+      "image_id": 90858
+    }
+  ]
+}

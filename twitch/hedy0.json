@@ -1,1 +1,31 @@
-{"name":"twitch-sub-hedy0","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hedjeHog","image_id":106824},{"match":"hedjeLove","image_id":106823},{"match":"hedjeDerp","image_id":103798},{"match":"hedjeVAC","image_id":96944},{"match":"hedjeSmash","image_id":106892},{"match":"hedjeHi","image_id":106894}]}
+{
+  "name": "twitch-sub-hedy0",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hedjeHog",
+      "image_id": 106824
+    },
+    {
+      "match": "hedjeLove",
+      "image_id": 106823
+    },
+    {
+      "match": "hedjeDerp",
+      "image_id": 103798
+    },
+    {
+      "match": "hedjeVAC",
+      "image_id": 96944
+    },
+    {
+      "match": "hedjeSmash",
+      "image_id": 106892
+    },
+    {
+      "match": "hedjeHi",
+      "image_id": 106894
+    }
+  ]
+}

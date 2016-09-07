@@ -1,1 +1,35 @@
-{"name":"twitch-sub-rolandbrukowski","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rolandMacho","image_id":20868},{"match":"rolandW","image_id":18979},{"match":"rolandWstar","image_id":18992},{"match":"rolandRain","image_id":19309},{"match":"rolandDrank","image_id":20449},{"match":"rolandLean","image_id":20448},{"match":"rolandTrap","image_id":26907}]}
+{
+  "name": "twitch-sub-rolandbrukowski",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rolandMacho",
+      "image_id": 20868
+    },
+    {
+      "match": "rolandW",
+      "image_id": 18979
+    },
+    {
+      "match": "rolandWstar",
+      "image_id": 18992
+    },
+    {
+      "match": "rolandRain",
+      "image_id": 19309
+    },
+    {
+      "match": "rolandDrank",
+      "image_id": 20449
+    },
+    {
+      "match": "rolandLean",
+      "image_id": 20448
+    },
+    {
+      "match": "rolandTrap",
+      "image_id": 26907
+    }
+  ]
+}

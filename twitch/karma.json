@@ -1,1 +1,43 @@
-{"name":"twitch-sub-karma","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"karmaTBAG","image_id":14326},{"match":"karmaBOX","image_id":14327},{"match":"karmaFACE","image_id":14328},{"match":"karmaOG","image_id":83542},{"match":"karmaWOOO","image_id":75897},{"match":"karmaPLEB","image_id":75895},{"match":"karmaWOO","image_id":75900},{"match":"karmaHYPE","image_id":75896},{"match":"karmaGW","image_id":83541}]}
+{
+  "name": "twitch-sub-karma",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "karmaTBAG",
+      "image_id": 14326
+    },
+    {
+      "match": "karmaBOX",
+      "image_id": 14327
+    },
+    {
+      "match": "karmaFACE",
+      "image_id": 14328
+    },
+    {
+      "match": "karmaOG",
+      "image_id": 83542
+    },
+    {
+      "match": "karmaWOOO",
+      "image_id": 75897
+    },
+    {
+      "match": "karmaPLEB",
+      "image_id": 75895
+    },
+    {
+      "match": "karmaWOO",
+      "image_id": 75900
+    },
+    {
+      "match": "karmaHYPE",
+      "image_id": 75896
+    },
+    {
+      "match": "karmaGW",
+      "image_id": 83541
+    }
+  ]
+}

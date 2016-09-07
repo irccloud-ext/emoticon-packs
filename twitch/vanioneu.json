@@ -1,1 +1,27 @@
-{"name":"twitch-sub-vanioneu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vbeCat","image_id":2149},{"match":"vbeNo","image_id":2150},{"match":"vbeLoki","image_id":99914},{"match":"vbeKappa","image_id":100841},{"match":"vbePepe","image_id":99984}]}
+{
+  "name": "twitch-sub-vanioneu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vbeCat",
+      "image_id": 2149
+    },
+    {
+      "match": "vbeNo",
+      "image_id": 2150
+    },
+    {
+      "match": "vbeLoki",
+      "image_id": 99914
+    },
+    {
+      "match": "vbeKappa",
+      "image_id": 100841
+    },
+    {
+      "match": "vbePepe",
+      "image_id": 99984
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-duchessjo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jojoCat","image_id":12570},{"match":"jojoRip","image_id":13292},{"match":"jojoThumb","image_id":14842},{"match":"jojoSword","image_id":22768},{"match":"jojoPotato","image_id":35342},{"match":"jojoRekt","image_id":35338}]}
+{
+  "name": "twitch-sub-duchessjo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jojoCat",
+      "image_id": 12570
+    },
+    {
+      "match": "jojoRip",
+      "image_id": 13292
+    },
+    {
+      "match": "jojoThumb",
+      "image_id": 14842
+    },
+    {
+      "match": "jojoSword",
+      "image_id": 22768
+    },
+    {
+      "match": "jojoPotato",
+      "image_id": 35342
+    },
+    {
+      "match": "jojoRekt",
+      "image_id": 35338
+    }
+  ]
+}

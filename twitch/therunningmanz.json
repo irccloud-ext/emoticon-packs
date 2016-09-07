@@ -1,1 +1,67 @@
-{"name":"twitch-sub-therunningmanz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"trmzBlaze","image_id":76600},{"match":"trmzBloodykappa","image_id":53977},{"match":"trmzRunning","image_id":53976},{"match":"trmzHype","image_id":54484},{"match":"trmzGG","image_id":54024},{"match":"trmz1664","image_id":54023},{"match":"trmzLoot","image_id":59690},{"match":"trmzEpic","image_id":59630},{"match":"trmzLove","image_id":76599},{"match":"trmzNoob","image_id":81985},{"match":"trmzCOTW","image_id":101737},{"match":"trmzDOOD","image_id":101738},{"match":"trmzNURSE","image_id":101739},{"match":"trmzMUTE","image_id":101740},{"match":"trmzRIP","image_id":101741}]}
+{
+  "name": "twitch-sub-therunningmanz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "trmzBlaze",
+      "image_id": 76600
+    },
+    {
+      "match": "trmzBloodykappa",
+      "image_id": 53977
+    },
+    {
+      "match": "trmzRunning",
+      "image_id": 53976
+    },
+    {
+      "match": "trmzHype",
+      "image_id": 54484
+    },
+    {
+      "match": "trmzGG",
+      "image_id": 54024
+    },
+    {
+      "match": "trmz1664",
+      "image_id": 54023
+    },
+    {
+      "match": "trmzLoot",
+      "image_id": 59690
+    },
+    {
+      "match": "trmzEpic",
+      "image_id": 59630
+    },
+    {
+      "match": "trmzLove",
+      "image_id": 76599
+    },
+    {
+      "match": "trmzNoob",
+      "image_id": 81985
+    },
+    {
+      "match": "trmzCOTW",
+      "image_id": 101737
+    },
+    {
+      "match": "trmzDOOD",
+      "image_id": 101738
+    },
+    {
+      "match": "trmzNURSE",
+      "image_id": 101739
+    },
+    {
+      "match": "trmzMUTE",
+      "image_id": 101740
+    },
+    {
+      "match": "trmzRIP",
+      "image_id": 101741
+    }
+  ]
+}

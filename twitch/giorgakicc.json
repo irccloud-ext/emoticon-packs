@@ -1,1 +1,19 @@
-{"name":"twitch-sub-giorgakicc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"giorgakiccTICK","image_id":52574},{"match":"giorgakiccKS","image_id":52049},{"match":"giorgakiccFP","image_id":50419}]}
+{
+  "name": "twitch-sub-giorgakicc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "giorgakiccTICK",
+      "image_id": 52574
+    },
+    {
+      "match": "giorgakiccKS",
+      "image_id": 52049
+    },
+    {
+      "match": "giorgakiccFP",
+      "image_id": 50419
+    }
+  ]
+}

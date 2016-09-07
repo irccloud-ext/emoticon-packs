@@ -1,1 +1,23 @@
-{"name":"twitch-sub-thiagohps","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hpsHS","image_id":61520},{"match":"hpsBoom","image_id":60561},{"match":"hpsFlip","image_id":61519},{"match":"hps2","image_id":78179}]}
+{
+  "name": "twitch-sub-thiagohps",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hpsHS",
+      "image_id": 61520
+    },
+    {
+      "match": "hpsBoom",
+      "image_id": 60561
+    },
+    {
+      "match": "hpsFlip",
+      "image_id": 61519
+    },
+    {
+      "match": "hps2",
+      "image_id": 78179
+    }
+  ]
+}

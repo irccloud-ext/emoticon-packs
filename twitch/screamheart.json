@@ -1,1 +1,31 @@
-{"name":"twitch-sub-screamheart","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"screampaiHype","image_id":74962},{"match":"screampaiRage","image_id":74963},{"match":"screampaiHeart","image_id":74966},{"match":"screampaiRip","image_id":74964},{"match":"screampaiDerp","image_id":105978},{"match":"screampaiNom","image_id":105977}]}
+{
+  "name": "twitch-sub-screamheart",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "screampaiHype",
+      "image_id": 74962
+    },
+    {
+      "match": "screampaiRage",
+      "image_id": 74963
+    },
+    {
+      "match": "screampaiHeart",
+      "image_id": 74966
+    },
+    {
+      "match": "screampaiRip",
+      "image_id": 74964
+    },
+    {
+      "match": "screampaiDerp",
+      "image_id": 105978
+    },
+    {
+      "match": "screampaiNom",
+      "image_id": 105977
+    }
+  ]
+}

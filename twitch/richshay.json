@@ -1,1 +1,15 @@
-{"name":"twitch-sub-richshay","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"atogGrin","image_id":102035},{"match":"atogDet","image_id":104086}]}
+{
+  "name": "twitch-sub-richshay",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "atogGrin",
+      "image_id": 102035
+    },
+    {
+      "match": "atogDet",
+      "image_id": 104086
+    }
+  ]
+}

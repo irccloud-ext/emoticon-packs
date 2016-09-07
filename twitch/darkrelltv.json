@@ -1,1 +1,23 @@
-{"name":"twitch-sub-darkrelltv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"darkyHYPE","image_id":97662},{"match":"darkyHolySh1t","image_id":64205},{"match":"darkyHeadShot","image_id":64207},{"match":"darkyRIP","image_id":97337}]}
+{
+  "name": "twitch-sub-darkrelltv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "darkyHYPE",
+      "image_id": 97662
+    },
+    {
+      "match": "darkyHolySh1t",
+      "image_id": 64205
+    },
+    {
+      "match": "darkyHeadShot",
+      "image_id": 64207
+    },
+    {
+      "match": "darkyRIP",
+      "image_id": 97337
+    }
+  ]
+}

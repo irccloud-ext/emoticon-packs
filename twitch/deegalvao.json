@@ -1,1 +1,39 @@
-{"name":"twitch-sub-deegalvao","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"deegDee","image_id":15770},{"match":"deegRiso","image_id":15771},{"match":"deegChernobilly","image_id":16033},{"match":"deegFab","image_id":30695},{"match":"deegDerp","image_id":30694},{"match":"deegRage","image_id":43906},{"match":"deegUIE","image_id":47789},{"match":"deegAFZ","image_id":47788}]}
+{
+  "name": "twitch-sub-deegalvao",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "deegDee",
+      "image_id": 15770
+    },
+    {
+      "match": "deegRiso",
+      "image_id": 15771
+    },
+    {
+      "match": "deegChernobilly",
+      "image_id": 16033
+    },
+    {
+      "match": "deegFab",
+      "image_id": 30695
+    },
+    {
+      "match": "deegDerp",
+      "image_id": 30694
+    },
+    {
+      "match": "deegRage",
+      "image_id": 43906
+    },
+    {
+      "match": "deegUIE",
+      "image_id": 47789
+    },
+    {
+      "match": "deegAFZ",
+      "image_id": 47788
+    }
+  ]
+}

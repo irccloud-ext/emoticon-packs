@@ -1,1 +1,39 @@
-{"name":"twitch-sub-tockcustom","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tockLurk","image_id":92409},{"match":"tockBomb","image_id":87760},{"match":"tockJelly","image_id":86727},{"match":"tockHype","image_id":87761},{"match":"tockThor","image_id":87583},{"match":"tockMoist","image_id":86781},{"match":"tockLove","image_id":87636},{"match":"tockRage","image_id":92410}]}
+{
+  "name": "twitch-sub-tockcustom",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tockLurk",
+      "image_id": 92409
+    },
+    {
+      "match": "tockBomb",
+      "image_id": 87760
+    },
+    {
+      "match": "tockJelly",
+      "image_id": 86727
+    },
+    {
+      "match": "tockHype",
+      "image_id": 87761
+    },
+    {
+      "match": "tockThor",
+      "image_id": 87583
+    },
+    {
+      "match": "tockMoist",
+      "image_id": 86781
+    },
+    {
+      "match": "tockLove",
+      "image_id": 87636
+    },
+    {
+      "match": "tockRage",
+      "image_id": 92410
+    }
+  ]
+}

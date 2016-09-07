@@ -1,1 +1,39 @@
-{"name":"twitch-sub-chixytv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chixyMini","image_id":9237},{"match":"chixyBee","image_id":9990},{"match":"chixyFeed","image_id":11446},{"match":"chixyFail","image_id":11468},{"match":"chixyPro","image_id":10939},{"match":"chixyTowerdive","image_id":38754},{"match":"chixyW","image_id":40902},{"match":"chixyPlays","image_id":40906}]}
+{
+  "name": "twitch-sub-chixytv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chixyMini",
+      "image_id": 9237
+    },
+    {
+      "match": "chixyBee",
+      "image_id": 9990
+    },
+    {
+      "match": "chixyFeed",
+      "image_id": 11446
+    },
+    {
+      "match": "chixyFail",
+      "image_id": 11468
+    },
+    {
+      "match": "chixyPro",
+      "image_id": 10939
+    },
+    {
+      "match": "chixyTowerdive",
+      "image_id": 38754
+    },
+    {
+      "match": "chixyW",
+      "image_id": 40902
+    },
+    {
+      "match": "chixyPlays",
+      "image_id": 40906
+    }
+  ]
+}

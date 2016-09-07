@@ -1,1 +1,23 @@
-{"name":"twitch-sub-rossboomsocks","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rsbmsZheno","image_id":27153},{"match":"rsbmsKappa","image_id":25892},{"match":"rsbmsFlute","image_id":28658},{"match":"rsbmsDudu","image_id":28657}]}
+{
+  "name": "twitch-sub-rossboomsocks",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rssZheno",
+      "image_id": 27153
+    },
+    {
+      "match": "rssKappa",
+      "image_id": 25892
+    },
+    {
+      "match": "rssFlute",
+      "image_id": 28658
+    },
+    {
+      "match": "rssDudu",
+      "image_id": 28657
+    }
+  ]
+}

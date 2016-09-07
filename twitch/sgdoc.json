@@ -1,1 +1,43 @@
-{"name":"twitch-sub-sgdoc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"doctaDee","image_id":12859},{"match":"doctaIntense","image_id":12902},{"match":"doctaGlass","image_id":14134},{"match":"doctaLighter","image_id":14170},{"match":"doctaOne","image_id":14224},{"match":"doctaNDHI","image_id":54881},{"match":"doctaNut","image_id":55359},{"match":"doctaClassy","image_id":56042},{"match":"doctaKappa","image_id":69343}]}
+{
+  "name": "twitch-sub-sgdoc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "doctaDee",
+      "image_id": 12859
+    },
+    {
+      "match": "doctaIntense",
+      "image_id": 12902
+    },
+    {
+      "match": "doctaGlass",
+      "image_id": 14134
+    },
+    {
+      "match": "doctaLighter",
+      "image_id": 14170
+    },
+    {
+      "match": "doctaOne",
+      "image_id": 14224
+    },
+    {
+      "match": "doctaNDHI",
+      "image_id": 54881
+    },
+    {
+      "match": "doctaNut",
+      "image_id": 55359
+    },
+    {
+      "match": "doctaClassy",
+      "image_id": 56042
+    },
+    {
+      "match": "doctaKappa",
+      "image_id": 69343
+    }
+  ]
+}

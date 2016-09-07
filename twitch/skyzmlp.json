@@ -1,1 +1,31 @@
-{"name":"twitch-sub-skyzmlp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"skyzmCrown","image_id":33505},{"match":"skyzmNuke","image_id":33003},{"match":"skyzmCorrect","image_id":33506},{"match":"skyzmBaby","image_id":35560},{"match":"skyzmCats","image_id":35193},{"match":"skyzmBurp","image_id":36446}]}
+{
+  "name": "twitch-sub-skyzmlp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "skyzmCrown",
+      "image_id": 33505
+    },
+    {
+      "match": "skyzmNuke",
+      "image_id": 33003
+    },
+    {
+      "match": "skyzmCorrect",
+      "image_id": 33506
+    },
+    {
+      "match": "skyzmBaby",
+      "image_id": 35560
+    },
+    {
+      "match": "skyzmCats",
+      "image_id": 35193
+    },
+    {
+      "match": "skyzmBurp",
+      "image_id": 36446
+    }
+  ]
+}

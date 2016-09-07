@@ -1,1 +1,23 @@
-{"name":"twitch-sub-zockerdudes","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dudesBambus","image_id":76460},{"match":"dudesKerne","image_id":52627},{"match":"dudesRage","image_id":45855},{"match":"dudesLuck","image_id":97919}]}
+{
+  "name": "twitch-sub-zockerdudes",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dudesBambus",
+      "image_id": 76460
+    },
+    {
+      "match": "dudesKerne",
+      "image_id": 52627
+    },
+    {
+      "match": "dudesRage",
+      "image_id": 45855
+    },
+    {
+      "match": "dudesLuck",
+      "image_id": 97919
+    }
+  ]
+}

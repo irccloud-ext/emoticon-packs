@@ -1,1 +1,31 @@
-{"name":"twitch-sub-oodigames","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"oodiBug","image_id":24564},{"match":"oodiLove","image_id":22909},{"match":"oodiTOP","image_id":30070},{"match":"oodiBot","image_id":68047},{"match":"oodiBop","image_id":68043},{"match":"oodiHi","image_id":95828}]}
+{
+  "name": "twitch-sub-oodigames",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "oodiBug",
+      "image_id": 24564
+    },
+    {
+      "match": "oodiLove",
+      "image_id": 22909
+    },
+    {
+      "match": "oodiTOP",
+      "image_id": 30070
+    },
+    {
+      "match": "oodiBot",
+      "image_id": 68047
+    },
+    {
+      "match": "oodiBop",
+      "image_id": 68043
+    },
+    {
+      "match": "oodiHi",
+      "image_id": 95828
+    }
+  ]
+}

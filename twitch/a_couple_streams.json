@@ -1,1 +1,47 @@
-{"name":"twitch-sub-a_couple_streams","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"acsPipes","image_id":104549},{"match":"acsWhiskey","image_id":87618},{"match":"acsCoda","image_id":87673},{"match":"acsOates","image_id":87676},{"match":"acsLove","image_id":96138},{"match":"acsTexas","image_id":102968},{"match":"acsWhale","image_id":102964},{"match":"acsRIP","image_id":106165},{"match":"acsHiFi","image_id":111279},{"match":"acsBass","image_id":111280}]}
+{
+  "name": "twitch-sub-a_couple_streams",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "acsPipes",
+      "image_id": 104549
+    },
+    {
+      "match": "acsWhiskey",
+      "image_id": 87618
+    },
+    {
+      "match": "acsCoda",
+      "image_id": 87673
+    },
+    {
+      "match": "acsOates",
+      "image_id": 87676
+    },
+    {
+      "match": "acsLove",
+      "image_id": 96138
+    },
+    {
+      "match": "acsTexas",
+      "image_id": 102968
+    },
+    {
+      "match": "acsWhale",
+      "image_id": 102964
+    },
+    {
+      "match": "acsRIP",
+      "image_id": 106165
+    },
+    {
+      "match": "acsHiFi",
+      "image_id": 111279
+    },
+    {
+      "match": "acsBass",
+      "image_id": 111280
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-fazekay","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fazekayhdBILL","image_id":54910},{"match":"fazekayhdKAY","image_id":54912},{"match":"fazekayhdFAZEUP","image_id":54911},{"match":"fazekayhdCLIP","image_id":54909}]}
+{
+  "name": "twitch-sub-fazekay",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fazekayhdBILL",
+      "image_id": 54910
+    },
+    {
+      "match": "fazekayhdKAY",
+      "image_id": 54912
+    },
+    {
+      "match": "fazekayhdFAZEUP",
+      "image_id": 54911
+    },
+    {
+      "match": "fazekayhdCLIP",
+      "image_id": 54909
+    }
+  ]
+}

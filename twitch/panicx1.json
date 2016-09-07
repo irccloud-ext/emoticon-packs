@@ -1,1 +1,15 @@
-{"name":"twitch-sub-panicx1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xellosXD","image_id":38444},{"match":"xellosSlap","image_id":38445}]}
+{
+  "name": "twitch-sub-panicx1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xellosXD",
+      "image_id": 38444
+    },
+    {
+      "match": "xellosSlap",
+      "image_id": 38445
+    }
+  ]
+}

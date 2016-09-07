@@ -1,1 +1,23 @@
-{"name":"twitch-sub-st3pnytv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"st3pnyGATTO","image_id":22189},{"match":"st3pnyDOLLY","image_id":22188},{"match":"st3pnyANGURIA","image_id":22667},{"match":"st3pny88","image_id":26945}]}
+{
+  "name": "twitch-sub-st3pnytv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "st3pnyGATTO",
+      "image_id": 22189
+    },
+    {
+      "match": "st3pnyDOLLY",
+      "image_id": 22188
+    },
+    {
+      "match": "st3pnyANGURIA",
+      "image_id": 22667
+    },
+    {
+      "match": "st3pny88",
+      "image_id": 26945
+    }
+  ]
+}

@@ -1,1 +1,207 @@
-{"name":"twitch-sub-lirik","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lirikThump","image_id":1956},{"match":"lirikC","image_id":2172},{"match":"lirikB","image_id":2197},{"match":"lirikL","image_id":2200},{"match":"lirikM","image_id":2173},{"match":"lirikO","image_id":2344},{"match":"lirikF","image_id":48986},{"match":"lirikFAT","image_id":4493},{"match":"lirikAppa","image_id":10327},{"match":"lirikGasm","image_id":9421},{"match":"lirikSHUCKS","image_id":105054},{"match":"lirikGOTY","image_id":9706},{"match":"lirikREKT","image_id":9773},{"match":"lirikRIP","image_id":9914},{"match":"lirikN","image_id":96286},{"match":"lirikH","image_id":15020},{"match":"lirikMEOW","image_id":45583},{"match":"lirikMLG","image_id":16156},{"match":"lirikCRASH","image_id":23002},{"match":"lirikHug","image_id":29049},{"match":"lirikTEN","image_id":29569},{"match":"lirikGREAT","image_id":85609},{"match":"lirikPOOP","image_id":37748},{"match":"lirikNICE","image_id":40500},{"match":"lirikHOLD","image_id":72445},{"match":"lirikW","image_id":48739},{"match":"lirikWc","image_id":48740},{"match":"lirikNON","image_id":105098},{"match":"lirikDJ","image_id":57485},{"match":"lirikP","image_id":57484},{"match":"lirikHYPE","image_id":50739},{"match":"lirikNOT","image_id":50740},{"match":"lirikCHAMP","image_id":50741},{"match":"lirikLEWD","image_id":50742},{"match":"lirikFEELS","image_id":55507},{"match":"lirikBLIND","image_id":57723},{"match":"lirikOBESE","image_id":58560},{"match":"lirikGOOD","image_id":65389},{"match":"lirikTRUCK","image_id":81628},{"match":"lirikSCARED","image_id":73240},{"match":"lirikA","image_id":111486},{"match":"lirikPUKE","image_id":83127},{"match":"lirikCLAP","image_id":85991},{"match":"lirikBB","image_id":87452},{"match":"lirikOHGOD","image_id":86923},{"match":"lirikLOOT","image_id":89011},{"match":"lirikSALT","image_id":95379},{"match":"lirikPOOL","image_id":103436},{"match":"lirikLUL","image_id":104403},{"match":"lirikOG","image_id":109208}]}
+{
+  "name": "twitch-sub-lirik",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lirikThump",
+      "image_id": 1956
+    },
+    {
+      "match": "lirikC",
+      "image_id": 2172
+    },
+    {
+      "match": "lirikB",
+      "image_id": 2197
+    },
+    {
+      "match": "lirikL",
+      "image_id": 2200
+    },
+    {
+      "match": "lirikM",
+      "image_id": 2173
+    },
+    {
+      "match": "lirikO",
+      "image_id": 2344
+    },
+    {
+      "match": "lirikF",
+      "image_id": 48986
+    },
+    {
+      "match": "lirikFAT",
+      "image_id": 4493
+    },
+    {
+      "match": "lirikAppa",
+      "image_id": 10327
+    },
+    {
+      "match": "lirikGasm",
+      "image_id": 9421
+    },
+    {
+      "match": "lirikSHUCKS",
+      "image_id": 105054
+    },
+    {
+      "match": "lirikGOTY",
+      "image_id": 9706
+    },
+    {
+      "match": "lirikREKT",
+      "image_id": 9773
+    },
+    {
+      "match": "lirikRIP",
+      "image_id": 9914
+    },
+    {
+      "match": "lirikN",
+      "image_id": 96286
+    },
+    {
+      "match": "lirikH",
+      "image_id": 15020
+    },
+    {
+      "match": "lirikMEOW",
+      "image_id": 45583
+    },
+    {
+      "match": "lirikMLG",
+      "image_id": 16156
+    },
+    {
+      "match": "lirikCRASH",
+      "image_id": 23002
+    },
+    {
+      "match": "lirikHug",
+      "image_id": 29049
+    },
+    {
+      "match": "lirikTEN",
+      "image_id": 29569
+    },
+    {
+      "match": "lirikGREAT",
+      "image_id": 85609
+    },
+    {
+      "match": "lirikPOOP",
+      "image_id": 37748
+    },
+    {
+      "match": "lirikNICE",
+      "image_id": 40500
+    },
+    {
+      "match": "lirikHOLD",
+      "image_id": 72445
+    },
+    {
+      "match": "lirikW",
+      "image_id": 48739
+    },
+    {
+      "match": "lirikWc",
+      "image_id": 48740
+    },
+    {
+      "match": "lirikNON",
+      "image_id": 105098
+    },
+    {
+      "match": "lirikDJ",
+      "image_id": 57485
+    },
+    {
+      "match": "lirikP",
+      "image_id": 57484
+    },
+    {
+      "match": "lirikHYPE",
+      "image_id": 50739
+    },
+    {
+      "match": "lirikNOT",
+      "image_id": 50740
+    },
+    {
+      "match": "lirikCHAMP",
+      "image_id": 50741
+    },
+    {
+      "match": "lirikLEWD",
+      "image_id": 50742
+    },
+    {
+      "match": "lirikFEELS",
+      "image_id": 55507
+    },
+    {
+      "match": "lirikBLIND",
+      "image_id": 57723
+    },
+    {
+      "match": "lirikOBESE",
+      "image_id": 58560
+    },
+    {
+      "match": "lirikGOOD",
+      "image_id": 65389
+    },
+    {
+      "match": "lirikTRUCK",
+      "image_id": 81628
+    },
+    {
+      "match": "lirikSCARED",
+      "image_id": 73240
+    },
+    {
+      "match": "lirikA",
+      "image_id": 111486
+    },
+    {
+      "match": "lirikPUKE",
+      "image_id": 83127
+    },
+    {
+      "match": "lirikCLAP",
+      "image_id": 85991
+    },
+    {
+      "match": "lirikBB",
+      "image_id": 87452
+    },
+    {
+      "match": "lirikOHGOD",
+      "image_id": 86923
+    },
+    {
+      "match": "lirikLOOT",
+      "image_id": 89011
+    },
+    {
+      "match": "lirikSALT",
+      "image_id": 95379
+    },
+    {
+      "match": "lirikPOOL",
+      "image_id": 103436
+    },
+    {
+      "match": "lirikLUL",
+      "image_id": 104403
+    },
+    {
+      "match": "lirikOG",
+      "image_id": 109208
+    }
+  ]
+}

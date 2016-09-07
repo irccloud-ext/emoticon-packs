@@ -1,1 +1,15 @@
-{"name":"twitch-sub-eltown_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"eltownKappa","image_id":67278}]}
+{
+  "name": "twitch-sub-eltown_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "eltownKappa",
+      "image_id": 67278
+    },
+    {
+      "match": "eltownHype",
+      "image_id": 112318
+    }
+  ]
+}

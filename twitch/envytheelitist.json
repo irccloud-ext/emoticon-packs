@@ -1,1 +1,39 @@
-{"name":"twitch-sub-envytheelitist","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"envHug","image_id":109253},{"match":"envHi","image_id":109260},{"match":"envRage","image_id":109259},{"match":"envLUL","image_id":109257},{"match":"envL","image_id":109256},{"match":"envLewd","image_id":109255},{"match":"envHype","image_id":109254},{"match":"envThump","image_id":109590}]}
+{
+  "name": "twitch-sub-envytheelitist",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "envHug",
+      "image_id": 109253
+    },
+    {
+      "match": "envHi",
+      "image_id": 109260
+    },
+    {
+      "match": "envRage",
+      "image_id": 109259
+    },
+    {
+      "match": "envLUL",
+      "image_id": 109257
+    },
+    {
+      "match": "envL",
+      "image_id": 109256
+    },
+    {
+      "match": "envLewd",
+      "image_id": 109255
+    },
+    {
+      "match": "envHype",
+      "image_id": 109254
+    },
+    {
+      "match": "envThump",
+      "image_id": 109590
+    }
+  ]
+}

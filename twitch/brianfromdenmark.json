@@ -1,1 +1,47 @@
-{"name":"twitch-sub-brianfromdenmark","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bfdPeash","image_id":1841},{"match":"bfdWaddafork","image_id":1843},{"match":"bfdJamengoddaw","image_id":1839},{"match":"bfdTeemusen","image_id":5548},{"match":"bfdRockless","image_id":5665},{"match":"bfdKappa","image_id":17828},{"match":"bfdTrucker","image_id":17829},{"match":"bfdGG","image_id":18077},{"match":"bfdSkrald","image_id":18082},{"match":"bfdSubhype","image_id":18078}]}
+{
+  "name": "twitch-sub-brianfromdenmark",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bfdPeash",
+      "image_id": 1841
+    },
+    {
+      "match": "bfdWaddafork",
+      "image_id": 1843
+    },
+    {
+      "match": "bfdJamengoddaw",
+      "image_id": 1839
+    },
+    {
+      "match": "bfdTeemusen",
+      "image_id": 5548
+    },
+    {
+      "match": "bfdRockless",
+      "image_id": 5665
+    },
+    {
+      "match": "bfdKappa",
+      "image_id": 17828
+    },
+    {
+      "match": "bfdTrucker",
+      "image_id": 17829
+    },
+    {
+      "match": "bfdGG",
+      "image_id": 18077
+    },
+    {
+      "match": "bfdSkrald",
+      "image_id": 18082
+    },
+    {
+      "match": "bfdSubhype",
+      "image_id": 18078
+    }
+  ]
+}

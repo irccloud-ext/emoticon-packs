@@ -1,1 +1,19 @@
-{"name":"twitch-sub-themorilp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"morihypeXRAY","image_id":101328},{"match":"morihypeGG","image_id":101327},{"match":"morihypeSUB","image_id":101326}]}
+{
+  "name": "twitch-sub-themorilp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "morihypeXRAY",
+      "image_id": 101328
+    },
+    {
+      "match": "morihypeGG",
+      "image_id": 101327
+    },
+    {
+      "match": "morihypeSUB",
+      "image_id": 101326
+    }
+  ]
+}

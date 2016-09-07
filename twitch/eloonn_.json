@@ -1,1 +1,23 @@
-{"name":"twitch-sub-eloonn_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"elooKhe","image_id":76920},{"match":"elooGasm","image_id":76919},{"match":"elooKappa","image_id":76163},{"match":"elooIzi","image_id":76162}]}
+{
+  "name": "twitch-sub-eloonn_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "elooKhe",
+      "image_id": 76920
+    },
+    {
+      "match": "elooGasm",
+      "image_id": 76919
+    },
+    {
+      "match": "elooKappa",
+      "image_id": 76163
+    },
+    {
+      "match": "elooIzi",
+      "image_id": 76162
+    }
+  ]
+}

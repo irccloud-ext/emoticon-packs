@@ -1,1 +1,47 @@
-{"name":"twitch-sub-battletaure","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"taureUSB","image_id":22200},{"match":"taureSchmeckt","image_id":95221},{"match":"taureW","image_id":46828},{"match":"taureHey","image_id":60685},{"match":"taureUnlucky","image_id":68291},{"match":"taureRip","image_id":68293},{"match":"taureHype","image_id":68295},{"match":"taureL","image_id":84785},{"match":"taureKommerz","image_id":97125},{"match":"taurePride","image_id":100896}]}
+{
+  "name": "twitch-sub-battletaure",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "taureUSB",
+      "image_id": 22200
+    },
+    {
+      "match": "taureSchmeckt",
+      "image_id": 95221
+    },
+    {
+      "match": "taureW",
+      "image_id": 46828
+    },
+    {
+      "match": "taureHey",
+      "image_id": 60685
+    },
+    {
+      "match": "taureUnlucky",
+      "image_id": 68291
+    },
+    {
+      "match": "taureRip",
+      "image_id": 68293
+    },
+    {
+      "match": "taureHype",
+      "image_id": 68295
+    },
+    {
+      "match": "taureL",
+      "image_id": 84785
+    },
+    {
+      "match": "taureKommerz",
+      "image_id": 97125
+    },
+    {
+      "match": "taurePride",
+      "image_id": 100896
+    }
+  ]
+}

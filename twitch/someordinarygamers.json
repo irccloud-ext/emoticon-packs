@@ -1,1 +1,11 @@
-{"name":"twitch-sub-someordinarygamers","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mutaMuta","image_id":53881}]}
+{
+  "name": "twitch-sub-someordinarygamers",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mutaMuta",
+      "image_id": 53881
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-lebwa_wot","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lebwaKleshnya","image_id":99758},{"match":"lebwaBaby","image_id":98274},{"match":"lebwa3uMABECHA","image_id":99045},{"match":"lebwaAzbuka","image_id":100442},{"match":"lebwaNaMuzhika","image_id":97912},{"match":"lebwaKUMIS","image_id":96831},{"match":"lebwaLOL","image_id":96273},{"match":"lebwaBaran","image_id":99682},{"match":"lebwaPRO","image_id":99683},{"match":"lebwaKOPM2","image_id":98904}]}
+{
+  "name": "twitch-sub-lebwa_wot",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lebwaKleshnya",
+      "image_id": 99758
+    },
+    {
+      "match": "lebwaBaby",
+      "image_id": 98274
+    },
+    {
+      "match": "lebwa3uMABECHA",
+      "image_id": 99045
+    },
+    {
+      "match": "lebwaAzbuka",
+      "image_id": 100442
+    },
+    {
+      "match": "lebwaNaMuzhika",
+      "image_id": 97912
+    },
+    {
+      "match": "lebwaKUMIS",
+      "image_id": 96831
+    },
+    {
+      "match": "lebwaLOL",
+      "image_id": 96273
+    },
+    {
+      "match": "lebwaBaran",
+      "image_id": 99682
+    },
+    {
+      "match": "lebwaPRO",
+      "image_id": 99683
+    },
+    {
+      "match": "lebwaKOPM2",
+      "image_id": 98904
+    }
+  ]
+}

@@ -1,1 +1,43 @@
-{"name":"twitch-sub-fengrush","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fengAOE","image_id":79919},{"match":"fengBigplay","image_id":76838},{"match":"fengDanger","image_id":70639},{"match":"fengSOB","image_id":73523},{"match":"fengRage","image_id":83156},{"match":"fengTY","image_id":86842},{"match":"fengX","image_id":107294},{"match":"fengETA","image_id":107300},{"match":"fengFail","image_id":109442}]}
+{
+  "name": "twitch-sub-fengrush",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fengAOE",
+      "image_id": 79919
+    },
+    {
+      "match": "fengBigplay",
+      "image_id": 76838
+    },
+    {
+      "match": "fengDanger",
+      "image_id": 70639
+    },
+    {
+      "match": "fengSOB",
+      "image_id": 73523
+    },
+    {
+      "match": "fengRage",
+      "image_id": 83156
+    },
+    {
+      "match": "fengTY",
+      "image_id": 86842
+    },
+    {
+      "match": "fengX",
+      "image_id": 107294
+    },
+    {
+      "match": "fengETA",
+      "image_id": 107300
+    },
+    {
+      "match": "fengFail",
+      "image_id": 109442
+    }
+  ]
+}

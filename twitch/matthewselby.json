@@ -1,1 +1,23 @@
-{"name":"twitch-sub-matthewselby","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"selbyDeal","image_id":47658},{"match":"selbyCri","image_id":47659},{"match":"selbyWaw","image_id":47660},{"match":"selbyGG","image_id":47657}]}
+{
+  "name": "twitch-sub-matthewselby",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "selbyDeal",
+      "image_id": 47658
+    },
+    {
+      "match": "selbyCri",
+      "image_id": 47659
+    },
+    {
+      "match": "selbyWaw",
+      "image_id": 47660
+    },
+    {
+      "match": "selbyGG",
+      "image_id": 47657
+    }
+  ]
+}

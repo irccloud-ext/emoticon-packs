@@ -1,1 +1,23 @@
-{"name":"twitch-sub-mrtakahashi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mrtakaMeh","image_id":44026},{"match":"mrtakaSun","image_id":29897},{"match":"mrtakaGold","image_id":29128},{"match":"mrtakaClap","image_id":64847}]}
+{
+  "name": "twitch-sub-mrtakahashi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mrtakaMeh",
+      "image_id": 44026
+    },
+    {
+      "match": "mrtakaSun",
+      "image_id": 29897
+    },
+    {
+      "match": "mrtakaGold",
+      "image_id": 29128
+    },
+    {
+      "match": "mrtakaClap",
+      "image_id": 64847
+    }
+  ]
+}

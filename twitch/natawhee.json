@@ -1,1 +1,47 @@
-{"name":"twitch-sub-natawhee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nataCry","image_id":108053},{"match":"nataO","image_id":53360},{"match":"nataWut","image_id":58423},{"match":"nataD","image_id":62533},{"match":"nataCute","image_id":108054},{"match":"nataDab","image_id":108055},{"match":"nataDog","image_id":108056},{"match":"nataH","image_id":108057},{"match":"nataSass","image_id":108058},{"match":"nataSigh","image_id":108059}]}
+{
+  "name": "twitch-sub-natawhee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nataCry",
+      "image_id": 108053
+    },
+    {
+      "match": "nataO",
+      "image_id": 53360
+    },
+    {
+      "match": "nataWut",
+      "image_id": 58423
+    },
+    {
+      "match": "nataD",
+      "image_id": 62533
+    },
+    {
+      "match": "nataCute",
+      "image_id": 108054
+    },
+    {
+      "match": "nataDab",
+      "image_id": 108055
+    },
+    {
+      "match": "nataDog",
+      "image_id": 108056
+    },
+    {
+      "match": "nataH",
+      "image_id": 108057
+    },
+    {
+      "match": "nataSass",
+      "image_id": 108058
+    },
+    {
+      "match": "nataSigh",
+      "image_id": 108059
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-themrzapasant","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zapasantHappy","image_id":32325},{"match":"zapasantBruh","image_id":32701},{"match":"zapasantFan","image_id":32700},{"match":"zapasantCreep","image_id":38767},{"match":"zapasantScum","image_id":38764},{"match":"zapasantWtf","image_id":56270},{"match":"zapasantSub","image_id":56272},{"match":"zapasantKen","image_id":57273}]}
+{
+  "name": "twitch-sub-themrzapasant",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zapasantHappy",
+      "image_id": 32325
+    },
+    {
+      "match": "zapasantBruh",
+      "image_id": 32701
+    },
+    {
+      "match": "zapasantFan",
+      "image_id": 32700
+    },
+    {
+      "match": "zapasantCreep",
+      "image_id": 38767
+    },
+    {
+      "match": "zapasantScum",
+      "image_id": 38764
+    },
+    {
+      "match": "zapasantWtf",
+      "image_id": 56270
+    },
+    {
+      "match": "zapasantSub",
+      "image_id": 56272
+    },
+    {
+      "match": "zapasantKen",
+      "image_id": 57273
+    }
+  ]
+}

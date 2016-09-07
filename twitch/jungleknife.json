@@ -1,1 +1,23 @@
-{"name":"twitch-sub-jungleknife","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"knifeKirby","image_id":8927},{"match":"knife87","image_id":12662},{"match":"knifeFish","image_id":12120},{"match":"knifeDump","image_id":45812}]}
+{
+  "name": "twitch-sub-jungleknife",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "knifeKirby",
+      "image_id": 8927
+    },
+    {
+      "match": "knife87",
+      "image_id": 12662
+    },
+    {
+      "match": "knifeFish",
+      "image_id": 12120
+    },
+    {
+      "match": "knifeDump",
+      "image_id": 45812
+    }
+  ]
+}

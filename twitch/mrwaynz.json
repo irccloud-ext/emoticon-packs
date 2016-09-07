@@ -1,1 +1,47 @@
-{"name":"twitch-sub-mrwaynz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"waynzGG","image_id":72734},{"match":"waynzBulin","image_id":72733},{"match":"waynzTeamfragile","image_id":52332},{"match":"waynzTopneyney","image_id":52117},{"match":"waynzNewdon","image_id":52180},{"match":"waynzKappawaynz","image_id":52102},{"match":"waynzFollowwaynz","image_id":52147},{"match":"waynzNonclasse","image_id":59937},{"match":"waynzKikoubranlette","image_id":53463},{"match":"waynzKikooratio","image_id":59946}]}
+{
+  "name": "twitch-sub-mrwaynz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "waynzGG",
+      "image_id": 72734
+    },
+    {
+      "match": "waynzBulin",
+      "image_id": 72733
+    },
+    {
+      "match": "waynzTeamfragile",
+      "image_id": 52332
+    },
+    {
+      "match": "waynzTopneyney",
+      "image_id": 52117
+    },
+    {
+      "match": "waynzNewdon",
+      "image_id": 52180
+    },
+    {
+      "match": "waynzKappawaynz",
+      "image_id": 52102
+    },
+    {
+      "match": "waynzFollowwaynz",
+      "image_id": 52147
+    },
+    {
+      "match": "waynzNonclasse",
+      "image_id": 59937
+    },
+    {
+      "match": "waynzKikoubranlette",
+      "image_id": 53463
+    },
+    {
+      "match": "waynzKikooratio",
+      "image_id": 59946
+    }
+  ]
+}

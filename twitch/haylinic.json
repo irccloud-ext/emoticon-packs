@@ -1,1 +1,67 @@
-{"name":"twitch-sub-haylinic","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hayliRekt","image_id":79926},{"match":"hayliPotato","image_id":79925},{"match":"hayliPanty","image_id":56523},{"match":"hayliBDR","image_id":40083},{"match":"hayliLove","image_id":40110},{"match":"hayliRage","image_id":80089},{"match":"hayliOrion","image_id":80090},{"match":"hayliHey","image_id":80091},{"match":"hayliW","image_id":73173},{"match":"hayliValla","image_id":82321},{"match":"hayliJosie","image_id":82320},{"match":"hayliChoke","image_id":82319},{"match":"hayliHype","image_id":82324},{"match":"hayliRIP","image_id":82323},{"match":"hayliSalt","image_id":82322}]}
+{
+  "name": "twitch-sub-haylinic",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hayliRekt",
+      "image_id": 79926
+    },
+    {
+      "match": "hayliPotato",
+      "image_id": 79925
+    },
+    {
+      "match": "hayliPanty",
+      "image_id": 56523
+    },
+    {
+      "match": "hayliBDR",
+      "image_id": 40083
+    },
+    {
+      "match": "hayliLove",
+      "image_id": 40110
+    },
+    {
+      "match": "hayliRage",
+      "image_id": 80089
+    },
+    {
+      "match": "hayliOrion",
+      "image_id": 80090
+    },
+    {
+      "match": "hayliHey",
+      "image_id": 80091
+    },
+    {
+      "match": "hayliW",
+      "image_id": 73173
+    },
+    {
+      "match": "hayliValla",
+      "image_id": 82321
+    },
+    {
+      "match": "hayliJosie",
+      "image_id": 82320
+    },
+    {
+      "match": "hayliChoke",
+      "image_id": 82319
+    },
+    {
+      "match": "hayliHype",
+      "image_id": 82324
+    },
+    {
+      "match": "hayliRIP",
+      "image_id": 82323
+    },
+    {
+      "match": "hayliSalt",
+      "image_id": 82322
+    }
+  ]
+}

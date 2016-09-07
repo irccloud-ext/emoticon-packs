@@ -1,1 +1,23 @@
-{"name":"twitch-sub-justjayce","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jayceMLG","image_id":28841},{"match":"jayceShockblast","image_id":28840},{"match":"jayceKappa","image_id":56774},{"match":"jayceBibleThump","image_id":56775}]}
+{
+  "name": "twitch-sub-justjayce",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jayceMLG",
+      "image_id": 28841
+    },
+    {
+      "match": "jayceShockblast",
+      "image_id": 28840
+    },
+    {
+      "match": "jayceKappa",
+      "image_id": 56774
+    },
+    {
+      "match": "jayceBibleThump",
+      "image_id": 56775
+    }
+  ]
+}

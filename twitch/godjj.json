@@ -1,1 +1,31 @@
-{"name":"twitch-sub-godjj","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"corgiJJ","image_id":32404},{"match":"corgiGa","image_id":50918},{"match":"corgiU","image_id":50917},{"match":"corgiAir","image_id":39706},{"match":"corgi888","image_id":39070},{"match":"corgiR","image_id":45155}]}
+{
+  "name": "twitch-sub-godjj",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "corgiJJ",
+      "image_id": 32404
+    },
+    {
+      "match": "corgiGa",
+      "image_id": 50918
+    },
+    {
+      "match": "corgiU",
+      "image_id": 50917
+    },
+    {
+      "match": "corgiAir",
+      "image_id": 39706
+    },
+    {
+      "match": "corgi888",
+      "image_id": 39070
+    },
+    {
+      "match": "corgiR",
+      "image_id": 45155
+    }
+  ]
+}

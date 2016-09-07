@@ -1,1 +1,39 @@
-{"name":"twitch-sub-realtbnrkenworth","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kenshotKorie","image_id":11050},{"match":"kenshotFace","image_id":10673},{"match":"kenshotSub","image_id":11368},{"match":"kenshotChicken","image_id":10892},{"match":"kenshotPalm","image_id":10930},{"match":"kenshotMushu","image_id":11000},{"match":"kenshotRage","image_id":28737},{"match":"kenshotGasm","image_id":29473}]}
+{
+  "name": "twitch-sub-realtbnrkenworth",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kenshotKorie",
+      "image_id": 11050
+    },
+    {
+      "match": "kenshotFace",
+      "image_id": 10673
+    },
+    {
+      "match": "kenshotSub",
+      "image_id": 11368
+    },
+    {
+      "match": "kenshotChicken",
+      "image_id": 10892
+    },
+    {
+      "match": "kenshotPalm",
+      "image_id": 10930
+    },
+    {
+      "match": "kenshotMushu",
+      "image_id": 11000
+    },
+    {
+      "match": "kenshotRage",
+      "image_id": 28737
+    },
+    {
+      "match": "kenshotGasm",
+      "image_id": 29473
+    }
+  ]
+}

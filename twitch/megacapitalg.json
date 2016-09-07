@@ -1,1 +1,31 @@
-{"name":"twitch-sub-megacapitalg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"capreadChet","image_id":83918},{"match":"capreadRobbiechan","image_id":83289},{"match":"capreadCapcantread","image_id":82302},{"match":"capreadFeelsyugiohman","image_id":82304},{"match":"capreadPotofSalt","image_id":91304},{"match":"capreadKappaMagician","image_id":91305}]}
+{
+  "name": "twitch-sub-megacapitalg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "capreadChet",
+      "image_id": 83918
+    },
+    {
+      "match": "capreadRobbiechan",
+      "image_id": 83289
+    },
+    {
+      "match": "capreadCapcantread",
+      "image_id": 82302
+    },
+    {
+      "match": "capreadFeelsyugiohman",
+      "image_id": 82304
+    },
+    {
+      "match": "capreadPotofSalt",
+      "image_id": 91304
+    },
+    {
+      "match": "capreadKappaMagician",
+      "image_id": 91305
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-denissnidertv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"denisSnider","image_id":3559},{"match":"denisPrassodia","image_id":3619},{"match":"denisFer","image_id":3878},{"match":"denisChurros","image_id":3879},{"match":"denisDelissia","image_id":3880},{"match":"denisKappa","image_id":5029},{"match":"denisDilma","image_id":7276},{"match":"denisEro","image_id":15851}]}
+{
+  "name": "twitch-sub-denissnidertv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "denisSnider",
+      "image_id": 3559
+    },
+    {
+      "match": "denisPrassodia",
+      "image_id": 3619
+    },
+    {
+      "match": "denisFer",
+      "image_id": 3878
+    },
+    {
+      "match": "denisChurros",
+      "image_id": 3879
+    },
+    {
+      "match": "denisDelissia",
+      "image_id": 3880
+    },
+    {
+      "match": "denisKappa",
+      "image_id": 5029
+    },
+    {
+      "match": "denisDilma",
+      "image_id": 7276
+    },
+    {
+      "match": "denisEro",
+      "image_id": 15851
+    }
+  ]
+}

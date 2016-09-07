@@ -1,1 +1,27 @@
-{"name":"twitch-sub-culprate","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"culpJohn","image_id":89270},{"match":"culpLemur","image_id":89269},{"match":"culpMonkey","image_id":89927},{"match":"culpMaksim","image_id":89926},{"match":"culpStache","image_id":95775}]}
+{
+  "name": "twitch-sub-culprate",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "culpJohn",
+      "image_id": 89270
+    },
+    {
+      "match": "culpLemur",
+      "image_id": 89269
+    },
+    {
+      "match": "culpMonkey",
+      "image_id": 89927
+    },
+    {
+      "match": "culpMaksim",
+      "image_id": 89926
+    },
+    {
+      "match": "culpStache",
+      "image_id": 95775
+    }
+  ]
+}

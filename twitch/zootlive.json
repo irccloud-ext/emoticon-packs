@@ -1,1 +1,39 @@
-{"name":"twitch-sub-zootlive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zliveRager","image_id":3213},{"match":"zliveBurgerIns","image_id":3036},{"match":"zliveFailFace","image_id":3039},{"match":"zliveCooller","image_id":3526},{"match":"zliveFazz","image_id":4838},{"match":"zliveWeirdo","image_id":15382},{"match":"zliveDefragFace","image_id":16064},{"match":"zliveCypher","image_id":17822}]}
+{
+  "name": "twitch-sub-zootlive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zliveRager",
+      "image_id": 3213
+    },
+    {
+      "match": "zliveBurgerIns",
+      "image_id": 3036
+    },
+    {
+      "match": "zliveFailFace",
+      "image_id": 3039
+    },
+    {
+      "match": "zliveCooller",
+      "image_id": 3526
+    },
+    {
+      "match": "zliveFazz",
+      "image_id": 4838
+    },
+    {
+      "match": "zliveWeirdo",
+      "image_id": 15382
+    },
+    {
+      "match": "zliveDefragFace",
+      "image_id": 16064
+    },
+    {
+      "match": "zliveCypher",
+      "image_id": 17822
+    }
+  ]
+}

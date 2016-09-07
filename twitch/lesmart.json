@@ -1,1 +1,15 @@
-{"name":"twitch-sub-lesmart","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"elkingTrabaSmart","image_id":97877},{"match":"elkingCloudSmart","image_id":97878}]}
+{
+  "name": "twitch-sub-lesmart",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "elkingTrabaSmart",
+      "image_id": 97877
+    },
+    {
+      "match": "elkingCloudSmart",
+      "image_id": 97878
+    }
+  ]
+}

@@ -1,1 +1,43 @@
-{"name":"twitch-sub-sonyatheevil","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sonyaAngry","image_id":95631},{"match":"sonyaEvil","image_id":95629},{"match":"sonyaHype","image_id":95628},{"match":"sonyaTaco","image_id":16221},{"match":"sonyaGift","image_id":25690},{"match":"sonyaBaka","image_id":95630},{"match":"sonyaLove","image_id":24915},{"match":"sonyaThump","image_id":24916},{"match":"sonyaMath","image_id":65495}]}
+{
+  "name": "twitch-sub-sonyatheevil",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sonyaAngry",
+      "image_id": 95631
+    },
+    {
+      "match": "sonyaEvil",
+      "image_id": 95629
+    },
+    {
+      "match": "sonyaHype",
+      "image_id": 95628
+    },
+    {
+      "match": "sonyaTaco",
+      "image_id": 16221
+    },
+    {
+      "match": "sonyaGift",
+      "image_id": 25690
+    },
+    {
+      "match": "sonyaBaka",
+      "image_id": 95630
+    },
+    {
+      "match": "sonyaLove",
+      "image_id": 24915
+    },
+    {
+      "match": "sonyaThump",
+      "image_id": 24916
+    },
+    {
+      "match": "sonyaMath",
+      "image_id": 65495
+    }
+  ]
+}

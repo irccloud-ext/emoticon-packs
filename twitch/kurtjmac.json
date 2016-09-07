@@ -1,1 +1,39 @@
-{"name":"twitch-sub-kurtjmac","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kurtScience","image_id":94758},{"match":"kurtMagic","image_id":94760},{"match":"kurtFail","image_id":94759},{"match":"kurtSub","image_id":94757},{"match":"kurtCone","image_id":94756},{"match":"kurtEva","image_id":94752},{"match":"kurtIndeed","image_id":94750},{"match":"kurtWolfie","image_id":94751}]}
+{
+  "name": "twitch-sub-kurtjmac",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kurtScience",
+      "image_id": 94758
+    },
+    {
+      "match": "kurtMagic",
+      "image_id": 94760
+    },
+    {
+      "match": "kurtFail",
+      "image_id": 94759
+    },
+    {
+      "match": "kurtSub",
+      "image_id": 94757
+    },
+    {
+      "match": "kurtCone",
+      "image_id": 94756
+    },
+    {
+      "match": "kurtEva",
+      "image_id": 94752
+    },
+    {
+      "match": "kurtIndeed",
+      "image_id": 94750
+    },
+    {
+      "match": "kurtWolfie",
+      "image_id": 94751
+    }
+  ]
+}

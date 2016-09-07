@@ -1,1 +1,23 @@
-{"name":"twitch-sub-diwd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"diwdbillyTHUMBS","image_id":107336},{"match":"diwdbillyOH","image_id":107335},{"match":"diwdbillySENPAI","image_id":110685},{"match":"diwdbillyNUG","image_id":110680}]}
+{
+  "name": "twitch-sub-diwd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "diwdbillyTHUMBS",
+      "image_id": 107336
+    },
+    {
+      "match": "diwdbillyOH",
+      "image_id": 107335
+    },
+    {
+      "match": "diwdbillySENPAI",
+      "image_id": 110685
+    },
+    {
+      "match": "diwdbillyNUG",
+      "image_id": 110680
+    }
+  ]
+}

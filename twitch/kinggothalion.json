@@ -1,1 +1,187 @@
-{"name":"twitch-sub-kinggothalion","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kgothYEAH","image_id":5340},{"match":"kgothHYPE","image_id":10931},{"match":"kgoth1","image_id":106247},{"match":"kgoth2","image_id":106248},{"match":"kgoth3","image_id":106249},{"match":"kgoth4","image_id":106251},{"match":"kgothLURK","image_id":44065},{"match":"kgothSALT","image_id":44066},{"match":"kgothWAIFU","image_id":44067},{"match":"kgothTEN","image_id":51965},{"match":"kgothBOWSER","image_id":51966},{"match":"kgothZERO","image_id":51967},{"match":"kgoth9000","image_id":43512},{"match":"kgothQUACK","image_id":43524},{"match":"kgothFEELS","image_id":71047},{"match":"kgothSAD","image_id":43525},{"match":"kgothLOVE","image_id":43513},{"match":"kgothRAGE","image_id":43526},{"match":"kgothSIP","image_id":43520},{"match":"kgothRAP","image_id":43516},{"match":"kgothHI","image_id":43511},{"match":"kgothSMART","image_id":43522},{"match":"kgothKEK","image_id":104509},{"match":"kgothDOIT","image_id":104510},{"match":"kgothBOOM","image_id":47022},{"match":"kgothWIZ","image_id":47025},{"match":"kgothLEWD","image_id":49495},{"match":"kgothPEACH","image_id":57696},{"match":"kgothNLT","image_id":62362},{"match":"kgothAXE","image_id":103206},{"match":"kgothBALLAR","image_id":103207},{"match":"kgothPEG","image_id":103208},{"match":"kgothCLOWN","image_id":66416},{"match":"kgothFUNDAD","image_id":66983},{"match":"kgothTEEHEE","image_id":66984},{"match":"kgothSLAM","image_id":66986},{"match":"kgothSALLY","image_id":103209},{"match":"kgothCREEP","image_id":67552},{"match":"kgothCHOKE","image_id":77770},{"match":"kgothLIT","image_id":98605},{"match":"kgothPARTY","image_id":86282},{"match":"kgothWPARTY","image_id":86283},{"match":"kgothJUICE","image_id":86284},{"match":"kgothLINK","image_id":91393},{"match":"kgothTREASURE","image_id":93047}]}
+{
+  "name": "twitch-sub-kinggothalion",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kgothYEAH",
+      "image_id": 5340
+    },
+    {
+      "match": "kgothHYPE",
+      "image_id": 10931
+    },
+    {
+      "match": "kgoth1",
+      "image_id": 106247
+    },
+    {
+      "match": "kgoth2",
+      "image_id": 106248
+    },
+    {
+      "match": "kgoth3",
+      "image_id": 106249
+    },
+    {
+      "match": "kgoth4",
+      "image_id": 106251
+    },
+    {
+      "match": "kgothLURK",
+      "image_id": 44065
+    },
+    {
+      "match": "kgothSALT",
+      "image_id": 44066
+    },
+    {
+      "match": "kgothWAIFU",
+      "image_id": 44067
+    },
+    {
+      "match": "kgothTEN",
+      "image_id": 51965
+    },
+    {
+      "match": "kgothBOWSER",
+      "image_id": 51966
+    },
+    {
+      "match": "kgothZERO",
+      "image_id": 51967
+    },
+    {
+      "match": "kgoth9000",
+      "image_id": 43512
+    },
+    {
+      "match": "kgothQUACK",
+      "image_id": 43524
+    },
+    {
+      "match": "kgothFEELS",
+      "image_id": 71047
+    },
+    {
+      "match": "kgothSAD",
+      "image_id": 43525
+    },
+    {
+      "match": "kgothLOVE",
+      "image_id": 43513
+    },
+    {
+      "match": "kgothRAGE",
+      "image_id": 43526
+    },
+    {
+      "match": "kgothSIP",
+      "image_id": 43520
+    },
+    {
+      "match": "kgothRAP",
+      "image_id": 43516
+    },
+    {
+      "match": "kgothHI",
+      "image_id": 43511
+    },
+    {
+      "match": "kgothSMART",
+      "image_id": 43522
+    },
+    {
+      "match": "kgothKEK",
+      "image_id": 104509
+    },
+    {
+      "match": "kgothDOIT",
+      "image_id": 104510
+    },
+    {
+      "match": "kgothBOOM",
+      "image_id": 47022
+    },
+    {
+      "match": "kgothWIZ",
+      "image_id": 47025
+    },
+    {
+      "match": "kgothLEWD",
+      "image_id": 49495
+    },
+    {
+      "match": "kgothPEACH",
+      "image_id": 57696
+    },
+    {
+      "match": "kgothNLT",
+      "image_id": 62362
+    },
+    {
+      "match": "kgothAXE",
+      "image_id": 103206
+    },
+    {
+      "match": "kgothBALLAR",
+      "image_id": 103207
+    },
+    {
+      "match": "kgothPEG",
+      "image_id": 103208
+    },
+    {
+      "match": "kgothCLOWN",
+      "image_id": 66416
+    },
+    {
+      "match": "kgothFUNDAD",
+      "image_id": 66983
+    },
+    {
+      "match": "kgothTEEHEE",
+      "image_id": 66984
+    },
+    {
+      "match": "kgothSLAM",
+      "image_id": 66986
+    },
+    {
+      "match": "kgothSALLY",
+      "image_id": 103209
+    },
+    {
+      "match": "kgothCREEP",
+      "image_id": 67552
+    },
+    {
+      "match": "kgothCHOKE",
+      "image_id": 77770
+    },
+    {
+      "match": "kgothLIT",
+      "image_id": 98605
+    },
+    {
+      "match": "kgothPARTY",
+      "image_id": 86282
+    },
+    {
+      "match": "kgothWPARTY",
+      "image_id": 86283
+    },
+    {
+      "match": "kgothJUICE",
+      "image_id": 86284
+    },
+    {
+      "match": "kgothLINK",
+      "image_id": 91393
+    },
+    {
+      "match": "kgothTREASURE",
+      "image_id": 93047
+    }
+  ]
+}

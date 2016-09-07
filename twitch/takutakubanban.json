@@ -1,1 +1,23 @@
-{"name":"twitch-sub-takutakubanban","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aratankCry","image_id":83920},{"match":"aratankZamasu","image_id":84114},{"match":"aratankDeden","image_id":85019},{"match":"aratankChu","image_id":86293}]}
+{
+  "name": "twitch-sub-takutakubanban",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aratankCry",
+      "image_id": 83920
+    },
+    {
+      "match": "aratankZamasu",
+      "image_id": 84114
+    },
+    {
+      "match": "aratankDeden",
+      "image_id": 85019
+    },
+    {
+      "match": "aratankChu",
+      "image_id": 86293
+    }
+  ]
+}

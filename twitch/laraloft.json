@@ -1,1 +1,31 @@
-{"name":"twitch-sub-laraloft","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"laraloftHYPE","image_id":102707},{"match":"laraloftNOTE","image_id":102709},{"match":"laraloftLOFT","image_id":102708},{"match":"laraloftCRY","image_id":102706},{"match":"laraloftLOVE","image_id":102705},{"match":"laraloftHI","image_id":102704}]}
+{
+  "name": "twitch-sub-laraloft",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "laraloftHYPE",
+      "image_id": 102707
+    },
+    {
+      "match": "laraloftNOTE",
+      "image_id": 102709
+    },
+    {
+      "match": "laraloftLOFT",
+      "image_id": 102708
+    },
+    {
+      "match": "laraloftCRY",
+      "image_id": 102706
+    },
+    {
+      "match": "laraloftLOVE",
+      "image_id": 102705
+    },
+    {
+      "match": "laraloftHI",
+      "image_id": 102704
+    }
+  ]
+}

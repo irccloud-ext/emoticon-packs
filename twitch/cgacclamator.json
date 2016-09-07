@@ -1,1 +1,39 @@
-{"name":"twitch-sub-cgacclamator","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yaccKitty","image_id":33091},{"match":"yaccYani","image_id":29584},{"match":"yaccAcc","image_id":29581},{"match":"yaccCg","image_id":33597},{"match":"yaccCgred","image_id":33598},{"match":"yaccScumbacc","image_id":36346},{"match":"yaccRekt","image_id":75981},{"match":"yaccYanitilt","image_id":59632}]}
+{
+  "name": "twitch-sub-cgacclamator",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yaccKitty",
+      "image_id": 33091
+    },
+    {
+      "match": "yaccYani",
+      "image_id": 29584
+    },
+    {
+      "match": "yaccAcc",
+      "image_id": 29581
+    },
+    {
+      "match": "yaccCg",
+      "image_id": 33597
+    },
+    {
+      "match": "yaccCgred",
+      "image_id": 33598
+    },
+    {
+      "match": "yaccScumbacc",
+      "image_id": 36346
+    },
+    {
+      "match": "yaccRekt",
+      "image_id": 75981
+    },
+    {
+      "match": "yaccYanitilt",
+      "image_id": 59632
+    }
+  ]
+}

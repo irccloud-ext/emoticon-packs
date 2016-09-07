@@ -1,1 +1,27 @@
-{"name":"twitch-sub-apex","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"danapexYellex","image_id":81830},{"match":"danapexGodPex","image_id":83274},{"match":"danapexSubHype","image_id":83059},{"match":"danapexFailEx","image_id":83270},{"match":"danapexMoneyF","image_id":83272}]}
+{
+  "name": "twitch-sub-apex",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "danapexYellex",
+      "image_id": 81830
+    },
+    {
+      "match": "danapexGodPex",
+      "image_id": 83274
+    },
+    {
+      "match": "danapexSubHype",
+      "image_id": 83059
+    },
+    {
+      "match": "danapexFailEx",
+      "image_id": 83270
+    },
+    {
+      "match": "danapexMoneyF",
+      "image_id": 83272
+    }
+  ]
+}

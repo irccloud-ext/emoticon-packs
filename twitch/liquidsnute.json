@@ -1,1 +1,31 @@
-{"name":"twitch-sub-liquidsnute","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"snuGas","image_id":45254},{"match":"snuShine","image_id":45259},{"match":"snuHost","image_id":45258},{"match":"snuHum","image_id":45257},{"match":"snuGate","image_id":45256},{"match":"snuRax","image_id":45255}]}
+{
+  "name": "twitch-sub-liquidsnute",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "snuGas",
+      "image_id": 45254
+    },
+    {
+      "match": "snuShine",
+      "image_id": 45259
+    },
+    {
+      "match": "snuHost",
+      "image_id": 45258
+    },
+    {
+      "match": "snuHum",
+      "image_id": 45257
+    },
+    {
+      "match": "snuGate",
+      "image_id": 45256
+    },
+    {
+      "match": "snuRax",
+      "image_id": 45255
+    }
+  ]
+}

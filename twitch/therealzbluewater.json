@@ -1,1 +1,23 @@
-{"name":"twitch-sub-therealzbluewater","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"globGlobGG","image_id":25665},{"match":"globOH","image_id":25666},{"match":"globG","image_id":24780},{"match":"globD","image_id":24781}]}
+{
+  "name": "twitch-sub-therealzbluewater",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "globGlobGG",
+      "image_id": 25665
+    },
+    {
+      "match": "globOH",
+      "image_id": 25666
+    },
+    {
+      "match": "globG",
+      "image_id": 24780
+    },
+    {
+      "match": "globD",
+      "image_id": 24781
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-pistol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pistolCoon","image_id":55973},{"match":"pistolUmbra","image_id":56335},{"match":"pistolRoss","image_id":80813},{"match":"pistolStory","image_id":80814},{"match":"pistolSuh","image_id":90712},{"match":"pistolDude","image_id":90713},{"match":"pistolSub","image_id":90714},{"match":"pistolGasm","image_id":108033}]}
+{
+  "name": "twitch-sub-pistol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pistolCoon",
+      "image_id": 55973
+    },
+    {
+      "match": "pistolUmbra",
+      "image_id": 56335
+    },
+    {
+      "match": "pistolRoss",
+      "image_id": 80813
+    },
+    {
+      "match": "pistolStory",
+      "image_id": 80814
+    },
+    {
+      "match": "pistolSuh",
+      "image_id": 90712
+    },
+    {
+      "match": "pistolDude",
+      "image_id": 90713
+    },
+    {
+      "match": "pistolSub",
+      "image_id": 90714
+    },
+    {
+      "match": "pistolGasm",
+      "image_id": 108033
+    }
+  ]
+}

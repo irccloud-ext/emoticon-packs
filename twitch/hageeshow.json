@@ -1,1 +1,23 @@
-{"name":"twitch-sub-hageeshow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hageeUccu","image_id":105453},{"match":"hageeEat","image_id":105452},{"match":"hageeHead","image_id":107241},{"match":"hageeBody","image_id":107242}]}
+{
+  "name": "twitch-sub-hageeshow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hageeUccu",
+      "image_id": 105453
+    },
+    {
+      "match": "hageeEat",
+      "image_id": 105452
+    },
+    {
+      "match": "hageeHead",
+      "image_id": 107241
+    },
+    {
+      "match": "hageeBody",
+      "image_id": 107242
+    }
+  ]
+}

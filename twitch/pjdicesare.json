@@ -1,1 +1,47 @@
-{"name":"twitch-sub-pjdicesare","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pjdBigKazam","image_id":2836},{"match":"pjdTouchdown","image_id":12371},{"match":"pjdTrain","image_id":64901},{"match":"pjdCarB","image_id":64904},{"match":"pjdMeep","image_id":91551},{"match":"pjdBord","image_id":64907},{"match":"pjdCaboose","image_id":64903},{"match":"pjdCar","image_id":64902},{"match":"pjdFire","image_id":77648},{"match":"pjd6pm","image_id":77649}]}
+{
+  "name": "twitch-sub-pjdicesare",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pjdBigKazam",
+      "image_id": 2836
+    },
+    {
+      "match": "pjdTouchdown",
+      "image_id": 12371
+    },
+    {
+      "match": "pjdTrain",
+      "image_id": 64901
+    },
+    {
+      "match": "pjdCarB",
+      "image_id": 64904
+    },
+    {
+      "match": "pjdMeep",
+      "image_id": 91551
+    },
+    {
+      "match": "pjdBord",
+      "image_id": 64907
+    },
+    {
+      "match": "pjdCaboose",
+      "image_id": 64903
+    },
+    {
+      "match": "pjdCar",
+      "image_id": 64902
+    },
+    {
+      "match": "pjdFire",
+      "image_id": 77648
+    },
+    {
+      "match": "pjd6pm",
+      "image_id": 77649
+    }
+  ]
+}

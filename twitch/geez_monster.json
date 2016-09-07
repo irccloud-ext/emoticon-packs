@@ -1,1 +1,31 @@
-{"name":"twitch-sub-geez_monster","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"geezTinkles","image_id":41829},{"match":"geezHype","image_id":41828},{"match":"geezKappa","image_id":43662},{"match":"geezMonstar","image_id":43663},{"match":"geezWeird","image_id":45878},{"match":"geezRekt","image_id":45879}]}
+{
+  "name": "twitch-sub-geez_monster",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "geezTinkles",
+      "image_id": 41829
+    },
+    {
+      "match": "geezHype",
+      "image_id": 41828
+    },
+    {
+      "match": "geezKappa",
+      "image_id": 43662
+    },
+    {
+      "match": "geezMonstar",
+      "image_id": 43663
+    },
+    {
+      "match": "geezWeird",
+      "image_id": 45878
+    },
+    {
+      "match": "geezRekt",
+      "image_id": 45879
+    }
+  ]
+}

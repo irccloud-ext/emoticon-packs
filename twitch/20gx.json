@@ -1,1 +1,27 @@
-{"name":"twitch-sub-20gx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"falconGravy","image_id":55976},{"match":"falconIrwin","image_id":51220},{"match":"falconPivot","image_id":51502},{"match":"falconNUTZ","image_id":51504},{"match":"falconAAA","image_id":51506}]}
+{
+  "name": "twitch-sub-20gx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "falconGravy",
+      "image_id": 55976
+    },
+    {
+      "match": "falconIrwin",
+      "image_id": 51220
+    },
+    {
+      "match": "falconPivot",
+      "image_id": 51502
+    },
+    {
+      "match": "falconNUTZ",
+      "image_id": 51504
+    },
+    {
+      "match": "falconAAA",
+      "image_id": 51506
+    }
+  ]
+}

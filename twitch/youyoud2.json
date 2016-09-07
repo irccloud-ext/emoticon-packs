@@ -1,1 +1,27 @@
-{"name":"twitch-sub-youyoud2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"you2DAVAI","image_id":91624},{"match":"you2FR","image_id":94683},{"match":"you2VOK","image_id":103754},{"match":"you2PEC","image_id":89679},{"match":"you2RA","image_id":98829}]}
+{
+  "name": "twitch-sub-youyoud2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "you2DAVAI",
+      "image_id": 91624
+    },
+    {
+      "match": "you2FR",
+      "image_id": 94683
+    },
+    {
+      "match": "you2VOK",
+      "image_id": 103754
+    },
+    {
+      "match": "you2PEC",
+      "image_id": 89679
+    },
+    {
+      "match": "you2RA",
+      "image_id": 98829
+    }
+  ]
+}

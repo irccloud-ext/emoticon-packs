@@ -1,1 +1,39 @@
-{"name":"twitch-sub-gorillawolfgaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gwgDom","image_id":86126},{"match":"gwgBaby","image_id":101240},{"match":"gwgHey","image_id":91650},{"match":"gwgDog","image_id":86484},{"match":"gwgKappa","image_id":85931},{"match":"gwgLamow","image_id":86777},{"match":"gwgHype","image_id":86854},{"match":"gwgAsh","image_id":91387}]}
+{
+  "name": "twitch-sub-gorillawolfgaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gwgDom",
+      "image_id": 86126
+    },
+    {
+      "match": "gwgBaby",
+      "image_id": 101240
+    },
+    {
+      "match": "gwgHey",
+      "image_id": 91650
+    },
+    {
+      "match": "gwgDog",
+      "image_id": 86484
+    },
+    {
+      "match": "gwgKappa",
+      "image_id": 85931
+    },
+    {
+      "match": "gwgLamow",
+      "image_id": 86777
+    },
+    {
+      "match": "gwgHype",
+      "image_id": 86854
+    },
+    {
+      "match": "gwgAsh",
+      "image_id": 91387
+    }
+  ]
+}

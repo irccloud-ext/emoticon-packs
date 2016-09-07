@@ -1,1 +1,27 @@
-{"name":"twitch-sub-poptartkatze","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"popkGameOver","image_id":12709},{"match":"popkPopLove","image_id":12740},{"match":"popkCake","image_id":13406},{"match":"popkRage","image_id":14313},{"match":"popkBan","image_id":16361}]}
+{
+  "name": "twitch-sub-poptartkatze",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "popkGameOver",
+      "image_id": 12709
+    },
+    {
+      "match": "popkPopLove",
+      "image_id": 12740
+    },
+    {
+      "match": "popkCake",
+      "image_id": 13406
+    },
+    {
+      "match": "popkRage",
+      "image_id": 14313
+    },
+    {
+      "match": "popkBan",
+      "image_id": 16361
+    }
+  ]
+}

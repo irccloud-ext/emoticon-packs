@@ -1,1 +1,23 @@
-{"name":"twitch-sub-beaglelove","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"haileyhiBoo","image_id":98868},{"match":"haileyhiGood","image_id":93289},{"match":"haileyhiWhat","image_id":98870},{"match":"haileyhiAngry","image_id":98869}]}
+{
+  "name": "twitch-sub-beaglelove",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "haileyhiBoo",
+      "image_id": 98868
+    },
+    {
+      "match": "haileyhiGood",
+      "image_id": 93289
+    },
+    {
+      "match": "haileyhiWhat",
+      "image_id": 98870
+    },
+    {
+      "match": "haileyhiAngry",
+      "image_id": 98869
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-noeldayilol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"noelDayi","image_id":42221},{"match":"noelAmk","image_id":53874},{"match":"noelMEME","image_id":44773}]}
+{
+  "name": "twitch-sub-noeldayilol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "noelPuh",
+      "image_id": 112462
+    },
+    {
+      "match": "noelDayi",
+      "image_id": 42221
+    },
+    {
+      "match": "noelMEME",
+      "image_id": 44773
+    },
+    {
+      "match": "noelFail",
+      "image_id": 112355
+    }
+  ]
+}

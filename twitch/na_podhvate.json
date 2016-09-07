@@ -1,1 +1,47 @@
-{"name":"twitch-sub-na_podhvate","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"napoMurr","image_id":81264},{"match":"napoSub","image_id":72460},{"match":"napoUrod","image_id":48559},{"match":"napoVoid","image_id":53082},{"match":"napoFood","image_id":53080},{"match":"napoLove","image_id":80552},{"match":"napoCry","image_id":80649},{"match":"napoMeow","image_id":81265},{"match":"napoUhadi","image_id":81266},{"match":"napoSlojna","image_id":81258}]}
+{
+  "name": "twitch-sub-na_podhvate",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "napoMurr",
+      "image_id": 81264
+    },
+    {
+      "match": "napoSub",
+      "image_id": 72460
+    },
+    {
+      "match": "napoUrod",
+      "image_id": 48559
+    },
+    {
+      "match": "napoVoid",
+      "image_id": 53082
+    },
+    {
+      "match": "napoFood",
+      "image_id": 53080
+    },
+    {
+      "match": "napoLove",
+      "image_id": 80552
+    },
+    {
+      "match": "napoCry",
+      "image_id": 80649
+    },
+    {
+      "match": "napoMeow",
+      "image_id": 81265
+    },
+    {
+      "match": "napoUhadi",
+      "image_id": 81266
+    },
+    {
+      "match": "napoSlojna",
+      "image_id": 81258
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-chrescendo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chresChewie","image_id":24496},{"match":"chresLove","image_id":27787},{"match":"chresChip","image_id":28284},{"match":"chresFail","image_id":28283},{"match":"chresHype","image_id":66874},{"match":"chresThump","image_id":66875},{"match":"chresCloud","image_id":106224},{"match":"chresW","image_id":106225}]}
+{
+  "name": "twitch-sub-chrescendo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chresChewie",
+      "image_id": 24496
+    },
+    {
+      "match": "chresLove",
+      "image_id": 27787
+    },
+    {
+      "match": "chresChip",
+      "image_id": 28284
+    },
+    {
+      "match": "chresFail",
+      "image_id": 28283
+    },
+    {
+      "match": "chresHype",
+      "image_id": 66874
+    },
+    {
+      "match": "chresThump",
+      "image_id": 66875
+    },
+    {
+      "match": "chresCloud",
+      "image_id": 106224
+    },
+    {
+      "match": "chresW",
+      "image_id": 106225
+    }
+  ]
+}

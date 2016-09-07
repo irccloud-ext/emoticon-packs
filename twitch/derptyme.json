@@ -1,1 +1,31 @@
-{"name":"twitch-sub-derptyme","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"derpsSour","image_id":104439},{"match":"derpsLewd","image_id":67158},{"match":"derpsYas","image_id":66562},{"match":"derpsToki","image_id":63204},{"match":"derpsDerp","image_id":66354},{"match":"derpsRage","image_id":67177}]}
+{
+  "name": "twitch-sub-derptyme",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "derpsSour",
+      "image_id": 104439
+    },
+    {
+      "match": "derpsLewd",
+      "image_id": 67158
+    },
+    {
+      "match": "derpsYas",
+      "image_id": 66562
+    },
+    {
+      "match": "derpsToki",
+      "image_id": 63204
+    },
+    {
+      "match": "derpsDerp",
+      "image_id": 66354
+    },
+    {
+      "match": "derpsRage",
+      "image_id": 67177
+    }
+  ]
+}

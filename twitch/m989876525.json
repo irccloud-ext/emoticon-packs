@@ -1,1 +1,39 @@
-{"name":"twitch-sub-m989876525","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"esoHH","image_id":34314},{"match":"esoBB","image_id":32647},{"match":"esoWOO","image_id":34459},{"match":"esoOO","image_id":36556},{"match":"esoDO","image_id":92253},{"match":"esoCAT","image_id":92319},{"match":"esoCAT1","image_id":92807},{"match":"esoBlack","image_id":94327}]}
+{
+  "name": "twitch-sub-m989876525",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "esoHH",
+      "image_id": 34314
+    },
+    {
+      "match": "esoWOO",
+      "image_id": 34459
+    },
+    {
+      "match": "esoOO",
+      "image_id": 36556
+    },
+    {
+      "match": "esoDO",
+      "image_id": 92253
+    },
+    {
+      "match": "esoCAT",
+      "image_id": 92319
+    },
+    {
+      "match": "esoBlack",
+      "image_id": 94327
+    },
+    {
+      "match": "esoDIE",
+      "image_id": 112333
+    },
+    {
+      "match": "esoDIE2",
+      "image_id": 112334
+    }
+  ]
+}

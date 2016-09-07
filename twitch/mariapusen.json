@@ -1,1 +1,35 @@
-{"name":"twitch-sub-mariapusen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pewzLove","image_id":42242},{"match":"pewzChill","image_id":42241},{"match":"pewzDudu","image_id":39456},{"match":"pewzNoscope","image_id":39460},{"match":"pewzHype","image_id":39459},{"match":"pewzGlu","image_id":39689},{"match":"pewzRage","image_id":39691}]}
+{
+  "name": "twitch-sub-mariapusen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pewzLove",
+      "image_id": 42242
+    },
+    {
+      "match": "pewzChill",
+      "image_id": 42241
+    },
+    {
+      "match": "pewzDudu",
+      "image_id": 39456
+    },
+    {
+      "match": "pewzNoscope",
+      "image_id": 39460
+    },
+    {
+      "match": "pewzHype",
+      "image_id": 39459
+    },
+    {
+      "match": "pewzGlu",
+      "image_id": 39689
+    },
+    {
+      "match": "pewzRage",
+      "image_id": 39691
+    }
+  ]
+}

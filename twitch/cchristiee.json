@@ -1,1 +1,23 @@
-{"name":"twitch-sub-cchristiee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"christieRage","image_id":7710},{"match":"christieMonkey","image_id":8507},{"match":"christieShock","image_id":8508},{"match":"christieFreeBird","image_id":9356}]}
+{
+  "name": "twitch-sub-cchristiee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "christieRage",
+      "image_id": 7710
+    },
+    {
+      "match": "christieMonkey",
+      "image_id": 8507
+    },
+    {
+      "match": "christieShock",
+      "image_id": 8508
+    },
+    {
+      "match": "christieFreeBird",
+      "image_id": 9356
+    }
+  ]
+}

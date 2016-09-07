@@ -1,1 +1,31 @@
-{"name":"twitch-sub-lleuca","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lleucaRNG","image_id":13394},{"match":"lleucaMP","image_id":12046},{"match":"lleucaKappa","image_id":16137},{"match":"lleucaRekt","image_id":18455},{"match":"lleucaGiff","image_id":20000},{"match":"lleucaFrog","image_id":19974}]}
+{
+  "name": "twitch-sub-lleuca",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lleucaRNG",
+      "image_id": 13394
+    },
+    {
+      "match": "lleucaMP",
+      "image_id": 12046
+    },
+    {
+      "match": "lleucaKappa",
+      "image_id": 16137
+    },
+    {
+      "match": "lleucaRekt",
+      "image_id": 18455
+    },
+    {
+      "match": "lleucaGiff",
+      "image_id": 20000
+    },
+    {
+      "match": "lleucaFrog",
+      "image_id": 19974
+    }
+  ]
+}

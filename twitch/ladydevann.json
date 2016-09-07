@@ -1,1 +1,47 @@
-{"name":"twitch-sub-ladydevann","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"devannH","image_id":111656},{"match":"devannT","image_id":111658},{"match":"devannHype","image_id":77137},{"match":"devannHome","image_id":75472},{"match":"devannL","image_id":84087},{"match":"devannCat","image_id":104552},{"match":"devannR","image_id":111657},{"match":"devannCry","image_id":111655},{"match":"devannBP","image_id":111654},{"match":"devannG","image_id":95199}]}
+{
+  "name": "twitch-sub-ladydevann",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "devannH",
+      "image_id": 111656
+    },
+    {
+      "match": "devannT",
+      "image_id": 111658
+    },
+    {
+      "match": "devannHype",
+      "image_id": 77137
+    },
+    {
+      "match": "devannHome",
+      "image_id": 75472
+    },
+    {
+      "match": "devannL",
+      "image_id": 84087
+    },
+    {
+      "match": "devannCat",
+      "image_id": 104552
+    },
+    {
+      "match": "devannR",
+      "image_id": 111657
+    },
+    {
+      "match": "devannCry",
+      "image_id": 111655
+    },
+    {
+      "match": "devannBP",
+      "image_id": 111654
+    },
+    {
+      "match": "devannG",
+      "image_id": 95199
+    }
+  ]
+}

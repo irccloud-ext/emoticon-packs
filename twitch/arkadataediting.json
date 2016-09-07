@@ -1,1 +1,31 @@
-{"name":"twitch-sub-arkadataediting","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"arkadataAIRBLADE","image_id":105797},{"match":"arkadataWASTED","image_id":105800},{"match":"arkadata404","image_id":105776},{"match":"arkadataSUBHYPE","image_id":105801},{"match":"arkadataBEYBLADE","image_id":105799},{"match":"arkadataFORCE","image_id":105798}]}
+{
+  "name": "twitch-sub-arkadataediting",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "arkadataAIRBLADE",
+      "image_id": 105797
+    },
+    {
+      "match": "arkadataWASTED",
+      "image_id": 105800
+    },
+    {
+      "match": "arkadata404",
+      "image_id": 105776
+    },
+    {
+      "match": "arkadataSUBHYPE",
+      "image_id": 105801
+    },
+    {
+      "match": "arkadataBEYBLADE",
+      "image_id": 105799
+    },
+    {
+      "match": "arkadataFORCE",
+      "image_id": 105798
+    }
+  ]
+}

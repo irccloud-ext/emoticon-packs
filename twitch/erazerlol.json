@@ -1,1 +1,15 @@
-{"name":"twitch-sub-erazerlol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"erazHD","image_id":31838},{"match":"erazRekt","image_id":31839}]}
+{
+  "name": "twitch-sub-erazerlol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "erazHD",
+      "image_id": 31838
+    },
+    {
+      "match": "erazRekt",
+      "image_id": 31839
+    }
+  ]
+}

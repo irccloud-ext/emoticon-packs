@@ -1,1 +1,15 @@
-{"name":"twitch-sub-riserlive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"riserGasm","image_id":85570},{"match":"riserFail","image_id":86871}]}
+{
+  "name": "twitch-sub-riserlive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "riserGasm",
+      "image_id": 85570
+    },
+    {
+      "match": "riserFail",
+      "image_id": 86871
+    }
+  ]
+}

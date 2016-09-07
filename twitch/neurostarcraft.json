@@ -1,1 +1,35 @@
-{"name":"twitch-sub-neurostarcraft","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"neuroNobleVictory","image_id":39191},{"match":"neuroBear","image_id":39190},{"match":"neuroChop","image_id":46537},{"match":"neuroSwarm","image_id":64191},{"match":"neuroDoge","image_id":64311},{"match":"neuroLurker","image_id":82656},{"match":"neuroYeah","image_id":108253}]}
+{
+  "name": "twitch-sub-neurostarcraft",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "neuroNobleVictory",
+      "image_id": 39191
+    },
+    {
+      "match": "neuroBear",
+      "image_id": 39190
+    },
+    {
+      "match": "neuroChop",
+      "image_id": 46537
+    },
+    {
+      "match": "neuroSwarm",
+      "image_id": 64191
+    },
+    {
+      "match": "neuroDoge",
+      "image_id": 64311
+    },
+    {
+      "match": "neuroLurker",
+      "image_id": 82656
+    },
+    {
+      "match": "neuroYeah",
+      "image_id": 108253
+    }
+  ]
+}

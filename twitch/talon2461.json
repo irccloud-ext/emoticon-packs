@@ -1,1 +1,39 @@
-{"name":"twitch-sub-talon2461","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"talHappy","image_id":7782},{"match":"talDizzy","image_id":8803},{"match":"talCiao","image_id":16796},{"match":"talGoFast","image_id":16797},{"match":"talRIP","image_id":28499},{"match":"talAww","image_id":48409},{"match":"talSad","image_id":48414},{"match":"talHype","image_id":54038}]}
+{
+  "name": "twitch-sub-talon2461",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "talHappy",
+      "image_id": 7782
+    },
+    {
+      "match": "talDizzy",
+      "image_id": 8803
+    },
+    {
+      "match": "talCiao",
+      "image_id": 16796
+    },
+    {
+      "match": "talGoFast",
+      "image_id": 16797
+    },
+    {
+      "match": "talRIP",
+      "image_id": 28499
+    },
+    {
+      "match": "talAww",
+      "image_id": 48409
+    },
+    {
+      "match": "talSad",
+      "image_id": 48414
+    },
+    {
+      "match": "talHype",
+      "image_id": 54038
+    }
+  ]
+}

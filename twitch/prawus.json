@@ -1,1 +1,27 @@
-{"name":"twitch-sub-prawus","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"prawusFace","image_id":35980},{"match":"prawusRage","image_id":75829},{"match":"prawusJajo","image_id":90580},{"match":"prawusJoker","image_id":94012},{"match":"prawusOk","image_id":94013}]}
+{
+  "name": "twitch-sub-prawus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "prawusFace",
+      "image_id": 35980
+    },
+    {
+      "match": "prawusRage",
+      "image_id": 75829
+    },
+    {
+      "match": "prawusJajo",
+      "image_id": 90580
+    },
+    {
+      "match": "prawusJoker",
+      "image_id": 94012
+    },
+    {
+      "match": "prawusOk",
+      "image_id": 94013
+    }
+  ]
+}

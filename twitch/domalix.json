@@ -1,1 +1,39 @@
-{"name":"twitch-sub-domalix","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wizDouken","image_id":37359},{"match":"wizCarpet","image_id":37636},{"match":"wiz35","image_id":37370},{"match":"wizHuehue","image_id":38232},{"match":"wizRIP","image_id":51887},{"match":"wizNice","image_id":41541},{"match":"wizDude","image_id":60134},{"match":"wizRage","image_id":60133}]}
+{
+  "name": "twitch-sub-domalix",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wizDouken",
+      "image_id": 37359
+    },
+    {
+      "match": "wizCarpet",
+      "image_id": 37636
+    },
+    {
+      "match": "wiz35",
+      "image_id": 37370
+    },
+    {
+      "match": "wizHuehue",
+      "image_id": 38232
+    },
+    {
+      "match": "wizRIP",
+      "image_id": 51887
+    },
+    {
+      "match": "wizNice",
+      "image_id": 41541
+    },
+    {
+      "match": "wizDude",
+      "image_id": 60134
+    },
+    {
+      "match": "wizRage",
+      "image_id": 60133
+    }
+  ]
+}

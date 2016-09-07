@@ -1,1 +1,39 @@
-{"name":"twitch-sub-huckinglive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"huckWow","image_id":10121},{"match":"huckYum","image_id":10109},{"match":"huckTroll","image_id":7540},{"match":"huckHam","image_id":8308},{"match":"huckHailey","image_id":9289},{"match":"huckRage","image_id":9290},{"match":"huckWild","image_id":10120},{"match":"huckHard","image_id":17539}]}
+{
+  "name": "twitch-sub-huckinglive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "huckWow",
+      "image_id": 10121
+    },
+    {
+      "match": "huckYum",
+      "image_id": 10109
+    },
+    {
+      "match": "huckTroll",
+      "image_id": 7540
+    },
+    {
+      "match": "huckHam",
+      "image_id": 8308
+    },
+    {
+      "match": "huckHailey",
+      "image_id": 9289
+    },
+    {
+      "match": "huckRage",
+      "image_id": 9290
+    },
+    {
+      "match": "huckWild",
+      "image_id": 10120
+    },
+    {
+      "match": "huckHard",
+      "image_id": 17539
+    }
+  ]
+}

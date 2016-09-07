@@ -1,1 +1,15 @@
-{"name":"twitch-sub-allthesegamez","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"atgCHANTAL","image_id":57004},{"match":"atgDEMOON","image_id":57063}]}
+{
+  "name": "twitch-sub-allthesegamez",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "atgCHANTAL",
+      "image_id": 57004
+    },
+    {
+      "match": "atgDEMOON",
+      "image_id": 57063
+    }
+  ]
+}

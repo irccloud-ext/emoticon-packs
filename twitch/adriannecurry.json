@@ -1,1 +1,39 @@
-{"name":"twitch-sub-adriannecurry","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"curryCatspaw","image_id":75970},{"match":"currySmoking","image_id":35324},{"match":"curryCreep","image_id":75600},{"match":"curryFlex","image_id":75085},{"match":"curryRage","image_id":75353},{"match":"curryBluesteel","image_id":75354},{"match":"curryDerp","image_id":75355},{"match":"curryLive","image_id":75448}]}
+{
+  "name": "twitch-sub-adriannecurry",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "curryCatspaw",
+      "image_id": 75970
+    },
+    {
+      "match": "currySmoking",
+      "image_id": 35324
+    },
+    {
+      "match": "curryCreep",
+      "image_id": 75600
+    },
+    {
+      "match": "curryFlex",
+      "image_id": 75085
+    },
+    {
+      "match": "curryRage",
+      "image_id": 75353
+    },
+    {
+      "match": "curryBluesteel",
+      "image_id": 75354
+    },
+    {
+      "match": "curryDerp",
+      "image_id": 75355
+    },
+    {
+      "match": "curryLive",
+      "image_id": 75448
+    }
+  ]
+}

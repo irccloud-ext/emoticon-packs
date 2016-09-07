@@ -1,1 +1,43 @@
-{"name":"twitch-sub-dekar173","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dekarLenny","image_id":31849},{"match":"dekarKappa","image_id":36167},{"match":"dekarFeels","image_id":72950},{"match":"dekarGromp","image_id":60002},{"match":"dekar1","image_id":75222},{"match":"dekar2","image_id":75223},{"match":"dekar3","image_id":75224},{"match":"dekar4","image_id":75225},{"match":"dekarVN","image_id":97037}]}
+{
+  "name": "twitch-sub-dekar173",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dekarLenny",
+      "image_id": 31849
+    },
+    {
+      "match": "dekarKappa",
+      "image_id": 36167
+    },
+    {
+      "match": "dekarFeels",
+      "image_id": 72950
+    },
+    {
+      "match": "dekarGromp",
+      "image_id": 60002
+    },
+    {
+      "match": "dekar1",
+      "image_id": 75222
+    },
+    {
+      "match": "dekar2",
+      "image_id": 75223
+    },
+    {
+      "match": "dekar3",
+      "image_id": 75224
+    },
+    {
+      "match": "dekar4",
+      "image_id": 75225
+    },
+    {
+      "match": "dekarVN",
+      "image_id": 97037
+    }
+  ]
+}

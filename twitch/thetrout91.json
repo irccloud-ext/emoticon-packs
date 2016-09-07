@@ -1,1 +1,11 @@
-{"name":"twitch-sub-thetrout91","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"troutpout1","image_id":18415}]}
+{
+  "name": "twitch-sub-thetrout91",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "troutpout1",
+      "image_id": 18415
+    }
+  ]
+}

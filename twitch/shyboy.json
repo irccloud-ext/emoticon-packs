@@ -1,1 +1,31 @@
-{"name":"twitch-sub-shyboy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shyHeart","image_id":1107},{"match":"shyBRB","image_id":1892},{"match":"shyPizza","image_id":3430},{"match":"shyRekt","image_id":30942},{"match":"shyHype","image_id":30943},{"match":"shyGG","image_id":30944}]}
+{
+  "name": "twitch-sub-shyboy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shyHeart",
+      "image_id": 1107
+    },
+    {
+      "match": "shyBRB",
+      "image_id": 1892
+    },
+    {
+      "match": "shyPizza",
+      "image_id": 3430
+    },
+    {
+      "match": "shyRekt",
+      "image_id": 30942
+    },
+    {
+      "match": "shyHype",
+      "image_id": 30943
+    },
+    {
+      "match": "shyGG",
+      "image_id": 30944
+    }
+  ]
+}

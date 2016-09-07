@@ -1,1 +1,103 @@
-{"name":"twitch-sub-kittyplaysgames","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kittyEpic","image_id":56050},{"match":"kittyGasm","image_id":10211},{"match":"kittyGrumpy","image_id":8553},{"match":"kittyThump","image_id":10210},{"match":"kittyApprove","image_id":15581},{"match":"kittyWhat","image_id":15582},{"match":"kitty69","image_id":23453},{"match":"kittyD","image_id":55945},{"match":"kittyHappy","image_id":23477},{"match":"kittyTrain","image_id":23559},{"match":"kittyMug","image_id":24660},{"match":"kittyBased","image_id":24505},{"match":"kittySub","image_id":56051},{"match":"kittyFail","image_id":34669},{"match":"kittyHL","image_id":37500},{"match":"kittyHR","image_id":37501},{"match":"kittyLove","image_id":54643},{"match":"kittyBlush","image_id":53498},{"match":"kittyGod","image_id":61125},{"match":"kittyRage","image_id":58793},{"match":"kittyDerp","image_id":61542},{"match":"kittySurf","image_id":63400},{"match":"kittyHug","image_id":64097},{"match":"kittyMLG","image_id":67405}]}
+{
+  "name": "twitch-sub-kittyplaysgames",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kittyEpic",
+      "image_id": 56050
+    },
+    {
+      "match": "kittyGasm",
+      "image_id": 10211
+    },
+    {
+      "match": "kittyGrumpy",
+      "image_id": 8553
+    },
+    {
+      "match": "kittyThump",
+      "image_id": 10210
+    },
+    {
+      "match": "kittyApprove",
+      "image_id": 15581
+    },
+    {
+      "match": "kittyWhat",
+      "image_id": 15582
+    },
+    {
+      "match": "kitty69",
+      "image_id": 23453
+    },
+    {
+      "match": "kittyD",
+      "image_id": 55945
+    },
+    {
+      "match": "kittyHappy",
+      "image_id": 23477
+    },
+    {
+      "match": "kittyTrain",
+      "image_id": 23559
+    },
+    {
+      "match": "kittyMug",
+      "image_id": 24660
+    },
+    {
+      "match": "kittyBased",
+      "image_id": 24505
+    },
+    {
+      "match": "kittySub",
+      "image_id": 56051
+    },
+    {
+      "match": "kittyFail",
+      "image_id": 34669
+    },
+    {
+      "match": "kittyHL",
+      "image_id": 37500
+    },
+    {
+      "match": "kittyHR",
+      "image_id": 37501
+    },
+    {
+      "match": "kittyLove",
+      "image_id": 54643
+    },
+    {
+      "match": "kittyBlush",
+      "image_id": 53498
+    },
+    {
+      "match": "kittyGod",
+      "image_id": 61125
+    },
+    {
+      "match": "kittyRage",
+      "image_id": 58793
+    },
+    {
+      "match": "kittyDerp",
+      "image_id": 61542
+    },
+    {
+      "match": "kittySurf",
+      "image_id": 63400
+    },
+    {
+      "match": "kittyHug",
+      "image_id": 64097
+    },
+    {
+      "match": "kittyMLG",
+      "image_id": 67405
+    }
+  ]
+}

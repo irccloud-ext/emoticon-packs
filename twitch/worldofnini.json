@@ -1,1 +1,31 @@
-{"name":"twitch-sub-worldofnini","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"niniDOLL","image_id":16587},{"match":"niniGLOW","image_id":17672},{"match":"niniJOJO","image_id":17671},{"match":"niniHAT","image_id":19129},{"match":"niniHAND","image_id":19834},{"match":"niniBOH","image_id":37335}]}
+{
+  "name": "twitch-sub-worldofnini",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "niniDOLL",
+      "image_id": 16587
+    },
+    {
+      "match": "niniGLOW",
+      "image_id": 17672
+    },
+    {
+      "match": "niniJOJO",
+      "image_id": 17671
+    },
+    {
+      "match": "niniHAT",
+      "image_id": 19129
+    },
+    {
+      "match": "niniHAND",
+      "image_id": 19834
+    },
+    {
+      "match": "niniBOH",
+      "image_id": 37335
+    }
+  ]
+}

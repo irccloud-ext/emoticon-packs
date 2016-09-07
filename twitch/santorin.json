@@ -1,1 +1,47 @@
-{"name":"twitch-sub-santorin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"swoloSniped","image_id":56622},{"match":"swoloSwoloYuker","image_id":56620},{"match":"swoloPls","image_id":32587},{"match":"swoloHey","image_id":54887},{"match":"swoloDenmark","image_id":48122},{"match":"swoloJail","image_id":48123},{"match":"swoloBlueface","image_id":48124},{"match":"swoloProtein","image_id":48125},{"match":"swoloRip","image_id":57582},{"match":"swoloYawn","image_id":57580}]}
+{
+  "name": "twitch-sub-santorin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "swoloSniped",
+      "image_id": 56622
+    },
+    {
+      "match": "swoloSwoloYuker",
+      "image_id": 56620
+    },
+    {
+      "match": "swoloPls",
+      "image_id": 32587
+    },
+    {
+      "match": "swoloHey",
+      "image_id": 54887
+    },
+    {
+      "match": "swoloDenmark",
+      "image_id": 48122
+    },
+    {
+      "match": "swoloJail",
+      "image_id": 48123
+    },
+    {
+      "match": "swoloBlueface",
+      "image_id": 48124
+    },
+    {
+      "match": "swoloProtein",
+      "image_id": 48125
+    },
+    {
+      "match": "swoloRip",
+      "image_id": 57582
+    },
+    {
+      "match": "swoloYawn",
+      "image_id": 57580
+    }
+  ]
+}

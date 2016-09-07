@@ -1,1 +1,23 @@
-{"name":"twitch-sub-dartmoul1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dardanNex","image_id":4946},{"match":"dardanVorago","image_id":4947},{"match":"dardanBandos","image_id":5166},{"match":"dardanSliske","image_id":11404}]}
+{
+  "name": "twitch-sub-dartmoul1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dardanNex",
+      "image_id": 4946
+    },
+    {
+      "match": "dardanVorago",
+      "image_id": 4947
+    },
+    {
+      "match": "dardanBandos",
+      "image_id": 5166
+    },
+    {
+      "match": "dardanSliske",
+      "image_id": 11404
+    }
+  ]
+}

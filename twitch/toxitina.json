@@ -1,1 +1,31 @@
-{"name":"twitch-sub-toxitina","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"toxiNoob","image_id":65884},{"match":"toxiMate","image_id":62743},{"match":"toxiGasm","image_id":65752},{"match":"toxiRage","image_id":73535},{"match":"toxiCry","image_id":95569},{"match":"toxiLove","image_id":98976}]}
+{
+  "name": "twitch-sub-toxitina",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "toxiNoob",
+      "image_id": 65884
+    },
+    {
+      "match": "toxiMate",
+      "image_id": 62743
+    },
+    {
+      "match": "toxiGasm",
+      "image_id": 65752
+    },
+    {
+      "match": "toxiRage",
+      "image_id": 73535
+    },
+    {
+      "match": "toxiCry",
+      "image_id": 95569
+    },
+    {
+      "match": "toxiLove",
+      "image_id": 98976
+    }
+  ]
+}

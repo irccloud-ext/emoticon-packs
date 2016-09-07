@@ -1,1 +1,31 @@
-{"name":"twitch-sub-aliena85","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aliYay","image_id":7893},{"match":"aliPancakes","image_id":8400},{"match":"aliBene","image_id":14848},{"match":"aliLights","image_id":14480},{"match":"aliGroot","image_id":33720},{"match":"aliTonberry","image_id":34649}]}
+{
+  "name": "twitch-sub-aliena85",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aliYay",
+      "image_id": 7893
+    },
+    {
+      "match": "aliPancakes",
+      "image_id": 8400
+    },
+    {
+      "match": "aliBene",
+      "image_id": 14848
+    },
+    {
+      "match": "aliLights",
+      "image_id": 14480
+    },
+    {
+      "match": "aliGroot",
+      "image_id": 33720
+    },
+    {
+      "match": "aliTonberry",
+      "image_id": 34649
+    }
+  ]
+}

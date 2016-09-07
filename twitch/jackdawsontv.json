@@ -1,1 +1,23 @@
-{"name":"twitch-sub-jackdawsontv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jdstvcry02","image_id":111050},{"match":"jdstvcry01","image_id":110828}]}
+{
+  "name": "twitch-sub-jackdawsontv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jdstvcry03",
+      "image_id": 112470
+    },
+    {
+      "match": "jdstvcry02",
+      "image_id": 112264
+    },
+    {
+      "match": "jdstvcry04",
+      "image_id": 112471
+    },
+    {
+      "match": "jdstvcry01",
+      "image_id": 110828
+    }
+  ]
+}

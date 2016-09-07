@@ -1,1 +1,31 @@
-{"name":"twitch-sub-lecpkim","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bootyIuu","image_id":76643},{"match":"bootyLara","image_id":20892},{"match":"bootyBo","image_id":90135},{"match":"bootyGg","image_id":102699},{"match":"bootyVa","image_id":102698},{"match":"bootyRg","image_id":102697}]}
+{
+  "name": "twitch-sub-lecpkim",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bootyIuu",
+      "image_id": 76643
+    },
+    {
+      "match": "bootyLara",
+      "image_id": 20892
+    },
+    {
+      "match": "bootyBo",
+      "image_id": 90135
+    },
+    {
+      "match": "bootyGg",
+      "image_id": 102699
+    },
+    {
+      "match": "bootyVa",
+      "image_id": 102698
+    },
+    {
+      "match": "bootyRg",
+      "image_id": 102697
+    }
+  ]
+}

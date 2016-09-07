@@ -1,1 +1,35 @@
-{"name":"twitch-sub-cherisyourlifewp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cheBerkayface","image_id":44099},{"match":"cheGasm","image_id":44098},{"match":"cheRage","image_id":44008},{"match":"chePleb","image_id":63456},{"match":"cheAim","image_id":78944},{"match":"cheDog","image_id":99628},{"match":"cheIn","image_id":110513}]}
+{
+  "name": "twitch-sub-cherisyourlifewp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cheBerkayface",
+      "image_id": 44099
+    },
+    {
+      "match": "cheGasm",
+      "image_id": 44098
+    },
+    {
+      "match": "cheRage",
+      "image_id": 44008
+    },
+    {
+      "match": "chePleb",
+      "image_id": 63456
+    },
+    {
+      "match": "cheAim",
+      "image_id": 78944
+    },
+    {
+      "match": "cheDog",
+      "image_id": 99628
+    },
+    {
+      "match": "cheIn",
+      "image_id": 110513
+    }
+  ]
+}

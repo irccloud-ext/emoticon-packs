@@ -1,0 +1,15 @@
+{
+  "name": "twitch-sub-la_lizeth",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "laliHYPE",
+      "image_id": 111809
+    },
+    {
+      "match": "laliGG",
+      "image_id": 111810
+    }
+  ]
+}

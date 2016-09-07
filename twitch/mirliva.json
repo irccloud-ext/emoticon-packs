@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mirliva","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mirEXE","image_id":66806},{"match":"mirSatti","image_id":66743},{"match":"mirPatates","image_id":66747},{"match":"mirRus","image_id":67088},{"match":"mirSlup","image_id":69335},{"match":"mirPrim","image_id":81451}]}
+{
+  "name": "twitch-sub-mirliva",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mirEXE",
+      "image_id": 66806
+    },
+    {
+      "match": "mirSatti",
+      "image_id": 66743
+    },
+    {
+      "match": "mirPatates",
+      "image_id": 66747
+    },
+    {
+      "match": "mirRus",
+      "image_id": 67088
+    },
+    {
+      "match": "mirSlup",
+      "image_id": 69335
+    },
+    {
+      "match": "mirPrim",
+      "image_id": 81451
+    }
+  ]
+}

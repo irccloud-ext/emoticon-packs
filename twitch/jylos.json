@@ -1,1 +1,23 @@
-{"name":"twitch-sub-jylos","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jylosL","image_id":107623},{"match":"jylosLIT","image_id":107622},{"match":"jylosSNAIL","image_id":107621},{"match":"jylosSUB","image_id":106395}]}
+{
+  "name": "twitch-sub-jylos",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jylosL",
+      "image_id": 107623
+    },
+    {
+      "match": "jylosLIT",
+      "image_id": 107622
+    },
+    {
+      "match": "jylosSNAIL",
+      "image_id": 107621
+    },
+    {
+      "match": "jylosSUB",
+      "image_id": 106395
+    }
+  ]
+}

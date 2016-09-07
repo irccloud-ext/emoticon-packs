@@ -1,1 +1,23 @@
-{"name":"twitch-sub-tabzzhd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tabzzDenko","image_id":9922},{"match":"tabzz2can","image_id":37716},{"match":"tabzzShark","image_id":40285},{"match":"tabzzGasm","image_id":40284}]}
+{
+  "name": "twitch-sub-tabzzhd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tabzzDenko",
+      "image_id": 9922
+    },
+    {
+      "match": "tabzz2can",
+      "image_id": 37716
+    },
+    {
+      "match": "tabzzShark",
+      "image_id": 40285
+    },
+    {
+      "match": "tabzzGasm",
+      "image_id": 40284
+    }
+  ]
+}

@@ -1,1 +1,87 @@
-{"name":"twitch-sub-adr1v3","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"adrShiny","image_id":22106},{"match":"adrGuitar","image_id":22107},{"match":"adrCheese","image_id":22938},{"match":"adrZip","image_id":25761},{"match":"adrSub","image_id":28970},{"match":"adrLove","image_id":77351},{"match":"adrBus","image_id":109246},{"match":"adrGomy","image_id":50923},{"match":"adrTurnup","image_id":53602},{"match":"adrDonate","image_id":49963},{"match":"adrRam","image_id":77314},{"match":"adrLuck","image_id":51334},{"match":"adrLilli","image_id":77313},{"match":"adrEz","image_id":77312},{"match":"adrBurn","image_id":77311},{"match":"adrDeal","image_id":53464},{"match":"adrChair","image_id":81813},{"match":"adrBan","image_id":89093},{"match":"adrNym","image_id":89092},{"match":"adrFail","image_id":109292}]}
+{
+  "name": "twitch-sub-adr1v3",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "adrShiny",
+      "image_id": 22106
+    },
+    {
+      "match": "adrGuitar",
+      "image_id": 22107
+    },
+    {
+      "match": "adrCheese",
+      "image_id": 22938
+    },
+    {
+      "match": "adrZip",
+      "image_id": 25761
+    },
+    {
+      "match": "adrSub",
+      "image_id": 28970
+    },
+    {
+      "match": "adrLove",
+      "image_id": 77351
+    },
+    {
+      "match": "adrBus",
+      "image_id": 109246
+    },
+    {
+      "match": "adrGomy",
+      "image_id": 50923
+    },
+    {
+      "match": "adrTurnup",
+      "image_id": 53602
+    },
+    {
+      "match": "adrDonate",
+      "image_id": 49963
+    },
+    {
+      "match": "adrRam",
+      "image_id": 77314
+    },
+    {
+      "match": "adrLuck",
+      "image_id": 51334
+    },
+    {
+      "match": "adrLilli",
+      "image_id": 77313
+    },
+    {
+      "match": "adrEz",
+      "image_id": 77312
+    },
+    {
+      "match": "adrBurn",
+      "image_id": 77311
+    },
+    {
+      "match": "adrDeal",
+      "image_id": 53464
+    },
+    {
+      "match": "adrChair",
+      "image_id": 81813
+    },
+    {
+      "match": "adrBan",
+      "image_id": 89093
+    },
+    {
+      "match": "adrNym",
+      "image_id": 89092
+    },
+    {
+      "match": "adrFail",
+      "image_id": 109292
+    }
+  ]
+}

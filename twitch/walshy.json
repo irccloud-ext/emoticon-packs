@@ -1,1 +1,23 @@
-{"name":"twitch-sub-walshy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"walshySmirk","image_id":29746},{"match":"walshyChant","image_id":29745},{"match":"walshyBoots","image_id":35678},{"match":"walshyBoss","image_id":60955}]}
+{
+  "name": "twitch-sub-walshy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "walshySmirk",
+      "image_id": 29746
+    },
+    {
+      "match": "walshyChant",
+      "image_id": 29745
+    },
+    {
+      "match": "walshyBoots",
+      "image_id": 35678
+    },
+    {
+      "match": "walshyBoss",
+      "image_id": 60955
+    }
+  ]
+}

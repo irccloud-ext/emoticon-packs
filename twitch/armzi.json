@@ -1,1 +1,15 @@
-{"name":"twitch-sub-armzi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"armThai","image_id":37485},{"match":"armShck","image_id":37484}]}
+{
+  "name": "twitch-sub-armzi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "armThai",
+      "image_id": 37485
+    },
+    {
+      "match": "armShck",
+      "image_id": 37484
+    }
+  ]
+}

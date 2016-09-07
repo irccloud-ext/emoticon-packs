@@ -1,1 +1,47 @@
-{"name":"twitch-sub-kubon_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kubonLatwo","image_id":15064},{"match":"kubonKrul","image_id":16876},{"match":"kubonHype","image_id":30538},{"match":"kubonToxic","image_id":34996},{"match":"kubonTucan","image_id":34995},{"match":"kubonK","image_id":95640},{"match":"kubonNA","image_id":80641},{"match":"kubonCZ","image_id":80643},{"match":"kubonBonobo","image_id":82027},{"match":"kubonH","image_id":95364}]}
+{
+  "name": "twitch-sub-kubon_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kubonLatwo",
+      "image_id": 15064
+    },
+    {
+      "match": "kubonKrul",
+      "image_id": 16876
+    },
+    {
+      "match": "kubonHype",
+      "image_id": 30538
+    },
+    {
+      "match": "kubonToxic",
+      "image_id": 34996
+    },
+    {
+      "match": "kubonTucan",
+      "image_id": 34995
+    },
+    {
+      "match": "kubonK",
+      "image_id": 95640
+    },
+    {
+      "match": "kubonNA",
+      "image_id": 80641
+    },
+    {
+      "match": "kubonCZ",
+      "image_id": 80643
+    },
+    {
+      "match": "kubonBonobo",
+      "image_id": 82027
+    },
+    {
+      "match": "kubonH",
+      "image_id": 95364
+    }
+  ]
+}

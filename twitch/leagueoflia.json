@@ -1,1 +1,31 @@
-{"name":"twitch-sub-leagueoflia","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lialia01","image_id":105980},{"match":"lialiaGasm","image_id":99074},{"match":"lialiaWAIFU","image_id":98210},{"match":"lialiaPREG","image_id":95573},{"match":"lialiaRAGE","image_id":95574},{"match":"lialiaVohiyo","image_id":105981}]}
+{
+  "name": "twitch-sub-leagueoflia",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lialia01",
+      "image_id": 105980
+    },
+    {
+      "match": "lialiaGasm",
+      "image_id": 99074
+    },
+    {
+      "match": "lialiaWAIFU",
+      "image_id": 98210
+    },
+    {
+      "match": "lialiaPREG",
+      "image_id": 95573
+    },
+    {
+      "match": "lialiaRAGE",
+      "image_id": 95574
+    },
+    {
+      "match": "lialiaVohiyo",
+      "image_id": 105981
+    }
+  ]
+}

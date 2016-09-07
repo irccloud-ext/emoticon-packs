@@ -1,1 +1,47 @@
-{"name":"twitch-sub-thethiliacraft","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"thiSam","image_id":57318},{"match":"thiRIP","image_id":57317},{"match":"thiLove","image_id":57315},{"match":"thiHype","image_id":57314},{"match":"thiHooze","image_id":57313},{"match":"thiCreep","image_id":57311},{"match":"thiBooker","image_id":57310},{"match":"thiSkyCreep","image_id":57319},{"match":"thiHappy","image_id":102695},{"match":"thiDeal","image_id":102694}]}
+{
+  "name": "twitch-sub-thethiliacraft",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "thiSam",
+      "image_id": 57318
+    },
+    {
+      "match": "thiRIP",
+      "image_id": 57317
+    },
+    {
+      "match": "thiLove",
+      "image_id": 57315
+    },
+    {
+      "match": "thiHype",
+      "image_id": 57314
+    },
+    {
+      "match": "thiHooze",
+      "image_id": 57313
+    },
+    {
+      "match": "thiCreep",
+      "image_id": 57311
+    },
+    {
+      "match": "thiBooker",
+      "image_id": 57310
+    },
+    {
+      "match": "thiSkyCreep",
+      "image_id": 57319
+    },
+    {
+      "match": "thiHappy",
+      "image_id": 102695
+    },
+    {
+      "match": "thiDeal",
+      "image_id": 102694
+    }
+  ]
+}

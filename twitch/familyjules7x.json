@@ -1,1 +1,39 @@
-{"name":"twitch-sub-familyjules7x","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"julesBrotit","image_id":18811},{"match":"julesRage","image_id":18812},{"match":"julesWhy","image_id":18912},{"match":"julesWhale","image_id":18909},{"match":"julesGasm","image_id":19686},{"match":"julesRock","image_id":19682},{"match":"julesCri","image_id":24686},{"match":"julesPicnic","image_id":24661}]}
+{
+  "name": "twitch-sub-familyjules7x",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "julesBrotit",
+      "image_id": 18811
+    },
+    {
+      "match": "julesRage",
+      "image_id": 18812
+    },
+    {
+      "match": "julesWhy",
+      "image_id": 18912
+    },
+    {
+      "match": "julesWhale",
+      "image_id": 18909
+    },
+    {
+      "match": "julesGasm",
+      "image_id": 19686
+    },
+    {
+      "match": "julesRock",
+      "image_id": 19682
+    },
+    {
+      "match": "julesCri",
+      "image_id": 24686
+    },
+    {
+      "match": "julesPicnic",
+      "image_id": 24661
+    }
+  ]
+}

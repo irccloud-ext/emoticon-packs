@@ -1,1 +1,31 @@
-{"name":"twitch-sub-hazukisc2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hazuMen","image_id":15675},{"match":"hazuBm","image_id":17066},{"match":"hazuEz","image_id":27929},{"match":"hazuTaladro","image_id":37487},{"match":"hazuNegro","image_id":20513},{"match":"hazuDross","image_id":20514}]}
+{
+  "name": "twitch-sub-hazukisc2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hazuMen",
+      "image_id": 15675
+    },
+    {
+      "match": "hazuBm",
+      "image_id": 17066
+    },
+    {
+      "match": "hazuEz",
+      "image_id": 27929
+    },
+    {
+      "match": "hazuTaladro",
+      "image_id": 37487
+    },
+    {
+      "match": "hazuNegro",
+      "image_id": 20513
+    },
+    {
+      "match": "hazuDross",
+      "image_id": 20514
+    }
+  ]
+}

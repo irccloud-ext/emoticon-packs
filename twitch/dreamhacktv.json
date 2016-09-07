@@ -1,1 +1,23 @@
-{"name":"twitch-sub-dreamhacktv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dhkLeague","image_id":15102},{"match":"dhkBottle","image_id":15099},{"match":"dhkLogo","image_id":15100},{"match":"dhkOpen","image_id":15101}]}
+{
+  "name": "twitch-sub-dreamhacktv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dhkLeague",
+      "image_id": 15102
+    },
+    {
+      "match": "dhkBottle",
+      "image_id": 15099
+    },
+    {
+      "match": "dhkLogo",
+      "image_id": 15100
+    },
+    {
+      "match": "dhkOpen",
+      "image_id": 15101
+    }
+  ]
+}

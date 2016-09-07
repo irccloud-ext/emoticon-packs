@@ -1,1 +1,67 @@
-{"name":"twitch-sub-general_mittenz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mitzRIP","image_id":81524},{"match":"mitzHUG","image_id":81523},{"match":"mitz7","image_id":81521},{"match":"mitzLOVE","image_id":87187},{"match":"mitzGG","image_id":87188},{"match":"mitzLOL","image_id":87222},{"match":"mitzFAIL","image_id":86712},{"match":"mitzHYPE","image_id":86713},{"match":"mitzRIOT","image_id":86714},{"match":"mitzNOM","image_id":86711},{"match":"mitzCHILL","image_id":88831},{"match":"mitzDOT","image_id":88835},{"match":"mitzH","image_id":88833},{"match":"mitzBAE","image_id":108356},{"match":"mitzAYE","image_id":108357}]}
+{
+  "name": "twitch-sub-general_mittenz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mitzRIP",
+      "image_id": 81524
+    },
+    {
+      "match": "mitzHUG",
+      "image_id": 81523
+    },
+    {
+      "match": "mitz7",
+      "image_id": 81521
+    },
+    {
+      "match": "mitzLOVE",
+      "image_id": 87187
+    },
+    {
+      "match": "mitzGG",
+      "image_id": 87188
+    },
+    {
+      "match": "mitzLOL",
+      "image_id": 87222
+    },
+    {
+      "match": "mitzFAIL",
+      "image_id": 86712
+    },
+    {
+      "match": "mitzHYPE",
+      "image_id": 86713
+    },
+    {
+      "match": "mitzRIOT",
+      "image_id": 86714
+    },
+    {
+      "match": "mitzNOM",
+      "image_id": 86711
+    },
+    {
+      "match": "mitzCHILL",
+      "image_id": 88831
+    },
+    {
+      "match": "mitzDOT",
+      "image_id": 88835
+    },
+    {
+      "match": "mitzH",
+      "image_id": 88833
+    },
+    {
+      "match": "mitzBAE",
+      "image_id": 108356
+    },
+    {
+      "match": "mitzAYE",
+      "image_id": 108357
+    }
+  ]
+}

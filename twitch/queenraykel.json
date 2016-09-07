@@ -1,1 +1,39 @@
-{"name":"twitch-sub-queenraykel","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"raykRage","image_id":97614},{"match":"raykChar","image_id":97613},{"match":"raykLove","image_id":105414},{"match":"raykGasm","image_id":97533},{"match":"raykDance","image_id":97531},{"match":"raykHype","image_id":105928},{"match":"raykFeels","image_id":98927},{"match":"raykPog","image_id":98928}]}
+{
+  "name": "twitch-sub-queenraykel",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "raykRage",
+      "image_id": 97614
+    },
+    {
+      "match": "raykChar",
+      "image_id": 97613
+    },
+    {
+      "match": "raykLove",
+      "image_id": 105414
+    },
+    {
+      "match": "raykGasm",
+      "image_id": 97533
+    },
+    {
+      "match": "raykDance",
+      "image_id": 97531
+    },
+    {
+      "match": "raykHype",
+      "image_id": 105928
+    },
+    {
+      "match": "raykFeels",
+      "image_id": 98927
+    },
+    {
+      "match": "raykPog",
+      "image_id": 98928
+    }
+  ]
+}

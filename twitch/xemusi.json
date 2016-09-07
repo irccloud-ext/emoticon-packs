@@ -1,1 +1,35 @@
-{"name":"twitch-sub-xemusi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xemCat","image_id":16745},{"match":"xemXema","image_id":16746},{"match":"xemCola","image_id":17172},{"match":"xemYpi","image_id":17269},{"match":"xemLike","image_id":25492},{"match":"xemDislike","image_id":26674},{"match":"xemSub","image_id":26676}]}
+{
+  "name": "twitch-sub-xemusi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xemCat",
+      "image_id": 16745
+    },
+    {
+      "match": "xemXema",
+      "image_id": 16746
+    },
+    {
+      "match": "xemCola",
+      "image_id": 17172
+    },
+    {
+      "match": "xemYpi",
+      "image_id": 17269
+    },
+    {
+      "match": "xemLike",
+      "image_id": 25492
+    },
+    {
+      "match": "xemDislike",
+      "image_id": 26674
+    },
+    {
+      "match": "xemSub",
+      "image_id": 26676
+    }
+  ]
+}

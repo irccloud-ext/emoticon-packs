@@ -1,1 +1,31 @@
-{"name":"twitch-sub-inventorblades","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bladesKappa","image_id":25983},{"match":"bladesSneaky","image_id":28991},{"match":"bladesHype","image_id":29151},{"match":"bladesLove","image_id":33663},{"match":"bladesLife","image_id":91472},{"match":"bladesHold","image_id":111485}]}
+{
+  "name": "twitch-sub-inventorblades",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bladesKappa",
+      "image_id": 25983
+    },
+    {
+      "match": "bladesSneaky",
+      "image_id": 28991
+    },
+    {
+      "match": "bladesHype",
+      "image_id": 29151
+    },
+    {
+      "match": "bladesLove",
+      "image_id": 33663
+    },
+    {
+      "match": "bladesLife",
+      "image_id": 91472
+    },
+    {
+      "match": "bladesHold",
+      "image_id": 111485
+    }
+  ]
+}

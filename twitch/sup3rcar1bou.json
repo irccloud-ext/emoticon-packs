@@ -1,1 +1,31 @@
-{"name":"twitch-sub-sup3rcar1bou","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"car1Salut","image_id":104958},{"match":"car1Love","image_id":105004},{"match":"car1RIP","image_id":104512},{"match":"car1EZ","image_id":104511},{"match":"car1Hype","image_id":106564},{"match":"car1HS","image_id":106563}]}
+{
+  "name": "twitch-sub-sup3rcar1bou",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "car1Salut",
+      "image_id": 104958
+    },
+    {
+      "match": "car1Love",
+      "image_id": 105004
+    },
+    {
+      "match": "car1RIP",
+      "image_id": 104512
+    },
+    {
+      "match": "car1EZ",
+      "image_id": 104511
+    },
+    {
+      "match": "car1Hype",
+      "image_id": 106564
+    },
+    {
+      "match": "car1HS",
+      "image_id": 106563
+    }
+  ]
+}

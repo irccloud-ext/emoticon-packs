@@ -1,1 +1,15 @@
-{"name":"twitch-sub-so1dier","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"so1Deer","image_id":28611},{"match":"so1W","image_id":47954}]}
+{
+  "name": "twitch-sub-so1dier",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "so1Deer",
+      "image_id": 28611
+    },
+    {
+      "match": "so1W",
+      "image_id": 47954
+    }
+  ]
+}

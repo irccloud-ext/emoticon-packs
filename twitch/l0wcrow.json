@@ -1,1 +1,31 @@
-{"name":"twitch-sub-l0wcrow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"l0wSalty","image_id":63978},{"match":"l0wCoin","image_id":63915},{"match":"l0wSub","image_id":63977},{"match":"l0wFail","image_id":64223},{"match":"l0wNL","image_id":63908},{"match":"l0wGasm","image_id":64227}]}
+{
+  "name": "twitch-sub-l0wcrow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "l0wSalty",
+      "image_id": 63978
+    },
+    {
+      "match": "l0wCoin",
+      "image_id": 63915
+    },
+    {
+      "match": "l0wSub",
+      "image_id": 63977
+    },
+    {
+      "match": "l0wFail",
+      "image_id": 64223
+    },
+    {
+      "match": "l0wNL",
+      "image_id": 63908
+    },
+    {
+      "match": "l0wGasm",
+      "image_id": 64227
+    }
+  ]
+}

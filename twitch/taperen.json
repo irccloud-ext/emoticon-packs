@@ -1,1 +1,47 @@
-{"name":"twitch-sub-taperen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"taperW","image_id":69036},{"match":"taperH","image_id":72270},{"match":"taperSIN","image_id":76335},{"match":"taperTwitch","image_id":76332},{"match":"taperCry","image_id":76331},{"match":"taperGEL","image_id":76336},{"match":"taperG","image_id":82818},{"match":"taperLiar","image_id":97791},{"match":"taperP","image_id":101290},{"match":"taperDrama","image_id":104420}]}
+{
+  "name": "twitch-sub-taperen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "taperW",
+      "image_id": 69036
+    },
+    {
+      "match": "taperH",
+      "image_id": 72270
+    },
+    {
+      "match": "taperSIN",
+      "image_id": 76335
+    },
+    {
+      "match": "taperTwitch",
+      "image_id": 76332
+    },
+    {
+      "match": "taperCry",
+      "image_id": 76331
+    },
+    {
+      "match": "taperGEL",
+      "image_id": 76336
+    },
+    {
+      "match": "taperG",
+      "image_id": 82818
+    },
+    {
+      "match": "taperLiar",
+      "image_id": 97791
+    },
+    {
+      "match": "taperP",
+      "image_id": 101290
+    },
+    {
+      "match": "taperDrama",
+      "image_id": 104420
+    }
+  ]
+}

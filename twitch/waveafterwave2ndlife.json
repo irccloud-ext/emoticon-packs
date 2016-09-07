@@ -1,1 +1,31 @@
-{"name":"twitch-sub-waveafterwave2ndlife","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wave2Sub","image_id":85627},{"match":"wave2Fantazery","image_id":85626},{"match":"wave2Mmr","image_id":86419},{"match":"wave2Neboskrebi","image_id":86418},{"match":"wave2Mongoloid2","image_id":106060},{"match":"wave2Mongoloid1","image_id":106059}]}
+{
+  "name": "twitch-sub-waveafterwave2ndlife",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wave2Sub",
+      "image_id": 85627
+    },
+    {
+      "match": "wave2Fantazery",
+      "image_id": 85626
+    },
+    {
+      "match": "wave2Mmr",
+      "image_id": 86419
+    },
+    {
+      "match": "wave2Neboskrebi",
+      "image_id": 86418
+    },
+    {
+      "match": "wave2Mongoloid2",
+      "image_id": 106060
+    },
+    {
+      "match": "wave2Mongoloid1",
+      "image_id": 106059
+    }
+  ]
+}

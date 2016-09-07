@@ -1,1 +1,19 @@
-{"name":"twitch-sub-godsonftw","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"memeGodson","image_id":15665},{"match":"memeBurglar","image_id":15666},{"match":"memeYea","image_id":17617}]}
+{
+  "name": "twitch-sub-godsonftw",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "memeGodson",
+      "image_id": 15665
+    },
+    {
+      "match": "memeBurglar",
+      "image_id": 15666
+    },
+    {
+      "match": "memeYea",
+      "image_id": 17617
+    }
+  ]
+}

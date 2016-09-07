@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ludendi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ludendiPicnic","image_id":15057},{"match":"ludendiESA","image_id":15252},{"match":"ludendiBatman","image_id":15328},{"match":"ludendiJN","image_id":15324}]}
+{
+  "name": "twitch-sub-ludendi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ludendiPicnic",
+      "image_id": 15057
+    },
+    {
+      "match": "ludendiESA",
+      "image_id": 15252
+    },
+    {
+      "match": "ludendiBatman",
+      "image_id": 15328
+    },
+    {
+      "match": "ludendiJN",
+      "image_id": 15324
+    }
+  ]
+}

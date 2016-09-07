@@ -1,1 +1,39 @@
-{"name":"twitch-sub-roger9527","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rogerCry","image_id":62236},{"match":"rogerFire","image_id":62234},{"match":"rogerHa","image_id":75598},{"match":"roger83","image_id":75597},{"match":"rogerMovie","image_id":47268},{"match":"rogerTrash","image_id":47267},{"match":"rogerLaw","image_id":48435},{"match":"rogerHi","image_id":48434}]}
+{
+  "name": "twitch-sub-roger9527",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rogerCry",
+      "image_id": 62236
+    },
+    {
+      "match": "rogerFire",
+      "image_id": 62234
+    },
+    {
+      "match": "rogerHa",
+      "image_id": 75598
+    },
+    {
+      "match": "roger83",
+      "image_id": 75597
+    },
+    {
+      "match": "rogerMovie",
+      "image_id": 47268
+    },
+    {
+      "match": "rogerTrash",
+      "image_id": 47267
+    },
+    {
+      "match": "rogerLaw",
+      "image_id": 48435
+    },
+    {
+      "match": "rogerHi",
+      "image_id": 48434
+    }
+  ]
+}

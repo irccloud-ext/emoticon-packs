@@ -1,1 +1,39 @@
-{"name":"twitch-sub-onlyusemeblade","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bladeMall","image_id":16928},{"match":"bladePeace","image_id":16971},{"match":"bladeSubhype","image_id":19517},{"match":"bladeRealmvp","image_id":20205},{"match":"bladeDonationhype","image_id":21170},{"match":"bladeHy","image_id":82105},{"match":"bladePe","image_id":82106},{"match":"bladeBye","image_id":83375}]}
+{
+  "name": "twitch-sub-onlyusemeblade",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bladeMall",
+      "image_id": 16928
+    },
+    {
+      "match": "bladePeace",
+      "image_id": 16971
+    },
+    {
+      "match": "bladeSubhype",
+      "image_id": 19517
+    },
+    {
+      "match": "bladeRealmvp",
+      "image_id": 20205
+    },
+    {
+      "match": "bladeDonationhype",
+      "image_id": 21170
+    },
+    {
+      "match": "bladeHy",
+      "image_id": 82105
+    },
+    {
+      "match": "bladePe",
+      "image_id": 82106
+    },
+    {
+      "match": "bladeBye",
+      "image_id": 83375
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-gladiatorsupatease","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"supaSax","image_id":12126},{"match":"supaSwagsurge","image_id":12125},{"match":"supaMad","image_id":15659},{"match":"supaPogchamp","image_id":108866}]}
+{
+  "name": "twitch-sub-gladiatorsupatease",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "supaSax",
+      "image_id": 12126
+    },
+    {
+      "match": "supaSwagsurge",
+      "image_id": 12125
+    },
+    {
+      "match": "supaMad",
+      "image_id": 15659
+    },
+    {
+      "match": "supaPogchamp",
+      "image_id": 108866
+    }
+  ]
+}

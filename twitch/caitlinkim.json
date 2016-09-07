@@ -1,1 +1,23 @@
-{"name":"twitch-sub-caitlinkim","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"caitHi","image_id":88726},{"match":"caitSad","image_id":89338},{"match":"caitHeart","image_id":90748},{"match":"caitF","image_id":90767}]}
+{
+  "name": "twitch-sub-caitlinkim",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "caitHi",
+      "image_id": 88726
+    },
+    {
+      "match": "caitSad",
+      "image_id": 89338
+    },
+    {
+      "match": "caitHeart",
+      "image_id": 90748
+    },
+    {
+      "match": "caitF",
+      "image_id": 90767
+    }
+  ]
+}

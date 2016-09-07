@@ -1,1 +1,35 @@
-{"name":"twitch-sub-saintrox","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"saintroxScout","image_id":25680},{"match":"saintroxMMR","image_id":25682},{"match":"saintroxRox","image_id":27053},{"match":"saintroxMMRD","image_id":29208},{"match":"saintroxLovers","image_id":29274},{"match":"saintroxPlayer","image_id":29272},{"match":"saintroxShrek","image_id":29271}]}
+{
+  "name": "twitch-sub-saintrox",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "saintroxScout",
+      "image_id": 25680
+    },
+    {
+      "match": "saintroxMMR",
+      "image_id": 25682
+    },
+    {
+      "match": "saintroxRox",
+      "image_id": 27053
+    },
+    {
+      "match": "saintroxMMRD",
+      "image_id": 29208
+    },
+    {
+      "match": "saintroxLovers",
+      "image_id": 29274
+    },
+    {
+      "match": "saintroxPlayer",
+      "image_id": 29272
+    },
+    {
+      "match": "saintroxShrek",
+      "image_id": 29271
+    }
+  ]
+}

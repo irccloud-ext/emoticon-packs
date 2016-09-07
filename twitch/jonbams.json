@@ -1,1 +1,87 @@
-{"name":"twitch-sub-jonbams","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bamFailBam","image_id":1576},{"match":"bamChew","image_id":23110},{"match":"bamGG","image_id":73691},{"match":"bamInati","image_id":23184},{"match":"bamKappa","image_id":19606},{"match":"bamRage","image_id":23211},{"match":"bamRekt","image_id":26578},{"match":"bamSick","image_id":38108},{"match":"bamDead","image_id":38107},{"match":"bamThump","image_id":38106},{"match":"bamHappy","image_id":38363},{"match":"bamA","image_id":41186},{"match":"bamHeart","image_id":41430},{"match":"bamDerp","image_id":73238},{"match":"bamBlind","image_id":73239},{"match":"bamSellout","image_id":50699},{"match":"bamHype","image_id":73610},{"match":"bamPotato","image_id":74505},{"match":"bamBunneh","image_id":74454},{"match":"bamW","image_id":98734}]}
+{
+  "name": "twitch-sub-jonbams",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bamFailBam",
+      "image_id": 1576
+    },
+    {
+      "match": "bamChew",
+      "image_id": 23110
+    },
+    {
+      "match": "bamGG",
+      "image_id": 73691
+    },
+    {
+      "match": "bamInati",
+      "image_id": 23184
+    },
+    {
+      "match": "bamKappa",
+      "image_id": 19606
+    },
+    {
+      "match": "bamRage",
+      "image_id": 23211
+    },
+    {
+      "match": "bamRekt",
+      "image_id": 26578
+    },
+    {
+      "match": "bamSick",
+      "image_id": 38108
+    },
+    {
+      "match": "bamDead",
+      "image_id": 38107
+    },
+    {
+      "match": "bamThump",
+      "image_id": 38106
+    },
+    {
+      "match": "bamHappy",
+      "image_id": 38363
+    },
+    {
+      "match": "bamA",
+      "image_id": 41186
+    },
+    {
+      "match": "bamHeart",
+      "image_id": 41430
+    },
+    {
+      "match": "bamDerp",
+      "image_id": 73238
+    },
+    {
+      "match": "bamBlind",
+      "image_id": 73239
+    },
+    {
+      "match": "bamSellout",
+      "image_id": 50699
+    },
+    {
+      "match": "bamHype",
+      "image_id": 73610
+    },
+    {
+      "match": "bamPotato",
+      "image_id": 74505
+    },
+    {
+      "match": "bamBunneh",
+      "image_id": 74454
+    },
+    {
+      "match": "bamW",
+      "image_id": 98734
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-dimitrisphotography","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mitchiKappa","image_id":40792},{"match":"mitchiSir","image_id":41649},{"match":"mitchiHate","image_id":67537},{"match":"mitchiMitchi","image_id":67569},{"match":"mitchiFail","image_id":67557},{"match":"mitchiBaby","image_id":71089},{"match":"mitchiRage","image_id":70519},{"match":"mitchiAwk","image_id":78637},{"match":"mitchiWard","image_id":78638},{"match":"mitchiPalmer","image_id":101508}]}
+{
+  "name": "twitch-sub-dimitrisphotography",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mitchiKappa",
+      "image_id": 40792
+    },
+    {
+      "match": "mitchiSir",
+      "image_id": 41649
+    },
+    {
+      "match": "mitchiHate",
+      "image_id": 67537
+    },
+    {
+      "match": "mitchiMitchi",
+      "image_id": 67569
+    },
+    {
+      "match": "mitchiFail",
+      "image_id": 67557
+    },
+    {
+      "match": "mitchiBaby",
+      "image_id": 71089
+    },
+    {
+      "match": "mitchiRage",
+      "image_id": 70519
+    },
+    {
+      "match": "mitchiAwk",
+      "image_id": 78637
+    },
+    {
+      "match": "mitchiWard",
+      "image_id": 78638
+    },
+    {
+      "match": "mitchiPalmer",
+      "image_id": 101508
+    }
+  ]
+}

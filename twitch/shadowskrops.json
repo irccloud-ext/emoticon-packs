@@ -1,1 +1,23 @@
-{"name":"twitch-sub-shadowskrops","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sksBruh","image_id":91456},{"match":"sksLove","image_id":81843},{"match":"sksRekt","image_id":81844},{"match":"sksMort","image_id":95283}]}
+{
+  "name": "twitch-sub-shadowskrops",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sksBruh",
+      "image_id": 91456
+    },
+    {
+      "match": "sksLove",
+      "image_id": 81843
+    },
+    {
+      "match": "sksRekt",
+      "image_id": 81844
+    },
+    {
+      "match": "sksMort",
+      "image_id": 95283
+    }
+  ]
+}

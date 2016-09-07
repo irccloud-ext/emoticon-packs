@@ -1,1 +1,39 @@
-{"name":"twitch-sub-miniminter","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mm7GLASSES","image_id":81402},{"match":"mm7RIP","image_id":81398},{"match":"mm7MINI","image_id":81400},{"match":"mm7SEEYA","image_id":81401},{"match":"mm7FACE","image_id":80763},{"match":"mm7SDMN","image_id":81096},{"match":"mm7ELEPHANT","image_id":81087},{"match":"mm7HI","image_id":81549}]}
+{
+  "name": "twitch-sub-miniminter",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mm7GLASSES",
+      "image_id": 81402
+    },
+    {
+      "match": "mm7RIP",
+      "image_id": 81398
+    },
+    {
+      "match": "mm7MINI",
+      "image_id": 81400
+    },
+    {
+      "match": "mm7SEEYA",
+      "image_id": 81401
+    },
+    {
+      "match": "mm7FACE",
+      "image_id": 80763
+    },
+    {
+      "match": "mm7SDMN",
+      "image_id": 81096
+    },
+    {
+      "match": "mm7ELEPHANT",
+      "image_id": 81087
+    },
+    {
+      "match": "mm7HI",
+      "image_id": 81549
+    }
+  ]
+}

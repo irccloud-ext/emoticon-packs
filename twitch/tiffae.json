@@ -1,1 +1,39 @@
-{"name":"twitch-sub-tiffae","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tiffRage","image_id":80068},{"match":"tiffLag","image_id":67036},{"match":"tiffWave","image_id":67079},{"match":"tiffRip","image_id":67591},{"match":"tiffLove","image_id":67590},{"match":"tiffGasm","image_id":67589},{"match":"tiffLel","image_id":80659},{"match":"tiffQQ","image_id":87037}]}
+{
+  "name": "twitch-sub-tiffae",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tiffRage",
+      "image_id": 80068
+    },
+    {
+      "match": "tiffLag",
+      "image_id": 67036
+    },
+    {
+      "match": "tiffWave",
+      "image_id": 67079
+    },
+    {
+      "match": "tiffRip",
+      "image_id": 67591
+    },
+    {
+      "match": "tiffLove",
+      "image_id": 67590
+    },
+    {
+      "match": "tiffGasm",
+      "image_id": 67589
+    },
+    {
+      "match": "tiffLel",
+      "image_id": 80659
+    },
+    {
+      "match": "tiffQQ",
+      "image_id": 87037
+    }
+  ]
+}

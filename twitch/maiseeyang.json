@@ -1,1 +1,31 @@
-{"name":"twitch-sub-maiseeyang","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"maiHype","image_id":72547},{"match":"maiFat","image_id":79120},{"match":"maiLove","image_id":78343},{"match":"maiRage","image_id":78344},{"match":"maiFap","image_id":82088},{"match":"maiCry","image_id":81782}]}
+{
+  "name": "twitch-sub-maiseeyang",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "maiHype",
+      "image_id": 72547
+    },
+    {
+      "match": "maiFat",
+      "image_id": 79120
+    },
+    {
+      "match": "maiLove",
+      "image_id": 78343
+    },
+    {
+      "match": "maiRage",
+      "image_id": 78344
+    },
+    {
+      "match": "maiFap",
+      "image_id": 82088
+    },
+    {
+      "match": "maiCry",
+      "image_id": 81782
+    }
+  ]
+}

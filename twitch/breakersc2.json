@@ -1,1 +1,23 @@
-{"name":"twitch-sub-breakersc2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bingeYoeFWSan","image_id":12870},{"match":"bingeYoeFWHas","image_id":12871},{"match":"bingeJiuming","image_id":39306},{"match":"bingeGosu","image_id":42062}]}
+{
+  "name": "twitch-sub-breakersc2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bingeYoeFWSan",
+      "image_id": 12870
+    },
+    {
+      "match": "bingeYoeFWHas",
+      "image_id": 12871
+    },
+    {
+      "match": "bingeJiuming",
+      "image_id": 39306
+    },
+    {
+      "match": "bingeGosu",
+      "image_id": 42062
+    }
+  ]
+}

@@ -1,1 +1,67 @@
-{"name":"twitch-sub-yukaslegion2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yukasChan","image_id":12431},{"match":"yukasGG","image_id":18247},{"match":"yukasChug","image_id":18385},{"match":"yukasPraise","image_id":18386},{"match":"yukasSwag","image_id":18387},{"match":"yukasPerv","image_id":20728},{"match":"yukasCat","image_id":29219},{"match":"yukasHi","image_id":33285},{"match":"yukasDerp","image_id":40625},{"match":"yukasSalt","image_id":96878},{"match":"yukasHey","image_id":96879},{"match":"yukasHype","image_id":96880},{"match":"yukasR1","image_id":96881},{"match":"yukasWog","image_id":86949},{"match":"yukasHornet","image_id":96882}]}
+{
+  "name": "twitch-sub-yukaslegion2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yukasChan",
+      "image_id": 12431
+    },
+    {
+      "match": "yukasGG",
+      "image_id": 18247
+    },
+    {
+      "match": "yukasChug",
+      "image_id": 18385
+    },
+    {
+      "match": "yukasPraise",
+      "image_id": 18386
+    },
+    {
+      "match": "yukasSwag",
+      "image_id": 18387
+    },
+    {
+      "match": "yukasPerv",
+      "image_id": 20728
+    },
+    {
+      "match": "yukasCat",
+      "image_id": 29219
+    },
+    {
+      "match": "yukasHi",
+      "image_id": 33285
+    },
+    {
+      "match": "yukasDerp",
+      "image_id": 40625
+    },
+    {
+      "match": "yukasSalt",
+      "image_id": 96878
+    },
+    {
+      "match": "yukasHey",
+      "image_id": 96879
+    },
+    {
+      "match": "yukasHype",
+      "image_id": 96880
+    },
+    {
+      "match": "yukasR1",
+      "image_id": 96881
+    },
+    {
+      "match": "yukasWog",
+      "image_id": 86949
+    },
+    {
+      "match": "yukasHornet",
+      "image_id": 96882
+    }
+  ]
+}

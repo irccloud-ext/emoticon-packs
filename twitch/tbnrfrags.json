@@ -1,1 +1,11 @@
-{"name":"twitch-sub-tbnrfrags","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lavamobCute","image_id":27736}]}
+{
+  "name": "twitch-sub-tbnrfrags",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lavamobCute",
+      "image_id": 27736
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-stealthshampoo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nickyPalm","image_id":20817},{"match":"nickyTie","image_id":20852},{"match":"nickyTried","image_id":43908},{"match":"nickyRekt","image_id":46671},{"match":"nickyHype","image_id":48564},{"match":"nickyOw","image_id":53148}]}
+{
+  "name": "twitch-sub-stealthshampoo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nickyPalm",
+      "image_id": 20817
+    },
+    {
+      "match": "nickyTie",
+      "image_id": 20852
+    },
+    {
+      "match": "nickyTried",
+      "image_id": 43908
+    },
+    {
+      "match": "nickyRekt",
+      "image_id": 46671
+    },
+    {
+      "match": "nickyHype",
+      "image_id": 48564
+    },
+    {
+      "match": "nickyOw",
+      "image_id": 53148
+    }
+  ]
+}

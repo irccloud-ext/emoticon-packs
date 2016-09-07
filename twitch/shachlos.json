@@ -1,1 +1,15 @@
-{"name":"twitch-sub-shachlos","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shachKappa","image_id":18520},{"match":"shachBrb","image_id":58233}]}
+{
+  "name": "twitch-sub-shachlos",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shachKappa",
+      "image_id": 18520
+    },
+    {
+      "match": "shachBrb",
+      "image_id": 58233
+    }
+  ]
+}

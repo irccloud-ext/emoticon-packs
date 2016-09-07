@@ -1,1 +1,19 @@
-{"name":"twitch-sub-traininggoespro","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"feelstgpBrille","image_id":99871},{"match":"feelstgpFeelsTGP","image_id":95505},{"match":"feelstgpTgpfail","image_id":95506}]}
+{
+  "name": "twitch-sub-traininggoespro",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "feelstgpBrille",
+      "image_id": 99871
+    },
+    {
+      "match": "feelstgpFeelsTGP",
+      "image_id": 95505
+    },
+    {
+      "match": "feelstgpTgpfail",
+      "image_id": 95506
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"twitch-sub-mitschl88","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mitschlKappa","image_id":1755},{"match":"mitschlTroll","image_id":1710},{"match":"mitschlSmile","image_id":3190},{"match":"mitschlDerp","image_id":3307},{"match":"mitschlTyp","image_id":39757},{"match":"mitschlHerz","image_id":39754},{"match":"mitschlHype","image_id":49043}]}
+{
+  "name": "twitch-sub-mitschl88",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mitschlKappa",
+      "image_id": 1755
+    },
+    {
+      "match": "mitschlTroll",
+      "image_id": 1710
+    },
+    {
+      "match": "mitschlSmile",
+      "image_id": 3190
+    },
+    {
+      "match": "mitschlDerp",
+      "image_id": 3307
+    },
+    {
+      "match": "mitschlTyp",
+      "image_id": 39757
+    },
+    {
+      "match": "mitschlHerz",
+      "image_id": 39754
+    },
+    {
+      "match": "mitschlHype",
+      "image_id": 49043
+    }
+  ]
+}

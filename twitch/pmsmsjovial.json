@@ -1,1 +1,23 @@
-{"name":"twitch-sub-pmsmsjovial","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"msjovialWts","image_id":102895},{"match":"msjovialFail","image_id":57037}]}
+{
+  "name": "twitch-sub-pmsmsjovial",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "msjovialWts",
+      "image_id": 102895
+    },
+    {
+      "match": "msjovialFail",
+      "image_id": 57037
+    },
+    {
+      "match": "msjovial322",
+      "image_id": 112268
+    },
+    {
+      "match": "msjovialNoticeme",
+      "image_id": 112274
+    }
+  ]
+}

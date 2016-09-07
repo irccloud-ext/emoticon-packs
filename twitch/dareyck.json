@@ -1,1 +1,39 @@
-{"name":"twitch-sub-dareyck","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dareDD","image_id":106240},{"match":"dareRIP","image_id":106119},{"match":"dareChamp","image_id":106250},{"match":"darePalm","image_id":108754},{"match":"dareGG","image_id":106147},{"match":"dareRekt","image_id":106102},{"match":"dareDiv","image_id":106160},{"match":"dareKitty","image_id":107699}]}
+{
+  "name": "twitch-sub-dareyck",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dareDD",
+      "image_id": 106240
+    },
+    {
+      "match": "dareRIP",
+      "image_id": 106119
+    },
+    {
+      "match": "dareChamp",
+      "image_id": 106250
+    },
+    {
+      "match": "darePalm",
+      "image_id": 108754
+    },
+    {
+      "match": "dareGG",
+      "image_id": 106147
+    },
+    {
+      "match": "dareRekt",
+      "image_id": 106102
+    },
+    {
+      "match": "dareDiv",
+      "image_id": 106160
+    },
+    {
+      "match": "dareKitty",
+      "image_id": 107699
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-{"name":"twitch-sub-liquidneo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lqdNeo","image_id":34585},{"match":"lqdRiot","image_id":35493},{"match":"lqdGold","image_id":37276},{"match":"lqdHype","image_id":44719},{"match":"lqdFail","image_id":44866}]}
+{
+  "name": "twitch-sub-liquidneo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lqdNeo",
+      "image_id": 34585
+    },
+    {
+      "match": "lqdRiot",
+      "image_id": 35493
+    },
+    {
+      "match": "lqdGold",
+      "image_id": 37276
+    },
+    {
+      "match": "lqdHype",
+      "image_id": 44719
+    },
+    {
+      "match": "lqdFail",
+      "image_id": 44866
+    }
+  ]
+}

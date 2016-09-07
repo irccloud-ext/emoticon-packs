@@ -1,1 +1,39 @@
-{"name":"twitch-sub-cheyenneo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cheyHype","image_id":76759},{"match":"cheyRage","image_id":72398},{"match":"cheyHeni","image_id":72395},{"match":"cheySenpai","image_id":73756},{"match":"cheyWave","image_id":92277},{"match":"cheyHug","image_id":92279},{"match":"cheyLewd","image_id":92270},{"match":"cheyFeels","image_id":92609}]}
+{
+  "name": "twitch-sub-cheyenneo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cheyHype",
+      "image_id": 76759
+    },
+    {
+      "match": "cheyRage",
+      "image_id": 72398
+    },
+    {
+      "match": "cheyHeni",
+      "image_id": 72395
+    },
+    {
+      "match": "cheySenpai",
+      "image_id": 73756
+    },
+    {
+      "match": "cheyWave",
+      "image_id": 92277
+    },
+    {
+      "match": "cheyHug",
+      "image_id": 92279
+    },
+    {
+      "match": "cheyLewd",
+      "image_id": 92270
+    },
+    {
+      "match": "cheyFeels",
+      "image_id": 92609
+    }
+  ]
+}

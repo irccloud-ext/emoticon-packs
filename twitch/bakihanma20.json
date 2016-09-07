@@ -1,1 +1,35 @@
-{"name":"twitch-sub-bakihanma20","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hanmaBran","image_id":34257},{"match":"hanmaWifey","image_id":34266},{"match":"hanmaRekt","image_id":34830},{"match":"hanmaHype","image_id":34829},{"match":"hanmaO","image_id":44543},{"match":"hanmaArk","image_id":44570},{"match":"hanmaBars","image_id":44593}]}
+{
+  "name": "twitch-sub-bakihanma20",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hanmaBran",
+      "image_id": 34257
+    },
+    {
+      "match": "hanmaWifey",
+      "image_id": 34266
+    },
+    {
+      "match": "hanmaRekt",
+      "image_id": 34830
+    },
+    {
+      "match": "hanmaHype",
+      "image_id": 34829
+    },
+    {
+      "match": "hanmaO",
+      "image_id": 44543
+    },
+    {
+      "match": "hanmaArk",
+      "image_id": 44570
+    },
+    {
+      "match": "hanmaBars",
+      "image_id": 44593
+    }
+  ]
+}

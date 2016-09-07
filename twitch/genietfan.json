@@ -1,1 +1,55 @@
-{"name":"twitch-sub-genietfan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"genietMOON","image_id":111311},{"match":"genietSAD","image_id":111340},{"match":"genietMAMA","image_id":111313},{"match":"genietTAPAD","image_id":111312},{"match":"genietHEY","image_id":110844},{"match":"genietHUG","image_id":110845},{"match":"genietH","image_id":110843},{"match":"genietTILT","image_id":110849},{"match":"genietRIP","image_id":110847},{"match":"genietKING","image_id":110846},{"match":"genietHYPE","image_id":110850},{"match":"genietTEN","image_id":110848}]}
+{
+  "name": "twitch-sub-genietfan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "genietMOON",
+      "image_id": 111311
+    },
+    {
+      "match": "genietSAD",
+      "image_id": 111340
+    },
+    {
+      "match": "genietMAMA",
+      "image_id": 111313
+    },
+    {
+      "match": "genietTAPAD",
+      "image_id": 111312
+    },
+    {
+      "match": "genietHEY",
+      "image_id": 110844
+    },
+    {
+      "match": "genietHUG",
+      "image_id": 110845
+    },
+    {
+      "match": "genietH",
+      "image_id": 110843
+    },
+    {
+      "match": "genietTILT",
+      "image_id": 110849
+    },
+    {
+      "match": "genietRIP",
+      "image_id": 110847
+    },
+    {
+      "match": "genietKING",
+      "image_id": 110846
+    },
+    {
+      "match": "genietHYPE",
+      "image_id": 110850
+    },
+    {
+      "match": "genietTEN",
+      "image_id": 110848
+    }
+  ]
+}

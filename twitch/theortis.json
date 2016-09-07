@@ -1,1 +1,31 @@
-{"name":"twitch-sub-theortis","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ortWut","image_id":108156},{"match":"ortYeah","image_id":108154},{"match":"ortPeace","image_id":107517},{"match":"ortGame","image_id":108273},{"match":"ortBicekL","image_id":107519},{"match":"ortBicekP","image_id":107520}]}
+{
+  "name": "twitch-sub-theortis",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ortWut",
+      "image_id": 108156
+    },
+    {
+      "match": "ortYeah",
+      "image_id": 108154
+    },
+    {
+      "match": "ortPeace",
+      "image_id": 107517
+    },
+    {
+      "match": "ortGame",
+      "image_id": 108273
+    },
+    {
+      "match": "ortBicekL",
+      "image_id": 107519
+    },
+    {
+      "match": "ortBicekP",
+      "image_id": 107520
+    }
+  ]
+}

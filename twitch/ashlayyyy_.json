@@ -1,1 +1,35 @@
-{"name":"twitch-sub-ashlayyyy_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ashhArmy","image_id":87871},{"match":"ashhSub","image_id":21662},{"match":"ashhRage","image_id":22050},{"match":"ashhRIP","image_id":22051},{"match":"ashhFail","image_id":22740},{"match":"ashhLove","image_id":22739},{"match":"ashhKappa","image_id":22679}]}
+{
+  "name": "twitch-sub-ashlayyyy_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ashhArmy",
+      "image_id": 87871
+    },
+    {
+      "match": "ashhSub",
+      "image_id": 21662
+    },
+    {
+      "match": "ashhRage",
+      "image_id": 22050
+    },
+    {
+      "match": "ashhRIP",
+      "image_id": 22051
+    },
+    {
+      "match": "ashhFail",
+      "image_id": 22740
+    },
+    {
+      "match": "ashhLove",
+      "image_id": 22739
+    },
+    {
+      "match": "ashhKappa",
+      "image_id": 22679
+    }
+  ]
+}

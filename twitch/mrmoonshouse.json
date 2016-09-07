@@ -1,1 +1,107 @@
-{"name":"twitch-sub-mrmoonshouse","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"moonDark","image_id":20277},{"match":"moonMask","image_id":20619},{"match":"moonBlood","image_id":24693},{"match":"moonCaw","image_id":24086},{"match":"moonSwine","image_id":26554},{"match":"moonLand","image_id":28385},{"match":"moonHolla","image_id":35440},{"match":"moonPreg","image_id":31865},{"match":"moonCry","image_id":34078},{"match":"moonLove","image_id":34694},{"match":"moonHold","image_id":35125},{"match":"moonKappa","image_id":66682},{"match":"moonWok","image_id":48190},{"match":"moonRage","image_id":64300},{"match":"moonBaby","image_id":64301},{"match":"moonHype","image_id":81349},{"match":"moonFreak","image_id":81351},{"match":"moonFail","image_id":81353},{"match":"moonSub","image_id":81354},{"match":"moonRip","image_id":81352},{"match":"moonSpill","image_id":92897},{"match":"moonLurk","image_id":92896},{"match":"moonCheers","image_id":92930},{"match":"moonHey","image_id":93051},{"match":"moonGasm","image_id":93050}]}
+{
+  "name": "twitch-sub-mrmoonshouse",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "moonDark",
+      "image_id": 20277
+    },
+    {
+      "match": "moonMask",
+      "image_id": 20619
+    },
+    {
+      "match": "moonBlood",
+      "image_id": 24693
+    },
+    {
+      "match": "moonCaw",
+      "image_id": 24086
+    },
+    {
+      "match": "moonSwine",
+      "image_id": 26554
+    },
+    {
+      "match": "moonLand",
+      "image_id": 28385
+    },
+    {
+      "match": "moonHolla",
+      "image_id": 35440
+    },
+    {
+      "match": "moonPreg",
+      "image_id": 31865
+    },
+    {
+      "match": "moonCry",
+      "image_id": 34078
+    },
+    {
+      "match": "moonLove",
+      "image_id": 34694
+    },
+    {
+      "match": "moonHold",
+      "image_id": 35125
+    },
+    {
+      "match": "moonKappa",
+      "image_id": 66682
+    },
+    {
+      "match": "moonWok",
+      "image_id": 48190
+    },
+    {
+      "match": "moonRage",
+      "image_id": 64300
+    },
+    {
+      "match": "moonBaby",
+      "image_id": 64301
+    },
+    {
+      "match": "moonHype",
+      "image_id": 81349
+    },
+    {
+      "match": "moonFreak",
+      "image_id": 81351
+    },
+    {
+      "match": "moonFail",
+      "image_id": 81353
+    },
+    {
+      "match": "moonSub",
+      "image_id": 81354
+    },
+    {
+      "match": "moonRip",
+      "image_id": 81352
+    },
+    {
+      "match": "moonSpill",
+      "image_id": 92897
+    },
+    {
+      "match": "moonLurk",
+      "image_id": 92896
+    },
+    {
+      "match": "moonCheers",
+      "image_id": 92930
+    },
+    {
+      "match": "moonHey",
+      "image_id": 93051
+    },
+    {
+      "match": "moonGasm",
+      "image_id": 93050
+    }
+  ]
+}

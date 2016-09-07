@@ -1,1 +1,27 @@
-{"name":"twitch-sub-moeycq","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"moeyHsp","image_id":105104},{"match":"moeyDoggo","image_id":102595},{"match":"moeyFace","image_id":102598},{"match":"moeyWtf","image_id":103903},{"match":"moeyAu","image_id":103215}]}
+{
+  "name": "twitch-sub-moeycq",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "moeyHsp",
+      "image_id": 105104
+    },
+    {
+      "match": "moeyDoggo",
+      "image_id": 102595
+    },
+    {
+      "match": "moeyFace",
+      "image_id": 102598
+    },
+    {
+      "match": "moeyWtf",
+      "image_id": 103903
+    },
+    {
+      "match": "moeyAu",
+      "image_id": 103215
+    }
+  ]
+}

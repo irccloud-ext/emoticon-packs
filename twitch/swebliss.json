@@ -1,1 +1,47 @@
-{"name":"twitch-sub-swebliss","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"blissPeace","image_id":7321},{"match":"blissSad","image_id":9245},{"match":"blissHappy","image_id":11831},{"match":"blissHype","image_id":14943},{"match":"blissLove","image_id":23507},{"match":"blissSmile","image_id":28227},{"match":"blissBurn","image_id":36607},{"match":"blissFailfish","image_id":36619},{"match":"blissThump","image_id":36618},{"match":"blissRage","image_id":63920}]}
+{
+  "name": "twitch-sub-swebliss",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "blissPeace",
+      "image_id": 7321
+    },
+    {
+      "match": "blissSad",
+      "image_id": 9245
+    },
+    {
+      "match": "blissHappy",
+      "image_id": 11831
+    },
+    {
+      "match": "blissHype",
+      "image_id": 14943
+    },
+    {
+      "match": "blissLove",
+      "image_id": 23507
+    },
+    {
+      "match": "blissSmile",
+      "image_id": 28227
+    },
+    {
+      "match": "blissBurn",
+      "image_id": 36607
+    },
+    {
+      "match": "blissFailfish",
+      "image_id": 36619
+    },
+    {
+      "match": "blissThump",
+      "image_id": 36618
+    },
+    {
+      "match": "blissRage",
+      "image_id": 63920
+    }
+  ]
+}

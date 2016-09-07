@@ -1,1 +1,19 @@
-{"name":"twitch-sub-qualityplayer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"qualityHistorical","image_id":2151},{"match":"qualityDog","image_id":2153},{"match":"qualityRare","image_id":2145}]}
+{
+  "name": "twitch-sub-qualityplayer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "qualityHistorical",
+      "image_id": 2151
+    },
+    {
+      "match": "qualityDog",
+      "image_id": 2153
+    },
+    {
+      "match": "qualityRare",
+      "image_id": 2145
+    }
+  ]
+}

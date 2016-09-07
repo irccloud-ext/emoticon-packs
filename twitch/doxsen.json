@@ -1,1 +1,27 @@
-{"name":"twitch-sub-doxsen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"doxOMG","image_id":14032},{"match":"doxBURGER","image_id":14033},{"match":"doxHELM","image_id":14034},{"match":"doxPOW","image_id":14035},{"match":"doxTANK","image_id":14043}]}
+{
+  "name": "twitch-sub-doxsen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "doxOMG",
+      "image_id": 14032
+    },
+    {
+      "match": "doxBURGER",
+      "image_id": 14033
+    },
+    {
+      "match": "doxHELM",
+      "image_id": 14034
+    },
+    {
+      "match": "doxPOW",
+      "image_id": 14035
+    },
+    {
+      "match": "doxTANK",
+      "image_id": 14043
+    }
+  ]
+}

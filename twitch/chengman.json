@@ -1,1 +1,15 @@
-{"name":"twitch-sub-chengman","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chengHeatscore","image_id":25239},{"match":"chengBigfoig","image_id":53615}]}
+{
+  "name": "twitch-sub-chengman",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chengHeatscore",
+      "image_id": 25239
+    },
+    {
+      "match": "chengBigfoig",
+      "image_id": 53615
+    }
+  ]
+}

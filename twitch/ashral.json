@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ashral","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ashralAURIN","image_id":8820},{"match":"ashralNOPANTSPARTY","image_id":8668},{"match":"ashralTOASTERGHOST","image_id":8667},{"match":"ashralWUB","image_id":9587},{"match":"ashralBEEFY","image_id":13643},{"match":"ashralBREW","image_id":13650}]}
+{
+  "name": "twitch-sub-ashral",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ashralAURIN",
+      "image_id": 8820
+    },
+    {
+      "match": "ashralNOPANTSPARTY",
+      "image_id": 8668
+    },
+    {
+      "match": "ashralTOASTERGHOST",
+      "image_id": 8667
+    },
+    {
+      "match": "ashralWUB",
+      "image_id": 9587
+    },
+    {
+      "match": "ashralBEEFY",
+      "image_id": 13643
+    },
+    {
+      "match": "ashralBREW",
+      "image_id": 13650
+    }
+  ]
+}

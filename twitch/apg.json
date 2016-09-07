@@ -1,1 +1,23 @@
-{"name":"twitch-sub-apg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"apgRC","image_id":43757},{"match":"apgFire","image_id":52668},{"match":"apgTJ","image_id":61266},{"match":"apgNV","image_id":72094}]}
+{
+  "name": "twitch-sub-apg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "apgRC",
+      "image_id": 43757
+    },
+    {
+      "match": "apgFire",
+      "image_id": 52668
+    },
+    {
+      "match": "apgTJ",
+      "image_id": 61266
+    },
+    {
+      "match": "apgNV",
+      "image_id": 72094
+    }
+  ]
+}

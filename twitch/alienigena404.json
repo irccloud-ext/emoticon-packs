@@ -1,1 +1,31 @@
-{"name":"twitch-sub-alienigena404","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"alieniSolado","image_id":105461},{"match":"alieniOk","image_id":107073},{"match":"alieniEt","image_id":105904},{"match":"alieniSPLIT","image_id":106708},{"match":"alieniBeads","image_id":109398},{"match":"alieniBirl","image_id":110172}]}
+{
+  "name": "twitch-sub-alienigena404",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "alieniSolado",
+      "image_id": 105461
+    },
+    {
+      "match": "alieniOk",
+      "image_id": 107073
+    },
+    {
+      "match": "alieniEt",
+      "image_id": 105904
+    },
+    {
+      "match": "alieniSPLIT",
+      "image_id": 106708
+    },
+    {
+      "match": "alieniBeads",
+      "image_id": 109398
+    },
+    {
+      "match": "alieniBirl",
+      "image_id": 110172
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-dkoseoglu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"duyguKAFA","image_id":65537},{"match":"duyguFAIL","image_id":64761},{"match":"duyguKALP","image_id":104229},{"match":"duyguREKT","image_id":111516},{"match":"duyguNA","image_id":111517},{"match":"duyguAFK","image_id":111518},{"match":"duyguSA","image_id":110899},{"match":"duyguMana","image_id":110894}]}
+{
+  "name": "twitch-sub-dkoseoglu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "duyguKAFA",
+      "image_id": 65537
+    },
+    {
+      "match": "duyguFAIL",
+      "image_id": 64761
+    },
+    {
+      "match": "duyguAS",
+      "image_id": 112522
+    },
+    {
+      "match": "duyguGG",
+      "image_id": 112511
+    },
+    {
+      "match": "duyguKALP",
+      "image_id": 104229
+    },
+    {
+      "match": "duyguREKT",
+      "image_id": 111516
+    },
+    {
+      "match": "duyguNA",
+      "image_id": 111517
+    },
+    {
+      "match": "duyguAFK",
+      "image_id": 111518
+    },
+    {
+      "match": "duyguSA",
+      "image_id": 110899
+    },
+    {
+      "match": "duyguMana",
+      "image_id": 110894
+    }
+  ]
+}

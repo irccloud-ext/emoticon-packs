@@ -1,1 +1,31 @@
-{"name":"twitch-sub-iearlgrey","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"earlO7","image_id":71515},{"match":"earlFacePalm","image_id":72427},{"match":"earlMariachi","image_id":111405},{"match":"earlRekt","image_id":73583},{"match":"earlRaid","image_id":73163},{"match":"earlWink","image_id":94388}]}
+{
+  "name": "twitch-sub-iearlgrey",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "earlO7",
+      "image_id": 71515
+    },
+    {
+      "match": "earlFacePalm",
+      "image_id": 72427
+    },
+    {
+      "match": "earlMariachi",
+      "image_id": 111405
+    },
+    {
+      "match": "earlRekt",
+      "image_id": 73583
+    },
+    {
+      "match": "earlRaid",
+      "image_id": 73163
+    },
+    {
+      "match": "earlWink",
+      "image_id": 94388
+    }
+  ]
+}

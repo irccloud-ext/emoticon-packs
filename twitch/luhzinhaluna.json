@@ -1,1 +1,15 @@
-{"name":"twitch-sub-luhzinhaluna","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"luluPoro","image_id":29901},{"match":"luluCupcake","image_id":29926}]}
+{
+  "name": "twitch-sub-luhzinhaluna",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "luluPoro",
+      "image_id": 29901
+    },
+    {
+      "match": "luluCupcake",
+      "image_id": 29926
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-theenclase","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"enclaseBibleTrump","image_id":36818},{"match":"enclaseWombart","image_id":36816},{"match":"enclaseWombicoin","image_id":38140},{"match":"enclaseYAY","image_id":109422},{"match":"enclaseHihi","image_id":82273},{"match":"enclaseLOL","image_id":110542},{"match":"enclaseTja","image_id":110543},{"match":"enclaseDerp","image_id":109423},{"match":"enclaseFat","image_id":109424},{"match":"enclaseLove","image_id":110883}]}
+{
+  "name": "twitch-sub-theenclase",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "enclaseBibleTrump",
+      "image_id": 36818
+    },
+    {
+      "match": "enclaseWombart",
+      "image_id": 36816
+    },
+    {
+      "match": "enclaseWombicoin",
+      "image_id": 38140
+    },
+    {
+      "match": "enclaseYAY",
+      "image_id": 109422
+    },
+    {
+      "match": "enclaseHihi",
+      "image_id": 82273
+    },
+    {
+      "match": "enclaseLOL",
+      "image_id": 110542
+    },
+    {
+      "match": "enclaseTja",
+      "image_id": 110543
+    },
+    {
+      "match": "enclaseDerp",
+      "image_id": 109423
+    },
+    {
+      "match": "enclaseFat",
+      "image_id": 109424
+    },
+    {
+      "match": "enclaseLove",
+      "image_id": 110883
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-chad","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chadproW","image_id":107832},{"match":"chadproLUL","image_id":109230}]}
+{
+  "name": "twitch-sub-chad",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chadproW",
+      "image_id": 107832
+    },
+    {
+      "match": "chadproLUL",
+      "image_id": 109230
+    }
+  ]
+}

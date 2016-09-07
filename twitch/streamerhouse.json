@@ -1,1 +1,87 @@
-{"name":"twitch-sub-streamerhouse","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"iconDOWN","image_id":103853},{"match":"iconKLAPPA","image_id":81536},{"match":"iconTREE","image_id":103783},{"match":"iconM","image_id":94835},{"match":"iconHEHE","image_id":103776},{"match":"iconH","image_id":103765},{"match":"iconZ","image_id":103762},{"match":"iconUP","image_id":103760},{"match":"iconINIGO","image_id":76725},{"match":"iconCRU","image_id":76976},{"match":"iconJESUS","image_id":76977},{"match":"iconSH","image_id":76242},{"match":"iconPF","image_id":96219},{"match":"iconSCAM","image_id":84261},{"match":"iconTHUUM","image_id":109121},{"match":"iconD","image_id":92320},{"match":"iconO","image_id":95972},{"match":"iconMYSTIC","image_id":105735},{"match":"iconVALOR","image_id":105736},{"match":"iconINSTINCT","image_id":105737}]}
+{
+  "name": "twitch-sub-streamerhouse",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "iconDOWN",
+      "image_id": 103853
+    },
+    {
+      "match": "iconKLAPPA",
+      "image_id": 81536
+    },
+    {
+      "match": "iconTREE",
+      "image_id": 103783
+    },
+    {
+      "match": "iconM",
+      "image_id": 94835
+    },
+    {
+      "match": "iconHEHE",
+      "image_id": 103776
+    },
+    {
+      "match": "iconH",
+      "image_id": 103765
+    },
+    {
+      "match": "iconZ",
+      "image_id": 103762
+    },
+    {
+      "match": "iconUP",
+      "image_id": 103760
+    },
+    {
+      "match": "iconINIGO",
+      "image_id": 76725
+    },
+    {
+      "match": "iconCRU",
+      "image_id": 76976
+    },
+    {
+      "match": "iconJESUS",
+      "image_id": 76977
+    },
+    {
+      "match": "iconSH",
+      "image_id": 76242
+    },
+    {
+      "match": "iconPF",
+      "image_id": 96219
+    },
+    {
+      "match": "iconSCAM",
+      "image_id": 84261
+    },
+    {
+      "match": "iconTHUUM",
+      "image_id": 109121
+    },
+    {
+      "match": "iconD",
+      "image_id": 92320
+    },
+    {
+      "match": "iconO",
+      "image_id": 95972
+    },
+    {
+      "match": "iconMYSTIC",
+      "image_id": 105735
+    },
+    {
+      "match": "iconVALOR",
+      "image_id": 105736
+    },
+    {
+      "match": "iconINSTINCT",
+      "image_id": 105737
+    }
+  ]
+}

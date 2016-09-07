@@ -1,1 +1,23 @@
-{"name":"twitch-sub-lasaventurasdeperle","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ladpHello","image_id":65192},{"match":"ladpGasm","image_id":68313},{"match":"ladpPitbull","image_id":102230},{"match":"ladpKappa","image_id":99622}]}
+{
+  "name": "twitch-sub-lasaventurasdeperle",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ladpHello",
+      "image_id": 65192
+    },
+    {
+      "match": "ladpGasm",
+      "image_id": 68313
+    },
+    {
+      "match": "ladpPitbull",
+      "image_id": 102230
+    },
+    {
+      "match": "ladpKappa",
+      "image_id": 99622
+    }
+  ]
+}

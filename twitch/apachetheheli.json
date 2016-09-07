@@ -1,1 +1,27 @@
-{"name":"twitch-sub-apachetheheli","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"apacheREKT","image_id":29996},{"match":"apacheJoke","image_id":30262},{"match":"apacheTEN","image_id":31815},{"match":"apacheDRUNK","image_id":31909},{"match":"apacheKARL","image_id":53947}]}
+{
+  "name": "twitch-sub-apachetheheli",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "apacheREKT",
+      "image_id": 29996
+    },
+    {
+      "match": "apacheJoke",
+      "image_id": 30262
+    },
+    {
+      "match": "apacheTEN",
+      "image_id": 31815
+    },
+    {
+      "match": "apacheDRUNK",
+      "image_id": 31909
+    },
+    {
+      "match": "apacheKARL",
+      "image_id": 53947
+    }
+  ]
+}

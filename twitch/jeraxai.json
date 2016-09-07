@@ -1,1 +1,23 @@
-{"name":"twitch-sub-jeraxai","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"slothFace","image_id":2853},{"match":"slothDoge","image_id":4716},{"match":"slothDieback","image_id":6294},{"match":"slothSwag","image_id":27354}]}
+{
+  "name": "twitch-sub-jeraxai",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "slothFace",
+      "image_id": 2853
+    },
+    {
+      "match": "slothDoge",
+      "image_id": 4716
+    },
+    {
+      "match": "slothDieback",
+      "image_id": 6294
+    },
+    {
+      "match": "slothSwag",
+      "image_id": 27354
+    }
+  ]
+}

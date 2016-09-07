@@ -1,1 +1,27 @@
-{"name":"twitch-sub-555barcaboy555","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"grhPutin","image_id":17883},{"match":"grhRage","image_id":18697},{"match":"grhRekt","image_id":31252},{"match":"grhSlip","image_id":31116},{"match":"grhRIP","image_id":30553}]}
+{
+  "name": "twitch-sub-555barcaboy555",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "grhPutin",
+      "image_id": 17883
+    },
+    {
+      "match": "grhRage",
+      "image_id": 18697
+    },
+    {
+      "match": "grhRekt",
+      "image_id": 31252
+    },
+    {
+      "match": "grhSlip",
+      "image_id": 31116
+    },
+    {
+      "match": "grhRIP",
+      "image_id": 30553
+    }
+  ]
+}

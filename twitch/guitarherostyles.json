@@ -1,1 +1,23 @@
-{"name":"twitch-sub-guitarherostyles","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ghsGuilleGasm","image_id":92667},{"match":"ghsWorkInProgress","image_id":90078},{"match":"ghsRitofield","image_id":91277},{"match":"ghsBaicra","image_id":92666}]}
+{
+  "name": "twitch-sub-guitarherostyles",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ghsGuilleGasm",
+      "image_id": 92667
+    },
+    {
+      "match": "ghsWorkInProgress",
+      "image_id": 90078
+    },
+    {
+      "match": "ghsRitofield",
+      "image_id": 91277
+    },
+    {
+      "match": "ghsBaicra",
+      "image_id": 92666
+    }
+  ]
+}

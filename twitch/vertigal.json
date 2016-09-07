@@ -1,1 +1,31 @@
-{"name":"twitch-sub-vertigal","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vertiSalt","image_id":81296},{"match":"vertiWut","image_id":95930},{"match":"vertiWP","image_id":80198},{"match":"vertiTilt","image_id":80199},{"match":"vertiCS","image_id":90851},{"match":"vertiCharm","image_id":95812}]}
+{
+  "name": "twitch-sub-vertigal",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vertiSalt",
+      "image_id": 81296
+    },
+    {
+      "match": "vertiWut",
+      "image_id": 95930
+    },
+    {
+      "match": "vertiWP",
+      "image_id": 80198
+    },
+    {
+      "match": "vertiTilt",
+      "image_id": 80199
+    },
+    {
+      "match": "vertiCS",
+      "image_id": 90851
+    },
+    {
+      "match": "vertiCharm",
+      "image_id": 95812
+    }
+  ]
+}

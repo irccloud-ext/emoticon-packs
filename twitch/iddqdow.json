@@ -1,0 +1,31 @@
+{
+  "name": "twitch-sub-iddqdow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fncidFNC",
+      "image_id": 112530
+    },
+    {
+      "match": "fncidPog",
+      "image_id": 112533
+    },
+    {
+      "match": "fncidHnoon",
+      "image_id": 112535
+    },
+    {
+      "match": "fncidBabyrage",
+      "image_id": 112532
+    },
+    {
+      "match": "fncidWhale",
+      "image_id": 112531
+    },
+    {
+      "match": "fncidSubhype",
+      "image_id": 112534
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-beowhulf","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"beoRAGE","image_id":30188},{"match":"beoLEGO","image_id":30025},{"match":"beoKING","image_id":30362},{"match":"beoWABAKI","image_id":30363},{"match":"beoSWAG","image_id":33257},{"match":"beoNATOR","image_id":32268}]}
+{
+  "name": "twitch-sub-beowhulf",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "beoRAGE",
+      "image_id": 30188
+    },
+    {
+      "match": "beoLEGO",
+      "image_id": 30025
+    },
+    {
+      "match": "beoKING",
+      "image_id": 30362
+    },
+    {
+      "match": "beoWABAKI",
+      "image_id": 30363
+    },
+    {
+      "match": "beoSWAG",
+      "image_id": 33257
+    },
+    {
+      "match": "beoNATOR",
+      "image_id": 32268
+    }
+  ]
+}

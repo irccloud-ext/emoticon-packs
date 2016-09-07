@@ -1,1 +1,31 @@
-{"name":"twitch-sub-tomatera9","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tomaCat","image_id":61367},{"match":"tomaLove","image_id":61304},{"match":"tomaZ","image_id":60893},{"match":"tomaUSA","image_id":74909},{"match":"tomaLewd","image_id":74910},{"match":"tomaFeels","image_id":79339}]}
+{
+  "name": "twitch-sub-tomatera9",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tomaCat",
+      "image_id": 61367
+    },
+    {
+      "match": "tomaLove",
+      "image_id": 61304
+    },
+    {
+      "match": "tomaZ",
+      "image_id": 60893
+    },
+    {
+      "match": "tomaUSA",
+      "image_id": 74909
+    },
+    {
+      "match": "tomaLewd",
+      "image_id": 74910
+    },
+    {
+      "match": "tomaFeels",
+      "image_id": 79339
+    }
+  ]
+}

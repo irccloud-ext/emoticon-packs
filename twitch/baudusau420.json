@@ -1,1 +1,47 @@
-{"name":"twitch-sub-baudusau420","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"reptoLeg","image_id":1925},{"match":"reptoLove","image_id":1926},{"match":"reptoMempo","image_id":1927},{"match":"reptoPepps","image_id":1928},{"match":"reptoSick","image_id":3402},{"match":"reptoBau","image_id":3919},{"match":"reptoProst","image_id":3970},{"match":"reptoBan","image_id":3971},{"match":"reptoDoener","image_id":10923},{"match":"reptoWurst","image_id":40223}]}
+{
+  "name": "twitch-sub-baudusau420",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "reptoLeg",
+      "image_id": 1925
+    },
+    {
+      "match": "reptoLove",
+      "image_id": 1926
+    },
+    {
+      "match": "reptoMempo",
+      "image_id": 1927
+    },
+    {
+      "match": "reptoPepps",
+      "image_id": 1928
+    },
+    {
+      "match": "reptoSick",
+      "image_id": 3402
+    },
+    {
+      "match": "reptoBau",
+      "image_id": 3919
+    },
+    {
+      "match": "reptoProst",
+      "image_id": 3970
+    },
+    {
+      "match": "reptoBan",
+      "image_id": 3971
+    },
+    {
+      "match": "reptoDoener",
+      "image_id": 10923
+    },
+    {
+      "match": "reptoWurst",
+      "image_id": 40223
+    }
+  ]
+}

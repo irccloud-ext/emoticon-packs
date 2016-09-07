@@ -1,1 +1,43 @@
-{"name":"twitch-sub-guude","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"guudeNervous","image_id":107450},{"match":"guudeDisappointed","image_id":107448},{"match":"guudeBeetle","image_id":107447},{"match":"guudeRIP","image_id":107510},{"match":"guudeAnt","image_id":107480},{"match":"guudeTea","image_id":107452},{"match":"guudeZilla","image_id":107453},{"match":"guudeGiggle","image_id":107449},{"match":"guudeSpidereye","image_id":109483}]}
+{
+  "name": "twitch-sub-guude",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "guudeNervous",
+      "image_id": 107450
+    },
+    {
+      "match": "guudeDisappointed",
+      "image_id": 107448
+    },
+    {
+      "match": "guudeBeetle",
+      "image_id": 107447
+    },
+    {
+      "match": "guudeRIP",
+      "image_id": 107510
+    },
+    {
+      "match": "guudeAnt",
+      "image_id": 107480
+    },
+    {
+      "match": "guudeTea",
+      "image_id": 107452
+    },
+    {
+      "match": "guudeZilla",
+      "image_id": 107453
+    },
+    {
+      "match": "guudeGiggle",
+      "image_id": 107449
+    },
+    {
+      "match": "guudeSpidereye",
+      "image_id": 109483
+    }
+  ]
+}

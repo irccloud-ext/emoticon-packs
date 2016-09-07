@@ -1,1 +1,23 @@
-{"name":"twitch-sub-hoaluu629","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"trillKicks","image_id":23836},{"match":"trillNoob","image_id":46579},{"match":"trillRip","image_id":65420},{"match":"trillU","image_id":68721}]}
+{
+  "name": "twitch-sub-hoaluu629",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "trillKicks",
+      "image_id": 23836
+    },
+    {
+      "match": "trillNoob",
+      "image_id": 46579
+    },
+    {
+      "match": "trillRip",
+      "image_id": 65420
+    },
+    {
+      "match": "trillU",
+      "image_id": 68721
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-dopeyferes","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"premiumTempus","image_id":29532},{"match":"premiumNaranjas","image_id":29531},{"match":"premiumPerilla","image_id":51664},{"match":"premiumOrco","image_id":50617}]}
+{
+  "name": "twitch-sub-dopeyferes",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "premiumTempus",
+      "image_id": 29532
+    },
+    {
+      "match": "premiumNaranjas",
+      "image_id": 29531
+    },
+    {
+      "match": "premiumPerilla",
+      "image_id": 51664
+    },
+    {
+      "match": "premiumOrco",
+      "image_id": 50617
+    }
+  ]
+}

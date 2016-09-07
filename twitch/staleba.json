@@ -1,1 +1,23 @@
-{"name":"twitch-sub-staleba","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"stalkZont","image_id":108797},{"match":"stalkSyni","image_id":108796},{"match":"stalkFiesta","image_id":111465},{"match":"stalkMuha","image_id":111464}]}
+{
+  "name": "twitch-sub-staleba",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "stalkZont",
+      "image_id": 108797
+    },
+    {
+      "match": "stalkSyni",
+      "image_id": 108796
+    },
+    {
+      "match": "stalkFiesta",
+      "image_id": 111465
+    },
+    {
+      "match": "stalkMuha",
+      "image_id": 111464
+    }
+  ]
+}

@@ -1,1 +1,67 @@
-{"name":"twitch-sub-yummigaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yummiLove","image_id":55401},{"match":"yummiRekt","image_id":37977},{"match":"yummiDon","image_id":37972},{"match":"yummiRage","image_id":37444},{"match":"yummiTrain","image_id":41295},{"match":"yummiKappa","image_id":57279},{"match":"yummiGG","image_id":57247},{"match":"yummiPotato","image_id":56694},{"match":"yummiWow","image_id":87245},{"match":"yummiSalty","image_id":59596},{"match":"yummiRip","image_id":89534},{"match":"yummiDARK","image_id":78616},{"match":"yummiSIDE","image_id":78617},{"match":"yummiHype","image_id":80801},{"match":"yummiDoge","image_id":89529}]}
+{
+  "name": "twitch-sub-yummigaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yummiLove",
+      "image_id": 55401
+    },
+    {
+      "match": "yummiRekt",
+      "image_id": 37977
+    },
+    {
+      "match": "yummiDon",
+      "image_id": 37972
+    },
+    {
+      "match": "yummiRage",
+      "image_id": 37444
+    },
+    {
+      "match": "yummiTrain",
+      "image_id": 41295
+    },
+    {
+      "match": "yummiKappa",
+      "image_id": 57279
+    },
+    {
+      "match": "yummiGG",
+      "image_id": 57247
+    },
+    {
+      "match": "yummiPotato",
+      "image_id": 56694
+    },
+    {
+      "match": "yummiWow",
+      "image_id": 87245
+    },
+    {
+      "match": "yummiSalty",
+      "image_id": 59596
+    },
+    {
+      "match": "yummiRip",
+      "image_id": 89534
+    },
+    {
+      "match": "yummiDARK",
+      "image_id": 78616
+    },
+    {
+      "match": "yummiSIDE",
+      "image_id": 78617
+    },
+    {
+      "match": "yummiHype",
+      "image_id": 80801
+    },
+    {
+      "match": "yummiDoge",
+      "image_id": 89529
+    }
+  ]
+}

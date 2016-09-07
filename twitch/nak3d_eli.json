@@ -1,1 +1,19 @@
-{"name":"twitch-sub-nak3d_eli","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nakJesus","image_id":30204},{"match":"nakChief","image_id":30518},{"match":"nakJak","image_id":31888}]}
+{
+  "name": "twitch-sub-nak3d_eli",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nakJesus",
+      "image_id": 30204
+    },
+    {
+      "match": "nakChief",
+      "image_id": 30518
+    },
+    {
+      "match": "nakJak",
+      "image_id": 31888
+    }
+  ]
+}

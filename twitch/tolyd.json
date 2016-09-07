@@ -1,1 +1,27 @@
-{"name":"twitch-sub-tolyd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tolyIL","image_id":88617},{"match":"tolyMalkenu","image_id":101790},{"match":"tolySh","image_id":101793},{"match":"tolyMad","image_id":101796},{"match":"tolyEw","image_id":101804}]}
+{
+  "name": "twitch-sub-tolyd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tolyIL",
+      "image_id": 88617
+    },
+    {
+      "match": "tolyMalkenu",
+      "image_id": 101790
+    },
+    {
+      "match": "tolySh",
+      "image_id": 101793
+    },
+    {
+      "match": "tolyMad",
+      "image_id": 101796
+    },
+    {
+      "match": "tolyEw",
+      "image_id": 101804
+    }
+  ]
+}

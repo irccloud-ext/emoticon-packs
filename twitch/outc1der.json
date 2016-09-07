@@ -1,1 +1,31 @@
-{"name":"twitch-sub-outc1der","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"outiHype","image_id":61264},{"match":"outiPKD","image_id":57554},{"match":"outiArty","image_id":57553},{"match":"outiRekt","image_id":61209},{"match":"outi1010","image_id":58760},{"match":"outiFocus","image_id":58881}]}
+{
+  "name": "twitch-sub-outc1der",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "outiHype",
+      "image_id": 61264
+    },
+    {
+      "match": "outiPKD",
+      "image_id": 57554
+    },
+    {
+      "match": "outiArty",
+      "image_id": 57553
+    },
+    {
+      "match": "outiRekt",
+      "image_id": 61209
+    },
+    {
+      "match": "outi1010",
+      "image_id": 58760
+    },
+    {
+      "match": "outiFocus",
+      "image_id": 58881
+    }
+  ]
+}

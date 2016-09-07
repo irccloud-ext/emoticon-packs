@@ -1,1 +1,39 @@
-{"name":"twitch-sub-inevermor3","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"neverRekt","image_id":19376},{"match":"neverRag","image_id":19379},{"match":"neverOver","image_id":19380},{"match":"neverSnow","image_id":17371},{"match":"neverRip","image_id":18023},{"match":"neverKappa","image_id":18079},{"match":"neverUp","image_id":18081},{"match":"neverDown","image_id":18487}]}
+{
+  "name": "twitch-sub-inevermor3",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "neverRekt",
+      "image_id": 19376
+    },
+    {
+      "match": "neverRag",
+      "image_id": 19379
+    },
+    {
+      "match": "neverOver",
+      "image_id": 19380
+    },
+    {
+      "match": "neverSnow",
+      "image_id": 17371
+    },
+    {
+      "match": "neverRip",
+      "image_id": 18023
+    },
+    {
+      "match": "neverKappa",
+      "image_id": 18079
+    },
+    {
+      "match": "neverUp",
+      "image_id": 18081
+    },
+    {
+      "match": "neverDown",
+      "image_id": 18487
+    }
+  ]
+}

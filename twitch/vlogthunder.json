@@ -1,1 +1,19 @@
-{"name":"twitch-sub-vlogthunder","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vlogKalajaa","image_id":6053},{"match":"vlogKappa","image_id":40581},{"match":"vlogChamp","image_id":106258}]}
+{
+  "name": "twitch-sub-vlogthunder",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vlogKalajaa",
+      "image_id": 6053
+    },
+    {
+      "match": "vlogKappa",
+      "image_id": 40581
+    },
+    {
+      "match": "vlogChamp",
+      "image_id": 106258
+    }
+  ]
+}

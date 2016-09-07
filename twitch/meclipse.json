@@ -1,1 +1,99 @@
-{"name":"twitch-sub-meclipse","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shroud1D","image_id":6717},{"match":"shroudAK","image_id":6937},{"match":"shroudWithIt","image_id":9880},{"match":"shroudPalm","image_id":69048},{"match":"shroudMilk","image_id":18581},{"match":"shroudDad","image_id":24631},{"match":"shroudC9","image_id":21400},{"match":"shroudPigeon","image_id":23345},{"match":"shroudBhop","image_id":25244},{"match":"shroudBurn","image_id":27220},{"match":"shroudOverit","image_id":35558},{"match":"shroudAFK","image_id":35590},{"match":"shroudThump","image_id":69043},{"match":"shroudHype","image_id":69046},{"match":"shroudH","image_id":69045},{"match":"shroudWhiff","image_id":69044},{"match":"shroudSellout","image_id":69042},{"match":"shroudW","image_id":60364},{"match":"shroudKobe","image_id":68713},{"match":"shroudInsane","image_id":71654},{"match":"shroudTilt","image_id":77515},{"match":"shroudA","image_id":77516},{"match":"shroudC","image_id":77517}]}
+{
+  "name": "twitch-sub-meclipse",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shroud1D",
+      "image_id": 6717
+    },
+    {
+      "match": "shroudAK",
+      "image_id": 6937
+    },
+    {
+      "match": "shroudWithIt",
+      "image_id": 9880
+    },
+    {
+      "match": "shroudPalm",
+      "image_id": 69048
+    },
+    {
+      "match": "shroudMilk",
+      "image_id": 18581
+    },
+    {
+      "match": "shroudDad",
+      "image_id": 24631
+    },
+    {
+      "match": "shroudC9",
+      "image_id": 21400
+    },
+    {
+      "match": "shroudPigeon",
+      "image_id": 23345
+    },
+    {
+      "match": "shroudBhop",
+      "image_id": 25244
+    },
+    {
+      "match": "shroudBurn",
+      "image_id": 27220
+    },
+    {
+      "match": "shroudOverit",
+      "image_id": 35558
+    },
+    {
+      "match": "shroudAFK",
+      "image_id": 35590
+    },
+    {
+      "match": "shroudThump",
+      "image_id": 69043
+    },
+    {
+      "match": "shroudHype",
+      "image_id": 69046
+    },
+    {
+      "match": "shroudH",
+      "image_id": 69045
+    },
+    {
+      "match": "shroudWhiff",
+      "image_id": 69044
+    },
+    {
+      "match": "shroudSellout",
+      "image_id": 69042
+    },
+    {
+      "match": "shroudW",
+      "image_id": 60364
+    },
+    {
+      "match": "shroudKobe",
+      "image_id": 68713
+    },
+    {
+      "match": "shroudInsane",
+      "image_id": 71654
+    },
+    {
+      "match": "shroudTilt",
+      "image_id": 77515
+    },
+    {
+      "match": "shroudA",
+      "image_id": 77516
+    },
+    {
+      "match": "shroudC",
+      "image_id": 77517
+    }
+  ]
+}

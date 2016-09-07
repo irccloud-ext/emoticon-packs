@@ -1,1 +1,39 @@
-{"name":"twitch-sub-chickenpoodlesoup","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cpsOhno","image_id":57144},{"match":"cpsSalute","image_id":55606},{"match":"cpsHat","image_id":55769},{"match":"cpsRage","image_id":55770},{"match":"cpsWhoa","image_id":55604},{"match":"cpsCreep","image_id":55603},{"match":"cpsSalt","image_id":57134},{"match":"cpsOrly","image_id":70205}]}
+{
+  "name": "twitch-sub-chickenpoodlesoup",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cpsOhno",
+      "image_id": 57144
+    },
+    {
+      "match": "cpsSalute",
+      "image_id": 55606
+    },
+    {
+      "match": "cpsHat",
+      "image_id": 55769
+    },
+    {
+      "match": "cpsRage",
+      "image_id": 55770
+    },
+    {
+      "match": "cpsWhoa",
+      "image_id": 55604
+    },
+    {
+      "match": "cpsCreep",
+      "image_id": 55603
+    },
+    {
+      "match": "cpsSalt",
+      "image_id": 57134
+    },
+    {
+      "match": "cpsOrly",
+      "image_id": 70205
+    }
+  ]
+}

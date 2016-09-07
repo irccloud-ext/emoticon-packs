@@ -1,1 +1,39 @@
-{"name":"twitch-sub-ymna","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ymnaRekt","image_id":32010},{"match":"ymnaDwi","image_id":30329},{"match":"ymnaPotato","image_id":29001},{"match":"ymnaPoro","image_id":45744},{"match":"ymnaRip","image_id":45870},{"match":"ymnaPika","image_id":45904},{"match":"ymnaLove","image_id":48817},{"match":"ymnaCry","image_id":60343}]}
+{
+  "name": "twitch-sub-ymna",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ymnaRekt",
+      "image_id": 32010
+    },
+    {
+      "match": "ymnaDwi",
+      "image_id": 30329
+    },
+    {
+      "match": "ymnaPotato",
+      "image_id": 29001
+    },
+    {
+      "match": "ymnaPoro",
+      "image_id": 45744
+    },
+    {
+      "match": "ymnaRip",
+      "image_id": 45870
+    },
+    {
+      "match": "ymnaPika",
+      "image_id": 45904
+    },
+    {
+      "match": "ymnaLove",
+      "image_id": 48817
+    },
+    {
+      "match": "ymnaCry",
+      "image_id": 60343
+    }
+  ]
+}

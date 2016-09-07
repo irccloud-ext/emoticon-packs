@@ -1,1 +1,23 @@
-{"name":"twitch-sub-askajaiiii","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aska3","image_id":13464},{"match":"askaHibye","image_id":13474},{"match":"askaOmg","image_id":16666},{"match":"askaLove","image_id":16682}]}
+{
+  "name": "twitch-sub-askajaiiii",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aska3",
+      "image_id": 13464
+    },
+    {
+      "match": "askaHibye",
+      "image_id": 13474
+    },
+    {
+      "match": "askaOmg",
+      "image_id": 16666
+    },
+    {
+      "match": "askaLove",
+      "image_id": 16682
+    }
+  ]
+}

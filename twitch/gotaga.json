@@ -1,1 +1,47 @@
-{"name":"twitch-sub-gotaga","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gotagaNewSub","image_id":73212},{"match":"gotagaWhat","image_id":58998},{"match":"gotagaFace2","image_id":57879},{"match":"gotagaFace","image_id":57878},{"match":"gotaga007","image_id":59203},{"match":"gotagaPOPOPO","image_id":59395},{"match":"gotagaTnul","image_id":59485},{"match":"gotagaGG","image_id":73207},{"match":"gotagaNuke","image_id":74359},{"match":"gotagaKappa","image_id":78479}]}
+{
+  "name": "twitch-sub-gotaga",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gotagaNewSub",
+      "image_id": 73212
+    },
+    {
+      "match": "gotagaWhat",
+      "image_id": 58998
+    },
+    {
+      "match": "gotagaFace2",
+      "image_id": 57879
+    },
+    {
+      "match": "gotagaFace",
+      "image_id": 57878
+    },
+    {
+      "match": "gotaga007",
+      "image_id": 59203
+    },
+    {
+      "match": "gotagaPOPOPO",
+      "image_id": 59395
+    },
+    {
+      "match": "gotagaTnul",
+      "image_id": 59485
+    },
+    {
+      "match": "gotagaGG",
+      "image_id": 73207
+    },
+    {
+      "match": "gotagaNuke",
+      "image_id": 74359
+    },
+    {
+      "match": "gotagaKappa",
+      "image_id": 78479
+    }
+  ]
+}

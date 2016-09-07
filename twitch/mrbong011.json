@@ -1,1 +1,39 @@
-{"name":"twitch-sub-mrbong011","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mrbongSnake","image_id":32222},{"match":"mrbongEar","image_id":54318},{"match":"mrbongSavage","image_id":73863},{"match":"mrbongW","image_id":86745},{"match":"mrbongLove","image_id":111053},{"match":"mrbongTriggered","image_id":103480},{"match":"mrbongFeels","image_id":103481},{"match":"mrbongWL","image_id":111052}]}
+{
+  "name": "twitch-sub-mrbong011",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mrbongSnake",
+      "image_id": 32222
+    },
+    {
+      "match": "mrbongEar",
+      "image_id": 54318
+    },
+    {
+      "match": "mrbongSavage",
+      "image_id": 73863
+    },
+    {
+      "match": "mrbongW",
+      "image_id": 86745
+    },
+    {
+      "match": "mrbongLove",
+      "image_id": 111053
+    },
+    {
+      "match": "mrbongTriggered",
+      "image_id": 103480
+    },
+    {
+      "match": "mrbongFeels",
+      "image_id": 103481
+    },
+    {
+      "match": "mrbongWL",
+      "image_id": 111052
+    }
+  ]
+}

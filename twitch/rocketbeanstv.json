@@ -1,1 +1,63 @@
-{"name":"twitch-sub-rocketbeanstv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rbtvBudi","image_id":35752},{"match":"rbtvVogel","image_id":35754},{"match":"rbtvHeMan","image_id":35751},{"match":"rbtvEddy","image_id":35750},{"match":"rbtvBimon","image_id":35748},{"match":"rbtvLogo","image_id":35755},{"match":"rbtvAwkward","image_id":35986},{"match":"rbtvBeards","image_id":56168},{"match":"rbtvApfelschorle","image_id":56169},{"match":"rbtvAxt","image_id":56167},{"match":"rbtvSupaa","image_id":82232},{"match":"rbtvHebel","image_id":82230},{"match":"rbtvLove","image_id":82229},{"match":"rbtvFacepalm","image_id":82228}]}
+{
+  "name": "twitch-sub-rocketbeanstv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rbtvBudi",
+      "image_id": 35752
+    },
+    {
+      "match": "rbtvVogel",
+      "image_id": 35754
+    },
+    {
+      "match": "rbtvHeMan",
+      "image_id": 35751
+    },
+    {
+      "match": "rbtvEddy",
+      "image_id": 35750
+    },
+    {
+      "match": "rbtvBimon",
+      "image_id": 35748
+    },
+    {
+      "match": "rbtvLogo",
+      "image_id": 35755
+    },
+    {
+      "match": "rbtvAwkward",
+      "image_id": 35986
+    },
+    {
+      "match": "rbtvBeards",
+      "image_id": 56168
+    },
+    {
+      "match": "rbtvApfelschorle",
+      "image_id": 56169
+    },
+    {
+      "match": "rbtvAxt",
+      "image_id": 56167
+    },
+    {
+      "match": "rbtvSupaa",
+      "image_id": 82232
+    },
+    {
+      "match": "rbtvHebel",
+      "image_id": 82230
+    },
+    {
+      "match": "rbtvLove",
+      "image_id": 82229
+    },
+    {
+      "match": "rbtvFacepalm",
+      "image_id": 82228
+    }
+  ]
+}

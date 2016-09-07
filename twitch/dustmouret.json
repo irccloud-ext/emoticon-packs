@@ -1,1 +1,15 @@
-{"name":"twitch-sub-dustmouret","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dustBowl","image_id":12264},{"match":"dustDMTV","image_id":12290}]}
+{
+  "name": "twitch-sub-dustmouret",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dustBowl",
+      "image_id": 12264
+    },
+    {
+      "match": "dustDMTV",
+      "image_id": 12290
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"twitch-sub-eviltwinsbr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"evilTchaka","image_id":11056},{"match":"evilQisso","image_id":11697},{"match":"evilPpk","image_id":11098},{"match":"evilEsfiha","image_id":11107},{"match":"evilJugs","image_id":11119},{"match":"evilEgl","image_id":15408},{"match":"evilRL","image_id":37098}]}
+{
+  "name": "twitch-sub-eviltwinsbr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "evilTchaka",
+      "image_id": 11056
+    },
+    {
+      "match": "evilQisso",
+      "image_id": 11697
+    },
+    {
+      "match": "evilPpk",
+      "image_id": 11098
+    },
+    {
+      "match": "evilEsfiha",
+      "image_id": 11107
+    },
+    {
+      "match": "evilJugs",
+      "image_id": 11119
+    },
+    {
+      "match": "evilEgl",
+      "image_id": 15408
+    },
+    {
+      "match": "evilRL",
+      "image_id": 37098
+    }
+  ]
+}

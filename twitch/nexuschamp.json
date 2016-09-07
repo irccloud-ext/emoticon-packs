@@ -1,1 +1,15 @@
-{"name":"twitch-sub-nexuschamp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nxcNexus","image_id":25686},{"match":"nxcHpl","image_id":25689}]}
+{
+  "name": "twitch-sub-nexuschamp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nxcNexus",
+      "image_id": 25686
+    },
+    {
+      "match": "nxcHpl",
+      "image_id": 25689
+    }
+  ]
+}

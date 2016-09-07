@@ -1,1 +1,23 @@
-{"name":"twitch-sub-calitrlolz8","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cali8Carc","image_id":37376},{"match":"cali8Katpa","image_id":37377},{"match":"cali8Ham","image_id":37379},{"match":"cali8Dunked","image_id":38685}]}
+{
+  "name": "twitch-sub-calitrlolz8",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cali8Carc",
+      "image_id": 37376
+    },
+    {
+      "match": "cali8Katpa",
+      "image_id": 37377
+    },
+    {
+      "match": "cali8Ham",
+      "image_id": 37379
+    },
+    {
+      "match": "cali8Dunked",
+      "image_id": 38685
+    }
+  ]
+}

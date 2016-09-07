@@ -1,1 +1,39 @@
-{"name":"twitch-sub-allakazzaror","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"allaHype","image_id":64178},{"match":"allaLewd","image_id":64179},{"match":"allaRage","image_id":64181},{"match":"allaRIP","image_id":64182},{"match":"allaLove","image_id":64557},{"match":"allaSad","image_id":99192},{"match":"allaHi","image_id":99194},{"match":"allaGreed","image_id":99195}]}
+{
+  "name": "twitch-sub-allakazzaror",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "allaHype",
+      "image_id": 64178
+    },
+    {
+      "match": "allaLewd",
+      "image_id": 64179
+    },
+    {
+      "match": "allaRage",
+      "image_id": 64181
+    },
+    {
+      "match": "allaRIP",
+      "image_id": 64182
+    },
+    {
+      "match": "allaLove",
+      "image_id": 64557
+    },
+    {
+      "match": "allaSad",
+      "image_id": 99192
+    },
+    {
+      "match": "allaHi",
+      "image_id": 99194
+    },
+    {
+      "match": "allaGreed",
+      "image_id": 99195
+    }
+  ]
+}

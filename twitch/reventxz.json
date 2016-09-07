@@ -1,1 +1,39 @@
-{"name":"twitch-sub-reventxz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"revenSwag","image_id":83827},{"match":"revenChupa","image_id":83824},{"match":"revenGolems","image_id":84693},{"match":"revenPls","image_id":84691},{"match":"revenShadow","image_id":84867},{"match":"revenSexygemma","image_id":84913},{"match":"revenGod","image_id":90068},{"match":"revenTana","image_id":90069}]}
+{
+  "name": "twitch-sub-reventxz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "revenSwag",
+      "image_id": 83827
+    },
+    {
+      "match": "revenChupa",
+      "image_id": 83824
+    },
+    {
+      "match": "revenGolems",
+      "image_id": 84693
+    },
+    {
+      "match": "revenPls",
+      "image_id": 84691
+    },
+    {
+      "match": "revenShadow",
+      "image_id": 84867
+    },
+    {
+      "match": "revenSexygemma",
+      "image_id": 84913
+    },
+    {
+      "match": "revenGod",
+      "image_id": 90068
+    },
+    {
+      "match": "revenTana",
+      "image_id": 90069
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-karmaah","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"karDeal","image_id":21558},{"match":"karSimba","image_id":21563},{"match":"karBM","image_id":23896},{"match":"karKappa","image_id":25544},{"match":"karRekt","image_id":39894},{"match":"karH","image_id":39893},{"match":"karThump","image_id":44555},{"match":"karGasm","image_id":44554}]}
+{
+  "name": "twitch-sub-karmaah",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "karDeal",
+      "image_id": 21558
+    },
+    {
+      "match": "karSimba",
+      "image_id": 21563
+    },
+    {
+      "match": "karBM",
+      "image_id": 23896
+    },
+    {
+      "match": "karKappa",
+      "image_id": 25544
+    },
+    {
+      "match": "karRekt",
+      "image_id": 39894
+    },
+    {
+      "match": "karH",
+      "image_id": 39893
+    },
+    {
+      "match": "karThump",
+      "image_id": 44555
+    },
+    {
+      "match": "karGasm",
+      "image_id": 44554
+    }
+  ]
+}

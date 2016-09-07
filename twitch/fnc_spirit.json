@@ -1,1 +1,23 @@
-{"name":"twitch-sub-fnc_spirit","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fncspiritW","image_id":87277},{"match":"fncspiritWoot","image_id":83841},{"match":"fncspiritDeal","image_id":83840},{"match":"fncspiritShibal","image_id":90827}]}
+{
+  "name": "twitch-sub-fnc_spirit",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fncspiritW",
+      "image_id": 87277
+    },
+    {
+      "match": "fncspiritWoot",
+      "image_id": 83841
+    },
+    {
+      "match": "fncspiritDeal",
+      "image_id": 83840
+    },
+    {
+      "match": "fncspiritShibal",
+      "image_id": 90827
+    }
+  ]
+}

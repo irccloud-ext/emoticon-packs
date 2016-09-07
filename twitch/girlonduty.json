@@ -1,1 +1,31 @@
-{"name":"twitch-sub-girlonduty","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"girlonFedora","image_id":22753},{"match":"girlonHype","image_id":24712},{"match":"girlonSingstar","image_id":24713},{"match":"girlonRip","image_id":24858},{"match":"girlonUwot","image_id":25915},{"match":"girlonSad","image_id":24906}]}
+{
+  "name": "twitch-sub-girlonduty",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "girlonFedora",
+      "image_id": 22753
+    },
+    {
+      "match": "girlonHype",
+      "image_id": 24712
+    },
+    {
+      "match": "girlonSingstar",
+      "image_id": 24713
+    },
+    {
+      "match": "girlonRip",
+      "image_id": 24858
+    },
+    {
+      "match": "girlonUwot",
+      "image_id": 25915
+    },
+    {
+      "match": "girlonSad",
+      "image_id": 24906
+    }
+  ]
+}

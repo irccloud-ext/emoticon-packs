@@ -1,1 +1,43 @@
-{"name":"twitch-sub-taryntragedyyxo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tarynGasm","image_id":37037},{"match":"tarynCry","image_id":38050},{"match":"tarynLove","image_id":37358},{"match":"tarynKaysie","image_id":36594},{"match":"tarynOwen","image_id":44110},{"match":"tarynHello","image_id":43921},{"match":"tarynThirsty","image_id":43949},{"match":"tarynCatpack","image_id":44351},{"match":"tarynRIP","image_id":47231}]}
+{
+  "name": "twitch-sub-taryntragedyyxo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tarynGasm",
+      "image_id": 37037
+    },
+    {
+      "match": "tarynCry",
+      "image_id": 38050
+    },
+    {
+      "match": "tarynLove",
+      "image_id": 37358
+    },
+    {
+      "match": "tarynKaysie",
+      "image_id": 36594
+    },
+    {
+      "match": "tarynOwen",
+      "image_id": 44110
+    },
+    {
+      "match": "tarynHello",
+      "image_id": 43921
+    },
+    {
+      "match": "tarynThirsty",
+      "image_id": 43949
+    },
+    {
+      "match": "tarynCatpack",
+      "image_id": 44351
+    },
+    {
+      "match": "tarynRIP",
+      "image_id": 47231
+    }
+  ]
+}

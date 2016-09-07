@@ -1,1 +1,35 @@
-{"name":"twitch-sub-roxkisabver","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"abvSyan","image_id":60904},{"match":"abvPalm","image_id":63743},{"match":"abvShon2","image_id":61931},{"match":"abvKing","image_id":63740},{"match":"abvJ","image_id":63741},{"match":"abvEka","image_id":59702},{"match":"abvKrishechka","image_id":63496}]}
+{
+  "name": "twitch-sub-roxkisabver",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "abvSyan",
+      "image_id": 60904
+    },
+    {
+      "match": "abvPalm",
+      "image_id": 63743
+    },
+    {
+      "match": "abvShon2",
+      "image_id": 61931
+    },
+    {
+      "match": "abvKing",
+      "image_id": 63740
+    },
+    {
+      "match": "abvJ",
+      "image_id": 63741
+    },
+    {
+      "match": "abvEka",
+      "image_id": 59702
+    },
+    {
+      "match": "abvKrishechka",
+      "image_id": 63496
+    }
+  ]
+}

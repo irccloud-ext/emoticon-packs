@@ -1,1 +1,39 @@
-{"name":"twitch-sub-perikuras","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"periLTU","image_id":13182},{"match":"periCry","image_id":12975},{"match":"periRekt","image_id":13009},{"match":"periKuras","image_id":13012},{"match":"periGG","image_id":13011},{"match":"periGrumpy","image_id":12091},{"match":"periKappa","image_id":13181},{"match":"periTroll","image_id":13183}]}
+{
+  "name": "twitch-sub-perikuras",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "periLTU",
+      "image_id": 13182
+    },
+    {
+      "match": "periCry",
+      "image_id": 12975
+    },
+    {
+      "match": "periRekt",
+      "image_id": 13009
+    },
+    {
+      "match": "periKuras",
+      "image_id": 13012
+    },
+    {
+      "match": "periGG",
+      "image_id": 13011
+    },
+    {
+      "match": "periGrumpy",
+      "image_id": 12091
+    },
+    {
+      "match": "periKappa",
+      "image_id": 13181
+    },
+    {
+      "match": "periTroll",
+      "image_id": 13183
+    }
+  ]
+}

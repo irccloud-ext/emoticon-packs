@@ -1,1 +1,47 @@
-{"name":"twitch-sub-venicraft","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"veniSkin","image_id":38254},{"match":"veniFant","image_id":38253},{"match":"veniKappa","image_id":51235},{"match":"veniGasm","image_id":89986},{"match":"veni4D","image_id":84441},{"match":"veniFail","image_id":89660},{"match":"veniRage","image_id":97192},{"match":"veniRoss","image_id":99491},{"match":"veniLecker","image_id":99432},{"match":"veniBlue","image_id":99461}]}
+{
+  "name": "twitch-sub-venicraft",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "veniSkin",
+      "image_id": 38254
+    },
+    {
+      "match": "veniFant",
+      "image_id": 38253
+    },
+    {
+      "match": "veniKappa",
+      "image_id": 51235
+    },
+    {
+      "match": "veniGasm",
+      "image_id": 89986
+    },
+    {
+      "match": "veni4D",
+      "image_id": 84441
+    },
+    {
+      "match": "veniFail",
+      "image_id": 89660
+    },
+    {
+      "match": "veniRage",
+      "image_id": 97192
+    },
+    {
+      "match": "veniRoss",
+      "image_id": 99491
+    },
+    {
+      "match": "veniLecker",
+      "image_id": 99432
+    },
+    {
+      "match": "veniBlue",
+      "image_id": 99461
+    }
+  ]
+}

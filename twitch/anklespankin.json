@@ -1,1 +1,51 @@
-{"name":"twitch-sub-anklespankin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ankleHhhehehe","image_id":3349},{"match":"ankleCat","image_id":4039},{"match":"ankleSmile","image_id":12598},{"match":"ankleHat","image_id":12599},{"match":"ankleBlush","image_id":28817},{"match":"ankleWtf","image_id":28818},{"match":"ankleFace","image_id":28816},{"match":"ankleOwo","image_id":85416},{"match":"ankleRage","image_id":87247},{"match":"ankleSad","image_id":85417},{"match":"ankleH","image_id":85415}]}
+{
+  "name": "twitch-sub-anklespankin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ankleHhhehehe",
+      "image_id": 3349
+    },
+    {
+      "match": "ankleCat",
+      "image_id": 4039
+    },
+    {
+      "match": "ankleSmile",
+      "image_id": 12598
+    },
+    {
+      "match": "ankleHat",
+      "image_id": 12599
+    },
+    {
+      "match": "ankleBlush",
+      "image_id": 28817
+    },
+    {
+      "match": "ankleWtf",
+      "image_id": 28818
+    },
+    {
+      "match": "ankleFace",
+      "image_id": 28816
+    },
+    {
+      "match": "ankleOwo",
+      "image_id": 85416
+    },
+    {
+      "match": "ankleRage",
+      "image_id": 87247
+    },
+    {
+      "match": "ankleSad",
+      "image_id": 85417
+    },
+    {
+      "match": "ankleH",
+      "image_id": 85415
+    }
+  ]
+}

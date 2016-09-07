@@ -1,1 +1,47 @@
-{"name":"twitch-sub-morikiopa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pizzaMORI","image_id":2884},{"match":"pizzaVAN","image_id":23991},{"match":"pizzaPIE","image_id":32396},{"match":"pizzaCAM","image_id":34002},{"match":"pizzaEX","image_id":40042},{"match":"pizzaYAK","image_id":40025},{"match":"pizzaBRAP","image_id":60212},{"match":"pizzaRAGE","image_id":67052},{"match":"pizzaBooBear","image_id":94863},{"match":"pizzaPhant","image_id":95826}]}
+{
+  "name": "twitch-sub-morikiopa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pizzaMORI",
+      "image_id": 2884
+    },
+    {
+      "match": "pizzaVAN",
+      "image_id": 23991
+    },
+    {
+      "match": "pizzaPIE",
+      "image_id": 32396
+    },
+    {
+      "match": "pizzaCAM",
+      "image_id": 34002
+    },
+    {
+      "match": "pizzaEX",
+      "image_id": 40042
+    },
+    {
+      "match": "pizzaYAK",
+      "image_id": 40025
+    },
+    {
+      "match": "pizzaBRAP",
+      "image_id": 60212
+    },
+    {
+      "match": "pizzaRAGE",
+      "image_id": 67052
+    },
+    {
+      "match": "pizzaBooBear",
+      "image_id": 94863
+    },
+    {
+      "match": "pizzaPhant",
+      "image_id": 95826
+    }
+  ]
+}

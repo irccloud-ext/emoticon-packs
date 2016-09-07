@@ -1,1 +1,31 @@
-{"name":"twitch-sub-thekedoszone","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kedosFace","image_id":17653},{"match":"kedosPlease","image_id":17652},{"match":"kedosTasse","image_id":29930},{"match":"kedosHype","image_id":28990},{"match":"kedosEvil","image_id":31752},{"match":"kedosWhat","image_id":31746}]}
+{
+  "name": "twitch-sub-thekedoszone",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kedosFace",
+      "image_id": 17653
+    },
+    {
+      "match": "kedosPlease",
+      "image_id": 17652
+    },
+    {
+      "match": "kedosTasse",
+      "image_id": 29930
+    },
+    {
+      "match": "kedosHype",
+      "image_id": 28990
+    },
+    {
+      "match": "kedosEvil",
+      "image_id": 31752
+    },
+    {
+      "match": "kedosWhat",
+      "image_id": 31746
+    }
+  ]
+}

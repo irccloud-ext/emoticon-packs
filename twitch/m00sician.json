@@ -1,1 +1,35 @@
-{"name":"twitch-sub-m00sician","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chrChick","image_id":104701},{"match":"chrSubhype","image_id":108883},{"match":"chrThumb","image_id":77078},{"match":"chrQueen","image_id":77080},{"match":"chrHype2","image_id":108882},{"match":"chrHi","image_id":97119},{"match":"chrPalm","image_id":101397}]}
+{
+  "name": "twitch-sub-m00sician",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chrChick",
+      "image_id": 104701
+    },
+    {
+      "match": "chrSubhype",
+      "image_id": 108883
+    },
+    {
+      "match": "chrThumb",
+      "image_id": 77078
+    },
+    {
+      "match": "chrQueen",
+      "image_id": 77080
+    },
+    {
+      "match": "chrHype2",
+      "image_id": 108882
+    },
+    {
+      "match": "chrHi",
+      "image_id": 97119
+    },
+    {
+      "match": "chrPalm",
+      "image_id": 101397
+    }
+  ]
+}

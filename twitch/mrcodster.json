@@ -1,1 +1,15 @@
-{"name":"twitch-sub-mrcodster","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"codeSalty","image_id":52055},{"match":"codeHype","image_id":52056}]}
+{
+  "name": "twitch-sub-mrcodster",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "codeSalty",
+      "image_id": 52055
+    },
+    {
+      "match": "codeHype",
+      "image_id": 52056
+    }
+  ]
+}

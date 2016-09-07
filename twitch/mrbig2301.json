@@ -1,1 +1,39 @@
-{"name":"twitch-sub-mrbig2301","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bigCash","image_id":108396},{"match":"bigFreak","image_id":108397},{"match":"bigHi","image_id":108395},{"match":"bigLove","image_id":108394},{"match":"bigHype","image_id":108393},{"match":"bigSchnoze","image_id":109076},{"match":"bigPush","image_id":109075},{"match":"bigErnte","image_id":109074}]}
+{
+  "name": "twitch-sub-mrbig2301",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bigCash",
+      "image_id": 108396
+    },
+    {
+      "match": "bigFreak",
+      "image_id": 108397
+    },
+    {
+      "match": "bigHi",
+      "image_id": 108395
+    },
+    {
+      "match": "bigLove",
+      "image_id": 108394
+    },
+    {
+      "match": "bigHype",
+      "image_id": 108393
+    },
+    {
+      "match": "bigSchnoze",
+      "image_id": 109076
+    },
+    {
+      "match": "bigPush",
+      "image_id": 109075
+    },
+    {
+      "match": "bigErnte",
+      "image_id": 109074
+    }
+  ]
+}

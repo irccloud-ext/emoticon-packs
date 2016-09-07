@@ -1,1 +1,39 @@
-{"name":"twitch-sub-meltina_s","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"meltiHappy","image_id":87663},{"match":"meltiPalm","image_id":87660},{"match":"meltiHi","image_id":87664},{"match":"meltiGrats","image_id":87665},{"match":"meltiZZZ","image_id":87668},{"match":"meltiThump","image_id":94433},{"match":"meltiLove","image_id":95360},{"match":"meltiHYPE","image_id":95361}]}
+{
+  "name": "twitch-sub-meltina_s",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "meltiHappy",
+      "image_id": 87663
+    },
+    {
+      "match": "meltiPalm",
+      "image_id": 87660
+    },
+    {
+      "match": "meltiHi",
+      "image_id": 87664
+    },
+    {
+      "match": "meltiGrats",
+      "image_id": 87665
+    },
+    {
+      "match": "meltiZZZ",
+      "image_id": 87668
+    },
+    {
+      "match": "meltiThump",
+      "image_id": 94433
+    },
+    {
+      "match": "meltiLove",
+      "image_id": 95360
+    },
+    {
+      "match": "meltiHYPE",
+      "image_id": 95361
+    }
+  ]
+}

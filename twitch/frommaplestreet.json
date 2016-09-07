@@ -1,1 +1,23 @@
-{"name":"twitch-sub-frommaplestreet","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mapleDraven","image_id":11308},{"match":"mapleF","image_id":11230},{"match":"mapleWHAT","image_id":11310},{"match":"maplePgood","image_id":11309}]}
+{
+  "name": "twitch-sub-frommaplestreet",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mapleDraven",
+      "image_id": 11308
+    },
+    {
+      "match": "mapleF",
+      "image_id": 11230
+    },
+    {
+      "match": "mapleWHAT",
+      "image_id": 11310
+    },
+    {
+      "match": "maplePgood",
+      "image_id": 11309
+    }
+  ]
+}

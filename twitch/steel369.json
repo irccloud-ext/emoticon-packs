@@ -1,1 +1,31 @@
-{"name":"twitch-sub-steel369","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"leetsREKT","image_id":49012},{"match":"leetsSalt","image_id":27433},{"match":"leetsWifi","image_id":26582},{"match":"leetsDonger","image_id":26584},{"match":"leetsHit","image_id":36815},{"match":"leetsCoolDong","image_id":37792}]}
+{
+  "name": "twitch-sub-steel369",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "leetsREKT",
+      "image_id": 49012
+    },
+    {
+      "match": "leetsSalt",
+      "image_id": 27433
+    },
+    {
+      "match": "leetsWifi",
+      "image_id": 26582
+    },
+    {
+      "match": "leetsDonger",
+      "image_id": 26584
+    },
+    {
+      "match": "leetsHit",
+      "image_id": 36815
+    },
+    {
+      "match": "leetsCoolDong",
+      "image_id": 37792
+    }
+  ]
+}

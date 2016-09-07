@@ -1,1 +1,31 @@
-{"name":"twitch-sub-andrinja","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"andriMad","image_id":84618},{"match":"andriPika","image_id":83204},{"match":"andriLove","image_id":83206},{"match":"andriDoge","image_id":84302},{"match":"andriScream","image_id":103587},{"match":"andriCreep","image_id":104266}]}
+{
+  "name": "twitch-sub-andrinja",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "andriMad",
+      "image_id": 84618
+    },
+    {
+      "match": "andriPika",
+      "image_id": 83204
+    },
+    {
+      "match": "andriLove",
+      "image_id": 83206
+    },
+    {
+      "match": "andriDoge",
+      "image_id": 84302
+    },
+    {
+      "match": "andriScream",
+      "image_id": 103587
+    },
+    {
+      "match": "andriCreep",
+      "image_id": 104266
+    }
+  ]
+}

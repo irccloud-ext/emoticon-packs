@@ -1,1 +1,19 @@
-{"name":"twitch-sub-ataraxia","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ataRekt","image_id":38092},{"match":"ataHype","image_id":37816},{"match":"ataKS","image_id":83216}]}
+{
+  "name": "twitch-sub-ataraxia",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ataRekt",
+      "image_id": 38092
+    },
+    {
+      "match": "ataHype",
+      "image_id": 37816
+    },
+    {
+      "match": "ataKS",
+      "image_id": 83216
+    }
+  ]
+}

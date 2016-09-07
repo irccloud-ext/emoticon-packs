@@ -1,1 +1,31 @@
-{"name":"twitch-sub-lazaplays","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lazaW","image_id":101013},{"match":"lazaKappa","image_id":71923},{"match":"lazaLove","image_id":75617},{"match":"lazaPerv","image_id":74672},{"match":"lazaRAGE","image_id":74671},{"match":"lazaGrito","image_id":70480}]}
+{
+  "name": "twitch-sub-lazaplays",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lazaW",
+      "image_id": 101013
+    },
+    {
+      "match": "lazaKappa",
+      "image_id": 71923
+    },
+    {
+      "match": "lazaLove",
+      "image_id": 75617
+    },
+    {
+      "match": "lazaPerv",
+      "image_id": 74672
+    },
+    {
+      "match": "lazaRAGE",
+      "image_id": 74671
+    },
+    {
+      "match": "lazaGrito",
+      "image_id": 70480
+    }
+  ]
+}

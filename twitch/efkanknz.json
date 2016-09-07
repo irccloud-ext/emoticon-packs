@@ -1,0 +1,19 @@
+{
+  "name": "twitch-sub-efkanknz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "efkanggEFKANARMY",
+      "image_id": 111814
+    },
+    {
+      "match": "efkanggEFKANDANCE",
+      "image_id": 111812
+    },
+    {
+      "match": "efkanggEFKANGG",
+      "image_id": 111813
+    }
+  ]
+}

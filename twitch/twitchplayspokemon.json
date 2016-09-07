@@ -1,1 +1,67 @@
-{"name":"twitch-sub-twitchplayspokemon","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tppPokeball","image_id":73516},{"match":"tppHelix","image_id":38009},{"match":"tppRng","image_id":38008},{"match":"tppPokeyen","image_id":36874},{"match":"tppCrit","image_id":36873},{"match":"tppHax","image_id":37025},{"match":"tppMiss","image_id":37026},{"match":"tppPc","image_id":39704},{"match":"tppRobored","image_id":38945},{"match":"tppRiot","image_id":38947},{"match":"tppDome","image_id":41225},{"match":"tppCursor","image_id":57118},{"match":"tppTrumpet","image_id":57117},{"match":"tppFogChamp","image_id":57115},{"match":"tppSlowpoke","image_id":57116}]}
+{
+  "name": "twitch-sub-twitchplayspokemon",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tppPokeball",
+      "image_id": 73516
+    },
+    {
+      "match": "tppHelix",
+      "image_id": 38009
+    },
+    {
+      "match": "tppRng",
+      "image_id": 38008
+    },
+    {
+      "match": "tppPokeyen",
+      "image_id": 36874
+    },
+    {
+      "match": "tppCrit",
+      "image_id": 36873
+    },
+    {
+      "match": "tppHax",
+      "image_id": 37025
+    },
+    {
+      "match": "tppMiss",
+      "image_id": 37026
+    },
+    {
+      "match": "tppPc",
+      "image_id": 39704
+    },
+    {
+      "match": "tppRobored",
+      "image_id": 38945
+    },
+    {
+      "match": "tppRiot",
+      "image_id": 38947
+    },
+    {
+      "match": "tppDome",
+      "image_id": 41225
+    },
+    {
+      "match": "tppCursor",
+      "image_id": 57118
+    },
+    {
+      "match": "tppTrumpet",
+      "image_id": 57117
+    },
+    {
+      "match": "tppFogChamp",
+      "image_id": 57115
+    },
+    {
+      "match": "tppSlowpoke",
+      "image_id": 57116
+    }
+  ]
+}

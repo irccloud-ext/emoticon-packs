@@ -1,1 +1,39 @@
-{"name":"twitch-sub-ym78305","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"leggyGreenBanBan","image_id":71905},{"match":"leggyPregnantEar","image_id":71771},{"match":"leggyGod","image_id":61478},{"match":"leggyBlueBanBan","image_id":71777},{"match":"leggyYellowBanBan","image_id":71775},{"match":"leggyPinkBanBan","image_id":71774},{"match":"leggyHeart","image_id":71773},{"match":"leggyRainbowBanBan","image_id":71904}]}
+{
+  "name": "twitch-sub-ym78305",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "leggyGreenBanBan",
+      "image_id": 71905
+    },
+    {
+      "match": "leggyPregnantEar",
+      "image_id": 71771
+    },
+    {
+      "match": "leggyGod",
+      "image_id": 61478
+    },
+    {
+      "match": "leggyBlueBanBan",
+      "image_id": 71777
+    },
+    {
+      "match": "leggyYellowBanBan",
+      "image_id": 71775
+    },
+    {
+      "match": "leggyPinkBanBan",
+      "image_id": 71774
+    },
+    {
+      "match": "leggyHeart",
+      "image_id": 71773
+    },
+    {
+      "match": "leggyRainbowBanBan",
+      "image_id": 71904
+    }
+  ]
+}

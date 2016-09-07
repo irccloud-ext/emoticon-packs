@@ -1,1 +1,23 @@
-{"name":"twitch-sub-eskimokisses","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"eskiParka","image_id":7138},{"match":"eskiKisses","image_id":7137},{"match":"eskiGrill","image_id":12470},{"match":"eskiTesla","image_id":24939}]}
+{
+  "name": "twitch-sub-eskimokisses",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "eskiParka",
+      "image_id": 7138
+    },
+    {
+      "match": "eskiKisses",
+      "image_id": 7137
+    },
+    {
+      "match": "eskiGrill",
+      "image_id": 12470
+    },
+    {
+      "match": "eskiTesla",
+      "image_id": 24939
+    }
+  ]
+}

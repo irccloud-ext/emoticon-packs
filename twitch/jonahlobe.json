@@ -1,1 +1,23 @@
-{"name":"twitch-sub-jonahlobe","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"joloHip","image_id":90200},{"match":"joloTakingNotes","image_id":81285},{"match":"joloMindblown","image_id":81126},{"match":"joloFuego","image_id":85583}]}
+{
+  "name": "twitch-sub-jonahlobe",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "joloHip",
+      "image_id": 90200
+    },
+    {
+      "match": "joloTakingNotes",
+      "image_id": 81285
+    },
+    {
+      "match": "joloMindblown",
+      "image_id": 81126
+    },
+    {
+      "match": "joloFuego",
+      "image_id": 85583
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-nickchipperhs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nickchipprLecho","image_id":100924},{"match":"nickchipprNET","image_id":105608},{"match":"nickchipprDontAsk","image_id":105609},{"match":"nickchipprLove","image_id":105594}]}
+{
+  "name": "twitch-sub-nickchipperhs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nickchipprLecho",
+      "image_id": 100924
+    },
+    {
+      "match": "nickchipprNET",
+      "image_id": 105608
+    },
+    {
+      "match": "nickchipprDontAsk",
+      "image_id": 105609
+    },
+    {
+      "match": "nickchipprLove",
+      "image_id": 105594
+    }
+  ]
+}

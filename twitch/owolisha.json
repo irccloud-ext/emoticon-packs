@@ -1,1 +1,19 @@
-{"name":"twitch-sub-owolisha","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"owoSPOOKED","image_id":23299},{"match":"owoSPOOKY","image_id":22723},{"match":"owoPOTATO","image_id":73072}]}
+{
+  "name": "twitch-sub-owolisha",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "owoSPOOKED",
+      "image_id": 23299
+    },
+    {
+      "match": "owoSPOOKY",
+      "image_id": 22723
+    },
+    {
+      "match": "owoPOTATO",
+      "image_id": 73072
+    }
+  ]
+}

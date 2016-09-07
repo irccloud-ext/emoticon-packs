@@ -1,1 +1,23 @@
-{"name":"twitch-sub-qik1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"qik1Abides","image_id":35023},{"match":"qik1Bbmess","image_id":44836},{"match":"qik1Boris","image_id":45099},{"match":"qik1Died","image_id":45098}]}
+{
+  "name": "twitch-sub-qik1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "qik1Abides",
+      "image_id": 35023
+    },
+    {
+      "match": "qik1Bbmess",
+      "image_id": 44836
+    },
+    {
+      "match": "qik1Boris",
+      "image_id": 45099
+    },
+    {
+      "match": "qik1Died",
+      "image_id": 45098
+    }
+  ]
+}

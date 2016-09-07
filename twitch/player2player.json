@@ -1,1 +1,39 @@
-{"name":"twitch-sub-player2player","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"p2pCaraca","image_id":19353},{"match":"p2pGive","image_id":21888},{"match":"p2pBoss","image_id":24845},{"match":"p2pManjei","image_id":27918},{"match":"p2pCaneco","image_id":27917},{"match":"p2pHype","image_id":97331},{"match":"p2pCaricaz","image_id":97338},{"match":"p2pFufufu","image_id":99169}]}
+{
+  "name": "twitch-sub-player2player",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "p2pCaraca",
+      "image_id": 19353
+    },
+    {
+      "match": "p2pGive",
+      "image_id": 21888
+    },
+    {
+      "match": "p2pBoss",
+      "image_id": 24845
+    },
+    {
+      "match": "p2pManjei",
+      "image_id": 27918
+    },
+    {
+      "match": "p2pCaneco",
+      "image_id": 27917
+    },
+    {
+      "match": "p2pHype",
+      "image_id": 97331
+    },
+    {
+      "match": "p2pCaricaz",
+      "image_id": 97338
+    },
+    {
+      "match": "p2pFufufu",
+      "image_id": 99169
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-fourplayerpodcast","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fppNick","image_id":19741},{"match":"fppBrad","image_id":19745},{"match":"fppHyde","image_id":18295},{"match":"fppNolan","image_id":19298},{"match":"fppCarlos","image_id":19739},{"match":"fppManti","image_id":19740},{"match":"fppKris","image_id":19742},{"match":"fppChris","image_id":19744},{"match":"fppBob","image_id":19746},{"match":"fppChrist","image_id":19747}]}
+{
+  "name": "twitch-sub-fourplayerpodcast",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fppNick",
+      "image_id": 19741
+    },
+    {
+      "match": "fppBrad",
+      "image_id": 19745
+    },
+    {
+      "match": "fppHyde",
+      "image_id": 18295
+    },
+    {
+      "match": "fppNolan",
+      "image_id": 19298
+    },
+    {
+      "match": "fppCarlos",
+      "image_id": 19739
+    },
+    {
+      "match": "fppManti",
+      "image_id": 19740
+    },
+    {
+      "match": "fppKris",
+      "image_id": 19742
+    },
+    {
+      "match": "fppChris",
+      "image_id": 19744
+    },
+    {
+      "match": "fppBob",
+      "image_id": 19746
+    },
+    {
+      "match": "fppChrist",
+      "image_id": 19747
+    }
+  ]
+}

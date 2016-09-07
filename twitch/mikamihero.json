@@ -1,1 +1,39 @@
-{"name":"twitch-sub-mikamihero","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mikamiFak","image_id":109544},{"match":"mikamiCaw","image_id":108538},{"match":"mikamiMum","image_id":107289},{"match":"mikamiMN","image_id":105871},{"match":"mikamiHype","image_id":107072},{"match":"mikamiGday","image_id":106144},{"match":"mikamiLove","image_id":105386},{"match":"mikamiKawaii","image_id":108818}]}
+{
+  "name": "twitch-sub-mikamihero",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mikamiFak",
+      "image_id": 109544
+    },
+    {
+      "match": "mikamiCaw",
+      "image_id": 108538
+    },
+    {
+      "match": "mikamiMum",
+      "image_id": 107289
+    },
+    {
+      "match": "mikamiMN",
+      "image_id": 105871
+    },
+    {
+      "match": "mikamiHype",
+      "image_id": 107072
+    },
+    {
+      "match": "mikamiGday",
+      "image_id": 106144
+    },
+    {
+      "match": "mikamiLove",
+      "image_id": 105386
+    },
+    {
+      "match": "mikamiKawaii",
+      "image_id": 108818
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-ofidyan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ofidyanFBM","image_id":96377},{"match":"ofidyanSLID","image_id":103034}]}
+{
+  "name": "twitch-sub-ofidyan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ofidyanFBM",
+      "image_id": 96377
+    },
+    {
+      "match": "ofidyanSLID",
+      "image_id": 103034
+    }
+  ]
+}

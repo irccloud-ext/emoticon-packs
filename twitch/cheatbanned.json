@@ -1,1 +1,67 @@
-{"name":"twitch-sub-cheatbanned","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cbsubPA","image_id":33516},{"match":"cbsubOJ","image_id":35864},{"match":"cbsubDEVIL","image_id":49671},{"match":"cbsubFK","image_id":49672},{"match":"cbsubCRAZY","image_id":49676},{"match":"cbsubDRAGON1","image_id":49679},{"match":"cbsubDRAGON2","image_id":49680},{"match":"cbsubLOVE","image_id":49682},{"match":"cbsubRIP","image_id":86607},{"match":"cbsubREKT","image_id":86733},{"match":"cbsubNOOB","image_id":86732},{"match":"cbsubREPORT","image_id":86731},{"match":"cbsubHYPE","image_id":86730},{"match":"cbsubVAC","image_id":87130},{"match":"cbsubMONEY","image_id":86772}]}
+{
+  "name": "twitch-sub-cheatbanned",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cbsubPA",
+      "image_id": 33516
+    },
+    {
+      "match": "cbsubOJ",
+      "image_id": 35864
+    },
+    {
+      "match": "cbsubDEVIL",
+      "image_id": 49671
+    },
+    {
+      "match": "cbsubFK",
+      "image_id": 49672
+    },
+    {
+      "match": "cbsubCRAZY",
+      "image_id": 49676
+    },
+    {
+      "match": "cbsubDRAGON1",
+      "image_id": 49679
+    },
+    {
+      "match": "cbsubDRAGON2",
+      "image_id": 49680
+    },
+    {
+      "match": "cbsubLOVE",
+      "image_id": 49682
+    },
+    {
+      "match": "cbsubRIP",
+      "image_id": 86607
+    },
+    {
+      "match": "cbsubREKT",
+      "image_id": 86733
+    },
+    {
+      "match": "cbsubNOOB",
+      "image_id": 86732
+    },
+    {
+      "match": "cbsubREPORT",
+      "image_id": 86731
+    },
+    {
+      "match": "cbsubHYPE",
+      "image_id": 86730
+    },
+    {
+      "match": "cbsubVAC",
+      "image_id": 87130
+    },
+    {
+      "match": "cbsubMONEY",
+      "image_id": 86772
+    }
+  ]
+}

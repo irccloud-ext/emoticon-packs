@@ -1,1 +1,47 @@
-{"name":"twitch-sub-andrewarcade","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"arcadeCrossing","image_id":4831},{"match":"arcadeGrim","image_id":46592},{"match":"arcadeTeddie","image_id":28322},{"match":"arcadeBun","image_id":46591},{"match":"arcadeYas","image_id":46323},{"match":"arcadeMikko","image_id":44869},{"match":"arcadeShy","image_id":44868},{"match":"arcadeCry","image_id":44870},{"match":"arcadeWow","image_id":54668},{"match":"arcadeAndrew","image_id":55261}]}
+{
+  "name": "twitch-sub-andrewarcade",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "arcadeCrossing",
+      "image_id": 4831
+    },
+    {
+      "match": "arcadeGrim",
+      "image_id": 46592
+    },
+    {
+      "match": "arcadeTeddie",
+      "image_id": 28322
+    },
+    {
+      "match": "arcadeBun",
+      "image_id": 46591
+    },
+    {
+      "match": "arcadeYas",
+      "image_id": 46323
+    },
+    {
+      "match": "arcadeMikko",
+      "image_id": 44869
+    },
+    {
+      "match": "arcadeShy",
+      "image_id": 44868
+    },
+    {
+      "match": "arcadeCry",
+      "image_id": 44870
+    },
+    {
+      "match": "arcadeWow",
+      "image_id": 54668
+    },
+    {
+      "match": "arcadeAndrew",
+      "image_id": 55261
+    }
+  ]
+}

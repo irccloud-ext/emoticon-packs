@@ -1,1 +1,67 @@
-{"name":"twitch-sub-sayeedblack","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sayeedFeelsBad","image_id":65493},{"match":"sayeedBoro","image_id":65494},{"match":"sayeedCHEEP","image_id":56894},{"match":"sayeedHammer","image_id":56896},{"match":"sayeedHYPE","image_id":56897},{"match":"sayeedRIP","image_id":56899},{"match":"sayeedLOVE","image_id":56962},{"match":"sayeedBrapa","image_id":59083},{"match":"sayeedPogChamp","image_id":66257},{"match":"sayeedSalt","image_id":66259},{"match":"sayeedThump","image_id":59156},{"match":"sayeedPotatoe","image_id":59158},{"match":"sayeedSniper","image_id":66260},{"match":"sayeedMama","image_id":66256},{"match":"sayeedKebab","image_id":66255}]}
+{
+  "name": "twitch-sub-sayeedblack",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sayeedFeelsBad",
+      "image_id": 65493
+    },
+    {
+      "match": "sayeedBoro",
+      "image_id": 65494
+    },
+    {
+      "match": "sayeedCHEEP",
+      "image_id": 56894
+    },
+    {
+      "match": "sayeedHammer",
+      "image_id": 56896
+    },
+    {
+      "match": "sayeedHYPE",
+      "image_id": 56897
+    },
+    {
+      "match": "sayeedRIP",
+      "image_id": 56899
+    },
+    {
+      "match": "sayeedLOVE",
+      "image_id": 56962
+    },
+    {
+      "match": "sayeedBrapa",
+      "image_id": 59083
+    },
+    {
+      "match": "sayeedPogChamp",
+      "image_id": 66257
+    },
+    {
+      "match": "sayeedSalt",
+      "image_id": 66259
+    },
+    {
+      "match": "sayeedThump",
+      "image_id": 59156
+    },
+    {
+      "match": "sayeedPotatoe",
+      "image_id": 59158
+    },
+    {
+      "match": "sayeedSniper",
+      "image_id": 66260
+    },
+    {
+      "match": "sayeedMama",
+      "image_id": 66256
+    },
+    {
+      "match": "sayeedKebab",
+      "image_id": 66255
+    }
+  ]
+}

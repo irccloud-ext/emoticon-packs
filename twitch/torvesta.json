@@ -1,1 +1,15 @@
-{"name":"twitch-sub-torvesta","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"torvSquad","image_id":104750},{"match":"torvBonk","image_id":104748}]}
+{
+  "name": "twitch-sub-torvesta",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "torvSquad",
+      "image_id": 104750
+    },
+    {
+      "match": "torvBonk",
+      "image_id": 104748
+    }
+  ]
+}

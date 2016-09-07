@@ -1,1 +1,43 @@
-{"name":"twitch-sub-deligracy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"deliThumbmonkey","image_id":103886},{"match":"deliMelikey","image_id":103882},{"match":"deliHolladolla","image_id":103881},{"match":"deliBleh","image_id":103879},{"match":"deliHappycactus","image_id":103880},{"match":"deliFRIDGE","image_id":103884},{"match":"deliSissy","image_id":103885},{"match":"deliTinkletime","image_id":103887},{"match":"deliYashunny","image_id":103888}]}
+{
+  "name": "twitch-sub-deligracy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "deliThumbmonkey",
+      "image_id": 103886
+    },
+    {
+      "match": "deliMelikey",
+      "image_id": 103882
+    },
+    {
+      "match": "deliHolladolla",
+      "image_id": 103881
+    },
+    {
+      "match": "deliBleh",
+      "image_id": 103879
+    },
+    {
+      "match": "deliHappycactus",
+      "image_id": 103880
+    },
+    {
+      "match": "deliFRIDGE",
+      "image_id": 103884
+    },
+    {
+      "match": "deliSissy",
+      "image_id": 103885
+    },
+    {
+      "match": "deliTinkletime",
+      "image_id": 103887
+    },
+    {
+      "match": "deliYashunny",
+      "image_id": 103888
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-sapphire","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sapphGG","image_id":94929},{"match":"sapphNAcomms","image_id":86381},{"match":"sapphVAC","image_id":95975},{"match":"sapphChicken","image_id":95974},{"match":"sapphScumbag","image_id":86305},{"match":"sapphEnergy","image_id":85899}]}
+{
+  "name": "twitch-sub-sapphire",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sapphGG",
+      "image_id": 94929
+    },
+    {
+      "match": "sapphNAcomms",
+      "image_id": 86381
+    },
+    {
+      "match": "sapphVAC",
+      "image_id": 95975
+    },
+    {
+      "match": "sapphChicken",
+      "image_id": 95974
+    },
+    {
+      "match": "sapphScumbag",
+      "image_id": 86305
+    },
+    {
+      "match": "sapphEnergy",
+      "image_id": 85899
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-dignitasmechachomp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"helmHelm","image_id":52514},{"match":"helmShield","image_id":52529}]}
+{
+  "name": "twitch-sub-dignitasmechachomp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "helmHelm",
+      "image_id": 52514
+    },
+    {
+      "match": "helmShield",
+      "image_id": 52529
+    }
+  ]
+}

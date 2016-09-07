@@ -1,1 +1,35 @@
-{"name":"twitch-sub-alucard2004","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aluHype","image_id":52213},{"match":"aluBuff","image_id":25256},{"match":"aluLuck","image_id":25409},{"match":"aluSeven","image_id":47902},{"match":"aluFlip","image_id":33893},{"match":"aluClam","image_id":33937},{"match":"aluStakes","image_id":69970}]}
+{
+  "name": "twitch-sub-alucard2004",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aluHype",
+      "image_id": 52213
+    },
+    {
+      "match": "aluBuff",
+      "image_id": 25256
+    },
+    {
+      "match": "aluLuck",
+      "image_id": 25409
+    },
+    {
+      "match": "aluSeven",
+      "image_id": 47902
+    },
+    {
+      "match": "aluFlip",
+      "image_id": 33893
+    },
+    {
+      "match": "aluClam",
+      "image_id": 33937
+    },
+    {
+      "match": "aluStakes",
+      "image_id": 69970
+    }
+  ]
+}

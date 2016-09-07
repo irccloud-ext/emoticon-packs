@@ -1,1 +1,31 @@
-{"name":"twitch-sub-thejeeone","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jeeBURN","image_id":95706},{"match":"jeeSTUFF","image_id":95668},{"match":"jeeMERCIGARRY","image_id":91248},{"match":"jeeRAGE","image_id":95515},{"match":"jeeFRAGILE","image_id":95822},{"match":"jeeHELICO","image_id":95823}]}
+{
+  "name": "twitch-sub-thejeeone",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jeeBURN",
+      "image_id": 95706
+    },
+    {
+      "match": "jeeSTUFF",
+      "image_id": 95668
+    },
+    {
+      "match": "jeeMERCIGARRY",
+      "image_id": 91248
+    },
+    {
+      "match": "jeeRAGE",
+      "image_id": 95515
+    },
+    {
+      "match": "jeeFRAGILE",
+      "image_id": 95822
+    },
+    {
+      "match": "jeeHELICO",
+      "image_id": 95823
+    }
+  ]
+}

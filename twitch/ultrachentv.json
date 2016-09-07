@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ultrachentv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"uctvPotSplit","image_id":1943},{"match":"uctvHonkHonk","image_id":64795},{"match":"uctvKappaChino","image_id":64792},{"match":"uctvHulkSmash","image_id":64794}]}
+{
+  "name": "twitch-sub-ultrachentv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "uctvPotSplit",
+      "image_id": 1943
+    },
+    {
+      "match": "uctvHonkHonk",
+      "image_id": 64795
+    },
+    {
+      "match": "uctvKappaChino",
+      "image_id": 64792
+    },
+    {
+      "match": "uctvHulkSmash",
+      "image_id": 64794
+    }
+  ]
+}

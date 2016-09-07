@@ -1,1 +1,35 @@
-{"name":"twitch-sub-melisababy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"babyS","image_id":76959},{"match":"babyFail","image_id":76948},{"match":"babyLucy","image_id":76939},{"match":"babyKalp","image_id":77077},{"match":"babyRage","image_id":78825},{"match":"babyGasm","image_id":86942},{"match":"babyHype","image_id":87131}]}
+{
+  "name": "twitch-sub-melisababy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "babyS",
+      "image_id": 76959
+    },
+    {
+      "match": "babyFail",
+      "image_id": 76948
+    },
+    {
+      "match": "babyLucy",
+      "image_id": 76939
+    },
+    {
+      "match": "babyKalp",
+      "image_id": 77077
+    },
+    {
+      "match": "babyRage",
+      "image_id": 78825
+    },
+    {
+      "match": "babyGasm",
+      "image_id": 86942
+    },
+    {
+      "match": "babyHype",
+      "image_id": 87131
+    }
+  ]
+}

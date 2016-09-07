@@ -1,1 +1,35 @@
-{"name":"twitch-sub-mvg_league","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mvgLogo","image_id":39361},{"match":"mvgDomo","image_id":57508},{"match":"mvgC2K","image_id":99479},{"match":"mvgLol","image_id":84517},{"match":"mvgLucena","image_id":84775},{"match":"mvgEcho","image_id":102235},{"match":"mvgScAtt","image_id":103623}]}
+{
+  "name": "twitch-sub-mvg_league",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mvgLogo",
+      "image_id": 39361
+    },
+    {
+      "match": "mvgDomo",
+      "image_id": 57508
+    },
+    {
+      "match": "mvgC2K",
+      "image_id": 99479
+    },
+    {
+      "match": "mvgLol",
+      "image_id": 84517
+    },
+    {
+      "match": "mvgLucena",
+      "image_id": 84775
+    },
+    {
+      "match": "mvgEcho",
+      "image_id": 102235
+    },
+    {
+      "match": "mvgScAtt",
+      "image_id": 103623
+    }
+  ]
+}

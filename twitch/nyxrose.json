@@ -1,1 +1,31 @@
-{"name":"twitch-sub-nyxrose","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nyxBelieve","image_id":64754},{"match":"nyxPoop","image_id":58400},{"match":"nyxYay","image_id":58412},{"match":"nyxRage","image_id":58407},{"match":"nyxRip","image_id":58855},{"match":"nyxLove","image_id":65283}]}
+{
+  "name": "twitch-sub-nyxrose",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nyxBelieve",
+      "image_id": 64754
+    },
+    {
+      "match": "nyxPoop",
+      "image_id": 58400
+    },
+    {
+      "match": "nyxYay",
+      "image_id": 58412
+    },
+    {
+      "match": "nyxRage",
+      "image_id": 58407
+    },
+    {
+      "match": "nyxRip",
+      "image_id": 58855
+    },
+    {
+      "match": "nyxLove",
+      "image_id": 65283
+    }
+  ]
+}

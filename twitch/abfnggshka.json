@@ -1,1 +1,15 @@
-{"name":"twitch-sub-abfnggshka","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fngFeelsbad","image_id":76673},{"match":"fngROFL","image_id":76717}]}
+{
+  "name": "twitch-sub-abfnggshka",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fngFeelsbad",
+      "image_id": 76673
+    },
+    {
+      "match": "fngROFL",
+      "image_id": 76717
+    }
+  ]
+}

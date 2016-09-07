@@ -1,1 +1,27 @@
-{"name":"twitch-sub-apollopote","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"apollootAPO","image_id":109895},{"match":"apollootApo","image_id":107013},{"match":"apollootFourche","image_id":107256},{"match":"apollootAPA","image_id":109894},{"match":"apollootFeelsbad","image_id":108605}]}
+{
+  "name": "twitch-sub-apollopote",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "apollootAPO",
+      "image_id": 109895
+    },
+    {
+      "match": "apollootApo",
+      "image_id": 107013
+    },
+    {
+      "match": "apollootFourche",
+      "image_id": 107256
+    },
+    {
+      "match": "apollootAPA",
+      "image_id": 109894
+    },
+    {
+      "match": "apollootFeelsbad",
+      "image_id": 108605
+    }
+  ]
+}

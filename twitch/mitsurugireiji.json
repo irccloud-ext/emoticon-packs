@@ -1,1 +1,39 @@
-{"name":"twitch-sub-mitsurugireiji","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mitsuHI","image_id":103705},{"match":"mitsuSUB","image_id":11864},{"match":"mitsuSING","image_id":103709},{"match":"mitsuLOVE","image_id":103707},{"match":"mitsuHYPE","image_id":103706},{"match":"mitsuFAIL","image_id":103704},{"match":"mitsuPLS","image_id":103792},{"match":"mitsuRAGE","image_id":103791}]}
+{
+  "name": "twitch-sub-mitsurugireiji",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mitsuHI",
+      "image_id": 103705
+    },
+    {
+      "match": "mitsuSUB",
+      "image_id": 11864
+    },
+    {
+      "match": "mitsuSING",
+      "image_id": 103709
+    },
+    {
+      "match": "mitsuLOVE",
+      "image_id": 103707
+    },
+    {
+      "match": "mitsuHYPE",
+      "image_id": 103706
+    },
+    {
+      "match": "mitsuFAIL",
+      "image_id": 103704
+    },
+    {
+      "match": "mitsuPLS",
+      "image_id": 103792
+    },
+    {
+      "match": "mitsuRAGE",
+      "image_id": 103791
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-weefz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"weefzCrash","image_id":46289},{"match":"weefzConfused","image_id":46290},{"match":"weefzLove","image_id":66233},{"match":"weefzHype","image_id":97852}]}
+{
+  "name": "twitch-sub-weefz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "weefzCrash",
+      "image_id": 46289
+    },
+    {
+      "match": "weefzConfused",
+      "image_id": 46290
+    },
+    {
+      "match": "weefzLove",
+      "image_id": 66233
+    },
+    {
+      "match": "weefzHype",
+      "image_id": 97852
+    }
+  ]
+}

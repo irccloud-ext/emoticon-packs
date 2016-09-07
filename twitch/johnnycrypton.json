@@ -1,1 +1,39 @@
-{"name":"twitch-sub-johnnycrypton","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cryptonHey","image_id":51620},{"match":"cryptonChamp","image_id":38667},{"match":"cryptonHelca","image_id":38666},{"match":"cryptonW","image_id":48203},{"match":"cryptonPicnic","image_id":49920},{"match":"cryptonLama","image_id":56496},{"match":"cryptonEz","image_id":56503},{"match":"cryptonC","image_id":64024}]}
+{
+  "name": "twitch-sub-johnnycrypton",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cryptonHey",
+      "image_id": 51620
+    },
+    {
+      "match": "cryptonChamp",
+      "image_id": 38667
+    },
+    {
+      "match": "cryptonHelca",
+      "image_id": 38666
+    },
+    {
+      "match": "cryptonW",
+      "image_id": 48203
+    },
+    {
+      "match": "cryptonPicnic",
+      "image_id": 49920
+    },
+    {
+      "match": "cryptonLama",
+      "image_id": 56496
+    },
+    {
+      "match": "cryptonEz",
+      "image_id": 56503
+    },
+    {
+      "match": "cryptonC",
+      "image_id": 64024
+    }
+  ]
+}

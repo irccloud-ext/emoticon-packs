@@ -1,1 +1,19 @@
-{"name":"twitch-sub-thesmithplayz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"peaceoutVibes","image_id":56632},{"match":"peaceoutCookie","image_id":54208},{"match":"peaceoutNerds","image_id":54210}]}
+{
+  "name": "twitch-sub-thesmithplayz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "peaceoutVibes",
+      "image_id": 56632
+    },
+    {
+      "match": "peaceoutCookie",
+      "image_id": 54208
+    },
+    {
+      "match": "peaceoutNerds",
+      "image_id": 54210
+    }
+  ]
+}

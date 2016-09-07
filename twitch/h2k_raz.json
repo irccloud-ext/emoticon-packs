@@ -1,1 +1,15 @@
-{"name":"twitch-sub-h2k_raz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"razzT","image_id":104133},{"match":"razzD","image_id":103469}]}
+{
+  "name": "twitch-sub-h2k_raz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "razzT",
+      "image_id": 104133
+    },
+    {
+      "match": "razzD",
+      "image_id": 103469
+    }
+  ]
+}

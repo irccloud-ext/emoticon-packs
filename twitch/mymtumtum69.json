@@ -1,1 +1,39 @@
-{"name":"twitch-sub-mymtumtum69","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tumtumKoa","image_id":9857},{"match":"tumtumTumy","image_id":9856},{"match":"tumtumLin","image_id":31034},{"match":"tumtumToon","image_id":75046},{"match":"tumtumRage","image_id":80521},{"match":"tumtumLOL","image_id":106853},{"match":"tumtumHype","image_id":108351},{"match":"tumtumDios","image_id":108353}]}
+{
+  "name": "twitch-sub-mymtumtum69",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tumtumKoa",
+      "image_id": 9857
+    },
+    {
+      "match": "tumtumTumy",
+      "image_id": 9856
+    },
+    {
+      "match": "tumtumLin",
+      "image_id": 31034
+    },
+    {
+      "match": "tumtumToon",
+      "image_id": 75046
+    },
+    {
+      "match": "tumtumRage",
+      "image_id": 80521
+    },
+    {
+      "match": "tumtumLOL",
+      "image_id": 106853
+    },
+    {
+      "match": "tumtumHype",
+      "image_id": 108351
+    },
+    {
+      "match": "tumtumDios",
+      "image_id": 108353
+    }
+  ]
+}

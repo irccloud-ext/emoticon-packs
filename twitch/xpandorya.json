@@ -1,1 +1,43 @@
-{"name":"twitch-sub-xpandorya","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"panDustin","image_id":84403},{"match":"panCry","image_id":70372},{"match":"panKlo","image_id":55073},{"match":"panMh","image_id":57354},{"match":"panPoo","image_id":50276},{"match":"panWas","image_id":70370},{"match":"panDoge","image_id":71657},{"match":"panRage","image_id":72704},{"match":"panLeibe","image_id":105376}]}
+{
+  "name": "twitch-sub-xpandorya",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "panDustin",
+      "image_id": 84403
+    },
+    {
+      "match": "panCry",
+      "image_id": 70372
+    },
+    {
+      "match": "panKlo",
+      "image_id": 55073
+    },
+    {
+      "match": "panMh",
+      "image_id": 57354
+    },
+    {
+      "match": "panPoo",
+      "image_id": 50276
+    },
+    {
+      "match": "panWas",
+      "image_id": 70370
+    },
+    {
+      "match": "panDoge",
+      "image_id": 71657
+    },
+    {
+      "match": "panRage",
+      "image_id": 72704
+    },
+    {
+      "match": "panLeibe",
+      "image_id": 105376
+    }
+  ]
+}

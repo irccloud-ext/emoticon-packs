@@ -1,1 +1,15 @@
-{"name":"twitch-sub-kingcaffeine","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"caffW","image_id":51845},{"match":"caffP","image_id":66459}]}
+{
+  "name": "twitch-sub-kingcaffeine",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "caffW",
+      "image_id": 51845
+    },
+    {
+      "match": "caffP",
+      "image_id": 66459
+    }
+  ]
+}

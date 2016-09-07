@@ -1,1 +1,39 @@
-{"name":"twitch-sub-blondiewondie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"blondieScarry","image_id":14697},{"match":"blondieKappa","image_id":14679},{"match":"blondieLethal","image_id":18964},{"match":"blondieThirsty","image_id":19030},{"match":"blondieKitten","image_id":32462},{"match":"blondieW","image_id":39473},{"match":"blondieChair","image_id":39637},{"match":"blondieDerp","image_id":39496}]}
+{
+  "name": "twitch-sub-blondiewondie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "blondieScarry",
+      "image_id": 14697
+    },
+    {
+      "match": "blondieKappa",
+      "image_id": 14679
+    },
+    {
+      "match": "blondieLethal",
+      "image_id": 18964
+    },
+    {
+      "match": "blondieThirsty",
+      "image_id": 19030
+    },
+    {
+      "match": "blondieKitten",
+      "image_id": 32462
+    },
+    {
+      "match": "blondieW",
+      "image_id": 39473
+    },
+    {
+      "match": "blondieChair",
+      "image_id": 39637
+    },
+    {
+      "match": "blondieDerp",
+      "image_id": 39496
+    }
+  ]
+}

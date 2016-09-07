@@ -1,1 +1,23 @@
-{"name":"twitch-sub-azoh","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"azohZedKappa","image_id":16961},{"match":"azohTip","image_id":34774},{"match":"azohGasp","image_id":47170},{"match":"azohDoor","image_id":55210}]}
+{
+  "name": "twitch-sub-azoh",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "azohZedKappa",
+      "image_id": 16961
+    },
+    {
+      "match": "azohTip",
+      "image_id": 34774
+    },
+    {
+      "match": "azohGasp",
+      "image_id": 47170
+    },
+    {
+      "match": "azohDoor",
+      "image_id": 55210
+    }
+  ]
+}

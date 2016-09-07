@@ -1,1 +1,19 @@
-{"name":"twitch-sub-imperialdane","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"prpHetzer","image_id":28090},{"match":"prpGranate","image_id":28091},{"match":"prpNoheroes","image_id":76728}]}
+{
+  "name": "twitch-sub-imperialdane",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "prpHetzer",
+      "image_id": 28090
+    },
+    {
+      "match": "prpGranate",
+      "image_id": 28091
+    },
+    {
+      "match": "prpNoheroes",
+      "image_id": 76728
+    }
+  ]
+}

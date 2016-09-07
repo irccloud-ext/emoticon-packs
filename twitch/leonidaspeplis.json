@@ -1,1 +1,23 @@
-{"name":"twitch-sub-leonidaspeplis","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"omglp1","image_id":16405},{"match":"omglpFml","image_id":17673},{"match":"omglpForgondor","image_id":26899},{"match":"omglpKappep","image_id":26987}]}
+{
+  "name": "twitch-sub-leonidaspeplis",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "omglp1",
+      "image_id": 16405
+    },
+    {
+      "match": "omglpFml",
+      "image_id": 17673
+    },
+    {
+      "match": "omglpForgondor",
+      "image_id": 26899
+    },
+    {
+      "match": "omglpKappep",
+      "image_id": 26987
+    }
+  ]
+}

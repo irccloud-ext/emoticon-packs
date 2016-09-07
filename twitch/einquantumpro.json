@@ -1,1 +1,47 @@
-{"name":"twitch-sub-einquantumpro","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"eqpWIN","image_id":34260},{"match":"eqpRAGE","image_id":34259},{"match":"eqpFAIL","image_id":34383},{"match":"eqpRip","image_id":34917},{"match":"eqpHYPE","image_id":34916},{"match":"eqpCRY","image_id":35089},{"match":"eqpLOVE","image_id":43672},{"match":"eqpGASM","image_id":44125},{"match":"eqpF5","image_id":79393},{"match":"eqp10","image_id":79655}]}
+{
+  "name": "twitch-sub-einquantumpro",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "eqpWIN",
+      "image_id": 34260
+    },
+    {
+      "match": "eqpRAGE",
+      "image_id": 34259
+    },
+    {
+      "match": "eqpFAIL",
+      "image_id": 34383
+    },
+    {
+      "match": "eqpRip",
+      "image_id": 34917
+    },
+    {
+      "match": "eqpHYPE",
+      "image_id": 34916
+    },
+    {
+      "match": "eqpCRY",
+      "image_id": 35089
+    },
+    {
+      "match": "eqpLOVE",
+      "image_id": 43672
+    },
+    {
+      "match": "eqpGASM",
+      "image_id": 44125
+    },
+    {
+      "match": "eqpF5",
+      "image_id": 79393
+    },
+    {
+      "match": "eqp10",
+      "image_id": 79655
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-bolodota","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"boloChamp","image_id":71724},{"match":"boloSleeper","image_id":110804}]}
+{
+  "name": "twitch-sub-bolodota",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "boloChamp",
+      "image_id": 71724
+    },
+    {
+      "match": "boloSleeper",
+      "image_id": 110804
+    }
+  ]
+}

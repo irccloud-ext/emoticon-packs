@@ -1,1 +1,47 @@
-{"name":"twitch-sub-pterodactylsftw","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pteroRaena","image_id":19497},{"match":"pteroDactyl","image_id":18047},{"match":"pteroHi","image_id":88460},{"match":"pteroRage","image_id":88459},{"match":"pteroKnee","image_id":88457},{"match":"pteroCry","image_id":88456},{"match":"pteroGame","image_id":55308},{"match":"pteroPurr","image_id":66165},{"match":"pteroHeart","image_id":88458},{"match":"pteroHog","image_id":107934}]}
+{
+  "name": "twitch-sub-pterodactylsftw",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pteroRaena",
+      "image_id": 19497
+    },
+    {
+      "match": "pteroDactyl",
+      "image_id": 18047
+    },
+    {
+      "match": "pteroHi",
+      "image_id": 88460
+    },
+    {
+      "match": "pteroRage",
+      "image_id": 88459
+    },
+    {
+      "match": "pteroKnee",
+      "image_id": 88457
+    },
+    {
+      "match": "pteroCry",
+      "image_id": 88456
+    },
+    {
+      "match": "pteroGame",
+      "image_id": 55308
+    },
+    {
+      "match": "pteroPurr",
+      "image_id": 66165
+    },
+    {
+      "match": "pteroHeart",
+      "image_id": 88458
+    },
+    {
+      "match": "pteroHog",
+      "image_id": 107934
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-jeanbaptisteshow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jbsCookie","image_id":72936},{"match":"jbsJBS","image_id":72935},{"match":"jbsNico","image_id":86279},{"match":"jbsR9K","image_id":86280},{"match":"jbsLoris","image_id":96229},{"match":"jbsLuffy","image_id":96228}]}
+{
+  "name": "twitch-sub-jeanbaptisteshow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jbsCookie",
+      "image_id": 72936
+    },
+    {
+      "match": "jbsJBS",
+      "image_id": 72935
+    },
+    {
+      "match": "jbsNico",
+      "image_id": 86279
+    },
+    {
+      "match": "jbsR9K",
+      "image_id": 86280
+    },
+    {
+      "match": "jbsLoris",
+      "image_id": 96229
+    },
+    {
+      "match": "jbsLuffy",
+      "image_id": 96228
+    }
+  ]
+}

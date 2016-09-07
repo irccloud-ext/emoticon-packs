@@ -1,1 +1,27 @@
-{"name":"twitch-sub-izolate","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"izoBLIND","image_id":79367},{"match":"izoBELIB","image_id":95993},{"match":"izoBEACH","image_id":95987},{"match":"izoBOOP","image_id":79366},{"match":"izoHEY","image_id":79365}]}
+{
+  "name": "twitch-sub-izolate",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "izoBLIND",
+      "image_id": 79367
+    },
+    {
+      "match": "izoBELIB",
+      "image_id": 95993
+    },
+    {
+      "match": "izoBEACH",
+      "image_id": 95987
+    },
+    {
+      "match": "izoBOOP",
+      "image_id": 79366
+    },
+    {
+      "match": "izoHEY",
+      "image_id": 79365
+    }
+  ]
+}

@@ -1,1 +1,79 @@
-{"name":"twitch-sub-spenfc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"spenFC","image_id":27348},{"match":"spenDOG","image_id":27349},{"match":"spenBADGE","image_id":28423},{"match":"spenGO","image_id":28453},{"match":"spenWHU","image_id":29577},{"match":"spenOAL","image_id":29575},{"match":"spenMISCOM","image_id":34663},{"match":"spenWC","image_id":76662},{"match":"spenDimi","image_id":81618},{"match":"spenBang","image_id":81620},{"match":"spenLeg","image_id":81621},{"match":"spenGOLD","image_id":70992},{"match":"spenSeb","image_id":76667},{"match":"spenWof","image_id":76661},{"match":"spenHashtag","image_id":76664},{"match":"spenSaund","image_id":79951},{"match":"spenJoey","image_id":81616},{"match":"spenRo","image_id":81626}]}
+{
+  "name": "twitch-sub-spenfc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "spenFC",
+      "image_id": 27348
+    },
+    {
+      "match": "spenDOG",
+      "image_id": 27349
+    },
+    {
+      "match": "spenBADGE",
+      "image_id": 28423
+    },
+    {
+      "match": "spenGO",
+      "image_id": 28453
+    },
+    {
+      "match": "spenWHU",
+      "image_id": 29577
+    },
+    {
+      "match": "spenOAL",
+      "image_id": 29575
+    },
+    {
+      "match": "spenMISCOM",
+      "image_id": 34663
+    },
+    {
+      "match": "spenWC",
+      "image_id": 76662
+    },
+    {
+      "match": "spenDimi",
+      "image_id": 81618
+    },
+    {
+      "match": "spenBang",
+      "image_id": 81620
+    },
+    {
+      "match": "spenLeg",
+      "image_id": 81621
+    },
+    {
+      "match": "spenGOLD",
+      "image_id": 70992
+    },
+    {
+      "match": "spenSeb",
+      "image_id": 76667
+    },
+    {
+      "match": "spenWof",
+      "image_id": 76661
+    },
+    {
+      "match": "spenHashtag",
+      "image_id": 76664
+    },
+    {
+      "match": "spenSaund",
+      "image_id": 79951
+    },
+    {
+      "match": "spenJoey",
+      "image_id": 81616
+    },
+    {
+      "match": "spenRo",
+      "image_id": 81626
+    }
+  ]
+}

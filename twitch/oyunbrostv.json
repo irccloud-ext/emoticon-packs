@@ -1,1 +1,67 @@
-{"name":"twitch-sub-oyunbrostv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"togiRIP","image_id":81557},{"match":"togiSU","image_id":42078},{"match":"togiAgla","image_id":49897},{"match":"togiDabbe","image_id":77334},{"match":"togiA","image_id":94856},{"match":"togiWtf","image_id":94857},{"match":"togiCop","image_id":88143},{"match":"togiMutlu","image_id":92160},{"match":"togiSelam","image_id":92833},{"match":"togiGasm","image_id":92832},{"match":"togiW1","image_id":96442},{"match":"togiW2","image_id":96443},{"match":"togiW3","image_id":96444},{"match":"togiW4","image_id":96445},{"match":"togiR","image_id":94900}]}
+{
+  "name": "twitch-sub-oyunbrostv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "togiRIP",
+      "image_id": 81557
+    },
+    {
+      "match": "togiSU",
+      "image_id": 42078
+    },
+    {
+      "match": "togiAgla",
+      "image_id": 49897
+    },
+    {
+      "match": "togiDabbe",
+      "image_id": 77334
+    },
+    {
+      "match": "togiA",
+      "image_id": 94856
+    },
+    {
+      "match": "togiWtf",
+      "image_id": 94857
+    },
+    {
+      "match": "togiCop",
+      "image_id": 88143
+    },
+    {
+      "match": "togiMutlu",
+      "image_id": 92160
+    },
+    {
+      "match": "togiSelam",
+      "image_id": 92833
+    },
+    {
+      "match": "togiGasm",
+      "image_id": 92832
+    },
+    {
+      "match": "togiW1",
+      "image_id": 96442
+    },
+    {
+      "match": "togiW2",
+      "image_id": 96443
+    },
+    {
+      "match": "togiW3",
+      "image_id": 96444
+    },
+    {
+      "match": "togiW4",
+      "image_id": 96445
+    },
+    {
+      "match": "togiR",
+      "image_id": 94900
+    }
+  ]
+}

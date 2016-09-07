@@ -1,1 +1,67 @@
-{"name":"twitch-sub-callofcthulu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"thuluXEKE","image_id":70325},{"match":"thuluRAGE","image_id":57581},{"match":"thuluGASM","image_id":57579},{"match":"thuluLOVE","image_id":57578},{"match":"thuluJOLT","image_id":57583},{"match":"thuluJACK","image_id":57584},{"match":"thuluBOOK","image_id":57575},{"match":"thuluTENT","image_id":57576},{"match":"thuluTORCH","image_id":68166},{"match":"thuluLEYE","image_id":68224},{"match":"thuluREYE","image_id":68225},{"match":"thuluLFACE","image_id":68226},{"match":"thuluRFACE","image_id":68227},{"match":"thuluFAIL","image_id":68164},{"match":"thuluAVIA","image_id":90050}]}
+{
+  "name": "twitch-sub-callofcthulu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "thuluXEKE",
+      "image_id": 70325
+    },
+    {
+      "match": "thuluRAGE",
+      "image_id": 57581
+    },
+    {
+      "match": "thuluGASM",
+      "image_id": 57579
+    },
+    {
+      "match": "thuluLOVE",
+      "image_id": 57578
+    },
+    {
+      "match": "thuluJOLT",
+      "image_id": 57583
+    },
+    {
+      "match": "thuluJACK",
+      "image_id": 57584
+    },
+    {
+      "match": "thuluBOOK",
+      "image_id": 57575
+    },
+    {
+      "match": "thuluTENT",
+      "image_id": 57576
+    },
+    {
+      "match": "thuluTORCH",
+      "image_id": 68166
+    },
+    {
+      "match": "thuluLEYE",
+      "image_id": 68224
+    },
+    {
+      "match": "thuluREYE",
+      "image_id": 68225
+    },
+    {
+      "match": "thuluLFACE",
+      "image_id": 68226
+    },
+    {
+      "match": "thuluRFACE",
+      "image_id": 68227
+    },
+    {
+      "match": "thuluFAIL",
+      "image_id": 68164
+    },
+    {
+      "match": "thuluAVIA",
+      "image_id": 90050
+    }
+  ]
+}

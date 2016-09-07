@@ -1,1 +1,39 @@
-{"name":"twitch-sub-onchigames","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"onchiBam","image_id":111325},{"match":"onchiWha","image_id":111324},{"match":"onchiBuddy","image_id":105379},{"match":"onchiHypu","image_id":105380},{"match":"onchiLove","image_id":105377},{"match":"onchiHi","image_id":105374},{"match":"onchiQuote5","image_id":105382},{"match":"onchiNoice","image_id":105381}]}
+{
+  "name": "twitch-sub-onchigames",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "onchiBam",
+      "image_id": 111325
+    },
+    {
+      "match": "onchiWha",
+      "image_id": 111324
+    },
+    {
+      "match": "onchiBuddy",
+      "image_id": 105379
+    },
+    {
+      "match": "onchiHypu",
+      "image_id": 105380
+    },
+    {
+      "match": "onchiLove",
+      "image_id": 105377
+    },
+    {
+      "match": "onchiHi",
+      "image_id": 105374
+    },
+    {
+      "match": "onchiQuote5",
+      "image_id": 105382
+    },
+    {
+      "match": "onchiNoice",
+      "image_id": 105381
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-horsepants","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"horseMNose","image_id":73609},{"match":"horseLeft","image_id":81560},{"match":"horseRight","image_id":81561},{"match":"horseSure","image_id":70377},{"match":"horseGotcha","image_id":72308},{"match":"horseW","image_id":72640}]}
+{
+  "name": "twitch-sub-horsepants",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "horseMNose",
+      "image_id": 73609
+    },
+    {
+      "match": "horseLeft",
+      "image_id": 81560
+    },
+    {
+      "match": "horseRight",
+      "image_id": 81561
+    },
+    {
+      "match": "horseSure",
+      "image_id": 70377
+    },
+    {
+      "match": "horseGotcha",
+      "image_id": 72308
+    },
+    {
+      "match": "horseW",
+      "image_id": 72640
+    }
+  ]
+}

@@ -1,1 +1,11 @@
-{"name":"twitch-sub-gamehall","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gh01Game","image_id":23412}]}
+{
+  "name": "twitch-sub-gamehall",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gh01Game",
+      "image_id": 23412
+    }
+  ]
+}

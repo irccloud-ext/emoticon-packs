@@ -1,1 +1,31 @@
-{"name":"twitch-sub-samqua","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"samquaJumo","image_id":50934},{"match":"samquaKia","image_id":47607},{"match":"samquaBeam","image_id":67089},{"match":"samquaJinji","image_id":47702},{"match":"samquaKorea","image_id":86897},{"match":"samquaPopcorn","image_id":86892}]}
+{
+  "name": "twitch-sub-samqua",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "samquaJumo",
+      "image_id": 50934
+    },
+    {
+      "match": "samquaKia",
+      "image_id": 47607
+    },
+    {
+      "match": "samquaBeam",
+      "image_id": 67089
+    },
+    {
+      "match": "samquaJinji",
+      "image_id": 47702
+    },
+    {
+      "match": "samquaKorea",
+      "image_id": 86897
+    },
+    {
+      "match": "samquaPopcorn",
+      "image_id": 86892
+    }
+  ]
+}

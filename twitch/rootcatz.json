@@ -1,1 +1,47 @@
-{"name":"twitch-sub-rootcatz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"catzDOGE","image_id":5500},{"match":"catzWTF","image_id":4882},{"match":"catzDANCE","image_id":4884},{"match":"catzTROLL","image_id":4886},{"match":"catzROOT","image_id":4887},{"match":"catzPARTY","image_id":4885},{"match":"catzWEWIN","image_id":11458},{"match":"catzChamp","image_id":67419},{"match":"catzQWE","image_id":81811},{"match":"catzGENT","image_id":81936}]}
+{
+  "name": "twitch-sub-rootcatz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "catzDOGE",
+      "image_id": 5500
+    },
+    {
+      "match": "catzWTF",
+      "image_id": 4882
+    },
+    {
+      "match": "catzDANCE",
+      "image_id": 4884
+    },
+    {
+      "match": "catzTROLL",
+      "image_id": 4886
+    },
+    {
+      "match": "catzROOT",
+      "image_id": 4887
+    },
+    {
+      "match": "catzPARTY",
+      "image_id": 4885
+    },
+    {
+      "match": "catzWEWIN",
+      "image_id": 11458
+    },
+    {
+      "match": "catzChamp",
+      "image_id": 67419
+    },
+    {
+      "match": "catzQWE",
+      "image_id": 81811
+    },
+    {
+      "match": "catzGENT",
+      "image_id": 81936
+    }
+  ]
+}

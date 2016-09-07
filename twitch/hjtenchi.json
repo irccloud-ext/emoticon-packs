@@ -1,1 +1,47 @@
-{"name":"twitch-sub-hjtenchi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tenchiGreed","image_id":70142},{"match":"tenchiBM","image_id":70141},{"match":"tenchiLuck","image_id":46041},{"match":"tenchiGG","image_id":107475},{"match":"tenchiSteve","image_id":107477},{"match":"tenchiLewd","image_id":107835},{"match":"tenchiHype","image_id":107442},{"match":"tenchiFail","image_id":107441},{"match":"tenchiLove","image_id":107974},{"match":"tenchiYo","image_id":108052}]}
+{
+  "name": "twitch-sub-hjtenchi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tenchiGreed",
+      "image_id": 70142
+    },
+    {
+      "match": "tenchiBM",
+      "image_id": 70141
+    },
+    {
+      "match": "tenchiLuck",
+      "image_id": 46041
+    },
+    {
+      "match": "tenchiHype",
+      "image_id": 112499
+    },
+    {
+      "match": "tenchiGG",
+      "image_id": 107475
+    },
+    {
+      "match": "tenchiSteve",
+      "image_id": 107477
+    },
+    {
+      "match": "tenchiLewd",
+      "image_id": 107835
+    },
+    {
+      "match": "tenchiFail",
+      "image_id": 107441
+    },
+    {
+      "match": "tenchiLove",
+      "image_id": 107974
+    },
+    {
+      "match": "tenchiYo",
+      "image_id": 108052
+    }
+  ]
+}

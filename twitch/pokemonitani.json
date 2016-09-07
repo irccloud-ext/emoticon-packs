@@ -1,1 +1,31 @@
-{"name":"twitch-sub-pokemonitani","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"isaluteI","image_id":52348},{"match":"isaluteBb","image_id":52589},{"match":"isaluteB","image_id":52588},{"match":"isaluteL","image_id":52782},{"match":"isaluteR","image_id":53941},{"match":"isaluteS","image_id":53721}]}
+{
+  "name": "twitch-sub-pokemonitani",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "isaluteI",
+      "image_id": 52348
+    },
+    {
+      "match": "isaluteBb",
+      "image_id": 52589
+    },
+    {
+      "match": "isaluteB",
+      "image_id": 52588
+    },
+    {
+      "match": "isaluteL",
+      "image_id": 52782
+    },
+    {
+      "match": "isaluteR",
+      "image_id": 53941
+    },
+    {
+      "match": "isaluteS",
+      "image_id": 53721
+    }
+  ]
+}

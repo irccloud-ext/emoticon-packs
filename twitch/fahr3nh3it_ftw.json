@@ -1,1 +1,31 @@
-{"name":"twitch-sub-fahr3nh3it_ftw","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"Boy","image_id":9010},{"match":"Kill","image_id":9011},{"match":"Face","image_id":8942},{"match":"Beer","image_id":8943},{"match":"Bag","image_id":8979},{"match":"F3","image_id":9009}]}
+{
+  "name": "twitch-sub-fahr3nh3it_ftw",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "Boy",
+      "image_id": 9010
+    },
+    {
+      "match": "Kill",
+      "image_id": 9011
+    },
+    {
+      "match": "Face",
+      "image_id": 8942
+    },
+    {
+      "match": "Beer",
+      "image_id": 8943
+    },
+    {
+      "match": "Bag",
+      "image_id": 8979
+    },
+    {
+      "match": "F3",
+      "image_id": 9009
+    }
+  ]
+}

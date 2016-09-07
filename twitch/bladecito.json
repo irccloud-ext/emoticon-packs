@@ -1,1 +1,23 @@
-{"name":"twitch-sub-bladecito","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bladecitoPOIO","image_id":48508},{"match":"bladecitoBLADE","image_id":48601},{"match":"bladecitoVAC","image_id":80361},{"match":"bladecitoGG","image_id":84777}]}
+{
+  "name": "twitch-sub-bladecito",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bladecitoPOIO",
+      "image_id": 48508
+    },
+    {
+      "match": "bladecitoBLADE",
+      "image_id": 48601
+    },
+    {
+      "match": "bladecitoVAC",
+      "image_id": 80361
+    },
+    {
+      "match": "bladecitoGG",
+      "image_id": 84777
+    }
+  ]
+}

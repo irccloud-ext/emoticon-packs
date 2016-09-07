@@ -1,1 +1,23 @@
-{"name":"twitch-sub-rizzerstream","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pref131935Rizzviktoria","image_id":78984},{"match":"pref131935Dentkabuzka","image_id":78983},{"match":"pref131935RizzSzlaban","image_id":82060},{"match":"pref131935RizzCzacha","image_id":82059}]}
+{
+  "name": "twitch-sub-rizzerstream",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pref131935Rizzviktoria",
+      "image_id": 78984
+    },
+    {
+      "match": "pref131935Dentkabuzka",
+      "image_id": 78983
+    },
+    {
+      "match": "pref131935RizzSzlaban",
+      "image_id": 82060
+    },
+    {
+      "match": "pref131935RizzCzacha",
+      "image_id": 82059
+    }
+  ]
+}

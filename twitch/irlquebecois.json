@@ -1,1 +1,31 @@
-{"name":"twitch-sub-irlquebecois","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"iqcHEY","image_id":94762},{"match":"iqcLOL","image_id":94764},{"match":"iqcCASH","image_id":91971},{"match":"iqcRIP","image_id":91970},{"match":"iqcRAGE","image_id":91200},{"match":"iqcSHOT","image_id":91201}]}
+{
+  "name": "twitch-sub-irlquebecois",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "iqcHEY",
+      "image_id": 94762
+    },
+    {
+      "match": "iqcLOL",
+      "image_id": 94764
+    },
+    {
+      "match": "iqcCASH",
+      "image_id": 91971
+    },
+    {
+      "match": "iqcRIP",
+      "image_id": 91970
+    },
+    {
+      "match": "iqcRAGE",
+      "image_id": 91200
+    },
+    {
+      "match": "iqcSHOT",
+      "image_id": 91201
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-desertodtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"desertodBuzi","image_id":101277},{"match":"desertodPo","image_id":101543},{"match":"desertodHA","image_id":101541},{"match":"desertodOoops","image_id":105416},{"match":"desertodNya","image_id":94829},{"match":"desertodFail","image_id":105417}]}
+{
+  "name": "twitch-sub-desertodtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "desertodBuzi",
+      "image_id": 101277
+    },
+    {
+      "match": "desertodPo",
+      "image_id": 101543
+    },
+    {
+      "match": "desertodHA",
+      "image_id": 101541
+    },
+    {
+      "match": "desertodOoops",
+      "image_id": 105416
+    },
+    {
+      "match": "desertodNya",
+      "image_id": 94829
+    },
+    {
+      "match": "desertodFail",
+      "image_id": 105417
+    }
+  ]
+}

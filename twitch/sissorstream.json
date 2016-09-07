@@ -1,1 +1,47 @@
-{"name":"twitch-sub-sissorstream","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"luxCat","image_id":33107},{"match":"luxWTF","image_id":29729},{"match":"luxPretty","image_id":29728},{"match":"luxCry","image_id":98247},{"match":"luxTroll","image_id":98255},{"match":"luxRage","image_id":98254},{"match":"luxLove","image_id":98253},{"match":"luxHype","image_id":98252},{"match":"luxHi","image_id":98250},{"match":"luxFail","image_id":98249}]}
+{
+  "name": "twitch-sub-sissorstream",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "luxCat",
+      "image_id": 33107
+    },
+    {
+      "match": "luxWTF",
+      "image_id": 29729
+    },
+    {
+      "match": "luxPretty",
+      "image_id": 29728
+    },
+    {
+      "match": "luxCry",
+      "image_id": 98247
+    },
+    {
+      "match": "luxTroll",
+      "image_id": 98255
+    },
+    {
+      "match": "luxRage",
+      "image_id": 98254
+    },
+    {
+      "match": "luxLove",
+      "image_id": 98253
+    },
+    {
+      "match": "luxHype",
+      "image_id": 98252
+    },
+    {
+      "match": "luxHi",
+      "image_id": 98250
+    },
+    {
+      "match": "luxFail",
+      "image_id": 98249
+    }
+  ]
+}

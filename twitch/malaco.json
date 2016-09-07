@@ -1,1 +1,15 @@
-{"name":"twitch-sub-malaco","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"malaKappa","image_id":3576},{"match":"malaAT","image_id":27100}]}
+{
+  "name": "twitch-sub-malaco",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "malaKappa",
+      "image_id": 3576
+    },
+    {
+      "match": "malaAT",
+      "image_id": 27100
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-saphiratv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sapSwag","image_id":60958},{"match":"sapBeer","image_id":58985},{"match":"sapEde","image_id":47990},{"match":"sapBlacklight","image_id":47991},{"match":"sapGerman","image_id":59409},{"match":"sapRip","image_id":100300}]}
+{
+  "name": "twitch-sub-saphiratv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sapSwag",
+      "image_id": 60958
+    },
+    {
+      "match": "sapBeer",
+      "image_id": 58985
+    },
+    {
+      "match": "sapEde",
+      "image_id": 47990
+    },
+    {
+      "match": "sapBlacklight",
+      "image_id": 47991
+    },
+    {
+      "match": "sapGerman",
+      "image_id": 59409
+    },
+    {
+      "match": "sapRip",
+      "image_id": 100300
+    }
+  ]
+}

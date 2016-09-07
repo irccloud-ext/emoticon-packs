@@ -1,1 +1,39 @@
-{"name":"twitch-sub-nomanis","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nomStar","image_id":3208},{"match":"nomSta","image_id":3793},{"match":"nomCap","image_id":4535},{"match":"nomFail","image_id":7808},{"match":"nomNaked","image_id":8182},{"match":"nomDu","image_id":13172},{"match":"nomWub","image_id":13173},{"match":"nomTriggered","image_id":90116}]}
+{
+  "name": "twitch-sub-nomanis",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nomStar",
+      "image_id": 3208
+    },
+    {
+      "match": "nomSta",
+      "image_id": 3793
+    },
+    {
+      "match": "nomCap",
+      "image_id": 4535
+    },
+    {
+      "match": "nomFail",
+      "image_id": 7808
+    },
+    {
+      "match": "nomNaked",
+      "image_id": 8182
+    },
+    {
+      "match": "nomDu",
+      "image_id": 13172
+    },
+    {
+      "match": "nomWub",
+      "image_id": 13173
+    },
+    {
+      "match": "nomTriggered",
+      "image_id": 90116
+    }
+  ]
+}

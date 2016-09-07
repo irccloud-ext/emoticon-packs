@@ -1,1 +1,31 @@
-{"name":"twitch-sub-zeusidiouss","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zeuLow","image_id":104441},{"match":"zeuTAVUK","image_id":109674},{"match":"zeuTR","image_id":106639},{"match":"zeuBET","image_id":106641},{"match":"zeuREKT","image_id":106640},{"match":"zeuHype","image_id":106453}]}
+{
+  "name": "twitch-sub-zeusidiouss",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zeuLow",
+      "image_id": 104441
+    },
+    {
+      "match": "zeuTAVUK",
+      "image_id": 109674
+    },
+    {
+      "match": "zeuTR",
+      "image_id": 106639
+    },
+    {
+      "match": "zeuBET",
+      "image_id": 106641
+    },
+    {
+      "match": "zeuREKT",
+      "image_id": 106640
+    },
+    {
+      "match": "zeuHype",
+      "image_id": 106453
+    }
+  ]
+}

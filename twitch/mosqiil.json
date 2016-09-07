@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mosqiil","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"uniHURT","image_id":46307},{"match":"uniMADBRO","image_id":46308},{"match":"uniKebbe","image_id":46309},{"match":"uniHORN","image_id":46310},{"match":"uniBUTT","image_id":46311},{"match":"uniLOVE","image_id":46312}]}
+{
+  "name": "twitch-sub-mosqiil",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "uniHURT",
+      "image_id": 46307
+    },
+    {
+      "match": "uniMADBRO",
+      "image_id": 46308
+    },
+    {
+      "match": "uniKebbe",
+      "image_id": 46309
+    },
+    {
+      "match": "uniHORN",
+      "image_id": 46310
+    },
+    {
+      "match": "uniBUTT",
+      "image_id": 46311
+    },
+    {
+      "match": "uniLOVE",
+      "image_id": 46312
+    }
+  ]
+}

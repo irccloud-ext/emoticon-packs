@@ -1,1 +1,31 @@
-{"name":"twitch-sub-sir_koroshi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"koroRip","image_id":7418},{"match":"koroPimp","image_id":8974},{"match":"koroCoffee","image_id":11980},{"match":"koroGG","image_id":13313},{"match":"koroKappa","image_id":25107},{"match":"koroHeart","image_id":49977}]}
+{
+  "name": "twitch-sub-sir_koroshi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "koroRip",
+      "image_id": 7418
+    },
+    {
+      "match": "koroPimp",
+      "image_id": 8974
+    },
+    {
+      "match": "koroCoffee",
+      "image_id": 11980
+    },
+    {
+      "match": "koroGG",
+      "image_id": 13313
+    },
+    {
+      "match": "koroKappa",
+      "image_id": 25107
+    },
+    {
+      "match": "koroHeart",
+      "image_id": 49977
+    }
+  ]
+}

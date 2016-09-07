@@ -1,1 +1,31 @@
-{"name":"twitch-sub-hristivoje","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pavPiano","image_id":92521},{"match":"pavDish","image_id":88162},{"match":"pavLion","image_id":88991},{"match":"pavScoop","image_id":91763},{"match":"pavMomo","image_id":91265},{"match":"pavLawl","image_id":91394}]}
+{
+  "name": "twitch-sub-hristivoje",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pavPiano",
+      "image_id": 92521
+    },
+    {
+      "match": "pavDish",
+      "image_id": 88162
+    },
+    {
+      "match": "pavLion",
+      "image_id": 88991
+    },
+    {
+      "match": "pavScoop",
+      "image_id": 91763
+    },
+    {
+      "match": "pavMomo",
+      "image_id": 91265
+    },
+    {
+      "match": "pavLawl",
+      "image_id": 91394
+    }
+  ]
+}

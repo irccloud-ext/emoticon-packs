@@ -1,1 +1,23 @@
-{"name":"twitch-sub-allahdiyenrengarr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tarduREKT","image_id":109933},{"match":"tarduHYPE","image_id":109932}]}
+{
+  "name": "twitch-sub-allahdiyenrengarr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tarduREKT",
+      "image_id": 109933
+    },
+    {
+      "match": "tarduHYPE",
+      "image_id": 109932
+    },
+    {
+      "match": "tarduEgo",
+      "image_id": 112257
+    },
+    {
+      "match": "tarduGG",
+      "image_id": 112258
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-caketaro","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"taroDork","image_id":90873},{"match":"taroLove","image_id":90285},{"match":"taroHi","image_id":90287},{"match":"taroOne","image_id":92278},{"match":"taroTilt","image_id":90866},{"match":"taroGasm","image_id":90865}]}
+{
+  "name": "twitch-sub-caketaro",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "taroDork",
+      "image_id": 90873
+    },
+    {
+      "match": "taroLove",
+      "image_id": 90285
+    },
+    {
+      "match": "taroHi",
+      "image_id": 90287
+    },
+    {
+      "match": "taroOne",
+      "image_id": 92278
+    },
+    {
+      "match": "taroTilt",
+      "image_id": 90866
+    },
+    {
+      "match": "taroGasm",
+      "image_id": 90865
+    }
+  ]
+}

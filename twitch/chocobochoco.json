@@ -1,1 +1,39 @@
-{"name":"twitch-sub-chocobochoco","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kwehKweh","image_id":14373},{"match":"kwehChoco","image_id":14497},{"match":"kwehHeart","image_id":17775},{"match":"kwehBeats","image_id":17793},{"match":"kwehRage","image_id":34262},{"match":"kwehQQ","image_id":29845},{"match":"kwehKappa","image_id":33219},{"match":"kwehFail","image_id":32471}]}
+{
+  "name": "twitch-sub-chocobochoco",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kwehKweh",
+      "image_id": 14373
+    },
+    {
+      "match": "kwehChoco",
+      "image_id": 14497
+    },
+    {
+      "match": "kwehHeart",
+      "image_id": 17775
+    },
+    {
+      "match": "kwehBeats",
+      "image_id": 17793
+    },
+    {
+      "match": "kwehRage",
+      "image_id": 34262
+    },
+    {
+      "match": "kwehQQ",
+      "image_id": 29845
+    },
+    {
+      "match": "kwehKappa",
+      "image_id": 33219
+    },
+    {
+      "match": "kwehFail",
+      "image_id": 32471
+    }
+  ]
+}

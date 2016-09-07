@@ -1,1 +1,67 @@
-{"name":"twitch-sub-inthelittlewood","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"itlwRekt","image_id":51807},{"match":"itlwLol","image_id":11123},{"match":"itlwRage","image_id":60012},{"match":"itlwLoot","image_id":49437},{"match":"itlwJj","image_id":49489},{"match":"itlwRip","image_id":51439},{"match":"itlwLove","image_id":51704},{"match":"itlwDance","image_id":51691},{"match":"itlwHype","image_id":50669},{"match":"itlwFail","image_id":59834},{"match":"itlwCry","image_id":68620},{"match":"itlwHappy","image_id":68621},{"match":"itlw711","image_id":68622},{"match":"itlwOmg","image_id":68623},{"match":"itlwW","image_id":68625}]}
+{
+  "name": "twitch-sub-inthelittlewood",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "itlwRekt",
+      "image_id": 51807
+    },
+    {
+      "match": "itlwLol",
+      "image_id": 11123
+    },
+    {
+      "match": "itlwRage",
+      "image_id": 60012
+    },
+    {
+      "match": "itlwLoot",
+      "image_id": 49437
+    },
+    {
+      "match": "itlwJj",
+      "image_id": 49489
+    },
+    {
+      "match": "itlwRip",
+      "image_id": 51439
+    },
+    {
+      "match": "itlwLove",
+      "image_id": 51704
+    },
+    {
+      "match": "itlwDance",
+      "image_id": 51691
+    },
+    {
+      "match": "itlwHype",
+      "image_id": 50669
+    },
+    {
+      "match": "itlwFail",
+      "image_id": 59834
+    },
+    {
+      "match": "itlwCry",
+      "image_id": 68620
+    },
+    {
+      "match": "itlwHappy",
+      "image_id": 68621
+    },
+    {
+      "match": "itlw711",
+      "image_id": 68622
+    },
+    {
+      "match": "itlwOmg",
+      "image_id": 68623
+    },
+    {
+      "match": "itlwW",
+      "image_id": 68625
+    }
+  ]
+}

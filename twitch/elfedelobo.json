@@ -1,1 +1,23 @@
-{"name":"twitch-sub-elfedelobo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"loboEpico","image_id":35664},{"match":"loboJulion","image_id":35028},{"match":"loboFijate","image_id":40009},{"match":"loboDora","image_id":40013}]}
+{
+  "name": "twitch-sub-elfedelobo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "loboEpico",
+      "image_id": 35664
+    },
+    {
+      "match": "loboJulion",
+      "image_id": 35028
+    },
+    {
+      "match": "loboFijate",
+      "image_id": 40009
+    },
+    {
+      "match": "loboDora",
+      "image_id": 40013
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-shaolindota","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shaoDog","image_id":105958},{"match":"shao1d","image_id":100703},{"match":"shaoSad","image_id":100705},{"match":"shao322","image_id":106069}]}
+{
+  "name": "twitch-sub-shaolindota",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shaoDog",
+      "image_id": 105958
+    },
+    {
+      "match": "shao1d",
+      "image_id": 100703
+    },
+    {
+      "match": "shaoSad",
+      "image_id": 100705
+    },
+    {
+      "match": "shao322",
+      "image_id": 106069
+    }
+  ]
+}

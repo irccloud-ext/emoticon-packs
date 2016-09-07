@@ -1,1 +1,27 @@
-{"name":"twitch-sub-drwallin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"drwDerp","image_id":97410},{"match":"drwRRR","image_id":91764},{"match":"drwFire","image_id":91765},{"match":"drwH","image_id":102113},{"match":"drwXD","image_id":106597}]}
+{
+  "name": "twitch-sub-drwallin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "drwDerp",
+      "image_id": 97410
+    },
+    {
+      "match": "drwRRR",
+      "image_id": 91764
+    },
+    {
+      "match": "drwFire",
+      "image_id": 91765
+    },
+    {
+      "match": "drwH",
+      "image_id": 102113
+    },
+    {
+      "match": "drwXD",
+      "image_id": 106597
+    }
+  ]
+}

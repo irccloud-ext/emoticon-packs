@@ -1,1 +1,11 @@
-{"name":"twitch-sub-xtitovashx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"holavashHolavash","image_id":111286}]}
+{
+  "name": "twitch-sub-xtitovashx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "holavashHolavash",
+      "image_id": 111286
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-starlet_blossom","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"starletK","image_id":78036},{"match":"starletHype","image_id":78034},{"match":"starletLurk","image_id":78033},{"match":"starletLove","image_id":78030},{"match":"starletBoosh","image_id":78029},{"match":"starletPigeon","image_id":78031},{"match":"starletSass","image_id":78032},{"match":"starletRage","image_id":78035}]}
+{
+  "name": "twitch-sub-starlet_blossom",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "starletK",
+      "image_id": 78036
+    },
+    {
+      "match": "starletHype",
+      "image_id": 78034
+    },
+    {
+      "match": "starletLurk",
+      "image_id": 78033
+    },
+    {
+      "match": "starletLove",
+      "image_id": 78030
+    },
+    {
+      "match": "starletBoosh",
+      "image_id": 78029
+    },
+    {
+      "match": "starletPigeon",
+      "image_id": 78031
+    },
+    {
+      "match": "starletSass",
+      "image_id": 78032
+    },
+    {
+      "match": "starletRage",
+      "image_id": 78035
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-taketheelevator_twitch","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"br0Fire","image_id":42187},{"match":"br0HORROR","image_id":43793},{"match":"br0Tukan","image_id":79897},{"match":"br0PiratKappa","image_id":79450}]}
+{
+  "name": "twitch-sub-taketheelevator_twitch",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "br0Fire",
+      "image_id": 42187
+    },
+    {
+      "match": "br0HORROR",
+      "image_id": 43793
+    },
+    {
+      "match": "br0Tukan",
+      "image_id": 79897
+    },
+    {
+      "match": "br0PiratKappa",
+      "image_id": 79450
+    }
+  ]
+}

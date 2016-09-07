@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ultimaomega07","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ultiShark","image_id":17528},{"match":"ultiWasted","image_id":17499},{"match":"ultiNice","image_id":20623},{"match":"ultiDuping","image_id":70465}]}
+{
+  "name": "twitch-sub-ultimaomega07",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ultiShark",
+      "image_id": 17528
+    },
+    {
+      "match": "ultiWasted",
+      "image_id": 17499
+    },
+    {
+      "match": "ultiNice",
+      "image_id": 20623
+    },
+    {
+      "match": "ultiDuping",
+      "image_id": 70465
+    }
+  ]
+}

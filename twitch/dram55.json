@@ -1,1 +1,31 @@
-{"name":"twitch-sub-dram55","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dramCat","image_id":66803},{"match":"dramAhh","image_id":36531},{"match":"dramYoshi","image_id":39536},{"match":"dramBoo","image_id":73141},{"match":"dramShoe","image_id":86277},{"match":"dramPoo","image_id":86278}]}
+{
+  "name": "twitch-sub-dram55",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dramCat",
+      "image_id": 66803
+    },
+    {
+      "match": "dramAhh",
+      "image_id": 36531
+    },
+    {
+      "match": "dramYoshi",
+      "image_id": 39536
+    },
+    {
+      "match": "dramBoo",
+      "image_id": 73141
+    },
+    {
+      "match": "dramShoe",
+      "image_id": 86277
+    },
+    {
+      "match": "dramPoo",
+      "image_id": 86278
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-rax1337","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"raxSkins","image_id":21101},{"match":"raxDiamant","image_id":21121},{"match":"raxBus","image_id":74184},{"match":"raxCiao","image_id":74185},{"match":"raxKappa","image_id":74186},{"match":"raxJack","image_id":74492}]}
+{
+  "name": "twitch-sub-rax1337",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "raxSkins",
+      "image_id": 21101
+    },
+    {
+      "match": "raxDiamant",
+      "image_id": 21121
+    },
+    {
+      "match": "raxBus",
+      "image_id": 74184
+    },
+    {
+      "match": "raxCiao",
+      "image_id": 74185
+    },
+    {
+      "match": "raxKappa",
+      "image_id": 74186
+    },
+    {
+      "match": "raxJack",
+      "image_id": 74492
+    }
+  ]
+}

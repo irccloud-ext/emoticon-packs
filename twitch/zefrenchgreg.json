@@ -1,1 +1,31 @@
-{"name":"twitch-sub-zefrenchgreg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"greMLG","image_id":52394},{"match":"greFail","image_id":44660},{"match":"greSub","image_id":44659},{"match":"greHey","image_id":44967},{"match":"gre18","image_id":97649},{"match":"greCry","image_id":95130}]}
+{
+  "name": "twitch-sub-zefrenchgreg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "greMLG",
+      "image_id": 52394
+    },
+    {
+      "match": "greFail",
+      "image_id": 44660
+    },
+    {
+      "match": "greSub",
+      "image_id": 44659
+    },
+    {
+      "match": "greHey",
+      "image_id": 44967
+    },
+    {
+      "match": "gre18",
+      "image_id": 97649
+    },
+    {
+      "match": "greCry",
+      "image_id": 95130
+    }
+  ]
+}

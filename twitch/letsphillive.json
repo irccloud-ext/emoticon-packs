@@ -1,1 +1,19 @@
-{"name":"twitch-sub-letsphillive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"letsphilGetRekt","image_id":88374},{"match":"letsphilBreakingBad","image_id":87421},{"match":"letsphilGG","image_id":87419}]}
+{
+  "name": "twitch-sub-letsphillive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "letsphilGetRekt",
+      "image_id": 88374
+    },
+    {
+      "match": "letsphilBreakingBad",
+      "image_id": 87421
+    },
+    {
+      "match": "letsphilGG",
+      "image_id": 87419
+    }
+  ]
+}

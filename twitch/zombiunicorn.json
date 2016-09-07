@@ -1,1 +1,47 @@
-{"name":"twitch-sub-zombiunicorn","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zombiKappa","image_id":4909},{"match":"zombiKindly","image_id":4964},{"match":"zombiHype","image_id":7595},{"match":"zombiHot","image_id":9689},{"match":"zombiLove","image_id":13608},{"match":"zombiFeels","image_id":71292},{"match":"zombiR","image_id":71291},{"match":"zombiBobs","image_id":71277},{"match":"zombiT","image_id":46168},{"match":"zombiG","image_id":71883}]}
+{
+  "name": "twitch-sub-zombiunicorn",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zombiKappa",
+      "image_id": 4909
+    },
+    {
+      "match": "zombiKindly",
+      "image_id": 4964
+    },
+    {
+      "match": "zombiHype",
+      "image_id": 7595
+    },
+    {
+      "match": "zombiHot",
+      "image_id": 9689
+    },
+    {
+      "match": "zombiLove",
+      "image_id": 13608
+    },
+    {
+      "match": "zombiFeels",
+      "image_id": 71292
+    },
+    {
+      "match": "zombiR",
+      "image_id": 71291
+    },
+    {
+      "match": "zombiBobs",
+      "image_id": 71277
+    },
+    {
+      "match": "zombiT",
+      "image_id": 46168
+    },
+    {
+      "match": "zombiG",
+      "image_id": 71883
+    }
+  ]
+}

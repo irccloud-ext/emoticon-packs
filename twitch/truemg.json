@@ -1,1 +1,39 @@
-{"name":"twitch-sub-truemg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"truYAY","image_id":25990},{"match":"truOHAI","image_id":26117},{"match":"truKappa","image_id":25267},{"match":"truDerp","image_id":25197},{"match":"truEvil","image_id":25202},{"match":"truWAT","image_id":26875},{"match":"truBOAH","image_id":30310},{"match":"truGetestet","image_id":37832}]}
+{
+  "name": "twitch-sub-truemg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "truYAY",
+      "image_id": 25990
+    },
+    {
+      "match": "truOHAI",
+      "image_id": 26117
+    },
+    {
+      "match": "truKappa",
+      "image_id": 25267
+    },
+    {
+      "match": "truDerp",
+      "image_id": 25197
+    },
+    {
+      "match": "truEvil",
+      "image_id": 25202
+    },
+    {
+      "match": "truWAT",
+      "image_id": 26875
+    },
+    {
+      "match": "truBOAH",
+      "image_id": 30310
+    },
+    {
+      "match": "truGetestet",
+      "image_id": 37832
+    }
+  ]
+}

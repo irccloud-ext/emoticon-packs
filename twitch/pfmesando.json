@@ -1,1 +1,15 @@
-{"name":"twitch-sub-pfmesando","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sandoHaha","image_id":78639},{"match":"sandoBBak","image_id":78640}]}
+{
+  "name": "twitch-sub-pfmesando",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sandoHaha",
+      "image_id": 78639
+    },
+    {
+      "match": "sandoBBak",
+      "image_id": 78640
+    }
+  ]
+}

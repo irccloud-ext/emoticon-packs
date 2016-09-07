@@ -1,1 +1,27 @@
-{"name":"twitch-sub-avidyazen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zenCake","image_id":25588},{"match":"zenHype","image_id":35578},{"match":"zenYeah","image_id":48530},{"match":"zenPalm","image_id":48529},{"match":"zenItch","image_id":48960}]}
+{
+  "name": "twitch-sub-avidyazen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zenCake",
+      "image_id": 25588
+    },
+    {
+      "match": "zenHype",
+      "image_id": 35578
+    },
+    {
+      "match": "zenYeah",
+      "image_id": 48530
+    },
+    {
+      "match": "zenPalm",
+      "image_id": 48529
+    },
+    {
+      "match": "zenItch",
+      "image_id": 48960
+    }
+  ]
+}

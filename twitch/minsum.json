@@ -1,1 +1,31 @@
-{"name":"twitch-sub-minsum","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"minsumAkali","image_id":26951},{"match":"minsumSass","image_id":96980},{"match":"minsumRage","image_id":96982},{"match":"minsumH","image_id":96983},{"match":"minsumOho","image_id":96984},{"match":"minsumLol","image_id":108830}]}
+{
+  "name": "twitch-sub-minsum",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "minsumAkali",
+      "image_id": 26951
+    },
+    {
+      "match": "minsumSass",
+      "image_id": 96980
+    },
+    {
+      "match": "minsumRage",
+      "image_id": 96982
+    },
+    {
+      "match": "minsumH",
+      "image_id": 96983
+    },
+    {
+      "match": "minsumOho",
+      "image_id": 96984
+    },
+    {
+      "match": "minsumLol",
+      "image_id": 108830
+    }
+  ]
+}

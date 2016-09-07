@@ -1,1 +1,27 @@
-{"name":"twitch-sub-big_c_richy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"richyLit","image_id":85663},{"match":"richyKappa","image_id":44835},{"match":"richyExposed","image_id":73079},{"match":"richyCheesy","image_id":94780},{"match":"richyHaha","image_id":102250}]}
+{
+  "name": "twitch-sub-big_c_richy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "richyLit",
+      "image_id": 85663
+    },
+    {
+      "match": "richyKappa",
+      "image_id": 44835
+    },
+    {
+      "match": "richyExposed",
+      "image_id": 73079
+    },
+    {
+      "match": "richyCheesy",
+      "image_id": 94780
+    },
+    {
+      "match": "richyHaha",
+      "image_id": 102250
+    }
+  ]
+}

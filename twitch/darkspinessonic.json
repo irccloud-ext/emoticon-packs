@@ -1,1 +1,39 @@
-{"name":"twitch-sub-darkspinessonic","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dssLongFace","image_id":4455},{"match":"dssSanic","image_id":16501},{"match":"dssClap","image_id":14119},{"match":"dssSuper","image_id":27117},{"match":"dssTaels","image_id":21037},{"match":"dssM","image_id":79878},{"match":"dssREKT","image_id":88869},{"match":"dssL","image_id":100771}]}
+{
+  "name": "twitch-sub-darkspinessonic",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dssLongFace",
+      "image_id": 4455
+    },
+    {
+      "match": "dssSanic",
+      "image_id": 16501
+    },
+    {
+      "match": "dssClap",
+      "image_id": 14119
+    },
+    {
+      "match": "dssSuper",
+      "image_id": 27117
+    },
+    {
+      "match": "dssTaels",
+      "image_id": 21037
+    },
+    {
+      "match": "dssM",
+      "image_id": 79878
+    },
+    {
+      "match": "dssREKT",
+      "image_id": 88869
+    },
+    {
+      "match": "dssL",
+      "image_id": 100771
+    }
+  ]
+}

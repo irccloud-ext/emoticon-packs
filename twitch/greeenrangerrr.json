@@ -1,1 +1,23 @@
-{"name":"twitch-sub-greeenrangerrr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ggflexHype","image_id":98012},{"match":"ggflex2Deep","image_id":98009},{"match":"ggflexRekt","image_id":98008},{"match":"ggflexOPness","image_id":98007}]}
+{
+  "name": "twitch-sub-greeenrangerrr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ggflexHype",
+      "image_id": 98012
+    },
+    {
+      "match": "ggflex2Deep",
+      "image_id": 98009
+    },
+    {
+      "match": "ggflexRekt",
+      "image_id": 98008
+    },
+    {
+      "match": "ggflexOPness",
+      "image_id": 98007
+    }
+  ]
+}

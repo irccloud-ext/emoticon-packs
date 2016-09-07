@@ -1,1 +1,35 @@
-{"name":"twitch-sub-thefyreuk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fyreHat","image_id":37065},{"match":"fyreOpen","image_id":37449},{"match":"fyreJeremy","image_id":37454},{"match":"fyreDing","image_id":44390},{"match":"fyreTom","image_id":44394},{"match":"fyrePhil","image_id":44393},{"match":"fyreMatt","image_id":44392}]}
+{
+  "name": "twitch-sub-thefyreuk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fyreHat",
+      "image_id": 37065
+    },
+    {
+      "match": "fyreOpen",
+      "image_id": 37449
+    },
+    {
+      "match": "fyreJeremy",
+      "image_id": 37454
+    },
+    {
+      "match": "fyreDing",
+      "image_id": 44390
+    },
+    {
+      "match": "fyreTom",
+      "image_id": 44394
+    },
+    {
+      "match": "fyrePhil",
+      "image_id": 44393
+    },
+    {
+      "match": "fyreMatt",
+      "image_id": 44392
+    }
+  ]
+}

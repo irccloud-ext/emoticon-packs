@@ -1,1 +1,39 @@
-{"name":"twitch-sub-mentally","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"menGG","image_id":49080},{"match":"menRekt","image_id":60924},{"match":"menCock","image_id":79790},{"match":"menHH","image_id":47675},{"match":"menMLG","image_id":47676},{"match":"menSnow","image_id":48722},{"match":"menLuck","image_id":60860},{"match":"menHey","image_id":92857}]}
+{
+  "name": "twitch-sub-mentally",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "menGG",
+      "image_id": 49080
+    },
+    {
+      "match": "menRekt",
+      "image_id": 60924
+    },
+    {
+      "match": "menCock",
+      "image_id": 79790
+    },
+    {
+      "match": "menHH",
+      "image_id": 47675
+    },
+    {
+      "match": "menMLG",
+      "image_id": 47676
+    },
+    {
+      "match": "menSnow",
+      "image_id": 48722
+    },
+    {
+      "match": "menLuck",
+      "image_id": 60860
+    },
+    {
+      "match": "menHey",
+      "image_id": 92857
+    }
+  ]
+}

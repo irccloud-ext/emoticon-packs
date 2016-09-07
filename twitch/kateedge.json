@@ -1,1 +1,47 @@
-{"name":"twitch-sub-kateedge","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kedgeCry","image_id":59127},{"match":"kedgeBlind","image_id":20963},{"match":"kedgeUnsub","image_id":20964},{"match":"kedgeFlex","image_id":20260},{"match":"kedgeHeart","image_id":20333},{"match":"kedgeFancy","image_id":20334},{"match":"kedgeChair","image_id":21942},{"match":"kedgeGasm","image_id":48553},{"match":"kedgeHype","image_id":59129},{"match":"kedgeLurk","image_id":60626}]}
+{
+  "name": "twitch-sub-kateedge",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kedgeCry",
+      "image_id": 59127
+    },
+    {
+      "match": "kedgeBlind",
+      "image_id": 20963
+    },
+    {
+      "match": "kedgeUnsub",
+      "image_id": 20964
+    },
+    {
+      "match": "kedgeFlex",
+      "image_id": 20260
+    },
+    {
+      "match": "kedgeHeart",
+      "image_id": 20333
+    },
+    {
+      "match": "kedgeFancy",
+      "image_id": 20334
+    },
+    {
+      "match": "kedgeChair",
+      "image_id": 21942
+    },
+    {
+      "match": "kedgeGasm",
+      "image_id": 48553
+    },
+    {
+      "match": "kedgeHype",
+      "image_id": 59129
+    },
+    {
+      "match": "kedgeLurk",
+      "image_id": 60626
+    }
+  ]
+}

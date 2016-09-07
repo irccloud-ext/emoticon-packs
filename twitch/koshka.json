@@ -1,1 +1,15 @@
-{"name":"twitch-sub-koshka","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"itsNova","image_id":24912},{"match":"itsChen","image_id":25049}]}
+{
+  "name": "twitch-sub-koshka",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "itsNova",
+      "image_id": 24912
+    },
+    {
+      "match": "itsChen",
+      "image_id": 25049
+    }
+  ]
+}

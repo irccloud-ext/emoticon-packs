@@ -1,1 +1,39 @@
-{"name":"twitch-sub-dreaminpastels","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dipWink","image_id":95632},{"match":"dipSempai","image_id":42245},{"match":"dipPie","image_id":42244},{"match":"dipSpudhype","image_id":38547},{"match":"dipSmam","image_id":95925},{"match":"dipThesex","image_id":52875},{"match":"dipWat","image_id":74507},{"match":"dipSup","image_id":74508}]}
+{
+  "name": "twitch-sub-dreaminpastels",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dipWink",
+      "image_id": 95632
+    },
+    {
+      "match": "dipSempai",
+      "image_id": 42245
+    },
+    {
+      "match": "dipPie",
+      "image_id": 42244
+    },
+    {
+      "match": "dipSpudhype",
+      "image_id": 38547
+    },
+    {
+      "match": "dipSmam",
+      "image_id": 95925
+    },
+    {
+      "match": "dipThesex",
+      "image_id": 52875
+    },
+    {
+      "match": "dipWat",
+      "image_id": 74507
+    },
+    {
+      "match": "dipSup",
+      "image_id": 74508
+    }
+  ]
+}

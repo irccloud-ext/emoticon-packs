@@ -1,1 +1,87 @@
-{"name":"twitch-sub-ehhgony","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"agonyWOT","image_id":50876},{"match":"agonyEW","image_id":106488},{"match":"agonyHITMARKER","image_id":73847},{"match":"agonyLOVE","image_id":73850},{"match":"agonySUB","image_id":73852},{"match":"agonyRIP","image_id":73856},{"match":"agonyCLIP","image_id":73408},{"match":"agonyCHOKE","image_id":73425},{"match":"agonyDONATION","image_id":77852},{"match":"agonySHREKT","image_id":78255},{"match":"agonyLAG","image_id":80831},{"match":"agonySAVAGE","image_id":80832},{"match":"agonySAD","image_id":81411},{"match":"agonyHEUH","image_id":106320},{"match":"agonyTURNT","image_id":87350},{"match":"agonyRAGE","image_id":106367},{"match":"agonyOHMY","image_id":106324},{"match":"agonyWHADDUP","image_id":106323},{"match":"agonyDEVIN","image_id":106322},{"match":"agonyLIT","image_id":106321}]}
+{
+  "name": "twitch-sub-ehhgony",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "agonyWOT",
+      "image_id": 50876
+    },
+    {
+      "match": "agonyEW",
+      "image_id": 106488
+    },
+    {
+      "match": "agonyHITMARKER",
+      "image_id": 73847
+    },
+    {
+      "match": "agonyLOVE",
+      "image_id": 73850
+    },
+    {
+      "match": "agonySUB",
+      "image_id": 73852
+    },
+    {
+      "match": "agonyRIP",
+      "image_id": 73856
+    },
+    {
+      "match": "agonyCLIP",
+      "image_id": 73408
+    },
+    {
+      "match": "agonyCHOKE",
+      "image_id": 73425
+    },
+    {
+      "match": "agonyDONATION",
+      "image_id": 77852
+    },
+    {
+      "match": "agonySHREKT",
+      "image_id": 78255
+    },
+    {
+      "match": "agonyLAG",
+      "image_id": 80831
+    },
+    {
+      "match": "agonySAVAGE",
+      "image_id": 80832
+    },
+    {
+      "match": "agonySAD",
+      "image_id": 81411
+    },
+    {
+      "match": "agonyHEUH",
+      "image_id": 106320
+    },
+    {
+      "match": "agonyTURNT",
+      "image_id": 87350
+    },
+    {
+      "match": "agonyRAGE",
+      "image_id": 106367
+    },
+    {
+      "match": "agonyOHMY",
+      "image_id": 106324
+    },
+    {
+      "match": "agonyWHADDUP",
+      "image_id": 106323
+    },
+    {
+      "match": "agonyDEVIN",
+      "image_id": 106322
+    },
+    {
+      "match": "agonyLIT",
+      "image_id": 106321
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-dgminise","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"miniseKappa","image_id":76890},{"match":"miniseDrewno","image_id":80002},{"match":"miniseCios","image_id":80000},{"match":"miniseTutorial","image_id":76898},{"match":"miniseToxic","image_id":76889},{"match":"miniseJoker","image_id":80127}]}
+{
+  "name": "twitch-sub-dgminise",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "miniseKappa",
+      "image_id": 76890
+    },
+    {
+      "match": "miniseDrewno",
+      "image_id": 80002
+    },
+    {
+      "match": "miniseCios",
+      "image_id": 80000
+    },
+    {
+      "match": "miniseTutorial",
+      "image_id": 76898
+    },
+    {
+      "match": "miniseToxic",
+      "image_id": 76889
+    },
+    {
+      "match": "miniseJoker",
+      "image_id": 80127
+    }
+  ]
+}

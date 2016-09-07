@@ -1,1 +1,39 @@
-{"name":"twitch-sub-keizaron","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"keizaClub","image_id":109217},{"match":"keizaBag","image_id":109087},{"match":"keiza75","image_id":109060},{"match":"keizaRage","image_id":109191},{"match":"keizaFraud","image_id":109192},{"match":"keizaNeat","image_id":109091},{"match":"keizaW","image_id":109930},{"match":"keizaZ","image_id":110687}]}
+{
+  "name": "twitch-sub-keizaron",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "keizaClub",
+      "image_id": 109217
+    },
+    {
+      "match": "keizaBag",
+      "image_id": 112566
+    },
+    {
+      "match": "keiza75",
+      "image_id": 109060
+    },
+    {
+      "match": "keizaRage",
+      "image_id": 109191
+    },
+    {
+      "match": "keizaFraud",
+      "image_id": 109192
+    },
+    {
+      "match": "keizaNeat",
+      "image_id": 109091
+    },
+    {
+      "match": "keizaW",
+      "image_id": 109930
+    },
+    {
+      "match": "keizaZ",
+      "image_id": 110687
+    }
+  ]
+}

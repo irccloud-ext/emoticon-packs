@@ -1,1 +1,47 @@
-{"name":"twitch-sub-snipernamedg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sngDunked","image_id":13902},{"match":"sngH","image_id":51322},{"match":"sngSad","image_id":96031},{"match":"sngLit","image_id":95950},{"match":"sngMad","image_id":96032},{"match":"sngDone","image_id":92870},{"match":"sngTrap","image_id":92872},{"match":"sngRip","image_id":92994},{"match":"sngHype","image_id":96159},{"match":"sngLoot","image_id":96266}]}
+{
+  "name": "twitch-sub-snipernamedg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sngDunked",
+      "image_id": 13902
+    },
+    {
+      "match": "sngH",
+      "image_id": 51322
+    },
+    {
+      "match": "sngSad",
+      "image_id": 96031
+    },
+    {
+      "match": "sngLit",
+      "image_id": 95950
+    },
+    {
+      "match": "sngMad",
+      "image_id": 96032
+    },
+    {
+      "match": "sngDone",
+      "image_id": 92870
+    },
+    {
+      "match": "sngTrap",
+      "image_id": 92872
+    },
+    {
+      "match": "sngRip",
+      "image_id": 92994
+    },
+    {
+      "match": "sngHype",
+      "image_id": 96159
+    },
+    {
+      "match": "sngLoot",
+      "image_id": 96266
+    }
+  ]
+}

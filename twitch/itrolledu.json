@@ -1,1 +1,23 @@
-{"name":"twitch-sub-itrolledu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kenHYPE","image_id":16937},{"match":"kenBrody","image_id":16936},{"match":"kenMaul","image_id":37479},{"match":"kenW","image_id":44333}]}
+{
+  "name": "twitch-sub-itrolledu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kenHYPE",
+      "image_id": 16937
+    },
+    {
+      "match": "kenBrody",
+      "image_id": 16936
+    },
+    {
+      "match": "kenMaul",
+      "image_id": 37479
+    },
+    {
+      "match": "kenW",
+      "image_id": 44333
+    }
+  ]
+}

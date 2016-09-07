@@ -1,1 +1,39 @@
-{"name":"twitch-sub-gogettao","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gogCry","image_id":99346},{"match":"gogHype","image_id":99345},{"match":"gogRage","image_id":99342},{"match":"gogLove","image_id":99343},{"match":"gogGg","image_id":99344},{"match":"gogMadeira","image_id":81363},{"match":"gogPinou","image_id":99371},{"match":"gogKappa","image_id":99372}]}
+{
+  "name": "twitch-sub-gogettao",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gogCry",
+      "image_id": 99346
+    },
+    {
+      "match": "gogHype",
+      "image_id": 99345
+    },
+    {
+      "match": "gogRage",
+      "image_id": 99342
+    },
+    {
+      "match": "gogLove",
+      "image_id": 99343
+    },
+    {
+      "match": "gogGg",
+      "image_id": 99344
+    },
+    {
+      "match": "gogMadeira",
+      "image_id": 81363
+    },
+    {
+      "match": "gogPinou",
+      "image_id": 99371
+    },
+    {
+      "match": "gogKappa",
+      "image_id": 99372
+    }
+  ]
+}

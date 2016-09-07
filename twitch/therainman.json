@@ -1,1 +1,39 @@
-{"name":"twitch-sub-therainman","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"trmDorans","image_id":653},{"match":"trmShroom","image_id":16035},{"match":"trmTrm","image_id":16191},{"match":"trmAfro","image_id":16192},{"match":"trmSally","image_id":16238},{"match":"trmKeemo","image_id":17377},{"match":"trmDunk","image_id":59892},{"match":"trmHype","image_id":38766}]}
+{
+  "name": "twitch-sub-therainman",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "trmDorans",
+      "image_id": 653
+    },
+    {
+      "match": "trmShroom",
+      "image_id": 16035
+    },
+    {
+      "match": "trmTrm",
+      "image_id": 16191
+    },
+    {
+      "match": "trmAfro",
+      "image_id": 16192
+    },
+    {
+      "match": "trmSally",
+      "image_id": 16238
+    },
+    {
+      "match": "trmKeemo",
+      "image_id": 17377
+    },
+    {
+      "match": "trmDunk",
+      "image_id": 59892
+    },
+    {
+      "match": "trmHype",
+      "image_id": 38766
+    }
+  ]
+}

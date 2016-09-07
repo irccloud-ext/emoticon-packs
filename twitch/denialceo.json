@@ -1,1 +1,15 @@
-{"name":"twitch-sub-denialceo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"denialceoWolfpack","image_id":91751},{"match":"denialceoGym","image_id":91750}]}
+{
+  "name": "twitch-sub-denialceo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "denialceoWolfpack",
+      "image_id": 91751
+    },
+    {
+      "match": "denialceoGym",
+      "image_id": 91750
+    }
+  ]
+}

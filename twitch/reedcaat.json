@@ -1,1 +1,15 @@
-{"name":"twitch-sub-reedcaat","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gulLac","image_id":65154},{"match":"gulSmoke","image_id":65155}]}
+{
+  "name": "twitch-sub-reedcaat",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gulLac",
+      "image_id": 65154
+    },
+    {
+      "match": "gulSmoke",
+      "image_id": 65155
+    }
+  ]
+}

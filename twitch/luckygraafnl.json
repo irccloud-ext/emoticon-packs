@@ -1,1 +1,35 @@
-{"name":"twitch-sub-luckygraafnl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"luckyBLEH","image_id":42253},{"match":"luckySLAAN","image_id":57368},{"match":"luckySMIKKELBAKJE","image_id":56318},{"match":"luckyMI69","image_id":56182},{"match":"luckyBLIJ","image_id":53220},{"match":"luckyMAN","image_id":57986},{"match":"luckyKINDJE","image_id":57573}]}
+{
+  "name": "twitch-sub-luckygraafnl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "luckyBLEH",
+      "image_id": 42253
+    },
+    {
+      "match": "luckySLAAN",
+      "image_id": 57368
+    },
+    {
+      "match": "luckySMIKKELBAKJE",
+      "image_id": 56318
+    },
+    {
+      "match": "luckyMI69",
+      "image_id": 56182
+    },
+    {
+      "match": "luckyBLIJ",
+      "image_id": 53220
+    },
+    {
+      "match": "luckyMAN",
+      "image_id": 57986
+    },
+    {
+      "match": "luckyKINDJE",
+      "image_id": 57573
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-zybak","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zybakKappa","image_id":5413},{"match":"zybakHotdog","image_id":5437},{"match":"zybakFace","image_id":5415},{"match":"zybakNERF","image_id":9591},{"match":"zybakWIPE","image_id":15097},{"match":"zybakREADCHAT","image_id":15116}]}
+{
+  "name": "twitch-sub-zybak",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zybakKappa",
+      "image_id": 5413
+    },
+    {
+      "match": "zybakHotdog",
+      "image_id": 5437
+    },
+    {
+      "match": "zybakFace",
+      "image_id": 5415
+    },
+    {
+      "match": "zybakNERF",
+      "image_id": 9591
+    },
+    {
+      "match": "zybakWIPE",
+      "image_id": 15097
+    },
+    {
+      "match": "zybakREADCHAT",
+      "image_id": 15116
+    }
+  ]
+}

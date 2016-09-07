@@ -1,1 +1,31 @@
-{"name":"twitch-sub-gillyweedsc2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gillyFriends","image_id":47881},{"match":"gillyIndeed","image_id":61318},{"match":"gillySwag","image_id":50029},{"match":"gillyShark","image_id":80426},{"match":"gillyGiggle","image_id":107252},{"match":"gillyStark","image_id":107253}]}
+{
+  "name": "twitch-sub-gillyweedsc2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gillyFriends",
+      "image_id": 47881
+    },
+    {
+      "match": "gillyIndeed",
+      "image_id": 61318
+    },
+    {
+      "match": "gillySwag",
+      "image_id": 50029
+    },
+    {
+      "match": "gillyShark",
+      "image_id": 80426
+    },
+    {
+      "match": "gillyGiggle",
+      "image_id": 107252
+    },
+    {
+      "match": "gillyStark",
+      "image_id": 107253
+    }
+  ]
+}

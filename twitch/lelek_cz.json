@@ -1,1 +1,19 @@
-{"name":"twitch-sub-lelek_cz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lelekCREW","image_id":111005},{"match":"lelekHI","image_id":110869},{"match":"lelekHYPE","image_id":111205}]}
+{
+  "name": "twitch-sub-lelek_cz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lelekCREW",
+      "image_id": 111005
+    },
+    {
+      "match": "lelekHI",
+      "image_id": 110869
+    },
+    {
+      "match": "lelekHYPE",
+      "image_id": 111205
+    }
+  ]
+}

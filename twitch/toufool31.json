@@ -1,1 +1,23 @@
-{"name":"twitch-sub-toufool31","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"touGO","image_id":31867},{"match":"touRunOgre","image_id":50622},{"match":"touHelloFriend","image_id":55100},{"match":"touHUH","image_id":55782}]}
+{
+  "name": "twitch-sub-toufool31",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "touGO",
+      "image_id": 31867
+    },
+    {
+      "match": "touRunOgre",
+      "image_id": 50622
+    },
+    {
+      "match": "touHelloFriend",
+      "image_id": 55100
+    },
+    {
+      "match": "touHUH",
+      "image_id": 55782
+    }
+  ]
+}

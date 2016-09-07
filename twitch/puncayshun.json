@@ -1,1 +1,39 @@
-{"name":"twitch-sub-puncayshun","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"punThump","image_id":23619},{"match":"punWaifu","image_id":13663},{"match":"punThrow","image_id":15604},{"match":"punPeach","image_id":22823},{"match":"punLewd","image_id":24256},{"match":"punDokuro","image_id":25807},{"match":"punCirno","image_id":28410},{"match":"punGasm","image_id":72934}]}
+{
+  "name": "twitch-sub-puncayshun",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "punThump",
+      "image_id": 23619
+    },
+    {
+      "match": "punWaifu",
+      "image_id": 13663
+    },
+    {
+      "match": "punThrow",
+      "image_id": 15604
+    },
+    {
+      "match": "punPeach",
+      "image_id": 22823
+    },
+    {
+      "match": "punLewd",
+      "image_id": 24256
+    },
+    {
+      "match": "punDokuro",
+      "image_id": 25807
+    },
+    {
+      "match": "punCirno",
+      "image_id": 28410
+    },
+    {
+      "match": "punGasm",
+      "image_id": 72934
+    }
+  ]
+}

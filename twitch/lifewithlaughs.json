@@ -1,1 +1,67 @@
-{"name":"twitch-sub-lifewithlaughs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lwlWut","image_id":101275},{"match":"lwlMeme","image_id":101272},{"match":"lwlFrank","image_id":101271},{"match":"lwlLove","image_id":73592},{"match":"lwlR","image_id":73591},{"match":"lwlRIP","image_id":73892},{"match":"lwlCry","image_id":76067},{"match":"lwlSenpai","image_id":73897},{"match":"lwlKappa","image_id":75064},{"match":"lwlHype","image_id":73490},{"match":"lwlSoon","image_id":73489},{"match":"lwlSmile","image_id":76068},{"match":"lwlDance","image_id":76066},{"match":"lwlHi","image_id":101382},{"match":"lwlUnsure","image_id":101385}]}
+{
+  "name": "twitch-sub-lifewithlaughs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lwlWut",
+      "image_id": 101275
+    },
+    {
+      "match": "lwlMeme",
+      "image_id": 101272
+    },
+    {
+      "match": "lwlFrank",
+      "image_id": 101271
+    },
+    {
+      "match": "lwlLove",
+      "image_id": 73592
+    },
+    {
+      "match": "lwlR",
+      "image_id": 73591
+    },
+    {
+      "match": "lwlRIP",
+      "image_id": 73892
+    },
+    {
+      "match": "lwlCry",
+      "image_id": 76067
+    },
+    {
+      "match": "lwlSenpai",
+      "image_id": 73897
+    },
+    {
+      "match": "lwlKappa",
+      "image_id": 75064
+    },
+    {
+      "match": "lwlHype",
+      "image_id": 73490
+    },
+    {
+      "match": "lwlSoon",
+      "image_id": 73489
+    },
+    {
+      "match": "lwlSmile",
+      "image_id": 76068
+    },
+    {
+      "match": "lwlDance",
+      "image_id": 76066
+    },
+    {
+      "match": "lwlHi",
+      "image_id": 101382
+    },
+    {
+      "match": "lwlUnsure",
+      "image_id": 101385
+    }
+  ]
+}

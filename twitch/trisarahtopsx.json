@@ -1,1 +1,39 @@
-{"name":"twitch-sub-trisarahtopsx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"trisHype","image_id":83829},{"match":"trisKISS","image_id":29903},{"match":"trisCry","image_id":87279},{"match":"trisShots","image_id":87275},{"match":"trisNom","image_id":87274},{"match":"trisLove","image_id":87273},{"match":"trisBYE","image_id":84230},{"match":"trisKO","image_id":87538}]}
+{
+  "name": "twitch-sub-trisarahtopsx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "trisHype",
+      "image_id": 83829
+    },
+    {
+      "match": "trisKISS",
+      "image_id": 29903
+    },
+    {
+      "match": "trisCry",
+      "image_id": 87279
+    },
+    {
+      "match": "trisShots",
+      "image_id": 87275
+    },
+    {
+      "match": "trisNom",
+      "image_id": 87274
+    },
+    {
+      "match": "trisLove",
+      "image_id": 87273
+    },
+    {
+      "match": "trisBYE",
+      "image_id": 84230
+    },
+    {
+      "match": "trisKO",
+      "image_id": 87538
+    }
+  ]
+}

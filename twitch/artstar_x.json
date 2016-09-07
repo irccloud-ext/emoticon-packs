@@ -1,1 +1,23 @@
-{"name":"twitch-sub-artstar_x","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"artsRito","image_id":98295},{"match":"artsBurp","image_id":98294},{"match":"artsHey","image_id":98293},{"match":"artsRip","image_id":96719}]}
+{
+  "name": "twitch-sub-artstar_x",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "artsRito",
+      "image_id": 98295
+    },
+    {
+      "match": "artsBurp",
+      "image_id": 98294
+    },
+    {
+      "match": "artsHey",
+      "image_id": 98293
+    },
+    {
+      "match": "artsRip",
+      "image_id": 96719
+    }
+  ]
+}

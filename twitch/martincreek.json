@@ -1,1 +1,15 @@
-{"name":"twitch-sub-martincreek","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"creekWow","image_id":97640},{"match":"creekW","image_id":77749}]}
+{
+  "name": "twitch-sub-martincreek",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "creekWow",
+      "image_id": 97640
+    },
+    {
+      "match": "creekW",
+      "image_id": 77749
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-giorap90","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gioAlter","image_id":92788},{"match":"gioNice","image_id":92809},{"match":"gioRapma","image_id":92787},{"match":"gioFail","image_id":92582},{"match":"gioRage","image_id":94163},{"match":"gioBanhammer","image_id":94166}]}
+{
+  "name": "twitch-sub-giorap90",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gioAlter",
+      "image_id": 92788
+    },
+    {
+      "match": "gioNice",
+      "image_id": 92809
+    },
+    {
+      "match": "gioRapma",
+      "image_id": 92787
+    },
+    {
+      "match": "gioFail",
+      "image_id": 92582
+    },
+    {
+      "match": "gioRage",
+      "image_id": 94163
+    },
+    {
+      "match": "gioBanhammer",
+      "image_id": 94166
+    }
+  ]
+}

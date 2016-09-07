@@ -1,1 +1,31 @@
-{"name":"twitch-sub-lostaiming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lostaimHy","image_id":93878},{"match":"lostaimLUL","image_id":111329},{"match":"lostaimHi","image_id":111327},{"match":"lostaimRip","image_id":96765},{"match":"lostaimH","image_id":76802},{"match":"lostaimK","image_id":97085}]}
+{
+  "name": "twitch-sub-lostaiming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lostaimHy",
+      "image_id": 93878
+    },
+    {
+      "match": "lostaimLUL",
+      "image_id": 111329
+    },
+    {
+      "match": "lostaimHi",
+      "image_id": 111327
+    },
+    {
+      "match": "lostaimRip",
+      "image_id": 96765
+    },
+    {
+      "match": "lostaimH",
+      "image_id": 76802
+    },
+    {
+      "match": "lostaimK",
+      "image_id": 97085
+    }
+  ]
+}

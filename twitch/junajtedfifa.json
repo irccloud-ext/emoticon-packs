@@ -1,1 +1,27 @@
-{"name":"twitch-sub-junajtedfifa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"junaomamoEa","image_id":41738},{"match":"junaomamoMamo","image_id":39999},{"match":"junaomamoNowySub","image_id":41457},{"match":"junaomamoFail","image_id":86541},{"match":"junaomamoPenajted","image_id":86542}]}
+{
+  "name": "twitch-sub-junajtedfifa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "junaomamoEa",
+      "image_id": 41738
+    },
+    {
+      "match": "junaomamoMamo",
+      "image_id": 39999
+    },
+    {
+      "match": "junaomamoNowySub",
+      "image_id": 41457
+    },
+    {
+      "match": "junaomamoFail",
+      "image_id": 86541
+    },
+    {
+      "match": "junaomamoPenajted",
+      "image_id": 86542
+    }
+  ]
+}

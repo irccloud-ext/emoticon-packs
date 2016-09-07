@@ -1,1 +1,23 @@
-{"name":"twitch-sub-taesangyun","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"taesangW","image_id":70027},{"match":"taesangDraw","image_id":89246},{"match":"taesangFail","image_id":89277},{"match":"taesangBeam","image_id":89625}]}
+{
+  "name": "twitch-sub-taesangyun",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "taesangW",
+      "image_id": 70027
+    },
+    {
+      "match": "taesangDraw",
+      "image_id": 89246
+    },
+    {
+      "match": "taesangFail",
+      "image_id": 89277
+    },
+    {
+      "match": "taesangBeam",
+      "image_id": 89625
+    }
+  ]
+}

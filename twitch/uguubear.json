@@ -1,1 +1,31 @@
-{"name":"twitch-sub-uguubear","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"uguuLove","image_id":65027},{"match":"uguuHi","image_id":65026},{"match":"uguuSleep","image_id":65671},{"match":"uguuBae","image_id":65670},{"match":"uguuAsher","image_id":65120},{"match":"uguuNom","image_id":65153}]}
+{
+  "name": "twitch-sub-uguubear",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "uguuLove",
+      "image_id": 65027
+    },
+    {
+      "match": "uguuHi",
+      "image_id": 65026
+    },
+    {
+      "match": "uguuSleep",
+      "image_id": 65671
+    },
+    {
+      "match": "uguuBae",
+      "image_id": 65670
+    },
+    {
+      "match": "uguuAsher",
+      "image_id": 65120
+    },
+    {
+      "match": "uguuNom",
+      "image_id": 65153
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-fuglyy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"liquid1D","image_id":56197},{"match":"liquidOI","image_id":56198}]}
+{
+  "name": "twitch-sub-fuglyy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "liquid1D",
+      "image_id": 56197
+    },
+    {
+      "match": "liquidOI",
+      "image_id": 56198
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-th3d4rkness","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"matebaOH","image_id":59187},{"match":"matebaMEUDEUS","image_id":34922}]}
+{
+  "name": "twitch-sub-th3d4rkness",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "matebaOH",
+      "image_id": 59187
+    },
+    {
+      "match": "matebaMEUDEUS",
+      "image_id": 34922
+    }
+  ]
+}

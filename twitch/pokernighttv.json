@@ -1,1 +1,15 @@
-{"name":"twitch-sub-pokernighttv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pntvBart","image_id":91956},{"match":"pntvCletus","image_id":93028}]}
+{
+  "name": "twitch-sub-pokernighttv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pntvBart",
+      "image_id": 91956
+    },
+    {
+      "match": "pntvCletus",
+      "image_id": 93028
+    }
+  ]
+}

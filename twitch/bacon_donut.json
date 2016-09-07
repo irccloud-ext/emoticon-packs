@@ -1,1 +1,79 @@
-{"name":"twitch-sub-bacon_donut","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"baconCheeseNinja","image_id":1835},{"match":"baconHype","image_id":19479},{"match":"baconBaconFace","image_id":1719},{"match":"baconNoBacon","image_id":1720},{"match":"baconChop","image_id":3193},{"match":"baconNub","image_id":19480},{"match":"baconBomb","image_id":2656},{"match":"baconKappa","image_id":3304},{"match":"baconHeart","image_id":4997},{"match":"baconBacon","image_id":13776},{"match":"baconGG","image_id":19478},{"match":"baconDerp","image_id":25810},{"match":"baconWut","image_id":40237},{"match":"baconPls","image_id":61507},{"match":"baconRuined","image_id":88055},{"match":"baconGame","image_id":87657},{"match":"baconDonut","image_id":88053},{"match":"baconPinup","image_id":103466}]}
+{
+  "name": "twitch-sub-bacon_donut",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "baconCheeseNinja",
+      "image_id": 1835
+    },
+    {
+      "match": "baconHype",
+      "image_id": 19479
+    },
+    {
+      "match": "baconBaconFace",
+      "image_id": 1719
+    },
+    {
+      "match": "baconNoBacon",
+      "image_id": 1720
+    },
+    {
+      "match": "baconChop",
+      "image_id": 3193
+    },
+    {
+      "match": "baconNub",
+      "image_id": 19480
+    },
+    {
+      "match": "baconBomb",
+      "image_id": 2656
+    },
+    {
+      "match": "baconKappa",
+      "image_id": 3304
+    },
+    {
+      "match": "baconHeart",
+      "image_id": 4997
+    },
+    {
+      "match": "baconBacon",
+      "image_id": 13776
+    },
+    {
+      "match": "baconGG",
+      "image_id": 19478
+    },
+    {
+      "match": "baconDerp",
+      "image_id": 25810
+    },
+    {
+      "match": "baconWut",
+      "image_id": 40237
+    },
+    {
+      "match": "baconPls",
+      "image_id": 61507
+    },
+    {
+      "match": "baconRuined",
+      "image_id": 88055
+    },
+    {
+      "match": "baconGame",
+      "image_id": 87657
+    },
+    {
+      "match": "baconDonut",
+      "image_id": 88053
+    },
+    {
+      "match": "baconPinup",
+      "image_id": 103466
+    }
+  ]
+}

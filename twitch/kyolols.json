@@ -1,1 +1,11 @@
-{"name":"twitch-sub-kyolols","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kyobyIlluminachos","image_id":62682}]}
+{
+  "name": "twitch-sub-kyolols",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kyobyIlluminachos",
+      "image_id": 62682
+    }
+  ]
+}

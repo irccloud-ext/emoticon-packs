@@ -1,1 +1,67 @@
-{"name":"twitch-sub-redvaloroso","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"valorCoon","image_id":34530},{"match":"valorSalsa","image_id":14736},{"match":"valorStop","image_id":15241},{"match":"valorRiot","image_id":54369},{"match":"valorShots","image_id":16332},{"match":"valorW","image_id":58195},{"match":"valorRM","image_id":45739},{"match":"valorLove","image_id":53641},{"match":"valorHype","image_id":53640},{"match":"valorRage","image_id":53761},{"match":"valorParrot","image_id":58781},{"match":"valorGasm","image_id":58785},{"match":"valorFeels","image_id":80087},{"match":"valorRIP","image_id":78228},{"match":"valorREKT","image_id":78230}]}
+{
+  "name": "twitch-sub-redvaloroso",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "valorCoon",
+      "image_id": 34530
+    },
+    {
+      "match": "valorSalsa",
+      "image_id": 14736
+    },
+    {
+      "match": "valorStop",
+      "image_id": 15241
+    },
+    {
+      "match": "valorRiot",
+      "image_id": 54369
+    },
+    {
+      "match": "valorShots",
+      "image_id": 16332
+    },
+    {
+      "match": "valorW",
+      "image_id": 58195
+    },
+    {
+      "match": "valorRM",
+      "image_id": 45739
+    },
+    {
+      "match": "valorLove",
+      "image_id": 53641
+    },
+    {
+      "match": "valorHype",
+      "image_id": 53640
+    },
+    {
+      "match": "valorRage",
+      "image_id": 53761
+    },
+    {
+      "match": "valorParrot",
+      "image_id": 58781
+    },
+    {
+      "match": "valorGasm",
+      "image_id": 58785
+    },
+    {
+      "match": "valorFeels",
+      "image_id": 80087
+    },
+    {
+      "match": "valorRIP",
+      "image_id": 78228
+    },
+    {
+      "match": "valorREKT",
+      "image_id": 78230
+    }
+  ]
+}

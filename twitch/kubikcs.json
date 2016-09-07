@@ -1,1 +1,47 @@
-{"name":"twitch-sub-kubikcs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kubikAHA","image_id":63780},{"match":"kubikLOJ","image_id":60916},{"match":"kubikSzkoda","image_id":60915},{"match":"kubikKappa","image_id":63781},{"match":"kubikEZ","image_id":60486},{"match":"kubikThrow","image_id":61659},{"match":"kubikZMIE","image_id":77122},{"match":"kubikLONY","image_id":77123},{"match":"kubikSkip","image_id":78347},{"match":"kubikZelek","image_id":81817}]}
+{
+  "name": "twitch-sub-kubikcs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kubikAHA",
+      "image_id": 63780
+    },
+    {
+      "match": "kubikLOJ",
+      "image_id": 60916
+    },
+    {
+      "match": "kubikSzkoda",
+      "image_id": 60915
+    },
+    {
+      "match": "kubikKappa",
+      "image_id": 63781
+    },
+    {
+      "match": "kubikEZ",
+      "image_id": 60486
+    },
+    {
+      "match": "kubikThrow",
+      "image_id": 61659
+    },
+    {
+      "match": "kubikZMIE",
+      "image_id": 77122
+    },
+    {
+      "match": "kubikLONY",
+      "image_id": 77123
+    },
+    {
+      "match": "kubikSkip",
+      "image_id": 78347
+    },
+    {
+      "match": "kubikZelek",
+      "image_id": 81817
+    }
+  ]
+}

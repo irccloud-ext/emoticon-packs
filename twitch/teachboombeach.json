@@ -1,1 +1,35 @@
-{"name":"twitch-sub-teachboombeach","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tbbGuy","image_id":11097},{"match":"tbbTaco","image_id":12226},{"match":"tbbHog","image_id":12227},{"match":"tbbKel","image_id":21193},{"match":"tbbNick","image_id":21194},{"match":"tbbNyte","image_id":23063},{"match":"tbbWar","image_id":23061}]}
+{
+  "name": "twitch-sub-teachboombeach",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tbbGuy",
+      "image_id": 11097
+    },
+    {
+      "match": "tbbTaco",
+      "image_id": 12226
+    },
+    {
+      "match": "tbbHog",
+      "image_id": 12227
+    },
+    {
+      "match": "tbbKel",
+      "image_id": 21193
+    },
+    {
+      "match": "tbbNick",
+      "image_id": 21194
+    },
+    {
+      "match": "tbbNyte",
+      "image_id": 23063
+    },
+    {
+      "match": "tbbWar",
+      "image_id": 23061
+    }
+  ]
+}

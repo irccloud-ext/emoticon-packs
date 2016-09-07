@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ingame_de","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"in1Rob","image_id":103692},{"match":"in1McAmsel","image_id":102644},{"match":"in1GG","image_id":91756},{"match":"in1Jule","image_id":102914},{"match":"in1Meeix","image_id":101743},{"match":"in1Laugh","image_id":104267}]}
+{
+  "name": "twitch-sub-ingame_de",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "in1Rob",
+      "image_id": 103692
+    },
+    {
+      "match": "in1McAmsel",
+      "image_id": 102644
+    },
+    {
+      "match": "in1GG",
+      "image_id": 91756
+    },
+    {
+      "match": "in1Jule",
+      "image_id": 102914
+    },
+    {
+      "match": "in1Meeix",
+      "image_id": 101743
+    },
+    {
+      "match": "in1Laugh",
+      "image_id": 104267
+    }
+  ]
+}

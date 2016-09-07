@@ -1,1 +1,23 @@
-{"name":"twitch-sub-themainmanswe","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tmmRage","image_id":52354},{"match":"tmmCapo","image_id":95689},{"match":"tmmLol","image_id":95690},{"match":"tmmEwgf","image_id":95688}]}
+{
+  "name": "twitch-sub-themainmanswe",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tmmRage",
+      "image_id": 52354
+    },
+    {
+      "match": "tmmEwgf",
+      "image_id": 95688
+    },
+    {
+      "match": "tmmPewgf",
+      "image_id": 111765
+    },
+    {
+      "match": "tmmHs",
+      "image_id": 111766
+    }
+  ]
+}

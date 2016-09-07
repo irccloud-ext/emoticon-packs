@@ -1,1 +1,39 @@
-{"name":"twitch-sub-slethzockt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"slethFail","image_id":60697},{"match":"slethPraise","image_id":48705},{"match":"slethMops","image_id":48886},{"match":"slethWTF","image_id":60698},{"match":"slethRip","image_id":91936},{"match":"slethEstus","image_id":81923},{"match":"slethGG","image_id":92103},{"match":"slethFist","image_id":94243}]}
+{
+  "name": "twitch-sub-slethzockt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "slethFail",
+      "image_id": 60697
+    },
+    {
+      "match": "slethPraise",
+      "image_id": 48705
+    },
+    {
+      "match": "slethMops",
+      "image_id": 48886
+    },
+    {
+      "match": "slethWTF",
+      "image_id": 60698
+    },
+    {
+      "match": "slethRip",
+      "image_id": 91936
+    },
+    {
+      "match": "slethEstus",
+      "image_id": 81923
+    },
+    {
+      "match": "slethGG",
+      "image_id": 92103
+    },
+    {
+      "match": "slethFist",
+      "image_id": 94243
+    }
+  ]
+}

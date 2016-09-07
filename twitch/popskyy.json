@@ -1,1 +1,31 @@
-{"name":"twitch-sub-popskyy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"popDS","image_id":62354},{"match":"popJAM","image_id":30825},{"match":"popLUV","image_id":99577},{"match":"popCUTE","image_id":99581},{"match":"popRAGE","image_id":99582},{"match":"popLOOD","image_id":99583}]}
+{
+  "name": "twitch-sub-popskyy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "popDS",
+      "image_id": 62354
+    },
+    {
+      "match": "popJAM",
+      "image_id": 30825
+    },
+    {
+      "match": "popLUV",
+      "image_id": 99577
+    },
+    {
+      "match": "popCUTE",
+      "image_id": 99581
+    },
+    {
+      "match": "popRAGE",
+      "image_id": 99582
+    },
+    {
+      "match": "popLOOD",
+      "image_id": 99583
+    }
+  ]
+}

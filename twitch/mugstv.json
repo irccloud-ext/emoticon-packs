@@ -1,1 +1,39 @@
-{"name":"twitch-sub-mugstv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mugsRage","image_id":18340},{"match":"mugsHappy","image_id":18888},{"match":"mugsLove","image_id":72100},{"match":"mugsFeel","image_id":72099},{"match":"mugsHype","image_id":71971},{"match":"mugsFist","image_id":71970},{"match":"mugsK","image_id":89432},{"match":"mugsCry","image_id":107701}]}
+{
+  "name": "twitch-sub-mugstv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mugsRage",
+      "image_id": 18340
+    },
+    {
+      "match": "mugsHappy",
+      "image_id": 18888
+    },
+    {
+      "match": "mugsLove",
+      "image_id": 72100
+    },
+    {
+      "match": "mugsFeel",
+      "image_id": 72099
+    },
+    {
+      "match": "mugsHype",
+      "image_id": 71971
+    },
+    {
+      "match": "mugsFist",
+      "image_id": 71970
+    },
+    {
+      "match": "mugsK",
+      "image_id": 89432
+    },
+    {
+      "match": "mugsCry",
+      "image_id": 107701
+    }
+  ]
+}

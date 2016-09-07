@@ -1,1 +1,31 @@
-{"name":"twitch-sub-dotagasm","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"naraLove","image_id":45767},{"match":"naraAngel","image_id":45768},{"match":"naraRekt","image_id":44992},{"match":"naraRage","image_id":44991},{"match":"naraThump","image_id":44990},{"match":"naraGasm","image_id":44989}]}
+{
+  "name": "twitch-sub-dotagasm",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "naraLove",
+      "image_id": 45767
+    },
+    {
+      "match": "naraAngel",
+      "image_id": 45768
+    },
+    {
+      "match": "naraRekt",
+      "image_id": 44992
+    },
+    {
+      "match": "naraRage",
+      "image_id": 44991
+    },
+    {
+      "match": "naraThump",
+      "image_id": 44990
+    },
+    {
+      "match": "naraGasm",
+      "image_id": 44989
+    }
+  ]
+}

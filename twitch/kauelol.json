@@ -1,1 +1,31 @@
-{"name":"twitch-sub-kauelol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kaueKaueselo","image_id":8810},{"match":"kaueAhri","image_id":10068},{"match":"kauePpf","image_id":24508},{"match":"kaueHE","image_id":59265},{"match":"kaueDELICIA","image_id":59116},{"match":"kaueVAC","image_id":59340}]}
+{
+  "name": "twitch-sub-kauelol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kaueKaueselo",
+      "image_id": 8810
+    },
+    {
+      "match": "kaueAhri",
+      "image_id": 10068
+    },
+    {
+      "match": "kauePpf",
+      "image_id": 24508
+    },
+    {
+      "match": "kaueHE",
+      "image_id": 59265
+    },
+    {
+      "match": "kaueDELICIA",
+      "image_id": 59116
+    },
+    {
+      "match": "kaueVAC",
+      "image_id": 59340
+    }
+  ]
+}

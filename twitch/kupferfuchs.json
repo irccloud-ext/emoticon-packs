@@ -1,1 +1,15 @@
-{"name":"twitch-sub-kupferfuchs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kupferSparta","image_id":76158},{"match":"kupferYeah","image_id":76159}]}
+{
+  "name": "twitch-sub-kupferfuchs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kupferSparta",
+      "image_id": 76158
+    },
+    {
+      "match": "kupferYeah",
+      "image_id": 76159
+    }
+  ]
+}

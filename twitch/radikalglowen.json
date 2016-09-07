@@ -1,1 +1,15 @@
-{"name":"twitch-sub-radikalglowen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nopuedeserLol","image_id":55677},{"match":"nopuedeserJaja","image_id":55678}]}
+{
+  "name": "twitch-sub-radikalglowen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nopuedeserLol",
+      "image_id": 55677
+    },
+    {
+      "match": "nopuedeserJaja",
+      "image_id": 55678
+    }
+  ]
+}

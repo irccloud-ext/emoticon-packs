@@ -1,1 +1,31 @@
-{"name":"twitch-sub-shketeg_yarik","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shketpfNichosi","image_id":103336},{"match":"shketpfXAXOL","image_id":103368},{"match":"shketpfXry","image_id":103372},{"match":"shketpfDrink","image_id":88100},{"match":"shketpfPfffff","image_id":90824},{"match":"shketpfPETYX","image_id":95172}]}
+{
+  "name": "twitch-sub-shketeg_yarik",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shketpfNichosi",
+      "image_id": 103336
+    },
+    {
+      "match": "shketpfXAXOL",
+      "image_id": 103368
+    },
+    {
+      "match": "shketpfXry",
+      "image_id": 103372
+    },
+    {
+      "match": "shketpfDrink",
+      "image_id": 88100
+    },
+    {
+      "match": "shketpfPfffff",
+      "image_id": 90824
+    },
+    {
+      "match": "shketpfPETYX",
+      "image_id": 95172
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-kuledud3","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kuleButt","image_id":25976},{"match":"kuleBreezy","image_id":30199},{"match":"kulePear","image_id":30240},{"match":"kuleSid","image_id":44471},{"match":"kuleAyy","image_id":44474},{"match":"kuleBing","image_id":44473}]}
+{
+  "name": "twitch-sub-kuledud3",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kuleButt",
+      "image_id": 25976
+    },
+    {
+      "match": "kuleBreezy",
+      "image_id": 30199
+    },
+    {
+      "match": "kulePear",
+      "image_id": 30240
+    },
+    {
+      "match": "kuleSid",
+      "image_id": 44471
+    },
+    {
+      "match": "kuleAyy",
+      "image_id": 44474
+    },
+    {
+      "match": "kuleBing",
+      "image_id": 44473
+    }
+  ]
+}

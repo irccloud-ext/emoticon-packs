@@ -1,1 +1,39 @@
-{"name":"twitch-sub-nlgg_shinobi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sh1nKitty","image_id":11268},{"match":"sh1nFail","image_id":10934},{"match":"sh1nBomb","image_id":16933},{"match":"sh1nHype","image_id":16934},{"match":"sh1nNerf","image_id":16940},{"match":"sh1nGift","image_id":26134},{"match":"sh1nKriks","image_id":49591},{"match":"sh1nTwinsnakes","image_id":60111}]}
+{
+  "name": "twitch-sub-nlgg_shinobi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sh1nKitty",
+      "image_id": 11268
+    },
+    {
+      "match": "sh1nFail",
+      "image_id": 10934
+    },
+    {
+      "match": "sh1nBomb",
+      "image_id": 16933
+    },
+    {
+      "match": "sh1nHype",
+      "image_id": 16934
+    },
+    {
+      "match": "sh1nNerf",
+      "image_id": 16940
+    },
+    {
+      "match": "sh1nGift",
+      "image_id": 26134
+    },
+    {
+      "match": "sh1nKriks",
+      "image_id": 49591
+    },
+    {
+      "match": "sh1nTwinsnakes",
+      "image_id": 60111
+    }
+  ]
+}

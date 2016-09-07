@@ -1,1 +1,39 @@
-{"name":"twitch-sub-generationhollow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hollowCat","image_id":16607},{"match":"hollowBatman","image_id":18521},{"match":"hollowSad","image_id":24318},{"match":"hollowFace","image_id":36065},{"match":"hollowCube","image_id":36064},{"match":"hollowGG","image_id":40230},{"match":"hollowHappy","image_id":69700},{"match":"hollowCool","image_id":69698}]}
+{
+  "name": "twitch-sub-generationhollow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hollowCat",
+      "image_id": 16607
+    },
+    {
+      "match": "hollowBatman",
+      "image_id": 18521
+    },
+    {
+      "match": "hollowSad",
+      "image_id": 24318
+    },
+    {
+      "match": "hollowFace",
+      "image_id": 36065
+    },
+    {
+      "match": "hollowCube",
+      "image_id": 36064
+    },
+    {
+      "match": "hollowGG",
+      "image_id": 40230
+    },
+    {
+      "match": "hollowHappy",
+      "image_id": 69700
+    },
+    {
+      "match": "hollowCool",
+      "image_id": 69698
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-jsgamingtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jsgPuke","image_id":64245},{"match":"jsgWhiskey","image_id":88451}]}
+{
+  "name": "twitch-sub-jsgamingtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jsgPuke",
+      "image_id": 64245
+    },
+    {
+      "match": "jsgWhiskey",
+      "image_id": 88451
+    }
+  ]
+}

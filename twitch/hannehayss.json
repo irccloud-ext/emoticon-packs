@@ -1,1 +1,15 @@
-{"name":"twitch-sub-hannehayss","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hanneSub","image_id":97101},{"match":"hanneWine","image_id":98168}]}
+{
+  "name": "twitch-sub-hannehayss",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hanneSub",
+      "image_id": 97101
+    },
+    {
+      "match": "hanneWine",
+      "image_id": 98168
+    }
+  ]
+}

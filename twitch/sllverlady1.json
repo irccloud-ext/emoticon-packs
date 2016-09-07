@@ -1,1 +1,47 @@
-{"name":"twitch-sub-sllverlady1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dragonlRight","image_id":5850},{"match":"dragonlLeft","image_id":5851},{"match":"dragonlBurrito","image_id":5853},{"match":"dragonlSllverlady1","image_id":5852},{"match":"dragonlKappa","image_id":6466},{"match":"dragonlMod","image_id":6473},{"match":"dragonlStacy","image_id":6468},{"match":"dragonlCanada","image_id":8171},{"match":"dragonlMyJam","image_id":8456},{"match":"dragonlProByHeart","image_id":12145}]}
+{
+  "name": "twitch-sub-sllverlady1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dragonlRight",
+      "image_id": 5850
+    },
+    {
+      "match": "dragonlLeft",
+      "image_id": 5851
+    },
+    {
+      "match": "dragonlBurrito",
+      "image_id": 5853
+    },
+    {
+      "match": "dragonlSllverlady1",
+      "image_id": 5852
+    },
+    {
+      "match": "dragonlKappa",
+      "image_id": 6466
+    },
+    {
+      "match": "dragonlMod",
+      "image_id": 6473
+    },
+    {
+      "match": "dragonlStacy",
+      "image_id": 6468
+    },
+    {
+      "match": "dragonlCanada",
+      "image_id": 8171
+    },
+    {
+      "match": "dragonlMyJam",
+      "image_id": 8456
+    },
+    {
+      "match": "dragonlProByHeart",
+      "image_id": 12145
+    }
+  ]
+}

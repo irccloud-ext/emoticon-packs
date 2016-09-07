@@ -1,1 +1,39 @@
-{"name":"twitch-sub-iconpoison","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"poisonCK","image_id":35269},{"match":"poisonGG","image_id":35264},{"match":"poisonRekt","image_id":55802},{"match":"poisonRip","image_id":55803},{"match":"poisonSellout","image_id":55804},{"match":"poisonSub","image_id":55805},{"match":"poisonHype","image_id":55799},{"match":"poisonLove","image_id":55800}]}
+{
+  "name": "twitch-sub-iconpoison",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "poisonCK",
+      "image_id": 35269
+    },
+    {
+      "match": "poisonGG",
+      "image_id": 35264
+    },
+    {
+      "match": "poisonRekt",
+      "image_id": 55802
+    },
+    {
+      "match": "poisonRip",
+      "image_id": 55803
+    },
+    {
+      "match": "poisonSellout",
+      "image_id": 55804
+    },
+    {
+      "match": "poisonSub",
+      "image_id": 55805
+    },
+    {
+      "match": "poisonHype",
+      "image_id": 55799
+    },
+    {
+      "match": "poisonLove",
+      "image_id": 55800
+    }
+  ]
+}

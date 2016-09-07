@@ -1,1 +1,39 @@
-{"name":"twitch-sub-danneman1053","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"danneFETEGRIS","image_id":63897},{"match":"danneHYPE","image_id":63898},{"match":"danneSCENER","image_id":63900},{"match":"danneS","image_id":108585},{"match":"danneTIMING","image_id":108591},{"match":"danneNUB","image_id":108592},{"match":"danneSAD","image_id":108587},{"match":"danneVAC","image_id":108588}]}
+{
+  "name": "twitch-sub-danneman1053",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "danneFETEGRIS",
+      "image_id": 63897
+    },
+    {
+      "match": "danneHYPE",
+      "image_id": 63898
+    },
+    {
+      "match": "danneSCENER",
+      "image_id": 63900
+    },
+    {
+      "match": "danneS",
+      "image_id": 108585
+    },
+    {
+      "match": "danneTIMING",
+      "image_id": 108591
+    },
+    {
+      "match": "danneNUB",
+      "image_id": 108592
+    },
+    {
+      "match": "danneSAD",
+      "image_id": 108587
+    },
+    {
+      "match": "danneVAC",
+      "image_id": 108588
+    }
+  ]
+}

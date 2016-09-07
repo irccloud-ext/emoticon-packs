@@ -1,1 +1,23 @@
-{"name":"twitch-sub-iconspirxcy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"iconsREKT","image_id":20788},{"match":"iconsRAGE","image_id":17867},{"match":"iconsTACO","image_id":17865},{"match":"iconsDEAG","image_id":19638}]}
+{
+  "name": "twitch-sub-iconspirxcy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "iconsREKT",
+      "image_id": 20788
+    },
+    {
+      "match": "iconsRAGE",
+      "image_id": 17867
+    },
+    {
+      "match": "iconsTACO",
+      "image_id": 17865
+    },
+    {
+      "match": "iconsDEAG",
+      "image_id": 19638
+    }
+  ]
+}

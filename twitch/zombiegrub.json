@@ -1,1 +1,31 @@
-{"name":"twitch-sub-zombiegrub","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zgbCat","image_id":44104},{"match":"zgbHoi","image_id":36903},{"match":"zgbThumbs","image_id":37035},{"match":"zgbPancakes","image_id":39668},{"match":"zgbNope","image_id":44214},{"match":"zgbFight","image_id":63467}]}
+{
+  "name": "twitch-sub-zombiegrub",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zgbCat",
+      "image_id": 44104
+    },
+    {
+      "match": "zgbHoi",
+      "image_id": 36903
+    },
+    {
+      "match": "zgbThumbs",
+      "image_id": 37035
+    },
+    {
+      "match": "zgbPancakes",
+      "image_id": 39668
+    },
+    {
+      "match": "zgbNope",
+      "image_id": 44214
+    },
+    {
+      "match": "zgbFight",
+      "image_id": 63467
+    }
+  ]
+}

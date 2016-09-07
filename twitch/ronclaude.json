@@ -1,0 +1,19 @@
+{
+  "name": "twitch-sub-ronclaude",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "claudeOk",
+      "image_id": 112225
+    },
+    {
+      "match": "claudeUnity",
+      "image_id": 112124
+    },
+    {
+      "match": "claudeGasm",
+      "image_id": 112125
+    }
+  ]
+}

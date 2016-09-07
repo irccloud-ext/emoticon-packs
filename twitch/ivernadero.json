@@ -1,1 +1,19 @@
-{"name":"twitch-sub-ivernadero","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"iverC","image_id":49970},{"match":"iverKAPPA","image_id":39814},{"match":"iverCONO","image_id":48896}]}
+{
+  "name": "twitch-sub-ivernadero",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "iverC",
+      "image_id": 49970
+    },
+    {
+      "match": "iverKAPPA",
+      "image_id": 39814
+    },
+    {
+      "match": "iverCONO",
+      "image_id": 48896
+    }
+  ]
+}

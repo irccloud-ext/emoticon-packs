@@ -1,1 +1,39 @@
-{"name":"twitch-sub-neverendsgaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nvrOakleyArmy","image_id":19675},{"match":"nvrDreamTeam","image_id":19674},{"match":"nvrSubHype","image_id":19786},{"match":"nvrRIP","image_id":19781},{"match":"nvrBM","image_id":20083},{"match":"nvrDreamRekt","image_id":20188},{"match":"nvrH","image_id":21285},{"match":"nvrJody","image_id":21316}]}
+{
+  "name": "twitch-sub-neverendsgaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nvrOakleyArmy",
+      "image_id": 19675
+    },
+    {
+      "match": "nvrDreamTeam",
+      "image_id": 19674
+    },
+    {
+      "match": "nvrSubHype",
+      "image_id": 19786
+    },
+    {
+      "match": "nvrRIP",
+      "image_id": 19781
+    },
+    {
+      "match": "nvrBM",
+      "image_id": 20083
+    },
+    {
+      "match": "nvrDreamRekt",
+      "image_id": 20188
+    },
+    {
+      "match": "nvrH",
+      "image_id": 21285
+    },
+    {
+      "match": "nvrJody",
+      "image_id": 21316
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-turntheslayer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"turnHype","image_id":55071},{"match":"turnDefeat","image_id":53931},{"match":"turnGasm","image_id":53945},{"match":"turnBenyan","image_id":53948},{"match":"turnDwi","image_id":54783},{"match":"turnDealwithit","image_id":54784}]}
+{
+  "name": "twitch-sub-turntheslayer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "turnHype",
+      "image_id": 55071
+    },
+    {
+      "match": "turnDefeat",
+      "image_id": 53931
+    },
+    {
+      "match": "turnGasm",
+      "image_id": 53945
+    },
+    {
+      "match": "turnBenyan",
+      "image_id": 53948
+    },
+    {
+      "match": "turnDwi",
+      "image_id": 54783
+    },
+    {
+      "match": "turnDealwithit",
+      "image_id": 54784
+    }
+  ]
+}

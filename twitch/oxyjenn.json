@@ -1,1 +1,31 @@
-{"name":"twitch-sub-oxyjenn","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jennMilk","image_id":12292},{"match":"jennRage","image_id":24178},{"match":"jennKappa","image_id":24179},{"match":"jennLove","image_id":80665},{"match":"jennHype","image_id":80055},{"match":"jennRIP","image_id":83690}]}
+{
+  "name": "twitch-sub-oxyjenn",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jennMilk",
+      "image_id": 12292
+    },
+    {
+      "match": "jennRage",
+      "image_id": 24178
+    },
+    {
+      "match": "jennKappa",
+      "image_id": 24179
+    },
+    {
+      "match": "jennLove",
+      "image_id": 80665
+    },
+    {
+      "match": "jennHype",
+      "image_id": 80055
+    },
+    {
+      "match": "jennRIP",
+      "image_id": 83690
+    }
+  ]
+}

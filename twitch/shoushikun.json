@@ -1,1 +1,15 @@
-{"name":"twitch-sub-shoushikun","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shoushiVAC","image_id":90185},{"match":"shoushiHEART","image_id":90184}]}
+{
+  "name": "twitch-sub-shoushikun",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shoushiVAC",
+      "image_id": 90185
+    },
+    {
+      "match": "shoushiHEART",
+      "image_id": 90184
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-pakratt0013","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jpakReginald","image_id":6880},{"match":"jpakPigvil","image_id":6886},{"match":"jpakRockofmovement","image_id":6890},{"match":"jpakReggie","image_id":6884},{"match":"jpakHi","image_id":20149},{"match":"jpakFeesh","image_id":21599}]}
+{
+  "name": "twitch-sub-pakratt0013",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jpakReginald",
+      "image_id": 6880
+    },
+    {
+      "match": "jpakPigvil",
+      "image_id": 6886
+    },
+    {
+      "match": "jpakRockofmovement",
+      "image_id": 6890
+    },
+    {
+      "match": "jpakReggie",
+      "image_id": 6884
+    },
+    {
+      "match": "jpakHi",
+      "image_id": 20149
+    },
+    {
+      "match": "jpakFeesh",
+      "image_id": 21599
+    }
+  ]
+}

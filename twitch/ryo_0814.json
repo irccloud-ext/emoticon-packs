@@ -1,1 +1,39 @@
-{"name":"twitch-sub-ryo_0814","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ryoRain","image_id":35382},{"match":"ryoMegane","image_id":36145},{"match":"ryoWhat","image_id":36144},{"match":"ryoCrycry","image_id":54235},{"match":"ryoHaha","image_id":54234},{"match":"ryoRedCard","image_id":72335},{"match":"ryoHi","image_id":72336},{"match":"ryoWale","image_id":72337}]}
+{
+  "name": "twitch-sub-ryo_0814",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ryoRain",
+      "image_id": 35382
+    },
+    {
+      "match": "ryoMegane",
+      "image_id": 36145
+    },
+    {
+      "match": "ryoWhat",
+      "image_id": 36144
+    },
+    {
+      "match": "ryoCrycry",
+      "image_id": 54235
+    },
+    {
+      "match": "ryoHaha",
+      "image_id": 54234
+    },
+    {
+      "match": "ryoRedCard",
+      "image_id": 72335
+    },
+    {
+      "match": "ryoHi",
+      "image_id": 72336
+    },
+    {
+      "match": "ryoWale",
+      "image_id": 72337
+    }
+  ]
+}

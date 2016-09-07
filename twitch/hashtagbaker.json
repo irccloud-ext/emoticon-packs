@@ -1,1 +1,11 @@
-{"name":"twitch-sub-hashtagbaker","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bakerJR","image_id":78541}]}
+{
+  "name": "twitch-sub-hashtagbaker",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bakerJR",
+      "image_id": 78541
+    }
+  ]
+}

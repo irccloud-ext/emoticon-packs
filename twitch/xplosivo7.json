@@ -1,0 +1,11 @@
+{
+  "name": "twitch-sub-xplosivo7",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xploCHOKE",
+      "image_id": 111807
+    }
+  ]
+}

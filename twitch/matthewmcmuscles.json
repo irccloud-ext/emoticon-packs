@@ -1,1 +1,39 @@
-{"name":"twitch-sub-matthewmcmuscles","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"z8z2","image_id":86603},{"match":"z8z1","image_id":86552},{"match":"z8z5","image_id":89100},{"match":"z8z3","image_id":86737},{"match":"z8z4","image_id":86774},{"match":"z8z6","image_id":89417},{"match":"z8z7","image_id":90642},{"match":"z8z8","image_id":90651}]}
+{
+  "name": "twitch-sub-matthewmcmuscles",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "z8z2",
+      "image_id": 86603
+    },
+    {
+      "match": "z8z1",
+      "image_id": 86552
+    },
+    {
+      "match": "z8z5",
+      "image_id": 89100
+    },
+    {
+      "match": "z8z3",
+      "image_id": 86737
+    },
+    {
+      "match": "z8z4",
+      "image_id": 86774
+    },
+    {
+      "match": "z8z6",
+      "image_id": 89417
+    },
+    {
+      "match": "z8z7",
+      "image_id": 90642
+    },
+    {
+      "match": "z8z8",
+      "image_id": 90651
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-{"name":"twitch-sub-veev","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"veevKappa","image_id":3403},{"match":"veevHam","image_id":3337},{"match":"veevTopDeck","image_id":5215},{"match":"veevPagle","image_id":7493},{"match":"veev10","image_id":20466}]}
+{
+  "name": "twitch-sub-veev",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "veevKappa",
+      "image_id": 3403
+    },
+    {
+      "match": "veevHam",
+      "image_id": 3337
+    },
+    {
+      "match": "veevTopDeck",
+      "image_id": 5215
+    },
+    {
+      "match": "veevPagle",
+      "image_id": 7493
+    },
+    {
+      "match": "veev10",
+      "image_id": 20466
+    }
+  ]
+}

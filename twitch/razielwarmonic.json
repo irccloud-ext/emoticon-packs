@@ -1,1 +1,31 @@
-{"name":"twitch-sub-razielwarmonic","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"razNope","image_id":38187},{"match":"razHam","image_id":38188},{"match":"razLove","image_id":38287},{"match":"razK","image_id":39091},{"match":"razRage","image_id":39821},{"match":"razHappy","image_id":39819}]}
+{
+  "name": "twitch-sub-razielwarmonic",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "razNope",
+      "image_id": 38187
+    },
+    {
+      "match": "razHam",
+      "image_id": 38188
+    },
+    {
+      "match": "razLove",
+      "image_id": 38287
+    },
+    {
+      "match": "razK",
+      "image_id": 39091
+    },
+    {
+      "match": "razRage",
+      "image_id": 39821
+    },
+    {
+      "match": "razHappy",
+      "image_id": 39819
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-technovixen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vonGASM","image_id":80403},{"match":"vonLOVE","image_id":80318},{"match":"vonRAGE","image_id":80320},{"match":"vonRIP","image_id":80321},{"match":"vonHEY","image_id":80322},{"match":"vonMUG","image_id":80323},{"match":"vonYEAH","image_id":96045},{"match":"vonASHE","image_id":97003}]}
+{
+  "name": "twitch-sub-technovixen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vonGASM",
+      "image_id": 80403
+    },
+    {
+      "match": "vonLOVE",
+      "image_id": 80318
+    },
+    {
+      "match": "vonRAGE",
+      "image_id": 80320
+    },
+    {
+      "match": "vonRIP",
+      "image_id": 80321
+    },
+    {
+      "match": "vonHEY",
+      "image_id": 80322
+    },
+    {
+      "match": "vonMUG",
+      "image_id": 80323
+    },
+    {
+      "match": "vonYEAH",
+      "image_id": 96045
+    },
+    {
+      "match": "vonASHE",
+      "image_id": 97003
+    }
+  ]
+}

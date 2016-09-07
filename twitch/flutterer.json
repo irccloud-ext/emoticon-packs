@@ -1,1 +1,39 @@
-{"name":"twitch-sub-flutterer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"flutGoon","image_id":24640},{"match":"flutCry","image_id":24641},{"match":"flutHeart","image_id":24080},{"match":"flutRekt","image_id":24380},{"match":"flutTech","image_id":24355},{"match":"flutBSG","image_id":24498},{"match":"flutHug","image_id":25016},{"match":"flutPillow","image_id":94308}]}
+{
+  "name": "twitch-sub-flutterer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "flutGoon",
+      "image_id": 24640
+    },
+    {
+      "match": "flutCry",
+      "image_id": 24641
+    },
+    {
+      "match": "flutHeart",
+      "image_id": 24080
+    },
+    {
+      "match": "flutRekt",
+      "image_id": 24380
+    },
+    {
+      "match": "flutTech",
+      "image_id": 24355
+    },
+    {
+      "match": "flutBSG",
+      "image_id": 24498
+    },
+    {
+      "match": "flutHug",
+      "image_id": 25016
+    },
+    {
+      "match": "flutPillow",
+      "image_id": 94308
+    }
+  ]
+}

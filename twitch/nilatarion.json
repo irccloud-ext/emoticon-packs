@@ -1,1 +1,23 @@
-{"name":"twitch-sub-nilatarion","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nilBezblednie","image_id":87302},{"match":"nilRNG","image_id":91785},{"match":"nilRage","image_id":91786},{"match":"nilBrawo","image_id":91787}]}
+{
+  "name": "twitch-sub-nilatarion",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nilBezblednie",
+      "image_id": 87302
+    },
+    {
+      "match": "nilRNG",
+      "image_id": 91785
+    },
+    {
+      "match": "nilRage",
+      "image_id": 91786
+    },
+    {
+      "match": "nilBrawo",
+      "image_id": 91787
+    }
+  ]
+}

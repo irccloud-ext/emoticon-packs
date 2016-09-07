@@ -1,1 +1,39 @@
-{"name":"twitch-sub-thordg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"thorZzp","image_id":19484},{"match":"thorUwotm8","image_id":19482},{"match":"thorSwiggity","image_id":19017},{"match":"thorThunda","image_id":27050},{"match":"thorTato","image_id":101099},{"match":"thorVSAether","image_id":103389},{"match":"thorBoom","image_id":101098},{"match":"thorFace","image_id":101150}]}
+{
+  "name": "twitch-sub-thordg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "thorZzp",
+      "image_id": 19484
+    },
+    {
+      "match": "thorUwotm8",
+      "image_id": 19482
+    },
+    {
+      "match": "thorSwiggity",
+      "image_id": 19017
+    },
+    {
+      "match": "thorThunda",
+      "image_id": 27050
+    },
+    {
+      "match": "thorTato",
+      "image_id": 101099
+    },
+    {
+      "match": "thorVSAether",
+      "image_id": 103389
+    },
+    {
+      "match": "thorBoom",
+      "image_id": 101098
+    },
+    {
+      "match": "thorFace",
+      "image_id": 101150
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-tofuugaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tofuuHype","image_id":72585},{"match":"tofuuPro","image_id":53116},{"match":"tofuuMoney","image_id":94027},{"match":"tofuuNo","image_id":94028},{"match":"tofuuTea","image_id":95106},{"match":"tofuuEmo","image_id":95096}]}
+{
+  "name": "twitch-sub-tofuugaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tofuuHype",
+      "image_id": 72585
+    },
+    {
+      "match": "tofuuPro",
+      "image_id": 53116
+    },
+    {
+      "match": "tofuuMoney",
+      "image_id": 94027
+    },
+    {
+      "match": "tofuuNo",
+      "image_id": 94028
+    },
+    {
+      "match": "tofuuTea",
+      "image_id": 95106
+    },
+    {
+      "match": "tofuuEmo",
+      "image_id": 95096
+    }
+  ]
+}

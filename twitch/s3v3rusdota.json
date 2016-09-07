@@ -1,1 +1,15 @@
-{"name":"twitch-sub-s3v3rusdota","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"s3v3Swag","image_id":39087},{"match":"s3v3Janus","image_id":39140}]}
+{
+  "name": "twitch-sub-s3v3rusdota",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "s3v3Swag",
+      "image_id": 39087
+    },
+    {
+      "match": "s3v3Janus",
+      "image_id": 39140
+    }
+  ]
+}

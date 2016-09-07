@@ -1,1 +1,47 @@
-{"name":"twitch-sub-chainerfails","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chainfailUmad","image_id":13089},{"match":"chainfailGarbage","image_id":61906},{"match":"chainfailFurnace","image_id":61473},{"match":"chainfailSs","image_id":57633},{"match":"chainfailCreep","image_id":57930},{"match":"chainfailWolf","image_id":57472},{"match":"chainfailCandy","image_id":58928},{"match":"chainfailHype","image_id":61776},{"match":"chainfailPjug","image_id":84607},{"match":"chainfailPotato","image_id":84606}]}
+{
+  "name": "twitch-sub-chainerfails",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chainfailUmad",
+      "image_id": 13089
+    },
+    {
+      "match": "chainfailGarbage",
+      "image_id": 61906
+    },
+    {
+      "match": "chainfailFurnace",
+      "image_id": 61473
+    },
+    {
+      "match": "chainfailSs",
+      "image_id": 57633
+    },
+    {
+      "match": "chainfailCreep",
+      "image_id": 57930
+    },
+    {
+      "match": "chainfailWolf",
+      "image_id": 57472
+    },
+    {
+      "match": "chainfailCandy",
+      "image_id": 58928
+    },
+    {
+      "match": "chainfailHype",
+      "image_id": 61776
+    },
+    {
+      "match": "chainfailPjug",
+      "image_id": 84607
+    },
+    {
+      "match": "chainfailPotato",
+      "image_id": 84606
+    }
+  ]
+}

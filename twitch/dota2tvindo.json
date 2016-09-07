@@ -1,1 +1,15 @@
-{"name":"twitch-sub-dota2tvindo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dtviDzHuh","image_id":75792},{"match":"dtviBektiSwag","image_id":48344}]}
+{
+  "name": "twitch-sub-dota2tvindo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dtviDzHuh",
+      "image_id": 75792
+    },
+    {
+      "match": "dtviBektiSwag",
+      "image_id": 48344
+    }
+  ]
+}

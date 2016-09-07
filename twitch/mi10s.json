@@ -1,1 +1,15 @@
-{"name":"twitch-sub-mi10s","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mimimimiHYPE","image_id":98941},{"match":"mimimimiMI","image_id":98940}]}
+{
+  "name": "twitch-sub-mi10s",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mimimimiHYPE",
+      "image_id": 98941
+    },
+    {
+      "match": "mimimimiMI",
+      "image_id": 98940
+    }
+  ]
+}

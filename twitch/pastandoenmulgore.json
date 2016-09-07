@@ -1,1 +1,23 @@
-{"name":"twitch-sub-pastandoenmulgore","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pemWhila","image_id":53608},{"match":"pemSergan","image_id":53609},{"match":"pemHorda","image_id":76421},{"match":"pemAlly","image_id":76420}]}
+{
+  "name": "twitch-sub-pastandoenmulgore",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pemWhila",
+      "image_id": 53608
+    },
+    {
+      "match": "pemSergan",
+      "image_id": 53609
+    },
+    {
+      "match": "pemHorda",
+      "image_id": 76421
+    },
+    {
+      "match": "pemAlly",
+      "image_id": 76420
+    }
+  ]
+}

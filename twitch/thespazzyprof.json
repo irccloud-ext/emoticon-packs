@@ -1,1 +1,47 @@
-{"name":"twitch-sub-thespazzyprof","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"spazzyLexi","image_id":76225},{"match":"spazzyClam","image_id":76403},{"match":"spazzyDoge","image_id":90793},{"match":"spazzyHi","image_id":104365},{"match":"spazzyHug","image_id":104366},{"match":"spazzyHype","image_id":104367},{"match":"spazzyLove","image_id":104368},{"match":"spazzyRage","image_id":104369},{"match":"spazzyA","image_id":104370},{"match":"spazzyF","image_id":104371}]}
+{
+  "name": "twitch-sub-thespazzyprof",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "spazzyLexi",
+      "image_id": 76225
+    },
+    {
+      "match": "spazzyClam",
+      "image_id": 76403
+    },
+    {
+      "match": "spazzyDoge",
+      "image_id": 90793
+    },
+    {
+      "match": "spazzyHi",
+      "image_id": 104365
+    },
+    {
+      "match": "spazzyHug",
+      "image_id": 104366
+    },
+    {
+      "match": "spazzyHype",
+      "image_id": 104367
+    },
+    {
+      "match": "spazzyLove",
+      "image_id": 104368
+    },
+    {
+      "match": "spazzyRage",
+      "image_id": 104369
+    },
+    {
+      "match": "spazzyA",
+      "image_id": 104370
+    },
+    {
+      "match": "spazzyF",
+      "image_id": 104371
+    }
+  ]
+}

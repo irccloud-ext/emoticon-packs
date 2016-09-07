@@ -1,1 +1,19 @@
-{"name":"twitch-sub-austinffa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lunaaCat","image_id":58989},{"match":"lunaaRekt","image_id":58722},{"match":"lunaaWild","image_id":102501}]}
+{
+  "name": "twitch-sub-austinffa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lunaaCat",
+      "image_id": 58989
+    },
+    {
+      "match": "lunaaRekt",
+      "image_id": 58722
+    },
+    {
+      "match": "lunaaWild",
+      "image_id": 102501
+    }
+  ]
+}

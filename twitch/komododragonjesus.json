@@ -1,1 +1,23 @@
-{"name":"twitch-sub-komododragonjesus","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"komodoAces","image_id":32012},{"match":"komodoDream","image_id":40986},{"match":"komodoAmeno","image_id":69252},{"match":"komodoSneetch","image_id":56276}]}
+{
+  "name": "twitch-sub-komododragonjesus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "komodoAces",
+      "image_id": 32012
+    },
+    {
+      "match": "komodoDream",
+      "image_id": 40986
+    },
+    {
+      "match": "komodoAmeno",
+      "image_id": 69252
+    },
+    {
+      "match": "komodoSneetch",
+      "image_id": 56276
+    }
+  ]
+}

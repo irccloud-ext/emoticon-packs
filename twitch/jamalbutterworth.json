@@ -1,1 +1,47 @@
-{"name":"twitch-sub-jamalbutterworth","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jmalD","image_id":11801},{"match":"jmalG","image_id":11802},{"match":"jmalC","image_id":12067},{"match":"jmalT","image_id":12168},{"match":"jmal4","image_id":12234},{"match":"jmalI","image_id":12233},{"match":"jmalP","image_id":12319},{"match":"jmalS","image_id":19367},{"match":"jmalM","image_id":18616},{"match":"jmalW","image_id":21212}]}
+{
+  "name": "twitch-sub-jamalbutterworth",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jmalD",
+      "image_id": 11801
+    },
+    {
+      "match": "jmalG",
+      "image_id": 11802
+    },
+    {
+      "match": "jmalC",
+      "image_id": 12067
+    },
+    {
+      "match": "jmalT",
+      "image_id": 12168
+    },
+    {
+      "match": "jmal4",
+      "image_id": 12234
+    },
+    {
+      "match": "jmalI",
+      "image_id": 12233
+    },
+    {
+      "match": "jmalP",
+      "image_id": 12319
+    },
+    {
+      "match": "jmalS",
+      "image_id": 19367
+    },
+    {
+      "match": "jmalM",
+      "image_id": 18616
+    },
+    {
+      "match": "jmalW",
+      "image_id": 21212
+    }
+  ]
+}

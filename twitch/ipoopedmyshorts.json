@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ipoopedmyshorts","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ipms316","image_id":28721},{"match":"ipmsKappa","image_id":34284},{"match":"ipmsPfart","image_id":29646},{"match":"ipmsGhost","image_id":31195},{"match":"ipmsBed","image_id":32323},{"match":"ipmsLove","image_id":45365}]}
+{
+  "name": "twitch-sub-ipoopedmyshorts",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ipms316",
+      "image_id": 28721
+    },
+    {
+      "match": "ipmsKappa",
+      "image_id": 34284
+    },
+    {
+      "match": "ipmsPfart",
+      "image_id": 29646
+    },
+    {
+      "match": "ipmsGhost",
+      "image_id": 31195
+    },
+    {
+      "match": "ipmsBed",
+      "image_id": 32323
+    },
+    {
+      "match": "ipmsLove",
+      "image_id": 45365
+    }
+  ]
+}

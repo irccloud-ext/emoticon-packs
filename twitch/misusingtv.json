@@ -1,1 +1,39 @@
-{"name":"twitch-sub-misusingtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mtvRigged","image_id":21639},{"match":"mtvCube","image_id":88965},{"match":"mtvW","image_id":67054},{"match":"mtvHype","image_id":95995},{"match":"mtvRekt","image_id":43685},{"match":"mtvFeels","image_id":95763},{"match":"mtvLove","image_id":97505},{"match":"mtvDolphin","image_id":83780}]}
+{
+  "name": "twitch-sub-misusingtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mtvRigged",
+      "image_id": 21639
+    },
+    {
+      "match": "mtvCube",
+      "image_id": 88965
+    },
+    {
+      "match": "mtvW",
+      "image_id": 67054
+    },
+    {
+      "match": "mtvHype",
+      "image_id": 95995
+    },
+    {
+      "match": "mtvRekt",
+      "image_id": 43685
+    },
+    {
+      "match": "mtvFeels",
+      "image_id": 95763
+    },
+    {
+      "match": "mtvLove",
+      "image_id": 97505
+    },
+    {
+      "match": "mtvDolphin",
+      "image_id": 83780
+    }
+  ]
+}

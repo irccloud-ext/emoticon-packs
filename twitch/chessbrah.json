@@ -1,1 +1,47 @@
-{"name":"twitch-sub-chessbrah","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cbrahLefong","image_id":56791},{"match":"cbrahCb","image_id":57546},{"match":"cbrahGiraffe","image_id":57471},{"match":"cbrahFeels","image_id":67946},{"match":"cbrahEric","image_id":58878},{"match":"cbrahAman","image_id":58925},{"match":"cbrahDrO","image_id":67282},{"match":"cbrahRbicep","image_id":82099},{"match":"cbrahFabi","image_id":96666},{"match":"cbrahYas","image_id":105339}]}
+{
+  "name": "twitch-sub-chessbrah",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cbrahLefong",
+      "image_id": 56791
+    },
+    {
+      "match": "cbrahCb",
+      "image_id": 57546
+    },
+    {
+      "match": "cbrahGiraffe",
+      "image_id": 57471
+    },
+    {
+      "match": "cbrahFeels",
+      "image_id": 67946
+    },
+    {
+      "match": "cbrahEric",
+      "image_id": 58878
+    },
+    {
+      "match": "cbrahAman",
+      "image_id": 58925
+    },
+    {
+      "match": "cbrahDrO",
+      "image_id": 67282
+    },
+    {
+      "match": "cbrahRbicep",
+      "image_id": 82099
+    },
+    {
+      "match": "cbrahFabi",
+      "image_id": 96666
+    },
+    {
+      "match": "cbrahYas",
+      "image_id": 105339
+    }
+  ]
+}

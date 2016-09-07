@@ -1,1 +1,83 @@
-{"name":"twitch-sub-docgotgame","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"docBoom","image_id":46026},{"match":"docCry","image_id":62900},{"match":"docMoney","image_id":62901},{"match":"docRage","image_id":62899},{"match":"docShots","image_id":83613},{"match":"docLuv","image_id":83598},{"match":"docCreep","image_id":67434},{"match":"docHype","image_id":67435},{"match":"docRekt","image_id":67437},{"match":"docOops","image_id":74150},{"match":"docFail","image_id":83734},{"match":"docNo","image_id":85236},{"match":"docYes","image_id":85237},{"match":"docHi","image_id":94219},{"match":"docRun","image_id":94221},{"match":"docDed","image_id":95465},{"match":"docGasm","image_id":95466},{"match":"docSalute","image_id":95467},{"match":"docTrig","image_id":94223}]}
+{
+  "name": "twitch-sub-docgotgame",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "docBoom",
+      "image_id": 46026
+    },
+    {
+      "match": "docCry",
+      "image_id": 62900
+    },
+    {
+      "match": "docMoney",
+      "image_id": 62901
+    },
+    {
+      "match": "docRage",
+      "image_id": 62899
+    },
+    {
+      "match": "docShots",
+      "image_id": 83613
+    },
+    {
+      "match": "docLuv",
+      "image_id": 83598
+    },
+    {
+      "match": "docCreep",
+      "image_id": 67434
+    },
+    {
+      "match": "docHype",
+      "image_id": 67435
+    },
+    {
+      "match": "docRekt",
+      "image_id": 67437
+    },
+    {
+      "match": "docOops",
+      "image_id": 74150
+    },
+    {
+      "match": "docFail",
+      "image_id": 83734
+    },
+    {
+      "match": "docNo",
+      "image_id": 85236
+    },
+    {
+      "match": "docYes",
+      "image_id": 85237
+    },
+    {
+      "match": "docHi",
+      "image_id": 94219
+    },
+    {
+      "match": "docRun",
+      "image_id": 94221
+    },
+    {
+      "match": "docDed",
+      "image_id": 95465
+    },
+    {
+      "match": "docGasm",
+      "image_id": 95466
+    },
+    {
+      "match": "docSalute",
+      "image_id": 95467
+    },
+    {
+      "match": "docTrig",
+      "image_id": 94223
+    }
+  ]
+}

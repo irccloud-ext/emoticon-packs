@@ -1,1 +1,31 @@
-{"name":"twitch-sub-cagripacin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cagG","image_id":40211},{"match":"cagS","image_id":40247},{"match":"cagK","image_id":41383},{"match":"cagL","image_id":53937},{"match":"cagPt","image_id":66869},{"match":"cagATA","image_id":66936}]}
+{
+  "name": "twitch-sub-cagripacin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cagG",
+      "image_id": 40211
+    },
+    {
+      "match": "cagS",
+      "image_id": 40247
+    },
+    {
+      "match": "cagK",
+      "image_id": 41383
+    },
+    {
+      "match": "cagL",
+      "image_id": 53937
+    },
+    {
+      "match": "cagPt",
+      "image_id": 66869
+    },
+    {
+      "match": "cagATA",
+      "image_id": 66936
+    }
+  ]
+}

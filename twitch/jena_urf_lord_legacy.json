@@ -1,1 +1,67 @@
-{"name":"twitch-sub-jena_urf_lord_legacy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jenaurfBamgasm","image_id":17816},{"match":"jenaurfGasm","image_id":111372},{"match":"jenaurfRage","image_id":29202},{"match":"jenaurfCreep","image_id":43820},{"match":"jenaurfFru","image_id":110601},{"match":"jenaurfLove","image_id":110604},{"match":"jenaurfWink","image_id":110605},{"match":"jenaurfWeeb","image_id":110606},{"match":"jenaurfHi","image_id":110607},{"match":"jenaurfUrf","image_id":110608},{"match":"jenaurfGn","image_id":110610},{"match":"jenaurfEz","image_id":110611},{"match":"jenaurfPls","image_id":110612},{"match":"jenaurfCry","image_id":110613},{"match":"jenaurfLord","image_id":110614}]}
+{
+  "name": "twitch-sub-jena_urf_lord_legacy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jenaurfBamgasm",
+      "image_id": 17816
+    },
+    {
+      "match": "jenaurfGasm",
+      "image_id": 111372
+    },
+    {
+      "match": "jenaurfRage",
+      "image_id": 29202
+    },
+    {
+      "match": "jenaurfCreep",
+      "image_id": 43820
+    },
+    {
+      "match": "jenaurfFru",
+      "image_id": 110601
+    },
+    {
+      "match": "jenaurfLove",
+      "image_id": 110604
+    },
+    {
+      "match": "jenaurfWink",
+      "image_id": 110605
+    },
+    {
+      "match": "jenaurfWeeb",
+      "image_id": 110606
+    },
+    {
+      "match": "jenaurfHi",
+      "image_id": 110607
+    },
+    {
+      "match": "jenaurfUrf",
+      "image_id": 110608
+    },
+    {
+      "match": "jenaurfGn",
+      "image_id": 110610
+    },
+    {
+      "match": "jenaurfEz",
+      "image_id": 110611
+    },
+    {
+      "match": "jenaurfPls",
+      "image_id": 110612
+    },
+    {
+      "match": "jenaurfCry",
+      "image_id": 110613
+    },
+    {
+      "match": "jenaurfLord",
+      "image_id": 110614
+    }
+  ]
+}

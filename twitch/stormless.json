@@ -1,1 +1,23 @@
-{"name":"twitch-sub-stormless","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"st0rmMore","image_id":91351},{"match":"st0rmBug","image_id":97865},{"match":"st0rmWTF","image_id":97866},{"match":"st0rmCry","image_id":97867}]}
+{
+  "name": "twitch-sub-stormless",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "st0rmMore",
+      "image_id": 91351
+    },
+    {
+      "match": "st0rmBug",
+      "image_id": 97865
+    },
+    {
+      "match": "st0rmWTF",
+      "image_id": 97866
+    },
+    {
+      "match": "st0rmCry",
+      "image_id": 97867
+    }
+  ]
+}

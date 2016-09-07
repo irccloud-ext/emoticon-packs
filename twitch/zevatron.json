@@ -1,1 +1,31 @@
-{"name":"twitch-sub-zevatron","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zevaTRON","image_id":30852},{"match":"zevaPORO","image_id":33888},{"match":"zevaNAMI","image_id":33886},{"match":"zevaOIE","image_id":33718},{"match":"zevaCORE","image_id":37770},{"match":"zevaPARCA","image_id":37773}]}
+{
+  "name": "twitch-sub-zevatron",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zevaTRON",
+      "image_id": 30852
+    },
+    {
+      "match": "zevaPORO",
+      "image_id": 33888
+    },
+    {
+      "match": "zevaNAMI",
+      "image_id": 33886
+    },
+    {
+      "match": "zevaOIE",
+      "image_id": 33718
+    },
+    {
+      "match": "zevaCORE",
+      "image_id": 37770
+    },
+    {
+      "match": "zevaPARCA",
+      "image_id": 37773
+    }
+  ]
+}

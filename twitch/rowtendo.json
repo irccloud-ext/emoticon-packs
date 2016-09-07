@@ -1,1 +1,39 @@
-{"name":"twitch-sub-rowtendo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rowHype","image_id":67938},{"match":"rowThirst","image_id":67932},{"match":"rowCry","image_id":58125},{"match":"rowHeart","image_id":37225},{"match":"rowWhy","image_id":70404},{"match":"rowHug","image_id":70416},{"match":"rowGglez","image_id":87795},{"match":"rowKnees","image_id":87805}]}
+{
+  "name": "twitch-sub-rowtendo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rowHype",
+      "image_id": 67938
+    },
+    {
+      "match": "rowThirst",
+      "image_id": 67932
+    },
+    {
+      "match": "rowCry",
+      "image_id": 58125
+    },
+    {
+      "match": "rowHeart",
+      "image_id": 37225
+    },
+    {
+      "match": "rowWhy",
+      "image_id": 70404
+    },
+    {
+      "match": "rowHug",
+      "image_id": 70416
+    },
+    {
+      "match": "rowGglez",
+      "image_id": 87795
+    },
+    {
+      "match": "rowKnees",
+      "image_id": 87805
+    }
+  ]
+}

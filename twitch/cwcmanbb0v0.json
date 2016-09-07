@@ -1,1 +1,31 @@
-{"name":"twitch-sub-cwcmanbb0v0","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fafa2yaQQ","image_id":52538},{"match":"fafa2yaCry","image_id":55255},{"match":"fafa2yaWhat7ar","image_id":58145},{"match":"fafa2yaHehe","image_id":57510},{"match":"fafa2yaOhno","image_id":58727},{"match":"fafa2yaSiulaibo","image_id":58725}]}
+{
+  "name": "twitch-sub-cwcmanbb0v0",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fafa2yaQQ",
+      "image_id": 52538
+    },
+    {
+      "match": "fafa2yaCry",
+      "image_id": 55255
+    },
+    {
+      "match": "fafa2yaWhat7ar",
+      "image_id": 58145
+    },
+    {
+      "match": "fafa2yaHehe",
+      "image_id": 57510
+    },
+    {
+      "match": "fafa2yaOhno",
+      "image_id": 58727
+    },
+    {
+      "match": "fafa2yaSiulaibo",
+      "image_id": 58725
+    }
+  ]
+}

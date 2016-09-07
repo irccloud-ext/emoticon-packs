@@ -1,1 +1,39 @@
-{"name":"twitch-sub-hattongames","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hattonRobin","image_id":26119},{"match":"hattonGames","image_id":25607},{"match":"hattonVac","image_id":52032},{"match":"hattonAce","image_id":50289},{"match":"hattonRip","image_id":50285},{"match":"hattonRigged","image_id":50284},{"match":"hattonRekt","image_id":50283},{"match":"hattonSub","image_id":52073}]}
+{
+  "name": "twitch-sub-hattongames",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hattonRobin",
+      "image_id": 26119
+    },
+    {
+      "match": "hattonGames",
+      "image_id": 25607
+    },
+    {
+      "match": "hattonVac",
+      "image_id": 52032
+    },
+    {
+      "match": "hattonAce",
+      "image_id": 50289
+    },
+    {
+      "match": "hattonRip",
+      "image_id": 50285
+    },
+    {
+      "match": "hattonRigged",
+      "image_id": 50284
+    },
+    {
+      "match": "hattonRekt",
+      "image_id": 50283
+    },
+    {
+      "match": "hattonSub",
+      "image_id": 52073
+    }
+  ]
+}

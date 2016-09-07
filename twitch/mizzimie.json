@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mizzimie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mizziLit","image_id":108571},{"match":"mizziHi","image_id":94969},{"match":"mizziSquirtle","image_id":91452},{"match":"mizziPunch","image_id":91451},{"match":"mizziPits","image_id":90996},{"match":"mizziW","image_id":93960}]}
+{
+  "name": "twitch-sub-mizzimie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mizziLit",
+      "image_id": 108571
+    },
+    {
+      "match": "mizziHi",
+      "image_id": 94969
+    },
+    {
+      "match": "mizziSquirtle",
+      "image_id": 91452
+    },
+    {
+      "match": "mizziPunch",
+      "image_id": 91451
+    },
+    {
+      "match": "mizziPits",
+      "image_id": 90996
+    },
+    {
+      "match": "mizziW",
+      "image_id": 93960
+    }
+  ]
+}

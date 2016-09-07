@@ -1,1 +1,31 @@
-{"name":"twitch-sub-wyzanow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wyzaTroll","image_id":18532},{"match":"wyzaKnees","image_id":19230},{"match":"wyzaLmbg","image_id":19340},{"match":"wyzaLost","image_id":20834},{"match":"wyzaBan","image_id":20848},{"match":"wyzaBacon","image_id":97158}]}
+{
+  "name": "twitch-sub-wyzanow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wyzaTroll",
+      "image_id": 18532
+    },
+    {
+      "match": "wyzaKnees",
+      "image_id": 19230
+    },
+    {
+      "match": "wyzaLmbg",
+      "image_id": 19340
+    },
+    {
+      "match": "wyzaLost",
+      "image_id": 20834
+    },
+    {
+      "match": "wyzaBan",
+      "image_id": 20848
+    },
+    {
+      "match": "wyzaBacon",
+      "image_id": 97158
+    }
+  ]
+}

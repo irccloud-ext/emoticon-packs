@@ -1,1 +1,19 @@
-{"name":"twitch-sub-toughcookietv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"Zhieeep","image_id":384},{"match":"Puppypower","image_id":385},{"match":"Xian","image_id":390}]}
+{
+  "name": "twitch-sub-toughcookietv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "Zhieeep",
+      "image_id": 384
+    },
+    {
+      "match": "Puppypower",
+      "image_id": 385
+    },
+    {
+      "match": "Xian",
+      "image_id": 390
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-pcull44444","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pattyRIP","image_id":22131},{"match":"pattyWut","image_id":105991},{"match":"pattyParty","image_id":38177},{"match":"pattyPun","image_id":76383},{"match":"pattyRun","image_id":97464},{"match":"pattyPlank","image_id":102724},{"match":"pattyThisIsFine","image_id":86838},{"match":"pattyMLG","image_id":92364},{"match":"pattyGoodGamer","image_id":95577},{"match":"pattyHi","image_id":99200}]}
+{
+  "name": "twitch-sub-pcull44444",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pattyRIP",
+      "image_id": 22131
+    },
+    {
+      "match": "pattyWut",
+      "image_id": 105991
+    },
+    {
+      "match": "pattyParty",
+      "image_id": 38177
+    },
+    {
+      "match": "pattyPun",
+      "image_id": 76383
+    },
+    {
+      "match": "pattyRun",
+      "image_id": 97464
+    },
+    {
+      "match": "pattyPlank",
+      "image_id": 102724
+    },
+    {
+      "match": "pattyThisIsFine",
+      "image_id": 86838
+    },
+    {
+      "match": "pattyMLG",
+      "image_id": 92364
+    },
+    {
+      "match": "pattyGoodGamer",
+      "image_id": 95577
+    },
+    {
+      "match": "pattyHi",
+      "image_id": 99200
+    }
+  ]
+}

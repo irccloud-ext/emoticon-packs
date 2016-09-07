@@ -1,1 +1,23 @@
-{"name":"twitch-sub-redfanny_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fannySub","image_id":91562},{"match":"fannyFail","image_id":88390},{"match":"fannyGG","image_id":91160},{"match":"fannyUnicorn","image_id":91161}]}
+{
+  "name": "twitch-sub-redfanny_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fannySub",
+      "image_id": 91562
+    },
+    {
+      "match": "fannyFail",
+      "image_id": 88390
+    },
+    {
+      "match": "fannyGG",
+      "image_id": 91160
+    },
+    {
+      "match": "fannyUnicorn",
+      "image_id": 91161
+    }
+  ]
+}

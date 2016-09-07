@@ -1,1 +1,39 @@
-{"name":"twitch-sub-officialschneider","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"schneiderJuanDeag","image_id":19144},{"match":"schneiderKappa","image_id":19146},{"match":"schneiderBilzerian","image_id":19199},{"match":"schneiderDealWithIt","image_id":19200},{"match":"schneiderBilly","image_id":28870},{"match":"schneiderM2k","image_id":28869},{"match":"schneiderThump","image_id":28868},{"match":"schneiderBilly","image_id":28887}]}
+{
+  "name": "twitch-sub-officialschneider",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "schneiderJuanDeag",
+      "image_id": 19144
+    },
+    {
+      "match": "schneiderKappa",
+      "image_id": 19146
+    },
+    {
+      "match": "schneiderBilzerian",
+      "image_id": 19199
+    },
+    {
+      "match": "schneiderDealWithIt",
+      "image_id": 19200
+    },
+    {
+      "match": "schneiderBilly",
+      "image_id": 28870
+    },
+    {
+      "match": "schneiderM2k",
+      "image_id": 28869
+    },
+    {
+      "match": "schneiderThump",
+      "image_id": 28868
+    },
+    {
+      "match": "schneiderBilly",
+      "image_id": 28887
+    }
+  ]
+}

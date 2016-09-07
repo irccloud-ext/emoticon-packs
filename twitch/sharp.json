@@ -1,1 +1,63 @@
-{"name":"twitch-sub-sharp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mulletKappa","image_id":8250},{"match":"mulletPiggy","image_id":99740},{"match":"mulletFeels","image_id":79121},{"match":"mulletAyylmao","image_id":71848},{"match":"mulletTK","image_id":71850},{"match":"mulletDBZ","image_id":75904},{"match":"mulletSub","image_id":95960},{"match":"mulletACE","image_id":95941},{"match":"mulletGG","image_id":95934},{"match":"mulletFeelsGood","image_id":99535},{"match":"mulletCode","image_id":100078},{"match":"mulletHairline","image_id":100081},{"match":"mulletGoose","image_id":100082},{"match":"mulletLove","image_id":100087}]}
+{
+  "name": "twitch-sub-sharp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mulletKappa",
+      "image_id": 8250
+    },
+    {
+      "match": "mulletPiggy",
+      "image_id": 99740
+    },
+    {
+      "match": "mulletFeels",
+      "image_id": 79121
+    },
+    {
+      "match": "mulletAyylmao",
+      "image_id": 71848
+    },
+    {
+      "match": "mulletTK",
+      "image_id": 71850
+    },
+    {
+      "match": "mulletDBZ",
+      "image_id": 75904
+    },
+    {
+      "match": "mulletSub",
+      "image_id": 95960
+    },
+    {
+      "match": "mulletACE",
+      "image_id": 95941
+    },
+    {
+      "match": "mulletGG",
+      "image_id": 95934
+    },
+    {
+      "match": "mulletFeelsGood",
+      "image_id": 99535
+    },
+    {
+      "match": "mulletCode",
+      "image_id": 100078
+    },
+    {
+      "match": "mulletHairline",
+      "image_id": 100081
+    },
+    {
+      "match": "mulletGoose",
+      "image_id": 100082
+    },
+    {
+      "match": "mulletLove",
+      "image_id": 100087
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-thegamersjoint","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tgjRekt","image_id":49797},{"match":"tgjDolan","image_id":40650},{"match":"tgjSteve","image_id":46334},{"match":"tgjBruh","image_id":44425},{"match":"tgjJokerCard","image_id":48517},{"match":"tgjRage","image_id":48581},{"match":"tgjLenny","image_id":78581},{"match":"tgjWow","image_id":78582}]}
+{
+  "name": "twitch-sub-thegamersjoint",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tgjRekt",
+      "image_id": 49797
+    },
+    {
+      "match": "tgjDolan",
+      "image_id": 40650
+    },
+    {
+      "match": "tgjSteve",
+      "image_id": 46334
+    },
+    {
+      "match": "tgjBruh",
+      "image_id": 44425
+    },
+    {
+      "match": "tgjJokerCard",
+      "image_id": 48517
+    },
+    {
+      "match": "tgjRage",
+      "image_id": 48581
+    },
+    {
+      "match": "tgjLenny",
+      "image_id": 78581
+    },
+    {
+      "match": "tgjWow",
+      "image_id": 78582
+    }
+  ]
+}

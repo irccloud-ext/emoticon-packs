@@ -1,1 +1,19 @@
-{"name":"twitch-sub-freezion","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gagDANISH","image_id":4739},{"match":"gagCIGAR","image_id":4871},{"match":"gagEYE","image_id":4877}]}
+{
+  "name": "twitch-sub-freezion",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gagDANISH",
+      "image_id": 4739
+    },
+    {
+      "match": "gagCIGAR",
+      "image_id": 4871
+    },
+    {
+      "match": "gagEYE",
+      "image_id": 4877
+    }
+  ]
+}

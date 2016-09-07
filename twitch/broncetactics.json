@@ -1,1 +1,27 @@
-{"name":"twitch-sub-broncetactics","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ououVaya","image_id":30159},{"match":"ououDramas","image_id":62046},{"match":"ououVamos","image_id":101985},{"match":"ououDentro","image_id":101986},{"match":"ououMoonflash","image_id":101199}]}
+{
+  "name": "twitch-sub-broncetactics",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ououVaya",
+      "image_id": 30159
+    },
+    {
+      "match": "ououDramas",
+      "image_id": 62046
+    },
+    {
+      "match": "ououVamos",
+      "image_id": 101985
+    },
+    {
+      "match": "ououDentro",
+      "image_id": 101986
+    },
+    {
+      "match": "ououMoonflash",
+      "image_id": 101199
+    }
+  ]
+}

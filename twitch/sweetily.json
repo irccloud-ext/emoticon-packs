@@ -1,1 +1,23 @@
-{"name":"twitch-sub-sweetily","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sweetilyHi","image_id":100649},{"match":"sweetilyRem","image_id":110700},{"match":"sweetilyShy","image_id":110595},{"match":"sweetilyHype","image_id":111507}]}
+{
+  "name": "twitch-sub-sweetily",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sweetilyHi",
+      "image_id": 100649
+    },
+    {
+      "match": "sweetilyRem",
+      "image_id": 110700
+    },
+    {
+      "match": "sweetilyHype",
+      "image_id": 111507
+    },
+    {
+      "match": "sweetilyRIP",
+      "image_id": 112238
+    }
+  ]
+}

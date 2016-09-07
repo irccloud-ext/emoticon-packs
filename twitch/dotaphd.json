@@ -1,1 +1,19 @@
-{"name":"twitch-sub-dotaphd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dotatkoLg","image_id":16807},{"match":"dotatkoW","image_id":68906},{"match":"dotatkoCrack","image_id":68993}]}
+{
+  "name": "twitch-sub-dotaphd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dotatkoLg",
+      "image_id": 16807
+    },
+    {
+      "match": "dotatkoW",
+      "image_id": 68906
+    },
+    {
+      "match": "dotatkoCrack",
+      "image_id": 68993
+    }
+  ]
+}

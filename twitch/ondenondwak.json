@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ondenondwak","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ondVousi","image_id":57945},{"match":"ondBomby","image_id":59441},{"match":"ondWhoa","image_id":61280},{"match":"ondRage","image_id":61281}]}
+{
+  "name": "twitch-sub-ondenondwak",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ondVousi",
+      "image_id": 57945
+    },
+    {
+      "match": "ondBomby",
+      "image_id": 59441
+    },
+    {
+      "match": "ondWhoa",
+      "image_id": 61280
+    },
+    {
+      "match": "ondRage",
+      "image_id": 61281
+    }
+  ]
+}

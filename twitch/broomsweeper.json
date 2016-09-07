@@ -1,1 +1,31 @@
-{"name":"twitch-sub-broomsweeper","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dabroomFrank","image_id":4679},{"match":"dabroomSweeper","image_id":4719},{"match":"dabroomRedcard","image_id":4893},{"match":"dabroomYellowcard","image_id":4894},{"match":"dabroomTed","image_id":6449},{"match":"dabroomBangs","image_id":6432}]}
+{
+  "name": "twitch-sub-broomsweeper",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dabroomFrank",
+      "image_id": 4679
+    },
+    {
+      "match": "dabroomSweeper",
+      "image_id": 4719
+    },
+    {
+      "match": "dabroomRedcard",
+      "image_id": 4893
+    },
+    {
+      "match": "dabroomYellowcard",
+      "image_id": 4894
+    },
+    {
+      "match": "dabroomTed",
+      "image_id": 6449
+    },
+    {
+      "match": "dabroomBangs",
+      "image_id": 6432
+    }
+  ]
+}

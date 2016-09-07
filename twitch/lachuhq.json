@@ -1,1 +1,47 @@
-{"name":"twitch-sub-lachuhq","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rksRKS","image_id":22294},{"match":"rksGG","image_id":22220},{"match":"rksPozdro","image_id":22904},{"match":"rksPjona","image_id":27261},{"match":"rksQS","image_id":27266},{"match":"rksCebula","image_id":26558},{"match":"rksSub","image_id":28140},{"match":"rksSwag","image_id":33523},{"match":"rksPret","image_id":33562},{"match":"rksSkill","image_id":33563}]}
+{
+  "name": "twitch-sub-lachuhq",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rksRKS",
+      "image_id": 22294
+    },
+    {
+      "match": "rksGG",
+      "image_id": 22220
+    },
+    {
+      "match": "rksPozdro",
+      "image_id": 22904
+    },
+    {
+      "match": "rksPjona",
+      "image_id": 27261
+    },
+    {
+      "match": "rksQS",
+      "image_id": 27266
+    },
+    {
+      "match": "rksCebula",
+      "image_id": 26558
+    },
+    {
+      "match": "rksSub",
+      "image_id": 28140
+    },
+    {
+      "match": "rksSwag",
+      "image_id": 33523
+    },
+    {
+      "match": "rksPret",
+      "image_id": 33562
+    },
+    {
+      "match": "rksSkill",
+      "image_id": 33563
+    }
+  ]
+}

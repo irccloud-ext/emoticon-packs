@@ -1,1 +1,23 @@
-{"name":"twitch-sub-xzeusxgamingx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xzeusxHeart","image_id":94992},{"match":"xzeusxSalty","image_id":94991},{"match":"xzeusxRage","image_id":95873},{"match":"xzeusxRekt","image_id":94981}]}
+{
+  "name": "twitch-sub-xzeusxgamingx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xzeusxHeart",
+      "image_id": 94992
+    },
+    {
+      "match": "xzeusxSalty",
+      "image_id": 94991
+    },
+    {
+      "match": "xzeusxRage",
+      "image_id": 95873
+    },
+    {
+      "match": "xzeusxRekt",
+      "image_id": 94981
+    }
+  ]
+}

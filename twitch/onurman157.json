@@ -1,1 +1,31 @@
-{"name":"twitch-sub-onurman157","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"onurEasy","image_id":74968},{"match":"onurTeq","image_id":74967},{"match":"onurSUBHYPE","image_id":77250},{"match":"onurFAIL","image_id":107228},{"match":"onurGar","image_id":81020},{"match":"onurULTI","image_id":107229}]}
+{
+  "name": "twitch-sub-onurman157",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "onurEasy",
+      "image_id": 74968
+    },
+    {
+      "match": "onurTeq",
+      "image_id": 74967
+    },
+    {
+      "match": "onurSUBHYPE",
+      "image_id": 77250
+    },
+    {
+      "match": "onurFAIL",
+      "image_id": 107228
+    },
+    {
+      "match": "onurGar",
+      "image_id": 81020
+    },
+    {
+      "match": "onurULTI",
+      "image_id": 107229
+    }
+  ]
+}

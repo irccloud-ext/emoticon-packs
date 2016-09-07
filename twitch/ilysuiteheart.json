@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ilysuiteheart","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ilyTeddyTeemo","image_id":9814},{"match":"ilyGrill","image_id":16107},{"match":"ilyFan","image_id":16108},{"match":"ilyRIP","image_id":16110}]}
+{
+  "name": "twitch-sub-ilysuiteheart",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ilyTeddyTeemo",
+      "image_id": 9814
+    },
+    {
+      "match": "ilyGrill",
+      "image_id": 16107
+    },
+    {
+      "match": "ilyFan",
+      "image_id": 16108
+    },
+    {
+      "match": "ilyRIP",
+      "image_id": 16110
+    }
+  ]
+}

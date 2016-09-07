@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mutcrew","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"crewBall","image_id":15721},{"match":"crewLuck","image_id":15722},{"match":"crewCookies","image_id":16112},{"match":"crewRopie","image_id":16119},{"match":"crewSuperman","image_id":17038},{"match":"crewCode","image_id":17121}]}
+{
+  "name": "twitch-sub-mutcrew",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "crewBall",
+      "image_id": 15721
+    },
+    {
+      "match": "crewLuck",
+      "image_id": 15722
+    },
+    {
+      "match": "crewCookies",
+      "image_id": 16112
+    },
+    {
+      "match": "crewRopie",
+      "image_id": 16119
+    },
+    {
+      "match": "crewSuperman",
+      "image_id": 17038
+    },
+    {
+      "match": "crewCode",
+      "image_id": 17121
+    }
+  ]
+}

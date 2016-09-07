@@ -1,1 +1,15 @@
-{"name":"twitch-sub-in4game","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"in4Ashbringer","image_id":111449},{"match":"in4W","image_id":99651}]}
+{
+  "name": "twitch-sub-in4game",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "in4Ashbringer",
+      "image_id": 111449
+    },
+    {
+      "match": "in4W",
+      "image_id": 99651
+    }
+  ]
+}

@@ -1,1 +1,11 @@
-{"name":"twitch-sub-allen_test","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ahklNOM","image_id":50199}]}
+{
+  "name": "twitch-sub-allen_test",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ahklNOM",
+      "image_id": 50199
+    }
+  ]
+}

@@ -1,1 +1,59 @@
-{"name":"twitch-sub-gripex90","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gripGreed","image_id":6100},{"match":"gripFace","image_id":6094},{"match":"gripBeard","image_id":6091},{"match":"gripSin","image_id":6090},{"match":"gripMonk","image_id":10217},{"match":"gripScum","image_id":10219},{"match":"gripRage","image_id":10218},{"match":"gripBull","image_id":58077},{"match":"gripDING","image_id":60269},{"match":"gripHype","image_id":76841},{"match":"gripLove","image_id":76840},{"match":"gripSad","image_id":76839},{"match":"gripFail","image_id":67497}]}
+{
+  "name": "twitch-sub-gripex90",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gripGreed",
+      "image_id": 6100
+    },
+    {
+      "match": "gripFace",
+      "image_id": 6094
+    },
+    {
+      "match": "gripBeard",
+      "image_id": 6091
+    },
+    {
+      "match": "gripSin",
+      "image_id": 6090
+    },
+    {
+      "match": "gripMonk",
+      "image_id": 10217
+    },
+    {
+      "match": "gripScum",
+      "image_id": 10219
+    },
+    {
+      "match": "gripRage",
+      "image_id": 10218
+    },
+    {
+      "match": "gripBull",
+      "image_id": 58077
+    },
+    {
+      "match": "gripDING",
+      "image_id": 60269
+    },
+    {
+      "match": "gripHype",
+      "image_id": 76841
+    },
+    {
+      "match": "gripLove",
+      "image_id": 76840
+    },
+    {
+      "match": "gripSad",
+      "image_id": 76839
+    },
+    {
+      "match": "gripFail",
+      "image_id": 67497
+    }
+  ]
+}

@@ -1,1 +1,43 @@
-{"name":"twitch-sub-skyshocktv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"escaiKHE","image_id":34280},{"match":"escaiKish","image_id":34027},{"match":"escaiGela","image_id":34721},{"match":"escaiPenta","image_id":34771},{"match":"escaiFAILF","image_id":35448},{"match":"escaiSmait","image_id":35337},{"match":"escaiPOPO","image_id":37131},{"match":"escaiNYA","image_id":37106},{"match":"escaiGG","image_id":36841}]}
+{
+  "name": "twitch-sub-skyshocktv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "escaiKHE",
+      "image_id": 34280
+    },
+    {
+      "match": "escaiKish",
+      "image_id": 34027
+    },
+    {
+      "match": "escaiGela",
+      "image_id": 34721
+    },
+    {
+      "match": "escaiPenta",
+      "image_id": 34771
+    },
+    {
+      "match": "escaiFAILF",
+      "image_id": 35448
+    },
+    {
+      "match": "escaiSmait",
+      "image_id": 35337
+    },
+    {
+      "match": "escaiPOPO",
+      "image_id": 37131
+    },
+    {
+      "match": "escaiNYA",
+      "image_id": 37106
+    },
+    {
+      "match": "escaiGG",
+      "image_id": 36841
+    }
+  ]
+}

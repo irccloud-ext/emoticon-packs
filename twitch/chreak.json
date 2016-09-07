@@ -1,1 +1,15 @@
-{"name":"twitch-sub-chreak","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chreakReport","image_id":70946},{"match":"chreakREKT","image_id":70947}]}
+{
+  "name": "twitch-sub-chreak",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chreakReport",
+      "image_id": 70946
+    },
+    {
+      "match": "chreakREKT",
+      "image_id": 70947
+    }
+  ]
+}

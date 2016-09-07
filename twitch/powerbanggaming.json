@@ -1,1 +1,39 @@
-{"name":"twitch-sub-powerbanggaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pbgamingBN","image_id":96630},{"match":"pbgamingGTB","image_id":97834},{"match":"pbgamingAxe","image_id":96373},{"match":"pbgamingBang","image_id":96374},{"match":"pbgamingLegend","image_id":96376},{"match":"pbgamingGoodGuys","image_id":96505},{"match":"pbgamingPar","image_id":101836},{"match":"pbgamingSub","image_id":107184}]}
+{
+  "name": "twitch-sub-powerbanggaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pbgamingBN",
+      "image_id": 96630
+    },
+    {
+      "match": "pbgamingGTB",
+      "image_id": 97834
+    },
+    {
+      "match": "pbgamingAxe",
+      "image_id": 96373
+    },
+    {
+      "match": "pbgamingBang",
+      "image_id": 96374
+    },
+    {
+      "match": "pbgamingLegend",
+      "image_id": 96376
+    },
+    {
+      "match": "pbgamingGoodGuys",
+      "image_id": 96505
+    },
+    {
+      "match": "pbgamingPar",
+      "image_id": 101836
+    },
+    {
+      "match": "pbgamingSub",
+      "image_id": 107184
+    }
+  ]
+}

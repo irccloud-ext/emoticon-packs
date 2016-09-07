@@ -1,1 +1,31 @@
-{"name":"twitch-sub-saltydotabot","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"saltyQuest","image_id":3584},{"match":"saltyMike","image_id":3720},{"match":"saltyGold","image_id":5477},{"match":"saltyKappa","image_id":5478},{"match":"saltySilence","image_id":7742},{"match":"saltyTrashtalk","image_id":7743}]}
+{
+  "name": "twitch-sub-saltydotabot",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "saltyQuest",
+      "image_id": 3584
+    },
+    {
+      "match": "saltyMike",
+      "image_id": 3720
+    },
+    {
+      "match": "saltyGold",
+      "image_id": 5477
+    },
+    {
+      "match": "saltyKappa",
+      "image_id": 5478
+    },
+    {
+      "match": "saltySilence",
+      "image_id": 7742
+    },
+    {
+      "match": "saltyTrashtalk",
+      "image_id": 7743
+    }
+  ]
+}

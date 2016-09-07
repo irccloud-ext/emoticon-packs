@@ -1,1 +1,19 @@
-{"name":"twitch-sub-linkdota","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"linkMad","image_id":1704},{"match":"linkLife","image_id":1703},{"match":"linkKapp","image_id":1990}]}
+{
+  "name": "twitch-sub-linkdota",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "linkMad",
+      "image_id": 1704
+    },
+    {
+      "match": "linkLife",
+      "image_id": 1703
+    },
+    {
+      "match": "linkKapp",
+      "image_id": 1990
+    }
+  ]
+}

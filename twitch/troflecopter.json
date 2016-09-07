@@ -1,1 +1,35 @@
-{"name":"twitch-sub-troflecopter","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"trofleB1","image_id":48301},{"match":"trofleRip","image_id":48280},{"match":"trofleRampDdos","image_id":48281},{"match":"trofleInc","image_id":48120},{"match":"trofleCopter","image_id":48083},{"match":"trofleSnail","image_id":73873},{"match":"trofleMoon","image_id":90792}]}
+{
+  "name": "twitch-sub-troflecopter",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "trofleB1",
+      "image_id": 48301
+    },
+    {
+      "match": "trofleRip",
+      "image_id": 48280
+    },
+    {
+      "match": "trofleRampDdos",
+      "image_id": 48281
+    },
+    {
+      "match": "trofleInc",
+      "image_id": 48120
+    },
+    {
+      "match": "trofleCopter",
+      "image_id": 48083
+    },
+    {
+      "match": "trofleSnail",
+      "image_id": 73873
+    },
+    {
+      "match": "trofleMoon",
+      "image_id": 90792
+    }
+  ]
+}

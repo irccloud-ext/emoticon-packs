@@ -1,1 +1,15 @@
-{"name":"twitch-sub-bij0rn","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pascontentBij0rn","image_id":109840},{"match":"pascontentPensif","image_id":109841}]}
+{
+  "name": "twitch-sub-bij0rn",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pascontentBij0rn",
+      "image_id": 109840
+    },
+    {
+      "match": "pascontentPensif",
+      "image_id": 109841
+    }
+  ]
+}

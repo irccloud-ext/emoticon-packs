@@ -1,1 +1,23 @@
-{"name":"twitch-sub-wiggled","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wiggledNerd","image_id":66715},{"match":"wiggled1","image_id":51041},{"match":"wiggledMole","image_id":65611},{"match":"wiggledCya","image_id":69934}]}
+{
+  "name": "twitch-sub-wiggled",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wiggledNerd",
+      "image_id": 66715
+    },
+    {
+      "match": "wiggled1",
+      "image_id": 51041
+    },
+    {
+      "match": "wiggledMole",
+      "image_id": 65611
+    },
+    {
+      "match": "wiggledCya",
+      "image_id": 69934
+    }
+  ]
+}

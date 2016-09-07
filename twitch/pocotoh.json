@@ -1,1 +1,15 @@
-{"name":"twitch-sub-pocotoh","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pctBixcoito","image_id":38260},{"match":"pctKappa","image_id":38255}]}
+{
+  "name": "twitch-sub-pocotoh",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pctBixcoito",
+      "image_id": 38260
+    },
+    {
+      "match": "pctKappa",
+      "image_id": 38255
+    }
+  ]
+}

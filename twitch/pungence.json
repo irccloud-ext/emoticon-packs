@@ -1,1 +1,39 @@
-{"name":"twitch-sub-pungence","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pungenceSplosionboots","image_id":26152},{"match":"pungenceAvatar","image_id":25982},{"match":"pungenceHolycrap","image_id":27122},{"match":"pungenceBlast","image_id":27927},{"match":"pungenceNosewhistle","image_id":30076},{"match":"pungenceWow","image_id":29325},{"match":"pungenceNaw","image_id":34352},{"match":"pungenceBroke","image_id":38985}]}
+{
+  "name": "twitch-sub-pungence",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pungenceSplosionboots",
+      "image_id": 26152
+    },
+    {
+      "match": "pungenceAvatar",
+      "image_id": 25982
+    },
+    {
+      "match": "pungenceHolycrap",
+      "image_id": 27122
+    },
+    {
+      "match": "pungenceBlast",
+      "image_id": 27927
+    },
+    {
+      "match": "pungenceNosewhistle",
+      "image_id": 30076
+    },
+    {
+      "match": "pungenceWow",
+      "image_id": 29325
+    },
+    {
+      "match": "pungenceNaw",
+      "image_id": 34352
+    },
+    {
+      "match": "pungenceBroke",
+      "image_id": 38985
+    }
+  ]
+}

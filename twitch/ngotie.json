@@ -1,1 +1,43 @@
-{"name":"twitch-sub-ngotie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ngoC","image_id":73807},{"match":"ngoPhil","image_id":1685},{"match":"ngoFlank","image_id":1683},{"match":"ngoMug","image_id":5180},{"match":"ngoBC","image_id":22960},{"match":"ngoL","image_id":39040},{"match":"ngoA","image_id":75486},{"match":"ngoP","image_id":75484},{"match":"ngoT","image_id":78636}]}
+{
+  "name": "twitch-sub-ngotie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ngoC",
+      "image_id": 73807
+    },
+    {
+      "match": "ngoPhil",
+      "image_id": 1685
+    },
+    {
+      "match": "ngoFlank",
+      "image_id": 1683
+    },
+    {
+      "match": "ngoMug",
+      "image_id": 5180
+    },
+    {
+      "match": "ngoBC",
+      "image_id": 22960
+    },
+    {
+      "match": "ngoL",
+      "image_id": 39040
+    },
+    {
+      "match": "ngoA",
+      "image_id": 75486
+    },
+    {
+      "match": "ngoP",
+      "image_id": 75484
+    },
+    {
+      "match": "ngoT",
+      "image_id": 78636
+    }
+  ]
+}

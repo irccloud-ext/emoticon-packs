@@ -1,1 +1,39 @@
-{"name":"twitch-sub-chippum","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chpyW","image_id":107147},{"match":"chpyPride","image_id":107144},{"match":"chpyRoast","image_id":110669},{"match":"chpyLewd","image_id":110670},{"match":"chpyHappy","image_id":109497},{"match":"chpyRippy","image_id":109498},{"match":"chpyXD","image_id":109499},{"match":"chpyHype","image_id":109500}]}
+{
+  "name": "twitch-sub-chippum",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chpyW",
+      "image_id": 107147
+    },
+    {
+      "match": "chpyPride",
+      "image_id": 107144
+    },
+    {
+      "match": "chpyRoast",
+      "image_id": 110669
+    },
+    {
+      "match": "chpyLewd",
+      "image_id": 110670
+    },
+    {
+      "match": "chpyHappy",
+      "image_id": 109497
+    },
+    {
+      "match": "chpyRippy",
+      "image_id": 109498
+    },
+    {
+      "match": "chpyXD",
+      "image_id": 109499
+    },
+    {
+      "match": "chpyHype",
+      "image_id": 109500
+    }
+  ]
+}

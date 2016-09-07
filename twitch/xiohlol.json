@@ -1,1 +1,35 @@
-{"name":"twitch-sub-xiohlol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xiohW","image_id":47868},{"match":"xiohFeels","image_id":74008},{"match":"xiohH","image_id":74009},{"match":"xiohEU","image_id":81347},{"match":"xiohNA","image_id":69888},{"match":"xiohSandwich","image_id":69892},{"match":"xiohYuki","image_id":78913}]}
+{
+  "name": "twitch-sub-xiohlol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xiohW",
+      "image_id": 47868
+    },
+    {
+      "match": "xiohFeels",
+      "image_id": 74008
+    },
+    {
+      "match": "xiohH",
+      "image_id": 74009
+    },
+    {
+      "match": "xiohEU",
+      "image_id": 81347
+    },
+    {
+      "match": "xiohNA",
+      "image_id": 69888
+    },
+    {
+      "match": "xiohSandwich",
+      "image_id": 69892
+    },
+    {
+      "match": "xiohYuki",
+      "image_id": 78913
+    }
+  ]
+}

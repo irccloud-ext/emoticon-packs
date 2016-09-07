@@ -1,1 +1,35 @@
-{"name":"twitch-sub-jjpasak","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pasakThump","image_id":81220},{"match":"pasakHappythump","image_id":81219},{"match":"pasakSellout","image_id":91662},{"match":"pasakW","image_id":82896},{"match":"pasakFail","image_id":83017},{"match":"pasakXD","image_id":93018},{"match":"pasakLove","image_id":100719}]}
+{
+  "name": "twitch-sub-jjpasak",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pasakThump",
+      "image_id": 81220
+    },
+    {
+      "match": "pasakHappythump",
+      "image_id": 81219
+    },
+    {
+      "match": "pasakSellout",
+      "image_id": 91662
+    },
+    {
+      "match": "pasakW",
+      "image_id": 82896
+    },
+    {
+      "match": "pasakFail",
+      "image_id": 83017
+    },
+    {
+      "match": "pasakXD",
+      "image_id": 93018
+    },
+    {
+      "match": "pasakLove",
+      "image_id": 100719
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-jackfrags","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jf1Frag","image_id":11503},{"match":"jf1Mega","image_id":11501},{"match":"jf1Shark","image_id":64380},{"match":"jf1Clutch","image_id":64378},{"match":"jf1Love","image_id":64377},{"match":"jf1Rip","image_id":64376},{"match":"jf1Wantsum","image_id":64375},{"match":"jf1Hax","image_id":64381}]}
+{
+  "name": "twitch-sub-jackfrags",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jf1Frag",
+      "image_id": 11503
+    },
+    {
+      "match": "jf1Mega",
+      "image_id": 11501
+    },
+    {
+      "match": "jf1Shark",
+      "image_id": 64380
+    },
+    {
+      "match": "jf1Clutch",
+      "image_id": 64378
+    },
+    {
+      "match": "jf1Love",
+      "image_id": 64377
+    },
+    {
+      "match": "jf1Rip",
+      "image_id": 64376
+    },
+    {
+      "match": "jf1Wantsum",
+      "image_id": 64375
+    },
+    {
+      "match": "jf1Hax",
+      "image_id": 64381
+    }
+  ]
+}

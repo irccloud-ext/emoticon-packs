@@ -1,1 +1,27 @@
-{"name":"twitch-sub-anhierawrs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"anhDab","image_id":101476},{"match":"anhHeart","image_id":88330},{"match":"anhSquad","image_id":81139},{"match":"anhFeels","image_id":101155},{"match":"anhGasm","image_id":101157}]}
+{
+  "name": "twitch-sub-anhierawrs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "anhDab",
+      "image_id": 101476
+    },
+    {
+      "match": "anhHeart",
+      "image_id": 88330
+    },
+    {
+      "match": "anhSquad",
+      "image_id": 81139
+    },
+    {
+      "match": "anhFeels",
+      "image_id": 101155
+    },
+    {
+      "match": "anhGasm",
+      "image_id": 101157
+    }
+  ]
+}

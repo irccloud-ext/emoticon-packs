@@ -1,1 +1,19 @@
-{"name":"twitch-sub-threehue","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"threeGunk","image_id":59435},{"match":"threeKappa","image_id":59423},{"match":"threeMain","image_id":92403}]}
+{
+  "name": "twitch-sub-threehue",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "threeGunk",
+      "image_id": 59435
+    },
+    {
+      "match": "threeKappa",
+      "image_id": 59423
+    },
+    {
+      "match": "threeMain",
+      "image_id": 92403
+    }
+  ]
+}

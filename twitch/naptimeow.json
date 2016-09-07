@@ -1,1 +1,31 @@
-{"name":"twitch-sub-naptimeow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"napTrash","image_id":105900},{"match":"napVAC","image_id":104127},{"match":"napPuke","image_id":105762},{"match":"napNut","image_id":111268},{"match":"napDab","image_id":106242},{"match":"napFG","image_id":110832}]}
+{
+  "name": "twitch-sub-naptimeow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "napTrash",
+      "image_id": 105900
+    },
+    {
+      "match": "napPuke",
+      "image_id": 105762
+    },
+    {
+      "match": "napNut",
+      "image_id": 111268
+    },
+    {
+      "match": "napDab",
+      "image_id": 106242
+    },
+    {
+      "match": "napTempo",
+      "image_id": 112049
+    },
+    {
+      "match": "napFG",
+      "image_id": 110832
+    }
+  ]
+}

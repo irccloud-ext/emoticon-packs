@@ -1,1 +1,23 @@
-{"name":"twitch-sub-hearthtrolden","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hearthSax","image_id":13756},{"match":"hearthTroll","image_id":13844},{"match":"hearthSend","image_id":27946},{"match":"hearthKitty","image_id":27950}]}
+{
+  "name": "twitch-sub-hearthtrolden",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hearthSax",
+      "image_id": 13756
+    },
+    {
+      "match": "hearthTroll",
+      "image_id": 13844
+    },
+    {
+      "match": "hearthSend",
+      "image_id": 27946
+    },
+    {
+      "match": "hearthKitty",
+      "image_id": 27950
+    }
+  ]
+}

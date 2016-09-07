@@ -1,1 +1,87 @@
-{"name":"twitch-sub-jahrein","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jahRein","image_id":9161},{"match":"jahGelgerahi","image_id":9166},{"match":"jahRage","image_id":9162},{"match":"jahPleb","image_id":60007},{"match":"jahSeven","image_id":9193},{"match":"jahOcam","image_id":59738},{"match":"jahUganda","image_id":59743},{"match":"jahDanjor","image_id":61276},{"match":"jahGasm","image_id":59758},{"match":"jahSleeper","image_id":59761},{"match":"jahFeels","image_id":61271},{"match":"jahChamp","image_id":61272},{"match":"jahPride","image_id":61273},{"match":"jahZi","image_id":61275},{"match":"jahAim","image_id":69825},{"match":"jahKont","image_id":69827},{"match":"jahFail","image_id":69826},{"match":"jahBalta","image_id":69824},{"match":"jahKoku","image_id":71501},{"match":"jahUdi","image_id":88138}]}
+{
+  "name": "twitch-sub-jahrein",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jahRein",
+      "image_id": 9161
+    },
+    {
+      "match": "jahGelgerahi",
+      "image_id": 9166
+    },
+    {
+      "match": "jahRage",
+      "image_id": 9162
+    },
+    {
+      "match": "jahPleb",
+      "image_id": 60007
+    },
+    {
+      "match": "jahSeven",
+      "image_id": 9193
+    },
+    {
+      "match": "jahOcam",
+      "image_id": 59738
+    },
+    {
+      "match": "jahUganda",
+      "image_id": 59743
+    },
+    {
+      "match": "jahDanjor",
+      "image_id": 61276
+    },
+    {
+      "match": "jahGasm",
+      "image_id": 59758
+    },
+    {
+      "match": "jahSleeper",
+      "image_id": 59761
+    },
+    {
+      "match": "jahFeels",
+      "image_id": 61271
+    },
+    {
+      "match": "jahChamp",
+      "image_id": 61272
+    },
+    {
+      "match": "jahPride",
+      "image_id": 61273
+    },
+    {
+      "match": "jahZi",
+      "image_id": 61275
+    },
+    {
+      "match": "jahAim",
+      "image_id": 69825
+    },
+    {
+      "match": "jahKont",
+      "image_id": 69827
+    },
+    {
+      "match": "jahFail",
+      "image_id": 69826
+    },
+    {
+      "match": "jahBalta",
+      "image_id": 69824
+    },
+    {
+      "match": "jahKoku",
+      "image_id": 71501
+    },
+    {
+      "match": "jahUdi",
+      "image_id": 88138
+    }
+  ]
+}

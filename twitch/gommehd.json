@@ -1,1 +1,23 @@
-{"name":"twitch-sub-gommehd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gommeD","image_id":48965},{"match":"gommeGG","image_id":48622},{"match":"gommeFail","image_id":49791},{"match":"gommeMode","image_id":48489}]}
+{
+  "name": "twitch-sub-gommehd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gommeD",
+      "image_id": 48965
+    },
+    {
+      "match": "gommeGG",
+      "image_id": 48622
+    },
+    {
+      "match": "gommeFail",
+      "image_id": 49791
+    },
+    {
+      "match": "gommeMode",
+      "image_id": 48489
+    }
+  ]
+}

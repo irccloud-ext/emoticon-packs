@@ -1,1 +1,47 @@
-{"name":"twitch-sub-cookcleankill","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cckHype","image_id":53851},{"match":"cckChamp","image_id":80265},{"match":"cckLove","image_id":56324},{"match":"cckOlive","image_id":56306},{"match":"cckHi","image_id":57819},{"match":"cckRip","image_id":57435},{"match":"cckRage","image_id":62566},{"match":"cckCry","image_id":62564},{"match":"cckNo","image_id":71427},{"match":"cckShots","image_id":80267}]}
+{
+  "name": "twitch-sub-cookcleankill",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cckHype",
+      "image_id": 53851
+    },
+    {
+      "match": "cckChamp",
+      "image_id": 80265
+    },
+    {
+      "match": "cckLove",
+      "image_id": 56324
+    },
+    {
+      "match": "cckOlive",
+      "image_id": 56306
+    },
+    {
+      "match": "cckHi",
+      "image_id": 57819
+    },
+    {
+      "match": "cckRip",
+      "image_id": 57435
+    },
+    {
+      "match": "cckRage",
+      "image_id": 62566
+    },
+    {
+      "match": "cckCry",
+      "image_id": 62564
+    },
+    {
+      "match": "cckNo",
+      "image_id": 71427
+    },
+    {
+      "match": "cckShots",
+      "image_id": 80267
+    }
+  ]
+}

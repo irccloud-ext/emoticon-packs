@@ -1,1 +1,31 @@
-{"name":"twitch-sub-xo_bunny","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lindsayRekt","image_id":37932},{"match":"lindsayFail","image_id":39928},{"match":"lindsayLove","image_id":90706},{"match":"lindsayHype","image_id":90707},{"match":"lindsayFeels","image_id":96175},{"match":"lindsayW","image_id":95441}]}
+{
+  "name": "twitch-sub-xo_bunny",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lindsayRekt",
+      "image_id": 37932
+    },
+    {
+      "match": "lindsayFail",
+      "image_id": 39928
+    },
+    {
+      "match": "lindsayLove",
+      "image_id": 90706
+    },
+    {
+      "match": "lindsayHype",
+      "image_id": 90707
+    },
+    {
+      "match": "lindsayFeels",
+      "image_id": 96175
+    },
+    {
+      "match": "lindsayW",
+      "image_id": 95441
+    }
+  ]
+}

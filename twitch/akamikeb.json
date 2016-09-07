@@ -1,1 +1,47 @@
-{"name":"twitch-sub-akamikeb","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mikebBIYM","image_id":69421},{"match":"mikebPorkbun","image_id":70277},{"match":"mikebPoop","image_id":68862},{"match":"mikebFace","image_id":68612},{"match":"mikebBFF","image_id":68613},{"match":"mikebDarnell","image_id":68614},{"match":"mikebShrug","image_id":68615},{"match":"mikebDonkey","image_id":68616},{"match":"mikebPanic","image_id":68617},{"match":"mikebGear","image_id":72574}]}
+{
+  "name": "twitch-sub-akamikeb",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mikebBIYM",
+      "image_id": 69421
+    },
+    {
+      "match": "mikebPorkbun",
+      "image_id": 70277
+    },
+    {
+      "match": "mikebPoop",
+      "image_id": 68862
+    },
+    {
+      "match": "mikebFace",
+      "image_id": 68612
+    },
+    {
+      "match": "mikebBFF",
+      "image_id": 68613
+    },
+    {
+      "match": "mikebDarnell",
+      "image_id": 68614
+    },
+    {
+      "match": "mikebShrug",
+      "image_id": 68615
+    },
+    {
+      "match": "mikebDonkey",
+      "image_id": 68616
+    },
+    {
+      "match": "mikebPanic",
+      "image_id": 68617
+    },
+    {
+      "match": "mikebGear",
+      "image_id": 72574
+    }
+  ]
+}

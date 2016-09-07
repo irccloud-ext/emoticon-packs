@@ -1,1 +1,31 @@
-{"name":"twitch-sub-iamfallfromgrace","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"graceDype","image_id":106912},{"match":"graceRage","image_id":106911},{"match":"graceHype","image_id":106910},{"match":"graceHey","image_id":106818},{"match":"graceLove","image_id":106819},{"match":"gracePls","image_id":107240}]}
+{
+  "name": "twitch-sub-iamfallfromgrace",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "graceDype",
+      "image_id": 106912
+    },
+    {
+      "match": "graceRage",
+      "image_id": 106911
+    },
+    {
+      "match": "graceHype",
+      "image_id": 106910
+    },
+    {
+      "match": "graceHey",
+      "image_id": 106818
+    },
+    {
+      "match": "graceLove",
+      "image_id": 106819
+    },
+    {
+      "match": "gracePls",
+      "image_id": 107240
+    }
+  ]
+}

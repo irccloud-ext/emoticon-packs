@@ -1,1 +1,71 @@
-{"name":"twitch-sub-excessiveprofanity","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xxxHOUND","image_id":55562},{"match":"xxxPLICIT","image_id":8910},{"match":"xxxBOOPY","image_id":16529},{"match":"xxxBEAT","image_id":10790},{"match":"xxxFIREBAD","image_id":13309},{"match":"xxxTASY","image_id":14951},{"match":"xxxP","image_id":16948},{"match":"xxxTIASU","image_id":25482},{"match":"xxxCOM","image_id":30279},{"match":"xxxDK","image_id":30446},{"match":"xxxC","image_id":34144},{"match":"xxxB","image_id":37601},{"match":"xxxD","image_id":38435},{"match":"xxxNETAL","image_id":39482},{"match":"xxxMATE","image_id":40079},{"match":"xxxSORROW","image_id":56458}]}
+{
+  "name": "twitch-sub-excessiveprofanity",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xxxHOUND",
+      "image_id": 55562
+    },
+    {
+      "match": "xxxPLICIT",
+      "image_id": 8910
+    },
+    {
+      "match": "xxxBOOPY",
+      "image_id": 16529
+    },
+    {
+      "match": "xxxBEAT",
+      "image_id": 10790
+    },
+    {
+      "match": "xxxFIREBAD",
+      "image_id": 13309
+    },
+    {
+      "match": "xxxTASY",
+      "image_id": 14951
+    },
+    {
+      "match": "xxxP",
+      "image_id": 16948
+    },
+    {
+      "match": "xxxTIASU",
+      "image_id": 25482
+    },
+    {
+      "match": "xxxCOM",
+      "image_id": 30279
+    },
+    {
+      "match": "xxxDK",
+      "image_id": 30446
+    },
+    {
+      "match": "xxxC",
+      "image_id": 34144
+    },
+    {
+      "match": "xxxB",
+      "image_id": 37601
+    },
+    {
+      "match": "xxxD",
+      "image_id": 38435
+    },
+    {
+      "match": "xxxNETAL",
+      "image_id": 39482
+    },
+    {
+      "match": "xxxMATE",
+      "image_id": 40079
+    },
+    {
+      "match": "xxxSORROW",
+      "image_id": 56458
+    }
+  ]
+}

@@ -1,1 +1,43 @@
-{"name":"twitch-sub-twitchplaysworldcup","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tpwcGoal","image_id":14983},{"match":"tpwcKappaBrazil","image_id":14984},{"match":"tpwcKappaUsa","image_id":14987},{"match":"tpwcKappaChile","image_id":14985},{"match":"tpwcKappaMexico","image_id":14986},{"match":"tpwcRedCard","image_id":14988},{"match":"tpwcVuvuzela","image_id":14989},{"match":"tpwcWhistle","image_id":14990},{"match":"tpwcYellowCard","image_id":14991}]}
+{
+  "name": "twitch-sub-twitchplaysworldcup",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tpwcGoal",
+      "image_id": 14983
+    },
+    {
+      "match": "tpwcKappaBrazil",
+      "image_id": 14984
+    },
+    {
+      "match": "tpwcKappaUsa",
+      "image_id": 14987
+    },
+    {
+      "match": "tpwcKappaChile",
+      "image_id": 14985
+    },
+    {
+      "match": "tpwcKappaMexico",
+      "image_id": 14986
+    },
+    {
+      "match": "tpwcRedCard",
+      "image_id": 14988
+    },
+    {
+      "match": "tpwcVuvuzela",
+      "image_id": 14989
+    },
+    {
+      "match": "tpwcWhistle",
+      "image_id": 14990
+    },
+    {
+      "match": "tpwcYellowCard",
+      "image_id": 14991
+    }
+  ]
+}

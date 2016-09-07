@@ -1,1 +1,23 @@
-{"name":"twitch-sub-pjs_winning","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"winCollusion","image_id":3043},{"match":"winJoke","image_id":6784},{"match":"winSECRET","image_id":11276},{"match":"winHype","image_id":11277}]}
+{
+  "name": "twitch-sub-pjs_winning",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "winCollusion",
+      "image_id": 3043
+    },
+    {
+      "match": "winJoke",
+      "image_id": 6784
+    },
+    {
+      "match": "winSECRET",
+      "image_id": 11276
+    },
+    {
+      "match": "winHype",
+      "image_id": 11277
+    }
+  ]
+}

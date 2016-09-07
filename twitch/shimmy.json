@@ -1,1 +1,23 @@
-{"name":"twitch-sub-shimmy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shimTurtle","image_id":11140},{"match":"shimPink","image_id":11171},{"match":"shimGogi","image_id":11170},{"match":"shimGasm","image_id":11142}]}
+{
+  "name": "twitch-sub-shimmy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shimTurtle",
+      "image_id": 11140
+    },
+    {
+      "match": "shimPink",
+      "image_id": 11171
+    },
+    {
+      "match": "shimGogi",
+      "image_id": 11170
+    },
+    {
+      "match": "shimGasm",
+      "image_id": 11142
+    }
+  ]
+}

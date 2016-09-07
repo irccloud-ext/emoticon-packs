@@ -1,1 +1,31 @@
-{"name":"twitch-sub-agilezerg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"agiShrekt","image_id":16667},{"match":"agiAyy","image_id":30768},{"match":"agiMold","image_id":30698},{"match":"agiMLG","image_id":33529},{"match":"agiGnome","image_id":33458},{"match":"agiMeme","image_id":34635}]}
+{
+  "name": "twitch-sub-agilezerg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "agiShrekt",
+      "image_id": 16667
+    },
+    {
+      "match": "agiAyy",
+      "image_id": 30768
+    },
+    {
+      "match": "agiMold",
+      "image_id": 30698
+    },
+    {
+      "match": "agiMLG",
+      "image_id": 33529
+    },
+    {
+      "match": "agiGnome",
+      "image_id": 33458
+    },
+    {
+      "match": "agiMeme",
+      "image_id": 34635
+    }
+  ]
+}

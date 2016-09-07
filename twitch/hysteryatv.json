@@ -1,1 +1,15 @@
-{"name":"twitch-sub-hysteryatv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hysBoss","image_id":46618},{"match":"hysBolita","image_id":46619}]}
+{
+  "name": "twitch-sub-hysteryatv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hysBoss",
+      "image_id": 46618
+    },
+    {
+      "match": "hysBolita",
+      "image_id": 46619
+    }
+  ]
+}

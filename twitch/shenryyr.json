@@ -1,1 +1,67 @@
-{"name":"twitch-sub-shenryyr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shenChair","image_id":40716},{"match":"shenYes","image_id":105186},{"match":"shenFF","image_id":105184},{"match":"shenStronk","image_id":27809},{"match":"shenDerp","image_id":39197},{"match":"shenCat","image_id":48295},{"match":"shenZ","image_id":54163},{"match":"shenRIP","image_id":53476},{"match":"shenExcite","image_id":63922},{"match":"shenSmersh","image_id":101766},{"match":"shenCoffee","image_id":105905},{"match":"shenHak","image_id":100724},{"match":"shenWut","image_id":104350},{"match":"shenRage","image_id":105906},{"match":"shenCreep","image_id":108363}]}
+{
+  "name": "twitch-sub-shenryyr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shenChair",
+      "image_id": 40716
+    },
+    {
+      "match": "shenYes",
+      "image_id": 105186
+    },
+    {
+      "match": "shenFF",
+      "image_id": 105184
+    },
+    {
+      "match": "shenStronk",
+      "image_id": 27809
+    },
+    {
+      "match": "shenDerp",
+      "image_id": 39197
+    },
+    {
+      "match": "shenCat",
+      "image_id": 48295
+    },
+    {
+      "match": "shenZ",
+      "image_id": 54163
+    },
+    {
+      "match": "shenRIP",
+      "image_id": 53476
+    },
+    {
+      "match": "shenExcite",
+      "image_id": 63922
+    },
+    {
+      "match": "shenSmersh",
+      "image_id": 101766
+    },
+    {
+      "match": "shenCoffee",
+      "image_id": 105905
+    },
+    {
+      "match": "shenHak",
+      "image_id": 100724
+    },
+    {
+      "match": "shenWut",
+      "image_id": 104350
+    },
+    {
+      "match": "shenRage",
+      "image_id": 105906
+    },
+    {
+      "match": "shenCreep",
+      "image_id": 108363
+    }
+  ]
+}

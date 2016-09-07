@@ -1,1 +1,31 @@
-{"name":"twitch-sub-rafis0","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rafisMiss","image_id":62249},{"match":"rafisW","image_id":60464},{"match":"rafisP","image_id":98600},{"match":"rafisAhoj","image_id":90503},{"match":"rafisChoke","image_id":98615},{"match":"rafisGASM","image_id":98631}]}
+{
+  "name": "twitch-sub-rafis0",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rafisMiss",
+      "image_id": 62249
+    },
+    {
+      "match": "rafisW",
+      "image_id": 60464
+    },
+    {
+      "match": "rafisP",
+      "image_id": 98600
+    },
+    {
+      "match": "rafisAhoj",
+      "image_id": 90503
+    },
+    {
+      "match": "rafisChoke",
+      "image_id": 98615
+    },
+    {
+      "match": "rafisGASM",
+      "image_id": 98631
+    }
+  ]
+}

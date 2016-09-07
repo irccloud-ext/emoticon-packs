@@ -1,1 +1,11 @@
-{"name":"twitch-sub-boxsalesman","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"boxiePotato","image_id":15188}]}
+{
+  "name": "twitch-sub-boxsalesman",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "boxiePotato",
+      "image_id": 15188
+    }
+  ]
+}

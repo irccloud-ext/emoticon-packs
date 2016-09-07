@@ -1,1 +1,19 @@
-{"name":"twitch-sub-rhythmicirl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rhythLove","image_id":97863},{"match":"rhyth1r","image_id":97721},{"match":"rhythFranco","image_id":99725}]}
+{
+  "name": "twitch-sub-rhythmicirl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rhythLove",
+      "image_id": 97863
+    },
+    {
+      "match": "rhyth1r",
+      "image_id": 97721
+    },
+    {
+      "match": "rhythFranco",
+      "image_id": 99725
+    }
+  ]
+}

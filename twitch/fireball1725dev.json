@@ -1,1 +1,39 @@
-{"name":"twitch-sub-fireball1725dev","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fbdME","image_id":27035},{"match":"fbdShamu","image_id":26481},{"match":"fbdHeart","image_id":27034},{"match":"fbdHat","image_id":30069},{"match":"fbdBall","image_id":33903},{"match":"fbdSmile","image_id":33904},{"match":"fbdNation","image_id":32936},{"match":"fbdWrench","image_id":36942}]}
+{
+  "name": "twitch-sub-fireball1725dev",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fbdME",
+      "image_id": 27035
+    },
+    {
+      "match": "fbdShamu",
+      "image_id": 26481
+    },
+    {
+      "match": "fbdHeart",
+      "image_id": 27034
+    },
+    {
+      "match": "fbdHat",
+      "image_id": 30069
+    },
+    {
+      "match": "fbdBall",
+      "image_id": 33903
+    },
+    {
+      "match": "fbdSmile",
+      "image_id": 33904
+    },
+    {
+      "match": "fbdNation",
+      "image_id": 32936
+    },
+    {
+      "match": "fbdWrench",
+      "image_id": 36942
+    }
+  ]
+}

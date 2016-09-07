@@ -1,1 +1,31 @@
-{"name":"twitch-sub-jeenslive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jeensRage","image_id":104498},{"match":"jeensCHSV","image_id":104479},{"match":"jeensHype","image_id":104475},{"match":"jeensMoney","image_id":104471},{"match":"jeensLove","image_id":104469},{"match":"jeens10","image_id":104587}]}
+{
+  "name": "twitch-sub-jeenslive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jeensRage",
+      "image_id": 104498
+    },
+    {
+      "match": "jeensCHSV",
+      "image_id": 104479
+    },
+    {
+      "match": "jeensHype",
+      "image_id": 104475
+    },
+    {
+      "match": "jeensMoney",
+      "image_id": 104471
+    },
+    {
+      "match": "jeensLove",
+      "image_id": 104469
+    },
+    {
+      "match": "jeens10",
+      "image_id": 104587
+    }
+  ]
+}

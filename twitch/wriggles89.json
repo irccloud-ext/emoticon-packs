@@ -1,1 +1,31 @@
-{"name":"twitch-sub-wriggles89","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wrigglesJsi","image_id":103382},{"match":"wrigglesLFCRGR8","image_id":100909},{"match":"wrigglesDanger","image_id":100913},{"match":"wrigglesShock","image_id":104049},{"match":"wrigglesBAlogo","image_id":100727},{"match":"wrigglesLHRtower","image_id":100728}]}
+{
+  "name": "twitch-sub-wriggles89",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wrigglesJsi",
+      "image_id": 103382
+    },
+    {
+      "match": "wrigglesLFCRGR8",
+      "image_id": 100909
+    },
+    {
+      "match": "wrigglesDanger",
+      "image_id": 100913
+    },
+    {
+      "match": "wrigglesShock",
+      "image_id": 104049
+    },
+    {
+      "match": "wrigglesBAlogo",
+      "image_id": 100727
+    },
+    {
+      "match": "wrigglesLHRtower",
+      "image_id": 100728
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"name":"twitch-sub-mmolive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"membreRIP","image_id":101847},{"match":"membreGG","image_id":101843},{"match":"membreSUB","image_id":101849}]}
+{
+  "name": "twitch-sub-mmolive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "membreRIP",
+      "image_id": 101847
+    },
+    {
+      "match": "membreGG",
+      "image_id": 101843
+    },
+    {
+      "match": "membreSUB",
+      "image_id": 101849
+    }
+  ]
+}

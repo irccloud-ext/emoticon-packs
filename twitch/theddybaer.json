@@ -1,0 +1,27 @@
+{
+  "name": "twitch-sub-theddybaer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "theddyHUE",
+      "image_id": 112598
+    },
+    {
+      "match": "theddySHRIMP",
+      "image_id": 112597
+    },
+    {
+      "match": "theddyBLEH",
+      "image_id": 112229
+    },
+    {
+      "match": "theddySTINKI",
+      "image_id": 112101
+    },
+    {
+      "match": "theddyFRANZ",
+      "image_id": 112099
+    }
+  ]
+}

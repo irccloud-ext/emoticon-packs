@@ -1,1 +1,23 @@
-{"name":"twitch-sub-smitecentral","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sctHype","image_id":26380},{"match":"sctRT","image_id":31999},{"match":"sctBosco","image_id":36005},{"match":"sctRIP","image_id":36495}]}
+{
+  "name": "twitch-sub-smitecentral",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sctHype",
+      "image_id": 26380
+    },
+    {
+      "match": "sctRT",
+      "image_id": 31999
+    },
+    {
+      "match": "sctBosco",
+      "image_id": 36005
+    },
+    {
+      "match": "sctRIP",
+      "image_id": 36495
+    }
+  ]
+}

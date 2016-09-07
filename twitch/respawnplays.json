@@ -1,1 +1,47 @@
-{"name":"twitch-sub-respawnplays","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rspSub","image_id":88425},{"match":"rspGG","image_id":92784},{"match":"rspCool","image_id":87688},{"match":"rspSmile","image_id":86913},{"match":"rspReRoll","image_id":87044},{"match":"rspEzSkins","image_id":87042},{"match":"rspYoutube","image_id":90879},{"match":"rspCry","image_id":96498},{"match":"rspRip","image_id":96499},{"match":"rspHappy","image_id":96501}]}
+{
+  "name": "twitch-sub-respawnplays",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rspSub",
+      "image_id": 88425
+    },
+    {
+      "match": "rspGG",
+      "image_id": 92784
+    },
+    {
+      "match": "rspCool",
+      "image_id": 87688
+    },
+    {
+      "match": "rspSmile",
+      "image_id": 86913
+    },
+    {
+      "match": "rspReRoll",
+      "image_id": 87044
+    },
+    {
+      "match": "rspEzSkins",
+      "image_id": 87042
+    },
+    {
+      "match": "rspYoutube",
+      "image_id": 90879
+    },
+    {
+      "match": "rspCry",
+      "image_id": 96498
+    },
+    {
+      "match": "rspRip",
+      "image_id": 96499
+    },
+    {
+      "match": "rspHappy",
+      "image_id": 96501
+    }
+  ]
+}

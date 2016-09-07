@@ -1,1 +1,11 @@
-{"name":"twitch-sub-co_op1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"coopggWp","image_id":43650}]}
+{
+  "name": "twitch-sub-co_op1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "coopggWp",
+      "image_id": 43650
+    }
+  ]
+}

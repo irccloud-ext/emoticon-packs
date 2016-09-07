@@ -1,1 +1,23 @@
-{"name":"twitch-sub-goronguy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"guyHmm","image_id":82761},{"match":"guyMAGIC","image_id":82566},{"match":"guyTheBird","image_id":73281},{"match":"guyAyy","image_id":83313}]}
+{
+  "name": "twitch-sub-goronguy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "guyHmm",
+      "image_id": 82761
+    },
+    {
+      "match": "guyMAGIC",
+      "image_id": 82566
+    },
+    {
+      "match": "guyTheBird",
+      "image_id": 73281
+    },
+    {
+      "match": "guyAyy",
+      "image_id": 83313
+    }
+  ]
+}

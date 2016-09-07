@@ -1,1 +1,27 @@
-{"name":"twitch-sub-arenagamingleague","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aglAmbushEMO","image_id":1668},{"match":"aglBrazillianEMO","image_id":1669},{"match":"aglGoatEMO","image_id":1670},{"match":"aglPawnedEMO","image_id":1671},{"match":"aglSkydivingEMO","image_id":1672}]}
+{
+  "name": "twitch-sub-arenagamingleague",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aglAmbushEMO",
+      "image_id": 1668
+    },
+    {
+      "match": "aglBrazillianEMO",
+      "image_id": 1669
+    },
+    {
+      "match": "aglGoatEMO",
+      "image_id": 1670
+    },
+    {
+      "match": "aglPawnedEMO",
+      "image_id": 1671
+    },
+    {
+      "match": "aglSkydivingEMO",
+      "image_id": 1672
+    }
+  ]
+}

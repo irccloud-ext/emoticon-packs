@@ -1,1 +1,27 @@
-{"name":"twitch-sub-mtgheadquarters","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mtghqRiverboat","image_id":26356},{"match":"mtghqSauce","image_id":26579},{"match":"mtghqOface","image_id":28181},{"match":"mtghqSubhype","image_id":89921},{"match":"mtghqColt","image_id":89929}]}
+{
+  "name": "twitch-sub-mtgheadquarters",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mtghqRiverboat",
+      "image_id": 26356
+    },
+    {
+      "match": "mtghqSauce",
+      "image_id": 26579
+    },
+    {
+      "match": "mtghqOface",
+      "image_id": 28181
+    },
+    {
+      "match": "mtghqSubhype",
+      "image_id": 89921
+    },
+    {
+      "match": "mtghqColt",
+      "image_id": 89929
+    }
+  ]
+}

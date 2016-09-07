@@ -1,1 +1,39 @@
-{"name":"twitch-sub-lolnostam","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nostamWacky","image_id":67069},{"match":"nostamSpooked","image_id":66770},{"match":"nostamWoo","image_id":66769},{"match":"nostamDip","image_id":61196},{"match":"nostamKraken","image_id":61197},{"match":"nostamW","image_id":61035},{"match":"nostamPuke","image_id":68328},{"match":"nostamUnwacky","image_id":68329}]}
+{
+  "name": "twitch-sub-lolnostam",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nostamWacky",
+      "image_id": 67069
+    },
+    {
+      "match": "nostamSpooked",
+      "image_id": 66770
+    },
+    {
+      "match": "nostamWoo",
+      "image_id": 66769
+    },
+    {
+      "match": "nostamDip",
+      "image_id": 61196
+    },
+    {
+      "match": "nostamKraken",
+      "image_id": 61197
+    },
+    {
+      "match": "nostamW",
+      "image_id": 61035
+    },
+    {
+      "match": "nostamPuke",
+      "image_id": 68328
+    },
+    {
+      "match": "nostamUnwacky",
+      "image_id": 68329
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-livinpink","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pinkLivin","image_id":9368},{"match":"pinkWoggles","image_id":9369},{"match":"pinkErneal","image_id":9370},{"match":"pinkArmy","image_id":9371}]}
+{
+  "name": "twitch-sub-livinpink",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pinkLivin",
+      "image_id": 9368
+    },
+    {
+      "match": "pinkWoggles",
+      "image_id": 9369
+    },
+    {
+      "match": "pinkErneal",
+      "image_id": 9370
+    },
+    {
+      "match": "pinkArmy",
+      "image_id": 9371
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-travelyan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"travRAGE","image_id":13025},{"match":"travHert","image_id":13061},{"match":"travRekt","image_id":13068},{"match":"travNSP","image_id":13228},{"match":"travWat","image_id":13229},{"match":"travBakn","image_id":15623},{"match":"travLorg","image_id":16822},{"match":"travBUTT","image_id":86425},{"match":"travERT","image_id":86315},{"match":"travCLINK","image_id":86864}]}
+{
+  "name": "twitch-sub-travelyan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "travRAGE",
+      "image_id": 13025
+    },
+    {
+      "match": "travHert",
+      "image_id": 13061
+    },
+    {
+      "match": "travRekt",
+      "image_id": 13068
+    },
+    {
+      "match": "travNSP",
+      "image_id": 13228
+    },
+    {
+      "match": "travWat",
+      "image_id": 13229
+    },
+    {
+      "match": "travBakn",
+      "image_id": 15623
+    },
+    {
+      "match": "travLorg",
+      "image_id": 16822
+    },
+    {
+      "match": "travBUTT",
+      "image_id": 86425
+    },
+    {
+      "match": "travERT",
+      "image_id": 86315
+    },
+    {
+      "match": "travCLINK",
+      "image_id": 86864
+    }
+  ]
+}

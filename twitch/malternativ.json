@@ -1,1 +1,23 @@
-{"name":"twitch-sub-malternativ","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"malteSteinmensch","image_id":102321},{"match":"malteWTF","image_id":104758},{"match":"malteWHY","image_id":103219},{"match":"malteTinti","image_id":101285}]}
+{
+  "name": "twitch-sub-malternativ",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "malteSteinmensch",
+      "image_id": 102321
+    },
+    {
+      "match": "malteWTF",
+      "image_id": 104758
+    },
+    {
+      "match": "malteWHY",
+      "image_id": 103219
+    },
+    {
+      "match": "malteTinti",
+      "image_id": 101285
+    }
+  ]
+}

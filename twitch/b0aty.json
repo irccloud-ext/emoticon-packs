@@ -1,1 +1,135 @@
-{"name":"twitch-sub-b0aty","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"boatyWahey","image_id":1923},{"match":"boatyTroll","image_id":1959},{"match":"boatyVV","image_id":64582},{"match":"boatySwag","image_id":7621},{"match":"boatyWhale","image_id":10701},{"match":"boatySpecs","image_id":27127},{"match":"boatyCheeky","image_id":27128},{"match":"boatyBoss","image_id":20179},{"match":"boatyOMD","image_id":20181},{"match":"boatyW","image_id":64581},{"match":"boatyToucan","image_id":31299},{"match":"boatyMicMuted","image_id":35795},{"match":"boatyMC","image_id":73780},{"match":"boatyDrugs","image_id":41673},{"match":"boatyThump","image_id":84303},{"match":"boatyRNGinger","image_id":49522},{"match":"boatyH","image_id":62640},{"match":"boatyHaci","image_id":54650},{"match":"boatyMajakka","image_id":62641},{"match":"boatyLate","image_id":73381},{"match":"boaty1","image_id":73383},{"match":"boaty2","image_id":73384},{"match":"boatyNK","image_id":73388},{"match":"boatySTARE","image_id":94153},{"match":"boatyD","image_id":94154},{"match":"boatyR","image_id":94156},{"match":"boatyU","image_id":94157},{"match":"boatyG","image_id":94158}]}
+{
+  "name": "twitch-sub-b0aty",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "boatyWahey",
+      "image_id": 1923
+    },
+    {
+      "match": "boatyTroll",
+      "image_id": 1959
+    },
+    {
+      "match": "boatyVV",
+      "image_id": 64582
+    },
+    {
+      "match": "boatySwag",
+      "image_id": 7621
+    },
+    {
+      "match": "boatyWhale",
+      "image_id": 10701
+    },
+    {
+      "match": "boatySpecs",
+      "image_id": 27127
+    },
+    {
+      "match": "boatyCheeky",
+      "image_id": 27128
+    },
+    {
+      "match": "boatyBoss",
+      "image_id": 20179
+    },
+    {
+      "match": "boatyOMD",
+      "image_id": 20181
+    },
+    {
+      "match": "boatyW",
+      "image_id": 64581
+    },
+    {
+      "match": "boatyToucan",
+      "image_id": 31299
+    },
+    {
+      "match": "boatyMicMuted",
+      "image_id": 35795
+    },
+    {
+      "match": "boatyMC",
+      "image_id": 73780
+    },
+    {
+      "match": "boatyDrugs",
+      "image_id": 41673
+    },
+    {
+      "match": "boatyThump",
+      "image_id": 84303
+    },
+    {
+      "match": "boatyRNGinger",
+      "image_id": 49522
+    },
+    {
+      "match": "boatyH",
+      "image_id": 62640
+    },
+    {
+      "match": "boatyHaci",
+      "image_id": 54650
+    },
+    {
+      "match": "boatyMajakka",
+      "image_id": 62641
+    },
+    {
+      "match": "boatyLate",
+      "image_id": 73381
+    },
+    {
+      "match": "boaty1",
+      "image_id": 73383
+    },
+    {
+      "match": "boaty2",
+      "image_id": 73384
+    },
+    {
+      "match": "boatyNK",
+      "image_id": 73388
+    },
+    {
+      "match": "boatySTARE",
+      "image_id": 94153
+    },
+    {
+      "match": "boatyD",
+      "image_id": 94154
+    },
+    {
+      "match": "boatyR",
+      "image_id": 94156
+    },
+    {
+      "match": "boatyU",
+      "image_id": 94157
+    },
+    {
+      "match": "boatyG",
+      "image_id": 94158
+    },
+    {
+      "match": "boatySELLOUT",
+      "image_id": 112057
+    },
+    {
+      "match": "boatyGoldenDrugs",
+      "image_id": 112058
+    },
+    {
+      "match": "boatyDG",
+      "image_id": 112059
+    },
+    {
+      "match": "boatyFGingerM",
+      "image_id": 112060
+    }
+  ]
+}

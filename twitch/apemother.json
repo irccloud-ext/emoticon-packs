@@ -1,1 +1,15 @@
-{"name":"twitch-sub-apemother","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"joelfacePalm","image_id":73603},{"match":"joelfaceRIP","image_id":73602}]}
+{
+  "name": "twitch-sub-apemother",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "joelfacePalm",
+      "image_id": 73603
+    },
+    {
+      "match": "joelfaceRIP",
+      "image_id": 73602
+    }
+  ]
+}

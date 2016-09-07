@@ -1,1 +1,23 @@
-{"name":"twitch-sub-esl_nuja","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nujaSalut","image_id":88970},{"match":"nujaC","image_id":91645},{"match":"nujaT","image_id":91646},{"match":"nujaPOTG","image_id":87776}]}
+{
+  "name": "twitch-sub-esl_nuja",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nujaSalut",
+      "image_id": 88970
+    },
+    {
+      "match": "nujaC",
+      "image_id": 91645
+    },
+    {
+      "match": "nujaT",
+      "image_id": 91646
+    },
+    {
+      "match": "nujaPOTG",
+      "image_id": 87776
+    }
+  ]
+}

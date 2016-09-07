@@ -1,1 +1,23 @@
-{"name":"twitch-sub-michalwisniewskipl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wisniaKarty","image_id":47027},{"match":"wisniaMikro","image_id":47052},{"match":"wisniaSamolot","image_id":47053},{"match":"wisniaKask","image_id":47054}]}
+{
+  "name": "twitch-sub-michalwisniewskipl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wisniaKarty",
+      "image_id": 47027
+    },
+    {
+      "match": "wisniaMikro",
+      "image_id": 47052
+    },
+    {
+      "match": "wisniaSamolot",
+      "image_id": 47053
+    },
+    {
+      "match": "wisniaKask",
+      "image_id": 47054
+    }
+  ]
+}

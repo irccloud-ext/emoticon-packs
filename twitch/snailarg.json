@@ -1,0 +1,15 @@
+{
+  "name": "twitch-sub-snailarg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "snailargBOT",
+      "image_id": 112126
+    },
+    {
+      "match": "snailargSAL",
+      "image_id": 112130
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-liftingnerdbro","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lnbDyen","image_id":61394},{"match":"lnbGainz","image_id":61393},{"match":"lnbUltra","image_id":61497},{"match":"lnbPushups","image_id":61643},{"match":"lnbReal","image_id":70153},{"match":"lnbBrotein","image_id":70677},{"match":"lnbFlex","image_id":70562},{"match":"lnbRIP","image_id":93566}]}
+{
+  "name": "twitch-sub-liftingnerdbro",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lnbDyen",
+      "image_id": 61394
+    },
+    {
+      "match": "lnbGainz",
+      "image_id": 61393
+    },
+    {
+      "match": "lnbUltra",
+      "image_id": 61497
+    },
+    {
+      "match": "lnbPushups",
+      "image_id": 61643
+    },
+    {
+      "match": "lnbReal",
+      "image_id": 70153
+    },
+    {
+      "match": "lnbBrotein",
+      "image_id": 70677
+    },
+    {
+      "match": "lnbFlex",
+      "image_id": 70562
+    },
+    {
+      "match": "lnbRIP",
+      "image_id": 93566
+    }
+  ]
+}

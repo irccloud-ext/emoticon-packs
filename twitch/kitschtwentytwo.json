@@ -1,1 +1,47 @@
-{"name":"twitch-sub-kitschtwentytwo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kttH","image_id":105458},{"match":"kttW","image_id":105057},{"match":"kttLOVE","image_id":106528},{"match":"kttBEHAVE","image_id":106524},{"match":"kttLYB","image_id":105267},{"match":"kttHEY","image_id":105060},{"match":"kttGASM","image_id":105061},{"match":"kttPOINTER","image_id":105059},{"match":"kttOMG","image_id":105066},{"match":"kttLURK","image_id":105481}]}
+{
+  "name": "twitch-sub-kitschtwentytwo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kttH",
+      "image_id": 105458
+    },
+    {
+      "match": "kttW",
+      "image_id": 105057
+    },
+    {
+      "match": "kttLOVE",
+      "image_id": 106528
+    },
+    {
+      "match": "kttBEHAVE",
+      "image_id": 106524
+    },
+    {
+      "match": "kttLYB",
+      "image_id": 105267
+    },
+    {
+      "match": "kttHEY",
+      "image_id": 105060
+    },
+    {
+      "match": "kttGASM",
+      "image_id": 105061
+    },
+    {
+      "match": "kttPOINTER",
+      "image_id": 105059
+    },
+    {
+      "match": "kttOMG",
+      "image_id": 105066
+    },
+    {
+      "match": "kttLURK",
+      "image_id": 105481
+    }
+  ]
+}

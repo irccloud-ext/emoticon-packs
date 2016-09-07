@@ -1,1 +1,35 @@
-{"name":"twitch-sub-alpgames007","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"antiOlen","image_id":93926},{"match":"antiFire","image_id":93914},{"match":"antiWat","image_id":39844},{"match":"antiLal","image_id":73984},{"match":"antiPoc","image_id":91991},{"match":"antiSerb","image_id":101025},{"match":"antiKak","image_id":101024}]}
+{
+  "name": "twitch-sub-alpgames007",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "antiOlen",
+      "image_id": 93926
+    },
+    {
+      "match": "antiFire",
+      "image_id": 93914
+    },
+    {
+      "match": "antiWat",
+      "image_id": 39844
+    },
+    {
+      "match": "antiLal",
+      "image_id": 73984
+    },
+    {
+      "match": "antiPoc",
+      "image_id": 91991
+    },
+    {
+      "match": "antiSerb",
+      "image_id": 101025
+    },
+    {
+      "match": "antiKak",
+      "image_id": 101024
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-richardlewisreports","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rlewisBurningBridge","image_id":27124},{"match":"rlewisBrokenTable","image_id":28763},{"match":"rlewisTheDude","image_id":28765},{"match":"rlewisBeer","image_id":28171},{"match":"rlewisRekt","image_id":28348},{"match":"rlewisFirstBlood","image_id":28545}]}
+{
+  "name": "twitch-sub-richardlewisreports",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rlewisBurningBridge",
+      "image_id": 27124
+    },
+    {
+      "match": "rlewisBrokenTable",
+      "image_id": 28763
+    },
+    {
+      "match": "rlewisTheDude",
+      "image_id": 28765
+    },
+    {
+      "match": "rlewisBeer",
+      "image_id": 28171
+    },
+    {
+      "match": "rlewisRekt",
+      "image_id": 28348
+    },
+    {
+      "match": "rlewisFirstBlood",
+      "image_id": 28545
+    }
+  ]
+}

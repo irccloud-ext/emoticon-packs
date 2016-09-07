@@ -1,1 +1,67 @@
-{"name":"twitch-sub-miamouz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"miaWein","image_id":41007},{"match":"miaDegen","image_id":43690},{"match":"miaLuv","image_id":77958},{"match":"miaCry","image_id":77956},{"match":"miaNom","image_id":100181},{"match":"miaLenny","image_id":99681},{"match":"miaDerp","image_id":101993},{"match":"miaHuch","image_id":101995},{"match":"miaRage","image_id":101999},{"match":"miaLynn","image_id":106844},{"match":"miaChip","image_id":106392},{"match":"miaMia","image_id":106843},{"match":"miaKat","image_id":106736},{"match":"miaNulpador","image_id":106452},{"match":"miaJim","image_id":106400}]}
+{
+  "name": "twitch-sub-miamouz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "miaWein",
+      "image_id": 41007
+    },
+    {
+      "match": "miaDegen",
+      "image_id": 43690
+    },
+    {
+      "match": "miaLuv",
+      "image_id": 77958
+    },
+    {
+      "match": "miaCry",
+      "image_id": 77956
+    },
+    {
+      "match": "miaNom",
+      "image_id": 100181
+    },
+    {
+      "match": "miaLenny",
+      "image_id": 99681
+    },
+    {
+      "match": "miaDerp",
+      "image_id": 101993
+    },
+    {
+      "match": "miaHuch",
+      "image_id": 101995
+    },
+    {
+      "match": "miaRage",
+      "image_id": 101999
+    },
+    {
+      "match": "miaLynn",
+      "image_id": 106844
+    },
+    {
+      "match": "miaChip",
+      "image_id": 106392
+    },
+    {
+      "match": "miaMia",
+      "image_id": 106843
+    },
+    {
+      "match": "miaKat",
+      "image_id": 106736
+    },
+    {
+      "match": "miaNulpador",
+      "image_id": 106452
+    },
+    {
+      "match": "miaJim",
+      "image_id": 106400
+    }
+  ]
+}

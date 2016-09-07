@@ -1,1 +1,79 @@
-{"name":"twitch-sub-wyld","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wyldCluck","image_id":3773},{"match":"wyldCoffee","image_id":3920},{"match":"wyldWine","image_id":6460},{"match":"wyldPants","image_id":10247},{"match":"wyldHeart","image_id":13226},{"match":"wyldWhiskey","image_id":24840},{"match":"wyldGG","image_id":25585},{"match":"wyldBeMore","image_id":44197},{"match":"wyldFace","image_id":44231},{"match":"wyldMany","image_id":91683},{"match":"wyldSuch","image_id":91684},{"match":"wyldW","image_id":91685},{"match":"wyldLeft","image_id":97770},{"match":"wyldRight","image_id":97771},{"match":"wyldHypu","image_id":97772},{"match":"wyldLewd","image_id":97773},{"match":"wyldRage","image_id":97775},{"match":"wyldLurk","image_id":97774}]}
+{
+  "name": "twitch-sub-wyld",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wyldCluck",
+      "image_id": 3773
+    },
+    {
+      "match": "wyldCoffee",
+      "image_id": 3920
+    },
+    {
+      "match": "wyldWine",
+      "image_id": 6460
+    },
+    {
+      "match": "wyldPants",
+      "image_id": 10247
+    },
+    {
+      "match": "wyldHeart",
+      "image_id": 13226
+    },
+    {
+      "match": "wyldWhiskey",
+      "image_id": 24840
+    },
+    {
+      "match": "wyldGG",
+      "image_id": 25585
+    },
+    {
+      "match": "wyldBeMore",
+      "image_id": 44197
+    },
+    {
+      "match": "wyldFace",
+      "image_id": 44231
+    },
+    {
+      "match": "wyldMany",
+      "image_id": 91683
+    },
+    {
+      "match": "wyldSuch",
+      "image_id": 91684
+    },
+    {
+      "match": "wyldW",
+      "image_id": 91685
+    },
+    {
+      "match": "wyldLeft",
+      "image_id": 97770
+    },
+    {
+      "match": "wyldRight",
+      "image_id": 97771
+    },
+    {
+      "match": "wyldHypu",
+      "image_id": 97772
+    },
+    {
+      "match": "wyldLewd",
+      "image_id": 97773
+    },
+    {
+      "match": "wyldRage",
+      "image_id": 97775
+    },
+    {
+      "match": "wyldLurk",
+      "image_id": 97774
+    }
+  ]
+}

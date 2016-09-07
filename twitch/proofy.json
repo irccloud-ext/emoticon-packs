@@ -1,1 +1,19 @@
-{"name":"twitch-sub-proofy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"proofBud","image_id":9102},{"match":"proofWARRIOR","image_id":9236},{"match":"proofProoFox","image_id":101589}]}
+{
+  "name": "twitch-sub-proofy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "proofBud",
+      "image_id": 9102
+    },
+    {
+      "match": "proofWARRIOR",
+      "image_id": 9236
+    },
+    {
+      "match": "proofProoFox",
+      "image_id": 101589
+    }
+  ]
+}

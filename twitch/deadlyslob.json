@@ -1,1 +1,43 @@
-{"name":"twitch-sub-deadlyslob","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"deadlyDeal","image_id":71262},{"match":"deadlyElite","image_id":44064},{"match":"deadlyBomb","image_id":55832},{"match":"deadlyCat","image_id":55834},{"match":"deadlyRekt","image_id":55822},{"match":"deadlyLurker","image_id":62554},{"match":"deadlyHype","image_id":64853},{"match":"deadlyWAT","image_id":105325},{"match":"deadlyBanjoMan","image_id":109909},{"match":"deadlyLove","image_id":110046}]}
+{
+  "name": "twitch-sub-deadlyslob",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "deadlyElite",
+      "image_id": 44064
+    },
+    {
+      "match": "deadlyBomb",
+      "image_id": 55832
+    },
+    {
+      "match": "deadlyCat",
+      "image_id": 55834
+    },
+    {
+      "match": "deadlyRekt",
+      "image_id": 55822
+    },
+    {
+      "match": "deadlyLurker",
+      "image_id": 62554
+    },
+    {
+      "match": "deadlyHype",
+      "image_id": 64853
+    },
+    {
+      "match": "deadlyWAT",
+      "image_id": 105325
+    },
+    {
+      "match": "deadlyBanjoMan",
+      "image_id": 109909
+    },
+    {
+      "match": "deadlyLove",
+      "image_id": 110046
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-muyskerm","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"b0bYouMorons","image_id":53278},{"match":"b0bLol","image_id":53277}]}
+{
+  "name": "twitch-sub-muyskerm",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "b0bYouMorons",
+      "image_id": 53278
+    },
+    {
+      "match": "b0bLol",
+      "image_id": 53277
+    }
+  ]
+}

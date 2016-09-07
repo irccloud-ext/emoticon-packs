@@ -1,1 +1,31 @@
-{"name":"twitch-sub-x5_pig","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ipigGasm","image_id":33080},{"match":"ipigSmiley","image_id":27264},{"match":"ipigBane","image_id":27263},{"match":"ipigSmalls","image_id":27720},{"match":"ipigAbbot","image_id":28599}]}
+{
+  "name": "twitch-sub-x5_pig",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ipigGasm",
+      "image_id": 33080
+    },
+    {
+      "match": "ipigSmiley",
+      "image_id": 27264
+    },
+    {
+      "match": "ipigBane",
+      "image_id": 27263
+    },
+    {
+      "match": "ipigSmalls",
+      "image_id": 27720
+    },
+    {
+      "match": "ipigAbbot",
+      "image_id": 28599
+    },
+    {
+      "match": "ipigOmg",
+      "image_id": 111899
+    }
+  ]
+}

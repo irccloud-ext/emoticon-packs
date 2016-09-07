@@ -1,1 +1,67 @@
-{"name":"twitch-sub-wolvesatmydoor","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wolvesRekt","image_id":16517},{"match":"wolvesSub","image_id":18497},{"match":"wolvesLuck","image_id":19567},{"match":"wolvesRip","image_id":23238},{"match":"wolvesKappa","image_id":25726},{"match":"wolvesHype","image_id":25729},{"match":"wolvesHello","image_id":29498},{"match":"wolvesWat","image_id":56404},{"match":"wolvesW","image_id":43479},{"match":"wolvesP","image_id":43482},{"match":"wolvesPure","image_id":59901},{"match":"wolvesCry","image_id":60281},{"match":"wolvesThrow","image_id":77053},{"match":"wolvesDab","image_id":79307},{"match":"wolvesFeels","image_id":83379}]}
+{
+  "name": "twitch-sub-wolvesatmydoor",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wolvesRekt",
+      "image_id": 16517
+    },
+    {
+      "match": "wolvesSub",
+      "image_id": 18497
+    },
+    {
+      "match": "wolvesLuck",
+      "image_id": 19567
+    },
+    {
+      "match": "wolvesRip",
+      "image_id": 23238
+    },
+    {
+      "match": "wolvesKappa",
+      "image_id": 25726
+    },
+    {
+      "match": "wolvesHype",
+      "image_id": 25729
+    },
+    {
+      "match": "wolvesHello",
+      "image_id": 29498
+    },
+    {
+      "match": "wolvesWat",
+      "image_id": 56404
+    },
+    {
+      "match": "wolvesW",
+      "image_id": 43479
+    },
+    {
+      "match": "wolvesP",
+      "image_id": 43482
+    },
+    {
+      "match": "wolvesPure",
+      "image_id": 59901
+    },
+    {
+      "match": "wolvesCry",
+      "image_id": 60281
+    },
+    {
+      "match": "wolvesThrow",
+      "image_id": 77053
+    },
+    {
+      "match": "wolvesDab",
+      "image_id": 79307
+    },
+    {
+      "match": "wolvesFeels",
+      "image_id": 83379
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-neslo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nesloClutch","image_id":78804},{"match":"nesloFox","image_id":98279},{"match":"nesloSlay","image_id":73365},{"match":"nesloKappa","image_id":73366},{"match":"nesloDawg","image_id":73367},{"match":"nesloSubhype","image_id":73368}]}
+{
+  "name": "twitch-sub-neslo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nesloClutch",
+      "image_id": 78804
+    },
+    {
+      "match": "nesloFox",
+      "image_id": 98279
+    },
+    {
+      "match": "nesloSlay",
+      "image_id": 73365
+    },
+    {
+      "match": "nesloKappa",
+      "image_id": 73366
+    },
+    {
+      "match": "nesloDawg",
+      "image_id": 73367
+    },
+    {
+      "match": "nesloSubhype",
+      "image_id": 73368
+    }
+  ]
+}

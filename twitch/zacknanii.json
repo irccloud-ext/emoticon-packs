@@ -1,1 +1,47 @@
-{"name":"twitch-sub-zacknanii","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zackNewSub","image_id":70081},{"match":"zackHardCarry","image_id":70082},{"match":"zackZackOne","image_id":84839},{"match":"zackZackNuke","image_id":84840},{"match":"zackContent","image_id":47500},{"match":"zackFacepalm","image_id":47499},{"match":"zackClinDoeil","image_id":54113},{"match":"zackBG","image_id":54114},{"match":"zackHE","image_id":63302},{"match":"zackZackBip","image_id":74748}]}
+{
+  "name": "twitch-sub-zacknanii",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zackNewSub",
+      "image_id": 70081
+    },
+    {
+      "match": "zackHardCarry",
+      "image_id": 70082
+    },
+    {
+      "match": "zackZackOne",
+      "image_id": 84839
+    },
+    {
+      "match": "zackZackNuke",
+      "image_id": 84840
+    },
+    {
+      "match": "zackContent",
+      "image_id": 47500
+    },
+    {
+      "match": "zackFacepalm",
+      "image_id": 47499
+    },
+    {
+      "match": "zackClinDoeil",
+      "image_id": 54113
+    },
+    {
+      "match": "zackBG",
+      "image_id": 54114
+    },
+    {
+      "match": "zackHE",
+      "image_id": 63302
+    },
+    {
+      "match": "zackZackBip",
+      "image_id": 74748
+    }
+  ]
+}

@@ -1,1 +1,43 @@
-{"name":"twitch-sub-smoelken","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"smoelkSTAPH","image_id":18002},{"match":"smoelkDL","image_id":17994},{"match":"smoelkRAGE","image_id":17987},{"match":"smoelkEE","image_id":18015},{"match":"smoelkZUSNAFAIL","image_id":18102},{"match":"smoelkLAEGDIG","image_id":18107},{"match":"smoelkSVARMIG","image_id":18639},{"match":"smoelkTRUCK","image_id":24264},{"match":"smoelkPIXI","image_id":24269}]}
+{
+  "name": "twitch-sub-smoelken",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "smoelkSTAPH",
+      "image_id": 18002
+    },
+    {
+      "match": "smoelkDL",
+      "image_id": 17994
+    },
+    {
+      "match": "smoelkRAGE",
+      "image_id": 17987
+    },
+    {
+      "match": "smoelkEE",
+      "image_id": 18015
+    },
+    {
+      "match": "smoelkZUSNAFAIL",
+      "image_id": 18102
+    },
+    {
+      "match": "smoelkLAEGDIG",
+      "image_id": 18107
+    },
+    {
+      "match": "smoelkSVARMIG",
+      "image_id": 18639
+    },
+    {
+      "match": "smoelkTRUCK",
+      "image_id": 24264
+    },
+    {
+      "match": "smoelkPIXI",
+      "image_id": 24269
+    }
+  ]
+}

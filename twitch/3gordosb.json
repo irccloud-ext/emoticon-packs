@@ -1,1 +1,39 @@
-{"name":"twitch-sub-3gordosb","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gordosbRafa","image_id":70490},{"match":"gordosbDaves","image_id":70491},{"match":"gordosbTiburoso","image_id":74372},{"match":"gordosbCharly","image_id":74373},{"match":"gordosbCthulhu","image_id":84447},{"match":"gordosbWesker","image_id":84448},{"match":"gordosbEze","image_id":89221},{"match":"gordosbAdrian","image_id":89222}]}
+{
+  "name": "twitch-sub-3gordosb",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gordosbRafa",
+      "image_id": 70490
+    },
+    {
+      "match": "gordosbDaves",
+      "image_id": 70491
+    },
+    {
+      "match": "gordosbTiburoso",
+      "image_id": 74372
+    },
+    {
+      "match": "gordosbCharly",
+      "image_id": 74373
+    },
+    {
+      "match": "gordosbCthulhu",
+      "image_id": 84447
+    },
+    {
+      "match": "gordosbWesker",
+      "image_id": 84448
+    },
+    {
+      "match": "gordosbEze",
+      "image_id": 89221
+    },
+    {
+      "match": "gordosbAdrian",
+      "image_id": 89222
+    }
+  ]
+}

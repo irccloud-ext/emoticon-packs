@@ -1,1 +1,15 @@
-{"name":"twitch-sub-mrwinghaven","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wingy360","image_id":103314},{"match":"wingyLUL","image_id":108823}]}
+{
+  "name": "twitch-sub-mrwinghaven",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wingy360",
+      "image_id": 103314
+    },
+    {
+      "match": "wingyLUL",
+      "image_id": 108823
+    }
+  ]
+}

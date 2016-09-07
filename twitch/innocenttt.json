@@ -1,0 +1,27 @@
+{
+  "name": "twitch-sub-innocenttt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "innocentFacepalm",
+      "image_id": 111837
+    },
+    {
+      "match": "innocentDefuj",
+      "image_id": 111836
+    },
+    {
+      "match": "innocentUSP",
+      "image_id": 112397
+    },
+    {
+      "match": "innocentVape",
+      "image_id": 111985
+    },
+    {
+      "match": "innocentRage",
+      "image_id": 111984
+    }
+  ]
+}

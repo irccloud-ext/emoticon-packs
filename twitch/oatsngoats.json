@@ -1,1 +1,47 @@
-{"name":"twitch-sub-oatsngoats","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"oatsNgoats","image_id":38361},{"match":"oatsGasm","image_id":38372},{"match":"oatsSurprise","image_id":38404},{"match":"oatsRekt","image_id":75123},{"match":"oatsHey","image_id":107657},{"match":"oatsRage","image_id":107640},{"match":"oatsPls","image_id":88197},{"match":"oatsSamus","image_id":107641},{"match":"oatsSmirk","image_id":99392},{"match":"oatsBert","image_id":107748}]}
+{
+  "name": "twitch-sub-oatsngoats",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "oatsNgoats",
+      "image_id": 38361
+    },
+    {
+      "match": "oatsGasm",
+      "image_id": 38372
+    },
+    {
+      "match": "oatsSurprise",
+      "image_id": 38404
+    },
+    {
+      "match": "oatsRekt",
+      "image_id": 75123
+    },
+    {
+      "match": "oatsHey",
+      "image_id": 107657
+    },
+    {
+      "match": "oatsRage",
+      "image_id": 107640
+    },
+    {
+      "match": "oatsPls",
+      "image_id": 88197
+    },
+    {
+      "match": "oatsSamus",
+      "image_id": 107641
+    },
+    {
+      "match": "oatsSmirk",
+      "image_id": 99392
+    },
+    {
+      "match": "oatsBert",
+      "image_id": 107748
+    }
+  ]
+}

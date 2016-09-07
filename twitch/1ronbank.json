@@ -1,1 +1,47 @@
-{"name":"twitch-sub-1ronbank","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ironRekt","image_id":46304},{"match":"ironRigged","image_id":47056},{"match":"ironVip","image_id":54771},{"match":"ironFd","image_id":55193},{"match":"ironWave","image_id":75860},{"match":"ironMoose","image_id":78942},{"match":"ironFedo","image_id":90552},{"match":"ironCry","image_id":90549},{"match":"ironCat","image_id":90550},{"match":"ironGasm","image_id":90551}]}
+{
+  "name": "twitch-sub-1ronbank",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ironRekt",
+      "image_id": 46304
+    },
+    {
+      "match": "ironRigged",
+      "image_id": 47056
+    },
+    {
+      "match": "ironVip",
+      "image_id": 54771
+    },
+    {
+      "match": "ironFd",
+      "image_id": 55193
+    },
+    {
+      "match": "ironWave",
+      "image_id": 75860
+    },
+    {
+      "match": "ironMoose",
+      "image_id": 78942
+    },
+    {
+      "match": "ironFedo",
+      "image_id": 90552
+    },
+    {
+      "match": "ironCry",
+      "image_id": 90549
+    },
+    {
+      "match": "ironCat",
+      "image_id": 90550
+    },
+    {
+      "match": "ironGasm",
+      "image_id": 90551
+    }
+  ]
+}

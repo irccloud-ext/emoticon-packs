@@ -1,1 +1,15 @@
-{"name":"twitch-sub-ghettoprincess_97","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"thirstyBwater","image_id":39170},{"match":"thirstyWhatsuuup","image_id":39176}]}
+{
+  "name": "twitch-sub-ghettoprincess_97",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "thirstyBwater",
+      "image_id": 39170
+    },
+    {
+      "match": "thirstyWhatsuuup",
+      "image_id": 39176
+    }
+  ]
+}

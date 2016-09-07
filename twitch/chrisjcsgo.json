@@ -1,1 +1,19 @@
-{"name":"twitch-sub-chrisjcsgo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chrisjHead","image_id":53942},{"match":"chrisjHype","image_id":53943},{"match":"chrisjMouz","image_id":53944}]}
+{
+  "name": "twitch-sub-chrisjcsgo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chrisjHead",
+      "image_id": 53942
+    },
+    {
+      "match": "chrisjHype",
+      "image_id": 53943
+    },
+    {
+      "match": "chrisjMouz",
+      "image_id": 53944
+    }
+  ]
+}

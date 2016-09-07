@@ -1,1 +1,39 @@
-{"name":"twitch-sub-dtphase","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dtpL","image_id":30038},{"match":"dtpShrug","image_id":50949},{"match":"dtpHype","image_id":50948},{"match":"dtpWave","image_id":50947},{"match":"dtpGasm","image_id":50946},{"match":"dtpFail","image_id":50945},{"match":"dtpC","image_id":50944},{"match":"dtpB","image_id":50943}]}
+{
+  "name": "twitch-sub-dtphase",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dtpL",
+      "image_id": 30038
+    },
+    {
+      "match": "dtpShrug",
+      "image_id": 50949
+    },
+    {
+      "match": "dtpHype",
+      "image_id": 50948
+    },
+    {
+      "match": "dtpWave",
+      "image_id": 50947
+    },
+    {
+      "match": "dtpGasm",
+      "image_id": 50946
+    },
+    {
+      "match": "dtpFail",
+      "image_id": 50945
+    },
+    {
+      "match": "dtpC",
+      "image_id": 50944
+    },
+    {
+      "match": "dtpB",
+      "image_id": 50943
+    }
+  ]
+}

@@ -1,1 +1,11 @@
-{"name":"twitch-sub-rossihd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rossiPoo","image_id":53628}]}
+{
+  "name": "twitch-sub-rossihd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rossiPoo",
+      "image_id": 53628
+    }
+  ]
+}

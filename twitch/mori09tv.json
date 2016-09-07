@@ -1,1 +1,15 @@
-{"name":"twitch-sub-mori09tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"moriOee","image_id":44614},{"match":"moriRoar","image_id":44606}]}
+{
+  "name": "twitch-sub-mori09tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "moriOee",
+      "image_id": 44614
+    },
+    {
+      "match": "moriRoar",
+      "image_id": 44606
+    }
+  ]
+}

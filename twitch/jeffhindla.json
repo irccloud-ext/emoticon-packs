@@ -1,1 +1,35 @@
-{"name":"twitch-sub-jeffhindla","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jeffhFatman","image_id":21138},{"match":"jeffhBeard","image_id":110117},{"match":"jeffhKappa","image_id":30294},{"match":"jeffhCute","image_id":30948},{"match":"jeffhW","image_id":41584},{"match":"jeffhCanada","image_id":70266},{"match":"jeffhCheese","image_id":86375},{"match":"jeffhHouse","image_id":109997}]}
+{
+  "name": "twitch-sub-jeffhindla",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jeffhFatman",
+      "image_id": 21138
+    },
+    {
+      "match": "jeffhBeard",
+      "image_id": 110117
+    },
+    {
+      "match": "jeffhCute",
+      "image_id": 30948
+    },
+    {
+      "match": "jeffhW",
+      "image_id": 41584
+    },
+    {
+      "match": "jeffhCanada",
+      "image_id": 70266
+    },
+    {
+      "match": "jeffhCheese",
+      "image_id": 86375
+    },
+    {
+      "match": "jeffhHouse",
+      "image_id": 109997
+    }
+  ]
+}

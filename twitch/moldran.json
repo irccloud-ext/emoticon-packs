@@ -1,1 +1,27 @@
-{"name":"twitch-sub-moldran","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"maxCalc","image_id":1983},{"match":"maxSub","image_id":6342},{"match":"maxDish","image_id":9246},{"match":"maxKappa","image_id":31093},{"match":"maxAllin","image_id":68397}]}
+{
+  "name": "twitch-sub-moldran",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "maxCalc",
+      "image_id": 1983
+    },
+    {
+      "match": "maxSub",
+      "image_id": 6342
+    },
+    {
+      "match": "maxDish",
+      "image_id": 9246
+    },
+    {
+      "match": "maxKappa",
+      "image_id": 31093
+    },
+    {
+      "match": "maxAllin",
+      "image_id": 68397
+    }
+  ]
+}

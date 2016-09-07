@@ -1,1 +1,39 @@
-{"name":"twitch-sub-chelseaplays","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chelseaThirst","image_id":23765},{"match":"chelseaPlank","image_id":21993},{"match":"chelseaChest","image_id":21412},{"match":"chelseaHappy","image_id":21427},{"match":"chelseaGainz","image_id":21755},{"match":"chelseaRekt","image_id":23286},{"match":"chelseaRip","image_id":43770},{"match":"chelseaGrill","image_id":45263}]}
+{
+  "name": "twitch-sub-chelseaplays",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chelseaThirst",
+      "image_id": 23765
+    },
+    {
+      "match": "chelseaPlank",
+      "image_id": 21993
+    },
+    {
+      "match": "chelseaChest",
+      "image_id": 21412
+    },
+    {
+      "match": "chelseaHappy",
+      "image_id": 21427
+    },
+    {
+      "match": "chelseaGainz",
+      "image_id": 21755
+    },
+    {
+      "match": "chelseaRekt",
+      "image_id": 23286
+    },
+    {
+      "match": "chelseaRip",
+      "image_id": 43770
+    },
+    {
+      "match": "chelseaGrill",
+      "image_id": 45263
+    }
+  ]
+}

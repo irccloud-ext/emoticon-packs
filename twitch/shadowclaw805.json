@@ -1,1 +1,23 @@
-{"name":"twitch-sub-shadowclaw805","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"clawsRekt","image_id":33151},{"match":"clawsRage","image_id":61129},{"match":"clawsBeard","image_id":32895},{"match":"clawsHeart","image_id":61068}]}
+{
+  "name": "twitch-sub-shadowclaw805",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "clawsRekt",
+      "image_id": 33151
+    },
+    {
+      "match": "clawsRage",
+      "image_id": 61129
+    },
+    {
+      "match": "clawsBeard",
+      "image_id": 32895
+    },
+    {
+      "match": "clawsHeart",
+      "image_id": 61068
+    }
+  ]
+}

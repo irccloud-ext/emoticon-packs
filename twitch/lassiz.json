@@ -1,1 +1,71 @@
-{"name":"twitch-sub-lassiz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lassBeach","image_id":2700},{"match":"lassScare","image_id":4480},{"match":"lassThunderDunk","image_id":5419},{"match":"lassAttack","image_id":82721},{"match":"lassKeepo","image_id":36051},{"match":"lassEars","image_id":38681},{"match":"lassManMode","image_id":51356},{"match":"lassBeach2","image_id":81750},{"match":"lassHype","image_id":83301},{"match":"lassTracer","image_id":100222},{"match":"lassZarya","image_id":100767},{"match":"lassHanzo","image_id":100211},{"match":"lassReaper","image_id":100212},{"match":"lassALG","image_id":99670},{"match":"lassCoolDog","image_id":108489}]}
+{
+  "name": "twitch-sub-lassiz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lassBeach",
+      "image_id": 2700
+    },
+    {
+      "match": "lassScare",
+      "image_id": 4480
+    },
+    {
+      "match": "lassThunderDunk",
+      "image_id": 5419
+    },
+    {
+      "match": "lassAttack",
+      "image_id": 82721
+    },
+    {
+      "match": "lassKeepo",
+      "image_id": 36051
+    },
+    {
+      "match": "lassEars",
+      "image_id": 38681
+    },
+    {
+      "match": "lassManMode",
+      "image_id": 51356
+    },
+    {
+      "match": "lassBeach2",
+      "image_id": 81750
+    },
+    {
+      "match": "lassHype",
+      "image_id": 83301
+    },
+    {
+      "match": "lassTracer",
+      "image_id": 100222
+    },
+    {
+      "match": "lassZarya",
+      "image_id": 100767
+    },
+    {
+      "match": "lassHanzo",
+      "image_id": 100211
+    },
+    {
+      "match": "lassReaper",
+      "image_id": 100212
+    },
+    {
+      "match": "lassCoolDog",
+      "image_id": 108489
+    },
+    {
+      "match": "lassPride",
+      "image_id": 112418
+    },
+    {
+      "match": "lassLul",
+      "image_id": 112419
+    }
+  ]
+}

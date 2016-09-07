@@ -1,1 +1,27 @@
-{"name":"twitch-sub-narkuss_lol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"thugfiddleBonobo","image_id":72612},{"match":"thugfiddleBonobro","image_id":97429},{"match":"thugfiddleRage","image_id":92526},{"match":"thugfiddleNarkuss1","image_id":60865},{"match":"thugfiddleJcetD","image_id":60866}]}
+{
+  "name": "twitch-sub-narkuss_lol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "thugfiddleBonobo",
+      "image_id": 72612
+    },
+    {
+      "match": "thugfiddleBonobro",
+      "image_id": 97429
+    },
+    {
+      "match": "thugfiddleRage",
+      "image_id": 92526
+    },
+    {
+      "match": "thugfiddleNarkuss1",
+      "image_id": 60865
+    },
+    {
+      "match": "thugfiddleJcetD",
+      "image_id": 60866
+    }
+  ]
+}

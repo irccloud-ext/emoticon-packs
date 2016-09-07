@@ -1,1 +1,19 @@
-{"name":"twitch-sub-canalbrogames","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"brgameGG","image_id":83447},{"match":"brgameRage","image_id":83435},{"match":"brgameUE","image_id":97027}]}
+{
+  "name": "twitch-sub-canalbrogames",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "brgameGG",
+      "image_id": 83447
+    },
+    {
+      "match": "brgameRage",
+      "image_id": 83435
+    },
+    {
+      "match": "brgameUE",
+      "image_id": 97027
+    }
+  ]
+}

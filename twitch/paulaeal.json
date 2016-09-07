@@ -1,1 +1,31 @@
-{"name":"twitch-sub-paulaeal","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pauGasm","image_id":97377},{"match":"pauHYPE","image_id":101833},{"match":"pauNOTLIKETHIS","image_id":100042},{"match":"pauCry","image_id":109698},{"match":"pauLove","image_id":109699},{"match":"pauLUL","image_id":105332}]}
+{
+  "name": "twitch-sub-paulaeal",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pauGasm",
+      "image_id": 97377
+    },
+    {
+      "match": "pauHYPE",
+      "image_id": 101833
+    },
+    {
+      "match": "pauNOTLIKETHIS",
+      "image_id": 100042
+    },
+    {
+      "match": "pauCry",
+      "image_id": 109698
+    },
+    {
+      "match": "pauLove",
+      "image_id": 109699
+    },
+    {
+      "match": "pauLUL",
+      "image_id": 105332
+    }
+  ]
+}

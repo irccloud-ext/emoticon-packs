@@ -1,1 +1,23 @@
-{"name":"twitch-sub-celinalin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"celinaRIP","image_id":55400},{"match":"celinaLOL","image_id":52910},{"match":"celinaLuck","image_id":56456},{"match":"celinaHeart","image_id":53357}]}
+{
+  "name": "twitch-sub-celinalin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "celinaRIP",
+      "image_id": 55400
+    },
+    {
+      "match": "celinaLOL",
+      "image_id": 52910
+    },
+    {
+      "match": "celinaLuck",
+      "image_id": 56456
+    },
+    {
+      "match": "celinaHeart",
+      "image_id": 53357
+    }
+  ]
+}

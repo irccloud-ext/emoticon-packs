@@ -1,1 +1,31 @@
-{"name":"twitch-sub-senfglas_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"senfPride","image_id":75476},{"match":"senfMandH","image_id":75475},{"match":"senfW","image_id":75474},{"match":"senfWut","image_id":91717},{"match":"senfCool","image_id":101387},{"match":"senfAfro","image_id":101456}]}
+{
+  "name": "twitch-sub-senfglas_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "senfPride",
+      "image_id": 75476
+    },
+    {
+      "match": "senfMandH",
+      "image_id": 75475
+    },
+    {
+      "match": "senfW",
+      "image_id": 75474
+    },
+    {
+      "match": "senfWut",
+      "image_id": 91717
+    },
+    {
+      "match": "senfCool",
+      "image_id": 101387
+    },
+    {
+      "match": "senfAfro",
+      "image_id": 101456
+    }
+  ]
+}

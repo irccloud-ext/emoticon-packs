@@ -1,1 +1,39 @@
-{"name":"twitch-sub-maldiva","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"maldivaSwag","image_id":7855},{"match":"maldivaDisco","image_id":7843},{"match":"maldivaKappa","image_id":11103},{"match":"maldivaPoopoo","image_id":16124},{"match":"maldivaCoin","image_id":33951},{"match":"maldivaRekt","image_id":33952},{"match":"maldivaHype","image_id":34380},{"match":"maldivaStare","image_id":34011}]}
+{
+  "name": "twitch-sub-maldiva",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "maldivaSwag",
+      "image_id": 7855
+    },
+    {
+      "match": "maldivaDisco",
+      "image_id": 7843
+    },
+    {
+      "match": "maldivaKappa",
+      "image_id": 11103
+    },
+    {
+      "match": "maldivaPoopoo",
+      "image_id": 16124
+    },
+    {
+      "match": "maldivaCoin",
+      "image_id": 33951
+    },
+    {
+      "match": "maldivaRekt",
+      "image_id": 33952
+    },
+    {
+      "match": "maldivaHype",
+      "image_id": 34380
+    },
+    {
+      "match": "maldivaStare",
+      "image_id": 34011
+    }
+  ]
+}

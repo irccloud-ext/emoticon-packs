@@ -1,1 +1,23 @@
-{"name":"twitch-sub-johnnyboi_i","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"boiHello","image_id":107854},{"match":"boiBANG","image_id":107817},{"match":"boiDealWithIt","image_id":107853},{"match":"boiNA","image_id":107809}]}
+{
+  "name": "twitch-sub-johnnyboi_i",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "boiHello",
+      "image_id": 107854
+    },
+    {
+      "match": "boiBANG",
+      "image_id": 107817
+    },
+    {
+      "match": "boiDealWithIt",
+      "image_id": 107853
+    },
+    {
+      "match": "boiNA",
+      "image_id": 107809
+    }
+  ]
+}

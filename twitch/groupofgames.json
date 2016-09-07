@@ -1,1 +1,19 @@
-{"name":"twitch-sub-groupofgames","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gamesFink","image_id":62231},{"match":"gamesFairy","image_id":62232},{"match":"gamesKittyKsu","image_id":66358}]}
+{
+  "name": "twitch-sub-groupofgames",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gamesFink",
+      "image_id": 62231
+    },
+    {
+      "match": "gamesFairy",
+      "image_id": 62232
+    },
+    {
+      "match": "gamesKittyKsu",
+      "image_id": 66358
+    }
+  ]
+}

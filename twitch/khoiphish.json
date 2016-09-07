@@ -1,1 +1,39 @@
-{"name":"twitch-sub-khoiphish","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"khoiZhonya","image_id":12099},{"match":"khoiRoll","image_id":13781},{"match":"khoiKappa","image_id":29307},{"match":"khoiGasm","image_id":31885},{"match":"khoiBooty","image_id":46300},{"match":"khoiDuck","image_id":48139},{"match":"khoiSHOTS","image_id":59377},{"match":"khoiYAK","image_id":60197}]}
+{
+  "name": "twitch-sub-khoiphish",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "khoiZhonya",
+      "image_id": 12099
+    },
+    {
+      "match": "khoiRoll",
+      "image_id": 13781
+    },
+    {
+      "match": "khoiKappa",
+      "image_id": 29307
+    },
+    {
+      "match": "khoiGasm",
+      "image_id": 31885
+    },
+    {
+      "match": "khoiBooty",
+      "image_id": 46300
+    },
+    {
+      "match": "khoiDuck",
+      "image_id": 48139
+    },
+    {
+      "match": "khoiSHOTS",
+      "image_id": 59377
+    },
+    {
+      "match": "khoiYAK",
+      "image_id": 60197
+    }
+  ]
+}

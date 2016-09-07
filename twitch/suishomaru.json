@@ -1,1 +1,43 @@
-{"name":"twitch-sub-suishomaru","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"suiDanceGame","image_id":15173},{"match":"suiPsiau","image_id":15177},{"match":"suiHammertime","image_id":15174},{"match":"suiJan","image_id":15561},{"match":"suiFacepalm","image_id":37580},{"match":"suiServus","image_id":102917},{"match":"suiDonis","image_id":97407},{"match":"suiWat","image_id":74307},{"match":"suiKnilz","image_id":97177}]}
+{
+  "name": "twitch-sub-suishomaru",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "suiDanceGame",
+      "image_id": 15173
+    },
+    {
+      "match": "suiPsiau",
+      "image_id": 15177
+    },
+    {
+      "match": "suiHammertime",
+      "image_id": 15174
+    },
+    {
+      "match": "suiJan",
+      "image_id": 15561
+    },
+    {
+      "match": "suiFacepalm",
+      "image_id": 37580
+    },
+    {
+      "match": "suiServus",
+      "image_id": 102917
+    },
+    {
+      "match": "suiDonis",
+      "image_id": 97407
+    },
+    {
+      "match": "suiWat",
+      "image_id": 74307
+    },
+    {
+      "match": "suiKnilz",
+      "image_id": 97177
+    }
+  ]
+}

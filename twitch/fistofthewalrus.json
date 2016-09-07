@@ -1,1 +1,47 @@
-{"name":"twitch-sub-fistofthewalrus","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"walrusDog","image_id":102019},{"match":"walrusGasm","image_id":107423},{"match":"walrusLove","image_id":87158},{"match":"walrusMoney","image_id":87023},{"match":"walrusFist","image_id":87022},{"match":"walrusThump","image_id":94278},{"match":"walrusDerp","image_id":94277},{"match":"walrusGlory","image_id":102018},{"match":"walrusRage","image_id":94275},{"match":"walrusWalrus","image_id":108078}]}
+{
+  "name": "twitch-sub-fistofthewalrus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "walrusDog",
+      "image_id": 102019
+    },
+    {
+      "match": "walrusGasm",
+      "image_id": 107423
+    },
+    {
+      "match": "walrusLove",
+      "image_id": 87158
+    },
+    {
+      "match": "walrusMoney",
+      "image_id": 87023
+    },
+    {
+      "match": "walrusFist",
+      "image_id": 87022
+    },
+    {
+      "match": "walrusThump",
+      "image_id": 94278
+    },
+    {
+      "match": "walrusDerp",
+      "image_id": 94277
+    },
+    {
+      "match": "walrusGlory",
+      "image_id": 102018
+    },
+    {
+      "match": "walrusRage",
+      "image_id": 94275
+    },
+    {
+      "match": "walrusWalrus",
+      "image_id": 108078
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-{"name":"twitch-sub-joshjepson","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jepsonGETMAD","image_id":95888},{"match":"jepsonJiggy","image_id":47030},{"match":"jepsonHaters","image_id":51277},{"match":"jepson64","image_id":51278},{"match":"jepsonPizza","image_id":95811}]}
+{
+  "name": "twitch-sub-joshjepson",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jepsonGETMAD",
+      "image_id": 95888
+    },
+    {
+      "match": "jepsonJiggy",
+      "image_id": 47030
+    },
+    {
+      "match": "jepsonHaters",
+      "image_id": 51277
+    },
+    {
+      "match": "jepson64",
+      "image_id": 51278
+    },
+    {
+      "match": "jepsonPizza",
+      "image_id": 95811
+    }
+  ]
+}

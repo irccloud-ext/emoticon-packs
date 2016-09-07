@@ -1,1 +1,15 @@
-{"name":"twitch-sub-liaph","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"liaphKappa","image_id":97062},{"match":"liaphMishu","image_id":97061}]}
+{
+  "name": "twitch-sub-liaph",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "liaphKappa",
+      "image_id": 97062
+    },
+    {
+      "match": "liaphMishu",
+      "image_id": 97061
+    }
+  ]
+}

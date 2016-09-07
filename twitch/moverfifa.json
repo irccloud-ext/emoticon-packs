@@ -1,1 +1,23 @@
-{"name":"twitch-sub-moverfifa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"thuggTHUG","image_id":36483},{"match":"thuggGG","image_id":74339},{"match":"thuggLove","image_id":74340},{"match":"thuggYC","image_id":74341}]}
+{
+  "name": "twitch-sub-moverfifa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "thuggTHUG",
+      "image_id": 36483
+    },
+    {
+      "match": "thuggGG",
+      "image_id": 74339
+    },
+    {
+      "match": "thuggLove",
+      "image_id": 74340
+    },
+    {
+      "match": "thuggYC",
+      "image_id": 74341
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-haven","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"havenHype","image_id":57892},{"match":"havenGuy","image_id":57893}]}
+{
+  "name": "twitch-sub-haven",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "havenHype",
+      "image_id": 57892
+    },
+    {
+      "match": "havenGuy",
+      "image_id": 57893
+    }
+  ]
+}

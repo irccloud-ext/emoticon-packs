@@ -1,1 +1,31 @@
-{"name":"twitch-sub-avilun","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ankMD","image_id":47076},{"match":"ankHi","image_id":36717},{"match":"ankSad","image_id":36718},{"match":"ankMS","image_id":36329},{"match":"ankAG","image_id":38115},{"match":"ankLG","image_id":48290}]}
+{
+  "name": "twitch-sub-avilun",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ankMD",
+      "image_id": 47076
+    },
+    {
+      "match": "ankHi",
+      "image_id": 36717
+    },
+    {
+      "match": "ankSad",
+      "image_id": 36718
+    },
+    {
+      "match": "ankMS",
+      "image_id": 36329
+    },
+    {
+      "match": "ankAG",
+      "image_id": 38115
+    },
+    {
+      "match": "ankLG",
+      "image_id": 48290
+    }
+  ]
+}

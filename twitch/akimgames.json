@@ -1,1 +1,39 @@
-{"name":"twitch-sub-akimgames","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"akimcraftGG","image_id":44361},{"match":"akimcraftRata","image_id":68054},{"match":"akimcraftLloro","image_id":68776},{"match":"akimcraftHype","image_id":68404},{"match":"akimcraftRisa","image_id":71575},{"match":"akimcraftIzi","image_id":70214},{"match":"akimcraftFacepalm","image_id":76228},{"match":"akimcraftChamp","image_id":102492}]}
+{
+  "name": "twitch-sub-akimgames",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "akimcraftGG",
+      "image_id": 44361
+    },
+    {
+      "match": "akimcraftRata",
+      "image_id": 68054
+    },
+    {
+      "match": "akimcraftLloro",
+      "image_id": 68776
+    },
+    {
+      "match": "akimcraftHype",
+      "image_id": 68404
+    },
+    {
+      "match": "akimcraftRisa",
+      "image_id": 71575
+    },
+    {
+      "match": "akimcraftIzi",
+      "image_id": 70214
+    },
+    {
+      "match": "akimcraftFacepalm",
+      "image_id": 76228
+    },
+    {
+      "match": "akimcraftChamp",
+      "image_id": 102492
+    }
+  ]
+}

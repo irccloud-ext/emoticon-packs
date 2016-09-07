@@ -1,1 +1,31 @@
-{"name":"twitch-sub-lpfan4lif01","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rafH","image_id":56417},{"match":"rafSalt","image_id":56556},{"match":"rafHey","image_id":56558},{"match":"rafPriest","image_id":56555},{"match":"rafThump","image_id":57122},{"match":"rafDucky","image_id":81625}]}
+{
+  "name": "twitch-sub-lpfan4lif01",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rafH",
+      "image_id": 56417
+    },
+    {
+      "match": "rafSalt",
+      "image_id": 56556
+    },
+    {
+      "match": "rafHey",
+      "image_id": 56558
+    },
+    {
+      "match": "rafPriest",
+      "image_id": 56555
+    },
+    {
+      "match": "rafThump",
+      "image_id": 57122
+    },
+    {
+      "match": "rafDucky",
+      "image_id": 81625
+    }
+  ]
+}

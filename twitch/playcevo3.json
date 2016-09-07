@@ -1,1 +1,27 @@
-{"name":"twitch-sub-playcevo3","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cevoBaby","image_id":12216},{"match":"cevo1tap","image_id":12215},{"match":"cevoCevo","image_id":12214},{"match":"cevoEzskins","image_id":12217},{"match":"cevoC0tton","image_id":12218}]}
+{
+  "name": "twitch-sub-playcevo3",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cevoBaby",
+      "image_id": 12216
+    },
+    {
+      "match": "cevo1tap",
+      "image_id": 12215
+    },
+    {
+      "match": "cevoCevo",
+      "image_id": 12214
+    },
+    {
+      "match": "cevoEzskins",
+      "image_id": 12217
+    },
+    {
+      "match": "cevoC0tton",
+      "image_id": 12218
+    }
+  ]
+}

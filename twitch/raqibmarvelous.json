@@ -1,1 +1,51 @@
-{"name":"twitch-sub-raqibmarvelous","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"raqibRaqib","image_id":7146},{"match":"raqibKappa","image_id":7194},{"match":"raqibFish","image_id":9425},{"match":"raqibRage","image_id":9537},{"match":"raqibLucy","image_id":9539},{"match":"raqibKazzy","image_id":14804},{"match":"raqibLenneth","image_id":21287},{"match":"raqibLilah","image_id":21288},{"match":"raqibLilliana","image_id":21289},{"match":"raqibLuna","image_id":21290},{"match":"raqibFace","image_id":70398}]}
+{
+  "name": "twitch-sub-raqibmarvelous",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "raqibRaqib",
+      "image_id": 7146
+    },
+    {
+      "match": "raqibKappa",
+      "image_id": 7194
+    },
+    {
+      "match": "raqibFish",
+      "image_id": 9425
+    },
+    {
+      "match": "raqibRage",
+      "image_id": 9537
+    },
+    {
+      "match": "raqibLucy",
+      "image_id": 9539
+    },
+    {
+      "match": "raqibKazzy",
+      "image_id": 14804
+    },
+    {
+      "match": "raqibLenneth",
+      "image_id": 21287
+    },
+    {
+      "match": "raqibLilah",
+      "image_id": 21288
+    },
+    {
+      "match": "raqibLilliana",
+      "image_id": 21289
+    },
+    {
+      "match": "raqibLuna",
+      "image_id": 21290
+    },
+    {
+      "match": "raqibFace",
+      "image_id": 70398
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-baalshin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"baalemoteROB","image_id":90173},{"match":"baalemoteLOL","image_id":90172},{"match":"baalemoteBusto","image_id":85741},{"match":"baalemoteBaal","image_id":85742}]}
+{
+  "name": "twitch-sub-baalshin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "baalemoteROB",
+      "image_id": 90173
+    },
+    {
+      "match": "baalemoteLOL",
+      "image_id": 90172
+    },
+    {
+      "match": "baalemoteBusto",
+      "image_id": 85741
+    },
+    {
+      "match": "baalemoteBaal",
+      "image_id": 85742
+    }
+  ]
+}

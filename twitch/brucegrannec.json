@@ -1,1 +1,35 @@
-{"name":"twitch-sub-brucegrannec","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"spankKarma","image_id":83854},{"match":"spankMerguez","image_id":46966},{"match":"spankRespect","image_id":46967},{"match":"spankArrogant","image_id":83250},{"match":"spankBiche","image_id":83246},{"match":"spankNewsub","image_id":83248},{"match":"spankCheh","image_id":83249}]}
+{
+  "name": "twitch-sub-brucegrannec",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "spankKarma",
+      "image_id": 83854
+    },
+    {
+      "match": "spankMerguez",
+      "image_id": 46966
+    },
+    {
+      "match": "spankRespect",
+      "image_id": 46967
+    },
+    {
+      "match": "spankArrogant",
+      "image_id": 83250
+    },
+    {
+      "match": "spankBiche",
+      "image_id": 83246
+    },
+    {
+      "match": "spankNewsub",
+      "image_id": 83248
+    },
+    {
+      "match": "spankCheh",
+      "image_id": 83249
+    }
+  ]
+}

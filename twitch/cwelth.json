@@ -1,1 +1,39 @@
-{"name":"twitch-sub-cwelth","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zthDalek","image_id":83975},{"match":"zthChip","image_id":73345},{"match":"zthCorwin","image_id":73346},{"match":"zthMug","image_id":74409},{"match":"zthArgh","image_id":73556},{"match":"zthMidnight","image_id":76435},{"match":"zthGears","image_id":76434},{"match":"zthOoipe","image_id":84119}]}
+{
+  "name": "twitch-sub-cwelth",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zthDalek",
+      "image_id": 83975
+    },
+    {
+      "match": "zthChip",
+      "image_id": 73345
+    },
+    {
+      "match": "zthCorwin",
+      "image_id": 73346
+    },
+    {
+      "match": "zthMug",
+      "image_id": 74409
+    },
+    {
+      "match": "zthArgh",
+      "image_id": 73556
+    },
+    {
+      "match": "zthMidnight",
+      "image_id": 76435
+    },
+    {
+      "match": "zthGears",
+      "image_id": 76434
+    },
+    {
+      "match": "zthOoipe",
+      "image_id": 84119
+    }
+  ]
+}

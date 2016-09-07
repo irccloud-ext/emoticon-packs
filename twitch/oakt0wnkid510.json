@@ -1,1 +1,39 @@
-{"name":"twitch-sub-oakt0wnkid510","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"oakDC","image_id":40727},{"match":"oakPenal","image_id":19722},{"match":"oakKappa","image_id":19437},{"match":"oakFish","image_id":33284},{"match":"oakHype","image_id":35061},{"match":"oakRekt","image_id":51283},{"match":"oakMug","image_id":53210},{"match":"oakCool","image_id":53209}]}
+{
+  "name": "twitch-sub-oakt0wnkid510",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "oakDC",
+      "image_id": 40727
+    },
+    {
+      "match": "oakPenal",
+      "image_id": 19722
+    },
+    {
+      "match": "oakKappa",
+      "image_id": 19437
+    },
+    {
+      "match": "oakFish",
+      "image_id": 33284
+    },
+    {
+      "match": "oakHype",
+      "image_id": 35061
+    },
+    {
+      "match": "oakRekt",
+      "image_id": 51283
+    },
+    {
+      "match": "oakMug",
+      "image_id": 53210
+    },
+    {
+      "match": "oakCool",
+      "image_id": 53209
+    }
+  ]
+}

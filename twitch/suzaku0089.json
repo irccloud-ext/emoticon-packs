@@ -1,1 +1,31 @@
-{"name":"twitch-sub-suzaku0089","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"suzSrs","image_id":48110},{"match":"suzBruh","image_id":48189},{"match":"suzRoyalz","image_id":49405},{"match":"suzGo","image_id":49406},{"match":"suzHype","image_id":54328},{"match":"suzGotem","image_id":54329}]}
+{
+  "name": "twitch-sub-suzaku0089",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "suzSrs",
+      "image_id": 48110
+    },
+    {
+      "match": "suzBruh",
+      "image_id": 48189
+    },
+    {
+      "match": "suzRoyalz",
+      "image_id": 49405
+    },
+    {
+      "match": "suzGo",
+      "image_id": 49406
+    },
+    {
+      "match": "suzHype",
+      "image_id": 54328
+    },
+    {
+      "match": "suzGotem",
+      "image_id": 54329
+    }
+  ]
+}

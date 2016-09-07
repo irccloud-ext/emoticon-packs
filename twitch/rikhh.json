@@ -1,1 +1,39 @@
-{"name":"twitch-sub-rikhh","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rikhGasm","image_id":11115},{"match":"rikhHype","image_id":40877},{"match":"rikhW","image_id":41275},{"match":"rikhHey","image_id":41268},{"match":"rikhHead","image_id":41858},{"match":"rikhCreep","image_id":44681},{"match":"rikhWut","image_id":44642},{"match":"rikhWaifu","image_id":83748}]}
+{
+  "name": "twitch-sub-rikhh",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rikhGasm",
+      "image_id": 11115
+    },
+    {
+      "match": "rikhHype",
+      "image_id": 40877
+    },
+    {
+      "match": "rikhW",
+      "image_id": 41275
+    },
+    {
+      "match": "rikhHey",
+      "image_id": 41268
+    },
+    {
+      "match": "rikhHead",
+      "image_id": 41858
+    },
+    {
+      "match": "rikhCreep",
+      "image_id": 44681
+    },
+    {
+      "match": "rikhWut",
+      "image_id": 44642
+    },
+    {
+      "match": "rikhWaifu",
+      "image_id": 83748
+    }
+  ]
+}

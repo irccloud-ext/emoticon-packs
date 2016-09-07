@@ -1,1 +1,31 @@
-{"name":"twitch-sub-stallion83","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"stalSip","image_id":27209},{"match":"stalHappy","image_id":27016},{"match":"stalCat","image_id":28094},{"match":"stalSour","image_id":28095},{"match":"stalHype","image_id":28101},{"match":"stalRage","image_id":55853}]}
+{
+  "name": "twitch-sub-stallion83",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "stalSip",
+      "image_id": 27209
+    },
+    {
+      "match": "stalHappy",
+      "image_id": 27016
+    },
+    {
+      "match": "stalCat",
+      "image_id": 28094
+    },
+    {
+      "match": "stalSour",
+      "image_id": 28095
+    },
+    {
+      "match": "stalHype",
+      "image_id": 28101
+    },
+    {
+      "match": "stalRage",
+      "image_id": 55853
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-headwaygames","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hwgVAC","image_id":95895},{"match":"hwgRAGE","image_id":86602},{"match":"hwgHYPE","image_id":96050},{"match":"hwgGG","image_id":84399},{"match":"hwgMMM","image_id":84945},{"match":"hwgSTERYLOL","image_id":84943},{"match":"hwgRIP","image_id":96051},{"match":"hwgLOVE","image_id":98933}]}
+{
+  "name": "twitch-sub-headwaygames",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hwgVAC",
+      "image_id": 95895
+    },
+    {
+      "match": "hwgRAGE",
+      "image_id": 86602
+    },
+    {
+      "match": "hwgHYPE",
+      "image_id": 96050
+    },
+    {
+      "match": "hwgGG",
+      "image_id": 84399
+    },
+    {
+      "match": "hwgMMM",
+      "image_id": 84945
+    },
+    {
+      "match": "hwgSTERYLOL",
+      "image_id": 84943
+    },
+    {
+      "match": "hwgRIP",
+      "image_id": 96051
+    },
+    {
+      "match": "hwgLOVE",
+      "image_id": 98933
+    }
+  ]
+}

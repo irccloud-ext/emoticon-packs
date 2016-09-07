@@ -1,1 +1,39 @@
-{"name":"twitch-sub-courtiebee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"courtieTilt","image_id":62951},{"match":"courtieBee","image_id":61170},{"match":"courtieHeart","image_id":61171},{"match":"courtieCry","image_id":62950},{"match":"courtieFace","image_id":69949},{"match":"courtieWink","image_id":85578},{"match":"courtieBam","image_id":85579},{"match":"courtieWut","image_id":85580}]}
+{
+  "name": "twitch-sub-courtiebee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "courtieTilt",
+      "image_id": 62951
+    },
+    {
+      "match": "courtieBee",
+      "image_id": 61170
+    },
+    {
+      "match": "courtieHeart",
+      "image_id": 61171
+    },
+    {
+      "match": "courtieCry",
+      "image_id": 62950
+    },
+    {
+      "match": "courtieFace",
+      "image_id": 69949
+    },
+    {
+      "match": "courtieWink",
+      "image_id": 85578
+    },
+    {
+      "match": "courtieBam",
+      "image_id": 85579
+    },
+    {
+      "match": "courtieWut",
+      "image_id": 85580
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"twitch-sub-towey","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"toweyFace","image_id":34594},{"match":"toweyBlue","image_id":76378},{"match":"toweyHype","image_id":74442},{"match":"toweyLife","image_id":76384},{"match":"toweyNo","image_id":100452},{"match":"toweyGold","image_id":94070},{"match":"toweyFail","image_id":93359}]}
+{
+  "name": "twitch-sub-towey",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "toweyFace",
+      "image_id": 34594
+    },
+    {
+      "match": "toweyBlue",
+      "image_id": 76378
+    },
+    {
+      "match": "toweyHype",
+      "image_id": 74442
+    },
+    {
+      "match": "toweyLife",
+      "image_id": 76384
+    },
+    {
+      "match": "toweyNo",
+      "image_id": 100452
+    },
+    {
+      "match": "toweyGold",
+      "image_id": 94070
+    },
+    {
+      "match": "toweyFail",
+      "image_id": 93359
+    }
+  ]
+}

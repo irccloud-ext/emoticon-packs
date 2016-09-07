@@ -1,1 +1,15 @@
-{"name":"twitch-sub-arson","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"arsonDoit","image_id":52635},{"match":"arsonRage","image_id":49390}]}
+{
+  "name": "twitch-sub-arson",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "arsonDoit",
+      "image_id": 52635
+    },
+    {
+      "match": "arsonRage",
+      "image_id": 49390
+    }
+  ]
+}

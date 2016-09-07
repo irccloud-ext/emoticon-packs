@@ -1,1 +1,119 @@
-{"name":"twitch-sub-food","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"foodCone","image_id":88789},{"match":"foodWine","image_id":88798},{"match":"foodKappa","image_id":90240},{"match":"foodCake","image_id":88804},{"match":"foodPineapple","image_id":89140},{"match":"foodOnion","image_id":88809},{"match":"foodPepper","image_id":95074},{"match":"foodChicken","image_id":89154},{"match":"foodHeart","image_id":88811},{"match":"foodApple","image_id":88812},{"match":"foodSaved","image_id":89163},{"match":"foodNed","image_id":89992},{"match":"foodRui","image_id":89994},{"match":"foodWhisk","image_id":89174},{"match":"foodFork","image_id":89175},{"match":"foodKnife","image_id":89184},{"match":"foodSpoon","image_id":89186},{"match":"foodKeep","image_id":89193},{"match":"foodGG","image_id":89206},{"match":"foodMeat","image_id":88817},{"match":"foodEgg","image_id":89384},{"match":"foodBon","image_id":89399},{"match":"foodDonut","image_id":89382},{"match":"foodStrawb","image_id":89388},{"match":"foodWaffle","image_id":89411},{"match":"foodCheeseBW","image_id":90121},{"match":"foodButter","image_id":90755},{"match":"foodBacon","image_id":92904}]}
+{
+  "name": "twitch-sub-food",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "foodCone",
+      "image_id": 88789
+    },
+    {
+      "match": "foodWine",
+      "image_id": 88798
+    },
+    {
+      "match": "foodKappa",
+      "image_id": 90240
+    },
+    {
+      "match": "foodCake",
+      "image_id": 88804
+    },
+    {
+      "match": "foodPineapple",
+      "image_id": 89140
+    },
+    {
+      "match": "foodOnion",
+      "image_id": 88809
+    },
+    {
+      "match": "foodPepper",
+      "image_id": 95074
+    },
+    {
+      "match": "foodChicken",
+      "image_id": 89154
+    },
+    {
+      "match": "foodHeart",
+      "image_id": 88811
+    },
+    {
+      "match": "foodApple",
+      "image_id": 88812
+    },
+    {
+      "match": "foodSaved",
+      "image_id": 89163
+    },
+    {
+      "match": "foodNed",
+      "image_id": 89992
+    },
+    {
+      "match": "foodRui",
+      "image_id": 89994
+    },
+    {
+      "match": "foodWhisk",
+      "image_id": 89174
+    },
+    {
+      "match": "foodFork",
+      "image_id": 89175
+    },
+    {
+      "match": "foodKnife",
+      "image_id": 89184
+    },
+    {
+      "match": "foodSpoon",
+      "image_id": 89186
+    },
+    {
+      "match": "foodKeep",
+      "image_id": 89193
+    },
+    {
+      "match": "foodGG",
+      "image_id": 89206
+    },
+    {
+      "match": "foodMeat",
+      "image_id": 88817
+    },
+    {
+      "match": "foodEgg",
+      "image_id": 89384
+    },
+    {
+      "match": "foodBon",
+      "image_id": 89399
+    },
+    {
+      "match": "foodDonut",
+      "image_id": 89382
+    },
+    {
+      "match": "foodStrawb",
+      "image_id": 89388
+    },
+    {
+      "match": "foodWaffle",
+      "image_id": 89411
+    },
+    {
+      "match": "foodCheeseBW",
+      "image_id": 90121
+    },
+    {
+      "match": "foodButter",
+      "image_id": 90755
+    },
+    {
+      "match": "foodBacon",
+      "image_id": 92904
+    }
+  ]
+}

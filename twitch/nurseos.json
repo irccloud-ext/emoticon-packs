@@ -1,1 +1,19 @@
-{"name":"twitch-sub-nurseos","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nurseosRage","image_id":34597},{"match":"nurseosCO","image_id":35881},{"match":"nurseosDolan","image_id":35946}]}
+{
+  "name": "twitch-sub-nurseos",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nurseosRage",
+      "image_id": 34597
+    },
+    {
+      "match": "nurseosCO",
+      "image_id": 35881
+    },
+    {
+      "match": "nurseosDolan",
+      "image_id": 35946
+    }
+  ]
+}

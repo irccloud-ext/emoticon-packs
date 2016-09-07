@@ -1,1 +1,47 @@
-{"name":"twitch-sub-fizzor","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fizzAir","image_id":30455},{"match":"fizzFace","image_id":34579},{"match":"fizzLW","image_id":74071},{"match":"fizzSkill","image_id":65036},{"match":"fizzHype","image_id":70786},{"match":"fizzRekt","image_id":72386},{"match":"fizzOPStrats","image_id":73529},{"match":"fizzTBlitz","image_id":80984},{"match":"fizzZen","image_id":109197},{"match":"fizzBird","image_id":109198}]}
+{
+  "name": "twitch-sub-fizzor",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fizzAir",
+      "image_id": 30455
+    },
+    {
+      "match": "fizzFace",
+      "image_id": 34579
+    },
+    {
+      "match": "fizzLW",
+      "image_id": 74071
+    },
+    {
+      "match": "fizzSkill",
+      "image_id": 65036
+    },
+    {
+      "match": "fizzHype",
+      "image_id": 70786
+    },
+    {
+      "match": "fizzRekt",
+      "image_id": 72386
+    },
+    {
+      "match": "fizzOPStrats",
+      "image_id": 73529
+    },
+    {
+      "match": "fizzTBlitz",
+      "image_id": 80984
+    },
+    {
+      "match": "fizzZen",
+      "image_id": 109197
+    },
+    {
+      "match": "fizzBird",
+      "image_id": 109198
+    }
+  ]
+}

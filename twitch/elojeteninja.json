@@ -1,1 +1,31 @@
-{"name":"twitch-sub-elojeteninja","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ojeteNinja","image_id":24193},{"match":"ojeteRekt","image_id":111491},{"match":"ojeteSub","image_id":111404},{"match":"ojeteKappa","image_id":105718},{"match":"ojeteTilt","image_id":105719},{"match":"ojeteCounterjungle","image_id":111526}]}
+{
+  "name": "twitch-sub-elojeteninja",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ojeteNinja",
+      "image_id": 24193
+    },
+    {
+      "match": "ojeteRekt",
+      "image_id": 111491
+    },
+    {
+      "match": "ojeteSub",
+      "image_id": 111404
+    },
+    {
+      "match": "ojeteKappa",
+      "image_id": 105718
+    },
+    {
+      "match": "ojeteTilt",
+      "image_id": 105719
+    },
+    {
+      "match": "ojeteCounterjungle",
+      "image_id": 111526
+    }
+  ]
+}

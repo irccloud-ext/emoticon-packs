@@ -1,1 +1,15 @@
-{"name":"twitch-sub-gamerfas","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fasPride","image_id":91829},{"match":"fasKeppo","image_id":91828}]}
+{
+  "name": "twitch-sub-gamerfas",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fasPride",
+      "image_id": 91829
+    },
+    {
+      "match": "fasKeppo",
+      "image_id": 91828
+    }
+  ]
+}

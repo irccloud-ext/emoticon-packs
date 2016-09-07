@@ -1,1 +1,19 @@
-{"name":"twitch-sub-xolliegamerz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ollieSWAG","image_id":55882},{"match":"ollieAGARIO","image_id":55884},{"match":"ollieGG","image_id":54220}]}
+{
+  "name": "twitch-sub-xolliegamerz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ollieSWAG",
+      "image_id": 55882
+    },
+    {
+      "match": "ollieAGARIO",
+      "image_id": 55884
+    },
+    {
+      "match": "ollieGG",
+      "image_id": 54220
+    }
+  ]
+}

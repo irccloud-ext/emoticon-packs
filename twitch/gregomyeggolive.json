@@ -1,1 +1,27 @@
-{"name":"twitch-sub-gregomyeggolive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gregoKiss","image_id":101604},{"match":"gregoBoop","image_id":101595},{"match":"gregoC9","image_id":107906},{"match":"gregoTea","image_id":108321},{"match":"gregoZen","image_id":108322}]}
+{
+  "name": "twitch-sub-gregomyeggolive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gregoKiss",
+      "image_id": 101604
+    },
+    {
+      "match": "gregoBoop",
+      "image_id": 101595
+    },
+    {
+      "match": "gregoC9",
+      "image_id": 107906
+    },
+    {
+      "match": "gregoTea",
+      "image_id": 108321
+    },
+    {
+      "match": "gregoZen",
+      "image_id": 108322
+    }
+  ]
+}

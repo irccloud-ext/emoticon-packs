@@ -1,1 +1,19 @@
-{"name":"twitch-sub-teamcastigo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"castigoDavey","image_id":72534},{"match":"castigoTopdeck","image_id":72533},{"match":"castigoChampagne","image_id":74732}]}
+{
+  "name": "twitch-sub-teamcastigo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "castigoDavey",
+      "image_id": 72534
+    },
+    {
+      "match": "castigoTopdeck",
+      "image_id": 72533
+    },
+    {
+      "match": "castigoChampagne",
+      "image_id": 74732
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-sanguiphilia","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sangH","image_id":58975},{"match":"sangRage","image_id":49692},{"match":"sangW","image_id":49694},{"match":"sangJinx","image_id":49512},{"match":"sangThirsty","image_id":49513},{"match":"sangGasm","image_id":49640},{"match":"sangThump","image_id":80349},{"match":"sangMoon","image_id":78336},{"match":"sangRain","image_id":78332},{"match":"sang7","image_id":108481}]}
+{
+  "name": "twitch-sub-sanguiphilia",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sangH",
+      "image_id": 58975
+    },
+    {
+      "match": "sangRage",
+      "image_id": 49692
+    },
+    {
+      "match": "sangW",
+      "image_id": 49694
+    },
+    {
+      "match": "sangJinx",
+      "image_id": 49512
+    },
+    {
+      "match": "sangThirsty",
+      "image_id": 49513
+    },
+    {
+      "match": "sangGasm",
+      "image_id": 49640
+    },
+    {
+      "match": "sangThump",
+      "image_id": 80349
+    },
+    {
+      "match": "sangMoon",
+      "image_id": 78336
+    },
+    {
+      "match": "sangRain",
+      "image_id": 78332
+    },
+    {
+      "match": "sang7",
+      "image_id": 108481
+    }
+  ]
+}

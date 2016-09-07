@@ -1,1 +1,23 @@
-{"name":"twitch-sub-nemesis_tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nmsNemesis","image_id":34194},{"match":"nmsAllBad","image_id":10749},{"match":"nmsYoba","image_id":34070},{"match":"nmsChelik","image_id":34149}]}
+{
+  "name": "twitch-sub-nemesis_tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nmsNemesis",
+      "image_id": 34194
+    },
+    {
+      "match": "nmsAllBad",
+      "image_id": 10749
+    },
+    {
+      "match": "nmsYoba",
+      "image_id": 34070
+    },
+    {
+      "match": "nmsChelik",
+      "image_id": 34149
+    }
+  ]
+}

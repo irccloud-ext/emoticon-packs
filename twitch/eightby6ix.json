@@ -1,1 +1,39 @@
-{"name":"twitch-sub-eightby6ix","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"8x6Weenie","image_id":85047},{"match":"8x6Rage","image_id":85044},{"match":"8x6W","image_id":85048},{"match":"8x6Hype","image_id":85042},{"match":"8x6RIP","image_id":85045},{"match":"8x6Love","image_id":85043},{"match":"8x6Hey","image_id":85041},{"match":"8x6Greed","image_id":102947}]}
+{
+  "name": "twitch-sub-eightby6ix",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "8x6Weenie",
+      "image_id": 85047
+    },
+    {
+      "match": "8x6Rage",
+      "image_id": 85044
+    },
+    {
+      "match": "8x6W",
+      "image_id": 85048
+    },
+    {
+      "match": "8x6Hype",
+      "image_id": 85042
+    },
+    {
+      "match": "8x6RIP",
+      "image_id": 85045
+    },
+    {
+      "match": "8x6Love",
+      "image_id": 85043
+    },
+    {
+      "match": "8x6Hey",
+      "image_id": 85041
+    },
+    {
+      "match": "8x6Greed",
+      "image_id": 102947
+    }
+  ]
+}

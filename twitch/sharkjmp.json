@@ -1,1 +1,23 @@
-{"name":"twitch-sub-sharkjmp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sharkjmpSafado","image_id":27096},{"match":"sharkjmpRekt","image_id":54202},{"match":"sharkjmpChapado","image_id":54203},{"match":"sharkjmpMonstro","image_id":54204}]}
+{
+  "name": "twitch-sub-sharkjmp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sharkjmpSafado",
+      "image_id": 27096
+    },
+    {
+      "match": "sharkjmpRekt",
+      "image_id": 54202
+    },
+    {
+      "match": "sharkjmpChapado",
+      "image_id": 54203
+    },
+    {
+      "match": "sharkjmpMonstro",
+      "image_id": 54204
+    }
+  ]
+}

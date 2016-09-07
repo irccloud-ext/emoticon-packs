@@ -1,1 +1,31 @@
-{"name":"twitch-sub-risingfungaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rfgSugoi","image_id":37749},{"match":"rfgSausage","image_id":39703},{"match":"rfgHi","image_id":39425},{"match":"rfgRekt","image_id":39149},{"match":"rfgDokiDoki","image_id":39980},{"match":"rfgWD","image_id":39979}]}
+{
+  "name": "twitch-sub-risingfungaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rfgSugoi",
+      "image_id": 37749
+    },
+    {
+      "match": "rfgSausage",
+      "image_id": 39703
+    },
+    {
+      "match": "rfgHi",
+      "image_id": 39425
+    },
+    {
+      "match": "rfgRekt",
+      "image_id": 39149
+    },
+    {
+      "match": "rfgDokiDoki",
+      "image_id": 39980
+    },
+    {
+      "match": "rfgWD",
+      "image_id": 39979
+    }
+  ]
+}

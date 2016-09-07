@@ -1,1 +1,39 @@
-{"name":"twitch-sub-kev1ntv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kev1nDoener","image_id":58094},{"match":"kev1nBoosted","image_id":84436},{"match":"kev1nKappaKoenig","image_id":34073},{"match":"kev1nTryhard","image_id":64094},{"match":"kev1nXpeke","image_id":64362},{"match":"kev1nNala","image_id":84439},{"match":"kev1nPanzerwagen","image_id":84444},{"match":"kev1nDiggy","image_id":92797}]}
+{
+  "name": "twitch-sub-kev1ntv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kev1nDoener",
+      "image_id": 58094
+    },
+    {
+      "match": "kev1nBoosted",
+      "image_id": 84436
+    },
+    {
+      "match": "kev1nKappaKoenig",
+      "image_id": 34073
+    },
+    {
+      "match": "kev1nTryhard",
+      "image_id": 64094
+    },
+    {
+      "match": "kev1nXpeke",
+      "image_id": 64362
+    },
+    {
+      "match": "kev1nNala",
+      "image_id": 84439
+    },
+    {
+      "match": "kev1nPanzerwagen",
+      "image_id": 84444
+    },
+    {
+      "match": "kev1nDiggy",
+      "image_id": 92797
+    }
+  ]
+}

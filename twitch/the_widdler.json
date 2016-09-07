@@ -1,1 +1,39 @@
-{"name":"twitch-sub-the_widdler","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"widdSpeaker","image_id":27848},{"match":"widdPeace","image_id":30207},{"match":"widdWat","image_id":71237},{"match":"widdDank","image_id":29916},{"match":"widdVinyl","image_id":29361},{"match":"widdHorn","image_id":40212},{"match":"widdFaded","image_id":40363},{"match":"widdGasm","image_id":40381}]}
+{
+  "name": "twitch-sub-the_widdler",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "widdSpeaker",
+      "image_id": 27848
+    },
+    {
+      "match": "widdPeace",
+      "image_id": 30207
+    },
+    {
+      "match": "widdWat",
+      "image_id": 71237
+    },
+    {
+      "match": "widdDank",
+      "image_id": 29916
+    },
+    {
+      "match": "widdVinyl",
+      "image_id": 29361
+    },
+    {
+      "match": "widdHorn",
+      "image_id": 40212
+    },
+    {
+      "match": "widdFaded",
+      "image_id": 40363
+    },
+    {
+      "match": "widdGasm",
+      "image_id": 40381
+    }
+  ]
+}

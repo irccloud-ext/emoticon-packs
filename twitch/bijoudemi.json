@@ -1,1 +1,47 @@
-{"name":"twitch-sub-bijoudemi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bijHype","image_id":89126},{"match":"bijLove","image_id":89125},{"match":"bijC","image_id":88341},{"match":"bijWut","image_id":88337},{"match":"bijW","image_id":88335},{"match":"bijSing","image_id":96585},{"match":"bijSalt","image_id":96584},{"match":"bijRekt","image_id":96583},{"match":"bijOnesie","image_id":96582},{"match":"bijRip","image_id":96581}]}
+{
+  "name": "twitch-sub-bijoudemi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bijHype",
+      "image_id": 89126
+    },
+    {
+      "match": "bijLove",
+      "image_id": 89125
+    },
+    {
+      "match": "bijC",
+      "image_id": 88341
+    },
+    {
+      "match": "bijWut",
+      "image_id": 88337
+    },
+    {
+      "match": "bijW",
+      "image_id": 88335
+    },
+    {
+      "match": "bijSing",
+      "image_id": 96585
+    },
+    {
+      "match": "bijSalt",
+      "image_id": 96584
+    },
+    {
+      "match": "bijRekt",
+      "image_id": 96583
+    },
+    {
+      "match": "bijOnesie",
+      "image_id": 96582
+    },
+    {
+      "match": "bijRip",
+      "image_id": 96581
+    }
+  ]
+}

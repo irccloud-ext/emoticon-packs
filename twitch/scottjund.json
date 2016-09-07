@@ -1,1 +1,47 @@
-{"name":"twitch-sub-scottjund","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jundDad","image_id":16458},{"match":"jundParry","image_id":16461},{"match":"jundBread","image_id":18309},{"match":"jundRage","image_id":40326},{"match":"jundSniper","image_id":40322},{"match":"jundSalute","image_id":49547},{"match":"jundPicnic","image_id":49544},{"match":"jundFeelsDadMan","image_id":89577},{"match":"jundFeelsBreadMan","image_id":90019},{"match":"jundUpset","image_id":110517}]}
+{
+  "name": "twitch-sub-scottjund",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jundDad",
+      "image_id": 16458
+    },
+    {
+      "match": "jundParry",
+      "image_id": 16461
+    },
+    {
+      "match": "jundBread",
+      "image_id": 18309
+    },
+    {
+      "match": "jundRage",
+      "image_id": 40326
+    },
+    {
+      "match": "jundSniper",
+      "image_id": 40322
+    },
+    {
+      "match": "jundSalute",
+      "image_id": 49547
+    },
+    {
+      "match": "jundPicnic",
+      "image_id": 49544
+    },
+    {
+      "match": "jundFeelsDadMan",
+      "image_id": 89577
+    },
+    {
+      "match": "jundFeelsBreadMan",
+      "image_id": 90019
+    },
+    {
+      "match": "jundUpset",
+      "image_id": 110517
+    }
+  ]
+}

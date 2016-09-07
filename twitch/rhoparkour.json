@@ -1,1 +1,35 @@
-{"name":"twitch-sub-rhoparkour","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rhoPeach","image_id":23772},{"match":"rhoRaid","image_id":24088},{"match":"rhoFish","image_id":25361},{"match":"rhoBoat","image_id":27966},{"match":"rhoMoon","image_id":27965},{"match":"rhoDog","image_id":49096},{"match":"rhoSkor","image_id":82091}]}
+{
+  "name": "twitch-sub-rhoparkour",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rhoPeach",
+      "image_id": 23772
+    },
+    {
+      "match": "rhoRaid",
+      "image_id": 24088
+    },
+    {
+      "match": "rhoFish",
+      "image_id": 25361
+    },
+    {
+      "match": "rhoBoat",
+      "image_id": 27966
+    },
+    {
+      "match": "rhoMoon",
+      "image_id": 27965
+    },
+    {
+      "match": "rhoDog",
+      "image_id": 49096
+    },
+    {
+      "match": "rhoSkor",
+      "image_id": 82091
+    }
+  ]
+}

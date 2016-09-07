@@ -1,1 +1,35 @@
-{"name":"twitch-sub-morgenowsky","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mrgnLysy","image_id":21036},{"match":"mrgnEZ","image_id":24159},{"match":"mrgnRak","image_id":24158},{"match":"mrgnMafia","image_id":26287},{"match":"mrgnSmile","image_id":29968},{"match":"mrgnShock","image_id":31223},{"match":"mrgnSilver","image_id":31129}]}
+{
+  "name": "twitch-sub-morgenowsky",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mrgnLysy",
+      "image_id": 21036
+    },
+    {
+      "match": "mrgnEZ",
+      "image_id": 24159
+    },
+    {
+      "match": "mrgnRak",
+      "image_id": 24158
+    },
+    {
+      "match": "mrgnMafia",
+      "image_id": 26287
+    },
+    {
+      "match": "mrgnSmile",
+      "image_id": 29968
+    },
+    {
+      "match": "mrgnShock",
+      "image_id": 31223
+    },
+    {
+      "match": "mrgnSilver",
+      "image_id": 31129
+    }
+  ]
+}

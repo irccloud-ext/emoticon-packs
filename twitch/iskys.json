@@ -1,1 +1,39 @@
-{"name":"twitch-sub-iskys","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"skysP","image_id":88318},{"match":"skysS","image_id":88317},{"match":"skysRekt","image_id":93757},{"match":"skysDoit","image_id":58342},{"match":"skysG","image_id":96227},{"match":"skysF","image_id":94346},{"match":"skysR","image_id":99700}]}
+{
+  "name": "twitch-sub-iskys",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "skysS",
+      "image_id": 88317
+    },
+    {
+      "match": "skysP",
+      "image_id": 112014
+    },
+    {
+      "match": "skysF",
+      "image_id": 112013
+    },
+    {
+      "match": "skysRekt",
+      "image_id": 93757
+    },
+    {
+      "match": "skysDoit",
+      "image_id": 58342
+    },
+    {
+      "match": "skysG",
+      "image_id": 96227
+    },
+    {
+      "match": "skysR",
+      "image_id": 99700
+    },
+    {
+      "match": "skysYo",
+      "image_id": 111721
+    }
+  ]
+}

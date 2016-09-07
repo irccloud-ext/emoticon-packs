@@ -1,1 +1,39 @@
-{"name":"twitch-sub-ghazzy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ghazzyWIN","image_id":50883},{"match":"ghazzyRIP","image_id":50854},{"match":"ghazzyPOE","image_id":50924},{"match":"ghazzyROCKIT","image_id":26910},{"match":"ghazzyWAT","image_id":50855},{"match":"ghazzyBURN","image_id":67643},{"match":"ghazzyKRAKEN","image_id":67642},{"match":"ghazzyRAID","image_id":67641}]}
+{
+  "name": "twitch-sub-ghazzy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ghazzyWIN",
+      "image_id": 50883
+    },
+    {
+      "match": "ghazzyRIP",
+      "image_id": 50854
+    },
+    {
+      "match": "ghazzyPOE",
+      "image_id": 50924
+    },
+    {
+      "match": "ghazzyROCKIT",
+      "image_id": 26910
+    },
+    {
+      "match": "ghazzyWAT",
+      "image_id": 50855
+    },
+    {
+      "match": "ghazzyBURN",
+      "image_id": 67643
+    },
+    {
+      "match": "ghazzyKRAKEN",
+      "image_id": 67642
+    },
+    {
+      "match": "ghazzyRAID",
+      "image_id": 67641
+    }
+  ]
+}

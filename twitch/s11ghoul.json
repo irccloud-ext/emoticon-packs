@@ -1,1 +1,23 @@
-{"name":"twitch-sub-s11ghoul","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"s11Kafi","image_id":32763},{"match":"s11Rot","image_id":32851},{"match":"s11Petuh","image_id":33967},{"match":"s11Lev","image_id":34004}]}
+{
+  "name": "twitch-sub-s11ghoul",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "s11Kafi",
+      "image_id": 32763
+    },
+    {
+      "match": "s11Rot",
+      "image_id": 32851
+    },
+    {
+      "match": "s11Petuh",
+      "image_id": 33967
+    },
+    {
+      "match": "s11Lev",
+      "image_id": 34004
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"twitch-sub-c9rush","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"c9rushW","image_id":82970},{"match":"c9rushKappa","image_id":82972},{"match":"c9rushNOO","image_id":111574}]}
+{
+  "name": "twitch-sub-c9rush",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pvmanBoom",
+      "image_id": 111920
+    },
+    {
+      "match": "pvmanLeesin",
+      "image_id": 111918
+    },
+    {
+      "match": "pvmanNocounter",
+      "image_id": 111919
+    },
+    {
+      "match": "pvmanW",
+      "image_id": 82970
+    },
+    {
+      "match": "pvmanKappa",
+      "image_id": 82972
+    },
+    {
+      "match": "pvmanNOO",
+      "image_id": 111574
+    },
+    {
+      "match": "pvmanMonkey",
+      "image_id": 111902
+    }
+  ]
+}

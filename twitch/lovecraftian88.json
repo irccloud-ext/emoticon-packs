@@ -1,1 +1,23 @@
-{"name":"twitch-sub-lovecraftian88","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lveRNGesus","image_id":102865},{"match":"lveYeah","image_id":72652},{"match":"lveIlluminacho","image_id":84817},{"match":"lveGG","image_id":86281}]}
+{
+  "name": "twitch-sub-lovecraftian88",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lveIlluminacho",
+      "image_id": 111841
+    },
+    {
+      "match": "lveYeah",
+      "image_id": 72652
+    },
+    {
+      "match": "lveGG",
+      "image_id": 86281
+    },
+    {
+      "match": "lveRNGesus",
+      "image_id": 112395
+    }
+  ]
+}

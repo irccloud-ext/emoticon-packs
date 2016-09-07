@@ -1,1 +1,47 @@
-{"name":"twitch-sub-deejayknight","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"djkLick","image_id":95541},{"match":"djkW","image_id":95535},{"match":"djkLove","image_id":97445},{"match":"djkSalute","image_id":97526},{"match":"djkGun","image_id":97164},{"match":"djkRGun","image_id":97165},{"match":"djkEnder","image_id":96345},{"match":"djkKorra","image_id":96346},{"match":"djkYup","image_id":96437},{"match":"djkLewd","image_id":95534}]}
+{
+  "name": "twitch-sub-deejayknight",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "djkLick",
+      "image_id": 95541
+    },
+    {
+      "match": "djkW",
+      "image_id": 95535
+    },
+    {
+      "match": "djkLove",
+      "image_id": 97445
+    },
+    {
+      "match": "djkSalute",
+      "image_id": 97526
+    },
+    {
+      "match": "djkGun",
+      "image_id": 97164
+    },
+    {
+      "match": "djkRGun",
+      "image_id": 97165
+    },
+    {
+      "match": "djkEnder",
+      "image_id": 96345
+    },
+    {
+      "match": "djkKorra",
+      "image_id": 96346
+    },
+    {
+      "match": "djkYup",
+      "image_id": 96437
+    },
+    {
+      "match": "djkLewd",
+      "image_id": 95534
+    }
+  ]
+}

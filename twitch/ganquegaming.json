@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ganquegaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ganqNyanChester","image_id":61154},{"match":"ganqKappo","image_id":61164},{"match":"ganqGG","image_id":75349},{"match":"ganqWTP","image_id":75350}]}
+{
+  "name": "twitch-sub-ganquegaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ganqNyanChester",
+      "image_id": 61154
+    },
+    {
+      "match": "ganqKappo",
+      "image_id": 61164
+    },
+    {
+      "match": "ganqGG",
+      "image_id": 75349
+    },
+    {
+      "match": "ganqWTP",
+      "image_id": 75350
+    }
+  ]
+}

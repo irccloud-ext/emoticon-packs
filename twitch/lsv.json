@@ -1,1 +1,47 @@
-{"name":"twitch-sub-lsv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lsvWhitelist","image_id":71708},{"match":"lsvWheel","image_id":71709},{"match":"lsvBear","image_id":71710},{"match":"lsvGrade","image_id":71711},{"match":"lsvDece","image_id":93617},{"match":"lsvWin","image_id":93616},{"match":"lsvBurrito","image_id":93170},{"match":"lsvMarshall","image_id":93169},{"match":"lsvWhy","image_id":93173},{"match":"lsvQueue","image_id":93172}]}
+{
+  "name": "twitch-sub-lsv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lsvWhitelist",
+      "image_id": 71708
+    },
+    {
+      "match": "lsvWheel",
+      "image_id": 71709
+    },
+    {
+      "match": "lsvBear",
+      "image_id": 71710
+    },
+    {
+      "match": "lsvGrade",
+      "image_id": 71711
+    },
+    {
+      "match": "lsvDece",
+      "image_id": 93617
+    },
+    {
+      "match": "lsvWin",
+      "image_id": 93616
+    },
+    {
+      "match": "lsvBurrito",
+      "image_id": 93170
+    },
+    {
+      "match": "lsvMarshall",
+      "image_id": 93169
+    },
+    {
+      "match": "lsvWhy",
+      "image_id": 93173
+    },
+    {
+      "match": "lsvQueue",
+      "image_id": 93172
+    }
+  ]
+}

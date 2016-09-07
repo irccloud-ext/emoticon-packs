@@ -1,1 +1,39 @@
-{"name":"twitch-sub-absnerdity","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"absGold","image_id":27208},{"match":"absRigged","image_id":28553},{"match":"absLoveit","image_id":30011},{"match":"absBert","image_id":34500},{"match":"absInthe","image_id":35249},{"match":"absRage","image_id":38726},{"match":"absCry","image_id":38725},{"match":"absPoint","image_id":38789}]}
+{
+  "name": "twitch-sub-absnerdity",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "absGold",
+      "image_id": 27208
+    },
+    {
+      "match": "absRigged",
+      "image_id": 28553
+    },
+    {
+      "match": "absLoveit",
+      "image_id": 30011
+    },
+    {
+      "match": "absBert",
+      "image_id": 34500
+    },
+    {
+      "match": "absInthe",
+      "image_id": 35249
+    },
+    {
+      "match": "absRage",
+      "image_id": 38726
+    },
+    {
+      "match": "absCry",
+      "image_id": 38725
+    },
+    {
+      "match": "absPoint",
+      "image_id": 38789
+    }
+  ]
+}

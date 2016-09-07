@@ -1,1 +1,39 @@
-{"name":"twitch-sub-jenzkiwr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jenzkiHi","image_id":85945},{"match":"jenzkiSP","image_id":78771},{"match":"jenzkiHype","image_id":73154},{"match":"jenzkiL","image_id":72159},{"match":"jenzkiB","image_id":72317},{"match":"jenzkiW","image_id":72154},{"match":"jenzkiDerp","image_id":72213},{"match":"jenzkiAJJ","image_id":78773}]}
+{
+  "name": "twitch-sub-jenzkiwr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jenzkiHi",
+      "image_id": 85945
+    },
+    {
+      "match": "jenzkiSP",
+      "image_id": 78771
+    },
+    {
+      "match": "jenzkiHype",
+      "image_id": 73154
+    },
+    {
+      "match": "jenzkiL",
+      "image_id": 72159
+    },
+    {
+      "match": "jenzkiB",
+      "image_id": 72317
+    },
+    {
+      "match": "jenzkiW",
+      "image_id": 72154
+    },
+    {
+      "match": "jenzkiDerp",
+      "image_id": 72213
+    },
+    {
+      "match": "jenzkiAJJ",
+      "image_id": 78773
+    }
+  ]
+}

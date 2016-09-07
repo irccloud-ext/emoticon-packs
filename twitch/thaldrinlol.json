@@ -1,1 +1,27 @@
-{"name":"twitch-sub-thaldrinlol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"thalRekt","image_id":12357},{"match":"thalBerke","image_id":12359},{"match":"thalEkmek","image_id":23938},{"match":"thalPatates","image_id":27988},{"match":"thalKappa","image_id":48810}]}
+{
+  "name": "twitch-sub-thaldrinlol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "thalRekt",
+      "image_id": 12357
+    },
+    {
+      "match": "thalBerke",
+      "image_id": 12359
+    },
+    {
+      "match": "thalEkmek",
+      "image_id": 23938
+    },
+    {
+      "match": "thalPatates",
+      "image_id": 27988
+    },
+    {
+      "match": "thalKappa",
+      "image_id": 48810
+    }
+  ]
+}

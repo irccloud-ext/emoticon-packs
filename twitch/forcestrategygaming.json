@@ -1,1 +1,39 @@
-{"name":"twitch-sub-forcestrategygaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"forceJustice","image_id":72802},{"match":"forceSad","image_id":73753},{"match":"forceRage","image_id":73199},{"match":"forceSalt","image_id":73299},{"match":"forceJoy","image_id":73349},{"match":"forceCarry","image_id":86780},{"match":"forceRekt","image_id":86906},{"match":"forceEnforcer","image_id":97166}]}
+{
+  "name": "twitch-sub-forcestrategygaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "forceJustice",
+      "image_id": 72802
+    },
+    {
+      "match": "forceSad",
+      "image_id": 73753
+    },
+    {
+      "match": "forceRage",
+      "image_id": 73199
+    },
+    {
+      "match": "forceSalt",
+      "image_id": 73299
+    },
+    {
+      "match": "forceJoy",
+      "image_id": 73349
+    },
+    {
+      "match": "forceCarry",
+      "image_id": 86780
+    },
+    {
+      "match": "forceRekt",
+      "image_id": 86906
+    },
+    {
+      "match": "forceEnforcer",
+      "image_id": 97166
+    }
+  ]
+}

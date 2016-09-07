@@ -1,1 +1,39 @@
-{"name":"twitch-sub-krakantas","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tontonSUB","image_id":106565},{"match":"tontonRAGE","image_id":109291},{"match":"tontonKAPPA","image_id":109293},{"match":"tontonTATA","image_id":106715},{"match":"tontonLJ","image_id":106707},{"match":"tontonPLS","image_id":106710},{"match":"tontonCRINGE","image_id":106711},{"match":"tontonLOVE","image_id":108582}]}
+{
+  "name": "twitch-sub-krakantas",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tontonSUB",
+      "image_id": 106565
+    },
+    {
+      "match": "tontonRAGE",
+      "image_id": 109291
+    },
+    {
+      "match": "tontonKAPPA",
+      "image_id": 109293
+    },
+    {
+      "match": "tontonTATA",
+      "image_id": 106715
+    },
+    {
+      "match": "tontonLJ",
+      "image_id": 106707
+    },
+    {
+      "match": "tontonPLS",
+      "image_id": 106710
+    },
+    {
+      "match": "tontonCRINGE",
+      "image_id": 106711
+    },
+    {
+      "match": "tontonLOVE",
+      "image_id": 108582
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-thedragonfeeney","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"feenWut","image_id":94933},{"match":"feenLove","image_id":94914},{"match":"feenSpoop","image_id":98347},{"match":"feenPapple","image_id":94873},{"match":"feenRekt","image_id":95300},{"match":"feenRage","image_id":97100},{"match":"feenCheese","image_id":97109},{"match":"feenSugar","image_id":94895}]}
+{
+  "name": "twitch-sub-thedragonfeeney",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "feenWut",
+      "image_id": 94933
+    },
+    {
+      "match": "feenLove",
+      "image_id": 94914
+    },
+    {
+      "match": "feenSpoop",
+      "image_id": 98347
+    },
+    {
+      "match": "feenPapple",
+      "image_id": 94873
+    },
+    {
+      "match": "feenRekt",
+      "image_id": 95300
+    },
+    {
+      "match": "feenRage",
+      "image_id": 97100
+    },
+    {
+      "match": "feenCheese",
+      "image_id": 97109
+    },
+    {
+      "match": "feenSugar",
+      "image_id": 94895
+    }
+  ]
+}

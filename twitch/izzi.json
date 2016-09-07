@@ -1,1 +1,43 @@
-{"name":"twitch-sub-izzi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"izziKlaetschi","image_id":41663},{"match":"izziRobin","image_id":41677},{"match":"izziFail","image_id":52244},{"match":"izziPartey","image_id":52245},{"match":"izziFace","image_id":52246},{"match":"izziGG","image_id":52247},{"match":"izziRip","image_id":94733},{"match":"izziCry","image_id":95025},{"match":"izziSad","image_id":95415}]}
+{
+  "name": "twitch-sub-izzi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "izziKlaetschi",
+      "image_id": 41663
+    },
+    {
+      "match": "izziRobin",
+      "image_id": 41677
+    },
+    {
+      "match": "izziFail",
+      "image_id": 52244
+    },
+    {
+      "match": "izziPartey",
+      "image_id": 52245
+    },
+    {
+      "match": "izziFace",
+      "image_id": 52246
+    },
+    {
+      "match": "izziGG",
+      "image_id": 52247
+    },
+    {
+      "match": "izziRip",
+      "image_id": 94733
+    },
+    {
+      "match": "izziCry",
+      "image_id": 95025
+    },
+    {
+      "match": "izziSad",
+      "image_id": 95415
+    }
+  ]
+}

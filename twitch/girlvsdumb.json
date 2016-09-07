@@ -1,1 +1,39 @@
-{"name":"twitch-sub-girlvsdumb","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gvdHEY","image_id":74738},{"match":"gvdHYPE","image_id":74746},{"match":"gvdNO","image_id":74860},{"match":"gvdW","image_id":77745},{"match":"gvdYUM","image_id":77746},{"match":"gvdLOVE","image_id":108120},{"match":"gvdTHUMP","image_id":108479},{"match":"gvdG","image_id":108450}]}
+{
+  "name": "twitch-sub-girlvsdumb",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gvdHEY",
+      "image_id": 74738
+    },
+    {
+      "match": "gvdHYPE",
+      "image_id": 74746
+    },
+    {
+      "match": "gvdNO",
+      "image_id": 74860
+    },
+    {
+      "match": "gvdW",
+      "image_id": 77745
+    },
+    {
+      "match": "gvdYUM",
+      "image_id": 77746
+    },
+    {
+      "match": "gvdLOVE",
+      "image_id": 108120
+    },
+    {
+      "match": "gvdTHUMP",
+      "image_id": 108479
+    },
+    {
+      "match": "gvdG",
+      "image_id": 108450
+    }
+  ]
+}

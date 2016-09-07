@@ -1,1 +1,15 @@
-{"name":"twitch-sub-reveevtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"perevod4ikSALO","image_id":33082},{"match":"perevod4ikOTBOGA","image_id":33081}]}
+{
+  "name": "twitch-sub-reveevtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "perevod4ikSALO",
+      "image_id": 33082
+    },
+    {
+      "match": "perevod4ikOTBOGA",
+      "image_id": 33081
+    }
+  ]
+}

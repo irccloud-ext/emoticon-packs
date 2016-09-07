@@ -1,1 +1,15 @@
-{"name":"twitch-sub-mixbottv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gogoTyloo","image_id":97638},{"match":"gogoMixbot","image_id":97639}]}
+{
+  "name": "twitch-sub-mixbottv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gogoTyloo",
+      "image_id": 97638
+    },
+    {
+      "match": "gogoMixbot",
+      "image_id": 97639
+    }
+  ]
+}

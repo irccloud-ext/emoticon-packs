@@ -1,1 +1,39 @@
-{"name":"twitch-sub-gstv1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gstvV","image_id":4226},{"match":"gstvRIP","image_id":4238},{"match":"gstv1","image_id":4385},{"match":"gstvAwk","image_id":13036},{"match":"gstvBan","image_id":15196},{"match":"gstvBronze","image_id":24606},{"match":"gstvHype","image_id":24610},{"match":"gstvLasers","image_id":24802}]}
+{
+  "name": "twitch-sub-gstv1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gstvV",
+      "image_id": 4226
+    },
+    {
+      "match": "gstvRIP",
+      "image_id": 4238
+    },
+    {
+      "match": "gstv1",
+      "image_id": 4385
+    },
+    {
+      "match": "gstvAwk",
+      "image_id": 13036
+    },
+    {
+      "match": "gstvBan",
+      "image_id": 15196
+    },
+    {
+      "match": "gstvBronze",
+      "image_id": 24606
+    },
+    {
+      "match": "gstvHype",
+      "image_id": 24610
+    },
+    {
+      "match": "gstvLasers",
+      "image_id": 24802
+    }
+  ]
+}

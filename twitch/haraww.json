@@ -1,1 +1,47 @@
-{"name":"twitch-sub-haraww","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"harawRIP","image_id":68441},{"match":"harawKAPPA","image_id":68120},{"match":"harawTROLL","image_id":68116},{"match":"harawWTF","image_id":68114},{"match":"harawHs","image_id":68096},{"match":"harawGG","image_id":71684},{"match":"harawLOL","image_id":73175},{"match":"harawGANG","image_id":99524},{"match":"harawREKT","image_id":111034},{"match":"harawBAMBI","image_id":110901}]}
+{
+  "name": "twitch-sub-haraww",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "harawRIP",
+      "image_id": 68441
+    },
+    {
+      "match": "harawKAPPA",
+      "image_id": 68120
+    },
+    {
+      "match": "harawTROLL",
+      "image_id": 68116
+    },
+    {
+      "match": "harawWTF",
+      "image_id": 68114
+    },
+    {
+      "match": "harawHs",
+      "image_id": 68096
+    },
+    {
+      "match": "harawGG",
+      "image_id": 71684
+    },
+    {
+      "match": "harawLOL",
+      "image_id": 73175
+    },
+    {
+      "match": "harawGANG",
+      "image_id": 99524
+    },
+    {
+      "match": "harawREKT",
+      "image_id": 111034
+    },
+    {
+      "match": "harawBAMBI",
+      "image_id": 110901
+    }
+  ]
+}

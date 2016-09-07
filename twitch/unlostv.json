@@ -1,1 +1,39 @@
-{"name":"twitch-sub-unlostv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"unlostDevil","image_id":54827},{"match":"unlostSis","image_id":56609},{"match":"unlostArmor","image_id":46055},{"match":"unlostRekt","image_id":46611},{"match":"unlostCrowbar","image_id":47629},{"match":"unlostYillar","image_id":50290},{"match":"unlostBic","image_id":103274},{"match":"unlostKat","image_id":103563}]}
+{
+  "name": "twitch-sub-unlostv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "unlostDevil",
+      "image_id": 54827
+    },
+    {
+      "match": "unlostSis",
+      "image_id": 56609
+    },
+    {
+      "match": "unlostArmor",
+      "image_id": 46055
+    },
+    {
+      "match": "unlostRekt",
+      "image_id": 46611
+    },
+    {
+      "match": "unlostCrowbar",
+      "image_id": 47629
+    },
+    {
+      "match": "unlostYillar",
+      "image_id": 50290
+    },
+    {
+      "match": "unlostBic",
+      "image_id": 103274
+    },
+    {
+      "match": "unlostKat",
+      "image_id": 103563
+    }
+  ]
+}

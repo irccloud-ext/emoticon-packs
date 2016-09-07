@@ -1,1 +1,23 @@
-{"name":"twitch-sub-kiminlee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"boompangGimak","image_id":83745},{"match":"boompangBoom","image_id":83202},{"match":"boompangJustice","image_id":87449},{"match":"boompangGetout","image_id":87453}]}
+{
+  "name": "twitch-sub-kiminlee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "boompangGimak",
+      "image_id": 83745
+    },
+    {
+      "match": "boompangBoom",
+      "image_id": 83202
+    },
+    {
+      "match": "boompangJustice",
+      "image_id": 87449
+    },
+    {
+      "match": "boompangGetout",
+      "image_id": 87453
+    }
+  ]
+}

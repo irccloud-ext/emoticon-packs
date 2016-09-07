@@ -1,1 +1,23 @@
-{"name":"twitch-sub-wowhead","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wowheadRocket","image_id":50407},{"match":"wowheadPepe","image_id":50405},{"match":"wowheadYAY","image_id":105583},{"match":"wowheadRAGE","image_id":105584}]}
+{
+  "name": "twitch-sub-wowhead",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wowheadRocket",
+      "image_id": 50407
+    },
+    {
+      "match": "wowheadPepe",
+      "image_id": 50405
+    },
+    {
+      "match": "wowheadYAY",
+      "image_id": 105583
+    },
+    {
+      "match": "wowheadRAGE",
+      "image_id": 105584
+    }
+  ]
+}

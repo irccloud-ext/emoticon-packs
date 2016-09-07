@@ -1,1 +1,31 @@
-{"name":"twitch-sub-m3rkmus1c","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"m3rkFaze","image_id":82971},{"match":"m3rkRage","image_id":82975},{"match":"m3rkCreep","image_id":82979},{"match":"m3rkBung","image_id":82985},{"match":"m3rkTina","image_id":83136},{"match":"m3rkCheese","image_id":83137}]}
+{
+  "name": "twitch-sub-m3rkmus1c",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "m3rkFaze",
+      "image_id": 82971
+    },
+    {
+      "match": "m3rkRage",
+      "image_id": 82975
+    },
+    {
+      "match": "m3rkCreep",
+      "image_id": 82979
+    },
+    {
+      "match": "m3rkBung",
+      "image_id": 82985
+    },
+    {
+      "match": "m3rkTina",
+      "image_id": 83136
+    },
+    {
+      "match": "m3rkCheese",
+      "image_id": 83137
+    }
+  ]
+}

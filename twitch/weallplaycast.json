@@ -1,1 +1,39 @@
-{"name":"twitch-sub-weallplaycast","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wapcPOOP","image_id":56311},{"match":"wapcDZ","image_id":103726},{"match":"wapcREKT","image_id":63722},{"match":"wapcSUB","image_id":55616},{"match":"wapcCHEERS","image_id":55194},{"match":"wapcSCIENCE","image_id":55789},{"match":"wapcGG","image_id":55203},{"match":"wapcHEART","image_id":55167}]}
+{
+  "name": "twitch-sub-weallplaycast",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wapcPOOP",
+      "image_id": 56311
+    },
+    {
+      "match": "wapcDZ",
+      "image_id": 103726
+    },
+    {
+      "match": "wapcREKT",
+      "image_id": 63722
+    },
+    {
+      "match": "wapcSUB",
+      "image_id": 55616
+    },
+    {
+      "match": "wapcCHEERS",
+      "image_id": 55194
+    },
+    {
+      "match": "wapcSCIENCE",
+      "image_id": 55789
+    },
+    {
+      "match": "wapcGG",
+      "image_id": 55203
+    },
+    {
+      "match": "wapcHEART",
+      "image_id": 55167
+    }
+  ]
+}

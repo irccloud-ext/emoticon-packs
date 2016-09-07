@@ -1,1 +1,31 @@
-{"name":"twitch-sub-theboyks","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"boyksHug","image_id":19847},{"match":"boyksValue","image_id":29218},{"match":"boyksLove","image_id":29217},{"match":"boyksSides","image_id":31016},{"match":"boyksShrug","image_id":67884},{"match":"boyksHi","image_id":101773}]}
+{
+  "name": "twitch-sub-theboyks",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "boyksHug",
+      "image_id": 19847
+    },
+    {
+      "match": "boyksValue",
+      "image_id": 29218
+    },
+    {
+      "match": "boyksLove",
+      "image_id": 29217
+    },
+    {
+      "match": "boyksSides",
+      "image_id": 31016
+    },
+    {
+      "match": "boyksShrug",
+      "image_id": 67884
+    },
+    {
+      "match": "boyksHi",
+      "image_id": 101773
+    }
+  ]
+}

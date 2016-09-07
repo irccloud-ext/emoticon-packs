@@ -1,1 +1,15 @@
-{"name":"twitch-sub-dotalankassel","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dotoMutze","image_id":40010},{"match":"dotoJens","image_id":40008}]}
+{
+  "name": "twitch-sub-dotalankassel",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dotoMutze",
+      "image_id": 40010
+    },
+    {
+      "match": "dotoJens",
+      "image_id": 40008
+    }
+  ]
+}

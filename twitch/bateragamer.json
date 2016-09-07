@@ -1,1 +1,15 @@
-{"name":"twitch-sub-bateragamer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bateraBatera","image_id":27908},{"match":"bateraLogo","image_id":28219}]}
+{
+  "name": "twitch-sub-bateragamer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bateraBatera",
+      "image_id": 27908
+    },
+    {
+      "match": "bateraLogo",
+      "image_id": 28219
+    }
+  ]
+}

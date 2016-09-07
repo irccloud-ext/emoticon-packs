@@ -1,1 +1,15 @@
-{"name":"twitch-sub-plusevgames","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"plusevBRICK","image_id":17903},{"match":"plusevBBQ","image_id":17904}]}
+{
+  "name": "twitch-sub-plusevgames",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "plusevBRICK",
+      "image_id": 17903
+    },
+    {
+      "match": "plusevBBQ",
+      "image_id": 17904
+    }
+  ]
+}

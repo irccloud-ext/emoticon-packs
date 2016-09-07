@@ -1,1 +1,23 @@
-{"name":"twitch-sub-zyoritv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zyoriShades","image_id":15333},{"match":"zyoriCheese","image_id":15334},{"match":"zyoriWave","image_id":29588},{"match":"zyoriKale","image_id":29587}]}
+{
+  "name": "twitch-sub-zyoritv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zyoriShades",
+      "image_id": 15333
+    },
+    {
+      "match": "zyoriCheese",
+      "image_id": 15334
+    },
+    {
+      "match": "zyoriWave",
+      "image_id": 29588
+    },
+    {
+      "match": "zyoriKale",
+      "image_id": 29587
+    }
+  ]
+}

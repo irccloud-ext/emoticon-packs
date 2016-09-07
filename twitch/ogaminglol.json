@@ -1,1 +1,95 @@
-{"name":"twitch-sub-ogaminglol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"oglRedif","image_id":49828},{"match":"oglWallez","image_id":28885},{"match":"oglNoi","image_id":28880},{"match":"oglChips","image_id":28879},{"match":"oglKeepoC","image_id":56008},{"match":"oglThrow","image_id":49502},{"match":"oglZab","image_id":31716},{"match":"oglRambo","image_id":31708},{"match":"oglCrepe","image_id":31702},{"match":"oglSalt","image_id":39619},{"match":"oglAilye","image_id":41120},{"match":"oglPlayz","image_id":44448},{"match":"oglSpontexx","image_id":44824},{"match":"oglNono","image_id":45424},{"match":"oglShaina","image_id":45422},{"match":"oglChallenger","image_id":48278},{"match":"oglKeepoN","image_id":56009},{"match":"oglMeuble","image_id":56011},{"match":"oglGG","image_id":56849},{"match":"oglAce","image_id":56848},{"match":"oglRekt","image_id":95779},{"match":"oglFabulous","image_id":95780}]}
+{
+  "name": "twitch-sub-ogaminglol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "oglRedif",
+      "image_id": 49828
+    },
+    {
+      "match": "oglWallez",
+      "image_id": 28885
+    },
+    {
+      "match": "oglNoi",
+      "image_id": 28880
+    },
+    {
+      "match": "oglChips",
+      "image_id": 28879
+    },
+    {
+      "match": "oglKeepoC",
+      "image_id": 56008
+    },
+    {
+      "match": "oglThrow",
+      "image_id": 49502
+    },
+    {
+      "match": "oglZab",
+      "image_id": 31716
+    },
+    {
+      "match": "oglRambo",
+      "image_id": 31708
+    },
+    {
+      "match": "oglCrepe",
+      "image_id": 31702
+    },
+    {
+      "match": "oglSalt",
+      "image_id": 39619
+    },
+    {
+      "match": "oglAilye",
+      "image_id": 41120
+    },
+    {
+      "match": "oglPlayz",
+      "image_id": 44448
+    },
+    {
+      "match": "oglSpontexx",
+      "image_id": 44824
+    },
+    {
+      "match": "oglNono",
+      "image_id": 45424
+    },
+    {
+      "match": "oglShaina",
+      "image_id": 45422
+    },
+    {
+      "match": "oglChallenger",
+      "image_id": 48278
+    },
+    {
+      "match": "oglKeepoN",
+      "image_id": 56009
+    },
+    {
+      "match": "oglMeuble",
+      "image_id": 56011
+    },
+    {
+      "match": "oglGG",
+      "image_id": 56849
+    },
+    {
+      "match": "oglAce",
+      "image_id": 56848
+    },
+    {
+      "match": "oglRekt",
+      "image_id": 95779
+    },
+    {
+      "match": "oglFabulous",
+      "image_id": 95780
+    }
+  ]
+}

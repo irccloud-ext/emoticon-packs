@@ -1,1 +1,15 @@
-{"name":"twitch-sub-fredrin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"l33tMugi","image_id":96797},{"match":"l33tMiho","image_id":96798}]}
+{
+  "name": "twitch-sub-fredrin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "l33tMugi",
+      "image_id": 96797
+    },
+    {
+      "match": "l33tMiho",
+      "image_id": 96798
+    }
+  ]
+}

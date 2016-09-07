@@ -1,1 +1,67 @@
-{"name":"twitch-sub-cmdkrieger","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cmdkAim","image_id":92557},{"match":"cmdkChamp","image_id":92558},{"match":"cmdkHallo","image_id":92560},{"match":"cmdkTrain","image_id":92565},{"match":"cmdkRasta","image_id":92564},{"match":"cmdkDulli","image_id":92567},{"match":"cmdkPopcorn","image_id":92603},{"match":"cmdkFace","image_id":92602},{"match":"cmdkKing","image_id":96488},{"match":"cmdkDive","image_id":96489},{"match":"cmdkHerz","image_id":93684},{"match":"cmdkSalz","image_id":93377},{"match":"cmdkBaffDisch","image_id":93375},{"match":"cmdkHype","image_id":93371},{"match":"cmdkRage","image_id":93418}]}
+{
+  "name": "twitch-sub-cmdkrieger",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cmdkAim",
+      "image_id": 92557
+    },
+    {
+      "match": "cmdkChamp",
+      "image_id": 92558
+    },
+    {
+      "match": "cmdkHallo",
+      "image_id": 92560
+    },
+    {
+      "match": "cmdkTrain",
+      "image_id": 92565
+    },
+    {
+      "match": "cmdkRasta",
+      "image_id": 92564
+    },
+    {
+      "match": "cmdkDulli",
+      "image_id": 92567
+    },
+    {
+      "match": "cmdkPopcorn",
+      "image_id": 92603
+    },
+    {
+      "match": "cmdkFace",
+      "image_id": 92602
+    },
+    {
+      "match": "cmdkKing",
+      "image_id": 96488
+    },
+    {
+      "match": "cmdkDive",
+      "image_id": 96489
+    },
+    {
+      "match": "cmdkHerz",
+      "image_id": 93684
+    },
+    {
+      "match": "cmdkSalz",
+      "image_id": 93377
+    },
+    {
+      "match": "cmdkBaffDisch",
+      "image_id": 93375
+    },
+    {
+      "match": "cmdkHype",
+      "image_id": 93371
+    },
+    {
+      "match": "cmdkRage",
+      "image_id": 93418
+    }
+  ]
+}

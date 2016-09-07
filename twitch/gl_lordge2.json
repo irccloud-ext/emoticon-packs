@@ -1,1 +1,23 @@
-{"name":"twitch-sub-gl_lordge2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ge2Palm","image_id":56693},{"match":"ge2Serious","image_id":56692},{"match":"ge2Hype","image_id":78794},{"match":"ge2Keppers","image_id":79421}]}
+{
+  "name": "twitch-sub-gl_lordge2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ge2Palm",
+      "image_id": 56693
+    },
+    {
+      "match": "ge2Serious",
+      "image_id": 56692
+    },
+    {
+      "match": "ge2Hype",
+      "image_id": 78794
+    },
+    {
+      "match": "ge2Keppers",
+      "image_id": 79421
+    }
+  ]
+}

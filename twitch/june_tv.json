@@ -1,1 +1,35 @@
-{"name":"twitch-sub-june_tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"juneRuediger","image_id":20141},{"match":"juneLove","image_id":20152},{"match":"juneHue","image_id":20153},{"match":"juneDeagle","image_id":26198},{"match":"junePizza","image_id":27276},{"match":"junePhant","image_id":28268},{"match":"juneHype","image_id":28339}]}
+{
+  "name": "twitch-sub-june_tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "juneRuediger",
+      "image_id": 20141
+    },
+    {
+      "match": "juneLove",
+      "image_id": 20152
+    },
+    {
+      "match": "juneHue",
+      "image_id": 20153
+    },
+    {
+      "match": "juneDeagle",
+      "image_id": 26198
+    },
+    {
+      "match": "junePizza",
+      "image_id": 27276
+    },
+    {
+      "match": "junePhant",
+      "image_id": 28268
+    },
+    {
+      "match": "juneHype",
+      "image_id": 28339
+    }
+  ]
+}

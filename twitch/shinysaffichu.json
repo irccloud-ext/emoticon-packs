@@ -1,1 +1,23 @@
-{"name":"twitch-sub-shinysaffichu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"saffiRage","image_id":25376},{"match":"saffiHype","image_id":91245},{"match":"saffiCute","image_id":91243},{"match":"saffiWat","image_id":91244}]}
+{
+  "name": "twitch-sub-shinysaffichu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "saffiRage",
+      "image_id": 25376
+    },
+    {
+      "match": "saffiHype",
+      "image_id": 91245
+    },
+    {
+      "match": "saffiCute",
+      "image_id": 91243
+    },
+    {
+      "match": "saffiWat",
+      "image_id": 91244
+    }
+  ]
+}

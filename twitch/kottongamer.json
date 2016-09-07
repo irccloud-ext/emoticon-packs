@@ -1,1 +1,39 @@
-{"name":"twitch-sub-kottongamer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kottonJimmy","image_id":87077},{"match":"kottonChair","image_id":79864},{"match":"kottonTree","image_id":79865},{"match":"kottonRig","image_id":79866},{"match":"kottonKing","image_id":84380},{"match":"kottonRekt","image_id":84381},{"match":"kottonMLJ","image_id":84309},{"match":"kottonLove","image_id":84388}]}
+{
+  "name": "twitch-sub-kottongamer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kottonJimmy",
+      "image_id": 87077
+    },
+    {
+      "match": "kottonChair",
+      "image_id": 79864
+    },
+    {
+      "match": "kottonTree",
+      "image_id": 79865
+    },
+    {
+      "match": "kottonRig",
+      "image_id": 79866
+    },
+    {
+      "match": "kottonKing",
+      "image_id": 84380
+    },
+    {
+      "match": "kottonRekt",
+      "image_id": 84381
+    },
+    {
+      "match": "kottonMLJ",
+      "image_id": 84309
+    },
+    {
+      "match": "kottonLove",
+      "image_id": 84388
+    }
+  ]
+}

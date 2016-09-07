@@ -1,1 +1,15 @@
-{"name":"twitch-sub-rockletztv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rtvGG","image_id":105528},{"match":"rtvPacoca","image_id":105527}]}
+{
+  "name": "twitch-sub-rockletztv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rtvGG",
+      "image_id": 105528
+    },
+    {
+      "match": "rtvPacoca",
+      "image_id": 105527
+    }
+  ]
+}

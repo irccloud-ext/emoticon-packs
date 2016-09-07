@@ -1,1 +1,23 @@
-{"name":"twitch-sub-powerunlimited","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"baklapEd","image_id":28427},{"match":"baklapTjeerd","image_id":28422},{"match":"baklapBas","image_id":32013},{"match":"baklapWouter","image_id":44749}]}
+{
+  "name": "twitch-sub-powerunlimited",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "baklapEd",
+      "image_id": 28427
+    },
+    {
+      "match": "baklapTjeerd",
+      "image_id": 28422
+    },
+    {
+      "match": "baklapBas",
+      "image_id": 32013
+    },
+    {
+      "match": "baklapWouter",
+      "image_id": 44749
+    }
+  ]
+}

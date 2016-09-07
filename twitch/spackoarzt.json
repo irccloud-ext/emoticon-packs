@@ -1,1 +1,39 @@
-{"name":"twitch-sub-spackoarzt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"spackoRAN","image_id":83657},{"match":"spackoREKT","image_id":83532},{"match":"spackoRIP","image_id":83535},{"match":"spackoLOL","image_id":83534},{"match":"spacko7","image_id":83529},{"match":"spackoOMG","image_id":83528},{"match":"spackoLOVE","image_id":83688},{"match":"spackoRAGE","image_id":83692}]}
+{
+  "name": "twitch-sub-spackoarzt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "spackoRAN",
+      "image_id": 83657
+    },
+    {
+      "match": "spackoREKT",
+      "image_id": 83532
+    },
+    {
+      "match": "spackoRIP",
+      "image_id": 83535
+    },
+    {
+      "match": "spackoLOL",
+      "image_id": 83534
+    },
+    {
+      "match": "spacko7",
+      "image_id": 83529
+    },
+    {
+      "match": "spackoOMG",
+      "image_id": 83528
+    },
+    {
+      "match": "spackoLOVE",
+      "image_id": 83688
+    },
+    {
+      "match": "spackoRAGE",
+      "image_id": 83692
+    }
+  ]
+}

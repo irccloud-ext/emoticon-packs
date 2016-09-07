@@ -1,1 +1,35 @@
-{"name":"twitch-sub-bonniedoll","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dollSammi","image_id":9129},{"match":"dollLeeroy","image_id":9431},{"match":"dollWhip","image_id":13721},{"match":"dollHeart","image_id":13722},{"match":"dollKappa","image_id":44912},{"match":"dollRage","image_id":59495},{"match":"dollHype","image_id":75127}]}
+{
+  "name": "twitch-sub-bonniedoll",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dollSammi",
+      "image_id": 9129
+    },
+    {
+      "match": "dollLeeroy",
+      "image_id": 9431
+    },
+    {
+      "match": "dollWhip",
+      "image_id": 13721
+    },
+    {
+      "match": "dollHeart",
+      "image_id": 13722
+    },
+    {
+      "match": "dollKappa",
+      "image_id": 44912
+    },
+    {
+      "match": "dollRage",
+      "image_id": 59495
+    },
+    {
+      "match": "dollHype",
+      "image_id": 75127
+    }
+  ]
+}

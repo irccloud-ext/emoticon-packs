@@ -1,1 +1,31 @@
-{"name":"twitch-sub-sonecarox","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"soneLeg","image_id":91920},{"match":"soneO","image_id":65515},{"match":"soneY","image_id":63502},{"match":"soneM","image_id":64854},{"match":"soneSub","image_id":64857},{"match":"soneW","image_id":64860}]}
+{
+  "name": "twitch-sub-sonecarox",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "soneLeg",
+      "image_id": 91920
+    },
+    {
+      "match": "soneO",
+      "image_id": 65515
+    },
+    {
+      "match": "soneY",
+      "image_id": 63502
+    },
+    {
+      "match": "soneM",
+      "image_id": 64854
+    },
+    {
+      "match": "soneSub",
+      "image_id": 64857
+    },
+    {
+      "match": "soneW",
+      "image_id": 64860
+    }
+  ]
+}

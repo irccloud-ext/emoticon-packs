@@ -1,1 +1,15 @@
-{"name":"twitch-sub-deathfong","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jfongKing","image_id":68566},{"match":"jfongAngry","image_id":68565}]}
+{
+  "name": "twitch-sub-deathfong",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jfongKing",
+      "image_id": 68566
+    },
+    {
+      "match": "jfongAngry",
+      "image_id": 68565
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"name":"twitch-sub-imsoosuperior","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sooRip","image_id":14558},{"match":"sooKappa","image_id":14453},{"match":"sooMoney","image_id":21967}]}
+{
+  "name": "twitch-sub-imsoosuperior",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sooRip",
+      "image_id": 14558
+    },
+    {
+      "match": "sooKappa",
+      "image_id": 14453
+    },
+    {
+      "match": "sooMoney",
+      "image_id": 21967
+    }
+  ]
+}

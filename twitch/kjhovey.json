@@ -1,1 +1,47 @@
-{"name":"twitch-sub-kjhovey","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hoveyNLB","image_id":82493},{"match":"hoveyHi","image_id":82494},{"match":"hoveyHype","image_id":62331},{"match":"hoveySnipe","image_id":62855},{"match":"hoveyBot","image_id":62503},{"match":"hoveyClutch","image_id":82492},{"match":"hoveyChoke","image_id":90613},{"match":"hoveyLove","image_id":90614},{"match":"hoveyMoney","image_id":90615},{"match":"hoveySalt","image_id":90616}]}
+{
+  "name": "twitch-sub-kjhovey",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hoveyNLB",
+      "image_id": 82493
+    },
+    {
+      "match": "hoveyHi",
+      "image_id": 82494
+    },
+    {
+      "match": "hoveyHype",
+      "image_id": 62331
+    },
+    {
+      "match": "hoveySnipe",
+      "image_id": 62855
+    },
+    {
+      "match": "hoveyBot",
+      "image_id": 62503
+    },
+    {
+      "match": "hoveyClutch",
+      "image_id": 82492
+    },
+    {
+      "match": "hoveyChoke",
+      "image_id": 90613
+    },
+    {
+      "match": "hoveyLove",
+      "image_id": 90614
+    },
+    {
+      "match": "hoveyMoney",
+      "image_id": 90615
+    },
+    {
+      "match": "hoveySalt",
+      "image_id": 90616
+    }
+  ]
+}

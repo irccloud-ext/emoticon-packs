@@ -1,1 +1,87 @@
-{"name":"twitch-sub-marckozhd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"marckozFail","image_id":71216},{"match":"marckozDoit","image_id":71213},{"match":"marckozRanders","image_id":39634},{"match":"marckozSilver","image_id":46505},{"match":"marckozFBM","image_id":103169},{"match":"marckozHype","image_id":102938},{"match":"marckozRip","image_id":55064},{"match":"marckozVac","image_id":55063},{"match":"marckozFest","image_id":75098},{"match":"marckozRage","image_id":75129},{"match":"marckozNemt","image_id":76715},{"match":"marckozRekt","image_id":82263},{"match":"marckozGasm","image_id":86287},{"match":"marckozR","image_id":102689},{"match":"marckozKrogsa","image_id":100160},{"match":"marckozXd","image_id":97714},{"match":"marckozKniv","image_id":97790},{"match":"marckozMokai","image_id":100910},{"match":"marckozSellout","image_id":100911},{"match":"marckozWut","image_id":100162}]}
+{
+  "name": "twitch-sub-marckozhd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "marckozFail",
+      "image_id": 71216
+    },
+    {
+      "match": "marckozDoit",
+      "image_id": 71213
+    },
+    {
+      "match": "marckozRanders",
+      "image_id": 39634
+    },
+    {
+      "match": "marckozSilver",
+      "image_id": 46505
+    },
+    {
+      "match": "marckozFBM",
+      "image_id": 103169
+    },
+    {
+      "match": "marckozHype",
+      "image_id": 102938
+    },
+    {
+      "match": "marckozRip",
+      "image_id": 55064
+    },
+    {
+      "match": "marckozVac",
+      "image_id": 55063
+    },
+    {
+      "match": "marckozFest",
+      "image_id": 75098
+    },
+    {
+      "match": "marckozRage",
+      "image_id": 75129
+    },
+    {
+      "match": "marckozNemt",
+      "image_id": 76715
+    },
+    {
+      "match": "marckozRekt",
+      "image_id": 82263
+    },
+    {
+      "match": "marckozGasm",
+      "image_id": 86287
+    },
+    {
+      "match": "marckozR",
+      "image_id": 102689
+    },
+    {
+      "match": "marckozKrogsa",
+      "image_id": 100160
+    },
+    {
+      "match": "marckozXd",
+      "image_id": 97714
+    },
+    {
+      "match": "marckozKniv",
+      "image_id": 97790
+    },
+    {
+      "match": "marckozMokai",
+      "image_id": 100910
+    },
+    {
+      "match": "marckozSellout",
+      "image_id": 100911
+    },
+    {
+      "match": "marckozWut",
+      "image_id": 100162
+    }
+  ]
+}

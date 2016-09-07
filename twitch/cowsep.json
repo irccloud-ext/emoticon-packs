@@ -1,1 +1,107 @@
-{"name":"twitch-sub-cowsep","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cowMoo","image_id":21327},{"match":"cowRip","image_id":23874},{"match":"cowH","image_id":24149},{"match":"cowR","image_id":31755},{"match":"cowMand","image_id":61459},{"match":"cowGasm","image_id":54147},{"match":"cowChamp","image_id":47257},{"match":"cowFail","image_id":54146},{"match":"cowWat","image_id":47620},{"match":"cowCry","image_id":61465},{"match":"cowZzz","image_id":61466},{"match":"cowShy","image_id":61464},{"match":"cowAii","image_id":61463},{"match":"cowLol","image_id":61462},{"match":"cowLove","image_id":54151},{"match":"cowPoker","image_id":54152},{"match":"cowPout","image_id":61460},{"match":"cowFused","image_id":61458},{"match":"cowWave","image_id":54154},{"match":"cowHappy","image_id":54155},{"match":"cowSir","image_id":54331},{"match":"cowWink","image_id":61472},{"match":"cowHello","image_id":61470},{"match":"cowSad","image_id":54153},{"match":"cowFeels","image_id":109070}]}
+{
+  "name": "twitch-sub-cowsep",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cowMoo",
+      "image_id": 21327
+    },
+    {
+      "match": "cowRip",
+      "image_id": 23874
+    },
+    {
+      "match": "cowH",
+      "image_id": 24149
+    },
+    {
+      "match": "cowR",
+      "image_id": 31755
+    },
+    {
+      "match": "cowMand",
+      "image_id": 61459
+    },
+    {
+      "match": "cowGasm",
+      "image_id": 54147
+    },
+    {
+      "match": "cowChamp",
+      "image_id": 47257
+    },
+    {
+      "match": "cowFail",
+      "image_id": 54146
+    },
+    {
+      "match": "cowWat",
+      "image_id": 47620
+    },
+    {
+      "match": "cowCry",
+      "image_id": 61465
+    },
+    {
+      "match": "cowZzz",
+      "image_id": 61466
+    },
+    {
+      "match": "cowShy",
+      "image_id": 61464
+    },
+    {
+      "match": "cowAii",
+      "image_id": 61463
+    },
+    {
+      "match": "cowLol",
+      "image_id": 61462
+    },
+    {
+      "match": "cowLove",
+      "image_id": 54151
+    },
+    {
+      "match": "cowPoker",
+      "image_id": 54152
+    },
+    {
+      "match": "cowPout",
+      "image_id": 61460
+    },
+    {
+      "match": "cowFused",
+      "image_id": 61458
+    },
+    {
+      "match": "cowWave",
+      "image_id": 54154
+    },
+    {
+      "match": "cowHappy",
+      "image_id": 54155
+    },
+    {
+      "match": "cowSir",
+      "image_id": 54331
+    },
+    {
+      "match": "cowWink",
+      "image_id": 61472
+    },
+    {
+      "match": "cowHello",
+      "image_id": 61470
+    },
+    {
+      "match": "cowSad",
+      "image_id": 54153
+    },
+    {
+      "match": "cowFeels",
+      "image_id": 109070
+    }
+  ]
+}

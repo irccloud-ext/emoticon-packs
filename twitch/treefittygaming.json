@@ -1,1 +1,23 @@
-{"name":"twitch-sub-treefittygaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"treeMoney","image_id":22138},{"match":"treeOmg","image_id":22018},{"match":"treeLoch","image_id":21401},{"match":"treeFitty","image_id":21501}]}
+{
+  "name": "twitch-sub-treefittygaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "treeMoney",
+      "image_id": 22138
+    },
+    {
+      "match": "treeOmg",
+      "image_id": 22018
+    },
+    {
+      "match": "treeLoch",
+      "image_id": 21401
+    },
+    {
+      "match": "treeFitty",
+      "image_id": 21501
+    }
+  ]
+}

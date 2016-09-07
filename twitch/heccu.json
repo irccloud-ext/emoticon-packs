@@ -1,1 +1,23 @@
-{"name":"twitch-sub-heccu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"heccuWhat","image_id":108990},{"match":"heccuHappy","image_id":108989},{"match":"heccuCry","image_id":108988},{"match":"heccuLove","image_id":108987}]}
+{
+  "name": "twitch-sub-heccu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "heccuWhat",
+      "image_id": 108990
+    },
+    {
+      "match": "heccuHappy",
+      "image_id": 108989
+    },
+    {
+      "match": "heccuCry",
+      "image_id": 108988
+    },
+    {
+      "match": "heccuLove",
+      "image_id": 108987
+    }
+  ]
+}

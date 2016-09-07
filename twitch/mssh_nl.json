@@ -1,1 +1,39 @@
-{"name":"twitch-sub-mssh_nl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mssLhove","image_id":85661},{"match":"mssBheer","image_id":85660},{"match":"mssHype","image_id":85126},{"match":"mssH5","image_id":85125},{"match":"mssKhappa","image_id":85205},{"match":"mssHeyGuys","image_id":104894},{"match":"mssRhage","image_id":104893},{"match":"mssRhekt","image_id":93001}]}
+{
+  "name": "twitch-sub-mssh_nl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mssLhove",
+      "image_id": 85661
+    },
+    {
+      "match": "mssBheer",
+      "image_id": 85660
+    },
+    {
+      "match": "mssHype",
+      "image_id": 85126
+    },
+    {
+      "match": "mssH5",
+      "image_id": 85125
+    },
+    {
+      "match": "mssKhappa",
+      "image_id": 85205
+    },
+    {
+      "match": "mssHeyGuys",
+      "image_id": 104894
+    },
+    {
+      "match": "mssRhage",
+      "image_id": 104893
+    },
+    {
+      "match": "mssRhekt",
+      "image_id": 93001
+    }
+  ]
+}

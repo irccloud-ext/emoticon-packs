@@ -1,1 +1,47 @@
-{"name":"twitch-sub-lovelymomo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kateSalt","image_id":14970},{"match":"kateScream","image_id":14969},{"match":"kateRobo","image_id":14334},{"match":"kateTomo","image_id":14367},{"match":"kateArmy","image_id":14475},{"match":"kateBlender","image_id":14476},{"match":"kateHifive","image_id":16825},{"match":"kateThrow","image_id":16762},{"match":"kateHug","image_id":33617},{"match":"kateLol","image_id":33551}]}
+{
+  "name": "twitch-sub-lovelymomo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kateSalt",
+      "image_id": 14970
+    },
+    {
+      "match": "kateScream",
+      "image_id": 14969
+    },
+    {
+      "match": "kateRobo",
+      "image_id": 14334
+    },
+    {
+      "match": "kateTomo",
+      "image_id": 14367
+    },
+    {
+      "match": "kateArmy",
+      "image_id": 14475
+    },
+    {
+      "match": "kateBlender",
+      "image_id": 14476
+    },
+    {
+      "match": "kateHifive",
+      "image_id": 16825
+    },
+    {
+      "match": "kateThrow",
+      "image_id": 16762
+    },
+    {
+      "match": "kateHug",
+      "image_id": 33617
+    },
+    {
+      "match": "kateLol",
+      "image_id": 33551
+    }
+  ]
+}

@@ -1,1 +1,67 @@
-{"name":"twitch-sub-cloakedyoshi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tooshiLove","image_id":16654},{"match":"tooshiSad","image_id":18586},{"match":"tooshiYay","image_id":19877},{"match":"tooshiWin","image_id":20042},{"match":"tooshiTerror","image_id":27380},{"match":"tooshiOMG","image_id":51112},{"match":"tooshiShark","image_id":38073},{"match":"tooshiWet","image_id":40228},{"match":"tooshiLewd","image_id":71002},{"match":"tooshiTrunks","image_id":101345},{"match":"tooshiDerp","image_id":100777},{"match":"tooshiRage","image_id":100779},{"match":"tooshiChef","image_id":100780},{"match":"tooshiSass","image_id":100781},{"match":"tooshiRIP","image_id":100782}]}
+{
+  "name": "twitch-sub-cloakedyoshi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tooshiLove",
+      "image_id": 16654
+    },
+    {
+      "match": "tooshiSad",
+      "image_id": 18586
+    },
+    {
+      "match": "tooshiYay",
+      "image_id": 19877
+    },
+    {
+      "match": "tooshiWin",
+      "image_id": 20042
+    },
+    {
+      "match": "tooshiTerror",
+      "image_id": 27380
+    },
+    {
+      "match": "tooshiOMG",
+      "image_id": 51112
+    },
+    {
+      "match": "tooshiShark",
+      "image_id": 38073
+    },
+    {
+      "match": "tooshiWet",
+      "image_id": 40228
+    },
+    {
+      "match": "tooshiLewd",
+      "image_id": 71002
+    },
+    {
+      "match": "tooshiTrunks",
+      "image_id": 101345
+    },
+    {
+      "match": "tooshiDerp",
+      "image_id": 100777
+    },
+    {
+      "match": "tooshiRage",
+      "image_id": 100779
+    },
+    {
+      "match": "tooshiChef",
+      "image_id": 100780
+    },
+    {
+      "match": "tooshiSass",
+      "image_id": 100781
+    },
+    {
+      "match": "tooshiRIP",
+      "image_id": 100782
+    }
+  ]
+}

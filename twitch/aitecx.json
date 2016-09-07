@@ -1,1 +1,15 @@
-{"name":"twitch-sub-aitecx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pobsmilePobSmile","image_id":27528},{"match":"pobsmileAltec","image_id":27536}]}
+{
+  "name": "twitch-sub-aitecx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pobsmilePobSmile",
+      "image_id": 27528
+    },
+    {
+      "match": "pobsmileAltec",
+      "image_id": 27536
+    }
+  ]
+}

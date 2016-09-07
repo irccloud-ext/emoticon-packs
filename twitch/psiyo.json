@@ -1,1 +1,31 @@
-{"name":"twitch-sub-psiyo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"psiyoRIOT","image_id":24218},{"match":"psiyoSad","image_id":75457},{"match":"psiyoIDGI","image_id":75456},{"match":"psiyoScum","image_id":75455},{"match":"psiyoYo","image_id":75677},{"match":"psiyoRage","image_id":75525}]}
+{
+  "name": "twitch-sub-psiyo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "psiyoRIOT",
+      "image_id": 24218
+    },
+    {
+      "match": "psiyoSad",
+      "image_id": 75457
+    },
+    {
+      "match": "psiyoIDGI",
+      "image_id": 75456
+    },
+    {
+      "match": "psiyoScum",
+      "image_id": 75455
+    },
+    {
+      "match": "psiyoYo",
+      "image_id": 75677
+    },
+    {
+      "match": "psiyoRage",
+      "image_id": 75525
+    }
+  ]
+}

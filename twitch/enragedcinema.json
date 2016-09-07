@@ -1,1 +1,87 @@
-{"name":"twitch-sub-enragedcinema","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xecBAG","image_id":12602},{"match":"xec1","image_id":58043},{"match":"xecO","image_id":58047},{"match":"xecRAGE","image_id":93478},{"match":"xecP","image_id":93475},{"match":"xecGG","image_id":103717},{"match":"xecRIP","image_id":28833},{"match":"xecREKT","image_id":34624},{"match":"xecBOOT","image_id":37194},{"match":"xecTBAG","image_id":38272},{"match":"xecKAPPA","image_id":38475},{"match":"xecSUB","image_id":38491},{"match":"xecDJ","image_id":38682},{"match":"xecEZ","image_id":51505},{"match":"xecT","image_id":77057},{"match":"xecD","image_id":77062},{"match":"xecH","image_id":77459},{"match":"xecDown","image_id":80049},{"match":"xecYes","image_id":80048},{"match":"xecCry","image_id":81082}]}
+{
+  "name": "twitch-sub-enragedcinema",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xecBAG",
+      "image_id": 12602
+    },
+    {
+      "match": "xec1",
+      "image_id": 58043
+    },
+    {
+      "match": "xecO",
+      "image_id": 58047
+    },
+    {
+      "match": "xecRAGE",
+      "image_id": 93478
+    },
+    {
+      "match": "xecP",
+      "image_id": 93475
+    },
+    {
+      "match": "xecGG",
+      "image_id": 103717
+    },
+    {
+      "match": "xecRIP",
+      "image_id": 28833
+    },
+    {
+      "match": "xecREKT",
+      "image_id": 34624
+    },
+    {
+      "match": "xecBOOT",
+      "image_id": 37194
+    },
+    {
+      "match": "xecTBAG",
+      "image_id": 38272
+    },
+    {
+      "match": "xecKAPPA",
+      "image_id": 38475
+    },
+    {
+      "match": "xecSUB",
+      "image_id": 38491
+    },
+    {
+      "match": "xecDJ",
+      "image_id": 38682
+    },
+    {
+      "match": "xecEZ",
+      "image_id": 51505
+    },
+    {
+      "match": "xecT",
+      "image_id": 77057
+    },
+    {
+      "match": "xecD",
+      "image_id": 77062
+    },
+    {
+      "match": "xecH",
+      "image_id": 77459
+    },
+    {
+      "match": "xecDown",
+      "image_id": 80049
+    },
+    {
+      "match": "xecYes",
+      "image_id": 80048
+    },
+    {
+      "match": "xecCry",
+      "image_id": 81082
+    }
+  ]
+}

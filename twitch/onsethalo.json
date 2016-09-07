@@ -1,1 +1,19 @@
-{"name":"twitch-sub-onsethalo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"onsetGooselord","image_id":107824},{"match":"onsetPhlux","image_id":109200},{"match":"onsetWashed","image_id":109073}]}
+{
+  "name": "twitch-sub-onsethalo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "onsetGooselord",
+      "image_id": 107824
+    },
+    {
+      "match": "onsetPhlux",
+      "image_id": 109200
+    },
+    {
+      "match": "onsetWashed",
+      "image_id": 109073
+    }
+  ]
+}

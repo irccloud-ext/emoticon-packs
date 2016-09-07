@@ -1,1 +1,31 @@
-{"name":"twitch-sub-divane21","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"divaneLove","image_id":77363},{"match":"divaneHype","image_id":65485},{"match":"divaneHi","image_id":65688},{"match":"divaneGasm","image_id":78080},{"match":"divaneCool","image_id":108544},{"match":"divaneMew","image_id":108543}]}
+{
+  "name": "twitch-sub-divane21",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "divaneLove",
+      "image_id": 77363
+    },
+    {
+      "match": "divaneHype",
+      "image_id": 65485
+    },
+    {
+      "match": "divaneHi",
+      "image_id": 65688
+    },
+    {
+      "match": "divaneGasm",
+      "image_id": 78080
+    },
+    {
+      "match": "divaneCool",
+      "image_id": 108544
+    },
+    {
+      "match": "divaneMew",
+      "image_id": 108543
+    }
+  ]
+}

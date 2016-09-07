@@ -1,1 +1,43 @@
-{"name":"twitch-sub-bytenser","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tenserRage","image_id":66840},{"match":"tenserIDK","image_id":87293},{"match":"tenserSERIOUS","image_id":86870},{"match":"tenserRum","image_id":95328},{"match":"tenserHappy","image_id":95331},{"match":"tenserWhat","image_id":95333},{"match":"tenserSub","image_id":100603},{"match":"tenserDab","image_id":100604},{"match":"tenserLit","image_id":106612}]}
+{
+  "name": "twitch-sub-bytenser",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tenserRage",
+      "image_id": 66840
+    },
+    {
+      "match": "tenserIDK",
+      "image_id": 87293
+    },
+    {
+      "match": "tenserSERIOUS",
+      "image_id": 86870
+    },
+    {
+      "match": "tenserRum",
+      "image_id": 95328
+    },
+    {
+      "match": "tenserHappy",
+      "image_id": 95331
+    },
+    {
+      "match": "tenserWhat",
+      "image_id": 95333
+    },
+    {
+      "match": "tenserSub",
+      "image_id": 100603
+    },
+    {
+      "match": "tenserDab",
+      "image_id": 100604
+    },
+    {
+      "match": "tenserLit",
+      "image_id": 106612
+    }
+  ]
+}

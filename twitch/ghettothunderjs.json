@@ -1,1 +1,39 @@
-{"name":"twitch-sub-ghettothunderjs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ghettoPour","image_id":46743},{"match":"ghettoLove","image_id":46952},{"match":"ghettoDid","image_id":46562},{"match":"ghettoRule","image_id":46563},{"match":"ghettoNora","image_id":46417},{"match":"ghettoStammers","image_id":68765},{"match":"ghettoThorin","image_id":67550},{"match":"ghettoAkari","image_id":69998}]}
+{
+  "name": "twitch-sub-ghettothunderjs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ghettoPour",
+      "image_id": 46743
+    },
+    {
+      "match": "ghettoLove",
+      "image_id": 46952
+    },
+    {
+      "match": "ghettoDid",
+      "image_id": 46562
+    },
+    {
+      "match": "ghettoRule",
+      "image_id": 46563
+    },
+    {
+      "match": "ghettoNora",
+      "image_id": 46417
+    },
+    {
+      "match": "ghettoStammers",
+      "image_id": 68765
+    },
+    {
+      "match": "ghettoThorin",
+      "image_id": 67550
+    },
+    {
+      "match": "ghettoAkari",
+      "image_id": 69998
+    }
+  ]
+}

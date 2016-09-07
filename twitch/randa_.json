@@ -1,1 +1,23 @@
-{"name":"twitch-sub-randa_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"randaHype","image_id":46151},{"match":"randaKappa","image_id":46150},{"match":"randaNLT","image_id":98266},{"match":"randaLaser","image_id":98233}]}
+{
+  "name": "twitch-sub-randa_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "randaHype",
+      "image_id": 46151
+    },
+    {
+      "match": "randaKappa",
+      "image_id": 46150
+    },
+    {
+      "match": "randaNLT",
+      "image_id": 98266
+    },
+    {
+      "match": "randaLaser",
+      "image_id": 98233
+    }
+  ]
+}

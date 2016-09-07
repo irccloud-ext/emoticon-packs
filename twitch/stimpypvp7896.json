@@ -1,1 +1,23 @@
-{"name":"twitch-sub-stimpypvp7896","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"stimpL","image_id":103615},{"match":"stimpGG","image_id":102934},{"match":"stimpROCKED","image_id":102875},{"match":"stimpOMG","image_id":103386}]}
+{
+  "name": "twitch-sub-stimpypvp7896",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "stimpL",
+      "image_id": 103615
+    },
+    {
+      "match": "stimpGG",
+      "image_id": 102934
+    },
+    {
+      "match": "stimpROCKED",
+      "image_id": 102875
+    },
+    {
+      "match": "stimpOMG",
+      "image_id": 103386
+    }
+  ]
+}

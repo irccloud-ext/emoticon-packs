@@ -1,0 +1,23 @@
+{
+  "name": "twitch-sub-boomepickill",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "stimkebabOm",
+      "image_id": 112601
+    },
+    {
+      "match": "stimkebabBo",
+      "image_id": 112600
+    },
+    {
+      "match": "stimkebabKebab",
+      "image_id": 112215
+    },
+    {
+      "match": "stimkebabNub",
+      "image_id": 112216
+    }
+  ]
+}

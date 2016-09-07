@@ -1,1 +1,39 @@
-{"name":"twitch-sub-vaecon","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vae69","image_id":68316},{"match":"vaeBubbles","image_id":68317},{"match":"vaeHype","image_id":68318},{"match":"vaeCry","image_id":68320},{"match":"vaeDonation","image_id":68321},{"match":"vaeLove","image_id":68322},{"match":"vaeOh","image_id":68323},{"match":"vaeRoast","image_id":106987}]}
+{
+  "name": "twitch-sub-vaecon",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vae69",
+      "image_id": 68316
+    },
+    {
+      "match": "vaeBubbles",
+      "image_id": 68317
+    },
+    {
+      "match": "vaeHype",
+      "image_id": 68318
+    },
+    {
+      "match": "vaeCry",
+      "image_id": 68320
+    },
+    {
+      "match": "vaeDonation",
+      "image_id": 68321
+    },
+    {
+      "match": "vaeLove",
+      "image_id": 68322
+    },
+    {
+      "match": "vaeOh",
+      "image_id": 68323
+    },
+    {
+      "match": "vaeRoast",
+      "image_id": 106987
+    }
+  ]
+}

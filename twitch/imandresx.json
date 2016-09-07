@@ -1,1 +1,11 @@
-{"name":"twitch-sub-imandresx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"andresX","image_id":53229}]}
+{
+  "name": "twitch-sub-imandresx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "andresX",
+      "image_id": 53229
+    }
+  ]
+}

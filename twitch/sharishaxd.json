@@ -1,1 +1,47 @@
-{"name":"twitch-sub-sharishaxd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sharishaCry","image_id":83546},{"match":"sharishaRage","image_id":83326},{"match":"sharishaEat","image_id":83327},{"match":"sharishaHard","image_id":83328},{"match":"sharishaMilota","image_id":83329},{"match":"sharishaDealwithit","image_id":84125},{"match":"sharishaSup","image_id":84126},{"match":"sharishaLove","image_id":83323},{"match":"sharishaOscar","image_id":83324},{"match":"sharishaSubhype","image_id":83325}]}
+{
+  "name": "twitch-sub-sharishaxd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sharishaCry",
+      "image_id": 83546
+    },
+    {
+      "match": "sharishaRage",
+      "image_id": 83326
+    },
+    {
+      "match": "sharishaEat",
+      "image_id": 83327
+    },
+    {
+      "match": "sharishaHard",
+      "image_id": 83328
+    },
+    {
+      "match": "sharishaMilota",
+      "image_id": 83329
+    },
+    {
+      "match": "sharishaDealwithit",
+      "image_id": 84125
+    },
+    {
+      "match": "sharishaSup",
+      "image_id": 84126
+    },
+    {
+      "match": "sharishaLove",
+      "image_id": 83323
+    },
+    {
+      "match": "sharishaOscar",
+      "image_id": 83324
+    },
+    {
+      "match": "sharishaSubhype",
+      "image_id": 83325
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-jazzzy_tap","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jazzWtf","image_id":52617},{"match":"jazzDerp","image_id":108641},{"match":"jazzHug","image_id":56350},{"match":"jazzL","image_id":104520},{"match":"jazzH","image_id":104681},{"match":"jazzM","image_id":103090},{"match":"jazzLurk","image_id":105772},{"match":"jazzCute","image_id":107413},{"match":"jazzSad","image_id":108516},{"match":"jazzDab","image_id":108517}]}
+{
+  "name": "twitch-sub-jazzzy_tap",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jazzWtf",
+      "image_id": 52617
+    },
+    {
+      "match": "jazzHug",
+      "image_id": 56350
+    },
+    {
+      "match": "jazzL",
+      "image_id": 104520
+    },
+    {
+      "match": "jazzH",
+      "image_id": 104681
+    },
+    {
+      "match": "jazzM",
+      "image_id": 103090
+    },
+    {
+      "match": "jazzLurk",
+      "image_id": 105772
+    },
+    {
+      "match": "jazzCute",
+      "image_id": 107413
+    },
+    {
+      "match": "jazzSad",
+      "image_id": 108516
+    },
+    {
+      "match": "jazzDab",
+      "image_id": 108517
+    },
+    {
+      "match": "jazzEww",
+      "image_id": 112179
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-eghuk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hukFf","image_id":6141},{"match":"hukHeart","image_id":6638},{"match":"hukProbe","image_id":73228},{"match":"hukP","image_id":58472},{"match":"hukIdra","image_id":58473},{"match":"hukTroll","image_id":58475}]}
+{
+  "name": "twitch-sub-eghuk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hukFf",
+      "image_id": 6141
+    },
+    {
+      "match": "hukHeart",
+      "image_id": 6638
+    },
+    {
+      "match": "hukProbe",
+      "image_id": 73228
+    },
+    {
+      "match": "hukP",
+      "image_id": 58472
+    },
+    {
+      "match": "hukIdra",
+      "image_id": 58473
+    },
+    {
+      "match": "hukTroll",
+      "image_id": 58475
+    }
+  ]
+}

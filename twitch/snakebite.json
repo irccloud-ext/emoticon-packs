@@ -1,1 +1,39 @@
-{"name":"twitch-sub-snakebite","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"snakeCLG","image_id":29983},{"match":"snakeGG","image_id":87296},{"match":"snakeSub","image_id":87295},{"match":"snakeCash","image_id":84924},{"match":"snake15","image_id":89419},{"match":"snakeHoly","image_id":89418},{"match":"snakeHomie","image_id":94435},{"match":"snakeOh","image_id":94441}]}
+{
+  "name": "twitch-sub-snakebite",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "snakeCLG",
+      "image_id": 29983
+    },
+    {
+      "match": "snakeGG",
+      "image_id": 87296
+    },
+    {
+      "match": "snakeSub",
+      "image_id": 87295
+    },
+    {
+      "match": "snakeCash",
+      "image_id": 84924
+    },
+    {
+      "match": "snake15",
+      "image_id": 89419
+    },
+    {
+      "match": "snakeHoly",
+      "image_id": 89418
+    },
+    {
+      "match": "snakeHomie",
+      "image_id": 94435
+    },
+    {
+      "match": "snakeOh",
+      "image_id": 94441
+    }
+  ]
+}

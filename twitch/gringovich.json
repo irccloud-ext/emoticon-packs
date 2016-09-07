@@ -1,1 +1,31 @@
-{"name":"twitch-sub-gringovich","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vichSalchi","image_id":13188},{"match":"vichBeer","image_id":12450},{"match":"vichHammer","image_id":12459},{"match":"vichRage","image_id":39445},{"match":"vichGasm","image_id":39446},{"match":"vichSwag","image_id":39444}]}
+{
+  "name": "twitch-sub-gringovich",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vichSalchi",
+      "image_id": 13188
+    },
+    {
+      "match": "vichBeer",
+      "image_id": 12450
+    },
+    {
+      "match": "vichHammer",
+      "image_id": 12459
+    },
+    {
+      "match": "vichRage",
+      "image_id": 39445
+    },
+    {
+      "match": "vichGasm",
+      "image_id": 39446
+    },
+    {
+      "match": "vichSwag",
+      "image_id": 39444
+    }
+  ]
+}

@@ -1,1 +1,87 @@
-{"name":"twitch-sub-mastersnakou","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"masterBoom","image_id":84432},{"match":"masterRIP","image_id":65491},{"match":"masterGenius","image_id":13543},{"match":"masterSnakou","image_id":13453},{"match":"masterGifle","image_id":52358},{"match":"masterLourd","image_id":52373},{"match":"masterDon","image_id":33633},{"match":"masterT","image_id":65500},{"match":"masterMoney","image_id":52374},{"match":"masterAltf4","image_id":52425},{"match":"masterBoss","image_id":65089},{"match":"masterSalut","image_id":65397},{"match":"master5PIL","image_id":73050},{"match":"masterLouf","image_id":79438},{"match":"master1B","image_id":79439},{"match":"masterKC","image_id":79803},{"match":"masterRS","image_id":79781},{"match":"masterS","image_id":79782},{"match":"masterForce","image_id":85332},{"match":"masterB","image_id":93011}]}
+{
+  "name": "twitch-sub-mastersnakou",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "masterBoom",
+      "image_id": 84432
+    },
+    {
+      "match": "masterRIP",
+      "image_id": 65491
+    },
+    {
+      "match": "masterGenius",
+      "image_id": 13543
+    },
+    {
+      "match": "masterSnakou",
+      "image_id": 13453
+    },
+    {
+      "match": "masterGifle",
+      "image_id": 52358
+    },
+    {
+      "match": "masterLourd",
+      "image_id": 52373
+    },
+    {
+      "match": "masterDon",
+      "image_id": 33633
+    },
+    {
+      "match": "masterT",
+      "image_id": 65500
+    },
+    {
+      "match": "masterMoney",
+      "image_id": 52374
+    },
+    {
+      "match": "masterAltf4",
+      "image_id": 52425
+    },
+    {
+      "match": "masterBoss",
+      "image_id": 65089
+    },
+    {
+      "match": "masterSalut",
+      "image_id": 65397
+    },
+    {
+      "match": "master5PIL",
+      "image_id": 73050
+    },
+    {
+      "match": "masterLouf",
+      "image_id": 79438
+    },
+    {
+      "match": "master1B",
+      "image_id": 79439
+    },
+    {
+      "match": "masterKC",
+      "image_id": 79803
+    },
+    {
+      "match": "masterRS",
+      "image_id": 79781
+    },
+    {
+      "match": "masterS",
+      "image_id": 79782
+    },
+    {
+      "match": "masterForce",
+      "image_id": 85332
+    },
+    {
+      "match": "masterB",
+      "image_id": 93011
+    }
+  ]
+}

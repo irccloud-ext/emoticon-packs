@@ -1,1 +1,15 @@
-{"name":"twitch-sub-niickedboy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nckGoiaba","image_id":31125},{"match":"nckPatati","image_id":31124}]}
+{
+  "name": "twitch-sub-niickedboy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nckGoiaba",
+      "image_id": 31125
+    },
+    {
+      "match": "nckPatati",
+      "image_id": 31124
+    }
+  ]
+}

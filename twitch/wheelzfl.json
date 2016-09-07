@@ -1,1 +1,31 @@
-{"name":"twitch-sub-wheelzfl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wheelzL","image_id":104562},{"match":"wheelzReally","image_id":87763},{"match":"wheelzSubHype","image_id":87692},{"match":"wheelzDub","image_id":91980},{"match":"wheelzLit","image_id":91979},{"match":"wheelzRise","image_id":104561}]}
+{
+  "name": "twitch-sub-wheelzfl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wheelzL",
+      "image_id": 104562
+    },
+    {
+      "match": "wheelzReally",
+      "image_id": 87763
+    },
+    {
+      "match": "wheelzSubHype",
+      "image_id": 87692
+    },
+    {
+      "match": "wheelzLit",
+      "image_id": 91979
+    },
+    {
+      "match": "wheelzRise",
+      "image_id": 104561
+    },
+    {
+      "match": "wheelzKid",
+      "image_id": 112602
+    }
+  ]
+}

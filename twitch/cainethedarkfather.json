@@ -1,1 +1,23 @@
-{"name":"twitch-sub-cainethedarkfather","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"caineCaine","image_id":109205},{"match":"caineBite","image_id":109472},{"match":"caineRekt","image_id":109206},{"match":"caineGasm","image_id":109473}]}
+{
+  "name": "twitch-sub-cainethedarkfather",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "caineCaine",
+      "image_id": 109205
+    },
+    {
+      "match": "caineBite",
+      "image_id": 109472
+    },
+    {
+      "match": "caineRekt",
+      "image_id": 109206
+    },
+    {
+      "match": "caineGasm",
+      "image_id": 109473
+    }
+  ]
+}

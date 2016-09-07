@@ -1,1 +1,31 @@
-{"name":"twitch-sub-molfried","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"molfLuck","image_id":97404},{"match":"molfOhno","image_id":88434},{"match":"molfGasm","image_id":88122},{"match":"molfFail","image_id":97405},{"match":"molfRedraw","image_id":89767},{"match":"molfDoit","image_id":89774}]}
+{
+  "name": "twitch-sub-molfried",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "molfLuck",
+      "image_id": 97404
+    },
+    {
+      "match": "molfOhno",
+      "image_id": 88434
+    },
+    {
+      "match": "molfGasm",
+      "image_id": 88122
+    },
+    {
+      "match": "molfFail",
+      "image_id": 97405
+    },
+    {
+      "match": "molfRedraw",
+      "image_id": 89767
+    },
+    {
+      "match": "molfDoit",
+      "image_id": 89774
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"name":"twitch-sub-sivhd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sivKappa","image_id":1098},{"match":"sivHEUUU","image_id":481},{"match":"sivStare","image_id":1097}]}
+{
+  "name": "twitch-sub-sivhd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sivKappa",
+      "image_id": 1098
+    },
+    {
+      "match": "sivHEUUU",
+      "image_id": 481
+    },
+    {
+      "match": "sivStare",
+      "image_id": 1097
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-czaru","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"czappaADA","image_id":18966},{"match":"czappaKorea","image_id":18967},{"match":"czappaOgrany","image_id":33612},{"match":"czappaTP","image_id":33613},{"match":"czappaHype","image_id":35177},{"match":"czappaMakler","image_id":85869}]}
+{
+  "name": "twitch-sub-czaru",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "czappaADA",
+      "image_id": 18966
+    },
+    {
+      "match": "czappaKorea",
+      "image_id": 18967
+    },
+    {
+      "match": "czappaOgrany",
+      "image_id": 33612
+    },
+    {
+      "match": "czappaTP",
+      "image_id": 33613
+    },
+    {
+      "match": "czappaHype",
+      "image_id": 35177
+    },
+    {
+      "match": "czappaMakler",
+      "image_id": 85869
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-poxnor","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"poxFox","image_id":60584},{"match":"poxFail","image_id":60585}]}
+{
+  "name": "twitch-sub-poxnor",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "poxFox",
+      "image_id": 60584
+    },
+    {
+      "match": "poxFail",
+      "image_id": 60585
+    }
+  ]
+}

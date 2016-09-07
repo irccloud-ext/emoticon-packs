@@ -1,1 +1,39 @@
-{"name":"twitch-sub-misswater","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"water01","image_id":6157},{"match":"water02","image_id":6158},{"match":"waterLove","image_id":7770},{"match":"waterMod","image_id":7845},{"match":"waterP","image_id":41101},{"match":"waterR","image_id":41321},{"match":"waterG","image_id":41320},{"match":"waterBallz","image_id":53458}]}
+{
+  "name": "twitch-sub-misswater",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "water01",
+      "image_id": 6157
+    },
+    {
+      "match": "water02",
+      "image_id": 6158
+    },
+    {
+      "match": "waterLove",
+      "image_id": 7770
+    },
+    {
+      "match": "waterMod",
+      "image_id": 7845
+    },
+    {
+      "match": "waterP",
+      "image_id": 41101
+    },
+    {
+      "match": "waterR",
+      "image_id": 41321
+    },
+    {
+      "match": "waterG",
+      "image_id": 41320
+    },
+    {
+      "match": "waterBallz",
+      "image_id": 53458
+    }
+  ]
+}

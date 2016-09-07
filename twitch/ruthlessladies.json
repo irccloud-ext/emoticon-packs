@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ruthlessladies","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ruthlessKuzu","image_id":106569},{"match":"ruthlessAnnen","image_id":106689}]}
+{
+  "name": "twitch-sub-ruthlessladies",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ruthlessKuzu",
+      "image_id": 106569
+    },
+    {
+      "match": "ruthlessYazik",
+      "image_id": 112008
+    },
+    {
+      "match": "ruthlessAnnen",
+      "image_id": 106689
+    },
+    {
+      "match": "ruthlessKafa",
+      "image_id": 112160
+    }
+  ]
+}

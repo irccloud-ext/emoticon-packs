@@ -1,1 +1,23 @@
-{"name":"twitch-sub-kev_z","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kevzBomb","image_id":27360},{"match":"kevzKappa","image_id":27359},{"match":"kevzRIP","image_id":27394},{"match":"kevzHYPE","image_id":27631}]}
+{
+  "name": "twitch-sub-kev_z",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kevzBomb",
+      "image_id": 27360
+    },
+    {
+      "match": "kevzKappa",
+      "image_id": 27359
+    },
+    {
+      "match": "kevzRIP",
+      "image_id": 27394
+    },
+    {
+      "match": "kevzHYPE",
+      "image_id": 27631
+    }
+  ]
+}

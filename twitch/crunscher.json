@@ -1,1 +1,23 @@
-{"name":"twitch-sub-crunscher","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"crunDoom","image_id":15898},{"match":"crunFAIL","image_id":90959},{"match":"crunRIP","image_id":90920},{"match":"crunGASM","image_id":93258}]}
+{
+  "name": "twitch-sub-crunscher",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "crunDoom",
+      "image_id": 15898
+    },
+    {
+      "match": "crunFAIL",
+      "image_id": 90959
+    },
+    {
+      "match": "crunRIP",
+      "image_id": 90920
+    },
+    {
+      "match": "crunGASM",
+      "image_id": 93258
+    }
+  ]
+}

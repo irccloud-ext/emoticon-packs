@@ -1,1 +1,39 @@
-{"name":"twitch-sub-natsuma_z","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"natsWc","image_id":31254},{"match":"natsK","image_id":31137},{"match":"natsHype","image_id":31183},{"match":"natsR","image_id":47984},{"match":"natsF","image_id":38251},{"match":"natsC","image_id":37719},{"match":"natsRekt","image_id":38468},{"match":"natsL","image_id":47983}]}
+{
+  "name": "twitch-sub-natsuma_z",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "natsWc",
+      "image_id": 31254
+    },
+    {
+      "match": "natsK",
+      "image_id": 31137
+    },
+    {
+      "match": "natsHype",
+      "image_id": 31183
+    },
+    {
+      "match": "natsR",
+      "image_id": 47984
+    },
+    {
+      "match": "natsF",
+      "image_id": 38251
+    },
+    {
+      "match": "natsC",
+      "image_id": 37719
+    },
+    {
+      "match": "natsRekt",
+      "image_id": 38468
+    },
+    {
+      "match": "natsL",
+      "image_id": 47983
+    }
+  ]
+}

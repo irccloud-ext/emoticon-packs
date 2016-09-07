@@ -1,1 +1,15 @@
-{"name":"twitch-sub-gnome035","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ironbullLmcc","image_id":69384},{"match":"ironbullJinbe","image_id":69382}]}
+{
+  "name": "twitch-sub-gnome035",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ironbullLmcc",
+      "image_id": 69384
+    },
+    {
+      "match": "ironbullJinbe",
+      "image_id": 69382
+    }
+  ]
+}

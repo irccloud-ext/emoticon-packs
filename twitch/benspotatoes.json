@@ -1,1 +1,23 @@
-{"name":"twitch-sub-benspotatoes","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tnkiDale","image_id":32230},{"match":"tnkiWat","image_id":83708},{"match":"tnkiCorgi","image_id":31380},{"match":"tnkiDerp","image_id":76412}]}
+{
+  "name": "twitch-sub-benspotatoes",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tnkiDale",
+      "image_id": 32230
+    },
+    {
+      "match": "tnkiWat",
+      "image_id": 83708
+    },
+    {
+      "match": "tnkiCorgi",
+      "image_id": 31380
+    },
+    {
+      "match": "tnkiDerp",
+      "image_id": 76412
+    }
+  ]
+}

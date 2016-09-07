@@ -1,1 +1,23 @@
-{"name":"twitch-sub-slwiz3781","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wizgodRage","image_id":89239},{"match":"wizgodW","image_id":79336},{"match":"wizgodGasm","image_id":89238},{"match":"wizgodFreeWiz","image_id":88186}]}
+{
+  "name": "twitch-sub-slwiz3781",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wizgodRage",
+      "image_id": 89239
+    },
+    {
+      "match": "wizgodW",
+      "image_id": 79336
+    },
+    {
+      "match": "wizgodGasm",
+      "image_id": 89238
+    },
+    {
+      "match": "wizgodFreeWiz",
+      "image_id": 88186
+    }
+  ]
+}

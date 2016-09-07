@@ -1,1 +1,23 @@
-{"name":"twitch-sub-flairfifa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"flairRekt","image_id":79662},{"match":"flairDraft","image_id":92995},{"match":"flairHype","image_id":93024},{"match":"flairHeart","image_id":93022}]}
+{
+  "name": "twitch-sub-flairfifa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "flairRekt",
+      "image_id": 79662
+    },
+    {
+      "match": "flairDraft",
+      "image_id": 92995
+    },
+    {
+      "match": "flairHype",
+      "image_id": 93024
+    },
+    {
+      "match": "flairHeart",
+      "image_id": 93022
+    }
+  ]
+}

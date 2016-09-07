@@ -1,1 +1,203 @@
-{"name":"twitch-sub-smitegame","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"Cupid","image_id":9051},{"match":"GoobisPls","image_id":1745},{"match":"BlameKelly","image_id":1697},{"match":"APSizzle","image_id":1698},{"match":"NextGod","image_id":1707},{"match":"ForDaKids","image_id":3081},{"match":"Neith","image_id":9118},{"match":"COAST","image_id":9052},{"match":"COG","image_id":9053},{"match":"SK","image_id":9042},{"match":"Bacchus","image_id":9055},{"match":"Zhong","image_id":9116},{"match":"Erez","image_id":1695},{"match":"TSM","image_id":9039},{"match":"Fenrir","image_id":9048},{"match":"DENIAL","image_id":9049},{"match":"Aphro","image_id":9056},{"match":"SNIPE","image_id":9044},{"match":"Ares","image_id":9057},{"match":"Thor","image_id":9041},{"match":"NeZha","image_id":9045},{"match":"Anubis","image_id":9058},{"match":"Guan","image_id":9046},{"match":"Anhur","image_id":9059},{"match":"Ymir","image_id":9115},{"match":"Isis","image_id":9047},{"match":"C9","image_id":9054},{"match":"Apollo","image_id":9117},{"match":"DIG","image_id":9050},{"match":"Rule11","image_id":1694},{"match":"ForDaKids","image_id":28484},{"match":"GuanYu","image_id":28644},{"match":"Neith","image_id":28645},{"match":"Ra","image_id":28646},{"match":"Thor","image_id":28647},{"match":"Ymir","image_id":28648},{"match":"hirezGuanYu","image_id":30919},{"match":"hirezNeith","image_id":30922},{"match":"hirezRa","image_id":30923},{"match":"hirezThor","image_id":30924},{"match":"hirezCOGred","image_id":30928},{"match":"hirezYmir","image_id":30925},{"match":"hirezCOGprime","image_id":30926},{"match":"hirezSK","image_id":30929},{"match":"hirez404","image_id":32664},{"match":"hirezDID","image_id":32665},{"match":"hirezOMG","image_id":32666},{"match":"hirezTitan","image_id":32667},{"match":"hirezWL8","image_id":32668}]}
+{
+  "name": "twitch-sub-smitegame",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "Cupid",
+      "image_id": 9051
+    },
+    {
+      "match": "GoobisPls",
+      "image_id": 1745
+    },
+    {
+      "match": "BlameKelly",
+      "image_id": 1697
+    },
+    {
+      "match": "APSizzle",
+      "image_id": 1698
+    },
+    {
+      "match": "NextGod",
+      "image_id": 1707
+    },
+    {
+      "match": "ForDaKids",
+      "image_id": 3081
+    },
+    {
+      "match": "Neith",
+      "image_id": 9118
+    },
+    {
+      "match": "COAST",
+      "image_id": 9052
+    },
+    {
+      "match": "COG",
+      "image_id": 9053
+    },
+    {
+      "match": "SK",
+      "image_id": 9042
+    },
+    {
+      "match": "Bacchus",
+      "image_id": 9055
+    },
+    {
+      "match": "Zhong",
+      "image_id": 9116
+    },
+    {
+      "match": "Erez",
+      "image_id": 1695
+    },
+    {
+      "match": "TSM",
+      "image_id": 9039
+    },
+    {
+      "match": "Fenrir",
+      "image_id": 9048
+    },
+    {
+      "match": "DENIAL",
+      "image_id": 9049
+    },
+    {
+      "match": "Aphro",
+      "image_id": 9056
+    },
+    {
+      "match": "SNIPE",
+      "image_id": 9044
+    },
+    {
+      "match": "Ares",
+      "image_id": 9057
+    },
+    {
+      "match": "Thor",
+      "image_id": 9041
+    },
+    {
+      "match": "NeZha",
+      "image_id": 9045
+    },
+    {
+      "match": "Anubis",
+      "image_id": 9058
+    },
+    {
+      "match": "Guan",
+      "image_id": 9046
+    },
+    {
+      "match": "Anhur",
+      "image_id": 9059
+    },
+    {
+      "match": "Ymir",
+      "image_id": 9115
+    },
+    {
+      "match": "Isis",
+      "image_id": 9047
+    },
+    {
+      "match": "C9",
+      "image_id": 9054
+    },
+    {
+      "match": "Apollo",
+      "image_id": 9117
+    },
+    {
+      "match": "DIG",
+      "image_id": 9050
+    },
+    {
+      "match": "Rule11",
+      "image_id": 1694
+    },
+    {
+      "match": "ForDaKids",
+      "image_id": 28484
+    },
+    {
+      "match": "GuanYu",
+      "image_id": 28644
+    },
+    {
+      "match": "Neith",
+      "image_id": 28645
+    },
+    {
+      "match": "Ra",
+      "image_id": 28646
+    },
+    {
+      "match": "Thor",
+      "image_id": 28647
+    },
+    {
+      "match": "Ymir",
+      "image_id": 28648
+    },
+    {
+      "match": "hirezGuanYu",
+      "image_id": 30919
+    },
+    {
+      "match": "hirezNeith",
+      "image_id": 30922
+    },
+    {
+      "match": "hirezRa",
+      "image_id": 30923
+    },
+    {
+      "match": "hirezThor",
+      "image_id": 30924
+    },
+    {
+      "match": "hirezCOGred",
+      "image_id": 30928
+    },
+    {
+      "match": "hirezYmir",
+      "image_id": 30925
+    },
+    {
+      "match": "hirezCOGprime",
+      "image_id": 30926
+    },
+    {
+      "match": "hirezSK",
+      "image_id": 30929
+    },
+    {
+      "match": "hirez404",
+      "image_id": 32664
+    },
+    {
+      "match": "hirezDID",
+      "image_id": 32665
+    },
+    {
+      "match": "hirezOMG",
+      "image_id": 32666
+    },
+    {
+      "match": "hirezTitan",
+      "image_id": 32667
+    },
+    {
+      "match": "hirezWL8",
+      "image_id": 32668
+    }
+  ]
+}

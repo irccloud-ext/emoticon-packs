@@ -1,1 +1,39 @@
-{"name":"twitch-sub-ddrjake","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ryukyuWilliam","image_id":28690},{"match":"ryukyuNumber","image_id":20253},{"match":"ryukyuTruck","image_id":22335},{"match":"ryukyuTruce1","image_id":23519},{"match":"ryukyuTruce2","image_id":23520},{"match":"ryukyuLucy","image_id":33498},{"match":"ryukyuGertruda","image_id":33543},{"match":"ryukyuDosh","image_id":82833}]}
+{
+  "name": "twitch-sub-ddrjake",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ryukyuWilliam",
+      "image_id": 28690
+    },
+    {
+      "match": "ryukyuNumber",
+      "image_id": 20253
+    },
+    {
+      "match": "ryukyuTruck",
+      "image_id": 22335
+    },
+    {
+      "match": "ryukyuTruce1",
+      "image_id": 23519
+    },
+    {
+      "match": "ryukyuTruce2",
+      "image_id": 23520
+    },
+    {
+      "match": "ryukyuLucy",
+      "image_id": 33498
+    },
+    {
+      "match": "ryukyuGertruda",
+      "image_id": 33543
+    },
+    {
+      "match": "ryukyuDosh",
+      "image_id": 82833
+    }
+  ]
+}

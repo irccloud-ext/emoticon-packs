@@ -1,1 +1,23 @@
-{"name":"twitch-sub-bigbruddagaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bigbruddaJeff","image_id":85028},{"match":"bigbruddaG","image_id":85029},{"match":"bigbruddaC","image_id":86646},{"match":"bigbruddaM","image_id":86647}]}
+{
+  "name": "twitch-sub-bigbruddagaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bigbruddaJeff",
+      "image_id": 85028
+    },
+    {
+      "match": "bigbruddaG",
+      "image_id": 85029
+    },
+    {
+      "match": "bigbruddaC",
+      "image_id": 86646
+    },
+    {
+      "match": "bigbruddaM",
+      "image_id": 86647
+    }
+  ]
+}

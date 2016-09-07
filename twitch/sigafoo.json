@@ -1,1 +1,23 @@
-{"name":"twitch-sub-sigafoo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sigaGolden","image_id":29773},{"match":"sigaKappa","image_id":45836},{"match":"sigaHeyGuys","image_id":79823},{"match":"sigaDream","image_id":82252}]}
+{
+  "name": "twitch-sub-sigafoo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sigaGolden",
+      "image_id": 29773
+    },
+    {
+      "match": "sigaKappa",
+      "image_id": 45836
+    },
+    {
+      "match": "sigaHeyGuys",
+      "image_id": 79823
+    },
+    {
+      "match": "sigaDream",
+      "image_id": 82252
+    }
+  ]
+}

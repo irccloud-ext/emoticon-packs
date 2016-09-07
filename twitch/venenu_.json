@@ -1,1 +1,23 @@
-{"name":"twitch-sub-venenu_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"venenFlip","image_id":111620},{"match":"venenTilt","image_id":111592}]}
+{
+  "name": "twitch-sub-venenu_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "venenCarry",
+      "image_id": 111933
+    },
+    {
+      "match": "venenFlip",
+      "image_id": 111620
+    },
+    {
+      "match": "venenOutplayed",
+      "image_id": 112150
+    },
+    {
+      "match": "venenTilt",
+      "image_id": 111592
+    }
+  ]
+}

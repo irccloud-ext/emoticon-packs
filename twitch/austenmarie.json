@@ -1,1 +1,47 @@
-{"name":"twitch-sub-austenmarie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"austSass","image_id":75843},{"match":"austCin","image_id":73641},{"match":"austBad","image_id":73645},{"match":"austSin","image_id":73644},{"match":"austThirst","image_id":73643},{"match":"austLove","image_id":73642},{"match":"austDerp","image_id":67694},{"match":"austGasp","image_id":75846},{"match":"austSnort","image_id":82174},{"match":"austLmao","image_id":82092}]}
+{
+  "name": "twitch-sub-austenmarie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "austSass",
+      "image_id": 75843
+    },
+    {
+      "match": "austCin",
+      "image_id": 73641
+    },
+    {
+      "match": "austBad",
+      "image_id": 73645
+    },
+    {
+      "match": "austSin",
+      "image_id": 73644
+    },
+    {
+      "match": "austThirst",
+      "image_id": 73643
+    },
+    {
+      "match": "austLove",
+      "image_id": 73642
+    },
+    {
+      "match": "austDerp",
+      "image_id": 67694
+    },
+    {
+      "match": "austGasp",
+      "image_id": 75846
+    },
+    {
+      "match": "austSnort",
+      "image_id": 82174
+    },
+    {
+      "match": "austLmao",
+      "image_id": 82092
+    }
+  ]
+}

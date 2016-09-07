@@ -1,1 +1,35 @@
-{"name":"twitch-sub-pechthefarmer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tibobATK","image_id":9317},{"match":"tibobYA","image_id":9722},{"match":"tibobTUNA","image_id":24856},{"match":"tibobREKT","image_id":24857},{"match":"tibobSUN","image_id":61335},{"match":"tibobDEAL","image_id":60694},{"match":"tibobLUV","image_id":61334}]}
+{
+  "name": "twitch-sub-pechthefarmer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tibobATK",
+      "image_id": 9317
+    },
+    {
+      "match": "tibobYA",
+      "image_id": 9722
+    },
+    {
+      "match": "tibobTUNA",
+      "image_id": 24856
+    },
+    {
+      "match": "tibobREKT",
+      "image_id": 24857
+    },
+    {
+      "match": "tibobSUN",
+      "image_id": 61335
+    },
+    {
+      "match": "tibobDEAL",
+      "image_id": 60694
+    },
+    {
+      "match": "tibobLUV",
+      "image_id": 61334
+    }
+  ]
+}

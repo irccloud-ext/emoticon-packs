@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ruruq_q","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ruruqqSONG","image_id":86306},{"match":"ruruqqOOO","image_id":80999},{"match":"ruruqqOOPS","image_id":81000},{"match":"ruruqqCc","image_id":82350},{"match":"ruruqqE04","image_id":82349},{"match":"ruruqqDb","image_id":86539}]}
+{
+  "name": "twitch-sub-ruruq_q",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ruruqqSONG",
+      "image_id": 86306
+    },
+    {
+      "match": "ruruqqOOO",
+      "image_id": 80999
+    },
+    {
+      "match": "ruruqqOOPS",
+      "image_id": 81000
+    },
+    {
+      "match": "ruruqqCc",
+      "image_id": 82350
+    },
+    {
+      "match": "ruruqqE04",
+      "image_id": 82349
+    },
+    {
+      "match": "ruruqqDb",
+      "image_id": 86539
+    }
+  ]
+}

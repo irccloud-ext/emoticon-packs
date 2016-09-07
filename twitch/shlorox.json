@@ -1,1 +1,87 @@
-{"name":"twitch-sub-shlorox","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shloSalt","image_id":105353},{"match":"shloCrash","image_id":95720},{"match":"shloHoly","image_id":95716},{"match":"shloCosta","image_id":93612},{"match":"shloSlow","image_id":107205},{"match":"shloFail","image_id":107204},{"match":"shloRIP","image_id":95714},{"match":"shloSrsly","image_id":107061},{"match":"shloSad","image_id":107059},{"match":"shloGG","image_id":95835},{"match":"shloKaffee","image_id":93315},{"match":"shloKarton","image_id":93313},{"match":"shloHerz","image_id":93412},{"match":"shloBaum","image_id":99576},{"match":"shloCheck","image_id":105352},{"match":"shloClap","image_id":107193},{"match":"shloPause","image_id":107257},{"match":"shloPog","image_id":107239},{"match":"shloHype","image_id":107195},{"match":"shloMoin","image_id":107196}]}
+{
+  "name": "twitch-sub-shlorox",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shloSalt",
+      "image_id": 105353
+    },
+    {
+      "match": "shloCrash",
+      "image_id": 95720
+    },
+    {
+      "match": "shloHoly",
+      "image_id": 95716
+    },
+    {
+      "match": "shloCosta",
+      "image_id": 93612
+    },
+    {
+      "match": "shloSlow",
+      "image_id": 107205
+    },
+    {
+      "match": "shloFail",
+      "image_id": 107204
+    },
+    {
+      "match": "shloRIP",
+      "image_id": 95714
+    },
+    {
+      "match": "shloSrsly",
+      "image_id": 107061
+    },
+    {
+      "match": "shloSad",
+      "image_id": 107059
+    },
+    {
+      "match": "shloGG",
+      "image_id": 95835
+    },
+    {
+      "match": "shloKaffee",
+      "image_id": 93315
+    },
+    {
+      "match": "shloKarton",
+      "image_id": 93313
+    },
+    {
+      "match": "shloHerz",
+      "image_id": 93412
+    },
+    {
+      "match": "shloBaum",
+      "image_id": 99576
+    },
+    {
+      "match": "shloCheck",
+      "image_id": 105352
+    },
+    {
+      "match": "shloClap",
+      "image_id": 107193
+    },
+    {
+      "match": "shloPause",
+      "image_id": 107257
+    },
+    {
+      "match": "shloPog",
+      "image_id": 107239
+    },
+    {
+      "match": "shloHype",
+      "image_id": 107195
+    },
+    {
+      "match": "shloMoin",
+      "image_id": 107196
+    }
+  ]
+}

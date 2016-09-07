@@ -1,1 +1,23 @@
-{"name":"twitch-sub-gaminglive_pokemon","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pkglKen","image_id":73844},{"match":"pkglKenbras","image_id":74140},{"match":"pkglLovdisc","image_id":75212},{"match":"pkglProfChen","image_id":75213}]}
+{
+  "name": "twitch-sub-gaminglive_pokemon",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pkglKen",
+      "image_id": 73844
+    },
+    {
+      "match": "pkglKenbras",
+      "image_id": 74140
+    },
+    {
+      "match": "pkglLovdisc",
+      "image_id": 75212
+    },
+    {
+      "match": "pkglProfChen",
+      "image_id": 75213
+    }
+  ]
+}

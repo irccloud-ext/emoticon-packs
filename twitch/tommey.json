@@ -1,1 +1,47 @@
-{"name":"twitch-sub-tommey","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tommeyEmoti","image_id":3762},{"match":"tommeyFace","image_id":8095},{"match":"tommeyM","image_id":77554},{"match":"tommeyATG","image_id":20172},{"match":"tommeySub","image_id":77557},{"match":"tommeyGlitch","image_id":101567},{"match":"tommeyTurtle","image_id":78407},{"match":"tommeyGuv","image_id":78078},{"match":"tommeyMoney","image_id":101981},{"match":"tommeyAngry","image_id":101982}]}
+{
+  "name": "twitch-sub-tommey",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tommeyEmoti",
+      "image_id": 3762
+    },
+    {
+      "match": "tommeyFace",
+      "image_id": 8095
+    },
+    {
+      "match": "tommeyM",
+      "image_id": 77554
+    },
+    {
+      "match": "tommeyATG",
+      "image_id": 20172
+    },
+    {
+      "match": "tommeySub",
+      "image_id": 77557
+    },
+    {
+      "match": "tommeyGlitch",
+      "image_id": 101567
+    },
+    {
+      "match": "tommeyTurtle",
+      "image_id": 78407
+    },
+    {
+      "match": "tommeyGuv",
+      "image_id": 78078
+    },
+    {
+      "match": "tommeyMoney",
+      "image_id": 101981
+    },
+    {
+      "match": "tommeyAngry",
+      "image_id": 101982
+    }
+  ]
+}

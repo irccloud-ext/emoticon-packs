@@ -1,1 +1,15 @@
-{"name":"twitch-sub-rekvizit8bit","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rekviCrazy","image_id":105466},{"match":"rekviDench","image_id":105467}]}
+{
+  "name": "twitch-sub-rekvizit8bit",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rekviCrazy",
+      "image_id": 105466
+    },
+    {
+      "match": "rekviDench",
+      "image_id": 105467
+    }
+  ]
+}

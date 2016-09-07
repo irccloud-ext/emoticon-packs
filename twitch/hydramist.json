@@ -1,1 +1,39 @@
-{"name":"twitch-sub-hydramist","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hydraSquare","image_id":1911},{"match":"hydraXMAS","image_id":4936},{"match":"hydraRUSSIA","image_id":19532},{"match":"hydraPURPLE","image_id":15590},{"match":"hydraLUNA","image_id":15645},{"match":"hydraMURAT","image_id":18969},{"match":"hydraGREEN","image_id":19908},{"match":"hydraHEIL","image_id":21091}]}
+{
+  "name": "twitch-sub-hydramist",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hydraSquare",
+      "image_id": 1911
+    },
+    {
+      "match": "hydraXMAS",
+      "image_id": 4936
+    },
+    {
+      "match": "hydraRUSSIA",
+      "image_id": 19532
+    },
+    {
+      "match": "hydraPURPLE",
+      "image_id": 15590
+    },
+    {
+      "match": "hydraLUNA",
+      "image_id": 15645
+    },
+    {
+      "match": "hydraMURAT",
+      "image_id": 18969
+    },
+    {
+      "match": "hydraGREEN",
+      "image_id": 19908
+    },
+    {
+      "match": "hydraHEIL",
+      "image_id": 21091
+    }
+  ]
+}

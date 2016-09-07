@@ -1,1 +1,31 @@
-{"name":"twitch-sub-tomravach","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tommyRONE","image_id":45624},{"match":"tommyGETREKT","image_id":45625},{"match":"tommyBAM","image_id":45857},{"match":"tommyHYPE","image_id":45856},{"match":"tommyMUFFIN","image_id":65706},{"match":"tommyAVOCADO","image_id":78500}]}
+{
+  "name": "twitch-sub-tomravach",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tommyRONE",
+      "image_id": 45624
+    },
+    {
+      "match": "tommyGETREKT",
+      "image_id": 45625
+    },
+    {
+      "match": "tommyBAM",
+      "image_id": 45857
+    },
+    {
+      "match": "tommyHYPE",
+      "image_id": 45856
+    },
+    {
+      "match": "tommyMUFFIN",
+      "image_id": 65706
+    },
+    {
+      "match": "tommyAVOCADO",
+      "image_id": 78500
+    }
+  ]
+}

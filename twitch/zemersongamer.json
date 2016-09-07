@@ -1,1 +1,39 @@
-{"name":"twitch-sub-zemersongamer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zermisoTchola","image_id":11189},{"match":"zermisoVenha","image_id":11916},{"match":"zermisoZoia","image_id":12327},{"match":"zermisoHello","image_id":12330},{"match":"zermisoLuke","image_id":14190},{"match":"zermisoMeuOvo","image_id":14191},{"match":"zermisoWhat","image_id":20722},{"match":"zermisoMamao","image_id":22931}]}
+{
+  "name": "twitch-sub-zemersongamer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zermisoTchola",
+      "image_id": 11189
+    },
+    {
+      "match": "zermisoVenha",
+      "image_id": 11916
+    },
+    {
+      "match": "zermisoZoia",
+      "image_id": 12327
+    },
+    {
+      "match": "zermisoHello",
+      "image_id": 12330
+    },
+    {
+      "match": "zermisoLuke",
+      "image_id": 14190
+    },
+    {
+      "match": "zermisoMeuOvo",
+      "image_id": 14191
+    },
+    {
+      "match": "zermisoWhat",
+      "image_id": 20722
+    },
+    {
+      "match": "zermisoMamao",
+      "image_id": 22931
+    }
+  ]
+}

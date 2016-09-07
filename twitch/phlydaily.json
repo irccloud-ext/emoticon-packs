@@ -1,1 +1,31 @@
-{"name":"twitch-sub-phlydaily","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"phlyPhly","image_id":19390},{"match":"phlyMd","image_id":19391},{"match":"phlySnick","image_id":41773},{"match":"phlyVH","image_id":25559},{"match":"phlyRage","image_id":41775},{"match":"phlyHype","image_id":41774}]}
+{
+  "name": "twitch-sub-phlydaily",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "phlyPhly",
+      "image_id": 19390
+    },
+    {
+      "match": "phlyMd",
+      "image_id": 19391
+    },
+    {
+      "match": "phlySnick",
+      "image_id": 41773
+    },
+    {
+      "match": "phlyVH",
+      "image_id": 25559
+    },
+    {
+      "match": "phlyRage",
+      "image_id": 41775
+    },
+    {
+      "match": "phlyHype",
+      "image_id": 41774
+    }
+  ]
+}

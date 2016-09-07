@@ -1,1 +1,35 @@
-{"name":"twitch-sub-dubtn","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dubFace","image_id":14217},{"match":"dubGG","image_id":51622},{"match":"dubREKT","image_id":50960},{"match":"dubSUB","image_id":50950},{"match":"dubRIP","image_id":52434},{"match":"dubHYPE","image_id":52435},{"match":"dubVAC","image_id":52436}]}
+{
+  "name": "twitch-sub-dubtn",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dubFace",
+      "image_id": 14217
+    },
+    {
+      "match": "dubGG",
+      "image_id": 51622
+    },
+    {
+      "match": "dubREKT",
+      "image_id": 50960
+    },
+    {
+      "match": "dubSUB",
+      "image_id": 50950
+    },
+    {
+      "match": "dubRIP",
+      "image_id": 52434
+    },
+    {
+      "match": "dubHYPE",
+      "image_id": 52435
+    },
+    {
+      "match": "dubVAC",
+      "image_id": 52436
+    }
+  ]
+}

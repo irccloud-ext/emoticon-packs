@@ -1,1 +1,47 @@
-{"name":"twitch-sub-mrllamasc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mrllamaGiggle","image_id":73077},{"match":"mrllamaDrama","image_id":73076},{"match":"mrllamaArmy","image_id":70719},{"match":"mrllamaRip","image_id":71009},{"match":"mrllamaLove","image_id":78604},{"match":"mrllamaDollah","image_id":78603},{"match":"mrllamaLewd","image_id":94241},{"match":"mrllamaVape","image_id":94271},{"match":"mrllamaHype","image_id":108096},{"match":"mrllamaClutch","image_id":101939}]}
+{
+  "name": "twitch-sub-mrllamasc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mrllamaGiggle",
+      "image_id": 73077
+    },
+    {
+      "match": "mrllamaDrama",
+      "image_id": 73076
+    },
+    {
+      "match": "mrllamaArmy",
+      "image_id": 70719
+    },
+    {
+      "match": "mrllamaRip",
+      "image_id": 71009
+    },
+    {
+      "match": "mrllamaLove",
+      "image_id": 78604
+    },
+    {
+      "match": "mrllamaDollah",
+      "image_id": 78603
+    },
+    {
+      "match": "mrllamaLewd",
+      "image_id": 94241
+    },
+    {
+      "match": "mrllamaVape",
+      "image_id": 94271
+    },
+    {
+      "match": "mrllamaHype",
+      "image_id": 108096
+    },
+    {
+      "match": "mrllamaClutch",
+      "image_id": 101939
+    }
+  ]
+}

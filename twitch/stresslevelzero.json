@@ -1,1 +1,27 @@
-{"name":"twitch-sub-stresslevelzero","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sl0BANDIT","image_id":22240},{"match":"sl0NOPE","image_id":30384},{"match":"sl0SOON","image_id":30383},{"match":"sl0FIXIT","image_id":24691},{"match":"sl0BRANDON","image_id":30382}]}
+{
+  "name": "twitch-sub-stresslevelzero",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sl0BANDIT",
+      "image_id": 22240
+    },
+    {
+      "match": "sl0NOPE",
+      "image_id": 30384
+    },
+    {
+      "match": "sl0SOON",
+      "image_id": 30383
+    },
+    {
+      "match": "sl0FIXIT",
+      "image_id": 24691
+    },
+    {
+      "match": "sl0BRANDON",
+      "image_id": 30382
+    }
+  ]
+}

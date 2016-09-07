@@ -1,1 +1,67 @@
-{"name":"twitch-sub-a541021","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jianPower","image_id":99769},{"match":"jianNDNF","image_id":111235},{"match":"jianChicken","image_id":107418},{"match":"jianJian","image_id":107411},{"match":"jianAa","image_id":107407},{"match":"jianLove","image_id":107354},{"match":"jianHehe","image_id":101731},{"match":"jianCCC","image_id":101590},{"match":"jianBKUKU","image_id":107935},{"match":"jianPicku","image_id":108510},{"match":"jianKuku","image_id":107674},{"match":"jianPikachu1","image_id":111186},{"match":"jianPikachu2","image_id":111187},{"match":"jianPikachu3","image_id":111188},{"match":"jianPikachu4","image_id":111189}]}
+{
+  "name": "twitch-sub-a541021",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jianPower",
+      "image_id": 99769
+    },
+    {
+      "match": "jianNDNF",
+      "image_id": 111235
+    },
+    {
+      "match": "jianChicken",
+      "image_id": 107418
+    },
+    {
+      "match": "jianJian",
+      "image_id": 107411
+    },
+    {
+      "match": "jianAa",
+      "image_id": 107407
+    },
+    {
+      "match": "jianLove",
+      "image_id": 107354
+    },
+    {
+      "match": "jianHehe",
+      "image_id": 101731
+    },
+    {
+      "match": "jianCCC",
+      "image_id": 101590
+    },
+    {
+      "match": "jianBKUKU",
+      "image_id": 107935
+    },
+    {
+      "match": "jianPicku",
+      "image_id": 108510
+    },
+    {
+      "match": "jianKuku",
+      "image_id": 107674
+    },
+    {
+      "match": "jianPikachu1",
+      "image_id": 111186
+    },
+    {
+      "match": "jianPikachu2",
+      "image_id": 111187
+    },
+    {
+      "match": "jianPikachu3",
+      "image_id": 111188
+    },
+    {
+      "match": "jianPikachu4",
+      "image_id": 111189
+    }
+  ]
+}

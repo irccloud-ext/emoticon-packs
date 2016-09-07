@@ -1,1 +1,15 @@
-{"name":"twitch-sub-jiveturkey600","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jiveJiveisaboss","image_id":8284},{"match":"jiveIsgangsta","image_id":8287}]}
+{
+  "name": "twitch-sub-jiveturkey600",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jiveJiveisaboss",
+      "image_id": 8284
+    },
+    {
+      "match": "jiveIsgangsta",
+      "image_id": 8287
+    }
+  ]
+}

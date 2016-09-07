@@ -1,1 +1,19 @@
-{"name":"twitch-sub-beibeiwang","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"emvis124","image_id":86466},{"match":"emvis8787","image_id":86692},{"match":"emvis1991","image_id":86743}]}
+{
+  "name": "twitch-sub-beibeiwang",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "emvis124",
+      "image_id": 86466
+    },
+    {
+      "match": "emvis8787",
+      "image_id": 86692
+    },
+    {
+      "match": "emvis1991",
+      "image_id": 86743
+    }
+  ]
+}

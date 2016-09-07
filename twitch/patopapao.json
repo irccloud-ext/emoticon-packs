@@ -1,1 +1,23 @@
-{"name":"twitch-sub-patopapao","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"papaoQuack","image_id":27322},{"match":"papaoAllioth","image_id":27356},{"match":"papaoClaudio","image_id":28568},{"match":"papaoTony1","image_id":28570}]}
+{
+  "name": "twitch-sub-patopapao",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "papaoQuack",
+      "image_id": 27322
+    },
+    {
+      "match": "papaoAllioth",
+      "image_id": 27356
+    },
+    {
+      "match": "papaoClaudio",
+      "image_id": 28568
+    },
+    {
+      "match": "papaoTony1",
+      "image_id": 28570
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-igorkgh","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"igorGuf","image_id":21149},{"match":"igorOscar","image_id":21360},{"match":"igorEsi","image_id":90248},{"match":"igorBo4ka","image_id":86783},{"match":"igorWasted","image_id":87248},{"match":"igorHello","image_id":90247}]}
+{
+  "name": "twitch-sub-igorkgh",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "igorGuf",
+      "image_id": 21149
+    },
+    {
+      "match": "igorOscar",
+      "image_id": 21360
+    },
+    {
+      "match": "igorEsi",
+      "image_id": 90248
+    },
+    {
+      "match": "igorBo4ka",
+      "image_id": 86783
+    },
+    {
+      "match": "igorWasted",
+      "image_id": 87248
+    },
+    {
+      "match": "igorHello",
+      "image_id": 90247
+    }
+  ]
+}

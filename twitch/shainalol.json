@@ -1,1 +1,15 @@
-{"name":"twitch-sub-shainalol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shaiFail","image_id":74810},{"match":"shaiMirak","image_id":95084}]}
+{
+  "name": "twitch-sub-shainalol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shaiFail",
+      "image_id": 74810
+    },
+    {
+      "match": "shaiMirak",
+      "image_id": 95084
+    }
+  ]
+}

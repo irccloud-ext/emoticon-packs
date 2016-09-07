@@ -1,1 +1,23 @@
-{"name":"twitch-sub-r1sh","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rishRekt","image_id":64576},{"match":"rishTat2","image_id":61735},{"match":"rishCheez","image_id":61730},{"match":"rishHype","image_id":78472}]}
+{
+  "name": "twitch-sub-r1sh",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rishRekt",
+      "image_id": 64576
+    },
+    {
+      "match": "rishTat2",
+      "image_id": 61735
+    },
+    {
+      "match": "rishCheez",
+      "image_id": 61730
+    },
+    {
+      "match": "rishHype",
+      "image_id": 78472
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-guttermagic","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gutterTrash","image_id":5689},{"match":"gutterFace","image_id":6623},{"match":"gutterSub","image_id":12883},{"match":"gutterHawk","image_id":13123},{"match":"gutterHype","image_id":19542},{"match":"gutterRetro","image_id":25703},{"match":"gutterHugs","image_id":22675},{"match":"gutterOoO","image_id":95843}]}
+{
+  "name": "twitch-sub-guttermagic",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gutterTrash",
+      "image_id": 5689
+    },
+    {
+      "match": "gutterFace",
+      "image_id": 6623
+    },
+    {
+      "match": "gutterSub",
+      "image_id": 12883
+    },
+    {
+      "match": "gutterHawk",
+      "image_id": 13123
+    },
+    {
+      "match": "gutterHype",
+      "image_id": 19542
+    },
+    {
+      "match": "gutterRetro",
+      "image_id": 25703
+    },
+    {
+      "match": "gutterHugs",
+      "image_id": 22675
+    },
+    {
+      "match": "gutterOoO",
+      "image_id": 95843
+    }
+  ]
+}

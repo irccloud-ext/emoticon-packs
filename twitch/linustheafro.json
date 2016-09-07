@@ -1,1 +1,35 @@
-{"name":"twitch-sub-linustheafro","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"linusKlima","image_id":52804},{"match":"linusGG","image_id":82434},{"match":"linusREKT","image_id":82432},{"match":"linusEsek","image_id":82261},{"match":"linusKalista","image_id":82260},{"match":"linusSnipe","image_id":84394},{"match":"linusMiyami","image_id":84430}]}
+{
+  "name": "twitch-sub-linustheafro",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "linusKlima",
+      "image_id": 52804
+    },
+    {
+      "match": "linusGG",
+      "image_id": 82434
+    },
+    {
+      "match": "linusREKT",
+      "image_id": 82432
+    },
+    {
+      "match": "linusEsek",
+      "image_id": 82261
+    },
+    {
+      "match": "linusKalista",
+      "image_id": 82260
+    },
+    {
+      "match": "linusSnipe",
+      "image_id": 84394
+    },
+    {
+      "match": "linusMiyami",
+      "image_id": 84430
+    }
+  ]
+}

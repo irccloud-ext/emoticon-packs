@@ -1,1 +1,107 @@
-{"name":"twitch-sub-realkraftyy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kraftHEH","image_id":98851},{"match":"kraftSUB","image_id":55244},{"match":"kraftGG","image_id":72444},{"match":"kraftSUH","image_id":83742},{"match":"kraftBOWLCUT","image_id":55245},{"match":"kraftKAPPA","image_id":55218},{"match":"kraftPOLICE","image_id":55774},{"match":"kraftNLB","image_id":55209},{"match":"kraftEW","image_id":56238},{"match":"kraftWIFI","image_id":57099},{"match":"kraftDOIT","image_id":63706},{"match":"kraftCLUTCH","image_id":63117},{"match":"kraftFIST","image_id":62152},{"match":"kraftRLY","image_id":63118},{"match":"kraftDEF","image_id":63309},{"match":"kraftBRB","image_id":63524},{"match":"kraftRIP","image_id":72356},{"match":"kraftNERF","image_id":76692},{"match":"kraftLILY","image_id":80975},{"match":"kraftTP","image_id":89579},{"match":"kraftBOI","image_id":97170},{"match":"kraftUHH","image_id":97243},{"match":"kraftBRUH","image_id":96720},{"match":"kraftMAX","image_id":106490},{"match":"kraftLUL","image_id":105571}]}
+{
+  "name": "twitch-sub-realkraftyy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kraftHEH",
+      "image_id": 98851
+    },
+    {
+      "match": "kraftSUB",
+      "image_id": 55244
+    },
+    {
+      "match": "kraftGG",
+      "image_id": 72444
+    },
+    {
+      "match": "kraftSUH",
+      "image_id": 83742
+    },
+    {
+      "match": "kraftBOWLCUT",
+      "image_id": 55245
+    },
+    {
+      "match": "kraftKAPPA",
+      "image_id": 55218
+    },
+    {
+      "match": "kraftPOLICE",
+      "image_id": 55774
+    },
+    {
+      "match": "kraftNLB",
+      "image_id": 55209
+    },
+    {
+      "match": "kraftEW",
+      "image_id": 56238
+    },
+    {
+      "match": "kraftWIFI",
+      "image_id": 57099
+    },
+    {
+      "match": "kraftDOIT",
+      "image_id": 63706
+    },
+    {
+      "match": "kraftCLUTCH",
+      "image_id": 63117
+    },
+    {
+      "match": "kraftFIST",
+      "image_id": 62152
+    },
+    {
+      "match": "kraftRLY",
+      "image_id": 63118
+    },
+    {
+      "match": "kraftDEF",
+      "image_id": 63309
+    },
+    {
+      "match": "kraftBRB",
+      "image_id": 63524
+    },
+    {
+      "match": "kraftRIP",
+      "image_id": 72356
+    },
+    {
+      "match": "kraftNERF",
+      "image_id": 76692
+    },
+    {
+      "match": "kraftLILY",
+      "image_id": 80975
+    },
+    {
+      "match": "kraftTP",
+      "image_id": 89579
+    },
+    {
+      "match": "kraftBOI",
+      "image_id": 97170
+    },
+    {
+      "match": "kraftUHH",
+      "image_id": 97243
+    },
+    {
+      "match": "kraftBRUH",
+      "image_id": 96720
+    },
+    {
+      "match": "kraftMAX",
+      "image_id": 106490
+    },
+    {
+      "match": "kraftLUL",
+      "image_id": 105571
+    }
+  ]
+}

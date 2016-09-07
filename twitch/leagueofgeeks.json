@@ -1,1 +1,23 @@
-{"name":"twitch-sub-leagueofgeeks","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"logsMad","image_id":102161},{"match":"logsSS","image_id":102160},{"match":"logsChick","image_id":103100},{"match":"logsGuppy","image_id":103101}]}
+{
+  "name": "twitch-sub-leagueofgeeks",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "logsMad",
+      "image_id": 102161
+    },
+    {
+      "match": "logsSS",
+      "image_id": 102160
+    },
+    {
+      "match": "logsChick",
+      "image_id": 103100
+    },
+    {
+      "match": "logsGuppy",
+      "image_id": 103101
+    }
+  ]
+}

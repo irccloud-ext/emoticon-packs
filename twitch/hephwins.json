@@ -1,1 +1,39 @@
-{"name":"twitch-sub-hephwins","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hephThump","image_id":109919},{"match":"hephSup","image_id":109924},{"match":"hephFail","image_id":109922},{"match":"hephSmug","image_id":109918},{"match":"hephLove","image_id":109917},{"match":"hephGasm","image_id":109920},{"match":"hephLewd","image_id":109916},{"match":"hephAyyye","image_id":109915}]}
+{
+  "name": "twitch-sub-hephwins",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hephThump",
+      "image_id": 109919
+    },
+    {
+      "match": "hephSup",
+      "image_id": 109924
+    },
+    {
+      "match": "hephFail",
+      "image_id": 109922
+    },
+    {
+      "match": "hephSmug",
+      "image_id": 109918
+    },
+    {
+      "match": "hephLove",
+      "image_id": 109917
+    },
+    {
+      "match": "hephGasm",
+      "image_id": 109920
+    },
+    {
+      "match": "hephLewd",
+      "image_id": 109916
+    },
+    {
+      "match": "hephAyyye",
+      "image_id": 109915
+    }
+  ]
+}

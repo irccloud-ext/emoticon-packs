@@ -1,1 +1,39 @@
-{"name":"twitch-sub-shurjoka","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jokaCute","image_id":91896},{"match":"jokaHi","image_id":91897},{"match":"jokaRage","image_id":91898},{"match":"jokaLove","image_id":91899},{"match":"jokaEvil","image_id":91900},{"match":"jokaWTF","image_id":91901},{"match":"jokaHype","image_id":93103},{"match":"jokaGetRekt","image_id":93288}]}
+{
+  "name": "twitch-sub-shurjoka",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jokaCute",
+      "image_id": 91896
+    },
+    {
+      "match": "jokaHi",
+      "image_id": 91897
+    },
+    {
+      "match": "jokaRage",
+      "image_id": 91898
+    },
+    {
+      "match": "jokaLove",
+      "image_id": 91899
+    },
+    {
+      "match": "jokaEvil",
+      "image_id": 91900
+    },
+    {
+      "match": "jokaWTF",
+      "image_id": 91901
+    },
+    {
+      "match": "jokaHype",
+      "image_id": 93103
+    },
+    {
+      "match": "jokaGetRekt",
+      "image_id": 93288
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-octopimp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"octoSalt","image_id":60088},{"match":"octoKazoo","image_id":97612},{"match":"octoAesthetic","image_id":97611},{"match":"octoHype","image_id":79742},{"match":"octoHA","image_id":101010},{"match":"octoWinku","image_id":93245},{"match":"octoHex","image_id":109030},{"match":"octoNut","image_id":108953}]}
+{
+  "name": "twitch-sub-octopimp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "octoSalt",
+      "image_id": 60088
+    },
+    {
+      "match": "octoKazoo",
+      "image_id": 97612
+    },
+    {
+      "match": "octoAesthetic",
+      "image_id": 97611
+    },
+    {
+      "match": "octoHype",
+      "image_id": 79742
+    },
+    {
+      "match": "octoHA",
+      "image_id": 101010
+    },
+    {
+      "match": "octoWinku",
+      "image_id": 93245
+    },
+    {
+      "match": "octoHex",
+      "image_id": 109030
+    },
+    {
+      "match": "octoNut",
+      "image_id": 108953
+    }
+  ]
+}

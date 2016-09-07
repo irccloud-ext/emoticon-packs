@@ -1,1 +1,27 @@
-{"name":"twitch-sub-fwoshy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fwoshFeels","image_id":66902},{"match":"fwoshHoho","image_id":46917},{"match":"fwoshThump","image_id":47700},{"match":"fwoshRip","image_id":65384},{"match":"fwoshCreepo","image_id":72637}]}
+{
+  "name": "twitch-sub-fwoshy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fwoshFeels",
+      "image_id": 66902
+    },
+    {
+      "match": "fwoshHoho",
+      "image_id": 46917
+    },
+    {
+      "match": "fwoshThump",
+      "image_id": 47700
+    },
+    {
+      "match": "fwoshRip",
+      "image_id": 65384
+    },
+    {
+      "match": "fwoshCreepo",
+      "image_id": 72637
+    }
+  ]
+}

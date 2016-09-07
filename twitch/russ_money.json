@@ -1,1 +1,39 @@
-{"name":"twitch-sub-russ_money","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"russmoHeyGuys","image_id":89344},{"match":"russmoRAAH","image_id":89345},{"match":"russmoHONK","image_id":89342},{"match":"russmoHORN","image_id":89343},{"match":"russmoWut","image_id":89347},{"match":"russmoSeemsOkay","image_id":89564},{"match":"russmoShip","image_id":90620},{"match":"russmoFeels","image_id":110048}]}
+{
+  "name": "twitch-sub-russ_money",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "russmoHeyGuys",
+      "image_id": 89344
+    },
+    {
+      "match": "russmoRAAH",
+      "image_id": 89345
+    },
+    {
+      "match": "russmoHONK",
+      "image_id": 89342
+    },
+    {
+      "match": "russmoHORN",
+      "image_id": 89343
+    },
+    {
+      "match": "russmoWut",
+      "image_id": 89347
+    },
+    {
+      "match": "russmoSeemsOkay",
+      "image_id": 89564
+    },
+    {
+      "match": "russmoShip",
+      "image_id": 90620
+    },
+    {
+      "match": "russmoFeels",
+      "image_id": 110048
+    }
+  ]
+}

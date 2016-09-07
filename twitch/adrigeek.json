@@ -1,1 +1,47 @@
-{"name":"twitch-sub-adrigeek","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"adriKiss","image_id":66106},{"match":"adriGang","image_id":64839},{"match":"adriSub","image_id":64840},{"match":"adriRp","image_id":66107},{"match":"adriVictime","image_id":66105},{"match":"adriPLS","image_id":70973},{"match":"adriGG","image_id":70972},{"match":"adriRip","image_id":79490},{"match":"adriYo","image_id":106520},{"match":"adriWhat","image_id":106519}]}
+{
+  "name": "twitch-sub-adrigeek",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "adriKiss",
+      "image_id": 66106
+    },
+    {
+      "match": "adriGang",
+      "image_id": 64839
+    },
+    {
+      "match": "adriSub",
+      "image_id": 64840
+    },
+    {
+      "match": "adriRp",
+      "image_id": 66107
+    },
+    {
+      "match": "adriVictime",
+      "image_id": 66105
+    },
+    {
+      "match": "adriPLS",
+      "image_id": 70973
+    },
+    {
+      "match": "adriGG",
+      "image_id": 70972
+    },
+    {
+      "match": "adriRip",
+      "image_id": 79490
+    },
+    {
+      "match": "adriYo",
+      "image_id": 106520
+    },
+    {
+      "match": "adriWhat",
+      "image_id": 106519
+    }
+  ]
+}

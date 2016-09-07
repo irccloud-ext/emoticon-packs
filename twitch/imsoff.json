@@ -1,1 +1,31 @@
-{"name":"twitch-sub-imsoff","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"soffKEBAB","image_id":85238},{"match":"soffPARTY","image_id":96640},{"match":"soffPIZZA","image_id":88984},{"match":"soffH","image_id":108025},{"match":"soffP","image_id":108024},{"match":"soffT","image_id":108032}]}
+{
+  "name": "twitch-sub-imsoff",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "soffKEBAB",
+      "image_id": 85238
+    },
+    {
+      "match": "soffPARTY",
+      "image_id": 96640
+    },
+    {
+      "match": "soffPIZZA",
+      "image_id": 88984
+    },
+    {
+      "match": "soffH",
+      "image_id": 108025
+    },
+    {
+      "match": "soffP",
+      "image_id": 108024
+    },
+    {
+      "match": "soffT",
+      "image_id": 108032
+    }
+  ]
+}

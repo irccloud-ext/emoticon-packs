@@ -1,1 +1,39 @@
-{"name":"twitch-sub-khovanskytoday","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hovSHAMP","image_id":34196},{"match":"hovAVTOB","image_id":34197},{"match":"hovPAVLIK","image_id":34356},{"match":"hovPONY","image_id":34357},{"match":"hovTSOY","image_id":35105},{"match":"hovMAD","image_id":35106},{"match":"hovPISTON","image_id":54642},{"match":"hovFISH","image_id":54513}]}
+{
+  "name": "twitch-sub-khovanskytoday",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hovSHAMP",
+      "image_id": 34196
+    },
+    {
+      "match": "hovAVTOB",
+      "image_id": 34197
+    },
+    {
+      "match": "hovPAVLIK",
+      "image_id": 34356
+    },
+    {
+      "match": "hovPONY",
+      "image_id": 34357
+    },
+    {
+      "match": "hovTSOY",
+      "image_id": 35105
+    },
+    {
+      "match": "hovMAD",
+      "image_id": 35106
+    },
+    {
+      "match": "hovPISTON",
+      "image_id": 54642
+    },
+    {
+      "match": "hovFISH",
+      "image_id": 54513
+    }
+  ]
+}

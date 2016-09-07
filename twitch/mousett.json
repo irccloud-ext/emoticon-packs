@@ -1,1 +1,27 @@
-{"name":"twitch-sub-mousett","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mouseKappa","image_id":40257},{"match":"mouseSubhype","image_id":76829},{"match":"mouseDynamite","image_id":76806},{"match":"mouseVac","image_id":87569},{"match":"mouseFlexim","image_id":87891}]}
+{
+  "name": "twitch-sub-mousett",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mouseKappa",
+      "image_id": 40257
+    },
+    {
+      "match": "mouseSubhype",
+      "image_id": 76829
+    },
+    {
+      "match": "mouseDynamite",
+      "image_id": 76806
+    },
+    {
+      "match": "mouseVac",
+      "image_id": 87569
+    },
+    {
+      "match": "mouseFlexim",
+      "image_id": 87891
+    }
+  ]
+}

@@ -1,1 +1,59 @@
-{"name":"twitch-sub-chapmad","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chapTILT","image_id":40552},{"match":"chapCREEPY","image_id":40631},{"match":"chapOJ","image_id":44305},{"match":"chapHYPE","image_id":44450},{"match":"chapEKSDE","image_id":44861},{"match":"chapKOLLA","image_id":51019},{"match":"chapREFKI","image_id":62461},{"match":"chapH","image_id":63934},{"match":"chapCHOKE","image_id":100688},{"match":"chapCRINGE","image_id":100689},{"match":"chapFAIL","image_id":100691},{"match":"chapSAD","image_id":100693},{"match":"chapKISS","image_id":100769}]}
+{
+  "name": "twitch-sub-chapmad",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chapTILT",
+      "image_id": 40552
+    },
+    {
+      "match": "chapCREEPY",
+      "image_id": 40631
+    },
+    {
+      "match": "chapOJ",
+      "image_id": 44305
+    },
+    {
+      "match": "chapHYPE",
+      "image_id": 44450
+    },
+    {
+      "match": "chapEKSDE",
+      "image_id": 44861
+    },
+    {
+      "match": "chapKOLLA",
+      "image_id": 51019
+    },
+    {
+      "match": "chapREFKI",
+      "image_id": 62461
+    },
+    {
+      "match": "chapH",
+      "image_id": 63934
+    },
+    {
+      "match": "chapCHOKE",
+      "image_id": 100688
+    },
+    {
+      "match": "chapCRINGE",
+      "image_id": 100689
+    },
+    {
+      "match": "chapFAIL",
+      "image_id": 100691
+    },
+    {
+      "match": "chapSAD",
+      "image_id": 100693
+    },
+    {
+      "match": "chapKISS",
+      "image_id": 100769
+    }
+  ]
+}

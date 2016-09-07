@@ -1,1 +1,79 @@
-{"name":"twitch-sub-omgelsie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"elsieHYPE","image_id":69478},{"match":"elsieFIGHT","image_id":69479},{"match":"elsieSOB","image_id":104744},{"match":"elsieSUCCESS","image_id":69480},{"match":"elsieRAGE","image_id":69481},{"match":"elsieOMG","image_id":69482},{"match":"elsieSALUTE","image_id":69483},{"match":"elsieSCARY","image_id":104745},{"match":"elsieSPOOKY","image_id":104746},{"match":"elsieLOVE","image_id":68494},{"match":"elsieHEART","image_id":68491},{"match":"elsieCAT","image_id":104596},{"match":"elsieLEWD","image_id":104597},{"match":"elsieSHOCK","image_id":104598},{"match":"elsieOOPS","image_id":104599},{"match":"elsiePLZ","image_id":104600},{"match":"elsieSLEEP","image_id":104601},{"match":"elsieBURRITO","image_id":104607}]}
+{
+  "name": "twitch-sub-omgelsie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "elsieHYPE",
+      "image_id": 69478
+    },
+    {
+      "match": "elsieFIGHT",
+      "image_id": 69479
+    },
+    {
+      "match": "elsieSOB",
+      "image_id": 104744
+    },
+    {
+      "match": "elsieSUCCESS",
+      "image_id": 69480
+    },
+    {
+      "match": "elsieRAGE",
+      "image_id": 69481
+    },
+    {
+      "match": "elsieOMG",
+      "image_id": 69482
+    },
+    {
+      "match": "elsieSALUTE",
+      "image_id": 69483
+    },
+    {
+      "match": "elsieSCARY",
+      "image_id": 104745
+    },
+    {
+      "match": "elsieSPOOKY",
+      "image_id": 104746
+    },
+    {
+      "match": "elsieLOVE",
+      "image_id": 68494
+    },
+    {
+      "match": "elsieHEART",
+      "image_id": 68491
+    },
+    {
+      "match": "elsieCAT",
+      "image_id": 104596
+    },
+    {
+      "match": "elsieLEWD",
+      "image_id": 104597
+    },
+    {
+      "match": "elsieSHOCK",
+      "image_id": 104598
+    },
+    {
+      "match": "elsieOOPS",
+      "image_id": 104599
+    },
+    {
+      "match": "elsiePLZ",
+      "image_id": 104600
+    },
+    {
+      "match": "elsieSLEEP",
+      "image_id": 104601
+    },
+    {
+      "match": "elsieBURRITO",
+      "image_id": 104607
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-alrightyright","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"alrightyThirst","image_id":50971},{"match":"alrightyPls","image_id":50961},{"match":"alrightyPlays","image_id":48114},{"match":"alrightyLove","image_id":48043},{"match":"alrightyHey","image_id":48643},{"match":"alrightyHYPE","image_id":48642},{"match":"alrightyTurtle","image_id":51170},{"match":"alrightyHug","image_id":59074}]}
+{
+  "name": "twitch-sub-alrightyright",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "alrightyThirst",
+      "image_id": 50971
+    },
+    {
+      "match": "alrightyPls",
+      "image_id": 50961
+    },
+    {
+      "match": "alrightyPlays",
+      "image_id": 48114
+    },
+    {
+      "match": "alrightyLove",
+      "image_id": 48043
+    },
+    {
+      "match": "alrightyHey",
+      "image_id": 48643
+    },
+    {
+      "match": "alrightyHYPE",
+      "image_id": 48642
+    },
+    {
+      "match": "alrightyTurtle",
+      "image_id": 51170
+    },
+    {
+      "match": "alrightyHug",
+      "image_id": 59074
+    }
+  ]
+}

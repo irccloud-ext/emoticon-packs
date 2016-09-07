@@ -1,1 +1,59 @@
-{"name":"twitch-sub-xminks","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"minkCry","image_id":7382},{"match":"minkOoh","image_id":11167},{"match":"minkRekt","image_id":27265},{"match":"minkWut","image_id":85922},{"match":"minkGasm","image_id":35990},{"match":"minkLucy","image_id":39777},{"match":"minkFleek","image_id":39775},{"match":"minkLove","image_id":39903},{"match":"minkDuck","image_id":73352},{"match":"minkHype","image_id":73486},{"match":"minkMatt","image_id":98240},{"match":"minkSpin","image_id":84500},{"match":"minkLlama","image_id":85905}]}
+{
+  "name": "twitch-sub-xminks",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "minkCry",
+      "image_id": 7382
+    },
+    {
+      "match": "minkOoh",
+      "image_id": 11167
+    },
+    {
+      "match": "minkRekt",
+      "image_id": 27265
+    },
+    {
+      "match": "minkWut",
+      "image_id": 85922
+    },
+    {
+      "match": "minkGasm",
+      "image_id": 35990
+    },
+    {
+      "match": "minkLucy",
+      "image_id": 39777
+    },
+    {
+      "match": "minkFleek",
+      "image_id": 39775
+    },
+    {
+      "match": "minkLove",
+      "image_id": 39903
+    },
+    {
+      "match": "minkDuck",
+      "image_id": 73352
+    },
+    {
+      "match": "minkHype",
+      "image_id": 73486
+    },
+    {
+      "match": "minkMatt",
+      "image_id": 98240
+    },
+    {
+      "match": "minkSpin",
+      "image_id": 84500
+    },
+    {
+      "match": "minkLlama",
+      "image_id": 85905
+    }
+  ]
+}

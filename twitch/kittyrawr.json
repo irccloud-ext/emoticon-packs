@@ -1,1 +1,39 @@
-{"name":"twitch-sub-kittyrawr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rawrKirby","image_id":21009},{"match":"rawrKrew","image_id":21088},{"match":"rawrEevee","image_id":21499},{"match":"rawrHype","image_id":68768},{"match":"rawrSenpai","image_id":68769},{"match":"rawrGasm","image_id":70048},{"match":"rawrWink","image_id":81882},{"match":"rawrCry","image_id":81677}]}
+{
+  "name": "twitch-sub-kittyrawr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rawrKirby",
+      "image_id": 21009
+    },
+    {
+      "match": "rawrKrew",
+      "image_id": 21088
+    },
+    {
+      "match": "rawrEevee",
+      "image_id": 21499
+    },
+    {
+      "match": "rawrHype",
+      "image_id": 68768
+    },
+    {
+      "match": "rawrSenpai",
+      "image_id": 68769
+    },
+    {
+      "match": "rawrGasm",
+      "image_id": 70048
+    },
+    {
+      "match": "rawrWink",
+      "image_id": 81882
+    },
+    {
+      "match": "rawrCry",
+      "image_id": 81677
+    }
+  ]
+}

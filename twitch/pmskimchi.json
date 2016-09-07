@@ -1,1 +1,23 @@
-{"name":"twitch-sub-pmskimchi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kimchiRage","image_id":55903},{"match":"kimchiCry","image_id":69348},{"match":"kimchiChu","image_id":54917},{"match":"kimchiGood","image_id":68935}]}
+{
+  "name": "twitch-sub-pmskimchi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kimchiRage",
+      "image_id": 55903
+    },
+    {
+      "match": "kimchiCry",
+      "image_id": 69348
+    },
+    {
+      "match": "kimchiChu",
+      "image_id": 54917
+    },
+    {
+      "match": "kimchiGood",
+      "image_id": 68935
+    }
+  ]
+}

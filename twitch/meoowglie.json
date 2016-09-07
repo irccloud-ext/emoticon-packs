@@ -1,1 +1,11 @@
-{"name":"twitch-sub-meoowglie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tsvgEye","image_id":104224}]}
+{
+  "name": "twitch-sub-meoowglie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tsvgEye",
+      "image_id": 104224
+    }
+  ]
+}

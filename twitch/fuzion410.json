@@ -1,1 +1,23 @@
-{"name":"twitch-sub-fuzion410","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fuzFlap","image_id":12872},{"match":"fuzJr","image_id":11279},{"match":"fuzOmg","image_id":11283},{"match":"fuzBeer","image_id":11281}]}
+{
+  "name": "twitch-sub-fuzion410",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fuzFlap",
+      "image_id": 12872
+    },
+    {
+      "match": "fuzJr",
+      "image_id": 11279
+    },
+    {
+      "match": "fuzOmg",
+      "image_id": 11283
+    },
+    {
+      "match": "fuzBeer",
+      "image_id": 11281
+    }
+  ]
+}

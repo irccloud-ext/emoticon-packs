@@ -1,1 +1,39 @@
-{"name":"twitch-sub-cawai0147","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"riryRrr","image_id":91501},{"match":"riryHa","image_id":91527},{"match":"riryWhat","image_id":91525},{"match":"riryBye","image_id":88090},{"match":"riryCry","image_id":88089},{"match":"riryTeemo","image_id":88061},{"match":"riryLala","image_id":88227},{"match":"rirySing","image_id":89880}]}
+{
+  "name": "twitch-sub-cawai0147",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "riryRrr",
+      "image_id": 91501
+    },
+    {
+      "match": "riryHa",
+      "image_id": 91527
+    },
+    {
+      "match": "riryWhat",
+      "image_id": 91525
+    },
+    {
+      "match": "riryBye",
+      "image_id": 88090
+    },
+    {
+      "match": "riryCry",
+      "image_id": 88089
+    },
+    {
+      "match": "riryTeemo",
+      "image_id": 88061
+    },
+    {
+      "match": "riryLala",
+      "image_id": 88227
+    },
+    {
+      "match": "rirySing",
+      "image_id": 89880
+    }
+  ]
+}

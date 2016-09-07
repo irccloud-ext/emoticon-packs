@@ -1,1 +1,31 @@
-{"name":"twitch-sub-trancetherapylol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tranceREADY","image_id":36901},{"match":"tranceWOO","image_id":40180},{"match":"tranceNLT","image_id":84986},{"match":"tranceW","image_id":108178},{"match":"tranceHey","image_id":102561},{"match":"tranceApe","image_id":108163}]}
+{
+  "name": "twitch-sub-trancetherapylol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tranceREADY",
+      "image_id": 36901
+    },
+    {
+      "match": "tranceWOO",
+      "image_id": 40180
+    },
+    {
+      "match": "tranceNLT",
+      "image_id": 84986
+    },
+    {
+      "match": "tranceW",
+      "image_id": 108178
+    },
+    {
+      "match": "tranceHey",
+      "image_id": 102561
+    },
+    {
+      "match": "tranceApe",
+      "image_id": 108163
+    }
+  ]
+}

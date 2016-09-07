@@ -1,1 +1,23 @@
-{"name":"twitch-sub-mecharichter","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mechaSmug","image_id":30780},{"match":"mechaHPYE","image_id":51134},{"match":"mechaGOLD","image_id":57431},{"match":"mechaPooks","image_id":77828}]}
+{
+  "name": "twitch-sub-mecharichter",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mechaSmug",
+      "image_id": 30780
+    },
+    {
+      "match": "mechaHPYE",
+      "image_id": 51134
+    },
+    {
+      "match": "mechaGOLD",
+      "image_id": 57431
+    },
+    {
+      "match": "mechaPooks",
+      "image_id": 77828
+    }
+  ]
+}

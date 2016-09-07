@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ladymace86","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sicLucky","image_id":86443},{"match":"sicShipIt","image_id":83123},{"match":"sicSoSick","image_id":83112},{"match":"sicNutella","image_id":86645}]}
+{
+  "name": "twitch-sub-ladymace86",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sicLucky",
+      "image_id": 86443
+    },
+    {
+      "match": "sicShipIt",
+      "image_id": 83123
+    },
+    {
+      "match": "sicSoSick",
+      "image_id": 83112
+    },
+    {
+      "match": "sicNutella",
+      "image_id": 86645
+    }
+  ]
+}

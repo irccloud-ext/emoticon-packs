@@ -1,1 +1,35 @@
-{"name":"twitch-sub-shayed_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shayW1","image_id":93567},{"match":"shayW2","image_id":93568},{"match":"shayGasm","image_id":92657},{"match":"shayRes","image_id":92668},{"match":"shayGiggle","image_id":89490},{"match":"shayButts","image_id":91690},{"match":"shayTato","image_id":106465}]}
+{
+  "name": "twitch-sub-shayed_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shayW1",
+      "image_id": 93567
+    },
+    {
+      "match": "shayW2",
+      "image_id": 93568
+    },
+    {
+      "match": "shayGasm",
+      "image_id": 92657
+    },
+    {
+      "match": "shayRes",
+      "image_id": 92668
+    },
+    {
+      "match": "shayGiggle",
+      "image_id": 89490
+    },
+    {
+      "match": "shayButts",
+      "image_id": 91690
+    },
+    {
+      "match": "shayTato",
+      "image_id": 106465
+    }
+  ]
+}

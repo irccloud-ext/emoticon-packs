@@ -1,1 +1,23 @@
-{"name":"twitch-sub-freezecz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"freezeWOOF","image_id":49504},{"match":"freezeTONK","image_id":49503},{"match":"freezeGGeasy","image_id":47614},{"match":"freezeDraven","image_id":49605}]}
+{
+  "name": "twitch-sub-freezecz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "freezeWOOF",
+      "image_id": 49504
+    },
+    {
+      "match": "freezeTONK",
+      "image_id": 49503
+    },
+    {
+      "match": "freezeGGeasy",
+      "image_id": 47614
+    },
+    {
+      "match": "freezeDraven",
+      "image_id": 49605
+    }
+  ]
+}

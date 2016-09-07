@@ -1,1 +1,27 @@
-{"name":"twitch-sub-tinalyra","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lyraBlub","image_id":84593},{"match":"lyraKiss","image_id":84442},{"match":"lyraSass","image_id":84443},{"match":"lyraCreep","image_id":84431},{"match":"lyraHey","image_id":92058}]}
+{
+  "name": "twitch-sub-tinalyra",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lyraBlub",
+      "image_id": 84593
+    },
+    {
+      "match": "lyraKiss",
+      "image_id": 84442
+    },
+    {
+      "match": "lyraSass",
+      "image_id": 84443
+    },
+    {
+      "match": "lyraCreep",
+      "image_id": 84431
+    },
+    {
+      "match": "lyraHey",
+      "image_id": 92058
+    }
+  ]
+}

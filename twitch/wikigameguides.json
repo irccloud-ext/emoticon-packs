@@ -1,1 +1,31 @@
-{"name":"twitch-sub-wikigameguides","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wggCarl","image_id":2232},{"match":"wggGun","image_id":2859},{"match":"wggShot","image_id":3262},{"match":"wggBonfire","image_id":12691},{"match":"wggDied","image_id":12680},{"match":"wggEstus","image_id":12692}]}
+{
+  "name": "twitch-sub-wikigameguides",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wggCarl",
+      "image_id": 2232
+    },
+    {
+      "match": "wggGun",
+      "image_id": 2859
+    },
+    {
+      "match": "wggShot",
+      "image_id": 3262
+    },
+    {
+      "match": "wggBonfire",
+      "image_id": 12691
+    },
+    {
+      "match": "wggDied",
+      "image_id": 12680
+    },
+    {
+      "match": "wggEstus",
+      "image_id": 12692
+    }
+  ]
+}

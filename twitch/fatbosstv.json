@@ -1,1 +1,43 @@
-{"name":"twitch-sub-fatbosstv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fatbossCorgipls","image_id":4539},{"match":"fatbossFace","image_id":4547},{"match":"fatbossKappa","image_id":4549},{"match":"fatbossEvil","image_id":4548},{"match":"fatbossPanda","image_id":5188},{"match":"fatbossMeat","image_id":13877},{"match":"fatbossThump","image_id":18513},{"match":"fatbossOld","image_id":18514},{"match":"fatbossBlobby","image_id":21280}]}
+{
+  "name": "twitch-sub-fatbosstv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fatbossCorgipls",
+      "image_id": 4539
+    },
+    {
+      "match": "fatbossFace",
+      "image_id": 4547
+    },
+    {
+      "match": "fatbossKappa",
+      "image_id": 4549
+    },
+    {
+      "match": "fatbossEvil",
+      "image_id": 4548
+    },
+    {
+      "match": "fatbossPanda",
+      "image_id": 5188
+    },
+    {
+      "match": "fatbossMeat",
+      "image_id": 13877
+    },
+    {
+      "match": "fatbossThump",
+      "image_id": 18513
+    },
+    {
+      "match": "fatbossOld",
+      "image_id": 18514
+    },
+    {
+      "match": "fatbossBlobby",
+      "image_id": 21280
+    }
+  ]
+}

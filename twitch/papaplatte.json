@@ -1,1 +1,67 @@
-{"name":"twitch-sub-papaplatte","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"papaNerd","image_id":92718},{"match":"papaGG","image_id":28652},{"match":"papaW","image_id":37333},{"match":"papaRekt","image_id":68562},{"match":"papaMLG","image_id":47575},{"match":"papaF","image_id":52783},{"match":"papaOD","image_id":85437},{"match":"papa10","image_id":79380},{"match":"papaN","image_id":81456},{"match":"papaL","image_id":79382},{"match":"papaGasm","image_id":84949},{"match":"papaLOL","image_id":97758},{"match":"papaBad","image_id":107962},{"match":"papaGood","image_id":107963},{"match":"papaRage","image_id":108042}]}
+{
+  "name": "twitch-sub-papaplatte",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "papaNerd",
+      "image_id": 92718
+    },
+    {
+      "match": "papaGG",
+      "image_id": 28652
+    },
+    {
+      "match": "papaW",
+      "image_id": 37333
+    },
+    {
+      "match": "papaRekt",
+      "image_id": 68562
+    },
+    {
+      "match": "papaMLG",
+      "image_id": 47575
+    },
+    {
+      "match": "papaF",
+      "image_id": 52783
+    },
+    {
+      "match": "papaOD",
+      "image_id": 85437
+    },
+    {
+      "match": "papa10",
+      "image_id": 79380
+    },
+    {
+      "match": "papaN",
+      "image_id": 81456
+    },
+    {
+      "match": "papaL",
+      "image_id": 79382
+    },
+    {
+      "match": "papaGasm",
+      "image_id": 84949
+    },
+    {
+      "match": "papaLOL",
+      "image_id": 97758
+    },
+    {
+      "match": "papaBad",
+      "image_id": 107962
+    },
+    {
+      "match": "papaGood",
+      "image_id": 107963
+    },
+    {
+      "match": "papaRage",
+      "image_id": 108042
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-6foot4honda","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"team6S","image_id":59208},{"match":"team6Dhype","image_id":59178},{"match":"team6T6","image_id":59823},{"match":"team6Logo","image_id":59145},{"match":"team6Fisted","image_id":60291},{"match":"team6Face","image_id":60292},{"match":"team6Dd","image_id":59667},{"match":"team6Sub","image_id":59668}]}
+{
+  "name": "twitch-sub-6foot4honda",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "team6S",
+      "image_id": 59208
+    },
+    {
+      "match": "team6Dhype",
+      "image_id": 59178
+    },
+    {
+      "match": "team6T6",
+      "image_id": 59823
+    },
+    {
+      "match": "team6Logo",
+      "image_id": 59145
+    },
+    {
+      "match": "team6Fisted",
+      "image_id": 60291
+    },
+    {
+      "match": "team6Face",
+      "image_id": 60292
+    },
+    {
+      "match": "team6Dd",
+      "image_id": 59667
+    },
+    {
+      "match": "team6Sub",
+      "image_id": 59668
+    }
+  ]
+}

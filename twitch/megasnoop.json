@@ -1,1 +1,39 @@
-{"name":"twitch-sub-megasnoop","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"megasPeel","image_id":92071},{"match":"megasGolf","image_id":92072},{"match":"megasBrian","image_id":92224},{"match":"megasYes","image_id":92724},{"match":"megasNo","image_id":92902},{"match":"megasShrug","image_id":96074},{"match":"megasMiss","image_id":95385},{"match":"megasSad","image_id":101349}]}
+{
+  "name": "twitch-sub-megasnoop",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "megasPeel",
+      "image_id": 92071
+    },
+    {
+      "match": "megasBrian",
+      "image_id": 92224
+    },
+    {
+      "match": "megasYes",
+      "image_id": 92724
+    },
+    {
+      "match": "megasNo",
+      "image_id": 92902
+    },
+    {
+      "match": "megasShrug",
+      "image_id": 96074
+    },
+    {
+      "match": "megasMiss",
+      "image_id": 95385
+    },
+    {
+      "match": "megasRant",
+      "image_id": 112446
+    },
+    {
+      "match": "megasWin",
+      "image_id": 112447
+    }
+  ]
+}

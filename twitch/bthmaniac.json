@@ -1,1 +1,27 @@
-{"name":"twitch-sub-bthmaniac","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bthmaniacBtH","image_id":53526},{"match":"bthmaniacLxthul","image_id":53522},{"match":"bthmaniacYoung","image_id":53524},{"match":"bthmaniacFace","image_id":54608},{"match":"bthmaniacFormal","image_id":52113}]}
+{
+  "name": "twitch-sub-bthmaniac",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bthmaniacBtH",
+      "image_id": 53526
+    },
+    {
+      "match": "bthmaniacLxthul",
+      "image_id": 53522
+    },
+    {
+      "match": "bthmaniacYoung",
+      "image_id": 53524
+    },
+    {
+      "match": "bthmaniacFace",
+      "image_id": 54608
+    },
+    {
+      "match": "bthmaniacFormal",
+      "image_id": 52113
+    }
+  ]
+}

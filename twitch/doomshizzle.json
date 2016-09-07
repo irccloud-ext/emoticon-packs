@@ -1,1 +1,39 @@
-{"name":"twitch-sub-doomshizzle","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"doomsWEP","image_id":6521},{"match":"doomsFUU","image_id":27102},{"match":"doomsSENPAI","image_id":27105},{"match":"doomsTRAIN","image_id":6004},{"match":"doomsNINJA","image_id":8448},{"match":"doomsYOLO","image_id":23966},{"match":"doomsPUKU","image_id":26775},{"match":"doomsTWSS","image_id":39032}]}
+{
+  "name": "twitch-sub-doomshizzle",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "doomsWEP",
+      "image_id": 6521
+    },
+    {
+      "match": "doomsFUU",
+      "image_id": 27102
+    },
+    {
+      "match": "doomsSENPAI",
+      "image_id": 27105
+    },
+    {
+      "match": "doomsTRAIN",
+      "image_id": 6004
+    },
+    {
+      "match": "doomsNINJA",
+      "image_id": 8448
+    },
+    {
+      "match": "doomsYOLO",
+      "image_id": 23966
+    },
+    {
+      "match": "doomsPUKU",
+      "image_id": 26775
+    },
+    {
+      "match": "doomsTWSS",
+      "image_id": 39032
+    }
+  ]
+}

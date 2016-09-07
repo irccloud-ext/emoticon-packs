@@ -1,1 +1,43 @@
-{"name":"twitch-sub-officialdaikon","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"daichanOo","image_id":110054},{"match":"daichanCry","image_id":110053},{"match":"daichanV","image_id":110198},{"match":"daichanRage","image_id":110181},{"match":"daichanHype","image_id":110182},{"match":"daichanWave","image_id":110042},{"match":"daichanLove","image_id":110587},{"match":"daichanOhmy","image_id":110043}]}
+{
+  "name": "twitch-sub-officialdaikon",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "daichanOo",
+      "image_id": 110054
+    },
+    {
+      "match": "daichanCry",
+      "image_id": 110053
+    },
+    {
+      "match": "daichanV",
+      "image_id": 110198
+    },
+    {
+      "match": "daichanRage",
+      "image_id": 110181
+    },
+    {
+      "match": "daichanHype",
+      "image_id": 110182
+    },
+    {
+      "match": "daichanWhy",
+      "image_id": 112565
+    },
+    {
+      "match": "daichanWave",
+      "image_id": 110042
+    },
+    {
+      "match": "daichanLove",
+      "image_id": 110587
+    },
+    {
+      "match": "daichanOhmy",
+      "image_id": 110043
+    }
+  ]
+}

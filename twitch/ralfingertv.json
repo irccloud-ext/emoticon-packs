@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ralfingertv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ralYODL","image_id":40709},{"match":"ralFace","image_id":35786},{"match":"ralRock","image_id":40662},{"match":"ralSub","image_id":41327},{"match":"ralRP","image_id":84389},{"match":"ralDAMN","image_id":85083}]}
+{
+  "name": "twitch-sub-ralfingertv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ralYODL",
+      "image_id": 40709
+    },
+    {
+      "match": "ralFace",
+      "image_id": 35786
+    },
+    {
+      "match": "ralRock",
+      "image_id": 40662
+    },
+    {
+      "match": "ralSub",
+      "image_id": 41327
+    },
+    {
+      "match": "ralRP",
+      "image_id": 84389
+    },
+    {
+      "match": "ralDAMN",
+      "image_id": 85083
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-lkchocopie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chocRip","image_id":11531},{"match":"chocPie","image_id":11285},{"match":"chocLegend","image_id":11287},{"match":"chocLol","image_id":24021},{"match":"chocWave","image_id":27331},{"match":"chocMusic","image_id":27332},{"match":"chocPickle","image_id":27333},{"match":"chocLantern","image_id":27334}]}
+{
+  "name": "twitch-sub-lkchocopie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chocRip",
+      "image_id": 11531
+    },
+    {
+      "match": "chocPie",
+      "image_id": 11285
+    },
+    {
+      "match": "chocLegend",
+      "image_id": 11287
+    },
+    {
+      "match": "chocLol",
+      "image_id": 24021
+    },
+    {
+      "match": "chocWave",
+      "image_id": 27331
+    },
+    {
+      "match": "chocMusic",
+      "image_id": 27332
+    },
+    {
+      "match": "chocPickle",
+      "image_id": 27333
+    },
+    {
+      "match": "chocLantern",
+      "image_id": 27334
+    }
+  ]
+}

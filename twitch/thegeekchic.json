@@ -1,1 +1,67 @@
-{"name":"twitch-sub-thegeekchic","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gekBob","image_id":79070},{"match":"gekStap","image_id":96400},{"match":"gekRage","image_id":94099},{"match":"gekWut","image_id":94103},{"match":"gekHype","image_id":94102},{"match":"gekSad","image_id":94101},{"match":"gekHi","image_id":94098},{"match":"gekDerp","image_id":94097},{"match":"gekLove","image_id":94096},{"match":"gekLit","image_id":90733},{"match":"gekTrig","image_id":89778},{"match":"gekGasm","image_id":94500},{"match":"gekPLS","image_id":94328},{"match":"gekOk","image_id":96955},{"match":"gekAyy","image_id":95442}]}
+{
+  "name": "twitch-sub-thegeekchic",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gekBob",
+      "image_id": 79070
+    },
+    {
+      "match": "gekStap",
+      "image_id": 96400
+    },
+    {
+      "match": "gekRage",
+      "image_id": 94099
+    },
+    {
+      "match": "gekWut",
+      "image_id": 94103
+    },
+    {
+      "match": "gekHype",
+      "image_id": 94102
+    },
+    {
+      "match": "gekSad",
+      "image_id": 94101
+    },
+    {
+      "match": "gekDerp",
+      "image_id": 94097
+    },
+    {
+      "match": "gekLove",
+      "image_id": 94096
+    },
+    {
+      "match": "gekLit",
+      "image_id": 90733
+    },
+    {
+      "match": "gekTrig",
+      "image_id": 89778
+    },
+    {
+      "match": "gekGasm",
+      "image_id": 94500
+    },
+    {
+      "match": "gekPLS",
+      "image_id": 94328
+    },
+    {
+      "match": "gekAyy",
+      "image_id": 95442
+    },
+    {
+      "match": "gekHi",
+      "image_id": 112603
+    },
+    {
+      "match": "gekOk",
+      "image_id": 112035
+    }
+  ]
+}

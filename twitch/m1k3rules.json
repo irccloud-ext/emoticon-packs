@@ -1,1 +1,19 @@
-{"name":"twitch-sub-m1k3rules","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sploonShalthis","image_id":66812},{"match":"sploonCheeky","image_id":68403},{"match":"sploonTheLivingRoom","image_id":95762}]}
+{
+  "name": "twitch-sub-m1k3rules",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sploonShalthis",
+      "image_id": 66812
+    },
+    {
+      "match": "sploonCheeky",
+      "image_id": 68403
+    },
+    {
+      "match": "sploonTheLivingRoom",
+      "image_id": 95762
+    }
+  ]
+}

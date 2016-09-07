@@ -1,1 +1,15 @@
-{"name":"twitch-sub-gl_mizu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mizuRage","image_id":91488},{"match":"mizuEvoli","image_id":89066}]}
+{
+  "name": "twitch-sub-gl_mizu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mizuRage",
+      "image_id": 91488
+    },
+    {
+      "match": "mizuEvoli",
+      "image_id": 89066
+    }
+  ]
+}

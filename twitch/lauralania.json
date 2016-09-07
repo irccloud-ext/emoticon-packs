@@ -1,1 +1,31 @@
-{"name":"twitch-sub-lauralania","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lauLoss","image_id":111210},{"match":"lauPoke","image_id":106405},{"match":"lauTato","image_id":110581},{"match":"lauCalc","image_id":109923},{"match":"lauWin","image_id":111334},{"match":"lauWeb","image_id":110875}]}
+{
+  "name": "twitch-sub-lauralania",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lauLoss",
+      "image_id": 111210
+    },
+    {
+      "match": "lauPoke",
+      "image_id": 106405
+    },
+    {
+      "match": "lauTato",
+      "image_id": 110581
+    },
+    {
+      "match": "lauCalc",
+      "image_id": 109923
+    },
+    {
+      "match": "lauWin",
+      "image_id": 111334
+    },
+    {
+      "match": "lauWeb",
+      "image_id": 110875
+    }
+  ]
+}

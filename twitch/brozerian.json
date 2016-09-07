@@ -1,1 +1,39 @@
-{"name":"twitch-sub-brozerian","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"brozFrex","image_id":78751},{"match":"brozFlex","image_id":78750},{"match":"brozGoodman","image_id":78821},{"match":"brozW","image_id":78820},{"match":"brozLUL","image_id":92839},{"match":"brozBigboy","image_id":109313},{"match":"brozShrug","image_id":109311},{"match":"brozHype","image_id":109310}]}
+{
+  "name": "twitch-sub-brozerian",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "brozFrex",
+      "image_id": 78751
+    },
+    {
+      "match": "brozFlex",
+      "image_id": 78750
+    },
+    {
+      "match": "brozGoodman",
+      "image_id": 78821
+    },
+    {
+      "match": "brozW",
+      "image_id": 78820
+    },
+    {
+      "match": "brozLUL",
+      "image_id": 92839
+    },
+    {
+      "match": "brozBigboy",
+      "image_id": 109313
+    },
+    {
+      "match": "brozShrug",
+      "image_id": 109311
+    },
+    {
+      "match": "brozHype",
+      "image_id": 109310
+    }
+  ]
+}

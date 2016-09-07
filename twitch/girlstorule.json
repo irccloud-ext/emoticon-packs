@@ -1,1 +1,47 @@
-{"name":"twitch-sub-girlstorule","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gnbChe","image_id":90957},{"match":"gnbHype","image_id":90779},{"match":"gnbOscar","image_id":90787},{"match":"gnbGG","image_id":90780},{"match":"gnbEX","image_id":90788},{"match":"gnbBan","image_id":90781},{"match":"gnb10","image_id":90782},{"match":"gnbVse","image_id":90783},{"match":"gnbFive","image_id":90784},{"match":"gnbMimimi","image_id":90785}]}
+{
+  "name": "twitch-sub-girlstorule",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gnbChe",
+      "image_id": 90957
+    },
+    {
+      "match": "gnbHype",
+      "image_id": 90779
+    },
+    {
+      "match": "gnbOscar",
+      "image_id": 90787
+    },
+    {
+      "match": "gnbGG",
+      "image_id": 90780
+    },
+    {
+      "match": "gnbEX",
+      "image_id": 90788
+    },
+    {
+      "match": "gnbBan",
+      "image_id": 90781
+    },
+    {
+      "match": "gnb10",
+      "image_id": 90782
+    },
+    {
+      "match": "gnbVse",
+      "image_id": 90783
+    },
+    {
+      "match": "gnbFive",
+      "image_id": 90784
+    },
+    {
+      "match": "gnbMimimi",
+      "image_id": 90785
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "twitch-sub-rohgadioli",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rohgaBoss",
+      "image_id": 112000
+    },
+    {
+      "match": "rohgaCoin",
+      "image_id": 111996
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-thursday__","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"thursyLewdna","image_id":25668},{"match":"thursyLove","image_id":22345},{"match":"thursyHEY","image_id":22556},{"match":"thursyJRPls","image_id":22685},{"match":"thursyMorFeels","image_id":35494},{"match":"thursyAww","image_id":59588},{"match":"thursyKappa","image_id":60405},{"match":"thursyGlod","image_id":60406}]}
+{
+  "name": "twitch-sub-thursday__",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "thursyLewdna",
+      "image_id": 25668
+    },
+    {
+      "match": "thursyLove",
+      "image_id": 22345
+    },
+    {
+      "match": "thursyHEY",
+      "image_id": 22556
+    },
+    {
+      "match": "thursyJRPls",
+      "image_id": 22685
+    },
+    {
+      "match": "thursyMorFeels",
+      "image_id": 35494
+    },
+    {
+      "match": "thursyAww",
+      "image_id": 59588
+    },
+    {
+      "match": "thursyKappa",
+      "image_id": 60405
+    },
+    {
+      "match": "thursyGlod",
+      "image_id": 60406
+    }
+  ]
+}

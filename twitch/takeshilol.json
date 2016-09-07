@@ -1,1 +1,19 @@
-{"name":"twitch-sub-takeshilol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tkshHue","image_id":49819},{"match":"tkshLixera","image_id":41517},{"match":"tkshMessa","image_id":48486}]}
+{
+  "name": "twitch-sub-takeshilol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tkshHue",
+      "image_id": 49819
+    },
+    {
+      "match": "tkshLixera",
+      "image_id": 41517
+    },
+    {
+      "match": "tkshMessa",
+      "image_id": 48486
+    }
+  ]
+}

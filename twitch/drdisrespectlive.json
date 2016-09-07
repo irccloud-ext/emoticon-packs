@@ -1,1 +1,87 @@
-{"name":"twitch-sub-drdisrespectlive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"doctorBUTTON","image_id":101312},{"match":"doctorGOLD","image_id":91081},{"match":"doctorSTARE","image_id":90603},{"match":"doctorNOSEDRIP","image_id":92048},{"match":"doctorBlazer","image_id":92047},{"match":"doctorEMBLEM1","image_id":96078},{"match":"doctorEMBLEM2","image_id":96079},{"match":"doctorEMBLEM3","image_id":96080},{"match":"doctorBANGS","image_id":101478},{"match":"doctorEMBLEM4","image_id":96081},{"match":"doctorWARCRY","image_id":101308},{"match":"doctorSKI","image_id":101480},{"match":"doctorLOCKER","image_id":101311},{"match":"doctorSHOTGUN","image_id":101310},{"match":"doctorSLICKDADDY","image_id":101309}]}
+{
+  "name": "twitch-sub-drdisrespectlive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "doctorBUTTON",
+      "image_id": 101312
+    },
+    {
+      "match": "doctorGOLD",
+      "image_id": 91081
+    },
+    {
+      "match": "doctorSTARE",
+      "image_id": 90603
+    },
+    {
+      "match": "doctorNOSEDRIP",
+      "image_id": 92048
+    },
+    {
+      "match": "doctorBlazer",
+      "image_id": 92047
+    },
+    {
+      "match": "doctorEMBLEM1",
+      "image_id": 96078
+    },
+    {
+      "match": "doctorEMBLEM2",
+      "image_id": 96079
+    },
+    {
+      "match": "doctorEMBLEM3",
+      "image_id": 96080
+    },
+    {
+      "match": "doctorBANGS",
+      "image_id": 101478
+    },
+    {
+      "match": "doctorEMBLEM4",
+      "image_id": 96081
+    },
+    {
+      "match": "doctorWARCRY",
+      "image_id": 101308
+    },
+    {
+      "match": "doctorSKI",
+      "image_id": 101480
+    },
+    {
+      "match": "doctorLOCKER",
+      "image_id": 101311
+    },
+    {
+      "match": "doctorSHOTGUN",
+      "image_id": 101310
+    },
+    {
+      "match": "doctorSLICKDADDY",
+      "image_id": 101309
+    },
+    {
+      "match": "doctorLAMBO",
+      "image_id": 112596
+    },
+    {
+      "match": "doctorTONIC",
+      "image_id": 112595
+    },
+    {
+      "match": "doctorEAGLES2",
+      "image_id": 112594
+    },
+    {
+      "match": "doctorEAGLES",
+      "image_id": 112593
+    },
+    {
+      "match": "doctorBLESS",
+      "image_id": 112592
+    }
+  ]
+}

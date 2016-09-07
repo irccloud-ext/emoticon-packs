@@ -1,1 +1,15 @@
-{"name":"twitch-sub-vgsa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"devo1T","image_id":28814},{"match":"devo11","image_id":28813}]}
+{
+  "name": "twitch-sub-vgsa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "devo1T",
+      "image_id": 28814
+    },
+    {
+      "match": "devo11",
+      "image_id": 28813
+    }
+  ]
+}

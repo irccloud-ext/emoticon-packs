@@ -1,1 +1,23 @@
-{"name":"twitch-sub-feardarkness","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fearFreeToFeed","image_id":12738},{"match":"fearFreeToPlay","image_id":12741},{"match":"fearGASM","image_id":20189},{"match":"fearDoto","image_id":24222}]}
+{
+  "name": "twitch-sub-feardarkness",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fearFreeToFeed",
+      "image_id": 12738
+    },
+    {
+      "match": "fearFreeToPlay",
+      "image_id": 12741
+    },
+    {
+      "match": "fearGASM",
+      "image_id": 20189
+    },
+    {
+      "match": "fearDoto",
+      "image_id": 24222
+    }
+  ]
+}

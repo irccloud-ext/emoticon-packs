@@ -1,1 +1,39 @@
-{"name":"twitch-sub-snowbunny541","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bunnyPalm","image_id":16454},{"match":"bunnyStream","image_id":16455},{"match":"bunnyDonut","image_id":16453},{"match":"bunnyKarma","image_id":20524},{"match":"bunnySub","image_id":20526},{"match":"bunnyFru","image_id":20807},{"match":"bunnyOMG","image_id":50341},{"match":"bunnyRy","image_id":50342}]}
+{
+  "name": "twitch-sub-snowbunny541",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bunnyPalm",
+      "image_id": 16454
+    },
+    {
+      "match": "bunnyStream",
+      "image_id": 16455
+    },
+    {
+      "match": "bunnyDonut",
+      "image_id": 16453
+    },
+    {
+      "match": "bunnyKarma",
+      "image_id": 20524
+    },
+    {
+      "match": "bunnySub",
+      "image_id": 20526
+    },
+    {
+      "match": "bunnyFru",
+      "image_id": 20807
+    },
+    {
+      "match": "bunnyOMG",
+      "image_id": 50341
+    },
+    {
+      "match": "bunnyRy",
+      "image_id": 50342
+    }
+  ]
+}

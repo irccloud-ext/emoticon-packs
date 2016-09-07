@@ -1,1 +1,47 @@
-{"name":"twitch-sub-maddenmastermind","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mastersMyhart","image_id":77025},{"match":"mastersLurk","image_id":40769},{"match":"mastersSmile","image_id":54417},{"match":"mastersMvp","image_id":54744},{"match":"mastersWut","image_id":79168},{"match":"mastersWhip","image_id":77115},{"match":"mastersCam","image_id":77020},{"match":"mastersL","image_id":79013},{"match":"mastersMex","image_id":84511},{"match":"mastersEazy","image_id":84510}]}
+{
+  "name": "twitch-sub-maddenmastermind",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mastersMyhart",
+      "image_id": 77025
+    },
+    {
+      "match": "mastersLurk",
+      "image_id": 40769
+    },
+    {
+      "match": "mastersSmile",
+      "image_id": 54417
+    },
+    {
+      "match": "mastersMvp",
+      "image_id": 54744
+    },
+    {
+      "match": "mastersWut",
+      "image_id": 79168
+    },
+    {
+      "match": "mastersWhip",
+      "image_id": 77115
+    },
+    {
+      "match": "mastersCam",
+      "image_id": 77020
+    },
+    {
+      "match": "mastersL",
+      "image_id": 79013
+    },
+    {
+      "match": "mastersMex",
+      "image_id": 84511
+    },
+    {
+      "match": "mastersEazy",
+      "image_id": 84510
+    }
+  ]
+}

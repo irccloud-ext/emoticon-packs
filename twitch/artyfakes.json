@@ -1,1 +1,31 @@
-{"name":"twitch-sub-artyfakes","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"artyA","image_id":84604},{"match":"artyHi","image_id":84603},{"match":"artyAngryDad","image_id":86077},{"match":"artyBan","image_id":86078},{"match":"artyFacepalm","image_id":89336},{"match":"artyHype","image_id":89337}]}
+{
+  "name": "twitch-sub-artyfakes",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "artyA",
+      "image_id": 84604
+    },
+    {
+      "match": "artyHi",
+      "image_id": 84603
+    },
+    {
+      "match": "artyAngryDad",
+      "image_id": 86077
+    },
+    {
+      "match": "artyBan",
+      "image_id": 86078
+    },
+    {
+      "match": "artyFacepalm",
+      "image_id": 89336
+    },
+    {
+      "match": "artyHype",
+      "image_id": 89337
+    }
+  ]
+}

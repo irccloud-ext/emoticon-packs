@@ -1,1 +1,87 @@
-{"name":"twitch-sub-badnewsbaron","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"badLick","image_id":26248},{"match":"badGood","image_id":77379},{"match":"badFeels","image_id":45982},{"match":"badRaid","image_id":45382},{"match":"badObey","image_id":45383},{"match":"badHype","image_id":102126},{"match":"badFail","image_id":75652},{"match":"badDeal","image_id":73724},{"match":"badBenny","image_id":75158},{"match":"badScience","image_id":75845},{"match":"badHi","image_id":102039},{"match":"badDisco","image_id":102037},{"match":"badGG","image_id":102038},{"match":"badLove","image_id":102040},{"match":"badRage","image_id":102041},{"match":"badRekt","image_id":102042},{"match":"badRIP","image_id":102043},{"match":"badShock","image_id":102044},{"match":"badTouch","image_id":102045},{"match":"badWow","image_id":102046}]}
+{
+  "name": "twitch-sub-badnewsbaron",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "badLick",
+      "image_id": 26248
+    },
+    {
+      "match": "badGood",
+      "image_id": 77379
+    },
+    {
+      "match": "badFeels",
+      "image_id": 45982
+    },
+    {
+      "match": "badRaid",
+      "image_id": 45382
+    },
+    {
+      "match": "badObey",
+      "image_id": 45383
+    },
+    {
+      "match": "badHype",
+      "image_id": 102126
+    },
+    {
+      "match": "badFail",
+      "image_id": 75652
+    },
+    {
+      "match": "badDeal",
+      "image_id": 73724
+    },
+    {
+      "match": "badBenny",
+      "image_id": 75158
+    },
+    {
+      "match": "badScience",
+      "image_id": 75845
+    },
+    {
+      "match": "badHi",
+      "image_id": 102039
+    },
+    {
+      "match": "badDisco",
+      "image_id": 102037
+    },
+    {
+      "match": "badGG",
+      "image_id": 102038
+    },
+    {
+      "match": "badLove",
+      "image_id": 102040
+    },
+    {
+      "match": "badRage",
+      "image_id": 102041
+    },
+    {
+      "match": "badRekt",
+      "image_id": 102042
+    },
+    {
+      "match": "badRIP",
+      "image_id": 102043
+    },
+    {
+      "match": "badShock",
+      "image_id": 102044
+    },
+    {
+      "match": "badTouch",
+      "image_id": 102045
+    },
+    {
+      "match": "badWow",
+      "image_id": 102046
+    }
+  ]
+}

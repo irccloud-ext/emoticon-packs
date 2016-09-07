@@ -1,1 +1,27 @@
-{"name":"twitch-sub-sethbling","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"blingLAAL","image_id":38185},{"match":"blingYEEY","image_id":38186},{"match":"blingRNG","image_id":38364},{"match":"blingHype","image_id":37815},{"match":"blingSalt","image_id":38649}]}
+{
+  "name": "twitch-sub-sethbling",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "blingLAAL",
+      "image_id": 38185
+    },
+    {
+      "match": "blingYEEY",
+      "image_id": 38186
+    },
+    {
+      "match": "blingRNG",
+      "image_id": 38364
+    },
+    {
+      "match": "blingHype",
+      "image_id": 37815
+    },
+    {
+      "match": "blingSalt",
+      "image_id": 38649
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-yaoihandz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yaoiBear","image_id":54633},{"match":"yaoiHYPE","image_id":53980},{"match":"yaoiHen","image_id":56742},{"match":"yaoiKnees","image_id":54124},{"match":"yaoiCut","image_id":54634},{"match":"yaoiOcti","image_id":66621}]}
+{
+  "name": "twitch-sub-yaoihandz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yaoiBear",
+      "image_id": 54633
+    },
+    {
+      "match": "yaoiHYPE",
+      "image_id": 53980
+    },
+    {
+      "match": "yaoiHen",
+      "image_id": 56742
+    },
+    {
+      "match": "yaoiKnees",
+      "image_id": 54124
+    },
+    {
+      "match": "yaoiCut",
+      "image_id": 54634
+    },
+    {
+      "match": "yaoiOcti",
+      "image_id": 66621
+    }
+  ]
+}

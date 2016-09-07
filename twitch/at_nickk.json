@@ -1,1 +1,31 @@
-{"name":"twitch-sub-at_nickk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nickkGG","image_id":96775},{"match":"nickkSalty","image_id":26614},{"match":"nickkRekt","image_id":62083},{"match":"nickkWaT","image_id":41085},{"match":"nickkWOO","image_id":76186},{"match":"nickkHype","image_id":97045}]}
+{
+  "name": "twitch-sub-at_nickk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nickkGG",
+      "image_id": 96775
+    },
+    {
+      "match": "nickkSalty",
+      "image_id": 26614
+    },
+    {
+      "match": "nickkRekt",
+      "image_id": 62083
+    },
+    {
+      "match": "nickkWaT",
+      "image_id": 41085
+    },
+    {
+      "match": "nickkWOO",
+      "image_id": 76186
+    },
+    {
+      "match": "nickkHype",
+      "image_id": 97045
+    }
+  ]
+}

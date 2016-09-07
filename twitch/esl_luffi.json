@@ -1,1 +1,31 @@
-{"name":"twitch-sub-esl_luffi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"luffiVitingi","image_id":61953},{"match":"luffiBombit","image_id":61968},{"match":"luffiLuffiswag","image_id":69106},{"match":"luffiGGWPDELETE","image_id":69107},{"match":"luffiHate","image_id":73348},{"match":"luffiBang","image_id":73347}]}
+{
+  "name": "twitch-sub-esl_luffi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "luffiVitingi",
+      "image_id": 61953
+    },
+    {
+      "match": "luffiBombit",
+      "image_id": 61968
+    },
+    {
+      "match": "luffiLuffiswag",
+      "image_id": 69106
+    },
+    {
+      "match": "luffiGGWPDELETE",
+      "image_id": 69107
+    },
+    {
+      "match": "luffiHate",
+      "image_id": 73348
+    },
+    {
+      "match": "luffiBang",
+      "image_id": 73347
+    }
+  ]
+}

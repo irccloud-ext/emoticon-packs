@@ -1,1 +1,23 @@
-{"name":"twitch-sub-arenafigueiredo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"figueiraDoto","image_id":3353},{"match":"figueiraVoid","image_id":24085},{"match":"figueiraOuro","image_id":37334},{"match":"figueiraDelicia","image_id":46880}]}
+{
+  "name": "twitch-sub-arenafigueiredo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "figueiraDoto",
+      "image_id": 3353
+    },
+    {
+      "match": "figueiraVoid",
+      "image_id": 24085
+    },
+    {
+      "match": "figueiraOuro",
+      "image_id": 37334
+    },
+    {
+      "match": "figueiraDelicia",
+      "image_id": 46880
+    }
+  ]
+}

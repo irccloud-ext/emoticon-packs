@@ -1,1 +1,31 @@
-{"name":"twitch-sub-affinitiibl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"affHandsUp","image_id":248},{"match":"affFaceTime","image_id":865},{"match":"affMadNerd","image_id":866},{"match":"affAffiniDad","image_id":920},{"match":"affAffiniCat","image_id":921},{"match":"affMowDown","image_id":922}]}
+{
+  "name": "twitch-sub-affinitiibl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "affHandsUp",
+      "image_id": 248
+    },
+    {
+      "match": "affFaceTime",
+      "image_id": 865
+    },
+    {
+      "match": "affMadNerd",
+      "image_id": 866
+    },
+    {
+      "match": "affAffiniDad",
+      "image_id": 920
+    },
+    {
+      "match": "affAffiniCat",
+      "image_id": 921
+    },
+    {
+      "match": "affMowDown",
+      "image_id": 922
+    }
+  ]
+}

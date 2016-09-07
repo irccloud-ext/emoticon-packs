@@ -1,1 +1,15 @@
-{"name":"twitch-sub-l1k3r_1337","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lkrMLP","image_id":91182},{"match":"lkrUA","image_id":91181}]}
+{
+  "name": "twitch-sub-l1k3r_1337",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lkrMLP",
+      "image_id": 91182
+    },
+    {
+      "match": "lkrUA",
+      "image_id": 91181
+    }
+  ]
+}

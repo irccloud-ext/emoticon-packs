@@ -1,1 +1,23 @@
-{"name":"twitch-sub-deathbringerrage","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"deathKappa","image_id":28547},{"match":"deathHuerata","image_id":28670},{"match":"deathGG","image_id":36863},{"match":"deathNotbad","image_id":36322}]}
+{
+  "name": "twitch-sub-deathbringerrage",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "deathKappa",
+      "image_id": 28547
+    },
+    {
+      "match": "deathHuerata",
+      "image_id": 28670
+    },
+    {
+      "match": "deathGG",
+      "image_id": 36863
+    },
+    {
+      "match": "deathNotbad",
+      "image_id": 36322
+    }
+  ]
+}

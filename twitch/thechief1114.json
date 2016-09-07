@@ -1,1 +1,67 @@
-{"name":"twitch-sub-thechief1114","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"thechiefHead","image_id":10274},{"match":"thechiefKappa","image_id":20163},{"match":"thechiefRage","image_id":33142},{"match":"thechiefHype","image_id":27233},{"match":"thechiefRip","image_id":26794},{"match":"thechiefRekt","image_id":27739},{"match":"thechiefLove","image_id":31253},{"match":"thechiefCry","image_id":31026},{"match":"thechiefFacepalm","image_id":33254},{"match":"thechiefBBC","image_id":33835},{"match":"thechiefCash","image_id":34106},{"match":"thechiefWife","image_id":35892},{"match":"thechiefDerp","image_id":36227},{"match":"thechiefGasm","image_id":82032},{"match":"thechiefLee","image_id":82242}]}
+{
+  "name": "twitch-sub-thechief1114",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "thechiefHead",
+      "image_id": 10274
+    },
+    {
+      "match": "thechiefKappa",
+      "image_id": 20163
+    },
+    {
+      "match": "thechiefRage",
+      "image_id": 33142
+    },
+    {
+      "match": "thechiefHype",
+      "image_id": 27233
+    },
+    {
+      "match": "thechiefRip",
+      "image_id": 26794
+    },
+    {
+      "match": "thechiefRekt",
+      "image_id": 27739
+    },
+    {
+      "match": "thechiefLove",
+      "image_id": 31253
+    },
+    {
+      "match": "thechiefCry",
+      "image_id": 31026
+    },
+    {
+      "match": "thechiefFacepalm",
+      "image_id": 33254
+    },
+    {
+      "match": "thechiefBBC",
+      "image_id": 33835
+    },
+    {
+      "match": "thechiefCash",
+      "image_id": 34106
+    },
+    {
+      "match": "thechiefWife",
+      "image_id": 35892
+    },
+    {
+      "match": "thechiefDerp",
+      "image_id": 36227
+    },
+    {
+      "match": "thechiefGasm",
+      "image_id": 82032
+    },
+    {
+      "match": "thechiefLee",
+      "image_id": 82242
+    }
+  ]
+}

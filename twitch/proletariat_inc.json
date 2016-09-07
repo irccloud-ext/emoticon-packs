@@ -1,1 +1,23 @@
-{"name":"twitch-sub-proletariat_inc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"prolBingbong","image_id":69619},{"match":"prolCoins","image_id":102782},{"match":"prolRekt","image_id":102783},{"match":"prolHi","image_id":102784}]}
+{
+  "name": "twitch-sub-proletariat_inc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "prolBingbong",
+      "image_id": 69619
+    },
+    {
+      "match": "prolCoins",
+      "image_id": 102782
+    },
+    {
+      "match": "prolRekt",
+      "image_id": 102783
+    },
+    {
+      "match": "prolHi",
+      "image_id": 102784
+    }
+  ]
+}

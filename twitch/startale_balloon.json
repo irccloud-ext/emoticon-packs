@@ -1,1 +1,31 @@
-{"name":"twitch-sub-startale_balloon","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"balloonOvation","image_id":12032},{"match":"balloonTeam","image_id":12071},{"match":"balloonIcecream","image_id":12205},{"match":"balloonGg","image_id":12204},{"match":"balloonOp","image_id":14110},{"match":"balloonFace","image_id":14108}]}
+{
+  "name": "twitch-sub-startale_balloon",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "balloonOvation",
+      "image_id": 12032
+    },
+    {
+      "match": "balloonTeam",
+      "image_id": 12071
+    },
+    {
+      "match": "balloonIcecream",
+      "image_id": 12205
+    },
+    {
+      "match": "balloonGg",
+      "image_id": 12204
+    },
+    {
+      "match": "balloonOp",
+      "image_id": 14110
+    },
+    {
+      "match": "balloonFace",
+      "image_id": 14108
+    }
+  ]
+}

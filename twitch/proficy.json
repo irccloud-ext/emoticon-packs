@@ -1,1 +1,19 @@
-{"name":"twitch-sub-proficy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"proficyTHUMB","image_id":23657},{"match":"proficyTROLL","image_id":18328},{"match":"proficyGG","image_id":19247}]}
+{
+  "name": "twitch-sub-proficy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "proficyTHUMB",
+      "image_id": 23657
+    },
+    {
+      "match": "proficyTROLL",
+      "image_id": 18328
+    },
+    {
+      "match": "proficyGG",
+      "image_id": 19247
+    }
+  ]
+}

@@ -1,1 +1,43 @@
-{"name":"twitch-sub-fooya","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fooyaFERRET","image_id":87221},{"match":"fooyaOMG","image_id":87324},{"match":"fooyaBOOYAH","image_id":87321},{"match":"fooyaPOG","image_id":87340},{"match":"fooyaSHREKT","image_id":87338},{"match":"fooyaSUB","image_id":87011},{"match":"fooyaW","image_id":91307},{"match":"fooyaGABEN","image_id":95120}]}
+{
+  "name": "twitch-sub-fooya",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fooyaFERRET",
+      "image_id": 87221
+    },
+    {
+      "match": "fooyaOMG",
+      "image_id": 87324
+    },
+    {
+      "match": "fooyaBOOYAH",
+      "image_id": 87321
+    },
+    {
+      "match": "fooyaPOG",
+      "image_id": 87340
+    },
+    {
+      "match": "fooyaSHREKT",
+      "image_id": 87338
+    },
+    {
+      "match": "fooyaSUB",
+      "image_id": 87011
+    },
+    {
+      "match": "fooyaW",
+      "image_id": 91307
+    },
+    {
+      "match": "fooyaLOVE",
+      "image_id": 112184
+    },
+    {
+      "match": "fooyaHAND",
+      "image_id": 112194
+    }
+  ]
+}

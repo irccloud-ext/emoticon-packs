@@ -1,1 +1,15 @@
-{"name":"twitch-sub-raphaellevy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"levyRing","image_id":10553},{"match":"levyFace","image_id":10554}]}
+{
+  "name": "twitch-sub-raphaellevy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "levyRing",
+      "image_id": 10553
+    },
+    {
+      "match": "levyFace",
+      "image_id": 10554
+    }
+  ]
+}

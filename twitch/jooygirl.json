@@ -1,1 +1,39 @@
-{"name":"twitch-sub-jooygirl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jooyBOOP","image_id":37005},{"match":"jooyLEWD","image_id":37006},{"match":"jooyBONK","image_id":37007},{"match":"jooyLOVE","image_id":37009},{"match":"jooyNOMS","image_id":37010},{"match":"jooyPOOF","image_id":37011},{"match":"jooyRAGE","image_id":37012},{"match":"jooySHINY","image_id":37013}]}
+{
+  "name": "twitch-sub-jooygirl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jooyBOOP",
+      "image_id": 37005
+    },
+    {
+      "match": "jooyLEWD",
+      "image_id": 37006
+    },
+    {
+      "match": "jooyBONK",
+      "image_id": 37007
+    },
+    {
+      "match": "jooyLOVE",
+      "image_id": 37009
+    },
+    {
+      "match": "jooyNOMS",
+      "image_id": 37010
+    },
+    {
+      "match": "jooyPOOF",
+      "image_id": 37011
+    },
+    {
+      "match": "jooyRAGE",
+      "image_id": 37012
+    },
+    {
+      "match": "jooySHINY",
+      "image_id": 37013
+    }
+  ]
+}

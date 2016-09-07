@@ -1,1 +1,31 @@
-{"name":"twitch-sub-extraftw","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tcvJuked","image_id":11822},{"match":"tcvFtwface","image_id":11824},{"match":"tcvD","image_id":12769},{"match":"tcvWipeclan","image_id":11907},{"match":"tcvFtwclub","image_id":12768},{"match":"tcvRekt","image_id":22927}]}
+{
+  "name": "twitch-sub-extraftw",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tcvJuked",
+      "image_id": 11822
+    },
+    {
+      "match": "tcvFtwface",
+      "image_id": 11824
+    },
+    {
+      "match": "tcvD",
+      "image_id": 12769
+    },
+    {
+      "match": "tcvWipeclan",
+      "image_id": 11907
+    },
+    {
+      "match": "tcvFtwclub",
+      "image_id": 12768
+    },
+    {
+      "match": "tcvRekt",
+      "image_id": 22927
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-kiyeberries","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kiyeIGN","image_id":54834},{"match":"kiyeGasp","image_id":41779},{"match":"kiyeClaw","image_id":39045},{"match":"kiyeThump","image_id":39715},{"match":"kiyePraise","image_id":39824},{"match":"kiyeDog","image_id":82819}]}
+{
+  "name": "twitch-sub-kiyeberries",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kiyeIGN",
+      "image_id": 54834
+    },
+    {
+      "match": "kiyeGasp",
+      "image_id": 41779
+    },
+    {
+      "match": "kiyeClaw",
+      "image_id": 39045
+    },
+    {
+      "match": "kiyeThump",
+      "image_id": 39715
+    },
+    {
+      "match": "kiyePraise",
+      "image_id": 39824
+    },
+    {
+      "match": "kiyeDog",
+      "image_id": 82819
+    }
+  ]
+}

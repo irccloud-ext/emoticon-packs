@@ -1,1 +1,31 @@
-{"name":"twitch-sub-thatdcoop","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dcoopSHOCK","image_id":40905},{"match":"dcoopOBJ","image_id":40904},{"match":"dcoopMusic","image_id":42059},{"match":"dcoopTurnup","image_id":42060},{"match":"dcoopSubhype","image_id":41310},{"match":"dcoopPick","image_id":41309}]}
+{
+  "name": "twitch-sub-thatdcoop",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dcoopSHOCK",
+      "image_id": 40905
+    },
+    {
+      "match": "dcoopOBJ",
+      "image_id": 40904
+    },
+    {
+      "match": "dcoopMusic",
+      "image_id": 42059
+    },
+    {
+      "match": "dcoopTurnup",
+      "image_id": 42060
+    },
+    {
+      "match": "dcoopSubhype",
+      "image_id": 41310
+    },
+    {
+      "match": "dcoopPick",
+      "image_id": 41309
+    }
+  ]
+}

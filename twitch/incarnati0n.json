@@ -1,1 +1,31 @@
-{"name":"twitch-sub-incarnati0n","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jensenW","image_id":70830},{"match":"jensenWorryingTrend","image_id":70833},{"match":"jensenCreep","image_id":70834},{"match":"jensenToxin","image_id":70835},{"match":"jensenBoosted","image_id":89453},{"match":"jensenFools","image_id":89454}]}
+{
+  "name": "twitch-sub-incarnati0n",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jensenW",
+      "image_id": 70830
+    },
+    {
+      "match": "jensenWorryingTrend",
+      "image_id": 70833
+    },
+    {
+      "match": "jensenCreep",
+      "image_id": 70834
+    },
+    {
+      "match": "jensenToxin",
+      "image_id": 70835
+    },
+    {
+      "match": "jensenBoosted",
+      "image_id": 89453
+    },
+    {
+      "match": "jensenFools",
+      "image_id": 89454
+    }
+  ]
+}

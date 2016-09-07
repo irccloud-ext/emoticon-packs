@@ -1,1 +1,23 @@
-{"name":"twitch-sub-dupladedoiss2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"duplaSTT","image_id":65211},{"match":"duplaSTOMPA","image_id":74216},{"match":"duplaNETENHO","image_id":74217},{"match":"duplaTIME","image_id":74219}]}
+{
+  "name": "twitch-sub-dupladedoiss2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "duplaSTT",
+      "image_id": 65211
+    },
+    {
+      "match": "duplaSTOMPA",
+      "image_id": 74216
+    },
+    {
+      "match": "duplaNETENHO",
+      "image_id": 74217
+    },
+    {
+      "match": "duplaTIME",
+      "image_id": 74219
+    }
+  ]
+}

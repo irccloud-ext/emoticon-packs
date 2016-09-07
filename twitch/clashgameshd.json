@@ -1,1 +1,15 @@
-{"name":"twitch-sub-clashgameshd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"clashiOHA","image_id":102349},{"match":"clashiWOW","image_id":102340}]}
+{
+  "name": "twitch-sub-clashgameshd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "clashiOHA",
+      "image_id": 102349
+    },
+    {
+      "match": "clashiWOW",
+      "image_id": 102340
+    }
+  ]
+}

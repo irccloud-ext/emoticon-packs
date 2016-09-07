@@ -1,1 +1,39 @@
-{"name":"twitch-sub-almightysavo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"savo2J","image_id":97610},{"match":"savoGF","image_id":69431},{"match":"savoFIRE","image_id":70269},{"match":"savoFACE","image_id":67456},{"match":"savoWLCM","image_id":67459},{"match":"savoRAIN","image_id":68332},{"match":"savoSAVO","image_id":67730},{"match":"savoBB","image_id":74885}]}
+{
+  "name": "twitch-sub-almightysavo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "savo2J",
+      "image_id": 97610
+    },
+    {
+      "match": "savoGF",
+      "image_id": 69431
+    },
+    {
+      "match": "savoFIRE",
+      "image_id": 70269
+    },
+    {
+      "match": "savoFACE",
+      "image_id": 67456
+    },
+    {
+      "match": "savoWLCM",
+      "image_id": 67459
+    },
+    {
+      "match": "savoRAIN",
+      "image_id": 68332
+    },
+    {
+      "match": "savoSAVO",
+      "image_id": 67730
+    },
+    {
+      "match": "savoBB",
+      "image_id": 74885
+    }
+  ]
+}

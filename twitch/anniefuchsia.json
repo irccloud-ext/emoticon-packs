@@ -1,1 +1,47 @@
-{"name":"twitch-sub-anniefuchsia","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"anniesH","image_id":33224},{"match":"anniesRage","image_id":96565},{"match":"anniesHi","image_id":96561},{"match":"anniesL","image_id":96563},{"match":"anniesW","image_id":73140},{"match":"anniesFF","image_id":72559},{"match":"anniesBaby","image_id":83167},{"match":"anniesGun","image_id":87649},{"match":"anniesHype","image_id":105962},{"match":"anniesBob","image_id":108491}]}
+{
+  "name": "twitch-sub-anniefuchsia",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "anniesH",
+      "image_id": 33224
+    },
+    {
+      "match": "anniesRage",
+      "image_id": 96565
+    },
+    {
+      "match": "anniesHi",
+      "image_id": 96561
+    },
+    {
+      "match": "anniesL",
+      "image_id": 96563
+    },
+    {
+      "match": "anniesW",
+      "image_id": 73140
+    },
+    {
+      "match": "anniesFF",
+      "image_id": 72559
+    },
+    {
+      "match": "anniesBaby",
+      "image_id": 83167
+    },
+    {
+      "match": "anniesGun",
+      "image_id": 87649
+    },
+    {
+      "match": "anniesHype",
+      "image_id": 105962
+    },
+    {
+      "match": "anniesBob",
+      "image_id": 108491
+    }
+  ]
+}

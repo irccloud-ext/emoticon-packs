@@ -1,1 +1,39 @@
-{"name":"twitch-sub-poseidon1990","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fettSAVAGE","image_id":105395},{"match":"fettRASUR","image_id":103198},{"match":"fettFETT","image_id":103194},{"match":"fettLOOT","image_id":103193},{"match":"fettSCHANDE","image_id":103192},{"match":"fettHYPE","image_id":103188},{"match":"fettOMG","image_id":103187},{"match":"fettEXO","image_id":105511}]}
+{
+  "name": "twitch-sub-poseidon1990",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fettSAVAGE",
+      "image_id": 105395
+    },
+    {
+      "match": "fettRASUR",
+      "image_id": 103198
+    },
+    {
+      "match": "fettFETT",
+      "image_id": 103194
+    },
+    {
+      "match": "fettLOOT",
+      "image_id": 103193
+    },
+    {
+      "match": "fettSCHANDE",
+      "image_id": 103192
+    },
+    {
+      "match": "fettHYPE",
+      "image_id": 103188
+    },
+    {
+      "match": "fettOMG",
+      "image_id": 103187
+    },
+    {
+      "match": "fettEXO",
+      "image_id": 105511
+    }
+  ]
+}

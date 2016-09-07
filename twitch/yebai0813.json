@@ -1,1 +1,39 @@
-{"name":"twitch-sub-yebai0813","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yebaiH","image_id":99585},{"match":"yebaiSong","image_id":99586},{"match":"yebaiM","image_id":99589},{"match":"yebaiBoom","image_id":99587},{"match":"yebaiGan","image_id":99588},{"match":"yebaiC","image_id":99590},{"match":"yebaiQQ","image_id":99306},{"match":"yebaiBB","image_id":99307}]}
+{
+  "name": "twitch-sub-yebai0813",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yebaiH",
+      "image_id": 99585
+    },
+    {
+      "match": "yebaiSong",
+      "image_id": 99586
+    },
+    {
+      "match": "yebaiM",
+      "image_id": 99589
+    },
+    {
+      "match": "yebaiBoom",
+      "image_id": 99587
+    },
+    {
+      "match": "yebaiGan",
+      "image_id": 99588
+    },
+    {
+      "match": "yebaiC",
+      "image_id": 99590
+    },
+    {
+      "match": "yebaiQQ",
+      "image_id": 99306
+    },
+    {
+      "match": "yebaiBB",
+      "image_id": 99307
+    }
+  ]
+}

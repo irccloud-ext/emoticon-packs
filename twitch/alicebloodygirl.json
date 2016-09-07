@@ -1,1 +1,19 @@
-{"name":"twitch-sub-alicebloodygirl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"abgHeadphone","image_id":27262},{"match":"abgTrollface","image_id":26729},{"match":"abgLove","image_id":27880}]}
+{
+  "name": "twitch-sub-alicebloodygirl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "abgHeadphone",
+      "image_id": 27262
+    },
+    {
+      "match": "abgTrollface",
+      "image_id": 26729
+    },
+    {
+      "match": "abgLove",
+      "image_id": 27880
+    }
+  ]
+}

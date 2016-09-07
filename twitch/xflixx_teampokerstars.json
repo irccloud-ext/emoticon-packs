@@ -1,1 +1,47 @@
-{"name":"twitch-sub-xflixx_teampokerstars","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"giuDollar","image_id":101266},{"match":"giuHold","image_id":48983},{"match":"giuCall","image_id":102965},{"match":"giuKappa","image_id":83015},{"match":"giuLove","image_id":83016},{"match":"giuBud","image_id":102990},{"match":"giuSQZ","image_id":101133},{"match":"giuCat","image_id":103323},{"match":"giuWONT","image_id":101193},{"match":"giuRage","image_id":109744}]}
+{
+  "name": "twitch-sub-xflixx_teampokerstars",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "giuDollar",
+      "image_id": 101266
+    },
+    {
+      "match": "giuHold",
+      "image_id": 48983
+    },
+    {
+      "match": "giuCall",
+      "image_id": 102965
+    },
+    {
+      "match": "giuKappa",
+      "image_id": 83015
+    },
+    {
+      "match": "giuLove",
+      "image_id": 83016
+    },
+    {
+      "match": "giuBud",
+      "image_id": 102990
+    },
+    {
+      "match": "giuSQZ",
+      "image_id": 101133
+    },
+    {
+      "match": "giuCat",
+      "image_id": 103323
+    },
+    {
+      "match": "giuWONT",
+      "image_id": 101193
+    },
+    {
+      "match": "giuRage",
+      "image_id": 109744
+    }
+  ]
+}

@@ -1,1 +1,151 @@
-{"name":"twitch-sub-izakooo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"izakFace","image_id":8015},{"match":"izakNerd","image_id":8016},{"match":"izakDzik","image_id":7977},{"match":"izakPaulinka","image_id":8620},{"match":"izakAce","image_id":9775},{"match":"izak210","image_id":9776},{"match":"izak5","image_id":12889},{"match":"izakKappa","image_id":12664},{"match":"izakKosa","image_id":55510},{"match":"izakSzok","image_id":55508},{"match":"izakDDOS","image_id":24639},{"match":"izakSuchar","image_id":29717},{"match":"izakWarzywo","image_id":65539},{"match":"izakFail","image_id":24950},{"match":"izakTerro","image_id":26514},{"match":"izakRage","image_id":29490},{"match":"izakHype","image_id":29571},{"match":"izakSniper","image_id":32256},{"match":"izakOpen","image_id":34983},{"match":"izakGrotto","image_id":38258},{"match":"izakVAC","image_id":55329},{"match":"izakBieni","image_id":39854},{"match":"izakPoro","image_id":39853},{"match":"izakOverwatch","image_id":39852},{"match":"izakDance","image_id":74041},{"match":"izakPijak","image_id":74039},{"match":"izakCarry","image_id":74038},{"match":"izakFullauto","image_id":74035},{"match":"izakBestpot","image_id":74014},{"match":"izakKrzeslo","image_id":44418},{"match":"izakRIP","image_id":72925},{"match":"izak019","image_id":65348},{"match":"izakDeag","image_id":72926},{"match":"izakClutch","image_id":72933},{"match":"izakKobe","image_id":92799},{"match":"izakGG","image_id":94421}]}
+{
+  "name": "twitch-sub-izakooo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "izakFace",
+      "image_id": 8015
+    },
+    {
+      "match": "izakNerd",
+      "image_id": 8016
+    },
+    {
+      "match": "izakDzik",
+      "image_id": 7977
+    },
+    {
+      "match": "izakPaulinka",
+      "image_id": 8620
+    },
+    {
+      "match": "izakAce",
+      "image_id": 9775
+    },
+    {
+      "match": "izak210",
+      "image_id": 9776
+    },
+    {
+      "match": "izak5",
+      "image_id": 12889
+    },
+    {
+      "match": "izakKappa",
+      "image_id": 12664
+    },
+    {
+      "match": "izakKosa",
+      "image_id": 55510
+    },
+    {
+      "match": "izakSzok",
+      "image_id": 55508
+    },
+    {
+      "match": "izakDDOS",
+      "image_id": 24639
+    },
+    {
+      "match": "izakSuchar",
+      "image_id": 29717
+    },
+    {
+      "match": "izakWarzywo",
+      "image_id": 65539
+    },
+    {
+      "match": "izakFail",
+      "image_id": 24950
+    },
+    {
+      "match": "izakTerro",
+      "image_id": 26514
+    },
+    {
+      "match": "izakRage",
+      "image_id": 29490
+    },
+    {
+      "match": "izakHype",
+      "image_id": 29571
+    },
+    {
+      "match": "izakSniper",
+      "image_id": 32256
+    },
+    {
+      "match": "izakOpen",
+      "image_id": 34983
+    },
+    {
+      "match": "izakGrotto",
+      "image_id": 38258
+    },
+    {
+      "match": "izakVAC",
+      "image_id": 55329
+    },
+    {
+      "match": "izakBieni",
+      "image_id": 39854
+    },
+    {
+      "match": "izakPoro",
+      "image_id": 39853
+    },
+    {
+      "match": "izakOverwatch",
+      "image_id": 39852
+    },
+    {
+      "match": "izakDance",
+      "image_id": 74041
+    },
+    {
+      "match": "izakPijak",
+      "image_id": 74039
+    },
+    {
+      "match": "izakCarry",
+      "image_id": 74038
+    },
+    {
+      "match": "izakFullauto",
+      "image_id": 74035
+    },
+    {
+      "match": "izakBestpot",
+      "image_id": 74014
+    },
+    {
+      "match": "izakKrzeslo",
+      "image_id": 44418
+    },
+    {
+      "match": "izakRIP",
+      "image_id": 72925
+    },
+    {
+      "match": "izak019",
+      "image_id": 65348
+    },
+    {
+      "match": "izakDeag",
+      "image_id": 72926
+    },
+    {
+      "match": "izakClutch",
+      "image_id": 72933
+    },
+    {
+      "match": "izakKobe",
+      "image_id": 92799
+    },
+    {
+      "match": "izakGG",
+      "image_id": 94421
+    }
+  ]
+}

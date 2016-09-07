@@ -1,1 +1,31 @@
-{"name":"twitch-sub-trizze","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"trizzeXD","image_id":109248},{"match":"trizzeRage","image_id":98581},{"match":"trizzePiano","image_id":96592},{"match":"trizzeFeels","image_id":95580},{"match":"trizzeC","image_id":95589},{"match":"trizzeHiYo","image_id":98785}]}
+{
+  "name": "twitch-sub-trizze",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "trizzeXD",
+      "image_id": 109248
+    },
+    {
+      "match": "trizzeRage",
+      "image_id": 98581
+    },
+    {
+      "match": "trizzePiano",
+      "image_id": 96592
+    },
+    {
+      "match": "trizzeFeels",
+      "image_id": 95580
+    },
+    {
+      "match": "trizzeC",
+      "image_id": 95589
+    },
+    {
+      "match": "trizzeHiYo",
+      "image_id": 98785
+    }
+  ]
+}

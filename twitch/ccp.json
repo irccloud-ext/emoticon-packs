@@ -1,1 +1,35 @@
-{"name":"twitch-sub-ccp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ccpDealWithIt","image_id":26430},{"match":"ccpPewPew","image_id":26431},{"match":"ccpO7","image_id":26432},{"match":"ccpConcordGuy","image_id":26433},{"match":"ccpSirGuard","image_id":26434},{"match":"ccpAura","image_id":26435},{"match":"ccpRise","image_id":26436}]}
+{
+  "name": "twitch-sub-ccp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ccpDealWithIt",
+      "image_id": 26430
+    },
+    {
+      "match": "ccpPewPew",
+      "image_id": 26431
+    },
+    {
+      "match": "ccpO7",
+      "image_id": 26432
+    },
+    {
+      "match": "ccpConcordGuy",
+      "image_id": 26433
+    },
+    {
+      "match": "ccpSirGuard",
+      "image_id": 26434
+    },
+    {
+      "match": "ccpAura",
+      "image_id": 26435
+    },
+    {
+      "match": "ccpRise",
+      "image_id": 26436
+    }
+  ]
+}

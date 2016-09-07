@@ -1,1 +1,39 @@
-{"name":"twitch-sub-tomvalt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"valtMuna","image_id":28766},{"match":"valtMlg","image_id":28450},{"match":"valtWadap","image_id":28449},{"match":"valtSepi","image_id":28789},{"match":"valtRip","image_id":30042},{"match":"valtHYPE","image_id":30087},{"match":"valtLove","image_id":30088},{"match":"valtFlip","image_id":29630}]}
+{
+  "name": "twitch-sub-tomvalt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "valtMuna",
+      "image_id": 28766
+    },
+    {
+      "match": "valtMlg",
+      "image_id": 28450
+    },
+    {
+      "match": "valtWadap",
+      "image_id": 28449
+    },
+    {
+      "match": "valtSepi",
+      "image_id": 28789
+    },
+    {
+      "match": "valtRip",
+      "image_id": 30042
+    },
+    {
+      "match": "valtHYPE",
+      "image_id": 30087
+    },
+    {
+      "match": "valtLove",
+      "image_id": 30088
+    },
+    {
+      "match": "valtFlip",
+      "image_id": 29630
+    }
+  ]
+}

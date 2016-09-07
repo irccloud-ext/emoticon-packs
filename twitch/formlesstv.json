@@ -1,1 +1,23 @@
-{"name":"twitch-sub-formlesstv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"formlessNuke","image_id":2693},{"match":"formlessRekt","image_id":51954},{"match":"formlessHorse","image_id":51949},{"match":"formlessHype","image_id":53125}]}
+{
+  "name": "twitch-sub-formlesstv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "formlessNuke",
+      "image_id": 2693
+    },
+    {
+      "match": "formlessRekt",
+      "image_id": 51954
+    },
+    {
+      "match": "formlessHorse",
+      "image_id": 51949
+    },
+    {
+      "match": "formlessHype",
+      "image_id": 53125
+    }
+  ]
+}

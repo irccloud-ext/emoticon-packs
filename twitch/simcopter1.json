@@ -1,1 +1,67 @@
-{"name":"twitch-sub-simcopter1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"simCheese","image_id":79945},{"match":"simLOL","image_id":103758},{"match":"simGee","image_id":48197},{"match":"simWave","image_id":48612},{"match":"simLove","image_id":70527},{"match":"simVIP","image_id":87267},{"match":"simFoilCat","image_id":80541},{"match":"simPray","image_id":103755},{"match":"simBroken","image_id":99403},{"match":"simCringe","image_id":99100},{"match":"simItar","image_id":106870},{"match":"simDad","image_id":106868},{"match":"simGrin","image_id":106919},{"match":"simAG","image_id":106867},{"match":"simShield","image_id":107083}]}
+{
+  "name": "twitch-sub-simcopter1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "simCheese",
+      "image_id": 79945
+    },
+    {
+      "match": "simLOL",
+      "image_id": 103758
+    },
+    {
+      "match": "simGee",
+      "image_id": 48197
+    },
+    {
+      "match": "simWave",
+      "image_id": 48612
+    },
+    {
+      "match": "simLove",
+      "image_id": 70527
+    },
+    {
+      "match": "simVIP",
+      "image_id": 87267
+    },
+    {
+      "match": "simFoilCat",
+      "image_id": 80541
+    },
+    {
+      "match": "simPray",
+      "image_id": 103755
+    },
+    {
+      "match": "simBroken",
+      "image_id": 99403
+    },
+    {
+      "match": "simCringe",
+      "image_id": 99100
+    },
+    {
+      "match": "simItar",
+      "image_id": 106870
+    },
+    {
+      "match": "simDad",
+      "image_id": 106868
+    },
+    {
+      "match": "simGrin",
+      "image_id": 106919
+    },
+    {
+      "match": "simAG",
+      "image_id": 106867
+    },
+    {
+      "match": "simShield",
+      "image_id": 107083
+    }
+  ]
+}

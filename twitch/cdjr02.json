@@ -1,1 +1,23 @@
-{"name":"twitch-sub-cdjr02","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cdjrJUMP","image_id":42073},{"match":"cdjrFootsies","image_id":42074},{"match":"cdjrMAXTER","image_id":41560},{"match":"cdjrAUL","image_id":63867}]}
+{
+  "name": "twitch-sub-cdjr02",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cdjrJUMP",
+      "image_id": 42073
+    },
+    {
+      "match": "cdjrFootsies",
+      "image_id": 42074
+    },
+    {
+      "match": "cdjrMAXTER",
+      "image_id": 41560
+    },
+    {
+      "match": "cdjrAUL",
+      "image_id": 63867
+    }
+  ]
+}

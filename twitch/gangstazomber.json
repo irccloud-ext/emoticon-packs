@@ -1,1 +1,11 @@
-{"name":"twitch-sub-gangstazomber","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"char0011","image_id":54246}]}
+{
+  "name": "twitch-sub-gangstazomber",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "char0011",
+      "image_id": 54246
+    }
+  ]
+}

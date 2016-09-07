@@ -1,1 +1,39 @@
-{"name":"twitch-sub-paoloidolo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"grabSanto","image_id":73503},{"match":"grabDritto","image_id":40408},{"match":"grabVbb","image_id":45223},{"match":"grabRekt","image_id":73611},{"match":"grabDegod","image_id":73325},{"match":"grab22","image_id":73326},{"match":"grabWut","image_id":84503},{"match":"grabNdonio","image_id":88544}]}
+{
+  "name": "twitch-sub-paoloidolo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "grabSanto",
+      "image_id": 73503
+    },
+    {
+      "match": "grabDritto",
+      "image_id": 40408
+    },
+    {
+      "match": "grabVbb",
+      "image_id": 45223
+    },
+    {
+      "match": "grabRekt",
+      "image_id": 73611
+    },
+    {
+      "match": "grabDegod",
+      "image_id": 73325
+    },
+    {
+      "match": "grab22",
+      "image_id": 73326
+    },
+    {
+      "match": "grabWut",
+      "image_id": 84503
+    },
+    {
+      "match": "grabNdonio",
+      "image_id": 88544
+    }
+  ]
+}

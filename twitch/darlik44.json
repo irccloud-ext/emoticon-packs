@@ -1,0 +1,15 @@
+{
+  "name": "twitch-sub-darlik44",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "darliksionDarlikDeSion",
+      "image_id": 112237
+    },
+    {
+      "match": "darliksionDarlikDeChien",
+      "image_id": 112239
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-cerealex","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cereParty","image_id":83919},{"match":"cereKrew","image_id":83917},{"match":"cereFamta","image_id":78775},{"match":"cereChamp","image_id":79430},{"match":"cerePerrete","image_id":80893},{"match":"cereCono","image_id":79412}]}
+{
+  "name": "twitch-sub-cerealex",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cereParty",
+      "image_id": 83919
+    },
+    {
+      "match": "cereKrew",
+      "image_id": 83917
+    },
+    {
+      "match": "cereFamta",
+      "image_id": 78775
+    },
+    {
+      "match": "cereChamp",
+      "image_id": 79430
+    },
+    {
+      "match": "cerePerrete",
+      "image_id": 80893
+    },
+    {
+      "match": "cereCono",
+      "image_id": 79412
+    }
+  ]
+}

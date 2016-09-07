@@ -1,1 +1,27 @@
-{"name":"twitch-sub-gdsurv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"survBORT","image_id":106259},{"match":"survGasm","image_id":106351},{"match":"survTop","image_id":106260},{"match":"survWut","image_id":106343}]}
+{
+  "name": "twitch-sub-gdsurv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "survBORT",
+      "image_id": 106259
+    },
+    {
+      "match": "survGasm",
+      "image_id": 106351
+    },
+    {
+      "match": "survTop",
+      "image_id": 106260
+    },
+    {
+      "match": "survWut",
+      "image_id": 106343
+    },
+    {
+      "match": "survCreep",
+      "image_id": 112396
+    }
+  ]
+}

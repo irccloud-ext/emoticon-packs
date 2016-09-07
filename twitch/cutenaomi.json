@@ -1,1 +1,47 @@
-{"name":"twitch-sub-cutenaomi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"naeStar","image_id":98226},{"match":"naeHi","image_id":81311},{"match":"naeLove","image_id":81310},{"match":"naeCreep","image_id":53207},{"match":"naeGasm","image_id":53311},{"match":"naeMRT","image_id":53394},{"match":"naeSad","image_id":63909},{"match":"naeTato","image_id":95107},{"match":"naeOh","image_id":100958},{"match":"naeCake","image_id":101510}]}
+{
+  "name": "twitch-sub-cutenaomi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "naeStar",
+      "image_id": 98226
+    },
+    {
+      "match": "naeHi",
+      "image_id": 81311
+    },
+    {
+      "match": "naeLove",
+      "image_id": 81310
+    },
+    {
+      "match": "naeCreep",
+      "image_id": 53207
+    },
+    {
+      "match": "naeGasm",
+      "image_id": 53311
+    },
+    {
+      "match": "naeMRT",
+      "image_id": 53394
+    },
+    {
+      "match": "naeSad",
+      "image_id": 63909
+    },
+    {
+      "match": "naeTato",
+      "image_id": 95107
+    },
+    {
+      "match": "naeOh",
+      "image_id": 100958
+    },
+    {
+      "match": "naeCake",
+      "image_id": 101510
+    }
+  ]
+}

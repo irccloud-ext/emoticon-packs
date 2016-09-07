@@ -1,1 +1,23 @@
-{"name":"twitch-sub-chemsorly","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chemLove","image_id":35369},{"match":"chemCorgi","image_id":18584},{"match":"chemRekt","image_id":33803},{"match":"chemPoof","image_id":57682}]}
+{
+  "name": "twitch-sub-chemsorly",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chemLove",
+      "image_id": 35369
+    },
+    {
+      "match": "chemCorgi",
+      "image_id": 18584
+    },
+    {
+      "match": "chemRekt",
+      "image_id": 33803
+    },
+    {
+      "match": "chemPoof",
+      "image_id": 57682
+    }
+  ]
+}

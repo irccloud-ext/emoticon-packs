@@ -1,1 +1,39 @@
-{"name":"twitch-sub-monsterbuddys","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"urlFail","image_id":99657},{"match":"urlLove","image_id":99658},{"match":"urlHype","image_id":99659},{"match":"urlRIP","image_id":99660},{"match":"urlSmile","image_id":99661},{"match":"urlThump","image_id":99662},{"match":"urlNice","image_id":99663},{"match":"urlHey","image_id":99664}]}
+{
+  "name": "twitch-sub-monsterbuddys",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "urlFail",
+      "image_id": 99657
+    },
+    {
+      "match": "urlLove",
+      "image_id": 99658
+    },
+    {
+      "match": "urlHype",
+      "image_id": 99659
+    },
+    {
+      "match": "urlRIP",
+      "image_id": 99660
+    },
+    {
+      "match": "urlSmile",
+      "image_id": 99661
+    },
+    {
+      "match": "urlThump",
+      "image_id": 99662
+    },
+    {
+      "match": "urlNice",
+      "image_id": 99663
+    },
+    {
+      "match": "urlHey",
+      "image_id": 99664
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-{"name":"twitch-sub-blessedmma","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mbhTeam","image_id":108881},{"match":"mbhSub","image_id":108880},{"match":"mbhRoar","image_id":108752},{"match":"mbhLogo","image_id":108751}]}
+{
+  "name": "twitch-sub-blessedmma",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mbhTeam",
+      "image_id": 108881
+    },
+    {
+      "match": "mbhSub",
+      "image_id": 108880
+    },
+    {
+      "match": "mbhRoar",
+      "image_id": 108752
+    },
+    {
+      "match": "mbhLogo",
+      "image_id": 108751
+    },
+    {
+      "match": "mbhPhelps",
+      "image_id": 112240
+    }
+  ]
+}

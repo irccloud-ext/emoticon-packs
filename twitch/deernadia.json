@@ -1,1 +1,95 @@
-{"name":"twitch-sub-deernadia","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nadiaLick","image_id":18344},{"match":"nadiaFace","image_id":22295},{"match":"nadiaEye","image_id":24991},{"match":"nadiaH","image_id":38057},{"match":"nadiaBlank","image_id":91517},{"match":"nadiaWeeb","image_id":91519},{"match":"nadiaPotato","image_id":37737},{"match":"nadiaGasm","image_id":64166},{"match":"nadiaFail","image_id":64165},{"match":"nadiaCry","image_id":64163},{"match":"nadiaBaby","image_id":51227},{"match":"nadiaLurk","image_id":60894},{"match":"nadiaLewd","image_id":60896},{"match":"nadiaW","image_id":64213},{"match":"nadiaOut","image_id":65258},{"match":"nadiaWOW","image_id":100362},{"match":"nadiaSpooks","image_id":100363},{"match":"nadiaWave","image_id":100364},{"match":"nadia3","image_id":100365},{"match":"nadiaG","image_id":100366},{"match":"nadiaB","image_id":100368},{"match":"nadiaC","image_id":100367}]}
+{
+  "name": "twitch-sub-deernadia",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nadiaLick",
+      "image_id": 18344
+    },
+    {
+      "match": "nadiaFace",
+      "image_id": 22295
+    },
+    {
+      "match": "nadiaEye",
+      "image_id": 24991
+    },
+    {
+      "match": "nadiaH",
+      "image_id": 38057
+    },
+    {
+      "match": "nadiaBlank",
+      "image_id": 91517
+    },
+    {
+      "match": "nadiaWeeb",
+      "image_id": 91519
+    },
+    {
+      "match": "nadiaPotato",
+      "image_id": 37737
+    },
+    {
+      "match": "nadiaGasm",
+      "image_id": 64166
+    },
+    {
+      "match": "nadiaFail",
+      "image_id": 64165
+    },
+    {
+      "match": "nadiaCry",
+      "image_id": 64163
+    },
+    {
+      "match": "nadiaBaby",
+      "image_id": 51227
+    },
+    {
+      "match": "nadiaLurk",
+      "image_id": 60894
+    },
+    {
+      "match": "nadiaLewd",
+      "image_id": 60896
+    },
+    {
+      "match": "nadiaW",
+      "image_id": 64213
+    },
+    {
+      "match": "nadiaOut",
+      "image_id": 65258
+    },
+    {
+      "match": "nadiaWOW",
+      "image_id": 100362
+    },
+    {
+      "match": "nadiaSpooks",
+      "image_id": 100363
+    },
+    {
+      "match": "nadiaWave",
+      "image_id": 100364
+    },
+    {
+      "match": "nadia3",
+      "image_id": 100365
+    },
+    {
+      "match": "nadiaG",
+      "image_id": 100366
+    },
+    {
+      "match": "nadiaB",
+      "image_id": 100368
+    },
+    {
+      "match": "nadiaC",
+      "image_id": 100367
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-lolinsanitystream","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ajmGASM","image_id":71234},{"match":"ajmBadMan","image_id":103130},{"match":"ajmWoof","image_id":72468},{"match":"ajmKappa","image_id":65961},{"match":"ajmDone","image_id":77406},{"match":"ajmGoralHype","image_id":87622},{"match":"ajmGoodMan","image_id":105694},{"match":"ajmTF","image_id":107833}]}
+{
+  "name": "twitch-sub-lolinsanitystream",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ajmGASM",
+      "image_id": 71234
+    },
+    {
+      "match": "ajmBadMan",
+      "image_id": 103130
+    },
+    {
+      "match": "ajmWoof",
+      "image_id": 72468
+    },
+    {
+      "match": "ajmKappa",
+      "image_id": 65961
+    },
+    {
+      "match": "ajmDone",
+      "image_id": 77406
+    },
+    {
+      "match": "ajmGoralHype",
+      "image_id": 87622
+    },
+    {
+      "match": "ajmGoodMan",
+      "image_id": 105694
+    },
+    {
+      "match": "ajmTF",
+      "image_id": 107833
+    }
+  ]
+}

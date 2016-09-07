@@ -1,1 +1,39 @@
-{"name":"twitch-sub-beatboxrs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"beatDERP","image_id":18274},{"match":"beatRAPPA","image_id":20445},{"match":"beatH","image_id":104670},{"match":"beatC","image_id":104486},{"match":"beatP","image_id":70357},{"match":"beatR","image_id":104493},{"match":"beatO","image_id":104489},{"match":"beatF","image_id":104488}]}
+{
+  "name": "twitch-sub-beatboxrs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "beatDERP",
+      "image_id": 18274
+    },
+    {
+      "match": "beatRAPPA",
+      "image_id": 20445
+    },
+    {
+      "match": "beatH",
+      "image_id": 104670
+    },
+    {
+      "match": "beatC",
+      "image_id": 104486
+    },
+    {
+      "match": "beatP",
+      "image_id": 70357
+    },
+    {
+      "match": "beatR",
+      "image_id": 104493
+    },
+    {
+      "match": "beatO",
+      "image_id": 104489
+    },
+    {
+      "match": "beatF",
+      "image_id": 104488
+    }
+  ]
+}

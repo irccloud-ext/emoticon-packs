@@ -1,1 +1,23 @@
-{"name":"twitch-sub-razzzero0o","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"razzzRip","image_id":108876},{"match":"razzzApe","image_id":108731},{"match":"razzzHehe","image_id":100861},{"match":"razzzGasm","image_id":100595}]}
+{
+  "name": "twitch-sub-razzzero0o",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "razzzRip",
+      "image_id": 108876
+    },
+    {
+      "match": "razzzApe",
+      "image_id": 108731
+    },
+    {
+      "match": "razzzHehe",
+      "image_id": 100861
+    },
+    {
+      "match": "razzzGasm",
+      "image_id": 100595
+    }
+  ]
+}

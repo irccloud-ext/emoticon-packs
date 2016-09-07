@@ -1,1 +1,31 @@
-{"name":"twitch-sub-fazz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fazzPaco","image_id":52770},{"match":"fazzHobo","image_id":52769},{"match":"fazzDerp","image_id":23943},{"match":"fazzOMG","image_id":27898},{"match":"fazzRAGE","image_id":28020},{"match":"fazzChamp","image_id":52916}]}
+{
+  "name": "twitch-sub-fazz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fazzPaco",
+      "image_id": 52770
+    },
+    {
+      "match": "fazzHobo",
+      "image_id": 52769
+    },
+    {
+      "match": "fazzDerp",
+      "image_id": 23943
+    },
+    {
+      "match": "fazzOMG",
+      "image_id": 27898
+    },
+    {
+      "match": "fazzRAGE",
+      "image_id": 28020
+    },
+    {
+      "match": "fazzChamp",
+      "image_id": 52916
+    }
+  ]
+}

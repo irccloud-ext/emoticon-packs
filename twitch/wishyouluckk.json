@@ -1,1 +1,67 @@
-{"name":"twitch-sub-wishyouluckk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wylW","image_id":101267},{"match":"wylDonation","image_id":73605},{"match":"wylHi","image_id":73606},{"match":"wylSub","image_id":73607},{"match":"wylWelcome","image_id":73608},{"match":"wylSav","image_id":60455},{"match":"wylN","image_id":90179},{"match":"wylWut","image_id":89341},{"match":"wylTroll","image_id":89340},{"match":"wylR","image_id":92998},{"match":"wylB","image_id":108123},{"match":"wylLove","image_id":92997},{"match":"wylCry","image_id":92996},{"match":"wylM","image_id":92999},{"match":"wylH","image_id":103611}]}
+{
+  "name": "twitch-sub-wishyouluckk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wylW",
+      "image_id": 101267
+    },
+    {
+      "match": "wylDonation",
+      "image_id": 73605
+    },
+    {
+      "match": "wylHi",
+      "image_id": 73606
+    },
+    {
+      "match": "wylSub",
+      "image_id": 73607
+    },
+    {
+      "match": "wylWelcome",
+      "image_id": 73608
+    },
+    {
+      "match": "wylSav",
+      "image_id": 60455
+    },
+    {
+      "match": "wylN",
+      "image_id": 90179
+    },
+    {
+      "match": "wylWut",
+      "image_id": 89341
+    },
+    {
+      "match": "wylTroll",
+      "image_id": 89340
+    },
+    {
+      "match": "wylR",
+      "image_id": 92998
+    },
+    {
+      "match": "wylB",
+      "image_id": 108123
+    },
+    {
+      "match": "wylLove",
+      "image_id": 92997
+    },
+    {
+      "match": "wylCry",
+      "image_id": 92996
+    },
+    {
+      "match": "wylM",
+      "image_id": 92999
+    },
+    {
+      "match": "wylH",
+      "image_id": 103611
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-husumgaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ahusumBoldsenhater","image_id":20719},{"match":"ahusumGlad","image_id":21897},{"match":"ahusumGrin","image_id":21898},{"match":"ahusumWoa","image_id":21900},{"match":"ahusumSmart","image_id":21896},{"match":"ahusumSa","image_id":21899}]}
+{
+  "name": "twitch-sub-husumgaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ahusumBoldsenhater",
+      "image_id": 20719
+    },
+    {
+      "match": "ahusumGlad",
+      "image_id": 21897
+    },
+    {
+      "match": "ahusumGrin",
+      "image_id": 21898
+    },
+    {
+      "match": "ahusumWoa",
+      "image_id": 21900
+    },
+    {
+      "match": "ahusumSmart",
+      "image_id": 21896
+    },
+    {
+      "match": "ahusumSa",
+      "image_id": 21899
+    }
+  ]
+}

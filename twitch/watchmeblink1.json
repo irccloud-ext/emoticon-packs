@@ -1,1 +1,87 @@
-{"name":"twitch-sub-watchmeblink1","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mitchKamehameha","image_id":3139},{"match":"mitchTheLaw","image_id":2953},{"match":"mitchTyrone","image_id":3417},{"match":"mitchB","image_id":57140},{"match":"mitch1","image_id":26296},{"match":"mitchAbort","image_id":28386},{"match":"mitchDream","image_id":30022},{"match":"mitchW","image_id":31318},{"match":"mitchRat","image_id":56557},{"match":"mitchPleb","image_id":43948},{"match":"mitchG","image_id":57019},{"match":"mitchL","image_id":75036},{"match":"mitchD","image_id":76002},{"match":"mitchA","image_id":80603},{"match":"mitchPoop","image_id":99155},{"match":"mitchEthan","image_id":99156},{"match":"mitchHey","image_id":99157},{"match":"mitchEw","image_id":99158},{"match":"mitchT","image_id":99426},{"match":"mitchWut","image_id":108309}]}
+{
+  "name": "twitch-sub-watchmeblink1",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mitchKamehameha",
+      "image_id": 3139
+    },
+    {
+      "match": "mitchTheLaw",
+      "image_id": 2953
+    },
+    {
+      "match": "mitchTyrone",
+      "image_id": 3417
+    },
+    {
+      "match": "mitchB",
+      "image_id": 57140
+    },
+    {
+      "match": "mitch1",
+      "image_id": 26296
+    },
+    {
+      "match": "mitchAbort",
+      "image_id": 28386
+    },
+    {
+      "match": "mitchDream",
+      "image_id": 30022
+    },
+    {
+      "match": "mitchW",
+      "image_id": 31318
+    },
+    {
+      "match": "mitchRat",
+      "image_id": 56557
+    },
+    {
+      "match": "mitchPleb",
+      "image_id": 43948
+    },
+    {
+      "match": "mitchG",
+      "image_id": 57019
+    },
+    {
+      "match": "mitchL",
+      "image_id": 75036
+    },
+    {
+      "match": "mitchD",
+      "image_id": 76002
+    },
+    {
+      "match": "mitchA",
+      "image_id": 80603
+    },
+    {
+      "match": "mitchPoop",
+      "image_id": 99155
+    },
+    {
+      "match": "mitchEthan",
+      "image_id": 99156
+    },
+    {
+      "match": "mitchHey",
+      "image_id": 99157
+    },
+    {
+      "match": "mitchEw",
+      "image_id": 99158
+    },
+    {
+      "match": "mitchT",
+      "image_id": 99426
+    },
+    {
+      "match": "mitchWut",
+      "image_id": 108309
+    }
+  ]
+}

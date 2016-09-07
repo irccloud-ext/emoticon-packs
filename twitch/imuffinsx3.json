@@ -1,1 +1,39 @@
-{"name":"twitch-sub-imuffinsx3","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"moofRekt","image_id":20636},{"match":"moofStache","image_id":18473},{"match":"moofPce","image_id":18797},{"match":"moofPoro","image_id":19013},{"match":"moofPstache","image_id":19785},{"match":"moofBday","image_id":24879},{"match":"moofCat","image_id":29118},{"match":"moofXmas","image_id":29117}]}
+{
+  "name": "twitch-sub-imuffinsx3",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "moofRekt",
+      "image_id": 20636
+    },
+    {
+      "match": "moofStache",
+      "image_id": 18473
+    },
+    {
+      "match": "moofPce",
+      "image_id": 18797
+    },
+    {
+      "match": "moofPoro",
+      "image_id": 19013
+    },
+    {
+      "match": "moofPstache",
+      "image_id": 19785
+    },
+    {
+      "match": "moofBday",
+      "image_id": 24879
+    },
+    {
+      "match": "moofCat",
+      "image_id": 29118
+    },
+    {
+      "match": "moofXmas",
+      "image_id": 29117
+    }
+  ]
+}

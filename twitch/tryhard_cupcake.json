@@ -1,1 +1,39 @@
-{"name":"twitch-sub-tryhard_cupcake","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cupKappa","image_id":65275},{"match":"cupChoke","image_id":74673},{"match":"cupRIP","image_id":74546},{"match":"cupDab","image_id":100231},{"match":"cupD","image_id":100232},{"match":"cupArmy","image_id":100233},{"match":"cupH","image_id":100234},{"match":"cupL","image_id":100235}]}
+{
+  "name": "twitch-sub-tryhard_cupcake",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cupKappa",
+      "image_id": 65275
+    },
+    {
+      "match": "cupChoke",
+      "image_id": 74673
+    },
+    {
+      "match": "cupRIP",
+      "image_id": 74546
+    },
+    {
+      "match": "cupDab",
+      "image_id": 100231
+    },
+    {
+      "match": "cupD",
+      "image_id": 100232
+    },
+    {
+      "match": "cupArmy",
+      "image_id": 100233
+    },
+    {
+      "match": "cupH",
+      "image_id": 100234
+    },
+    {
+      "match": "cupL",
+      "image_id": 100235
+    }
+  ]
+}

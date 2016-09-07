@@ -1,1 +1,31 @@
-{"name":"twitch-sub-girlgamergab","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gabberRage","image_id":93462},{"match":"gabberBam","image_id":92563},{"match":"gabberExcellent","image_id":92714},{"match":"gabberWhat","image_id":92961},{"match":"gabberThirst","image_id":103264},{"match":"gabberGrump","image_id":104409}]}
+{
+  "name": "twitch-sub-girlgamergab",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gabberRage",
+      "image_id": 93462
+    },
+    {
+      "match": "gabberBam",
+      "image_id": 92563
+    },
+    {
+      "match": "gabberExcellent",
+      "image_id": 92714
+    },
+    {
+      "match": "gabberWhat",
+      "image_id": 92961
+    },
+    {
+      "match": "gabberThirst",
+      "image_id": 103264
+    },
+    {
+      "match": "gabberGrump",
+      "image_id": 104409
+    }
+  ]
+}

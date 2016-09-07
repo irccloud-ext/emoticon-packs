@@ -1,1 +1,31 @@
-{"name":"twitch-sub-blindfolded","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"blindFap","image_id":7226},{"match":"blindRage","image_id":9681},{"match":"blindS","image_id":14215},{"match":"blindN7","image_id":17053},{"match":"blindMom","image_id":28338},{"match":"blindAyy","image_id":33349}]}
+{
+  "name": "twitch-sub-blindfolded",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "blindFap",
+      "image_id": 7226
+    },
+    {
+      "match": "blindRage",
+      "image_id": 9681
+    },
+    {
+      "match": "blindS",
+      "image_id": 14215
+    },
+    {
+      "match": "blindN7",
+      "image_id": 17053
+    },
+    {
+      "match": "blindMom",
+      "image_id": 28338
+    },
+    {
+      "match": "blindAyy",
+      "image_id": 33349
+    }
+  ]
+}

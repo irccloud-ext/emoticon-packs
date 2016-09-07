@@ -1,1 +1,35 @@
-{"name":"twitch-sub-assassino___","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"assassinoD","image_id":62093},{"match":"assassinoREKT","image_id":50110},{"match":"assassinoP","image_id":55201},{"match":"assassinoR","image_id":61115},{"match":"assassinoLO","image_id":59467},{"match":"assassinoCHAMP","image_id":65735},{"match":"assassinoT","image_id":67230}]}
+{
+  "name": "twitch-sub-assassino___",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "assassinoD",
+      "image_id": 62093
+    },
+    {
+      "match": "assassinoREKT",
+      "image_id": 50110
+    },
+    {
+      "match": "assassinoP",
+      "image_id": 55201
+    },
+    {
+      "match": "assassinoR",
+      "image_id": 61115
+    },
+    {
+      "match": "assassinoLO",
+      "image_id": 59467
+    },
+    {
+      "match": "assassinoCHAMP",
+      "image_id": 65735
+    },
+    {
+      "match": "assassinoT",
+      "image_id": 67230
+    }
+  ]
+}

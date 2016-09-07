@@ -1,1 +1,11 @@
-{"name":"twitch-sub-coliseoweb","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"clsRIP","image_id":40640}]}
+{
+  "name": "twitch-sub-coliseoweb",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "clsRIP",
+      "image_id": 40640
+    }
+  ]
+}

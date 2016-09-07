@@ -1,1 +1,15 @@
-{"name":"twitch-sub-dotacapitalist","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"capNotBad","image_id":45479},{"match":"capFlame","image_id":81545}]}
+{
+  "name": "twitch-sub-dotacapitalist",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "capNotBad",
+      "image_id": 45479
+    },
+    {
+      "match": "capFlame",
+      "image_id": 81545
+    }
+  ]
+}

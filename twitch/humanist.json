@@ -1,0 +1,15 @@
+{
+  "name": "twitch-sub-humanist",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "humaThrow",
+      "image_id": 111742
+    },
+    {
+      "match": "humaOzoPride",
+      "image_id": 111743
+    }
+  ]
+}

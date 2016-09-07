@@ -1,1 +1,39 @@
-{"name":"twitch-sub-eyecident","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"eyeciKlo","image_id":86953},{"match":"eyeciBro","image_id":86957},{"match":"eyeciHerz","image_id":86954},{"match":"eyeciSellout","image_id":86952},{"match":"eyeciHost","image_id":88234},{"match":"eyeciZahn","image_id":86997},{"match":"eyeciFail","image_id":88235},{"match":"eyeciBaby","image_id":88236}]}
+{
+  "name": "twitch-sub-eyecident",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "eyeciKlo",
+      "image_id": 86953
+    },
+    {
+      "match": "eyeciBro",
+      "image_id": 86957
+    },
+    {
+      "match": "eyeciHerz",
+      "image_id": 86954
+    },
+    {
+      "match": "eyeciSellout",
+      "image_id": 86952
+    },
+    {
+      "match": "eyeciHost",
+      "image_id": 88234
+    },
+    {
+      "match": "eyeciZahn",
+      "image_id": 86997
+    },
+    {
+      "match": "eyeciFail",
+      "image_id": 88235
+    },
+    {
+      "match": "eyeciBaby",
+      "image_id": 88236
+    }
+  ]
+}

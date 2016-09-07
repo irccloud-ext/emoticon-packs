@@ -1,1 +1,39 @@
-{"name":"twitch-sub-russianpaladin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"paladinHonk","image_id":72735},{"match":"paladinOUT","image_id":45667},{"match":"paladinG","image_id":88356},{"match":"paladinTree","image_id":66486},{"match":"paladinHype","image_id":66484},{"match":"paladinFace","image_id":66483},{"match":"paladinWow","image_id":82645},{"match":"paladinWut","image_id":85708}]}
+{
+  "name": "twitch-sub-russianpaladin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "paladinHonk",
+      "image_id": 72735
+    },
+    {
+      "match": "paladinOUT",
+      "image_id": 45667
+    },
+    {
+      "match": "paladinG",
+      "image_id": 88356
+    },
+    {
+      "match": "paladinTree",
+      "image_id": 66486
+    },
+    {
+      "match": "paladinHype",
+      "image_id": 66484
+    },
+    {
+      "match": "paladinFace",
+      "image_id": 66483
+    },
+    {
+      "match": "paladinWow",
+      "image_id": 82645
+    },
+    {
+      "match": "paladinWut",
+      "image_id": 85708
+    }
+  ]
+}

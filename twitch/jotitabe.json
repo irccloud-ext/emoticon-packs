@@ -1,1 +1,15 @@
-{"name":"twitch-sub-jotitabe","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jotitabeTryhard","image_id":55003},{"match":"jotitabeFest","image_id":55001}]}
+{
+  "name": "twitch-sub-jotitabe",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jotitabeTryhard",
+      "image_id": 55003
+    },
+    {
+      "match": "jotitabeFest",
+      "image_id": 55001
+    }
+  ]
+}

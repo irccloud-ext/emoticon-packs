@@ -1,1 +1,15 @@
-{"name":"twitch-sub-silentslayerhs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sslayerIORI","image_id":110097},{"match":"sslayerRAG","image_id":109981}]}
+{
+  "name": "twitch-sub-silentslayerhs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sslayerIORI",
+      "image_id": 110097
+    },
+    {
+      "match": "sslayerRAG",
+      "image_id": 109981
+    }
+  ]
+}

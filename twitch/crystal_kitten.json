@@ -1,1 +1,39 @@
-{"name":"twitch-sub-crystal_kitten","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"crysHey","image_id":93755},{"match":"crysLove","image_id":93754},{"match":"crysHype","image_id":93752},{"match":"crysGasm","image_id":93751},{"match":"crysRage","image_id":93823},{"match":"crysMeow","image_id":96143},{"match":"crysSenpai","image_id":96144},{"match":"crysCry","image_id":93936}]}
+{
+  "name": "twitch-sub-crystal_kitten",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "crysHey",
+      "image_id": 93755
+    },
+    {
+      "match": "crysLove",
+      "image_id": 93754
+    },
+    {
+      "match": "crysHype",
+      "image_id": 93752
+    },
+    {
+      "match": "crysRage",
+      "image_id": 93823
+    },
+    {
+      "match": "crysMeow",
+      "image_id": 96143
+    },
+    {
+      "match": "crysSenpai",
+      "image_id": 96144
+    },
+    {
+      "match": "crysCry",
+      "image_id": 93936
+    },
+    {
+      "match": "crysGasm",
+      "image_id": 112110
+    }
+  ]
+}

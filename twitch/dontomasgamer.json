@@ -1,1 +1,23 @@
-{"name":"twitch-sub-dontomasgamer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dontomasKappa","image_id":79151},{"match":"dontomasGasm","image_id":81346},{"match":"dontomasSorpresa","image_id":75433},{"match":"dontomasAprueba","image_id":84267}]}
+{
+  "name": "twitch-sub-dontomasgamer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dontomasKappa",
+      "image_id": 79151
+    },
+    {
+      "match": "dontomasGasm",
+      "image_id": 81346
+    },
+    {
+      "match": "dontomasSorpresa",
+      "image_id": 75433
+    },
+    {
+      "match": "dontomasAprueba",
+      "image_id": 84267
+    }
+  ]
+}

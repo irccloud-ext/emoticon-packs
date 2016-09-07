@@ -1,1 +1,15 @@
-{"name":"twitch-sub-glaurungtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"glauZera","image_id":38249},{"match":"glauFeelsZeraMan","image_id":85554}]}
+{
+  "name": "twitch-sub-glaurungtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "glauZera",
+      "image_id": 38249
+    },
+    {
+      "match": "glauFeelsZeraMan",
+      "image_id": 85554
+    }
+  ]
+}

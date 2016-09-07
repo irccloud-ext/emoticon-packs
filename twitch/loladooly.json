@@ -1,1 +1,15 @@
-{"name":"twitch-sub-loladooly","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"youngWhat","image_id":55417},{"match":"youngPug","image_id":82983}]}
+{
+  "name": "twitch-sub-loladooly",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "youngWhat",
+      "image_id": 55417
+    },
+    {
+      "match": "youngPug",
+      "image_id": 82983
+    }
+  ]
+}

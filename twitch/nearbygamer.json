@@ -1,1 +1,15 @@
-{"name":"twitch-sub-nearbygamer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nerbAngry","image_id":2822},{"match":"nerbJar","image_id":2823}]}
+{
+  "name": "twitch-sub-nearbygamer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nerbAngry",
+      "image_id": 2822
+    },
+    {
+      "match": "nerbJar",
+      "image_id": 2823
+    }
+  ]
+}

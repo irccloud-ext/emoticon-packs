@@ -1,1 +1,15 @@
-{"name":"twitch-sub-reo_mk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"reoChoke","image_id":107877},{"match":"reoMix","image_id":107878}]}
+{
+  "name": "twitch-sub-reo_mk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "reoChoke",
+      "image_id": 107877
+    },
+    {
+      "match": "reoMix",
+      "image_id": 107878
+    }
+  ]
+}

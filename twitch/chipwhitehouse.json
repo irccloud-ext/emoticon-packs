@@ -1,1 +1,39 @@
-{"name":"twitch-sub-chipwhitehouse","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chipsG","image_id":108111},{"match":"chipsL","image_id":108108},{"match":"chipsW","image_id":108104},{"match":"chipsY","image_id":108499},{"match":"chipsR","image_id":107827},{"match":"chipsP","image_id":108505},{"match":"chipsH","image_id":110974},{"match":"chipsT","image_id":110976}]}
+{
+  "name": "twitch-sub-chipwhitehouse",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chipsG",
+      "image_id": 108111
+    },
+    {
+      "match": "chipsL",
+      "image_id": 108108
+    },
+    {
+      "match": "chipsW",
+      "image_id": 108104
+    },
+    {
+      "match": "chipsY",
+      "image_id": 108499
+    },
+    {
+      "match": "chipsR",
+      "image_id": 107827
+    },
+    {
+      "match": "chipsP",
+      "image_id": 108505
+    },
+    {
+      "match": "chipsH",
+      "image_id": 110974
+    },
+    {
+      "match": "chipsT",
+      "image_id": 110976
+    }
+  ]
+}

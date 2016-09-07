@@ -1,1 +1,27 @@
-{"name":"twitch-sub-endercr4nk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"enderNice","image_id":72716},{"match":"enderHYPE","image_id":82878},{"match":"enderGeld","image_id":82859},{"match":"enderCr4nk","image_id":83985},{"match":"enderS","image_id":95135}]}
+{
+  "name": "twitch-sub-endercr4nk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "enderNice",
+      "image_id": 72716
+    },
+    {
+      "match": "enderHYPE",
+      "image_id": 82878
+    },
+    {
+      "match": "enderGeld",
+      "image_id": 82859
+    },
+    {
+      "match": "enderCr4nk",
+      "image_id": 83985
+    },
+    {
+      "match": "enderS",
+      "image_id": 95135
+    }
+  ]
+}

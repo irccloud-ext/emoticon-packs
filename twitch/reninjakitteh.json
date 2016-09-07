@@ -1,1 +1,31 @@
-{"name":"twitch-sub-reninjakitteh","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kittehGlaring","image_id":78765},{"match":"kittehHatter","image_id":78763},{"match":"kittehHeart","image_id":78761},{"match":"kittehCup","image_id":78759},{"match":"kittehSad","image_id":79427},{"match":"kittehDead","image_id":79429}]}
+{
+  "name": "twitch-sub-reninjakitteh",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kittehGlaring",
+      "image_id": 78765
+    },
+    {
+      "match": "kittehHatter",
+      "image_id": 78763
+    },
+    {
+      "match": "kittehHeart",
+      "image_id": 78761
+    },
+    {
+      "match": "kittehCup",
+      "image_id": 78759
+    },
+    {
+      "match": "kittehSad",
+      "image_id": 79427
+    },
+    {
+      "match": "kittehDead",
+      "image_id": 79429
+    }
+  ]
+}

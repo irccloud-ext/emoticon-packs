@@ -1,1 +1,15 @@
-{"name":"twitch-sub-roll20app","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"roll20Hype","image_id":72818},{"match":"roll20RIP","image_id":72817}]}
+{
+  "name": "twitch-sub-roll20app",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "roll20Hype",
+      "image_id": 72818
+    },
+    {
+      "match": "roll20RIP",
+      "image_id": 72817
+    }
+  ]
+}

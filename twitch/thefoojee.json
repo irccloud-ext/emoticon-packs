@@ -1,1 +1,27 @@
-{"name":"twitch-sub-thefoojee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fooAce","image_id":49117},{"match":"fooHype","image_id":48524},{"match":"fooRekt","image_id":48854},{"match":"fooLove","image_id":48852},{"match":"fooGG","image_id":50238}]}
+{
+  "name": "twitch-sub-thefoojee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fooAce",
+      "image_id": 49117
+    },
+    {
+      "match": "fooHype",
+      "image_id": 48524
+    },
+    {
+      "match": "fooRekt",
+      "image_id": 48854
+    },
+    {
+      "match": "fooLove",
+      "image_id": 48852
+    },
+    {
+      "match": "fooGG",
+      "image_id": 50238
+    }
+  ]
+}

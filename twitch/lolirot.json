@@ -1,1 +1,39 @@
-{"name":"twitch-sub-lolirot","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"loliSAYA","image_id":103963},{"match":"loliROG","image_id":103962},{"match":"loliHYPE","image_id":66069},{"match":"loliFEELS","image_id":66070},{"match":"loliPATRIA","image_id":72908},{"match":"loliVISTO","image_id":72907},{"match":"loliQQ","image_id":72905},{"match":"loliNUTRIA","image_id":89735}]}
+{
+  "name": "twitch-sub-lolirot",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "loliSAYA",
+      "image_id": 103963
+    },
+    {
+      "match": "loliROG",
+      "image_id": 103962
+    },
+    {
+      "match": "loliHYPE",
+      "image_id": 66069
+    },
+    {
+      "match": "loliFEELS",
+      "image_id": 66070
+    },
+    {
+      "match": "loliPATRIA",
+      "image_id": 72908
+    },
+    {
+      "match": "loliVISTO",
+      "image_id": 72907
+    },
+    {
+      "match": "loliQQ",
+      "image_id": 72905
+    },
+    {
+      "match": "loliNUTRIA",
+      "image_id": 89735
+    }
+  ]
+}

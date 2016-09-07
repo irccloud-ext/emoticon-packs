@@ -1,1 +1,19 @@
-{"name":"twitch-sub-carills","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"caroWHAT","image_id":18177},{"match":"caroFLIP","image_id":17877},{"match":"caroBRUH","image_id":19906}]}
+{
+  "name": "twitch-sub-carills",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "caroWHAT",
+      "image_id": 18177
+    },
+    {
+      "match": "caroFLIP",
+      "image_id": 17877
+    },
+    {
+      "match": "caroBRUH",
+      "image_id": 19906
+    }
+  ]
+}

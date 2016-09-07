@@ -1,1 +1,23 @@
-{"name":"twitch-sub-fifa_chick","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chickOMD","image_id":36732},{"match":"chickHype","image_id":36591},{"match":"chickRekt","image_id":39352},{"match":"chickFail","image_id":38753}]}
+{
+  "name": "twitch-sub-fifa_chick",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chickOMD",
+      "image_id": 36732
+    },
+    {
+      "match": "chickHype",
+      "image_id": 36591
+    },
+    {
+      "match": "chickRekt",
+      "image_id": 39352
+    },
+    {
+      "match": "chickFail",
+      "image_id": 38753
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-shisheyu_mayamoto","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shisNoob","image_id":106982},{"match":"shisCall","image_id":106981},{"match":"shisGG","image_id":104110},{"match":"shisPire","image_id":104111},{"match":"shisEngine","image_id":103977},{"match":"shisBrasse","image_id":103976}]}
+{
+  "name": "twitch-sub-shisheyu_mayamoto",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shisNoob",
+      "image_id": 106982
+    },
+    {
+      "match": "shisCall",
+      "image_id": 106981
+    },
+    {
+      "match": "shisGG",
+      "image_id": 104110
+    },
+    {
+      "match": "shisPire",
+      "image_id": 104111
+    },
+    {
+      "match": "shisEngine",
+      "image_id": 103977
+    },
+    {
+      "match": "shisBrasse",
+      "image_id": 103976
+    }
+  ]
+}

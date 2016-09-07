@@ -1,1 +1,19 @@
-{"name":"twitch-sub-checkeuse","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"subcheckRip","image_id":93120},{"match":"subcheckC","image_id":95617},{"match":"subcheckS","image_id":95618}]}
+{
+  "name": "twitch-sub-checkeuse",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "subcheckRip",
+      "image_id": 93120
+    },
+    {
+      "match": "subcheckC",
+      "image_id": 95617
+    },
+    {
+      "match": "subcheckS",
+      "image_id": 95618
+    }
+  ]
+}

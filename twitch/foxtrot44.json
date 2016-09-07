@@ -1,1 +1,31 @@
-{"name":"twitch-sub-foxtrot44","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"foxtrotPineapple","image_id":104405},{"match":"foxtrotPep","image_id":104404},{"match":"foxtrotGems","image_id":105949},{"match":"foxtrotFoxheart","image_id":105948},{"match":"foxtrotGemsquad","image_id":105950},{"match":"foxtrotKeeters","image_id":105951}]}
+{
+  "name": "twitch-sub-foxtrot44",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "foxtrotPineapple",
+      "image_id": 104405
+    },
+    {
+      "match": "foxtrotPep",
+      "image_id": 104404
+    },
+    {
+      "match": "foxtrotGems",
+      "image_id": 105949
+    },
+    {
+      "match": "foxtrotFoxheart",
+      "image_id": 105948
+    },
+    {
+      "match": "foxtrotGemsquad",
+      "image_id": 105950
+    },
+    {
+      "match": "foxtrotKeeters",
+      "image_id": 105951
+    }
+  ]
+}

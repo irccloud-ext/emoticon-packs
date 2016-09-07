@@ -1,1 +1,31 @@
-{"name":"twitch-sub-xo_sweet_pea_ox","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"poptartPoptart","image_id":38392},{"match":"poptartSweetpea","image_id":38391},{"match":"poptartDBE","image_id":44795},{"match":"poptartDonate","image_id":80769},{"match":"poptartSub","image_id":80771},{"match":"poptartBabygoat","image_id":83378}]}
+{
+  "name": "twitch-sub-xo_sweet_pea_ox",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "poptartPoptart",
+      "image_id": 38392
+    },
+    {
+      "match": "poptartSweetpea",
+      "image_id": 38391
+    },
+    {
+      "match": "poptartDBE",
+      "image_id": 44795
+    },
+    {
+      "match": "poptartDonate",
+      "image_id": 80769
+    },
+    {
+      "match": "poptartSub",
+      "image_id": 80771
+    },
+    {
+      "match": "poptartBabygoat",
+      "image_id": 83378
+    }
+  ]
+}

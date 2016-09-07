@@ -1,1 +1,15 @@
-{"name":"twitch-sub-fnatichunilol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"huniHolo","image_id":71762},{"match":"huniEasy","image_id":71763}]}
+{
+  "name": "twitch-sub-fnatichunilol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "huniHolo",
+      "image_id": 71762
+    },
+    {
+      "match": "huniEasy",
+      "image_id": 71763
+    }
+  ]
+}

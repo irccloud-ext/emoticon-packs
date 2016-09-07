@@ -1,1 +1,11 @@
-{"name":"twitch-sub-stolenalivehell","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"stolenMorri","image_id":32901}]}
+{
+  "name": "twitch-sub-stolenalivehell",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "stolenMorri",
+      "image_id": 32901
+    }
+  ]
+}

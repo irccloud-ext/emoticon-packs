@@ -1,1 +1,19 @@
-{"name":"twitch-sub-fogged","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fogThanosZ","image_id":29917},{"match":"fogFace","image_id":29919},{"match":"fogThump","image_id":29912}]}
+{
+  "name": "twitch-sub-fogged",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fogThanosZ",
+      "image_id": 29917
+    },
+    {
+      "match": "fogFace",
+      "image_id": 29919
+    },
+    {
+      "match": "fogThump",
+      "image_id": 29912
+    }
+  ]
+}

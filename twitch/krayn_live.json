@@ -1,1 +1,59 @@
-{"name":"twitch-sub-krayn_live","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"glouPuddi","image_id":77525},{"match":"glouWhat","image_id":22306},{"match":"glouFace","image_id":22305},{"match":"glouPraise","image_id":22348},{"match":"glouKappa","image_id":22405},{"match":"glouLFG","image_id":22465},{"match":"glouRIP","image_id":23080},{"match":"glouMoney","image_id":77301},{"match":"glouEvil","image_id":68271},{"match":"glouSub","image_id":80881},{"match":"glouLove","image_id":97440},{"match":"glouScared","image_id":70636},{"match":"glouBim","image_id":77457}]}
+{
+  "name": "twitch-sub-krayn_live",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "glouPuddi",
+      "image_id": 77525
+    },
+    {
+      "match": "glouWhat",
+      "image_id": 22306
+    },
+    {
+      "match": "glouFace",
+      "image_id": 22305
+    },
+    {
+      "match": "glouPraise",
+      "image_id": 22348
+    },
+    {
+      "match": "glouKappa",
+      "image_id": 22405
+    },
+    {
+      "match": "glouLFG",
+      "image_id": 22465
+    },
+    {
+      "match": "glouRIP",
+      "image_id": 23080
+    },
+    {
+      "match": "glouMoney",
+      "image_id": 77301
+    },
+    {
+      "match": "glouEvil",
+      "image_id": 68271
+    },
+    {
+      "match": "glouSub",
+      "image_id": 80881
+    },
+    {
+      "match": "glouLove",
+      "image_id": 97440
+    },
+    {
+      "match": "glouScared",
+      "image_id": 70636
+    },
+    {
+      "match": "glouBim",
+      "image_id": 77457
+    }
+  ]
+}

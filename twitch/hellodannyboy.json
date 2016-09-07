@@ -1,1 +1,31 @@
-{"name":"twitch-sub-hellodannyboy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dannyboySp4","image_id":105755},{"match":"dannyboyPchild","image_id":105514},{"match":"dannyboyCold","image_id":105513},{"match":"dannyboyOK","image_id":107307},{"match":"dannyboy9","image_id":107309},{"match":"dannyboyP","image_id":107308}]}
+{
+  "name": "twitch-sub-hellodannyboy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dannyboySp4",
+      "image_id": 105755
+    },
+    {
+      "match": "dannyboyPchild",
+      "image_id": 105514
+    },
+    {
+      "match": "dannyboyCold",
+      "image_id": 105513
+    },
+    {
+      "match": "dannyboyOK",
+      "image_id": 107307
+    },
+    {
+      "match": "dannyboy9",
+      "image_id": 107309
+    },
+    {
+      "match": "dannyboyP",
+      "image_id": 107308
+    }
+  ]
+}

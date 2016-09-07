@@ -1,1 +1,59 @@
-{"name":"twitch-sub-wagamamatv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wagaCrit","image_id":2626},{"match":"wagaMunch","image_id":2627},{"match":"wagaTa","image_id":2688},{"match":"wagaGasm","image_id":23919},{"match":"wagaThump","image_id":23921},{"match":"wagaFish","image_id":23917},{"match":"wagaBoom","image_id":23859},{"match":"wagaSilence","image_id":23923},{"match":"wagaDoubt","image_id":23931},{"match":"wagaRage","image_id":23920},{"match":"wagaChamp","image_id":23916},{"match":"wagaRosh","image_id":23941},{"match":"wagaRawr","image_id":23942}]}
+{
+  "name": "twitch-sub-wagamamatv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wagaCrit",
+      "image_id": 2626
+    },
+    {
+      "match": "wagaMunch",
+      "image_id": 2627
+    },
+    {
+      "match": "wagaTa",
+      "image_id": 2688
+    },
+    {
+      "match": "wagaGasm",
+      "image_id": 23919
+    },
+    {
+      "match": "wagaThump",
+      "image_id": 23921
+    },
+    {
+      "match": "wagaFish",
+      "image_id": 23917
+    },
+    {
+      "match": "wagaBoom",
+      "image_id": 23859
+    },
+    {
+      "match": "wagaSilence",
+      "image_id": 23923
+    },
+    {
+      "match": "wagaDoubt",
+      "image_id": 23931
+    },
+    {
+      "match": "wagaRage",
+      "image_id": 23920
+    },
+    {
+      "match": "wagaChamp",
+      "image_id": 23916
+    },
+    {
+      "match": "wagaRosh",
+      "image_id": 23941
+    },
+    {
+      "match": "wagaRawr",
+      "image_id": 23942
+    }
+  ]
+}

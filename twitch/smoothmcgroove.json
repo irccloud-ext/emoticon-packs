@@ -1,1 +1,39 @@
-{"name":"twitch-sub-smoothmcgroove","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"smoothBeard","image_id":4711},{"match":"smoothSmooth","image_id":4712},{"match":"smoothBa","image_id":18282},{"match":"smoothSub","image_id":18283},{"match":"smoothMusic","image_id":18286},{"match":"smoothMega","image_id":20955},{"match":"smoothWut","image_id":20192},{"match":"smoothCharl","image_id":20193}]}
+{
+  "name": "twitch-sub-smoothmcgroove",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "smoothBeard",
+      "image_id": 4711
+    },
+    {
+      "match": "smoothSmooth",
+      "image_id": 4712
+    },
+    {
+      "match": "smoothBa",
+      "image_id": 18282
+    },
+    {
+      "match": "smoothSub",
+      "image_id": 18283
+    },
+    {
+      "match": "smoothMusic",
+      "image_id": 18286
+    },
+    {
+      "match": "smoothMega",
+      "image_id": 20955
+    },
+    {
+      "match": "smoothWut",
+      "image_id": 20192
+    },
+    {
+      "match": "smoothCharl",
+      "image_id": 20193
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mc_arkas","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"arkasPlane","image_id":15255},{"match":"arkasAmb","image_id":15256},{"match":"arkasPot","image_id":40447},{"match":"arkasDank","image_id":40446},{"match":"arkasBush","image_id":46430},{"match":"arkasNoot","image_id":73363}]}
+{
+  "name": "twitch-sub-mc_arkas",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "arkasPlane",
+      "image_id": 15255
+    },
+    {
+      "match": "arkasAmb",
+      "image_id": 15256
+    },
+    {
+      "match": "arkasPot",
+      "image_id": 40447
+    },
+    {
+      "match": "arkasDank",
+      "image_id": 40446
+    },
+    {
+      "match": "arkasBush",
+      "image_id": 46430
+    },
+    {
+      "match": "arkasNoot",
+      "image_id": 73363
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-tonioo25yt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tonioNuke","image_id":79794},{"match":"tonioHulk","image_id":79605}]}
+{
+  "name": "twitch-sub-tonioo25yt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tonioNuke",
+      "image_id": 79794
+    },
+    {
+      "match": "tonioHulk",
+      "image_id": 79605
+    }
+  ]
+}

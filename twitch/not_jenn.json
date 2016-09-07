@@ -1,1 +1,47 @@
-{"name":"twitch-sub-not_jenn","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"notHana","image_id":79931},{"match":"notHype","image_id":95222},{"match":"notW","image_id":79117},{"match":"notBuddy","image_id":81806},{"match":"notLove","image_id":100178},{"match":"notHey","image_id":100177},{"match":"notLewd","image_id":101711},{"match":"notGasm","image_id":101712},{"match":"notM","image_id":101713},{"match":"notBooty","image_id":109510}]}
+{
+  "name": "twitch-sub-not_jenn",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "notHana",
+      "image_id": 79931
+    },
+    {
+      "match": "notHype",
+      "image_id": 95222
+    },
+    {
+      "match": "notW",
+      "image_id": 79117
+    },
+    {
+      "match": "notBuddy",
+      "image_id": 81806
+    },
+    {
+      "match": "notLove",
+      "image_id": 100178
+    },
+    {
+      "match": "notHey",
+      "image_id": 100177
+    },
+    {
+      "match": "notLewd",
+      "image_id": 101711
+    },
+    {
+      "match": "notGasm",
+      "image_id": 101712
+    },
+    {
+      "match": "notM",
+      "image_id": 101713
+    },
+    {
+      "match": "notBooty",
+      "image_id": 109510
+    }
+  ]
+}

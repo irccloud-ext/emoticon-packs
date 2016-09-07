@@ -1,1 +1,39 @@
-{"name":"twitch-sub-nnaderade","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"laheyNeck","image_id":70957},{"match":"laheyLove","image_id":71539},{"match":"laheyHype","image_id":71540},{"match":"laheyRage","image_id":71542},{"match":"laheyRIP","image_id":71703},{"match":"laheyAim","image_id":71230},{"match":"laheyRoast","image_id":73779},{"match":"laheyClare","image_id":96716}]}
+{
+  "name": "twitch-sub-nnaderade",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "laheyNeck",
+      "image_id": 70957
+    },
+    {
+      "match": "laheyLove",
+      "image_id": 71539
+    },
+    {
+      "match": "laheyHype",
+      "image_id": 71540
+    },
+    {
+      "match": "laheyRage",
+      "image_id": 71542
+    },
+    {
+      "match": "laheyRIP",
+      "image_id": 71703
+    },
+    {
+      "match": "laheyAim",
+      "image_id": 71230
+    },
+    {
+      "match": "laheyRoast",
+      "image_id": 73779
+    },
+    {
+      "match": "laheyClare",
+      "image_id": 96716
+    }
+  ]
+}

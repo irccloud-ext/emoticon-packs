@@ -1,1 +1,39 @@
-{"name":"twitch-sub-ninj4hs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ninj4Srsly","image_id":94185},{"match":"ninj4LOL","image_id":92405},{"match":"ninj4Ameba","image_id":97527},{"match":"ninj4Bog","image_id":92406},{"match":"ninj4S","image_id":91275},{"match":"ninj4Ezy","image_id":94230}]}
+{
+  "name": "twitch-sub-ninj4hs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ninj4Srsly",
+      "image_id": 94185
+    },
+    {
+      "match": "ninj4LOL",
+      "image_id": 92405
+    },
+    {
+      "match": "ninj4Ameba",
+      "image_id": 97527
+    },
+    {
+      "match": "ninj4Bog",
+      "image_id": 92406
+    },
+    {
+      "match": "ninj4S",
+      "image_id": 91275
+    },
+    {
+      "match": "ninj4Ezy",
+      "image_id": 94230
+    },
+    {
+      "match": "ninj4H",
+      "image_id": 112409
+    },
+    {
+      "match": "ninj4XD",
+      "image_id": 112193
+    }
+  ]
+}

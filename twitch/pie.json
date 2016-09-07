@@ -1,1 +1,39 @@
-{"name":"twitch-sub-pie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"paiHype","image_id":45621},{"match":"paiLove","image_id":46495},{"match":"paiNyeh","image_id":46496},{"match":"paiGasm","image_id":47163},{"match":"paiBrows","image_id":47143},{"match":"paiOMG","image_id":45010},{"match":"paiFace","image_id":44988},{"match":"paiHug","image_id":45133}]}
+{
+  "name": "twitch-sub-pie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "paiHype",
+      "image_id": 45621
+    },
+    {
+      "match": "paiLove",
+      "image_id": 46495
+    },
+    {
+      "match": "paiNyeh",
+      "image_id": 46496
+    },
+    {
+      "match": "paiGasm",
+      "image_id": 47163
+    },
+    {
+      "match": "paiBrows",
+      "image_id": 47143
+    },
+    {
+      "match": "paiOMG",
+      "image_id": 45010
+    },
+    {
+      "match": "paiFace",
+      "image_id": 44988
+    },
+    {
+      "match": "paiHug",
+      "image_id": 45133
+    }
+  ]
+}

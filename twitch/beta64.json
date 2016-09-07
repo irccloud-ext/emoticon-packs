@@ -1,1 +1,15 @@
-{"name":"twitch-sub-beta64","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"b64Health","image_id":91648},{"match":"b64Kitkat","image_id":89501}]}
+{
+  "name": "twitch-sub-beta64",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "b64Health",
+      "image_id": 91648
+    },
+    {
+      "match": "b64Kitkat",
+      "image_id": 89501
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-antonisx007gr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"antonisVelanidi","image_id":95892},{"match":"antonisReported","image_id":95990}]}
+{
+  "name": "twitch-sub-antonisx007gr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "antonisVelanidi",
+      "image_id": 95892
+    },
+    {
+      "match": "antonisReported",
+      "image_id": 95990
+    }
+  ]
+}

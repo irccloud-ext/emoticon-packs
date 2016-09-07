@@ -1,1 +1,15 @@
-{"name":"twitch-sub-takkogaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"takkPLS","image_id":88678},{"match":"takkGG","image_id":88669}]}
+{
+  "name": "twitch-sub-takkogaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "takkPLS",
+      "image_id": 88678
+    },
+    {
+      "match": "takkGG",
+      "image_id": 88669
+    }
+  ]
+}

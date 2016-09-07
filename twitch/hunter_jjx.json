@@ -1,1 +1,11 @@
-{"name":"twitch-sub-hunter_jjx","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"djenthypeJjx","image_id":83956}]}
+{
+  "name": "twitch-sub-hunter_jjx",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "djenthypeJjx",
+      "image_id": 83956
+    }
+  ]
+}

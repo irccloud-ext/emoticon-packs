@@ -1,1 +1,23 @@
-{"name":"twitch-sub-annaprosser","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"prosserPoa","image_id":35576},{"match":"prosserStrawberry","image_id":35694},{"match":"prosserKerri","image_id":58764},{"match":"prosserTeam","image_id":58796}]}
+{
+  "name": "twitch-sub-annaprosser",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "prosserPoa",
+      "image_id": 35576
+    },
+    {
+      "match": "prosserStrawberry",
+      "image_id": 35694
+    },
+    {
+      "match": "prosserKerri",
+      "image_id": 58764
+    },
+    {
+      "match": "prosserTeam",
+      "image_id": 58796
+    }
+  ]
+}

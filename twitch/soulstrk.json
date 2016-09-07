@@ -1,1 +1,27 @@
-{"name":"twitch-sub-soulstrk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"strkWillyRage","image_id":91237},{"match":"strkSuuu","image_id":91236},{"match":"strkYaoMing","image_id":92720},{"match":"strkFernanChamp","image_id":93010},{"match":"strkSenpai","image_id":93008}]}
+{
+  "name": "twitch-sub-soulstrk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "strkWillyRage",
+      "image_id": 91237
+    },
+    {
+      "match": "strkSuuu",
+      "image_id": 91236
+    },
+    {
+      "match": "strkYaoMing",
+      "image_id": 92720
+    },
+    {
+      "match": "strkFernanChamp",
+      "image_id": 93010
+    },
+    {
+      "match": "strkSenpai",
+      "image_id": 93008
+    }
+  ]
+}

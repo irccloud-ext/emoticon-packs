@@ -1,1 +1,31 @@
-{"name":"twitch-sub-milkgasm","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"milkyHey","image_id":51160},{"match":"milkyKutie","image_id":51161},{"match":"milkyHeyGuys","image_id":52667},{"match":"milkyCow","image_id":57018},{"match":"milkyEVB","image_id":90258},{"match":"milkyCaveman","image_id":102008}]}
+{
+  "name": "twitch-sub-milkgasm",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "milkyHey",
+      "image_id": 51160
+    },
+    {
+      "match": "milkyKutie",
+      "image_id": 51161
+    },
+    {
+      "match": "milkyHeyGuys",
+      "image_id": 52667
+    },
+    {
+      "match": "milkyCow",
+      "image_id": 57018
+    },
+    {
+      "match": "milkyEVB",
+      "image_id": 90258
+    },
+    {
+      "match": "milkyCaveman",
+      "image_id": 102008
+    }
+  ]
+}

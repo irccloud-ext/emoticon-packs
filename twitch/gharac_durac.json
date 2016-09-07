@@ -1,1 +1,39 @@
-{"name":"twitch-sub-gharac_durac","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gharacStart","image_id":73731},{"match":"gharacHeli","image_id":73656},{"match":"gharacMetal","image_id":73655},{"match":"gharacHype","image_id":76571},{"match":"gharacHat","image_id":74503},{"match":"gharacLove","image_id":74441},{"match":"gharacSchub","image_id":73555},{"match":"gharac103","image_id":86494}]}
+{
+  "name": "twitch-sub-gharac_durac",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gharacStart",
+      "image_id": 73731
+    },
+    {
+      "match": "gharacHeli",
+      "image_id": 73656
+    },
+    {
+      "match": "gharacMetal",
+      "image_id": 73655
+    },
+    {
+      "match": "gharacHype",
+      "image_id": 76571
+    },
+    {
+      "match": "gharacHat",
+      "image_id": 74503
+    },
+    {
+      "match": "gharacLove",
+      "image_id": 74441
+    },
+    {
+      "match": "gharacSchub",
+      "image_id": 73555
+    },
+    {
+      "match": "gharac103",
+      "image_id": 86494
+    }
+  ]
+}

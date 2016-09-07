@@ -1,1 +1,83 @@
-{"name":"twitch-sub-slootbag","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"slootyBeard","image_id":3596},{"match":"slootyCool","image_id":3595},{"match":"slootyHat","image_id":12924},{"match":"slootyCat1","image_id":15706},{"match":"slootyCat2","image_id":16344},{"match":"slootyHype","image_id":22493},{"match":"slootyQuote","image_id":22505},{"match":"slootyLeave","image_id":22511},{"match":"slootyFistLove","image_id":50195},{"match":"slootyWalrus","image_id":45440},{"match":"slootyMilk","image_id":45439},{"match":"slootyKL","image_id":78318},{"match":"slootyRigged","image_id":78317},{"match":"slootyKappa","image_id":78316},{"match":"slootySRN","image_id":78303},{"match":"slootySloth","image_id":100207},{"match":"slootyYear","image_id":100208},{"match":"slootyCreep","image_id":100209},{"match":"slootyGasm","image_id":100210}]}
+{
+  "name": "twitch-sub-slootbag",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "slootyBeard",
+      "image_id": 3596
+    },
+    {
+      "match": "slootyCool",
+      "image_id": 3595
+    },
+    {
+      "match": "slootyHat",
+      "image_id": 12924
+    },
+    {
+      "match": "slootyCat1",
+      "image_id": 15706
+    },
+    {
+      "match": "slootyCat2",
+      "image_id": 16344
+    },
+    {
+      "match": "slootyHype",
+      "image_id": 22493
+    },
+    {
+      "match": "slootyQuote",
+      "image_id": 22505
+    },
+    {
+      "match": "slootyLeave",
+      "image_id": 22511
+    },
+    {
+      "match": "slootyFistLove",
+      "image_id": 50195
+    },
+    {
+      "match": "slootyWalrus",
+      "image_id": 45440
+    },
+    {
+      "match": "slootyMilk",
+      "image_id": 45439
+    },
+    {
+      "match": "slootyKL",
+      "image_id": 78318
+    },
+    {
+      "match": "slootyRigged",
+      "image_id": 78317
+    },
+    {
+      "match": "slootyKappa",
+      "image_id": 78316
+    },
+    {
+      "match": "slootySRN",
+      "image_id": 78303
+    },
+    {
+      "match": "slootySloth",
+      "image_id": 100207
+    },
+    {
+      "match": "slootyYear",
+      "image_id": 100208
+    },
+    {
+      "match": "slootyCreep",
+      "image_id": 100209
+    },
+    {
+      "match": "slootyGasm",
+      "image_id": 100210
+    }
+  ]
+}

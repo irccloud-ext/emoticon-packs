@@ -1,1 +1,31 @@
-{"name":"twitch-sub-kiarastream","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kiaraPacPac","image_id":63010},{"match":"kiaraFail","image_id":63009},{"match":"kiaraHi","image_id":26858},{"match":"kiaraXD","image_id":26860},{"match":"kiaraAAU","image_id":80416},{"match":"kiaraKS","image_id":80417}]}
+{
+  "name": "twitch-sub-kiarastream",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kiaraPacPac",
+      "image_id": 63010
+    },
+    {
+      "match": "kiaraFail",
+      "image_id": 63009
+    },
+    {
+      "match": "kiaraHi",
+      "image_id": 26858
+    },
+    {
+      "match": "kiaraXD",
+      "image_id": 26860
+    },
+    {
+      "match": "kiaraAAU",
+      "image_id": 80416
+    },
+    {
+      "match": "kiaraKS",
+      "image_id": 80417
+    }
+  ]
+}

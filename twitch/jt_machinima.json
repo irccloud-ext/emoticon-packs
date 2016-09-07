@@ -1,1 +1,15 @@
-{"name":"twitch-sub-jt_machinima","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jtmachSKULL","image_id":73033},{"match":"jtmachOuch","image_id":74188}]}
+{
+  "name": "twitch-sub-jt_machinima",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jtmachSKULL",
+      "image_id": 73033
+    },
+    {
+      "match": "jtmachOuch",
+      "image_id": 74188
+    }
+  ]
+}

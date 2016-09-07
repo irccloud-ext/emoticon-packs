@@ -1,1 +1,39 @@
-{"name":"twitch-sub-gocnak","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gocSplat","image_id":11330},{"match":"gocHop","image_id":11068},{"match":"gocNerd","image_id":12139},{"match":"gocDognak","image_id":14446},{"match":"gocBar","image_id":15529},{"match":"gocLewd","image_id":16462},{"match":"gocLove","image_id":19956},{"match":"gocGlod","image_id":37660}]}
+{
+  "name": "twitch-sub-gocnak",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gocSplat",
+      "image_id": 11330
+    },
+    {
+      "match": "gocHop",
+      "image_id": 11068
+    },
+    {
+      "match": "gocNerd",
+      "image_id": 12139
+    },
+    {
+      "match": "gocDognak",
+      "image_id": 14446
+    },
+    {
+      "match": "gocBar",
+      "image_id": 15529
+    },
+    {
+      "match": "gocLewd",
+      "image_id": 16462
+    },
+    {
+      "match": "gocLove",
+      "image_id": 19956
+    },
+    {
+      "match": "gocGlod",
+      "image_id": 37660
+    }
+  ]
+}

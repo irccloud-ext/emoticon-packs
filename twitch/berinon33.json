@@ -1,1 +1,31 @@
-{"name":"twitch-sub-berinon33","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"berifailFail","image_id":97346},{"match":"berifailGoofi","image_id":97347},{"match":"berifailYolo","image_id":97348},{"match":"berifailArrow","image_id":97349},{"match":"berifailWafel","image_id":99274},{"match":"berifailCzop","image_id":107936}]}
+{
+  "name": "twitch-sub-berinon33",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "berifailFail",
+      "image_id": 97346
+    },
+    {
+      "match": "berifailGoofi",
+      "image_id": 97347
+    },
+    {
+      "match": "berifailYolo",
+      "image_id": 97348
+    },
+    {
+      "match": "berifailArrow",
+      "image_id": 97349
+    },
+    {
+      "match": "berifailWafel",
+      "image_id": 99274
+    },
+    {
+      "match": "berifailCzop",
+      "image_id": 107936
+    }
+  ]
+}

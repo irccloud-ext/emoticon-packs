@@ -1,1 +1,39 @@
-{"name":"twitch-sub-tinyxdestiny","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tinyDerp","image_id":59671},{"match":"tinyNom","image_id":82420},{"match":"tinySalt","image_id":59223},{"match":"tinyArcher","image_id":52659},{"match":"tinyLurk","image_id":52658},{"match":"tinyLove","image_id":57605},{"match":"tinyCry","image_id":59656},{"match":"tinyHi","image_id":83165}]}
+{
+  "name": "twitch-sub-tinyxdestiny",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tinyDerp",
+      "image_id": 59671
+    },
+    {
+      "match": "tinyNom",
+      "image_id": 82420
+    },
+    {
+      "match": "tinySalt",
+      "image_id": 59223
+    },
+    {
+      "match": "tinyArcher",
+      "image_id": 52659
+    },
+    {
+      "match": "tinyLurk",
+      "image_id": 52658
+    },
+    {
+      "match": "tinyLove",
+      "image_id": 57605
+    },
+    {
+      "match": "tinyCry",
+      "image_id": 59656
+    },
+    {
+      "match": "tinyHi",
+      "image_id": 83165
+    }
+  ]
+}

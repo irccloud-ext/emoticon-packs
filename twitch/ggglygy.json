@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ggglygy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gygFace","image_id":34263},{"match":"gygToxic","image_id":34546},{"match":"gygBye","image_id":34054},{"match":"gygCB","image_id":34053},{"match":"gygWin","image_id":35166},{"match":"gygSkull","image_id":35165}]}
+{
+  "name": "twitch-sub-ggglygy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gygFace",
+      "image_id": 34263
+    },
+    {
+      "match": "gygToxic",
+      "image_id": 34546
+    },
+    {
+      "match": "gygBye",
+      "image_id": 34054
+    },
+    {
+      "match": "gygCB",
+      "image_id": 34053
+    },
+    {
+      "match": "gygWin",
+      "image_id": 35166
+    },
+    {
+      "match": "gygSkull",
+      "image_id": 35165
+    }
+  ]
+}

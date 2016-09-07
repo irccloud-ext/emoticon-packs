@@ -1,1 +1,15 @@
-{"name":"twitch-sub-invictorgs3_tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vip98KHE","image_id":54580},{"match":"vip98PEPE","image_id":54577}]}
+{
+  "name": "twitch-sub-invictorgs3_tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vip98KHE",
+      "image_id": 54580
+    },
+    {
+      "match": "vip98PEPE",
+      "image_id": 54577
+    }
+  ]
+}

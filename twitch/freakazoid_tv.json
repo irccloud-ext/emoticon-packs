@@ -1,1 +1,43 @@
-{"name":"twitch-sub-freakazoid_tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"freakBicep","image_id":47176},{"match":"freakBreh","image_id":47179},{"match":"freakOh","image_id":47854},{"match":"freakKappa","image_id":48587},{"match":"freakBrick","image_id":48654},{"match":"freakWhistle","image_id":72196},{"match":"freakSellout","image_id":72198},{"match":"freakParty","image_id":73980},{"match":"freakLawl","image_id":74463}]}
+{
+  "name": "twitch-sub-freakazoid_tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "freakBicep",
+      "image_id": 47176
+    },
+    {
+      "match": "freakBreh",
+      "image_id": 47179
+    },
+    {
+      "match": "freakOh",
+      "image_id": 47854
+    },
+    {
+      "match": "freakKappa",
+      "image_id": 48587
+    },
+    {
+      "match": "freakBrick",
+      "image_id": 48654
+    },
+    {
+      "match": "freakWhistle",
+      "image_id": 72196
+    },
+    {
+      "match": "freakSellout",
+      "image_id": 72198
+    },
+    {
+      "match": "freakParty",
+      "image_id": 73980
+    },
+    {
+      "match": "freakLawl",
+      "image_id": 74463
+    }
+  ]
+}

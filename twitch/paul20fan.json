@@ -1,1 +1,15 @@
-{"name":"twitch-sub-paul20fan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"paul20fanNeko","image_id":35685},{"match":"paul20fanToto","image_id":35829}]}
+{
+  "name": "twitch-sub-paul20fan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "paul20fanNeko",
+      "image_id": 35685
+    },
+    {
+      "match": "paul20fanToto",
+      "image_id": 35829
+    }
+  ]
+}

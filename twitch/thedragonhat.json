@@ -1,1 +1,15 @@
-{"name":"twitch-sub-thedragonhat","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dhatKawaii","image_id":105401},{"match":"dhatNerd","image_id":105007}]}
+{
+  "name": "twitch-sub-thedragonhat",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dhatKawaii",
+      "image_id": 105401
+    },
+    {
+      "match": "dhatNerd",
+      "image_id": 105007
+    }
+  ]
+}

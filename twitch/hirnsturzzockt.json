@@ -1,1 +1,39 @@
-{"name":"twitch-sub-hirnsturzzockt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hizoHerz","image_id":35127},{"match":"hizoSubhype","image_id":44547},{"match":"hizoSchwierig","image_id":45091},{"match":"hizoFacepalm","image_id":52880},{"match":"hizoDaumen","image_id":52886},{"match":"hizoHype","image_id":45090},{"match":"hizoRip","image_id":44551},{"match":"hizoMephisto","image_id":109735}]}
+{
+  "name": "twitch-sub-hirnsturzzockt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hizoHerz",
+      "image_id": 35127
+    },
+    {
+      "match": "hizoSubhype",
+      "image_id": 44547
+    },
+    {
+      "match": "hizoSchwierig",
+      "image_id": 45091
+    },
+    {
+      "match": "hizoFacepalm",
+      "image_id": 52880
+    },
+    {
+      "match": "hizoDaumen",
+      "image_id": 52886
+    },
+    {
+      "match": "hizoHype",
+      "image_id": 45090
+    },
+    {
+      "match": "hizoRip",
+      "image_id": 44551
+    },
+    {
+      "match": "hizoMephisto",
+      "image_id": 109735
+    }
+  ]
+}

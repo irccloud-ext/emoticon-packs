@@ -1,1 +1,31 @@
-{"name":"twitch-sub-hearthmara","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dennyRAGE","image_id":60920},{"match":"dennyLUCKY","image_id":60959},{"match":"dennyW","image_id":64123},{"match":"dennyFAIL","image_id":73221},{"match":"dennyREKT","image_id":79294},{"match":"dennyHYPE","image_id":80715}]}
+{
+  "name": "twitch-sub-hearthmara",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dennyRAGE",
+      "image_id": 60920
+    },
+    {
+      "match": "dennyLUCKY",
+      "image_id": 60959
+    },
+    {
+      "match": "dennyW",
+      "image_id": 64123
+    },
+    {
+      "match": "dennyFAIL",
+      "image_id": 73221
+    },
+    {
+      "match": "dennyREKT",
+      "image_id": 79294
+    },
+    {
+      "match": "dennyHYPE",
+      "image_id": 80715
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-videogamerelay","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vgrMIKECHAMP","image_id":100091},{"match":"vgrCart","image_id":43862},{"match":"vgrLove","image_id":48683},{"match":"vgrHYPE","image_id":111652},{"match":"vgrCOOL","image_id":103079},{"match":"vgrHEY","image_id":107921},{"match":"vgrBLOOPIN","image_id":107930},{"match":"vgrLEWD","image_id":107922},{"match":"vgrSOILEDIT","image_id":108313}]}
+{
+  "name": "twitch-sub-videogamerelay",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vgrRIP",
+      "image_id": 112199
+    },
+    {
+      "match": "vgrMIKECHAMP",
+      "image_id": 100091
+    },
+    {
+      "match": "vgrHYPE",
+      "image_id": 111652
+    },
+    {
+      "match": "vgrCOOL",
+      "image_id": 103079
+    },
+    {
+      "match": "vgrHEY",
+      "image_id": 107921
+    },
+    {
+      "match": "vgrBLOOPIN",
+      "image_id": 107930
+    },
+    {
+      "match": "vgrLEWD",
+      "image_id": 107922
+    },
+    {
+      "match": "vgrSOILEDIT",
+      "image_id": 108313
+    },
+    {
+      "match": "vgrLOVE",
+      "image_id": 112200
+    },
+    {
+      "match": "vgrSELLOUT",
+      "image_id": 112313
+    }
+  ]
+}

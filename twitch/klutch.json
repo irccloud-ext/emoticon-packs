@@ -1,1 +1,31 @@
-{"name":"twitch-sub-klutch","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"klutchIlluminati","image_id":100092},{"match":"klutchEnough","image_id":81454},{"match":"klutchRigged","image_id":101136},{"match":"klutchHype","image_id":101686},{"match":"klutchWat","image_id":101687},{"match":"klutchHello","image_id":100972}]}
+{
+  "name": "twitch-sub-klutch",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "klutchIlluminati",
+      "image_id": 100092
+    },
+    {
+      "match": "klutchEnough",
+      "image_id": 81454
+    },
+    {
+      "match": "klutchRigged",
+      "image_id": 101136
+    },
+    {
+      "match": "klutchHype",
+      "image_id": 101686
+    },
+    {
+      "match": "klutchWat",
+      "image_id": 101687
+    },
+    {
+      "match": "klutchHello",
+      "image_id": 100972
+    }
+  ]
+}

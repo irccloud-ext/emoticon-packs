@@ -1,1 +1,35 @@
-{"name":"twitch-sub-haunt_machine","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bonezPraise","image_id":95451},{"match":"bonezLewd","image_id":95452},{"match":"bonezRage","image_id":95450},{"match":"bonezDrink","image_id":99618},{"match":"bonezRip","image_id":99620},{"match":"bonezRaid","image_id":99621},{"match":"bonezBye","image_id":99466}]}
+{
+  "name": "twitch-sub-haunt_machine",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bonezPraise",
+      "image_id": 95451
+    },
+    {
+      "match": "bonezLewd",
+      "image_id": 95452
+    },
+    {
+      "match": "bonezRage",
+      "image_id": 95450
+    },
+    {
+      "match": "bonezDrink",
+      "image_id": 99618
+    },
+    {
+      "match": "bonezRip",
+      "image_id": 99620
+    },
+    {
+      "match": "bonezRaid",
+      "image_id": 99621
+    },
+    {
+      "match": "bonezBye",
+      "image_id": 99466
+    }
+  ]
+}

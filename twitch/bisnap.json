@@ -1,1 +1,67 @@
-{"name":"twitch-sub-bisnap","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bisHype","image_id":2675},{"match":"bisFrog","image_id":4359},{"match":"bisNess","image_id":66015},{"match":"bisSnaps","image_id":12358},{"match":"bisMiss","image_id":12370},{"match":"bisMini","image_id":15358},{"match":"bisWOT","image_id":15359},{"match":"bisThump","image_id":22456},{"match":"bisHot","image_id":25535},{"match":"bisRIP","image_id":31833},{"match":"bisR","image_id":46811},{"match":"bisChan","image_id":62282},{"match":"bisP","image_id":62285},{"match":"bisG","image_id":72738},{"match":"bisSack","image_id":72739}]}
+{
+  "name": "twitch-sub-bisnap",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bisHype",
+      "image_id": 2675
+    },
+    {
+      "match": "bisFrog",
+      "image_id": 4359
+    },
+    {
+      "match": "bisNess",
+      "image_id": 66015
+    },
+    {
+      "match": "bisSnaps",
+      "image_id": 12358
+    },
+    {
+      "match": "bisMiss",
+      "image_id": 12370
+    },
+    {
+      "match": "bisMini",
+      "image_id": 15358
+    },
+    {
+      "match": "bisWOT",
+      "image_id": 15359
+    },
+    {
+      "match": "bisThump",
+      "image_id": 22456
+    },
+    {
+      "match": "bisHot",
+      "image_id": 25535
+    },
+    {
+      "match": "bisRIP",
+      "image_id": 31833
+    },
+    {
+      "match": "bisR",
+      "image_id": 46811
+    },
+    {
+      "match": "bisChan",
+      "image_id": 62282
+    },
+    {
+      "match": "bisP",
+      "image_id": 62285
+    },
+    {
+      "match": "bisG",
+      "image_id": 72738
+    },
+    {
+      "match": "bisSack",
+      "image_id": 72739
+    }
+  ]
+}

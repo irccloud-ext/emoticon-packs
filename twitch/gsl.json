@@ -1,1 +1,379 @@
-{"name":"twitch-sub-gsl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"expGG","image_id":4748},{"match":"expCheese","image_id":4749},{"match":"expWin","image_id":4750},{"match":"expLose","image_id":4751},{"match":"expEvertim","image_id":4752},{"match":"expSickCity","image_id":4753},{"match":"expIMBA","image_id":4754},{"match":"expGosu","image_id":4755},{"match":"expPylon","image_id":4756},{"match":"expGG","image_id":4758},{"match":"expCheese","image_id":4761},{"match":"expWin","image_id":4762},{"match":"expLose","image_id":4763},{"match":"expFighting","image_id":4775},{"match":"expFighting","image_id":4776},{"match":"GG","image_id":6202},{"match":"Cheese","image_id":6203},{"match":"Win","image_id":6204},{"match":"Lose","image_id":6205},{"match":"Fighting","image_id":6212},{"match":"GG","image_id":13836},{"match":"Cheese","image_id":13837},{"match":"Win","image_id":13838},{"match":"Lose","image_id":13839},{"match":"Fighting","image_id":13840},{"match":"expPP","image_id":17939},{"match":"expPP","image_id":17940},{"match":"expAcurse","image_id":17934},{"match":"expAmove","image_id":17935},{"match":"expKpm","image_id":17936},{"match":"expOP","image_id":17938},{"match":"expOP","image_id":17941},{"match":"expKpm","image_id":17942},{"match":"expAmove","image_id":17943},{"match":"expAcurse","image_id":17944},{"match":"gslStrix","image_id":47221},{"match":"gslGG2","image_id":47222},{"match":"gslGG2","image_id":47224},{"match":"gslStrix","image_id":47225},{"match":"OP","image_id":34154},{"match":"PP","image_id":34155},{"match":"Acurse","image_id":34157},{"match":"Amove","image_id":34158},{"match":"Kpm","image_id":34159},{"match":"OP","image_id":34160},{"match":"Acurse","image_id":34151},{"match":"Amove","image_id":34152},{"match":"Kpm","image_id":34153},{"match":"PP","image_id":34161},{"match":"Evertim","image_id":35667},{"match":"GG","image_id":35668},{"match":"IMBA","image_id":35669},{"match":"SickCity","image_id":35670},{"match":"Sup","image_id":35671},{"match":"gslGmedic","image_id":45706},{"match":"gslPotato","image_id":45708},{"match":"gslGyuri","image_id":45709},{"match":"gslGmedic","image_id":45711},{"match":"gslGmedic","image_id":45710},{"match":"gslTafro","image_id":45712},{"match":"gslGyuri","image_id":45713},{"match":"gslGyuri","image_id":45714},{"match":"gslPotato","image_id":45716},{"match":"gslPotato","image_id":45717},{"match":"gslTafro","image_id":45719},{"match":"gslTafro","image_id":45720},{"match":"gslStrix","image_id":47227},{"match":"gslGG2","image_id":47220},{"match":"gslSup","image_id":45347},{"match":"gslAcurse","image_id":45348},{"match":"gslAcurse","image_id":45338},{"match":"gslAmove","image_id":45339},{"match":"gslKpm","image_id":45340},{"match":"gslOP","image_id":45341},{"match":"gslPP","image_id":45342},{"match":"gslEvertim","image_id":45343},{"match":"gslGG","image_id":45344},{"match":"gslIMBA","image_id":45345},{"match":"gslSickCity","image_id":45346},{"match":"gslAmove","image_id":45349},{"match":"gslKpm","image_id":45350},{"match":"gslOP","image_id":45351},{"match":"gslPP","image_id":45352},{"match":"gslEvertim","image_id":45353},{"match":"gslGG","image_id":45354},{"match":"gslIMBA","image_id":45355},{"match":"gslSickCity","image_id":45356},{"match":"gslSup","image_id":45357},{"match":"gslPP","image_id":45359},{"match":"gslOP","image_id":45360},{"match":"gslKpm","image_id":45361},{"match":"gslAmove","image_id":45362},{"match":"gslAcurse","image_id":45363}]}
+{
+  "name": "twitch-sub-gsl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "expGG",
+      "image_id": 4748
+    },
+    {
+      "match": "expCheese",
+      "image_id": 4749
+    },
+    {
+      "match": "expWin",
+      "image_id": 4750
+    },
+    {
+      "match": "expLose",
+      "image_id": 4751
+    },
+    {
+      "match": "expEvertim",
+      "image_id": 4752
+    },
+    {
+      "match": "expSickCity",
+      "image_id": 4753
+    },
+    {
+      "match": "expIMBA",
+      "image_id": 4754
+    },
+    {
+      "match": "expGosu",
+      "image_id": 4755
+    },
+    {
+      "match": "expPylon",
+      "image_id": 4756
+    },
+    {
+      "match": "expGG",
+      "image_id": 4758
+    },
+    {
+      "match": "expCheese",
+      "image_id": 4761
+    },
+    {
+      "match": "expWin",
+      "image_id": 4762
+    },
+    {
+      "match": "expLose",
+      "image_id": 4763
+    },
+    {
+      "match": "expFighting",
+      "image_id": 4775
+    },
+    {
+      "match": "expFighting",
+      "image_id": 4776
+    },
+    {
+      "match": "GG",
+      "image_id": 6202
+    },
+    {
+      "match": "Cheese",
+      "image_id": 6203
+    },
+    {
+      "match": "Win",
+      "image_id": 6204
+    },
+    {
+      "match": "Lose",
+      "image_id": 6205
+    },
+    {
+      "match": "Fighting",
+      "image_id": 6212
+    },
+    {
+      "match": "GG",
+      "image_id": 13836
+    },
+    {
+      "match": "Cheese",
+      "image_id": 13837
+    },
+    {
+      "match": "Win",
+      "image_id": 13838
+    },
+    {
+      "match": "Lose",
+      "image_id": 13839
+    },
+    {
+      "match": "Fighting",
+      "image_id": 13840
+    },
+    {
+      "match": "expPP",
+      "image_id": 17939
+    },
+    {
+      "match": "expPP",
+      "image_id": 17940
+    },
+    {
+      "match": "expAcurse",
+      "image_id": 17934
+    },
+    {
+      "match": "expAmove",
+      "image_id": 17935
+    },
+    {
+      "match": "expKpm",
+      "image_id": 17936
+    },
+    {
+      "match": "expOP",
+      "image_id": 17938
+    },
+    {
+      "match": "expOP",
+      "image_id": 17941
+    },
+    {
+      "match": "expKpm",
+      "image_id": 17942
+    },
+    {
+      "match": "expAmove",
+      "image_id": 17943
+    },
+    {
+      "match": "expAcurse",
+      "image_id": 17944
+    },
+    {
+      "match": "gslStrix",
+      "image_id": 47221
+    },
+    {
+      "match": "gslGG2",
+      "image_id": 47222
+    },
+    {
+      "match": "gslGG2",
+      "image_id": 47224
+    },
+    {
+      "match": "gslStrix",
+      "image_id": 47225
+    },
+    {
+      "match": "OP",
+      "image_id": 34154
+    },
+    {
+      "match": "PP",
+      "image_id": 34155
+    },
+    {
+      "match": "Acurse",
+      "image_id": 34157
+    },
+    {
+      "match": "Amove",
+      "image_id": 34158
+    },
+    {
+      "match": "Kpm",
+      "image_id": 34159
+    },
+    {
+      "match": "OP",
+      "image_id": 34160
+    },
+    {
+      "match": "Acurse",
+      "image_id": 34151
+    },
+    {
+      "match": "Amove",
+      "image_id": 34152
+    },
+    {
+      "match": "Kpm",
+      "image_id": 34153
+    },
+    {
+      "match": "PP",
+      "image_id": 34161
+    },
+    {
+      "match": "Evertim",
+      "image_id": 35667
+    },
+    {
+      "match": "GG",
+      "image_id": 35668
+    },
+    {
+      "match": "IMBA",
+      "image_id": 35669
+    },
+    {
+      "match": "SickCity",
+      "image_id": 35670
+    },
+    {
+      "match": "Sup",
+      "image_id": 35671
+    },
+    {
+      "match": "gslGmedic",
+      "image_id": 45706
+    },
+    {
+      "match": "gslPotato",
+      "image_id": 45708
+    },
+    {
+      "match": "gslGyuri",
+      "image_id": 45709
+    },
+    {
+      "match": "gslGmedic",
+      "image_id": 45711
+    },
+    {
+      "match": "gslGmedic",
+      "image_id": 45710
+    },
+    {
+      "match": "gslTafro",
+      "image_id": 45712
+    },
+    {
+      "match": "gslGyuri",
+      "image_id": 45713
+    },
+    {
+      "match": "gslGyuri",
+      "image_id": 45714
+    },
+    {
+      "match": "gslPotato",
+      "image_id": 45716
+    },
+    {
+      "match": "gslPotato",
+      "image_id": 45717
+    },
+    {
+      "match": "gslTafro",
+      "image_id": 45719
+    },
+    {
+      "match": "gslTafro",
+      "image_id": 45720
+    },
+    {
+      "match": "gslStrix",
+      "image_id": 47227
+    },
+    {
+      "match": "gslGG2",
+      "image_id": 47220
+    },
+    {
+      "match": "gslSup",
+      "image_id": 45347
+    },
+    {
+      "match": "gslAcurse",
+      "image_id": 45348
+    },
+    {
+      "match": "gslAcurse",
+      "image_id": 45338
+    },
+    {
+      "match": "gslAmove",
+      "image_id": 45339
+    },
+    {
+      "match": "gslKpm",
+      "image_id": 45340
+    },
+    {
+      "match": "gslOP",
+      "image_id": 45341
+    },
+    {
+      "match": "gslPP",
+      "image_id": 45342
+    },
+    {
+      "match": "gslEvertim",
+      "image_id": 45343
+    },
+    {
+      "match": "gslGG",
+      "image_id": 45344
+    },
+    {
+      "match": "gslIMBA",
+      "image_id": 45345
+    },
+    {
+      "match": "gslSickCity",
+      "image_id": 45346
+    },
+    {
+      "match": "gslAmove",
+      "image_id": 45349
+    },
+    {
+      "match": "gslKpm",
+      "image_id": 45350
+    },
+    {
+      "match": "gslOP",
+      "image_id": 45351
+    },
+    {
+      "match": "gslPP",
+      "image_id": 45352
+    },
+    {
+      "match": "gslEvertim",
+      "image_id": 45353
+    },
+    {
+      "match": "gslGG",
+      "image_id": 45354
+    },
+    {
+      "match": "gslIMBA",
+      "image_id": 45355
+    },
+    {
+      "match": "gslSickCity",
+      "image_id": 45356
+    },
+    {
+      "match": "gslSup",
+      "image_id": 45357
+    },
+    {
+      "match": "gslPP",
+      "image_id": 45359
+    },
+    {
+      "match": "gslOP",
+      "image_id": 45360
+    },
+    {
+      "match": "gslKpm",
+      "image_id": 45361
+    },
+    {
+      "match": "gslAmove",
+      "image_id": 45362
+    },
+    {
+      "match": "gslAcurse",
+      "image_id": 45363
+    }
+  ]
+}

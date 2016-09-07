@@ -1,1 +1,11 @@
-{"name":"twitch-sub-cslgaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cslBambar","image_id":110237}]}
+{
+  "name": "twitch-sub-cslgaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cslBambar",
+      "image_id": 110237
+    }
+  ]
+}

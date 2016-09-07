@@ -1,1 +1,39 @@
-{"name":"twitch-sub-thefittestsurvivor","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dekiRIP","image_id":87173},{"match":"dekiGG","image_id":87172},{"match":"dekiPride","image_id":82407},{"match":"dekiFocus","image_id":82409},{"match":"dekiRage","image_id":82201},{"match":"dekiSwag","image_id":83266},{"match":"dekiREKT","image_id":87819},{"match":"dekiBRO","image_id":87820}]}
+{
+  "name": "twitch-sub-thefittestsurvivor",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dekiRIP",
+      "image_id": 87173
+    },
+    {
+      "match": "dekiGG",
+      "image_id": 87172
+    },
+    {
+      "match": "dekiPride",
+      "image_id": 82407
+    },
+    {
+      "match": "dekiFocus",
+      "image_id": 82409
+    },
+    {
+      "match": "dekiRage",
+      "image_id": 82201
+    },
+    {
+      "match": "dekiSwag",
+      "image_id": 83266
+    },
+    {
+      "match": "dekiREKT",
+      "image_id": 87819
+    },
+    {
+      "match": "dekiBRO",
+      "image_id": 87820
+    }
+  ]
+}

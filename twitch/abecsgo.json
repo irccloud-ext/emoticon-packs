@@ -1,1 +1,15 @@
-{"name":"twitch-sub-abecsgo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"abeAstronaut","image_id":40224},{"match":"abeHabibi","image_id":40390}]}
+{
+  "name": "twitch-sub-abecsgo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "abeAstronaut",
+      "image_id": 40224
+    },
+    {
+      "match": "abeHabibi",
+      "image_id": 40390
+    }
+  ]
+}

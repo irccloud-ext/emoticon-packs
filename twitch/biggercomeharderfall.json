@@ -1,1 +1,31 @@
-{"name":"twitch-sub-biggercomeharderfall","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"biggersubBiggerhype","image_id":71315},{"match":"biggersubHoly","image_id":105820},{"match":"biggersubBoss","image_id":105549},{"match":"biggersubProudpr","image_id":105525},{"match":"biggersubPride2","image_id":105524},{"match":"biggersubPride","image_id":105473}]}
+{
+  "name": "twitch-sub-biggercomeharderfall",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "biggersubBiggerhype",
+      "image_id": 71315
+    },
+    {
+      "match": "biggersubHoly",
+      "image_id": 105820
+    },
+    {
+      "match": "biggersubBoss",
+      "image_id": 105549
+    },
+    {
+      "match": "biggersubProudpr",
+      "image_id": 105525
+    },
+    {
+      "match": "biggersubPride2",
+      "image_id": 105524
+    },
+    {
+      "match": "biggersubPride",
+      "image_id": 105473
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-benita29","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"beniCry","image_id":78800},{"match":"beniHype","image_id":60359},{"match":"beniCLG","image_id":60404},{"match":"beniLove","image_id":60360},{"match":"beniRage","image_id":60361},{"match":"beniWave","image_id":60414},{"match":"beniFail","image_id":78799},{"match":"beniFeels","image_id":79497}]}
+{
+  "name": "twitch-sub-benita29",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "beniCry",
+      "image_id": 78800
+    },
+    {
+      "match": "beniHype",
+      "image_id": 60359
+    },
+    {
+      "match": "beniCLG",
+      "image_id": 60404
+    },
+    {
+      "match": "beniLove",
+      "image_id": 60360
+    },
+    {
+      "match": "beniRage",
+      "image_id": 60361
+    },
+    {
+      "match": "beniWave",
+      "image_id": 60414
+    },
+    {
+      "match": "beniFail",
+      "image_id": 78799
+    },
+    {
+      "match": "beniFeels",
+      "image_id": 79497
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-waspinat0r","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"waspW","image_id":54791},{"match":"waspG","image_id":54792}]}
+{
+  "name": "twitch-sub-waspinat0r",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "waspW",
+      "image_id": 54791
+    },
+    {
+      "match": "waspG",
+      "image_id": 54792
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-dorirodo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dodoBo1","image_id":15862},{"match":"dodoR","image_id":17324}]}
+{
+  "name": "twitch-sub-dorirodo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dodoBo1",
+      "image_id": 15862
+    },
+    {
+      "match": "dodoR",
+      "image_id": 17324
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-deathiance","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"deathianceW","image_id":52445},{"match":"deathianceGasm","image_id":52768},{"match":"deathianceChamp","image_id":54927},{"match":"deathianceHype","image_id":54949}]}
+{
+  "name": "twitch-sub-deathiance",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "deathianceW",
+      "image_id": 52445
+    },
+    {
+      "match": "deathianceGasm",
+      "image_id": 52768
+    },
+    {
+      "match": "deathianceChamp",
+      "image_id": 54927
+    },
+    {
+      "match": "deathianceHype",
+      "image_id": 54949
+    }
+  ]
+}

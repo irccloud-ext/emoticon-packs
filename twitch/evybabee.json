@@ -1,1 +1,23 @@
-{"name":"twitch-sub-evybabee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"evyChoke","image_id":83880},{"match":"evyDev","image_id":82834},{"match":"evyGstar","image_id":82435},{"match":"evyFcee","image_id":82438}]}
+{
+  "name": "twitch-sub-evybabee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "evyChoke",
+      "image_id": 83880
+    },
+    {
+      "match": "evyDev",
+      "image_id": 82834
+    },
+    {
+      "match": "evyGstar",
+      "image_id": 82435
+    },
+    {
+      "match": "evyFcee",
+      "image_id": 82438
+    }
+  ]
+}

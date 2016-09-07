@@ -1,1 +1,39 @@
-{"name":"twitch-sub-spaitogaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"spaitoLove","image_id":75364},{"match":"spaitoGitgud","image_id":75365},{"match":"spaitoCry","image_id":75370},{"match":"spaitoHehe","image_id":75371},{"match":"spaitoHype","image_id":75363},{"match":"spaitoBaka","image_id":75362},{"match":"spaitoSuhDude","image_id":84651},{"match":"spaitoHotpotato","image_id":78797}]}
+{
+  "name": "twitch-sub-spaitogaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "spaitoLove",
+      "image_id": 75364
+    },
+    {
+      "match": "spaitoGitgud",
+      "image_id": 75365
+    },
+    {
+      "match": "spaitoCry",
+      "image_id": 75370
+    },
+    {
+      "match": "spaitoHehe",
+      "image_id": 75371
+    },
+    {
+      "match": "spaitoHype",
+      "image_id": 75363
+    },
+    {
+      "match": "spaitoBaka",
+      "image_id": 75362
+    },
+    {
+      "match": "spaitoSuhDude",
+      "image_id": 84651
+    },
+    {
+      "match": "spaitoHotpotato",
+      "image_id": 78797
+    }
+  ]
+}

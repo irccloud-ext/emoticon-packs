@@ -1,1 +1,31 @@
-{"name":"twitch-sub-thebestginger13","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gingerLongshot","image_id":82743},{"match":"gingerFace","image_id":75294},{"match":"gingerHotdog","image_id":75295},{"match":"gingerRip","image_id":75807},{"match":"gingerHype","image_id":80761},{"match":"gingerDingDong","image_id":84802}]}
+{
+  "name": "twitch-sub-thebestginger13",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gingerLongshot",
+      "image_id": 82743
+    },
+    {
+      "match": "gingerFace",
+      "image_id": 75294
+    },
+    {
+      "match": "gingerHotdog",
+      "image_id": 75295
+    },
+    {
+      "match": "gingerRip",
+      "image_id": 75807
+    },
+    {
+      "match": "gingerHype",
+      "image_id": 80761
+    },
+    {
+      "match": "gingerDingDong",
+      "image_id": 84802
+    }
+  ]
+}

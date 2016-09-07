@@ -1,1 +1,47 @@
-{"name":"twitch-sub-oldvulpine","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"oldTeef","image_id":111071},{"match":"oldLove","image_id":111072},{"match":"old3","image_id":111073},{"match":"oldThump","image_id":111074},{"match":"oldSpoop","image_id":111075},{"match":"oldFat","image_id":111076},{"match":"oldBlind","image_id":111077},{"match":"oldBruh","image_id":111078},{"match":"oldSick","image_id":111079},{"match":"oldHD","image_id":111080}]}
+{
+  "name": "twitch-sub-oldvulpine",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "oldTeef",
+      "image_id": 111071
+    },
+    {
+      "match": "oldLove",
+      "image_id": 111072
+    },
+    {
+      "match": "old3",
+      "image_id": 111073
+    },
+    {
+      "match": "oldThump",
+      "image_id": 111074
+    },
+    {
+      "match": "oldSpoop",
+      "image_id": 111075
+    },
+    {
+      "match": "oldFat",
+      "image_id": 111076
+    },
+    {
+      "match": "oldBlind",
+      "image_id": 111077
+    },
+    {
+      "match": "oldBruh",
+      "image_id": 111078
+    },
+    {
+      "match": "oldSick",
+      "image_id": 111079
+    },
+    {
+      "match": "oldHD",
+      "image_id": 111080
+    }
+  ]
+}

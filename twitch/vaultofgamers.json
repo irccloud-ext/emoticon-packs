@@ -1,1 +1,47 @@
-{"name":"twitch-sub-vaultofgamers","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vogGG","image_id":98197},{"match":"vogCry","image_id":99032},{"match":"vogHype","image_id":99033},{"match":"vogRekt","image_id":99034},{"match":"vogVac","image_id":99035},{"match":"vogVog","image_id":99036},{"match":"vogAlkis","image_id":101824},{"match":"vogKawai","image_id":101825},{"match":"vogPride","image_id":105135},{"match":"vogFail","image_id":105134}]}
+{
+  "name": "twitch-sub-vaultofgamers",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vogGG",
+      "image_id": 98197
+    },
+    {
+      "match": "vogCry",
+      "image_id": 99032
+    },
+    {
+      "match": "vogHype",
+      "image_id": 99033
+    },
+    {
+      "match": "vogRekt",
+      "image_id": 99034
+    },
+    {
+      "match": "vogVac",
+      "image_id": 99035
+    },
+    {
+      "match": "vogVog",
+      "image_id": 99036
+    },
+    {
+      "match": "vogAlkis",
+      "image_id": 101824
+    },
+    {
+      "match": "vogKawai",
+      "image_id": 101825
+    },
+    {
+      "match": "vogPride",
+      "image_id": 105135
+    },
+    {
+      "match": "vogFail",
+      "image_id": 105134
+    }
+  ]
+}

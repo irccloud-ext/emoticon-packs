@@ -1,1 +1,67 @@
-{"name":"twitch-sub-grimmybear","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"grimmyASUH","image_id":106206},{"match":"grimmyRIP","image_id":52458},{"match":"grimmyGASM","image_id":52456},{"match":"grimmyDU","image_id":54854},{"match":"grimmyRAID","image_id":40771},{"match":"grimmyHYPE","image_id":40816},{"match":"grimmySAD","image_id":40920},{"match":"grimmyRAGE","image_id":40339},{"match":"grimmyLOVE","image_id":40475},{"match":"grimmyKAPPA","image_id":40609},{"match":"grimmyREKT","image_id":40628},{"match":"grimmyHEY","image_id":106333},{"match":"grimmyFEELS","image_id":96502},{"match":"grimmyPOTATO","image_id":105959},{"match":"grimmyLUL","image_id":108961}]}
+{
+  "name": "twitch-sub-grimmybear",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "grimmyASUH",
+      "image_id": 106206
+    },
+    {
+      "match": "grimmyRIP",
+      "image_id": 52458
+    },
+    {
+      "match": "grimmyGASM",
+      "image_id": 52456
+    },
+    {
+      "match": "grimmyDU",
+      "image_id": 54854
+    },
+    {
+      "match": "grimmyRAID",
+      "image_id": 40771
+    },
+    {
+      "match": "grimmyHYPE",
+      "image_id": 40816
+    },
+    {
+      "match": "grimmySAD",
+      "image_id": 40920
+    },
+    {
+      "match": "grimmyRAGE",
+      "image_id": 40339
+    },
+    {
+      "match": "grimmyLOVE",
+      "image_id": 40475
+    },
+    {
+      "match": "grimmyKAPPA",
+      "image_id": 40609
+    },
+    {
+      "match": "grimmyREKT",
+      "image_id": 40628
+    },
+    {
+      "match": "grimmyHEY",
+      "image_id": 106333
+    },
+    {
+      "match": "grimmyFEELS",
+      "image_id": 96502
+    },
+    {
+      "match": "grimmyPOTATO",
+      "image_id": 105959
+    },
+    {
+      "match": "grimmyLUL",
+      "image_id": 108961
+    }
+  ]
+}

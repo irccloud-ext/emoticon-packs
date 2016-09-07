@@ -1,1 +1,39 @@
-{"name":"twitch-sub-kizzmett","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kiizzKitty","image_id":20391},{"match":"kiizzRubick","image_id":24090},{"match":"kiizzHype","image_id":36824},{"match":"kiizzRage","image_id":38223},{"match":"kiizzSad","image_id":38224},{"match":"kiizzMer","image_id":38987},{"match":"kiizzReject","image_id":48096},{"match":"kiizzGush","image_id":48135}]}
+{
+  "name": "twitch-sub-kizzmett",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kiizzKitty",
+      "image_id": 20391
+    },
+    {
+      "match": "kiizzRubick",
+      "image_id": 24090
+    },
+    {
+      "match": "kiizzHype",
+      "image_id": 36824
+    },
+    {
+      "match": "kiizzRage",
+      "image_id": 38223
+    },
+    {
+      "match": "kiizzSad",
+      "image_id": 38224
+    },
+    {
+      "match": "kiizzMer",
+      "image_id": 38987
+    },
+    {
+      "match": "kiizzReject",
+      "image_id": 48096
+    },
+    {
+      "match": "kiizzGush",
+      "image_id": 48135
+    }
+  ]
+}

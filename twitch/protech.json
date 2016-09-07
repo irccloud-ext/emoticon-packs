@@ -1,1 +1,47 @@
-{"name":"twitch-sub-protech","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ptchPoo","image_id":3966},{"match":"ptchDidit","image_id":4008},{"match":"ptchMed","image_id":4033},{"match":"ptchEZ","image_id":29725},{"match":"ptchRekt","image_id":29726},{"match":"ptchLol","image_id":29954},{"match":"ptchFail","image_id":29955},{"match":"ptchRage","image_id":29956},{"match":"ptchMad","image_id":46919},{"match":"ptchSalt","image_id":46920}]}
+{
+  "name": "twitch-sub-protech",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ptchPoo",
+      "image_id": 3966
+    },
+    {
+      "match": "ptchDidit",
+      "image_id": 4008
+    },
+    {
+      "match": "ptchMed",
+      "image_id": 4033
+    },
+    {
+      "match": "ptchEZ",
+      "image_id": 29725
+    },
+    {
+      "match": "ptchRekt",
+      "image_id": 29726
+    },
+    {
+      "match": "ptchLol",
+      "image_id": 29954
+    },
+    {
+      "match": "ptchFail",
+      "image_id": 29955
+    },
+    {
+      "match": "ptchRage",
+      "image_id": 29956
+    },
+    {
+      "match": "ptchMad",
+      "image_id": 46919
+    },
+    {
+      "match": "ptchSalt",
+      "image_id": 46920
+    }
+  ]
+}

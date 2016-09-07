@@ -1,1 +1,47 @@
-{"name":"twitch-sub-mogee_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mogsLove","image_id":53902},{"match":"mogsFlock","image_id":22736},{"match":"mogsLoud","image_id":66176},{"match":"mogsW","image_id":66152},{"match":"mogsSad","image_id":61503},{"match":"mogsBang","image_id":66867},{"match":"mogsD","image_id":100522},{"match":"mogsD2","image_id":100523},{"match":"mogsG","image_id":100511},{"match":"mogsAmazing","image_id":107775}]}
+{
+  "name": "twitch-sub-mogee_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mogsLove",
+      "image_id": 53902
+    },
+    {
+      "match": "mogsFlock",
+      "image_id": 22736
+    },
+    {
+      "match": "mogsLoud",
+      "image_id": 66176
+    },
+    {
+      "match": "mogsW",
+      "image_id": 66152
+    },
+    {
+      "match": "mogsSad",
+      "image_id": 61503
+    },
+    {
+      "match": "mogsBang",
+      "image_id": 66867
+    },
+    {
+      "match": "mogsD",
+      "image_id": 100522
+    },
+    {
+      "match": "mogsD2",
+      "image_id": 100523
+    },
+    {
+      "match": "mogsG",
+      "image_id": 100511
+    },
+    {
+      "match": "mogsAmazing",
+      "image_id": 107775
+    }
+  ]
+}

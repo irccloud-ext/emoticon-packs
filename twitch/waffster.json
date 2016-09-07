@@ -1,1 +1,11 @@
-{"name":"twitch-sub-waffster","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"waffsterPatron","image_id":63369}]}
+{
+  "name": "twitch-sub-waffster",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "waffsterPatron",
+      "image_id": 63369
+    }
+  ]
+}

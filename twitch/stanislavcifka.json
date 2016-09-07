@@ -1,1 +1,15 @@
-{"name":"twitch-sub-stanislavcifka","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cifkaApe","image_id":89086},{"match":"cifkaReno","image_id":88659}]}
+{
+  "name": "twitch-sub-stanislavcifka",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cifkaApe",
+      "image_id": 89086
+    },
+    {
+      "match": "cifkaReno",
+      "image_id": 88659
+    }
+  ]
+}

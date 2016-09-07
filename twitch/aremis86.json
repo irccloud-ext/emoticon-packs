@@ -1,1 +1,35 @@
-{"name":"twitch-sub-aremis86","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"maggiDante","image_id":40938},{"match":"maggiLove","image_id":40439},{"match":"maggiFlask","image_id":40563},{"match":"maggiIjo","image_id":40562},{"match":"maggiFufu","image_id":46509},{"match":"maggiHdf","image_id":46857},{"match":"maggiSarc","image_id":51175}]}
+{
+  "name": "twitch-sub-aremis86",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "maggiDante",
+      "image_id": 40938
+    },
+    {
+      "match": "maggiLove",
+      "image_id": 40439
+    },
+    {
+      "match": "maggiFlask",
+      "image_id": 40563
+    },
+    {
+      "match": "maggiIjo",
+      "image_id": 40562
+    },
+    {
+      "match": "maggiFufu",
+      "image_id": 46509
+    },
+    {
+      "match": "maggiHdf",
+      "image_id": 46857
+    },
+    {
+      "match": "maggiSarc",
+      "image_id": 51175
+    }
+  ]
+}

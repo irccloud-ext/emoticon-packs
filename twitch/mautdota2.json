@@ -1,1 +1,23 @@
-{"name":"twitch-sub-mautdota2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mautManly","image_id":24242},{"match":"mautMark","image_id":40951},{"match":"mautBodied","image_id":40941},{"match":"mautIsm","image_id":91426}]}
+{
+  "name": "twitch-sub-mautdota2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mautManly",
+      "image_id": 24242
+    },
+    {
+      "match": "mautMark",
+      "image_id": 40951
+    },
+    {
+      "match": "mautBodied",
+      "image_id": 40941
+    },
+    {
+      "match": "mautIsm",
+      "image_id": 91426
+    }
+  ]
+}

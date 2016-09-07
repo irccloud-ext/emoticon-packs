@@ -1,1 +1,55 @@
-{"name":"twitch-sub-gpipoker","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gpiMets","image_id":95612},{"match":"gpiAviators","image_id":94445},{"match":"gpiBears","image_id":94446},{"match":"gpiEmperors","image_id":94447},{"match":"gpiMoneymakers","image_id":94448},{"match":"gpiNationals","image_id":94449},{"match":"gpiRounders","image_id":94450},{"match":"gpiRoyals","image_id":94451},{"match":"gpiRush","image_id":94452},{"match":"gpiStars","image_id":94453},{"match":"gpiSunset","image_id":94454},{"match":"gpiWolverines","image_id":94455}]}
+{
+  "name": "twitch-sub-gpipoker",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gpiMets",
+      "image_id": 95612
+    },
+    {
+      "match": "gpiAviators",
+      "image_id": 94445
+    },
+    {
+      "match": "gpiBears",
+      "image_id": 94446
+    },
+    {
+      "match": "gpiEmperors",
+      "image_id": 94447
+    },
+    {
+      "match": "gpiMoneymakers",
+      "image_id": 94448
+    },
+    {
+      "match": "gpiNationals",
+      "image_id": 94449
+    },
+    {
+      "match": "gpiRounders",
+      "image_id": 94450
+    },
+    {
+      "match": "gpiRoyals",
+      "image_id": 94451
+    },
+    {
+      "match": "gpiRush",
+      "image_id": 94452
+    },
+    {
+      "match": "gpiStars",
+      "image_id": 94453
+    },
+    {
+      "match": "gpiSunset",
+      "image_id": 94454
+    },
+    {
+      "match": "gpiWolverines",
+      "image_id": 94455
+    }
+  ]
+}

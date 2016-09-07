@@ -1,1 +1,39 @@
-{"name":"twitch-sub-mad_ani","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"madSkull","image_id":3051},{"match":"madCat","image_id":3022},{"match":"madBomb","image_id":3023},{"match":"madBeer","image_id":3087},{"match":"madGun","image_id":3021},{"match":"madAni","image_id":3086},{"match":"madDJ","image_id":3052},{"match":"madWater","image_id":3649}]}
+{
+  "name": "twitch-sub-mad_ani",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "madSkull",
+      "image_id": 3051
+    },
+    {
+      "match": "madCat",
+      "image_id": 3022
+    },
+    {
+      "match": "madBomb",
+      "image_id": 3023
+    },
+    {
+      "match": "madBeer",
+      "image_id": 3087
+    },
+    {
+      "match": "madGun",
+      "image_id": 3021
+    },
+    {
+      "match": "madAni",
+      "image_id": 3086
+    },
+    {
+      "match": "madDJ",
+      "image_id": 3052
+    },
+    {
+      "match": "madWater",
+      "image_id": 3649
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-nitenightkid","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"niteFeel","image_id":45593},{"match":"nitePleb","image_id":51111},{"match":"niteNight","image_id":43698},{"match":"niteFlip","image_id":43717},{"match":"niteIce","image_id":43747},{"match":"niteHaga","image_id":49700},{"match":"niteGurl","image_id":49699},{"match":"niteHam","image_id":62885}]}
+{
+  "name": "twitch-sub-nitenightkid",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "niteFeel",
+      "image_id": 45593
+    },
+    {
+      "match": "nitePleb",
+      "image_id": 51111
+    },
+    {
+      "match": "niteNight",
+      "image_id": 43698
+    },
+    {
+      "match": "niteFlip",
+      "image_id": 43717
+    },
+    {
+      "match": "niteIce",
+      "image_id": 43747
+    },
+    {
+      "match": "niteHaga",
+      "image_id": 49700
+    },
+    {
+      "match": "niteGurl",
+      "image_id": 49699
+    },
+    {
+      "match": "niteHam",
+      "image_id": 62885
+    }
+  ]
+}

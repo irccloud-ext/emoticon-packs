@@ -1,1 +1,31 @@
-{"name":"twitch-sub-zodiacsmash","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fatMaceFace","image_id":1491},{"match":"fatMoFace","image_id":1136},{"match":"fatMochicken","image_id":4266},{"match":"fatRipcube","image_id":8107},{"match":"fatClassicFalcoTactic","image_id":35575},{"match":"fatWtf","image_id":35808}]}
+{
+  "name": "twitch-sub-zodiacsmash",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fatMaceFace",
+      "image_id": 1491
+    },
+    {
+      "match": "fatMoFace",
+      "image_id": 1136
+    },
+    {
+      "match": "fatMochicken",
+      "image_id": 4266
+    },
+    {
+      "match": "fatRipcube",
+      "image_id": 8107
+    },
+    {
+      "match": "fatClassicFalcoTactic",
+      "image_id": 35575
+    },
+    {
+      "match": "fatWtf",
+      "image_id": 35808
+    }
+  ]
+}

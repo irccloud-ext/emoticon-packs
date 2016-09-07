@@ -1,1 +1,27 @@
-{"name":"twitch-sub-cinmarrs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cinThirdAge","image_id":11334},{"match":"cinFlag","image_id":11335},{"match":"cinClueBell","image_id":11355},{"match":"cinClue","image_id":11407},{"match":"cinKappa","image_id":12402}]}
+{
+  "name": "twitch-sub-cinmarrs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cinThirdAge",
+      "image_id": 11334
+    },
+    {
+      "match": "cinFlag",
+      "image_id": 11335
+    },
+    {
+      "match": "cinClueBell",
+      "image_id": 11355
+    },
+    {
+      "match": "cinClue",
+      "image_id": 11407
+    },
+    {
+      "match": "cinKappa",
+      "image_id": 12402
+    }
+  ]
+}

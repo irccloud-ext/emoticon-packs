@@ -1,1 +1,39 @@
-{"name":"twitch-sub-arcsecond","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"arcsecHYPE","image_id":103899},{"match":"arcsecQuellie","image_id":103728},{"match":"arcsecCat","image_id":102163},{"match":"arcsecNICE","image_id":102560},{"match":"arcsecBottle","image_id":103197},{"match":"arcsecOHNO","image_id":103496},{"match":"arcsecWorth","image_id":106085},{"match":"arcsecRank1","image_id":109741}]}
+{
+  "name": "twitch-sub-arcsecond",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "arcsecHYPE",
+      "image_id": 103899
+    },
+    {
+      "match": "arcsecQuellie",
+      "image_id": 103728
+    },
+    {
+      "match": "arcsecCat",
+      "image_id": 102163
+    },
+    {
+      "match": "arcsecNICE",
+      "image_id": 102560
+    },
+    {
+      "match": "arcsecBottle",
+      "image_id": 103197
+    },
+    {
+      "match": "arcsecOHNO",
+      "image_id": 103496
+    },
+    {
+      "match": "arcsecWorth",
+      "image_id": 106085
+    },
+    {
+      "match": "arcsecRank1",
+      "image_id": 109741
+    }
+  ]
+}

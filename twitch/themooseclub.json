@@ -1,1 +1,27 @@
-{"name":"twitch-sub-themooseclub","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mooseGG","image_id":13606},{"match":"mooseValue","image_id":13607},{"match":"mooseHupra","image_id":15285},{"match":"mooseKew","image_id":15286},{"match":"mooseMusic","image_id":15353}]}
+{
+  "name": "twitch-sub-themooseclub",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mooseGG",
+      "image_id": 13606
+    },
+    {
+      "match": "mooseValue",
+      "image_id": 13607
+    },
+    {
+      "match": "mooseHupra",
+      "image_id": 15285
+    },
+    {
+      "match": "mooseKew",
+      "image_id": 15286
+    },
+    {
+      "match": "mooseMusic",
+      "image_id": 15353
+    }
+  ]
+}

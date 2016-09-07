@@ -1,1 +1,39 @@
-{"name":"twitch-sub-greensam17","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gsamRage","image_id":88395},{"match":"gsamSpitfire","image_id":76320},{"match":"gsamTato","image_id":79714},{"match":"gsamLifeblood","image_id":79712},{"match":"gsamFlag","image_id":79713},{"match":"gsamPopcorn","image_id":79775},{"match":"gsamRaiders","image_id":79783},{"match":"gsamLewd","image_id":88591}]}
+{
+  "name": "twitch-sub-greensam17",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gsamRage",
+      "image_id": 88395
+    },
+    {
+      "match": "gsamSpitfire",
+      "image_id": 76320
+    },
+    {
+      "match": "gsamTato",
+      "image_id": 79714
+    },
+    {
+      "match": "gsamLifeblood",
+      "image_id": 79712
+    },
+    {
+      "match": "gsamFlag",
+      "image_id": 79713
+    },
+    {
+      "match": "gsamPopcorn",
+      "image_id": 79775
+    },
+    {
+      "match": "gsamRaiders",
+      "image_id": 79783
+    },
+    {
+      "match": "gsamLewd",
+      "image_id": 88591
+    }
+  ]
+}

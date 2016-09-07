@@ -1,1 +1,39 @@
-{"name":"twitch-sub-lanaiyu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lanaiyuHmm","image_id":12479},{"match":"lanaiyuPills","image_id":15105},{"match":"lanaiyu3Small","image_id":15288},{"match":"lanaiyuSifan","image_id":30412},{"match":"lanaiyuSmile","image_id":30034},{"match":"lanaiyuNosay","image_id":83954},{"match":"lanaiyu87","image_id":81001},{"match":"lanaiyuHello","image_id":88676}]}
+{
+  "name": "twitch-sub-lanaiyu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lanaiyuHmm",
+      "image_id": 12479
+    },
+    {
+      "match": "lanaiyuPills",
+      "image_id": 15105
+    },
+    {
+      "match": "lanaiyu3Small",
+      "image_id": 15288
+    },
+    {
+      "match": "lanaiyuSifan",
+      "image_id": 30412
+    },
+    {
+      "match": "lanaiyuSmile",
+      "image_id": 30034
+    },
+    {
+      "match": "lanaiyuNosay",
+      "image_id": 83954
+    },
+    {
+      "match": "lanaiyu87",
+      "image_id": 81001
+    },
+    {
+      "match": "lanaiyuHello",
+      "image_id": 88676
+    }
+  ]
+}

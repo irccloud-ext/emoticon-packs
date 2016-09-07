@@ -1,1 +1,39 @@
-{"name":"twitch-sub-cooljstream","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kralaCoolj","image_id":65844},{"match":"kralaTcho","image_id":79947},{"match":"kralaOhyeah","image_id":65218},{"match":"kralaFail","image_id":65251},{"match":"kralaWhy","image_id":71823},{"match":"kralaYep","image_id":67627},{"match":"kralaRip","image_id":67629},{"match":"kralaBourdel","image_id":70459}]}
+{
+  "name": "twitch-sub-cooljstream",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kralaCoolj",
+      "image_id": 65844
+    },
+    {
+      "match": "kralaTcho",
+      "image_id": 79947
+    },
+    {
+      "match": "kralaOhyeah",
+      "image_id": 65218
+    },
+    {
+      "match": "kralaFail",
+      "image_id": 65251
+    },
+    {
+      "match": "kralaWhy",
+      "image_id": 71823
+    },
+    {
+      "match": "kralaYep",
+      "image_id": 67627
+    },
+    {
+      "match": "kralaRip",
+      "image_id": 67629
+    },
+    {
+      "match": "kralaBourdel",
+      "image_id": 70459
+    }
+  ]
+}

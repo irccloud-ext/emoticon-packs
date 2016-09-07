@@ -1,1 +1,19 @@
-{"name":"twitch-sub-darkceo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"drkParia","image_id":1635},{"match":"drkCool","image_id":1721},{"match":"drkThump","image_id":12707}]}
+{
+  "name": "twitch-sub-darkceo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "drkParia",
+      "image_id": 1635
+    },
+    {
+      "match": "drkCool",
+      "image_id": 1721
+    },
+    {
+      "match": "drkThump",
+      "image_id": 12707
+    }
+  ]
+}

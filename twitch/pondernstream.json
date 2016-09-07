@@ -1,1 +1,31 @@
-{"name":"twitch-sub-pondernstream","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pond1Trivelig","image_id":85141},{"match":"pond1Ruben","image_id":86540},{"match":"pond1Hockey","image_id":86451},{"match":"pond1Smil","image_id":85120},{"match":"pond1Beer","image_id":99925},{"match":"pond1Bernti","image_id":100312}]}
+{
+  "name": "twitch-sub-pondernstream",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pond1Trivelig",
+      "image_id": 85141
+    },
+    {
+      "match": "pond1Ruben",
+      "image_id": 86540
+    },
+    {
+      "match": "pond1Hockey",
+      "image_id": 86451
+    },
+    {
+      "match": "pond1Smil",
+      "image_id": 85120
+    },
+    {
+      "match": "pond1Beer",
+      "image_id": 99925
+    },
+    {
+      "match": "pond1Bernti",
+      "image_id": 100312
+    }
+  ]
+}

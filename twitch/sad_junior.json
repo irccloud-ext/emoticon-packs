@@ -1,1 +1,23 @@
-{"name":"twitch-sub-sad_junior","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"isadHype","image_id":65034},{"match":"isadJuke","image_id":64092},{"match":"isadBang","image_id":69083},{"match":"isadShot","image_id":69084}]}
+{
+  "name": "twitch-sub-sad_junior",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "isadHype",
+      "image_id": 65034
+    },
+    {
+      "match": "isadJuke",
+      "image_id": 64092
+    },
+    {
+      "match": "isadBang",
+      "image_id": 69083
+    },
+    {
+      "match": "isadShot",
+      "image_id": 69084
+    }
+  ]
+}

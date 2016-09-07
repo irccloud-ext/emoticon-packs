@@ -1,1 +1,43 @@
-{"name":"twitch-sub-sick_nerd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sickTumble","image_id":16524},{"match":"sickLife","image_id":15035},{"match":"sickDC","image_id":15126},{"match":"sickMate","image_id":14279},{"match":"sickCya","image_id":15404},{"match":"sickKappa","image_id":22643},{"match":"sickSalt","image_id":32203},{"match":"sickCamel","image_id":32318},{"match":"sickVoice","image_id":46419}]}
+{
+  "name": "twitch-sub-sick_nerd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sickTumble",
+      "image_id": 16524
+    },
+    {
+      "match": "sickLife",
+      "image_id": 15035
+    },
+    {
+      "match": "sickDC",
+      "image_id": 15126
+    },
+    {
+      "match": "sickMate",
+      "image_id": 14279
+    },
+    {
+      "match": "sickCya",
+      "image_id": 15404
+    },
+    {
+      "match": "sickKappa",
+      "image_id": 22643
+    },
+    {
+      "match": "sickSalt",
+      "image_id": 32203
+    },
+    {
+      "match": "sickCamel",
+      "image_id": 32318
+    },
+    {
+      "match": "sickVoice",
+      "image_id": 46419
+    }
+  ]
+}

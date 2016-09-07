@@ -1,1 +1,35 @@
-{"name":"twitch-sub-yuci7001","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yuci01","image_id":73130},{"match":"yuci02","image_id":73131},{"match":"yuci03","image_id":73132},{"match":"yuci06","image_id":73146},{"match":"yuci05","image_id":73143},{"match":"yuci04","image_id":73133},{"match":"yuciTW","image_id":109914}]}
+{
+  "name": "twitch-sub-yuci7001",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yuci01",
+      "image_id": 73130
+    },
+    {
+      "match": "yuci02",
+      "image_id": 73131
+    },
+    {
+      "match": "yuci03",
+      "image_id": 73132
+    },
+    {
+      "match": "yuci06",
+      "image_id": 73146
+    },
+    {
+      "match": "yuci05",
+      "image_id": 73143
+    },
+    {
+      "match": "yuci04",
+      "image_id": 73133
+    },
+    {
+      "match": "yuciTW",
+      "image_id": 109914
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mrsetokami","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"setoKappa","image_id":38961},{"match":"setoGrzyb","image_id":47194},{"match":"setoLama","image_id":47382},{"match":"setoPumba","image_id":48001},{"match":"setoRage","image_id":62434},{"match":"setoRIP","image_id":62647}]}
+{
+  "name": "twitch-sub-mrsetokami",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "setoKappa",
+      "image_id": 38961
+    },
+    {
+      "match": "setoGrzyb",
+      "image_id": 47194
+    },
+    {
+      "match": "setoLama",
+      "image_id": 47382
+    },
+    {
+      "match": "setoPumba",
+      "image_id": 48001
+    },
+    {
+      "match": "setoRage",
+      "image_id": 62434
+    },
+    {
+      "match": "setoRIP",
+      "image_id": 62647
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-leagueofv2gamers","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"r4ver1","image_id":12364},{"match":"r4ver2","image_id":12365},{"match":"r4verKappa","image_id":13699},{"match":"r4verRata","image_id":13700},{"match":"r4verPancho","image_id":21525},{"match":"r4verKawai","image_id":21527}]}
+{
+  "name": "twitch-sub-leagueofv2gamers",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "r4ver1",
+      "image_id": 12364
+    },
+    {
+      "match": "r4ver2",
+      "image_id": 12365
+    },
+    {
+      "match": "r4verKappa",
+      "image_id": 13699
+    },
+    {
+      "match": "r4verRata",
+      "image_id": 13700
+    },
+    {
+      "match": "r4verPancho",
+      "image_id": 21525
+    },
+    {
+      "match": "r4verKawai",
+      "image_id": 21527
+    }
+  ]
+}

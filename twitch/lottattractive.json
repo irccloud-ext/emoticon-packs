@@ -1,1 +1,31 @@
-{"name":"twitch-sub-lottattractive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lottaMGP","image_id":83778},{"match":"lottaHype","image_id":83779},{"match":"lottaToxic","image_id":84127},{"match":"lottaLove","image_id":84391},{"match":"lottaBaerum","image_id":100469},{"match":"lottaB","image_id":91769}]}
+{
+  "name": "twitch-sub-lottattractive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lottaMGP",
+      "image_id": 83778
+    },
+    {
+      "match": "lottaHype",
+      "image_id": 83779
+    },
+    {
+      "match": "lottaToxic",
+      "image_id": 84127
+    },
+    {
+      "match": "lottaLove",
+      "image_id": 84391
+    },
+    {
+      "match": "lottaBaerum",
+      "image_id": 100469
+    },
+    {
+      "match": "lottaB",
+      "image_id": 91769
+    }
+  ]
+}

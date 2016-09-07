@@ -1,1 +1,39 @@
-{"name":"twitch-sub-poker988hd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vipKEBAB","image_id":35490},{"match":"vipPOKER","image_id":35481},{"match":"vipMANDI","image_id":34782},{"match":"vipHYPE","image_id":35475},{"match":"vipGG","image_id":37167},{"match":"vipSUB","image_id":37169},{"match":"vipACE","image_id":38748},{"match":"vipALA","image_id":38746}]}
+{
+  "name": "twitch-sub-poker988hd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vipKEBAB",
+      "image_id": 35490
+    },
+    {
+      "match": "vipPOKER",
+      "image_id": 35481
+    },
+    {
+      "match": "vipMANDI",
+      "image_id": 34782
+    },
+    {
+      "match": "vipHYPE",
+      "image_id": 35475
+    },
+    {
+      "match": "vipGG",
+      "image_id": 37167
+    },
+    {
+      "match": "vipSUB",
+      "image_id": 37169
+    },
+    {
+      "match": "vipACE",
+      "image_id": 38748
+    },
+    {
+      "match": "vipALA",
+      "image_id": 38746
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-cnotbusch","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cnotTroll","image_id":2362},{"match":"cnotFeels","image_id":83469},{"match":"cnotHype","image_id":83470},{"match":"cnotBardiche","image_id":41656},{"match":"cnotSaddie","image_id":52275},{"match":"cnotLove","image_id":83471}]}
+{
+  "name": "twitch-sub-cnotbusch",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cnotTroll",
+      "image_id": 2362
+    },
+    {
+      "match": "cnotFeels",
+      "image_id": 83469
+    },
+    {
+      "match": "cnotHype",
+      "image_id": 83470
+    },
+    {
+      "match": "cnotBardiche",
+      "image_id": 41656
+    },
+    {
+      "match": "cnotSaddie",
+      "image_id": 52275
+    },
+    {
+      "match": "cnotLove",
+      "image_id": 83471
+    }
+  ]
+}

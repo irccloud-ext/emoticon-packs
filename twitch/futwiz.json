@@ -1,1 +1,31 @@
-{"name":"twitch-sub-futwiz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"futwizGG","image_id":104467},{"match":"futwizBanner","image_id":103408},{"match":"futwizPACKPARTY","image_id":100866},{"match":"futwizRiot","image_id":104395},{"match":"futwizPack","image_id":104396},{"match":"futwizHype","image_id":104397}]}
+{
+  "name": "twitch-sub-futwiz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "futwizGG",
+      "image_id": 104467
+    },
+    {
+      "match": "futwizBanner",
+      "image_id": 103408
+    },
+    {
+      "match": "futwizPACKPARTY",
+      "image_id": 100866
+    },
+    {
+      "match": "futwizRiot",
+      "image_id": 104395
+    },
+    {
+      "match": "futwizPack",
+      "image_id": 104396
+    },
+    {
+      "match": "futwizHype",
+      "image_id": 104397
+    }
+  ]
+}

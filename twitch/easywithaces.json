@@ -1,1 +1,39 @@
-{"name":"twitch-sub-easywithaces","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fintOut","image_id":51696},{"match":"fint3bet","image_id":105408},{"match":"fintJamJars","image_id":109529},{"match":"fintChatpros","image_id":109528},{"match":"fintOioi","image_id":50364},{"match":"fintSloth","image_id":50365},{"match":"fintChips","image_id":109639},{"match":"fintRedfelt","image_id":105886}]}
+{
+  "name": "twitch-sub-easywithaces",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fintOut",
+      "image_id": 51696
+    },
+    {
+      "match": "fint3bet",
+      "image_id": 105408
+    },
+    {
+      "match": "fintJamJars",
+      "image_id": 109529
+    },
+    {
+      "match": "fintChatpros",
+      "image_id": 109528
+    },
+    {
+      "match": "fintOioi",
+      "image_id": 50364
+    },
+    {
+      "match": "fintSloth",
+      "image_id": 50365
+    },
+    {
+      "match": "fintChips",
+      "image_id": 109639
+    },
+    {
+      "match": "fintRedfelt",
+      "image_id": 105886
+    }
+  ]
+}

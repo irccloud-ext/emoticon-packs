@@ -1,1 +1,47 @@
-{"name":"twitch-sub-gerritkillerine","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gerritRip","image_id":94706},{"match":"gerritCash","image_id":89283},{"match":"gerritHype","image_id":89070},{"match":"gerritWat","image_id":89068},{"match":"gerritLove","image_id":89173},{"match":"gerritRaid","image_id":89480},{"match":"gerritJustice","image_id":94510},{"match":"gerritBoom","image_id":95147},{"match":"gerritFail","image_id":95059}]}
+{
+  "name": "twitch-sub-gerritkillerine",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gerritRip",
+      "image_id": 94706
+    },
+    {
+      "match": "gerritAnti",
+      "image_id": 111828
+    },
+    {
+      "match": "gerritCash",
+      "image_id": 89283
+    },
+    {
+      "match": "gerritHype",
+      "image_id": 89070
+    },
+    {
+      "match": "gerritWat",
+      "image_id": 89068
+    },
+    {
+      "match": "gerritLove",
+      "image_id": 89173
+    },
+    {
+      "match": "gerritRaid",
+      "image_id": 89480
+    },
+    {
+      "match": "gerritBoom",
+      "image_id": 95147
+    },
+    {
+      "match": "gerritFail",
+      "image_id": 95059
+    },
+    {
+      "match": "gerritHallo",
+      "image_id": 112061
+    }
+  ]
+}

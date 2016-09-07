@@ -1,1 +1,11 @@
-{"name":"twitch-sub-thesporks","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sporksFeels","image_id":92838}]}
+{
+  "name": "twitch-sub-thesporks",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sporksFeels",
+      "image_id": 92838
+    }
+  ]
+}

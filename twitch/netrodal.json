@@ -1,1 +1,23 @@
-{"name":"twitch-sub-netrodal","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"netroSzafa","image_id":102692},{"match":"netroKappa","image_id":108662},{"match":"netroBydlak","image_id":100535},{"match":"netroSmurf","image_id":100976}]}
+{
+  "name": "twitch-sub-netrodal",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "netroSzafa",
+      "image_id": 102692
+    },
+    {
+      "match": "netroKappa",
+      "image_id": 108662
+    },
+    {
+      "match": "netroBydlak",
+      "image_id": 100535
+    },
+    {
+      "match": "netroSmurf",
+      "image_id": 100976
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-k1llsen_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"k1llCHEMP","image_id":71831},{"match":"k1llGASM","image_id":71553}]}
+{
+  "name": "twitch-sub-k1llsen_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "k1llCHEMP",
+      "image_id": 71831
+    },
+    {
+      "match": "k1llGASM",
+      "image_id": 71553
+    }
+  ]
+}

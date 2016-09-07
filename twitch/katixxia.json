@@ -1,1 +1,23 @@
-{"name":"twitch-sub-katixxia","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"katChar","image_id":9062},{"match":"katGrumpy","image_id":9542},{"match":"katSad","image_id":12302},{"match":"katPhead","image_id":30906}]}
+{
+  "name": "twitch-sub-katixxia",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "katChar",
+      "image_id": 9062
+    },
+    {
+      "match": "katGrumpy",
+      "image_id": 9542
+    },
+    {
+      "match": "katSad",
+      "image_id": 12302
+    },
+    {
+      "match": "katPhead",
+      "image_id": 30906
+    }
+  ]
+}

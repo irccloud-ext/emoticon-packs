@@ -1,1 +1,31 @@
-{"name":"twitch-sub-abdoutoobeasty","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"abdouEye","image_id":6532},{"match":"abdouBarz","image_id":91498},{"match":"abdouC","image_id":105035},{"match":"abdouWut","image_id":108697},{"match":"abdouChamp","image_id":105732},{"match":"abdouJ","image_id":108929}]}
+{
+  "name": "twitch-sub-abdoutoobeasty",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "abdouEye",
+      "image_id": 6532
+    },
+    {
+      "match": "abdouBarz",
+      "image_id": 91498
+    },
+    {
+      "match": "abdouC",
+      "image_id": 105035
+    },
+    {
+      "match": "abdouWut",
+      "image_id": 108697
+    },
+    {
+      "match": "abdouChamp",
+      "image_id": 105732
+    },
+    {
+      "match": "abdouJ",
+      "image_id": 108929
+    }
+  ]
+}

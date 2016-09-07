@@ -1,1 +1,27 @@
-{"name":"twitch-sub-j0p_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jopAlm","image_id":5366},{"match":"jopKahvi","image_id":5369},{"match":"jopThumb","image_id":15283},{"match":"jop55","image_id":28792},{"match":"jopVetta","image_id":28797}]}
+{
+  "name": "twitch-sub-j0p_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jopAlm",
+      "image_id": 5366
+    },
+    {
+      "match": "jopKahvi",
+      "image_id": 5369
+    },
+    {
+      "match": "jopThumb",
+      "image_id": 15283
+    },
+    {
+      "match": "jop55",
+      "image_id": 28792
+    },
+    {
+      "match": "jopVetta",
+      "image_id": 28797
+    }
+  ]
+}

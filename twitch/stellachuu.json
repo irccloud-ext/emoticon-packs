@@ -1,1 +1,23 @@
-{"name":"twitch-sub-stellachuu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chuuHappy","image_id":110815},{"match":"chuuSub","image_id":110818},{"match":"chuuPoker","image_id":110816},{"match":"chuuPuke","image_id":110996}]}
+{
+  "name": "twitch-sub-stellachuu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chuuHappy",
+      "image_id": 110815
+    },
+    {
+      "match": "chuuSub",
+      "image_id": 110818
+    },
+    {
+      "match": "chuuPoker",
+      "image_id": 110816
+    },
+    {
+      "match": "chuuPuke",
+      "image_id": 110996
+    }
+  ]
+}

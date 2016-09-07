@@ -1,1 +1,47 @@
-{"name":"twitch-sub-thejwittz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wittzZoey","image_id":14162},{"match":"wittzCry","image_id":45574},{"match":"wittzMLG","image_id":45573},{"match":"wittzHax","image_id":22124},{"match":"wittzLonk","image_id":25264},{"match":"wittzCouch","image_id":31247},{"match":"wittzWa","image_id":59126},{"match":"wittzRenae","image_id":59125},{"match":"wittzGG","image_id":76026},{"match":"wittzCatch","image_id":82600}]}
+{
+  "name": "twitch-sub-thejwittz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wittzZoey",
+      "image_id": 14162
+    },
+    {
+      "match": "wittzCry",
+      "image_id": 45574
+    },
+    {
+      "match": "wittzMLG",
+      "image_id": 45573
+    },
+    {
+      "match": "wittzHax",
+      "image_id": 22124
+    },
+    {
+      "match": "wittzLonk",
+      "image_id": 25264
+    },
+    {
+      "match": "wittzCouch",
+      "image_id": 31247
+    },
+    {
+      "match": "wittzWa",
+      "image_id": 59126
+    },
+    {
+      "match": "wittzRenae",
+      "image_id": 59125
+    },
+    {
+      "match": "wittzGG",
+      "image_id": 76026
+    },
+    {
+      "match": "wittzCatch",
+      "image_id": 82600
+    }
+  ]
+}

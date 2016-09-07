@@ -1,1 +1,39 @@
-{"name":"twitch-sub-kravitz7","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kravF","image_id":7377},{"match":"kravB","image_id":9575},{"match":"kravS","image_id":10840},{"match":"kravK","image_id":12580},{"match":"kravO","image_id":27029},{"match":"kravREKT","image_id":27028},{"match":"kravR","image_id":27021},{"match":"kravN","image_id":33519}]}
+{
+  "name": "twitch-sub-kravitz7",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kravF",
+      "image_id": 7377
+    },
+    {
+      "match": "kravB",
+      "image_id": 9575
+    },
+    {
+      "match": "kravS",
+      "image_id": 10840
+    },
+    {
+      "match": "kravK",
+      "image_id": 12580
+    },
+    {
+      "match": "kravO",
+      "image_id": 27029
+    },
+    {
+      "match": "kravREKT",
+      "image_id": 27028
+    },
+    {
+      "match": "kravR",
+      "image_id": 27021
+    },
+    {
+      "match": "kravN",
+      "image_id": 33519
+    }
+  ]
+}

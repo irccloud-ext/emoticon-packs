@@ -1,1 +1,27 @@
-{"name":"twitch-sub-gamersinctv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sillaravenSilala","image_id":11577},{"match":"sillaravenRaaaven","image_id":11603},{"match":"sillaravenPoop","image_id":13156},{"match":"sillaravenCara","image_id":12501},{"match":"sillaravenPapafrita","image_id":16077}]}
+{
+  "name": "twitch-sub-gamersinctv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sillaravenSilala",
+      "image_id": 11577
+    },
+    {
+      "match": "sillaravenRaaaven",
+      "image_id": 11603
+    },
+    {
+      "match": "sillaravenPoop",
+      "image_id": 13156
+    },
+    {
+      "match": "sillaravenCara",
+      "image_id": 12501
+    },
+    {
+      "match": "sillaravenPapafrita",
+      "image_id": 16077
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-kylelong","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kl75TU","image_id":94486},{"match":"kl75Sign","image_id":86423},{"match":"kl75Hype","image_id":91578},{"match":"kl75Wink","image_id":91985},{"match":"kl75REEE","image_id":91598},{"match":"kl75Lit","image_id":94488}]}
+{
+  "name": "twitch-sub-kylelong",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kl75TU",
+      "image_id": 94486
+    },
+    {
+      "match": "kl75Sign",
+      "image_id": 86423
+    },
+    {
+      "match": "kl75Hype",
+      "image_id": 91578
+    },
+    {
+      "match": "kl75Wink",
+      "image_id": 91985
+    },
+    {
+      "match": "kl75REEE",
+      "image_id": 91598
+    },
+    {
+      "match": "kl75Lit",
+      "image_id": 94488
+    }
+  ]
+}

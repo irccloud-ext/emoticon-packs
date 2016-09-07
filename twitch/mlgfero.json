@@ -1,1 +1,19 @@
-{"name":"twitch-sub-mlgfero","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"feroGold","image_id":15390},{"match":"feroSUBHYPE","image_id":95871},{"match":"feroLITE","image_id":76856}]}
+{
+  "name": "twitch-sub-mlgfero",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "feroGold",
+      "image_id": 15390
+    },
+    {
+      "match": "feroSUBHYPE",
+      "image_id": 95871
+    },
+    {
+      "match": "feroLITE",
+      "image_id": 76856
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-smitefrance_tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"smfrBanShan","image_id":79977},{"match":"smfrUsgurald","image_id":60511}]}
+{
+  "name": "twitch-sub-smitefrance_tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "smfrBanShan",
+      "image_id": 79977
+    },
+    {
+      "match": "smfrUsgurald",
+      "image_id": 60511
+    }
+  ]
+}

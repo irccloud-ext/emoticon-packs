@@ -1,1 +1,31 @@
-{"name":"twitch-sub-projectpt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pptSheep","image_id":76522},{"match":"pptDrink","image_id":76533},{"match":"pptFail","image_id":76608},{"match":"pptWat","image_id":76585},{"match":"pptBath","image_id":80758},{"match":"pptToast","image_id":80759}]}
+{
+  "name": "twitch-sub-projectpt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pptSheep",
+      "image_id": 76522
+    },
+    {
+      "match": "pptDrink",
+      "image_id": 76533
+    },
+    {
+      "match": "pptFail",
+      "image_id": 76608
+    },
+    {
+      "match": "pptWat",
+      "image_id": 76585
+    },
+    {
+      "match": "pptBath",
+      "image_id": 80758
+    },
+    {
+      "match": "pptToast",
+      "image_id": 80759
+    }
+  ]
+}

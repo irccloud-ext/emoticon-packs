@@ -1,1 +1,47 @@
-{"name":"twitch-sub-nkuchdestiny","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kuchHype","image_id":60615},{"match":"kuchHelmet","image_id":60658},{"match":"kuchPrimal","image_id":87240},{"match":"kuchSnipe","image_id":60506},{"match":"kuchSavage","image_id":61118},{"match":"kuchSlay","image_id":64285},{"match":"kuchLove","image_id":88788},{"match":"kuchSweat","image_id":101717},{"match":"kuchOut","image_id":102231},{"match":"kuchSweep","image_id":101718}]}
+{
+  "name": "twitch-sub-nkuchdestiny",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kuchHype",
+      "image_id": 60615
+    },
+    {
+      "match": "kuchHelmet",
+      "image_id": 60658
+    },
+    {
+      "match": "kuchPrimal",
+      "image_id": 87240
+    },
+    {
+      "match": "kuchSnipe",
+      "image_id": 60506
+    },
+    {
+      "match": "kuchSavage",
+      "image_id": 61118
+    },
+    {
+      "match": "kuchSlay",
+      "image_id": 64285
+    },
+    {
+      "match": "kuchLove",
+      "image_id": 88788
+    },
+    {
+      "match": "kuchSweat",
+      "image_id": 101717
+    },
+    {
+      "match": "kuchOut",
+      "image_id": 102231
+    },
+    {
+      "match": "kuchSweep",
+      "image_id": 101718
+    }
+  ]
+}

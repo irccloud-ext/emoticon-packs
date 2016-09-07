@@ -1,1 +1,15 @@
-{"name":"twitch-sub-enemyteamshaco","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"etsKutu","image_id":84731},{"match":"etsThug","image_id":84952}]}
+{
+  "name": "twitch-sub-enemyteamshaco",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "etsKutu",
+      "image_id": 84731
+    },
+    {
+      "match": "etsThug",
+      "image_id": 84952
+    }
+  ]
+}

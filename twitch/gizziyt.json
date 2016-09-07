@@ -1,1 +1,15 @@
-{"name":"twitch-sub-gizziyt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gizziFlamer","image_id":85890},{"match":"gizziGG","image_id":85887}]}
+{
+  "name": "twitch-sub-gizziyt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gizziFlamer",
+      "image_id": 85890
+    },
+    {
+      "match": "gizziGG",
+      "image_id": 85887
+    }
+  ]
+}

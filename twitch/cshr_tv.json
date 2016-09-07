@@ -1,1 +1,15 @@
-{"name":"twitch-sub-cshr_tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"adriaFlegma","image_id":99753},{"match":"adriaKing","image_id":104970}]}
+{
+  "name": "twitch-sub-cshr_tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "adriaFlegma",
+      "image_id": 99753
+    },
+    {
+      "match": "adriaKing",
+      "image_id": 104970
+    }
+  ]
+}

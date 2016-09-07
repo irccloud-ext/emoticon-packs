@@ -1,1 +1,39 @@
-{"name":"twitch-sub-hksmash","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hksRekt","image_id":68848},{"match":"hksHype","image_id":17089},{"match":"hksFist","image_id":38298},{"match":"hksFish","image_id":38939},{"match":"hksAll","image_id":38948},{"match":"hksW","image_id":60337},{"match":"hksNRG","image_id":69196},{"match":"hksDab","image_id":77760}]}
+{
+  "name": "twitch-sub-hksmash",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hksRekt",
+      "image_id": 68848
+    },
+    {
+      "match": "hksHype",
+      "image_id": 17089
+    },
+    {
+      "match": "hksFist",
+      "image_id": 38298
+    },
+    {
+      "match": "hksFish",
+      "image_id": 38939
+    },
+    {
+      "match": "hksAll",
+      "image_id": 38948
+    },
+    {
+      "match": "hksW",
+      "image_id": 60337
+    },
+    {
+      "match": "hksNRG",
+      "image_id": 69196
+    },
+    {
+      "match": "hksDab",
+      "image_id": 77760
+    }
+  ]
+}

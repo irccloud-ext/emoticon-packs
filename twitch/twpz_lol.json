@@ -1,1 +1,27 @@
-{"name":"twitch-sub-twpz_lol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"twpzSmile","image_id":4288},{"match":"twpzKappa","image_id":4527},{"match":"twpzBeer","image_id":4526},{"match":"twpzFeels","image_id":4524},{"match":"twpzLuck","image_id":5031}]}
+{
+  "name": "twitch-sub-twpz_lol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "twpzSmile",
+      "image_id": 4288
+    },
+    {
+      "match": "twpzKappa",
+      "image_id": 4527
+    },
+    {
+      "match": "twpzBeer",
+      "image_id": 4526
+    },
+    {
+      "match": "twpzFeels",
+      "image_id": 4524
+    },
+    {
+      "match": "twpzLuck",
+      "image_id": 5031
+    }
+  ]
+}

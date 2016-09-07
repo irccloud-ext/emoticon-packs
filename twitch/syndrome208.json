@@ -1,1 +1,35 @@
-{"name":"twitch-sub-syndrome208","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"synGoku","image_id":26105},{"match":"synHype","image_id":32001},{"match":"synCrew","image_id":32000},{"match":"synBomb","image_id":31313},{"match":"synPai","image_id":32413},{"match":"synRekt","image_id":32460},{"match":"synRigged","image_id":32991}]}
+{
+  "name": "twitch-sub-syndrome208",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "synGoku",
+      "image_id": 26105
+    },
+    {
+      "match": "synHype",
+      "image_id": 32001
+    },
+    {
+      "match": "synCrew",
+      "image_id": 32000
+    },
+    {
+      "match": "synBomb",
+      "image_id": 31313
+    },
+    {
+      "match": "synPai",
+      "image_id": 32413
+    },
+    {
+      "match": "synRekt",
+      "image_id": 32460
+    },
+    {
+      "match": "synRigged",
+      "image_id": 32991
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-an_lol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"anis08Guji","image_id":55029},{"match":"anis08Zivscup","image_id":55297},{"match":"anis08Ann","image_id":55296},{"match":"anis08Boss","image_id":55295}]}
+{
+  "name": "twitch-sub-an_lol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "anis08Guji",
+      "image_id": 55029
+    },
+    {
+      "match": "anis08Zivscup",
+      "image_id": 55297
+    },
+    {
+      "match": "anis08Ann",
+      "image_id": 55296
+    },
+    {
+      "match": "anis08Boss",
+      "image_id": 55295
+    }
+  ]
+}

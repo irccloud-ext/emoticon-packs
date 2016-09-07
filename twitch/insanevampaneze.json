@@ -1,1 +1,31 @@
-{"name":"twitch-sub-insanevampaneze","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vampHype","image_id":37387},{"match":"vampCri","image_id":37295},{"match":"vampGG","image_id":84843},{"match":"vampDrop","image_id":61748},{"match":"vampFan","image_id":61584},{"match":"vampSquad","image_id":79308}]}
+{
+  "name": "twitch-sub-insanevampaneze",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vampHype",
+      "image_id": 37387
+    },
+    {
+      "match": "vampCri",
+      "image_id": 37295
+    },
+    {
+      "match": "vampGG",
+      "image_id": 84843
+    },
+    {
+      "match": "vampDrop",
+      "image_id": 61748
+    },
+    {
+      "match": "vampFan",
+      "image_id": 61584
+    },
+    {
+      "match": "vampSquad",
+      "image_id": 79308
+    }
+  ]
+}

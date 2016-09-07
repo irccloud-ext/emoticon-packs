@@ -1,1 +1,23 @@
-{"name":"twitch-sub-zethiann","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zpodHype","image_id":27093},{"match":"zpodLoki","image_id":19600},{"match":"zpodRekt","image_id":27125},{"match":"zpodSalty","image_id":27174}]}
+{
+  "name": "twitch-sub-zethiann",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zpodHype",
+      "image_id": 27093
+    },
+    {
+      "match": "zpodLoki",
+      "image_id": 19600
+    },
+    {
+      "match": "zpodRekt",
+      "image_id": 27125
+    },
+    {
+      "match": "zpodSalty",
+      "image_id": 27174
+    }
+  ]
+}

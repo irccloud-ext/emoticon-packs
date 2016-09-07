@@ -1,1 +1,27 @@
-{"name":"twitch-sub-wigg_esea","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wiggBet","image_id":36757},{"match":"wiggRigged","image_id":36763},{"match":"wiggRope","image_id":36762},{"match":"wiggPray","image_id":36962},{"match":"wiggMom","image_id":36650}]}
+{
+  "name": "twitch-sub-wigg_esea",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wiggBet",
+      "image_id": 36757
+    },
+    {
+      "match": "wiggRigged",
+      "image_id": 36763
+    },
+    {
+      "match": "wiggRope",
+      "image_id": 36762
+    },
+    {
+      "match": "wiggPray",
+      "image_id": 36962
+    },
+    {
+      "match": "wiggMom",
+      "image_id": 36650
+    }
+  ]
+}

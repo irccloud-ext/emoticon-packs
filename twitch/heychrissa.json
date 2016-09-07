@@ -1,1 +1,23 @@
-{"name":"twitch-sub-heychrissa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"heycHai","image_id":102662},{"match":"heycAwks","image_id":102661},{"match":"heycTea","image_id":102660},{"match":"heycHype","image_id":106133}]}
+{
+  "name": "twitch-sub-heychrissa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "heycHai",
+      "image_id": 102662
+    },
+    {
+      "match": "heycAwks",
+      "image_id": 102661
+    },
+    {
+      "match": "heycTea",
+      "image_id": 102660
+    },
+    {
+      "match": "heycHype",
+      "image_id": 106133
+    }
+  ]
+}

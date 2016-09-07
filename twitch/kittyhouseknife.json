@@ -1,1 +1,31 @@
-{"name":"twitch-sub-kittyhouseknife","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"khkSAD","image_id":95246},{"match":"khkRAGE","image_id":94378},{"match":"khkHYPE","image_id":94381},{"match":"khkGASP","image_id":94382},{"match":"khkPIZZA","image_id":94354},{"match":"khkHEART","image_id":94361}]}
+{
+  "name": "twitch-sub-kittyhouseknife",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "khkSAD",
+      "image_id": 95246
+    },
+    {
+      "match": "khkRAGE",
+      "image_id": 94378
+    },
+    {
+      "match": "khkHYPE",
+      "image_id": 94381
+    },
+    {
+      "match": "khkGASP",
+      "image_id": 94382
+    },
+    {
+      "match": "khkPIZZA",
+      "image_id": 94354
+    },
+    {
+      "match": "khkHEART",
+      "image_id": 94361
+    }
+  ]
+}

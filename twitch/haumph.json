@@ -1,1 +1,39 @@
-{"name":"twitch-sub-haumph","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cfbJoinanotherdraft","image_id":4530},{"match":"cfbSadlsv","image_id":4532},{"match":"cfbLuckycheon","image_id":4533},{"match":"cfbKryle","image_id":66173},{"match":"cfbSalt","image_id":66174},{"match":"cfbGhost","image_id":35844},{"match":"cfbValue","image_id":66175},{"match":"cfbTouchdown","image_id":78287}]}
+{
+  "name": "twitch-sub-haumph",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cfbJoinanotherdraft",
+      "image_id": 4530
+    },
+    {
+      "match": "cfbLuckycheon",
+      "image_id": 4533
+    },
+    {
+      "match": "cfbKryle",
+      "image_id": 66173
+    },
+    {
+      "match": "cfbSalt",
+      "image_id": 66174
+    },
+    {
+      "match": "cfbGhost",
+      "image_id": 35844
+    },
+    {
+      "match": "cfbValue",
+      "image_id": 66175
+    },
+    {
+      "match": "cfbTouchdown",
+      "image_id": 78287
+    },
+    {
+      "match": "cfbTrash",
+      "image_id": 112308
+    }
+  ]
+}

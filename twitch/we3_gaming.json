@@ -1,1 +1,39 @@
-{"name":"twitch-sub-we3_gaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pandaGang","image_id":20785},{"match":"pandaSub","image_id":20676},{"match":"pandaKapp","image_id":20842},{"match":"pandaRaging","image_id":20820},{"match":"pandaPalm","image_id":20587},{"match":"pandaWhat","image_id":20588},{"match":"pandaHype","image_id":21165},{"match":"pandaGasm","image_id":22672}]}
+{
+  "name": "twitch-sub-we3_gaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pandaGang",
+      "image_id": 20785
+    },
+    {
+      "match": "pandaSub",
+      "image_id": 20676
+    },
+    {
+      "match": "pandaKapp",
+      "image_id": 20842
+    },
+    {
+      "match": "pandaRaging",
+      "image_id": 20820
+    },
+    {
+      "match": "pandaPalm",
+      "image_id": 20587
+    },
+    {
+      "match": "pandaWhat",
+      "image_id": 20588
+    },
+    {
+      "match": "pandaHype",
+      "image_id": 21165
+    },
+    {
+      "match": "pandaGasm",
+      "image_id": 22672
+    }
+  ]
+}

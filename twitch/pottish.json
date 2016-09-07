@@ -1,1 +1,23 @@
-{"name":"twitch-sub-pottish","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pottishScumbag","image_id":11521},{"match":"pottishBibleThump","image_id":17832},{"match":"pottishNoob","image_id":17833},{"match":"pottishDS","image_id":18008}]}
+{
+  "name": "twitch-sub-pottish",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pottishScumbag",
+      "image_id": 11521
+    },
+    {
+      "match": "pottishBibleThump",
+      "image_id": 17832
+    },
+    {
+      "match": "pottishNoob",
+      "image_id": 17833
+    },
+    {
+      "match": "pottishDS",
+      "image_id": 18008
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-sixjaxterran","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"juanitoSombrero","image_id":16359},{"match":"juanitoJuanito","image_id":16360},{"match":"juanitoGG","image_id":17463},{"match":"juanitoCalavera","image_id":17446}]}
+{
+  "name": "twitch-sub-sixjaxterran",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "juanitoSombrero",
+      "image_id": 16359
+    },
+    {
+      "match": "juanitoJuanito",
+      "image_id": 16360
+    },
+    {
+      "match": "juanitoGG",
+      "image_id": 17463
+    },
+    {
+      "match": "juanitoCalavera",
+      "image_id": 17446
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-erey_is_hollow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ereyBunchie","image_id":24771},{"match":"ereyBEAR","image_id":28731},{"match":"ereyNO","image_id":39533},{"match":"ereyWTF","image_id":39685},{"match":"ereyCORN","image_id":43639},{"match":"ereyREKT","image_id":43640}]}
+{
+  "name": "twitch-sub-erey_is_hollow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ereyBunchie",
+      "image_id": 24771
+    },
+    {
+      "match": "ereyBEAR",
+      "image_id": 28731
+    },
+    {
+      "match": "ereyNO",
+      "image_id": 39533
+    },
+    {
+      "match": "ereyWTF",
+      "image_id": 39685
+    },
+    {
+      "match": "ereyCORN",
+      "image_id": 43639
+    },
+    {
+      "match": "ereyREKT",
+      "image_id": 43640
+    }
+  ]
+}

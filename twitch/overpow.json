@@ -1,1 +1,47 @@
-{"name":"twitch-sub-overpow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"overGolem","image_id":59179},{"match":"overBUK","image_id":80389},{"match":"overNiemiec","image_id":80387},{"match":"overElo","image_id":83606},{"match":"overPolak","image_id":60376},{"match":"overP","image_id":76154},{"match":"overPirat","image_id":76156},{"match":"overM","image_id":76366},{"match":"overSowa","image_id":79754},{"match":"overKappa","image_id":106885}]}
+{
+  "name": "twitch-sub-overpow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "overGolem",
+      "image_id": 59179
+    },
+    {
+      "match": "overBUK",
+      "image_id": 80389
+    },
+    {
+      "match": "overNiemiec",
+      "image_id": 80387
+    },
+    {
+      "match": "overElo",
+      "image_id": 83606
+    },
+    {
+      "match": "overPolak",
+      "image_id": 60376
+    },
+    {
+      "match": "overP",
+      "image_id": 76154
+    },
+    {
+      "match": "overPirat",
+      "image_id": 76156
+    },
+    {
+      "match": "overM",
+      "image_id": 76366
+    },
+    {
+      "match": "overSowa",
+      "image_id": 79754
+    },
+    {
+      "match": "overKappa",
+      "image_id": 106885
+    }
+  ]
+}

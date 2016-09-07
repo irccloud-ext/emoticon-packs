@@ -1,1 +1,19 @@
-{"name":"twitch-sub-serjtheking","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"serjMASKA","image_id":60864},{"match":"serjPELMEN","image_id":96023},{"match":"serjRIP","image_id":96356}]}
+{
+  "name": "twitch-sub-serjtheking",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "serjMASKA",
+      "image_id": 60864
+    },
+    {
+      "match": "serjPELMEN",
+      "image_id": 96023
+    },
+    {
+      "match": "serjRIP",
+      "image_id": 96356
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-colelep","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"coleRoast","image_id":87147},{"match":"coleSavage","image_id":87146},{"match":"coleGG","image_id":83940},{"match":"coleRip","image_id":83939},{"match":"coleHype","image_id":83938},{"match":"coleRekt","image_id":83937},{"match":"coleHi","image_id":83936},{"match":"coleLove","image_id":84015}]}
+{
+  "name": "twitch-sub-colelep",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "coleRoast",
+      "image_id": 87147
+    },
+    {
+      "match": "coleSavage",
+      "image_id": 87146
+    },
+    {
+      "match": "coleGG",
+      "image_id": 83940
+    },
+    {
+      "match": "coleRip",
+      "image_id": 83939
+    },
+    {
+      "match": "coleHype",
+      "image_id": 83938
+    },
+    {
+      "match": "coleRekt",
+      "image_id": 83937
+    },
+    {
+      "match": "coleHi",
+      "image_id": 83936
+    },
+    {
+      "match": "coleLove",
+      "image_id": 84015
+    }
+  ]
+}

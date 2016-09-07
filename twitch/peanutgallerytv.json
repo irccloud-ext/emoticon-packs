@@ -1,1 +1,31 @@
-{"name":"twitch-sub-peanutgallerytv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"peanutPeetyg","image_id":91705},{"match":"peanutPeekay","image_id":90478},{"match":"peanutDankbank","image_id":91707},{"match":"peanutJimneso","image_id":90477},{"match":"peanutHarmonica","image_id":94394},{"match":"peanutBaal","image_id":107821}]}
+{
+  "name": "twitch-sub-peanutgallerytv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "peanutPeetyg",
+      "image_id": 91705
+    },
+    {
+      "match": "peanutPeekay",
+      "image_id": 90478
+    },
+    {
+      "match": "peanutDankbank",
+      "image_id": 91707
+    },
+    {
+      "match": "peanutJimneso",
+      "image_id": 90477
+    },
+    {
+      "match": "peanutHarmonica",
+      "image_id": 94394
+    },
+    {
+      "match": "peanutBaal",
+      "image_id": 107821
+    }
+  ]
+}

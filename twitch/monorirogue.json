@@ -1,1 +1,15 @@
-{"name":"twitch-sub-monorirogue","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"monoriJinx","image_id":63462},{"match":"monoriAbs","image_id":63460}]}
+{
+  "name": "twitch-sub-monorirogue",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "monoriJinx",
+      "image_id": 63462
+    },
+    {
+      "match": "monoriAbs",
+      "image_id": 63460
+    }
+  ]
+}

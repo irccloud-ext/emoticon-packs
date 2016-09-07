@@ -1,1 +1,15 @@
-{"name":"twitch-sub-holyonline","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"holyGasm","image_id":70928},{"match":"holyRage","image_id":65017}]}
+{
+  "name": "twitch-sub-holyonline",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "holyGasm",
+      "image_id": 70928
+    },
+    {
+      "match": "holyRage",
+      "image_id": 65017
+    }
+  ]
+}

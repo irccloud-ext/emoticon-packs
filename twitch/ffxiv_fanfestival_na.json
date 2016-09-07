@@ -1,1 +1,27 @@
-{"name":"twitch-sub-ffxiv_fanfestival_na","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xivBehe","image_id":26965},{"match":"xivCactuar","image_id":26966},{"match":"xivGoob","image_id":26967},{"match":"xivMorbol","image_id":26968},{"match":"xivTonberry","image_id":26969}]}
+{
+  "name": "twitch-sub-ffxiv_fanfestival_na",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xivBehe",
+      "image_id": 26965
+    },
+    {
+      "match": "xivCactuar",
+      "image_id": 26966
+    },
+    {
+      "match": "xivGoob",
+      "image_id": 26967
+    },
+    {
+      "match": "xivMorbol",
+      "image_id": 26968
+    },
+    {
+      "match": "xivTonberry",
+      "image_id": 26969
+    }
+  ]
+}

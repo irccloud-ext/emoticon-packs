@@ -1,1 +1,47 @@
-{"name":"twitch-sub-thetydyshtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"coffeeGodWhyGod","image_id":97394},{"match":"coffeeHeyNonSub","image_id":97960},{"match":"coffeeTY","image_id":97397},{"match":"coffeeTUPAJaIGRA","image_id":97396},{"match":"coffeeKEKEKE","image_id":97395},{"match":"coffeeMYXAXA","image_id":97393},{"match":"coffeeGogovSheki","image_id":97391},{"match":"coffeeDysh","image_id":97390},{"match":"coffeeDeathMarch","image_id":97389},{"match":"coffeeMeatHype","image_id":98754}]}
+{
+  "name": "twitch-sub-thetydyshtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "coffeeGodWhyGod",
+      "image_id": 97394
+    },
+    {
+      "match": "coffeeHeyNonSub",
+      "image_id": 97960
+    },
+    {
+      "match": "coffeeTY",
+      "image_id": 97397
+    },
+    {
+      "match": "coffeeTUPAJaIGRA",
+      "image_id": 97396
+    },
+    {
+      "match": "coffeeKEKEKE",
+      "image_id": 97395
+    },
+    {
+      "match": "coffeeMYXAXA",
+      "image_id": 97393
+    },
+    {
+      "match": "coffeeGogovSheki",
+      "image_id": 97391
+    },
+    {
+      "match": "coffeeDysh",
+      "image_id": 97390
+    },
+    {
+      "match": "coffeeDeathMarch",
+      "image_id": 97389
+    },
+    {
+      "match": "coffeeMeatHype",
+      "image_id": 98754
+    }
+  ]
+}

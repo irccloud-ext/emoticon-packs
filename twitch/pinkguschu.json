@@ -1,1 +1,11 @@
-{"name":"twitch-sub-pinkguschu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pinklady01Pld01","image_id":55997}]}
+{
+  "name": "twitch-sub-pinkguschu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pinklady01Pld01",
+      "image_id": 55997
+    }
+  ]
+}

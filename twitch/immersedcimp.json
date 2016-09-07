@@ -1,1 +1,39 @@
-{"name":"twitch-sub-immersedcimp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cimpH","image_id":102335},{"match":"cimpHi","image_id":101887},{"match":"cimpGibe","image_id":101751},{"match":"cimpA","image_id":101448},{"match":"cimpMama","image_id":101449},{"match":"cimpO","image_id":101452},{"match":"cimpHype","image_id":102283},{"match":"cimpB","image_id":104616}]}
+{
+  "name": "twitch-sub-immersedcimp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cimpH",
+      "image_id": 102335
+    },
+    {
+      "match": "cimpHi",
+      "image_id": 101887
+    },
+    {
+      "match": "cimpGibe",
+      "image_id": 101751
+    },
+    {
+      "match": "cimpA",
+      "image_id": 101448
+    },
+    {
+      "match": "cimpMama",
+      "image_id": 101449
+    },
+    {
+      "match": "cimpO",
+      "image_id": 101452
+    },
+    {
+      "match": "cimpHype",
+      "image_id": 102283
+    },
+    {
+      "match": "cimpB",
+      "image_id": 104616
+    }
+  ]
+}

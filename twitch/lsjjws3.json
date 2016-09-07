@@ -1,1 +1,67 @@
-{"name":"twitch-sub-lsjjws3","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bnsHYPE","image_id":70352},{"match":"bnsGasm","image_id":70351},{"match":"bnsKappa","image_id":69332},{"match":"bnsMoly","image_id":78415},{"match":"bnsGJ","image_id":65796},{"match":"bnsOMG","image_id":65240},{"match":"bnsT","image_id":67335},{"match":"bnsM","image_id":68709},{"match":"bnsHoly","image_id":78416},{"match":"bnsDENIED","image_id":80468},{"match":"bnsDo","image_id":83785},{"match":"bnsRIP","image_id":83786},{"match":"bnsSad","image_id":83787},{"match":"bnsSleep","image_id":83788},{"match":"bnsRage","image_id":83789}]}
+{
+  "name": "twitch-sub-lsjjws3",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bnsHYPE",
+      "image_id": 70352
+    },
+    {
+      "match": "bnsGasm",
+      "image_id": 70351
+    },
+    {
+      "match": "bnsKappa",
+      "image_id": 69332
+    },
+    {
+      "match": "bnsMoly",
+      "image_id": 78415
+    },
+    {
+      "match": "bnsGJ",
+      "image_id": 65796
+    },
+    {
+      "match": "bnsOMG",
+      "image_id": 65240
+    },
+    {
+      "match": "bnsT",
+      "image_id": 67335
+    },
+    {
+      "match": "bnsM",
+      "image_id": 68709
+    },
+    {
+      "match": "bnsHoly",
+      "image_id": 78416
+    },
+    {
+      "match": "bnsDENIED",
+      "image_id": 80468
+    },
+    {
+      "match": "bnsDo",
+      "image_id": 83785
+    },
+    {
+      "match": "bnsRIP",
+      "image_id": 83786
+    },
+    {
+      "match": "bnsSad",
+      "image_id": 83787
+    },
+    {
+      "match": "bnsSleep",
+      "image_id": 83788
+    },
+    {
+      "match": "bnsRage",
+      "image_id": 83789
+    }
+  ]
+}

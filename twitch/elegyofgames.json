@@ -1,1 +1,67 @@
-{"name":"twitch-sub-elegyofgames","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"eogGud","image_id":49061},{"match":"eogBox","image_id":15381},{"match":"eogCoy","image_id":71260},{"match":"eogYawn","image_id":71759},{"match":"eogWelp","image_id":16831},{"match":"eogSteve","image_id":47498},{"match":"eogFool","image_id":29176},{"match":"eogWhat","image_id":34408},{"match":"eogHa","image_id":15383},{"match":"eogCard","image_id":48840},{"match":"eogAlas","image_id":48839},{"match":"eogAce","image_id":83382},{"match":"eogStahp","image_id":83384},{"match":"eogHey","image_id":85037},{"match":"eogActually","image_id":84906}]}
+{
+  "name": "twitch-sub-elegyofgames",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "eogGud",
+      "image_id": 49061
+    },
+    {
+      "match": "eogBox",
+      "image_id": 15381
+    },
+    {
+      "match": "eogCoy",
+      "image_id": 71260
+    },
+    {
+      "match": "eogYawn",
+      "image_id": 71759
+    },
+    {
+      "match": "eogWelp",
+      "image_id": 16831
+    },
+    {
+      "match": "eogSteve",
+      "image_id": 47498
+    },
+    {
+      "match": "eogFool",
+      "image_id": 29176
+    },
+    {
+      "match": "eogWhat",
+      "image_id": 34408
+    },
+    {
+      "match": "eogHa",
+      "image_id": 15383
+    },
+    {
+      "match": "eogCard",
+      "image_id": 48840
+    },
+    {
+      "match": "eogAlas",
+      "image_id": 48839
+    },
+    {
+      "match": "eogAce",
+      "image_id": 83382
+    },
+    {
+      "match": "eogStahp",
+      "image_id": 83384
+    },
+    {
+      "match": "eogHey",
+      "image_id": 85037
+    },
+    {
+      "match": "eogActually",
+      "image_id": 84906
+    }
+  ]
+}

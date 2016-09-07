@@ -1,1 +1,39 @@
-{"name":"twitch-sub-kidarknessdragon","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kidarknessFail","image_id":73587},{"match":"kidarknessLuck","image_id":73586},{"match":"kidarknessLOL","image_id":63388},{"match":"kidarknessLove","image_id":66782},{"match":"kidarknessHype","image_id":81324},{"match":"kidarknessThump","image_id":82464},{"match":"kidarknessYawn","image_id":82327},{"match":"kidarknessWut","image_id":82326}]}
+{
+  "name": "twitch-sub-kidarknessdragon",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kidarknessFail",
+      "image_id": 73587
+    },
+    {
+      "match": "kidarknessLuck",
+      "image_id": 73586
+    },
+    {
+      "match": "kidarknessLOL",
+      "image_id": 63388
+    },
+    {
+      "match": "kidarknessLove",
+      "image_id": 66782
+    },
+    {
+      "match": "kidarknessHype",
+      "image_id": 81324
+    },
+    {
+      "match": "kidarknessThump",
+      "image_id": 82464
+    },
+    {
+      "match": "kidarknessYawn",
+      "image_id": 82327
+    },
+    {
+      "match": "kidarknessWut",
+      "image_id": 82326
+    }
+  ]
+}

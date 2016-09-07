@@ -1,1 +1,23 @@
-{"name":"twitch-sub-wandel_tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wandelTrain","image_id":100146},{"match":"wandelRip","image_id":100145},{"match":"wandelHype","image_id":100144},{"match":"wandelKappa","image_id":100143}]}
+{
+  "name": "twitch-sub-wandel_tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wandelTrain",
+      "image_id": 100146
+    },
+    {
+      "match": "wandelRip",
+      "image_id": 100145
+    },
+    {
+      "match": "wandelHype",
+      "image_id": 100144
+    },
+    {
+      "match": "wandelKappa",
+      "image_id": 100143
+    }
+  ]
+}

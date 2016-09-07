@@ -1,1 +1,31 @@
-{"name":"twitch-sub-officialstyxa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"styxaOh","image_id":5668},{"match":"styxaRekt","image_id":36331},{"match":"styxaHeart","image_id":36445},{"match":"styxaRage","image_id":107379},{"match":"styxaSons","image_id":107383},{"match":"styxaH","image_id":109928}]}
+{
+  "name": "twitch-sub-officialstyxa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "styxaOh",
+      "image_id": 5668
+    },
+    {
+      "match": "styxaRekt",
+      "image_id": 36331
+    },
+    {
+      "match": "styxaHeart",
+      "image_id": 36445
+    },
+    {
+      "match": "styxaRage",
+      "image_id": 107379
+    },
+    {
+      "match": "styxaSons",
+      "image_id": 107383
+    },
+    {
+      "match": "styxaH",
+      "image_id": 109928
+    }
+  ]
+}

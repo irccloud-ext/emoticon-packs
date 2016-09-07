@@ -1,1 +1,39 @@
-{"name":"twitch-sub-kleetho","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kleeTaco","image_id":6948},{"match":"kleeHeart","image_id":6950},{"match":"kleeKoala","image_id":7409},{"match":"kleeThump","image_id":8133},{"match":"kleeSleep","image_id":18350},{"match":"kleeCuddle","image_id":19229},{"match":"kleeRIP","image_id":30981},{"match":"kleeCute","image_id":32669}]}
+{
+  "name": "twitch-sub-kleetho",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kleeTaco",
+      "image_id": 6948
+    },
+    {
+      "match": "kleeHeart",
+      "image_id": 6950
+    },
+    {
+      "match": "kleeKoala",
+      "image_id": 7409
+    },
+    {
+      "match": "kleeThump",
+      "image_id": 8133
+    },
+    {
+      "match": "kleeSleep",
+      "image_id": 18350
+    },
+    {
+      "match": "kleeCuddle",
+      "image_id": 19229
+    },
+    {
+      "match": "kleeRIP",
+      "image_id": 30981
+    },
+    {
+      "match": "kleeCute",
+      "image_id": 32669
+    }
+  ]
+}

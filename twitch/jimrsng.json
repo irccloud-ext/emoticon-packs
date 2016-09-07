@@ -1,1 +1,31 @@
-{"name":"twitch-sub-jimrsng","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jimsMexi","image_id":8839},{"match":"jimsWacala","image_id":87075},{"match":"jimsYeskis","image_id":48687},{"match":"jimsBaneling","image_id":85440},{"match":"jimsUltra","image_id":87995},{"match":"jimsHydra","image_id":93252}]}
+{
+  "name": "twitch-sub-jimrsng",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jimsMexi",
+      "image_id": 8839
+    },
+    {
+      "match": "jimsWacala",
+      "image_id": 87075
+    },
+    {
+      "match": "jimsYeskis",
+      "image_id": 48687
+    },
+    {
+      "match": "jimsBaneling",
+      "image_id": 85440
+    },
+    {
+      "match": "jimsUltra",
+      "image_id": 87995
+    },
+    {
+      "match": "jimsHydra",
+      "image_id": 93252
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-yassonz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yassSPOIL","image_id":108844},{"match":"yassSMILE","image_id":91533},{"match":"yassCOMPRIS","image_id":108846},{"match":"yassTEAM","image_id":108845},{"match":"yassSUB","image_id":108843},{"match":"yassGG","image_id":108842},{"match":"yassABUZEUR","image_id":108841},{"match":"yassFRIENDELY","image_id":109015}]}
+{
+  "name": "twitch-sub-yassonz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yassSPOIL",
+      "image_id": 108844
+    },
+    {
+      "match": "yassSMILE",
+      "image_id": 91533
+    },
+    {
+      "match": "yassCOMPRIS",
+      "image_id": 108846
+    },
+    {
+      "match": "yassTEAM",
+      "image_id": 108845
+    },
+    {
+      "match": "yassSUB",
+      "image_id": 108843
+    },
+    {
+      "match": "yassGG",
+      "image_id": 108842
+    },
+    {
+      "match": "yassABUZEUR",
+      "image_id": 108841
+    },
+    {
+      "match": "yassFRIENDELY",
+      "image_id": 109015
+    }
+  ]
+}

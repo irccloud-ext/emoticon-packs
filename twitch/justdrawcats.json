@@ -1,1 +1,31 @@
-{"name":"twitch-sub-justdrawcats","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jdcBaguette","image_id":10921},{"match":"jdcCatZ","image_id":10980},{"match":"jdcMONAY","image_id":13630},{"match":"jdcHERO","image_id":21220},{"match":"jdcWOW","image_id":29340},{"match":"jdcFAIL","image_id":52299}]}
+{
+  "name": "twitch-sub-justdrawcats",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jdcBaguette",
+      "image_id": 10921
+    },
+    {
+      "match": "jdcCatZ",
+      "image_id": 10980
+    },
+    {
+      "match": "jdcMONAY",
+      "image_id": 13630
+    },
+    {
+      "match": "jdcHERO",
+      "image_id": 21220
+    },
+    {
+      "match": "jdcWOW",
+      "image_id": 29340
+    },
+    {
+      "match": "jdcFAIL",
+      "image_id": 52299
+    }
+  ]
+}

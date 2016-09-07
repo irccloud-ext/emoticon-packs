@@ -1,1 +1,43 @@
-{"name":"twitch-sub-khaldor","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"khalFace","image_id":11346},{"match":"khalHead","image_id":11347},{"match":"khalSniped","image_id":35496},{"match":"khalRip","image_id":35110},{"match":"khalPalm","image_id":83260},{"match":"khalThrall","image_id":83261},{"match":"khalMurky","image_id":83263},{"match":"khalIGN","image_id":83322},{"match":"khalHook","image_id":83219}]}
+{
+  "name": "twitch-sub-khaldor",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "khalFace",
+      "image_id": 11346
+    },
+    {
+      "match": "khalHead",
+      "image_id": 11347
+    },
+    {
+      "match": "khalSniped",
+      "image_id": 35496
+    },
+    {
+      "match": "khalRip",
+      "image_id": 35110
+    },
+    {
+      "match": "khalPalm",
+      "image_id": 83260
+    },
+    {
+      "match": "khalThrall",
+      "image_id": 83261
+    },
+    {
+      "match": "khalMurky",
+      "image_id": 83263
+    },
+    {
+      "match": "khalIGN",
+      "image_id": 83322
+    },
+    {
+      "match": "khalHook",
+      "image_id": 83219
+    }
+  ]
+}

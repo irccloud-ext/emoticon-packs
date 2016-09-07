@@ -1,1 +1,39 @@
-{"name":"twitch-sub-boneclinks","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"clinksLol","image_id":105157},{"match":"clinksMett","image_id":105925},{"match":"clinksSad","image_id":105278},{"match":"clinksFrosch","image_id":105276},{"match":"clinksLord","image_id":105178},{"match":"clinksMurica","image_id":105926},{"match":"clinksShock","image_id":105156},{"match":"clinksBlu","image_id":106176}]}
+{
+  "name": "twitch-sub-boneclinks",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "clinksLol",
+      "image_id": 105157
+    },
+    {
+      "match": "clinksMett",
+      "image_id": 105925
+    },
+    {
+      "match": "clinksSad",
+      "image_id": 105278
+    },
+    {
+      "match": "clinksFrosch",
+      "image_id": 105276
+    },
+    {
+      "match": "clinksLord",
+      "image_id": 105178
+    },
+    {
+      "match": "clinksMurica",
+      "image_id": 105926
+    },
+    {
+      "match": "clinksShock",
+      "image_id": 105156
+    },
+    {
+      "match": "clinksBlu",
+      "image_id": 106176
+    }
+  ]
+}

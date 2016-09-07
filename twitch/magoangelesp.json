@@ -1,1 +1,19 @@
-{"name":"twitch-sub-magoangelesp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"magoDronja","image_id":65522},{"match":"magoPalm","image_id":65520},{"match":"magoKappa","image_id":53926}]}
+{
+  "name": "twitch-sub-magoangelesp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "magoDronja",
+      "image_id": 65522
+    },
+    {
+      "match": "magoPalm",
+      "image_id": 65520
+    },
+    {
+      "match": "magoKappa",
+      "image_id": 53926
+    }
+  ]
+}

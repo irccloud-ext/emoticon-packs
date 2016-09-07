@@ -1,1 +1,23 @@
-{"name":"twitch-sub-exi1ia","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"exiMurky","image_id":46717},{"match":"exiCore","image_id":87709},{"match":"exiFish","image_id":87710},{"match":"exiCup","image_id":87708}]}
+{
+  "name": "twitch-sub-exi1ia",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "exiMurky",
+      "image_id": 46717
+    },
+    {
+      "match": "exiCore",
+      "image_id": 87709
+    },
+    {
+      "match": "exiFish",
+      "image_id": 87710
+    },
+    {
+      "match": "exiCup",
+      "image_id": 87708
+    }
+  ]
+}

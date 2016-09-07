@@ -1,1 +1,23 @@
-{"name":"twitch-sub-thegamingterroriser","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"terrorTorror","image_id":36692},{"match":"terrorSubHype","image_id":36694},{"match":"terrorWiener","image_id":39514},{"match":"terrorCan","image_id":56805},{"match":"terrorRip","image_id":56808},{"match":"terrorRage","image_id":56811},{"match":"terrorKappa","image_id":69938}]}
+{
+  "name": "twitch-sub-thegamingterroriser",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "terrorSubHype",
+      "image_id": 36694
+    },
+    {
+      "match": "terrorWiener",
+      "image_id": 39514
+    },
+    {
+      "match": "terrorRip",
+      "image_id": 56808
+    },
+    {
+      "match": "terrorKappa",
+      "image_id": 69938
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-themattayahu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mattaMongol","image_id":108126},{"match":"mattaHum","image_id":96820},{"match":"mattaPride","image_id":96806},{"match":"mattaZero","image_id":109435}]}
+{
+  "name": "twitch-sub-themattayahu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mattaMongol",
+      "image_id": 108126
+    },
+    {
+      "match": "mattaHum",
+      "image_id": 96820
+    },
+    {
+      "match": "mattaPride",
+      "image_id": 96806
+    },
+    {
+      "match": "mattaZero",
+      "image_id": 109435
+    }
+  ]
+}

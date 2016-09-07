@@ -1,1 +1,31 @@
-{"name":"twitch-sub-namja","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"namPedo","image_id":6190},{"match":"namDoge","image_id":6583},{"match":"namKappa","image_id":7156},{"match":"namGasm","image_id":7390},{"match":"namWhat","image_id":8879},{"match":"namFail","image_id":9744}]}
+{
+  "name": "twitch-sub-namja",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "namPedo",
+      "image_id": 6190
+    },
+    {
+      "match": "namDoge",
+      "image_id": 6583
+    },
+    {
+      "match": "namKappa",
+      "image_id": 7156
+    },
+    {
+      "match": "namGasm",
+      "image_id": 7390
+    },
+    {
+      "match": "namWhat",
+      "image_id": 8879
+    },
+    {
+      "match": "namFail",
+      "image_id": 9744
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-patosupershow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pfgRAGE","image_id":103664},{"match":"pfgDAB","image_id":104912},{"match":"pfgNOT","image_id":110742},{"match":"pfgKAP","image_id":110743}]}
+{
+  "name": "twitch-sub-patosupershow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pfgRAGE",
+      "image_id": 103664
+    },
+    {
+      "match": "pfgDAB",
+      "image_id": 104912
+    },
+    {
+      "match": "pfgNOT",
+      "image_id": 110742
+    },
+    {
+      "match": "pfgKAP",
+      "image_id": 110743
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-realregicidal","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"regicidalColby","image_id":18193},{"match":"regicidalYak","image_id":18192},{"match":"regicidalCrown","image_id":18821},{"match":"regicidalBang","image_id":18823},{"match":"regicidalCry","image_id":20735},{"match":"regicidalBow","image_id":41405}]}
+{
+  "name": "twitch-sub-realregicidal",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "regicidalColby",
+      "image_id": 18193
+    },
+    {
+      "match": "regicidalYak",
+      "image_id": 18192
+    },
+    {
+      "match": "regicidalCrown",
+      "image_id": 18821
+    },
+    {
+      "match": "regicidalBang",
+      "image_id": 18823
+    },
+    {
+      "match": "regicidalCry",
+      "image_id": 20735
+    },
+    {
+      "match": "regicidalBow",
+      "image_id": 41405
+    }
+  ]
+}

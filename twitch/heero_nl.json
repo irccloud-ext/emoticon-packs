@@ -1,1 +1,31 @@
-{"name":"twitch-sub-heero_nl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"heeroHYPE","image_id":24608},{"match":"heeroBallin","image_id":24617},{"match":"heeroGO","image_id":24692},{"match":"heeroGla","image_id":41880},{"match":"heeroPerv","image_id":28967},{"match":"heeroCinder","image_id":48408}]}
+{
+  "name": "twitch-sub-heero_nl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "heeroHYPE",
+      "image_id": 24608
+    },
+    {
+      "match": "heeroBallin",
+      "image_id": 24617
+    },
+    {
+      "match": "heeroGO",
+      "image_id": 24692
+    },
+    {
+      "match": "heeroGla",
+      "image_id": 41880
+    },
+    {
+      "match": "heeroPerv",
+      "image_id": 28967
+    },
+    {
+      "match": "heeroCinder",
+      "image_id": 48408
+    }
+  ]
+}

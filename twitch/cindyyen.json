@@ -1,1 +1,19 @@
-{"name":"twitch-sub-cindyyen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gogocindyFighting","image_id":104011},{"match":"gogocindyGasp","image_id":110334},{"match":"gogocindyFml","image_id":110955}]}
+{
+  "name": "twitch-sub-cindyyen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gogocindyFighting",
+      "image_id": 104011
+    },
+    {
+      "match": "gogocindyGasp",
+      "image_id": 110334
+    },
+    {
+      "match": "gogocindyFml",
+      "image_id": 110955
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-officialmelania","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ginaSloth","image_id":41001},{"match":"ginaHi","image_id":40995},{"match":"ginaRip","image_id":41000},{"match":"ginaHype","image_id":40997},{"match":"ginaRage","image_id":40999},{"match":"ginaCry","image_id":40992},{"match":"ginaLove","image_id":40998},{"match":"ginaEvil","image_id":40994},{"match":"ginaDerp","image_id":54409},{"match":"ginaSalt","image_id":53958}]}
+{
+  "name": "twitch-sub-officialmelania",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ginaSloth",
+      "image_id": 41001
+    },
+    {
+      "match": "ginaHi",
+      "image_id": 40995
+    },
+    {
+      "match": "ginaRip",
+      "image_id": 41000
+    },
+    {
+      "match": "ginaHype",
+      "image_id": 40997
+    },
+    {
+      "match": "ginaRage",
+      "image_id": 40999
+    },
+    {
+      "match": "ginaCry",
+      "image_id": 40992
+    },
+    {
+      "match": "ginaLove",
+      "image_id": 40998
+    },
+    {
+      "match": "ginaEvil",
+      "image_id": 40994
+    },
+    {
+      "match": "ginaDerp",
+      "image_id": 54409
+    },
+    {
+      "match": "ginaSalt",
+      "image_id": 53958
+    }
+  ]
+}

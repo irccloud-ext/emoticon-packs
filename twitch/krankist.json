@@ -1,1 +1,31 @@
-{"name":"twitch-sub-krankist","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"krankSwag","image_id":11745},{"match":"krankTd","image_id":11746},{"match":"krankCface","image_id":11967},{"match":"krankAsker","image_id":13604},{"match":"krankGG","image_id":13610},{"match":"krankSaksi","image_id":11966}]}
+{
+  "name": "twitch-sub-krankist",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "krankSwag",
+      "image_id": 11745
+    },
+    {
+      "match": "krankTd",
+      "image_id": 11746
+    },
+    {
+      "match": "krankCface",
+      "image_id": 11967
+    },
+    {
+      "match": "krankAsker",
+      "image_id": 13604
+    },
+    {
+      "match": "krankGG",
+      "image_id": 13610
+    },
+    {
+      "match": "krankSaksi",
+      "image_id": 11966
+    }
+  ]
+}

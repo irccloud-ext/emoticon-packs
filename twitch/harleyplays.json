@@ -1,1 +1,35 @@
-{"name":"twitch-sub-harleyplays","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"emtBeard","image_id":39955},{"match":"emtHype","image_id":39952},{"match":"emtBacon","image_id":39983},{"match":"emtJD","image_id":40095},{"match":"emtSalt","image_id":41385},{"match":"emtMurda","image_id":44637},{"match":"emtGasm","image_id":44844}]}
+{
+  "name": "twitch-sub-harleyplays",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "emtBeard",
+      "image_id": 39955
+    },
+    {
+      "match": "emtHype",
+      "image_id": 39952
+    },
+    {
+      "match": "emtBacon",
+      "image_id": 39983
+    },
+    {
+      "match": "emtJD",
+      "image_id": 40095
+    },
+    {
+      "match": "emtSalt",
+      "image_id": 41385
+    },
+    {
+      "match": "emtMurda",
+      "image_id": 44637
+    },
+    {
+      "match": "emtGasm",
+      "image_id": 44844
+    }
+  ]
+}

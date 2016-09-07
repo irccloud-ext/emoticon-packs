@@ -1,1 +1,67 @@
-{"name":"twitch-sub-ratsmah","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ratBaby","image_id":53616},{"match":"ratKappa","image_id":22249},{"match":"ratRage","image_id":26327},{"match":"ratAmeno","image_id":26955},{"match":"ratW","image_id":39523},{"match":"ratWisp","image_id":35192},{"match":"ratHey","image_id":41188},{"match":"rat1","image_id":58023},{"match":"ratCry","image_id":47328},{"match":"rat3","image_id":58027},{"match":"rat2","image_id":58024},{"match":"ratO","image_id":47475},{"match":"rat4","image_id":58029},{"match":"ratBuster","image_id":58030},{"match":"rat1c","image_id":68529}]}
+{
+  "name": "twitch-sub-ratsmah",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ratBaby",
+      "image_id": 53616
+    },
+    {
+      "match": "ratKappa",
+      "image_id": 22249
+    },
+    {
+      "match": "ratRage",
+      "image_id": 26327
+    },
+    {
+      "match": "ratAmeno",
+      "image_id": 26955
+    },
+    {
+      "match": "ratW",
+      "image_id": 39523
+    },
+    {
+      "match": "ratWisp",
+      "image_id": 35192
+    },
+    {
+      "match": "ratHey",
+      "image_id": 41188
+    },
+    {
+      "match": "rat1",
+      "image_id": 58023
+    },
+    {
+      "match": "ratCry",
+      "image_id": 47328
+    },
+    {
+      "match": "rat3",
+      "image_id": 58027
+    },
+    {
+      "match": "rat2",
+      "image_id": 58024
+    },
+    {
+      "match": "ratO",
+      "image_id": 47475
+    },
+    {
+      "match": "rat4",
+      "image_id": 58029
+    },
+    {
+      "match": "ratBuster",
+      "image_id": 58030
+    },
+    {
+      "match": "rat1c",
+      "image_id": 68529
+    }
+  ]
+}

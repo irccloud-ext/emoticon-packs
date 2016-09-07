@@ -1,1 +1,39 @@
-{"name":"twitch-sub-ozzyinspace","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"spaceSun","image_id":79319},{"match":"spaceCool","image_id":80676},{"match":"spaceB","image_id":79485},{"match":"spaceWoof","image_id":79486},{"match":"spacePaw","image_id":81761},{"match":"spaceRekt","image_id":82136},{"match":"spaceDance","image_id":82135},{"match":"spaceDude","image_id":86829}]}
+{
+  "name": "twitch-sub-ozzyinspace",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "spaceSun",
+      "image_id": 79319
+    },
+    {
+      "match": "spaceCool",
+      "image_id": 80676
+    },
+    {
+      "match": "spaceB",
+      "image_id": 79485
+    },
+    {
+      "match": "spaceWoof",
+      "image_id": 79486
+    },
+    {
+      "match": "spacePaw",
+      "image_id": 81761
+    },
+    {
+      "match": "spaceRekt",
+      "image_id": 82136
+    },
+    {
+      "match": "spaceDance",
+      "image_id": 82135
+    },
+    {
+      "match": "spaceDude",
+      "image_id": 86829
+    }
+  ]
+}

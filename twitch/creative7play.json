@@ -1,1 +1,27 @@
-{"name":"twitch-sub-creative7play","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"c7pHappy","image_id":29877},{"match":"c7pSad","image_id":29876},{"match":"c7pSanya","image_id":44831},{"match":"c7pHYPE","image_id":49910},{"match":"c7pTROLL","image_id":50012}]}
+{
+  "name": "twitch-sub-creative7play",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "c7pHappy",
+      "image_id": 29877
+    },
+    {
+      "match": "c7pSad",
+      "image_id": 29876
+    },
+    {
+      "match": "c7pSanya",
+      "image_id": 44831
+    },
+    {
+      "match": "c7pHYPE",
+      "image_id": 49910
+    },
+    {
+      "match": "c7pTROLL",
+      "image_id": 50012
+    }
+  ]
+}

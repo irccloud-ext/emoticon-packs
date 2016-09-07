@@ -1,1 +1,23 @@
-{"name":"twitch-sub-bischulol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"beeshB","image_id":5087},{"match":"beeshN","image_id":5088},{"match":"beeshZ","image_id":5090},{"match":"beeshV","image_id":5089}]}
+{
+  "name": "twitch-sub-bischulol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "beeshB",
+      "image_id": 5087
+    },
+    {
+      "match": "beeshN",
+      "image_id": 5088
+    },
+    {
+      "match": "beeshZ",
+      "image_id": 5090
+    },
+    {
+      "match": "beeshV",
+      "image_id": 5089
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-monarkqc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"monMonark","image_id":105323},{"match":"monCaribou","image_id":105322},{"match":"monHugo","image_id":106368},{"match":"monKapparibou","image_id":106370}]}
+{
+  "name": "twitch-sub-monarkqc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "monMonark",
+      "image_id": 105323
+    },
+    {
+      "match": "monCaribou",
+      "image_id": 105322
+    },
+    {
+      "match": "monHugo",
+      "image_id": 106368
+    },
+    {
+      "match": "monKapparibou",
+      "image_id": 106370
+    }
+  ]
+}

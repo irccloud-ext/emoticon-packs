@@ -1,1 +1,31 @@
-{"name":"twitch-sub-itssofrosty","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sofrostySuh","image_id":88023},{"match":"sofrostyHype","image_id":88022},{"match":"sofrostyCLG","image_id":81503},{"match":"sofrostyCat","image_id":85466},{"match":"sofrostyFBM","image_id":87255},{"match":"sofrostyTilt","image_id":87256}]}
+{
+  "name": "twitch-sub-itssofrosty",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sofrostySuh",
+      "image_id": 88023
+    },
+    {
+      "match": "sofrostyHype",
+      "image_id": 88022
+    },
+    {
+      "match": "sofrostyCLG",
+      "image_id": 81503
+    },
+    {
+      "match": "sofrostyCat",
+      "image_id": 85466
+    },
+    {
+      "match": "sofrostyFBM",
+      "image_id": 87255
+    },
+    {
+      "match": "sofrostyTilt",
+      "image_id": 87256
+    }
+  ]
+}

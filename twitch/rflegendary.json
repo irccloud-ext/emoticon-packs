@@ -1,1 +1,39 @@
-{"name":"twitch-sub-rflegendary","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rflRaccoonhat","image_id":5625},{"match":"rflCatface","image_id":9552},{"match":"rflPeace","image_id":12976},{"match":"rflHunnies","image_id":62194},{"match":"rflFangirl","image_id":31040},{"match":"rflPorocry","image_id":30523},{"match":"rflKappa","image_id":58694},{"match":"rflDuo","image_id":106432}]}
+{
+  "name": "twitch-sub-rflegendary",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rflRaccoonhat",
+      "image_id": 5625
+    },
+    {
+      "match": "rflCatface",
+      "image_id": 9552
+    },
+    {
+      "match": "rflPeace",
+      "image_id": 12976
+    },
+    {
+      "match": "rflHunnies",
+      "image_id": 62194
+    },
+    {
+      "match": "rflFangirl",
+      "image_id": 31040
+    },
+    {
+      "match": "rflPorocry",
+      "image_id": 30523
+    },
+    {
+      "match": "rflKappa",
+      "image_id": 58694
+    },
+    {
+      "match": "rflDuo",
+      "image_id": 106432
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-godsgarden_u","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gguSoez","image_id":29680},{"match":"gguKenpa","image_id":29766},{"match":"gguKenzo","image_id":29767},{"match":"gguBro","image_id":29768},{"match":"gguWhatev","image_id":29769},{"match":"gguWhoru","image_id":29659}]}
+{
+  "name": "twitch-sub-godsgarden_u",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gguSoez",
+      "image_id": 29680
+    },
+    {
+      "match": "gguKenpa",
+      "image_id": 29766
+    },
+    {
+      "match": "gguKenzo",
+      "image_id": 29767
+    },
+    {
+      "match": "gguBro",
+      "image_id": 29768
+    },
+    {
+      "match": "gguWhatev",
+      "image_id": 29769
+    },
+    {
+      "match": "gguWhoru",
+      "image_id": 29659
+    }
+  ]
+}

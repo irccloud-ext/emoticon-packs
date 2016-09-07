@@ -1,1 +1,31 @@
-{"name":"twitch-sub-officialchanse","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chansesBOOMBOOM","image_id":68391},{"match":"chansesCalculations","image_id":68677},{"match":"chansesSixtykills","image_id":68263},{"match":"chansesCombo","image_id":69140},{"match":"chansesPassedaway","image_id":71429},{"match":"chansesMissedaway","image_id":71430}]}
+{
+  "name": "twitch-sub-officialchanse",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chansesBOOMBOOM",
+      "image_id": 68391
+    },
+    {
+      "match": "chansesCalculations",
+      "image_id": 68677
+    },
+    {
+      "match": "chansesSixtykills",
+      "image_id": 68263
+    },
+    {
+      "match": "chansesCombo",
+      "image_id": 69140
+    },
+    {
+      "match": "chansesPassedaway",
+      "image_id": 71429
+    },
+    {
+      "match": "chansesMissedaway",
+      "image_id": 71430
+    }
+  ]
+}

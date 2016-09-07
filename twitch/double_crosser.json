@@ -1,1 +1,27 @@
-{"name":"twitch-sub-double_crosser","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zgod322","image_id":60939},{"match":"zgodMangoFrog","image_id":60941},{"match":"zgodMangoLove","image_id":56945},{"match":"zgodSpaceCow","image_id":61764},{"match":"zgodIlleagle","image_id":62427}]}
+{
+  "name": "twitch-sub-double_crosser",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zgod322",
+      "image_id": 60939
+    },
+    {
+      "match": "zgodMangoFrog",
+      "image_id": 60941
+    },
+    {
+      "match": "zgodMangoLove",
+      "image_id": 56945
+    },
+    {
+      "match": "zgodSpaceCow",
+      "image_id": 61764
+    },
+    {
+      "match": "zgodIlleagle",
+      "image_id": 62427
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-skater82297","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"skaterHess","image_id":26291},{"match":"skaterGasm","image_id":24524},{"match":"skaterChamp","image_id":26060},{"match":"skaterGIM","image_id":38613},{"match":"skaterNick","image_id":44645},{"match":"skaterRage","image_id":95307}]}
+{
+  "name": "twitch-sub-skater82297",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "skaterHess",
+      "image_id": 26291
+    },
+    {
+      "match": "skaterGasm",
+      "image_id": 24524
+    },
+    {
+      "match": "skaterChamp",
+      "image_id": 26060
+    },
+    {
+      "match": "skaterGIM",
+      "image_id": 38613
+    },
+    {
+      "match": "skaterNick",
+      "image_id": 44645
+    },
+    {
+      "match": "skaterRage",
+      "image_id": 95307
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-willisgamingtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"willisCHEEKY","image_id":55569},{"match":"willisUH","image_id":56312},{"match":"willisHYPE","image_id":55794},{"match":"willisRAGE","image_id":55795},{"match":"willisFRO","image_id":56236},{"match":"willisTOUCH","image_id":56237}]}
+{
+  "name": "twitch-sub-willisgamingtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "willisCHEEKY",
+      "image_id": 55569
+    },
+    {
+      "match": "willisUH",
+      "image_id": 56312
+    },
+    {
+      "match": "willisHYPE",
+      "image_id": 55794
+    },
+    {
+      "match": "willisRAGE",
+      "image_id": 55795
+    },
+    {
+      "match": "willisFRO",
+      "image_id": 56236
+    },
+    {
+      "match": "willisTOUCH",
+      "image_id": 56237
+    }
+  ]
+}

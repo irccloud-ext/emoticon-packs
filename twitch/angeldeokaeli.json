@@ -1,1 +1,15 @@
-{"name":"twitch-sub-angeldeokaeli","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"deoChan","image_id":42050},{"match":"deoDINEZ","image_id":50098}]}
+{
+  "name": "twitch-sub-angeldeokaeli",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "deoChan",
+      "image_id": 42050
+    },
+    {
+      "match": "deoDINEZ",
+      "image_id": 50098
+    }
+  ]
+}

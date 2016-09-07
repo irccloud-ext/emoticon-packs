@@ -1,1 +1,15 @@
-{"name":"twitch-sub-silentc0re","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"silentLuv","image_id":3673},{"match":"silentGodsword","image_id":3674}]}
+{
+  "name": "twitch-sub-silentc0re",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "silentLuv",
+      "image_id": 3673
+    },
+    {
+      "match": "silentGodsword",
+      "image_id": 3674
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-crimsix","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"crimSix","image_id":89801},{"match":"crim3bar","image_id":11645},{"match":"crimCreep","image_id":11647},{"match":"crimSub","image_id":89970},{"match":"crimAllen","image_id":89968},{"match":"crimOG","image_id":89799}]}
+{
+  "name": "twitch-sub-crimsix",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "crimSix",
+      "image_id": 89801
+    },
+    {
+      "match": "crim3bar",
+      "image_id": 11645
+    },
+    {
+      "match": "crimCreep",
+      "image_id": 11647
+    },
+    {
+      "match": "crimSub",
+      "image_id": 89970
+    },
+    {
+      "match": "crimAllen",
+      "image_id": 89968
+    },
+    {
+      "match": "crimOG",
+      "image_id": 89799
+    }
+  ]
+}

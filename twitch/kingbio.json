@@ -1,1 +1,39 @@
-{"name":"twitch-sub-kingbio","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bioKappa","image_id":26456},{"match":"bioOp","image_id":29220},{"match":"bioSad","image_id":93942},{"match":"bioGG","image_id":40086},{"match":"bioHype","image_id":40482},{"match":"bioLove","image_id":40483},{"match":"bioBae","image_id":40485},{"match":"bioMg","image_id":96112}]}
+{
+  "name": "twitch-sub-kingbio",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bioKappa",
+      "image_id": 26456
+    },
+    {
+      "match": "bioOp",
+      "image_id": 29220
+    },
+    {
+      "match": "bioSad",
+      "image_id": 93942
+    },
+    {
+      "match": "bioGG",
+      "image_id": 40086
+    },
+    {
+      "match": "bioHype",
+      "image_id": 40482
+    },
+    {
+      "match": "bioLove",
+      "image_id": 40483
+    },
+    {
+      "match": "bioBae",
+      "image_id": 40485
+    },
+    {
+      "match": "bioMg",
+      "image_id": 96112
+    }
+  ]
+}

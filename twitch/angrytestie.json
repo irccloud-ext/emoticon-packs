@@ -1,1 +1,47 @@
-{"name":"twitch-sub-angrytestie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"attCreep","image_id":3875},{"match":"attNullified","image_id":3891},{"match":"attTimCaptain","image_id":3914},{"match":"attBTW","image_id":3988},{"match":"attFab","image_id":4574},{"match":"attTB","image_id":5737},{"match":"attHonjesus","image_id":8926},{"match":"attH","image_id":12500},{"match":"attSup","image_id":13847},{"match":"attCT","image_id":13848}]}
+{
+  "name": "twitch-sub-angrytestie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "attCreep",
+      "image_id": 3875
+    },
+    {
+      "match": "attNullified",
+      "image_id": 3891
+    },
+    {
+      "match": "attTimCaptain",
+      "image_id": 3914
+    },
+    {
+      "match": "attBTW",
+      "image_id": 3988
+    },
+    {
+      "match": "attFab",
+      "image_id": 4574
+    },
+    {
+      "match": "attTB",
+      "image_id": 5737
+    },
+    {
+      "match": "attHonjesus",
+      "image_id": 8926
+    },
+    {
+      "match": "attH",
+      "image_id": 12500
+    },
+    {
+      "match": "attSup",
+      "image_id": 13847
+    },
+    {
+      "match": "attCT",
+      "image_id": 13848
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-arthur_46","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"arthur46Hi","image_id":57298},{"match":"arthur4661","image_id":56611},{"match":"arthur46BM","image_id":59818},{"match":"arthur46Shancoin","image_id":53072},{"match":"arthur46Senior","image_id":53073},{"match":"arthur46Fish","image_id":59654}]}
+{
+  "name": "twitch-sub-arthur_46",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "arthur46Hi",
+      "image_id": 57298
+    },
+    {
+      "match": "arthur4661",
+      "image_id": 56611
+    },
+    {
+      "match": "arthur46BM",
+      "image_id": 59818
+    },
+    {
+      "match": "arthur46Shancoin",
+      "image_id": 53072
+    },
+    {
+      "match": "arthur46Senior",
+      "image_id": 53073
+    },
+    {
+      "match": "arthur46Fish",
+      "image_id": 59654
+    }
+  ]
+}

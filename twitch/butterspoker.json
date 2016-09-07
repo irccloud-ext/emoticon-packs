@@ -1,1 +1,31 @@
-{"name":"twitch-sub-butterspoker","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"butDuck","image_id":48998},{"match":"butJake","image_id":35174},{"match":"butLisa","image_id":35229},{"match":"butHeaps","image_id":35300},{"match":"butCat","image_id":49156},{"match":"butRed","image_id":49159}]}
+{
+  "name": "twitch-sub-butterspoker",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "butDuck",
+      "image_id": 48998
+    },
+    {
+      "match": "butJake",
+      "image_id": 35174
+    },
+    {
+      "match": "butLisa",
+      "image_id": 35229
+    },
+    {
+      "match": "butHeaps",
+      "image_id": 35300
+    },
+    {
+      "match": "butCat",
+      "image_id": 49156
+    },
+    {
+      "match": "butRed",
+      "image_id": 49159
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-anteeewalley","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"anteKebab","image_id":29666},{"match":"anteP12","image_id":24722},{"match":"anteKeps","image_id":24066},{"match":"anteHejd","image_id":29732}]}
+{
+  "name": "twitch-sub-anteeewalley",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "anteKebab",
+      "image_id": 29666
+    },
+    {
+      "match": "anteP12",
+      "image_id": 24722
+    },
+    {
+      "match": "anteKeps",
+      "image_id": 24066
+    },
+    {
+      "match": "anteHejd",
+      "image_id": 29732
+    }
+  ]
+}

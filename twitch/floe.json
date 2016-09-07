@@ -1,1 +1,55 @@
-{"name":"twitch-sub-floe","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"floe20","image_id":7900},{"match":"floeHoldDat","image_id":7901},{"match":"floeFace","image_id":8204},{"match":"floeFail","image_id":52884},{"match":"floeKnows","image_id":54098},{"match":"floeBox","image_id":70555},{"match":"floeOMG","image_id":96147},{"match":"floeMika","image_id":96160},{"match":"floeWaifu","image_id":107997},{"match":"floeTrigger","image_id":108195}]}
+{
+  "name": "twitch-sub-floe",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "floe20",
+      "image_id": 7900
+    },
+    {
+      "match": "floeHoldDat",
+      "image_id": 7901
+    },
+    {
+      "match": "floeFace",
+      "image_id": 8204
+    },
+    {
+      "match": "floeFail",
+      "image_id": 52884
+    },
+    {
+      "match": "floeKnows",
+      "image_id": 54098
+    },
+    {
+      "match": "floeBox",
+      "image_id": 70555
+    },
+    {
+      "match": "floeOMG",
+      "image_id": 96147
+    },
+    {
+      "match": "floeMika",
+      "image_id": 96160
+    },
+    {
+      "match": "floeWaifu",
+      "image_id": 107997
+    },
+    {
+      "match": "floeTrigger",
+      "image_id": 108195
+    },
+    {
+      "match": "floeKoko",
+      "image_id": 112063
+    },
+    {
+      "match": "floeHiYo",
+      "image_id": 111763
+    }
+  ]
+}

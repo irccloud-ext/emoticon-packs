@@ -1,1 +1,39 @@
-{"name":"twitch-sub-kolento","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kolentoBM","image_id":10146},{"match":"kolentoSad","image_id":10045},{"match":"kolentoSniperino","image_id":12990},{"match":"kolentoW","image_id":37961},{"match":"kolentoHappy","image_id":19190},{"match":"kolentoHype","image_id":19191},{"match":"kolentoDummy","image_id":61085},{"match":"kolentoBad","image_id":88171}]}
+{
+  "name": "twitch-sub-kolento",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kolentoBM",
+      "image_id": 10146
+    },
+    {
+      "match": "kolentoSad",
+      "image_id": 10045
+    },
+    {
+      "match": "kolentoSniperino",
+      "image_id": 12990
+    },
+    {
+      "match": "kolentoW",
+      "image_id": 37961
+    },
+    {
+      "match": "kolentoHappy",
+      "image_id": 19190
+    },
+    {
+      "match": "kolentoHype",
+      "image_id": 19191
+    },
+    {
+      "match": "kolentoDummy",
+      "image_id": 61085
+    },
+    {
+      "match": "kolentoBad",
+      "image_id": 88171
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ahqesportsclub","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ahqjpeg02","image_id":38559},{"match":"ahqjpeg01","image_id":38558},{"match":"ahqjpeg78","image_id":65332},{"match":"ahqjpeg55666","image_id":65333},{"match":"ahqjpeg987","image_id":65334},{"match":"ahqjpeg66666","image_id":65335}]}
+{
+  "name": "twitch-sub-ahqesportsclub",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ahqjpeg02",
+      "image_id": 38559
+    },
+    {
+      "match": "ahqjpeg01",
+      "image_id": 38558
+    },
+    {
+      "match": "ahqjpeg78",
+      "image_id": 65332
+    },
+    {
+      "match": "ahqjpeg55666",
+      "image_id": 65333
+    },
+    {
+      "match": "ahqjpeg987",
+      "image_id": 65334
+    },
+    {
+      "match": "ahqjpeg66666",
+      "image_id": 65335
+    }
+  ]
+}

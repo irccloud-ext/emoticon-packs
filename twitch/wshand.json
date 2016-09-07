@@ -1,1 +1,47 @@
-{"name":"twitch-sub-wshand","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shandTofu","image_id":14731},{"match":"shandBit","image_id":20928},{"match":"shandLove","image_id":21458},{"match":"shandMad","image_id":27003},{"match":"shandSad","image_id":28986},{"match":"shandShock","image_id":65077},{"match":"shandShy","image_id":65078},{"match":"shandChubby","image_id":66100},{"match":"shandDead","image_id":66101},{"match":"shandSleep","image_id":69857}]}
+{
+  "name": "twitch-sub-wshand",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shandTofu",
+      "image_id": 14731
+    },
+    {
+      "match": "shandBit",
+      "image_id": 20928
+    },
+    {
+      "match": "shandLove",
+      "image_id": 21458
+    },
+    {
+      "match": "shandMad",
+      "image_id": 27003
+    },
+    {
+      "match": "shandSad",
+      "image_id": 28986
+    },
+    {
+      "match": "shandShock",
+      "image_id": 65077
+    },
+    {
+      "match": "shandShy",
+      "image_id": 65078
+    },
+    {
+      "match": "shandChubby",
+      "image_id": 66100
+    },
+    {
+      "match": "shandDead",
+      "image_id": 66101
+    },
+    {
+      "match": "shandSleep",
+      "image_id": 69857
+    }
+  ]
+}

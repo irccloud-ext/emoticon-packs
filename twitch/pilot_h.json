@@ -1,1 +1,35 @@
-{"name":"twitch-sub-pilot_h","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pilotSTRONG","image_id":97976},{"match":"pilotOMG","image_id":97376},{"match":"pilotKappa","image_id":106550},{"match":"pilotRS","image_id":97543},{"match":"pilotSimba","image_id":97094},{"match":"pilotRAGE","image_id":97977},{"match":"pilotPH","image_id":97969}]}
+{
+  "name": "twitch-sub-pilot_h",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pilotSTRONG",
+      "image_id": 97976
+    },
+    {
+      "match": "pilotOMG",
+      "image_id": 97376
+    },
+    {
+      "match": "pilotKappa",
+      "image_id": 106550
+    },
+    {
+      "match": "pilotRS",
+      "image_id": 97543
+    },
+    {
+      "match": "pilotSimba",
+      "image_id": 97094
+    },
+    {
+      "match": "pilotRAGE",
+      "image_id": 97977
+    },
+    {
+      "match": "pilotPH",
+      "image_id": 97969
+    }
+  ]
+}

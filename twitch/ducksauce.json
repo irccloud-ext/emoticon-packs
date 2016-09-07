@@ -1,1 +1,127 @@
-{"name":"twitch-sub-ducksauce","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"duckLove","image_id":68532},{"match":"duckSkadoosh","image_id":1033},{"match":"duckTenTen","image_id":1034},{"match":"duckDuckFlex","image_id":1035},{"match":"duckHey","image_id":69436},{"match":"duckArthas","image_id":6980},{"match":"duckDerp","image_id":28697},{"match":"duckMama","image_id":13458},{"match":"duckFail","image_id":83842},{"match":"duckQuappa","image_id":22720},{"match":"duckInverted","image_id":69321},{"match":"duckTU","image_id":83573},{"match":"duckSleep","image_id":83572},{"match":"duckNerd","image_id":83571},{"match":"duckBot","image_id":83570},{"match":"duckSad","image_id":68790},{"match":"duckAim","image_id":69102},{"match":"duckFG","image_id":68535},{"match":"duckFB","image_id":68534},{"match":"duckMLG","image_id":68533},{"match":"duckRiot","image_id":68682},{"match":"duckRIP","image_id":68672},{"match":"duckRekt","image_id":68673},{"match":"duckHype","image_id":68531},{"match":"duckCreep","image_id":70682},{"match":"duckCoffee","image_id":69632},{"match":"duckRage","image_id":69631},{"match":"duckPotato","image_id":69628},{"match":"duckBills","image_id":69689},{"match":"duckCurry","image_id":91367}]}
+{
+  "name": "twitch-sub-ducksauce",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "duckLove",
+      "image_id": 68532
+    },
+    {
+      "match": "duckSkadoosh",
+      "image_id": 1033
+    },
+    {
+      "match": "duckTenTen",
+      "image_id": 1034
+    },
+    {
+      "match": "duckDuckFlex",
+      "image_id": 1035
+    },
+    {
+      "match": "duckHey",
+      "image_id": 69436
+    },
+    {
+      "match": "duckArthas",
+      "image_id": 6980
+    },
+    {
+      "match": "duckDerp",
+      "image_id": 28697
+    },
+    {
+      "match": "duckMama",
+      "image_id": 13458
+    },
+    {
+      "match": "duckFail",
+      "image_id": 83842
+    },
+    {
+      "match": "duckQuappa",
+      "image_id": 22720
+    },
+    {
+      "match": "duckInverted",
+      "image_id": 69321
+    },
+    {
+      "match": "duckTU",
+      "image_id": 83573
+    },
+    {
+      "match": "duckSleep",
+      "image_id": 83572
+    },
+    {
+      "match": "duckNerd",
+      "image_id": 83571
+    },
+    {
+      "match": "duckBot",
+      "image_id": 83570
+    },
+    {
+      "match": "duckSad",
+      "image_id": 68790
+    },
+    {
+      "match": "duckAim",
+      "image_id": 69102
+    },
+    {
+      "match": "duckFG",
+      "image_id": 68535
+    },
+    {
+      "match": "duckFB",
+      "image_id": 68534
+    },
+    {
+      "match": "duckMLG",
+      "image_id": 68533
+    },
+    {
+      "match": "duckRiot",
+      "image_id": 68682
+    },
+    {
+      "match": "duckRIP",
+      "image_id": 68672
+    },
+    {
+      "match": "duckRekt",
+      "image_id": 68673
+    },
+    {
+      "match": "duckHype",
+      "image_id": 68531
+    },
+    {
+      "match": "duckCreep",
+      "image_id": 70682
+    },
+    {
+      "match": "duckCoffee",
+      "image_id": 69632
+    },
+    {
+      "match": "duckRage",
+      "image_id": 69631
+    },
+    {
+      "match": "duckPotato",
+      "image_id": 69628
+    },
+    {
+      "match": "duckBills",
+      "image_id": 69689
+    },
+    {
+      "match": "duckCurry",
+      "image_id": 91367
+    }
+  ]
+}

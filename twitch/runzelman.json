@@ -1,1 +1,67 @@
-{"name":"twitch-sub-runzelman","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"inconCalc","image_id":37697},{"match":"inconW","image_id":40282},{"match":"inconFlex","image_id":49352},{"match":"inconLOUD","image_id":111225},{"match":"inconTiggered","image_id":83545},{"match":"inconLove","image_id":82077},{"match":"inconChair","image_id":110629},{"match":"inconCat","image_id":110630},{"match":"inconFeels","image_id":110631},{"match":"inconHype","image_id":110633},{"match":"inconSteal","image_id":110635},{"match":"inconClose","image_id":110636},{"match":"inconBait","image_id":110637},{"match":"inconLag","image_id":110638},{"match":"inconJuke","image_id":111204}]}
+{
+  "name": "twitch-sub-runzelman",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "inconCalc",
+      "image_id": 37697
+    },
+    {
+      "match": "inconW",
+      "image_id": 40282
+    },
+    {
+      "match": "inconFlex",
+      "image_id": 49352
+    },
+    {
+      "match": "inconLOUD",
+      "image_id": 111225
+    },
+    {
+      "match": "inconTiggered",
+      "image_id": 83545
+    },
+    {
+      "match": "inconLove",
+      "image_id": 82077
+    },
+    {
+      "match": "inconChair",
+      "image_id": 110629
+    },
+    {
+      "match": "inconCat",
+      "image_id": 110630
+    },
+    {
+      "match": "inconFeels",
+      "image_id": 110631
+    },
+    {
+      "match": "inconHype",
+      "image_id": 110633
+    },
+    {
+      "match": "inconSteal",
+      "image_id": 110635
+    },
+    {
+      "match": "inconClose",
+      "image_id": 110636
+    },
+    {
+      "match": "inconBait",
+      "image_id": 110637
+    },
+    {
+      "match": "inconLag",
+      "image_id": 110638
+    },
+    {
+      "match": "inconJuke",
+      "image_id": 111204
+    }
+  ]
+}

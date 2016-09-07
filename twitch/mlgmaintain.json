@@ -1,1 +1,23 @@
-{"name":"twitch-sub-mlgmaintain","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mainBald","image_id":14298},{"match":"mainPack","image_id":14315},{"match":"mainXp","image_id":14352},{"match":"mainXplife","image_id":14379}]}
+{
+  "name": "twitch-sub-mlgmaintain",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mainBald",
+      "image_id": 14298
+    },
+    {
+      "match": "mainPack",
+      "image_id": 14315
+    },
+    {
+      "match": "mainXp",
+      "image_id": 14352
+    },
+    {
+      "match": "mainXplife",
+      "image_id": 14379
+    }
+  ]
+}

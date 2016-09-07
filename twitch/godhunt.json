@@ -1,1 +1,23 @@
-{"name":"twitch-sub-godhunt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kothFace","image_id":24969},{"match":"kothBee","image_id":51497},{"match":"kothGrump","image_id":51193},{"match":"kothRoar","image_id":51178}]}
+{
+  "name": "twitch-sub-godhunt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kothFace",
+      "image_id": 24969
+    },
+    {
+      "match": "kothBee",
+      "image_id": 51497
+    },
+    {
+      "match": "kothGrump",
+      "image_id": 51193
+    },
+    {
+      "match": "kothRoar",
+      "image_id": 51178
+    }
+  ]
+}

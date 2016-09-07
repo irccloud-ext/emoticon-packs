@@ -1,1 +1,15 @@
-{"name":"twitch-sub-siorin_fps","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"siorinEgao","image_id":110210},{"match":"siorinBanana","image_id":110209}]}
+{
+  "name": "twitch-sub-siorin_fps",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "siorinEgao",
+      "image_id": 110210
+    },
+    {
+      "match": "siorinBanana",
+      "image_id": 110209
+    }
+  ]
+}

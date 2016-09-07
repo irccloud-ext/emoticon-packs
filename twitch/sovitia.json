@@ -1,1 +1,47 @@
-{"name":"twitch-sub-sovitia","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"soviEstaban","image_id":6668},{"match":"soviSkye","image_id":6321},{"match":"soviSayber","image_id":6320},{"match":"soviDerp","image_id":6317},{"match":"soviCutie","image_id":6319},{"match":"soviRawr","image_id":6318},{"match":"soviMoist","image_id":6393},{"match":"soviPeace","image_id":6391},{"match":"soviSun","image_id":6587},{"match":"soviHoly","image_id":30776}]}
+{
+  "name": "twitch-sub-sovitia",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "soviEstaban",
+      "image_id": 6668
+    },
+    {
+      "match": "soviSkye",
+      "image_id": 6321
+    },
+    {
+      "match": "soviSayber",
+      "image_id": 6320
+    },
+    {
+      "match": "soviDerp",
+      "image_id": 6317
+    },
+    {
+      "match": "soviCutie",
+      "image_id": 6319
+    },
+    {
+      "match": "soviRawr",
+      "image_id": 6318
+    },
+    {
+      "match": "soviMoist",
+      "image_id": 6393
+    },
+    {
+      "match": "soviPeace",
+      "image_id": 6391
+    },
+    {
+      "match": "soviSun",
+      "image_id": 6587
+    },
+    {
+      "match": "soviHoly",
+      "image_id": 30776
+    }
+  ]
+}

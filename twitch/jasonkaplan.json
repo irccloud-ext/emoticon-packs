@@ -1,1 +1,23 @@
-{"name":"twitch-sub-jasonkaplan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kaplanKappa","image_id":13734},{"match":"kaplanWhat","image_id":93206},{"match":"kaplanC","image_id":101998},{"match":"kaplanW","image_id":100036}]}
+{
+  "name": "twitch-sub-jasonkaplan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kaplanKappa",
+      "image_id": 13734
+    },
+    {
+      "match": "kaplanWhat",
+      "image_id": 93206
+    },
+    {
+      "match": "kaplanC",
+      "image_id": 101998
+    },
+    {
+      "match": "kaplanW",
+      "image_id": 100036
+    }
+  ]
+}

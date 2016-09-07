@@ -1,1 +1,47 @@
-{"name":"twitch-sub-valleybeast559","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"valHYPE","image_id":16541},{"match":"valHAMMER","image_id":16267},{"match":"valOP","image_id":19060},{"match":"valSHOCK","image_id":19209},{"match":"valGRAPES","image_id":21127},{"match":"valBEAST","image_id":21408},{"match":"valFARMS","image_id":33857},{"match":"valRIP","image_id":33864},{"match":"valTHIRST","image_id":35291},{"match":"valWICH","image_id":39899}]}
+{
+  "name": "twitch-sub-valleybeast559",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "valHYPE",
+      "image_id": 16541
+    },
+    {
+      "match": "valHAMMER",
+      "image_id": 16267
+    },
+    {
+      "match": "valOP",
+      "image_id": 19060
+    },
+    {
+      "match": "valSHOCK",
+      "image_id": 19209
+    },
+    {
+      "match": "valGRAPES",
+      "image_id": 21127
+    },
+    {
+      "match": "valBEAST",
+      "image_id": 21408
+    },
+    {
+      "match": "valFARMS",
+      "image_id": 33857
+    },
+    {
+      "match": "valRIP",
+      "image_id": 33864
+    },
+    {
+      "match": "valTHIRST",
+      "image_id": 35291
+    },
+    {
+      "match": "valWICH",
+      "image_id": 39899
+    }
+  ]
+}

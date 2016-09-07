@@ -1,1 +1,39 @@
-{"name":"twitch-sub-ven0mkisser","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ven0mSucks","image_id":10242},{"match":"ven0mW","image_id":47821},{"match":"ven0mDont","image_id":60003},{"match":"ven0mWorry","image_id":60004},{"match":"ven0mTip","image_id":99909},{"match":"ven0mHug","image_id":83286},{"match":"ven0mAye","image_id":83287},{"match":"ven0mPFFT","image_id":109882}]}
+{
+  "name": "twitch-sub-ven0mkisser",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ven0mSucks",
+      "image_id": 10242
+    },
+    {
+      "match": "ven0mW",
+      "image_id": 47821
+    },
+    {
+      "match": "ven0mDont",
+      "image_id": 60003
+    },
+    {
+      "match": "ven0mWorry",
+      "image_id": 60004
+    },
+    {
+      "match": "ven0mTip",
+      "image_id": 99909
+    },
+    {
+      "match": "ven0mHug",
+      "image_id": 83286
+    },
+    {
+      "match": "ven0mAye",
+      "image_id": 83287
+    },
+    {
+      "match": "ven0mPFFT",
+      "image_id": 109882
+    }
+  ]
+}

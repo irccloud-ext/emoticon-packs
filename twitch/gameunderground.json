@@ -1,1 +1,23 @@
-{"name":"twitch-sub-gameunderground","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gutsLetsgowave","image_id":106784},{"match":"gutsGCW","image_id":86351},{"match":"gutsLogo","image_id":82545},{"match":"gutsLance","image_id":106835}]}
+{
+  "name": "twitch-sub-gameunderground",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gutsLetsgowave",
+      "image_id": 106784
+    },
+    {
+      "match": "gutsGCW",
+      "image_id": 86351
+    },
+    {
+      "match": "gutsLogo",
+      "image_id": 82545
+    },
+    {
+      "match": "gutsLance",
+      "image_id": 106835
+    }
+  ]
+}

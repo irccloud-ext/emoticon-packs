@@ -1,1 +1,39 @@
-{"name":"twitch-sub-legendary_qstor","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"legendaryKingZombo","image_id":111490},{"match":"legendaryLetsRide","image_id":104124},{"match":"legendaryGG","image_id":111701},{"match":"legendaryRip","image_id":111695},{"match":"legendaryCrown","image_id":111502}]}
+{
+  "name": "twitch-sub-legendary_qstor",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "legendaryRip",
+      "image_id": 111976
+    },
+    {
+      "match": "legendaryZomboheart",
+      "image_id": 112479
+    },
+    {
+      "match": "legendaryCrown",
+      "image_id": 111981
+    },
+    {
+      "match": "legendaryKingZombo",
+      "image_id": 111490
+    },
+    {
+      "match": "legendaryLetsRide",
+      "image_id": 104124
+    },
+    {
+      "match": "legendaryGG",
+      "image_id": 111701
+    },
+    {
+      "match": "legendaryHype",
+      "image_id": 112390
+    },
+    {
+      "match": "legendaryLoot",
+      "image_id": 112391
+    }
+  ]
+}

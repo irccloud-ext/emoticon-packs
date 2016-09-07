@@ -1,1 +1,15 @@
-{"name":"twitch-sub-rickyledouche","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rldFeelsFreeman","image_id":90931},{"match":"rldFabulous","image_id":91754}]}
+{
+  "name": "twitch-sub-rickyledouche",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rldFeelsFreeman",
+      "image_id": 90931
+    },
+    {
+      "match": "rldFabulous",
+      "image_id": 91754
+    }
+  ]
+}

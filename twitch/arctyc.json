@@ -1,1 +1,31 @@
-{"name":"twitch-sub-arctyc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"arcLogic","image_id":23207},{"match":"arcRant","image_id":23221},{"match":"arcClub","image_id":37546},{"match":"arcBANG","image_id":37548},{"match":"arcSub","image_id":37547},{"match":"arcPACK","image_id":37545}]}
+{
+  "name": "twitch-sub-arctyc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "arcLogic",
+      "image_id": 23207
+    },
+    {
+      "match": "arcRant",
+      "image_id": 23221
+    },
+    {
+      "match": "arcClub",
+      "image_id": 37546
+    },
+    {
+      "match": "arcBANG",
+      "image_id": 37548
+    },
+    {
+      "match": "arcSub",
+      "image_id": 37547
+    },
+    {
+      "match": "arcPACK",
+      "image_id": 37545
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-keepwishing3","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kwishFake","image_id":101247},{"match":"kwishHug","image_id":28531},{"match":"kwishCry","image_id":29366},{"match":"kwishGlasses","image_id":29410},{"match":"kwishTrivia","image_id":29548},{"match":"kwishHype","image_id":65432},{"match":"kwishGet","image_id":72821},{"match":"kwishDang","image_id":72976}]}
+{
+  "name": "twitch-sub-keepwishing3",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kwishFake",
+      "image_id": 101247
+    },
+    {
+      "match": "kwishHug",
+      "image_id": 28531
+    },
+    {
+      "match": "kwishCry",
+      "image_id": 29366
+    },
+    {
+      "match": "kwishGlasses",
+      "image_id": 29410
+    },
+    {
+      "match": "kwishTrivia",
+      "image_id": 29548
+    },
+    {
+      "match": "kwishHype",
+      "image_id": 65432
+    },
+    {
+      "match": "kwishGet",
+      "image_id": 72821
+    },
+    {
+      "match": "kwishDang",
+      "image_id": 72976
+    }
+  ]
+}

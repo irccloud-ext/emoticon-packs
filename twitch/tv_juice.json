@@ -1,1 +1,31 @@
-{"name":"twitch-sub-tv_juice","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tvjuiceLove","image_id":109428},{"match":"tvjuiceHello","image_id":109031},{"match":"tvjuicePosos","image_id":109035},{"match":"tvjuiceMlg","image_id":109096},{"match":"tvjuiceCry","image_id":109429},{"match":"tvjuiceCake","image_id":110252}]}
+{
+  "name": "twitch-sub-tv_juice",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tvjuiceLove",
+      "image_id": 109428
+    },
+    {
+      "match": "tvjuiceHello",
+      "image_id": 109031
+    },
+    {
+      "match": "tvjuicePosos",
+      "image_id": 109035
+    },
+    {
+      "match": "tvjuiceMlg",
+      "image_id": 109096
+    },
+    {
+      "match": "tvjuiceCry",
+      "image_id": 109429
+    },
+    {
+      "match": "tvjuiceCake",
+      "image_id": 110252
+    }
+  ]
+}

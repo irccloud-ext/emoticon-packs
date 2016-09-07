@@ -1,1 +1,27 @@
-{"name":"twitch-sub-disguisedtoasths","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"toastyThump","image_id":57993},{"match":"toastyW","image_id":57479},{"match":"toastyCorporate","image_id":58754},{"match":"toastySmorc","image_id":58742},{"match":"toastySkill","image_id":58741}]}
+{
+  "name": "twitch-sub-disguisedtoasths",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "toastyThump",
+      "image_id": 57993
+    },
+    {
+      "match": "toastyW",
+      "image_id": 57479
+    },
+    {
+      "match": "toastyCorporate",
+      "image_id": 58754
+    },
+    {
+      "match": "toastySmorc",
+      "image_id": 58742
+    },
+    {
+      "match": "toastySkill",
+      "image_id": 58741
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-d4rkmayhem","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"d4rkVase","image_id":5356},{"match":"d4rkMan","image_id":5545}]}
+{
+  "name": "twitch-sub-d4rkmayhem",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "d4rkVase",
+      "image_id": 5356
+    },
+    {
+      "match": "d4rkMan",
+      "image_id": 5545
+    }
+  ]
+}

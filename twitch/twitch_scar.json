@@ -1,1 +1,47 @@
-{"name":"twitch-sub-twitch_scar","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"peoplesPeco","image_id":94613},{"match":"peoplesWTF","image_id":93576},{"match":"peoplesW","image_id":93546},{"match":"peoplesFire","image_id":94827},{"match":"peoplesY","image_id":93894},{"match":"peoplesBuster","image_id":96473},{"match":"peoplesSalt","image_id":94389},{"match":"peoplesReads","image_id":96681},{"match":"peoplesNutty","image_id":95565},{"match":"peoplesSup","image_id":96446}]}
+{
+  "name": "twitch-sub-twitch_scar",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "peoplesPeco",
+      "image_id": 94613
+    },
+    {
+      "match": "peoplesWTF",
+      "image_id": 93576
+    },
+    {
+      "match": "peoplesW",
+      "image_id": 93546
+    },
+    {
+      "match": "peoplesFire",
+      "image_id": 94827
+    },
+    {
+      "match": "peoplesY",
+      "image_id": 93894
+    },
+    {
+      "match": "peoplesBuster",
+      "image_id": 96473
+    },
+    {
+      "match": "peoplesSalt",
+      "image_id": 94389
+    },
+    {
+      "match": "peoplesReads",
+      "image_id": 96681
+    },
+    {
+      "match": "peoplesNutty",
+      "image_id": 95565
+    },
+    {
+      "match": "peoplesSup",
+      "image_id": 96446
+    }
+  ]
+}

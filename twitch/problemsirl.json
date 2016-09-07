@@ -1,1 +1,39 @@
-{"name":"twitch-sub-problemsirl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"probsRNG","image_id":33176},{"match":"probsUgh","image_id":27101},{"match":"probsL","image_id":32785},{"match":"probsHi","image_id":35099},{"match":"probsSing","image_id":70794},{"match":"probsYay","image_id":70797},{"match":"probsFeels","image_id":75209},{"match":"probsChamp","image_id":111371}]}
+{
+  "name": "twitch-sub-problemsirl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "probsRNG",
+      "image_id": 33176
+    },
+    {
+      "match": "probsUgh",
+      "image_id": 27101
+    },
+    {
+      "match": "probsHi",
+      "image_id": 35099
+    },
+    {
+      "match": "probsSing",
+      "image_id": 70794
+    },
+    {
+      "match": "probsChamp",
+      "image_id": 111371
+    },
+    {
+      "match": "probsL",
+      "image_id": 112277
+    },
+    {
+      "match": "probsYay",
+      "image_id": 112278
+    },
+    {
+      "match": "probsFeels",
+      "image_id": 112279
+    }
+  ]
+}

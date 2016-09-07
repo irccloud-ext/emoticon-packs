@@ -1,1 +1,15 @@
-{"name":"twitch-sub-momochoco","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"momochocoMOMOCHI","image_id":86179},{"match":"momochocoGONSUKE","image_id":86178}]}
+{
+  "name": "twitch-sub-momochoco",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "momochocoMOMOCHI",
+      "image_id": 86179
+    },
+    {
+      "match": "momochocoGONSUKE",
+      "image_id": 86178
+    }
+  ]
+}

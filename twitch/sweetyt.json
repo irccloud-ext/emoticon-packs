@@ -1,1 +1,15 @@
-{"name":"twitch-sub-sweetyt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sweetHello","image_id":72800},{"match":"sweetWaifu","image_id":69465}]}
+{
+  "name": "twitch-sub-sweetyt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sweetHello",
+      "image_id": 72800
+    },
+    {
+      "match": "sweetWaifu",
+      "image_id": 69465
+    }
+  ]
+}

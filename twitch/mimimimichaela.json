@@ -1,1 +1,35 @@
-{"name":"twitch-sub-mimimimichaela","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mimimiTen","image_id":62230},{"match":"mimimiLove","image_id":64211},{"match":"mimimiHi","image_id":64212},{"match":"mimimiThump","image_id":64563},{"match":"mimimiWow","image_id":64562},{"match":"mimimiGasm","image_id":64561},{"match":"mimimiHype","image_id":64560},{"match":"mimimiRage","image_id":64559}]}
+{
+  "name": "twitch-sub-mimimimichaela",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mimimiTen",
+      "image_id": 62230
+    },
+    {
+      "match": "mimimiLove",
+      "image_id": 64211
+    },
+    {
+      "match": "mimimiHi",
+      "image_id": 64212
+    },
+    {
+      "match": "mimimiThump",
+      "image_id": 64563
+    },
+    {
+      "match": "mimimiWow",
+      "image_id": 64562
+    },
+    {
+      "match": "mimimiHype",
+      "image_id": 64560
+    },
+    {
+      "match": "mimimiRage",
+      "image_id": 64559
+    }
+  ]
+}

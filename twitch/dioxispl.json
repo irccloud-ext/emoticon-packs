@@ -1,1 +1,23 @@
-{"name":"twitch-sub-dioxispl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dioxBot","image_id":101265},{"match":"dioxTrio","image_id":97558},{"match":"dioxKon","image_id":101904},{"match":"dioxArta","image_id":101966}]}
+{
+  "name": "twitch-sub-dioxispl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dioxBot",
+      "image_id": 101265
+    },
+    {
+      "match": "dioxTrio",
+      "image_id": 97558
+    },
+    {
+      "match": "dioxKon",
+      "image_id": 101904
+    },
+    {
+      "match": "dioxArta",
+      "image_id": 101966
+    }
+  ]
+}

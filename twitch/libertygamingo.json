@@ -1,1 +1,39 @@
-{"name":"twitch-sub-libertygamingo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"logFace","image_id":1907},{"match":"logGoutte","image_id":1908},{"match":"logTerre","image_id":7876},{"match":"logOKLM","image_id":19756},{"match":"logTmt","image_id":19757},{"match":"logPepito","image_id":62268},{"match":"logThug","image_id":62271},{"match":"logMoney","image_id":62375}]}
+{
+  "name": "twitch-sub-libertygamingo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "logFace",
+      "image_id": 1907
+    },
+    {
+      "match": "logGoutte",
+      "image_id": 1908
+    },
+    {
+      "match": "logTerre",
+      "image_id": 7876
+    },
+    {
+      "match": "logOKLM",
+      "image_id": 19756
+    },
+    {
+      "match": "logTmt",
+      "image_id": 19757
+    },
+    {
+      "match": "logPepito",
+      "image_id": 62268
+    },
+    {
+      "match": "logThug",
+      "image_id": 62271
+    },
+    {
+      "match": "logMoney",
+      "image_id": 62375
+    }
+  ]
+}

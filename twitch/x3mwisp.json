@@ -1,1 +1,15 @@
-{"name":"twitch-sub-x3mwisp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"x3mForce","image_id":37158},{"match":"x3mShOck","image_id":37159}]}
+{
+  "name": "twitch-sub-x3mwisp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "x3mForce",
+      "image_id": 37158
+    },
+    {
+      "match": "x3mShOck",
+      "image_id": 37159
+    }
+  ]
+}

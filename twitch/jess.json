@@ -1,1 +1,23 @@
-{"name":"twitch-sub-jess","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jessKappa","image_id":31290},{"match":"jessBro","image_id":35983},{"match":"jessGasm","image_id":74941},{"match":"jessCOL","image_id":101182}]}
+{
+  "name": "twitch-sub-jess",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jessKappa",
+      "image_id": 31290
+    },
+    {
+      "match": "jessBro",
+      "image_id": 35983
+    },
+    {
+      "match": "jessGasm",
+      "image_id": 74941
+    },
+    {
+      "match": "jessCOL",
+      "image_id": 101182
+    }
+  ]
+}

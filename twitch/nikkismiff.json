@@ -1,1 +1,35 @@
-{"name":"twitch-sub-nikkismiff","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nikkiNasus","image_id":4194},{"match":"nikkiDogestang","image_id":6635},{"match":"nikkiCAT","image_id":14064},{"match":"nikkiDuo","image_id":40963},{"match":"nikkiFail","image_id":40964},{"match":"nikkiKnees","image_id":41403},{"match":"nikkiGasm","image_id":41402}]}
+{
+  "name": "twitch-sub-nikkismiff",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nikkiNasus",
+      "image_id": 4194
+    },
+    {
+      "match": "nikkiDogestang",
+      "image_id": 6635
+    },
+    {
+      "match": "nikkiCAT",
+      "image_id": 14064
+    },
+    {
+      "match": "nikkiDuo",
+      "image_id": 40963
+    },
+    {
+      "match": "nikkiFail",
+      "image_id": 40964
+    },
+    {
+      "match": "nikkiKnees",
+      "image_id": 41403
+    },
+    {
+      "match": "nikkiGasm",
+      "image_id": 41402
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"twitch-sub-byndogehk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"byndoFek","image_id":104517},{"match":"byndoAngry","image_id":104516},{"match":"byndoHYPE","image_id":92228},{"match":"byndoSTAB","image_id":92242},{"match":"byndoBP","image_id":96317},{"match":"byndoLove","image_id":96318},{"match":"byndoREKT","image_id":95187}]}
+{
+  "name": "twitch-sub-byndogehk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "byndoFek",
+      "image_id": 104517
+    },
+    {
+      "match": "byndoAngry",
+      "image_id": 104516
+    },
+    {
+      "match": "byndoHYPE",
+      "image_id": 92228
+    },
+    {
+      "match": "byndoSTAB",
+      "image_id": 92242
+    },
+    {
+      "match": "byndoBP",
+      "image_id": 96317
+    },
+    {
+      "match": "byndoLove",
+      "image_id": 96318
+    },
+    {
+      "match": "byndoREKT",
+      "image_id": 95187
+    }
+  ]
+}

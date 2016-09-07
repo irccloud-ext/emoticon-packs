@@ -1,1 +1,19 @@
-{"name":"twitch-sub-surrenderhs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"surrenderTina","image_id":98170},{"match":"surrenderW","image_id":98166},{"match":"surrenderMind","image_id":84737},{"match":"surrenderSig","image_id":97202}]}
+{
+  "name": "twitch-sub-surrenderhs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "surrenderW",
+      "image_id": 98166
+    },
+    {
+      "match": "surrenderWK",
+      "image_id": 112577
+    },
+    {
+      "match": "surrenderSig",
+      "image_id": 97202
+    }
+  ]
+}

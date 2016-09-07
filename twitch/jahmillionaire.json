@@ -1,1 +1,19 @@
-{"name":"twitch-sub-jahmillionaire","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jahhTKO","image_id":13367},{"match":"jahhMad","image_id":13368},{"match":"jahhDog","image_id":13366}]}
+{
+  "name": "twitch-sub-jahmillionaire",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jahhTKO",
+      "image_id": 13367
+    },
+    {
+      "match": "jahhMad",
+      "image_id": 13368
+    },
+    {
+      "match": "jahhDog",
+      "image_id": 13366
+    }
+  ]
+}

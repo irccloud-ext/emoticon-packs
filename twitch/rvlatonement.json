@@ -1,0 +1,15 @@
+{
+  "name": "twitch-sub-rvlatonement",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "atone12",
+      "image_id": 111915
+    },
+    {
+      "match": "atoneBM",
+      "image_id": 112165
+    }
+  ]
+}

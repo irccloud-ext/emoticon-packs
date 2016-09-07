@@ -1,1 +1,43 @@
-{"name":"twitch-sub-wooflesstv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"woofGotGoodness","image_id":1931},{"match":"woofJagMaster","image_id":3046},{"match":"woofTime","image_id":5679},{"match":"woofQQ","image_id":16230},{"match":"woofHype","image_id":17033},{"match":"woofD","image_id":26343},{"match":"woofG","image_id":26344},{"match":"woofRekt","image_id":27054},{"match":"woofW","image_id":28202}]}
+{
+  "name": "twitch-sub-wooflesstv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "woofGotGoodness",
+      "image_id": 1931
+    },
+    {
+      "match": "woofJagMaster",
+      "image_id": 3046
+    },
+    {
+      "match": "woofTime",
+      "image_id": 5679
+    },
+    {
+      "match": "woofQQ",
+      "image_id": 16230
+    },
+    {
+      "match": "woofHype",
+      "image_id": 17033
+    },
+    {
+      "match": "woofD",
+      "image_id": 26343
+    },
+    {
+      "match": "woofG",
+      "image_id": 26344
+    },
+    {
+      "match": "woofRekt",
+      "image_id": 27054
+    },
+    {
+      "match": "woofW",
+      "image_id": 28202
+    }
+  ]
+}

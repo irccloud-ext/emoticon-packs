@@ -1,1 +1,71 @@
-{"name":"twitch-sub-lolyou","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lolyouDosh","image_id":29692},{"match":"lolyouCat","image_id":16223},{"match":"lolyouLewd","image_id":16317},{"match":"lolyouLove","image_id":17319},{"match":"lolyouHappy","image_id":18806},{"match":"lolyouSad","image_id":28536},{"match":"lolyouMad","image_id":29145},{"match":"lolyouDappa","image_id":35294},{"match":"lolyouSad2","image_id":37640},{"match":"lolyouLove2","image_id":37639},{"match":"lolyou2Can","image_id":37638},{"match":"lolyouMud","image_id":37637},{"match":"lolyouGasm","image_id":64906},{"match":"lolyouW","image_id":48708},{"match":"lolyouDino","image_id":48770},{"match":"lolyouX","image_id":48769}]}
+{
+  "name": "twitch-sub-lolyou",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lolyouDosh",
+      "image_id": 29692
+    },
+    {
+      "match": "lolyouCat",
+      "image_id": 16223
+    },
+    {
+      "match": "lolyouLewd",
+      "image_id": 16317
+    },
+    {
+      "match": "lolyouLove",
+      "image_id": 17319
+    },
+    {
+      "match": "lolyouHappy",
+      "image_id": 18806
+    },
+    {
+      "match": "lolyouSad",
+      "image_id": 28536
+    },
+    {
+      "match": "lolyouMad",
+      "image_id": 29145
+    },
+    {
+      "match": "lolyouDappa",
+      "image_id": 35294
+    },
+    {
+      "match": "lolyouSad2",
+      "image_id": 37640
+    },
+    {
+      "match": "lolyouLove2",
+      "image_id": 37639
+    },
+    {
+      "match": "lolyou2Can",
+      "image_id": 37638
+    },
+    {
+      "match": "lolyouMud",
+      "image_id": 37637
+    },
+    {
+      "match": "lolyouGasm",
+      "image_id": 64906
+    },
+    {
+      "match": "lolyouW",
+      "image_id": 48708
+    },
+    {
+      "match": "lolyouDino",
+      "image_id": 48770
+    },
+    {
+      "match": "lolyouX",
+      "image_id": 48769
+    }
+  ]
+}

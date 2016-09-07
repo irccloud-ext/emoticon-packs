@@ -1,1 +1,31 @@
-{"name":"twitch-sub-darkdolphin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dolM","image_id":61392},{"match":"dolH","image_id":61330},{"match":"dolB","image_id":61329},{"match":"dolC","image_id":62142},{"match":"dolP","image_id":67644},{"match":"dolCringe","image_id":76628}]}
+{
+  "name": "twitch-sub-darkdolphin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dolM",
+      "image_id": 61392
+    },
+    {
+      "match": "dolH",
+      "image_id": 61330
+    },
+    {
+      "match": "dolB",
+      "image_id": 61329
+    },
+    {
+      "match": "dolC",
+      "image_id": 62142
+    },
+    {
+      "match": "dolP",
+      "image_id": 67644
+    },
+    {
+      "match": "dolCringe",
+      "image_id": 76628
+    }
+  ]
+}

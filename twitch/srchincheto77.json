@@ -1,1 +1,39 @@
-{"name":"twitch-sub-srchincheto77","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chinchetoFeliz","image_id":16614},{"match":"chinchetoALFONDO","image_id":84560},{"match":"chinchetoGALLETA","image_id":84561},{"match":"chinchetoBrazo","image_id":32968},{"match":"chinchetoPAKETE","image_id":84761},{"match":"chinchetoLLORA","image_id":84762},{"match":"chinchetoObaiah","image_id":91211},{"match":"chinchetoArrozPegao","image_id":91225}]}
+{
+  "name": "twitch-sub-srchincheto77",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chinchetoFeliz",
+      "image_id": 16614
+    },
+    {
+      "match": "chinchetoALFONDO",
+      "image_id": 84560
+    },
+    {
+      "match": "chinchetoGALLETA",
+      "image_id": 84561
+    },
+    {
+      "match": "chinchetoBrazo",
+      "image_id": 32968
+    },
+    {
+      "match": "chinchetoPAKETE",
+      "image_id": 84761
+    },
+    {
+      "match": "chinchetoLLORA",
+      "image_id": 84762
+    },
+    {
+      "match": "chinchetoObaiah",
+      "image_id": 91211
+    },
+    {
+      "match": "chinchetoArrozPegao",
+      "image_id": 91225
+    }
+  ]
+}

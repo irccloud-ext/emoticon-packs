@@ -1,1 +1,87 @@
-{"name":"twitch-sub-crream","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"crreamAJ","image_id":894},{"match":"crreamSC","image_id":896},{"match":"crreamFB","image_id":1629},{"match":"crreamThump","image_id":8704},{"match":"crreamSwag","image_id":8780},{"match":"crreamCoo","image_id":30753},{"match":"crreamScience","image_id":30357},{"match":"crreamHug","image_id":31907},{"match":"crream0","image_id":34783},{"match":"crreamBo","image_id":35142},{"match":"crreamUp","image_id":37100},{"match":"crreamHype","image_id":12141},{"match":"crreamRekt","image_id":11997},{"match":"crreamRude","image_id":41766},{"match":"crreamLurk","image_id":4167},{"match":"crreamAyy","image_id":68977},{"match":"crreamCI","image_id":45511},{"match":"crreamFeelsBad","image_id":71438},{"match":"crreamFeelsGood","image_id":71439},{"match":"crreamFat","image_id":106730}]}
+{
+  "name": "twitch-sub-crream",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "crreamAJ",
+      "image_id": 894
+    },
+    {
+      "match": "crreamSC",
+      "image_id": 896
+    },
+    {
+      "match": "crreamFB",
+      "image_id": 1629
+    },
+    {
+      "match": "crreamThump",
+      "image_id": 8704
+    },
+    {
+      "match": "crreamSwag",
+      "image_id": 8780
+    },
+    {
+      "match": "crreamCoo",
+      "image_id": 30753
+    },
+    {
+      "match": "crreamScience",
+      "image_id": 30357
+    },
+    {
+      "match": "crreamHug",
+      "image_id": 31907
+    },
+    {
+      "match": "crream0",
+      "image_id": 34783
+    },
+    {
+      "match": "crreamBo",
+      "image_id": 35142
+    },
+    {
+      "match": "crreamUp",
+      "image_id": 37100
+    },
+    {
+      "match": "crreamHype",
+      "image_id": 12141
+    },
+    {
+      "match": "crreamRekt",
+      "image_id": 11997
+    },
+    {
+      "match": "crreamRude",
+      "image_id": 41766
+    },
+    {
+      "match": "crreamLurk",
+      "image_id": 4167
+    },
+    {
+      "match": "crreamAyy",
+      "image_id": 68977
+    },
+    {
+      "match": "crreamCI",
+      "image_id": 45511
+    },
+    {
+      "match": "crreamFeelsBad",
+      "image_id": 71438
+    },
+    {
+      "match": "crreamFeelsGood",
+      "image_id": 71439
+    },
+    {
+      "match": "crreamFat",
+      "image_id": 106730
+    }
+  ]
+}

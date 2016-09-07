@@ -1,1 +1,31 @@
-{"name":"twitch-sub-minecraftblow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"blowWTF","image_id":4920},{"match":"blowKappa","image_id":4930},{"match":"blowSzok","image_id":5094},{"match":"blowTROLOLO","image_id":18632},{"match":"blowFacepalm","image_id":18635},{"match":"blowPJONA","image_id":18636}]}
+{
+  "name": "twitch-sub-minecraftblow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "blowWTF",
+      "image_id": 4920
+    },
+    {
+      "match": "blowKappa",
+      "image_id": 4930
+    },
+    {
+      "match": "blowSzok",
+      "image_id": 5094
+    },
+    {
+      "match": "blowTROLOLO",
+      "image_id": 18632
+    },
+    {
+      "match": "blowFacepalm",
+      "image_id": 18635
+    },
+    {
+      "match": "blowPJONA",
+      "image_id": 18636
+    }
+  ]
+}

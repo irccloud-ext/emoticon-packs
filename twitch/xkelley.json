@@ -1,1 +1,31 @@
-{"name":"twitch-sub-xkelley","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kelleyMeow","image_id":30300},{"match":"kelleyRage","image_id":30299},{"match":"kelleyRIP","image_id":31039},{"match":"kelleyLove","image_id":30717},{"match":"kelleyHi","image_id":44535},{"match":"kelleyRekt","image_id":44558}]}
+{
+  "name": "twitch-sub-xkelley",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kelleyMeow",
+      "image_id": 30300
+    },
+    {
+      "match": "kelleyRage",
+      "image_id": 30299
+    },
+    {
+      "match": "kelleyRIP",
+      "image_id": 31039
+    },
+    {
+      "match": "kelleyLove",
+      "image_id": 30717
+    },
+    {
+      "match": "kelleyHi",
+      "image_id": 44535
+    },
+    {
+      "match": "kelleyRekt",
+      "image_id": 44558
+    }
+  ]
+}

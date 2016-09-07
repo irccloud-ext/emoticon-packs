@@ -1,1 +1,39 @@
-{"name":"twitch-sub-dabuz18","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"buzSalt","image_id":72894},{"match":"buzOops","image_id":73713},{"match":"buzBlush","image_id":73970},{"match":"buzRosa","image_id":73971},{"match":"buzHype","image_id":77761},{"match":"buzPopoff","image_id":81496},{"match":"buzLuma","image_id":109359},{"match":"buzLips","image_id":109356}]}
+{
+  "name": "twitch-sub-dabuz18",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "buzSalt",
+      "image_id": 72894
+    },
+    {
+      "match": "buzOops",
+      "image_id": 73713
+    },
+    {
+      "match": "buzBlush",
+      "image_id": 73970
+    },
+    {
+      "match": "buzRosa",
+      "image_id": 73971
+    },
+    {
+      "match": "buzHype",
+      "image_id": 77761
+    },
+    {
+      "match": "buzPopoff",
+      "image_id": 81496
+    },
+    {
+      "match": "buzLuma",
+      "image_id": 109359
+    },
+    {
+      "match": "buzLips",
+      "image_id": 109356
+    }
+  ]
+}

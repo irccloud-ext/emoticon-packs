@@ -1,1 +1,67 @@
-{"name":"twitch-sub-mistermv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mrmvBM","image_id":85281},{"match":"mrmvMarufa","image_id":2238},{"match":"mrmvDraco","image_id":2246},{"match":"mrmvKAPPA","image_id":2268},{"match":"mrmvMynthos","image_id":2269},{"match":"mrmvRage","image_id":2266},{"match":"mrmvHip","image_id":2277},{"match":"mrmvSleep","image_id":2297},{"match":"mrmvRabe","image_id":2307},{"match":"mrmvRene","image_id":4056},{"match":"mrmv1","image_id":85285},{"match":"mrmvWut","image_id":72713},{"match":"mrmvGaming","image_id":72712},{"match":"mrmvReset","image_id":72715},{"match":"mrmvConfus","image_id":72711}]}
+{
+  "name": "twitch-sub-mistermv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mrmvBM",
+      "image_id": 85281
+    },
+    {
+      "match": "mrmvMarufa",
+      "image_id": 2238
+    },
+    {
+      "match": "mrmvDraco",
+      "image_id": 2246
+    },
+    {
+      "match": "mrmvKAPPA",
+      "image_id": 2268
+    },
+    {
+      "match": "mrmvMynthos",
+      "image_id": 2269
+    },
+    {
+      "match": "mrmvRage",
+      "image_id": 2266
+    },
+    {
+      "match": "mrmvHip",
+      "image_id": 2277
+    },
+    {
+      "match": "mrmvSleep",
+      "image_id": 2297
+    },
+    {
+      "match": "mrmvRabe",
+      "image_id": 2307
+    },
+    {
+      "match": "mrmvRene",
+      "image_id": 4056
+    },
+    {
+      "match": "mrmv1",
+      "image_id": 85285
+    },
+    {
+      "match": "mrmvWut",
+      "image_id": 72713
+    },
+    {
+      "match": "mrmvGaming",
+      "image_id": 72712
+    },
+    {
+      "match": "mrmvReset",
+      "image_id": 72715
+    },
+    {
+      "match": "mrmvConfus",
+      "image_id": 72711
+    }
+  ]
+}

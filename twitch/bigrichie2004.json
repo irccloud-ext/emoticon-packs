@@ -1,1 +1,35 @@
-{"name":"twitch-sub-bigrichie2004","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bbrSavage","image_id":2001},{"match":"bbrRage","image_id":2000},{"match":"bbrWatchOut","image_id":2002},{"match":"bbrPhil","image_id":5797},{"match":"bbrYes","image_id":15323},{"match":"bbrPancake","image_id":104614},{"match":"bbrJillski","image_id":101603}]}
+{
+  "name": "twitch-sub-bigrichie2004",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bbrSavage",
+      "image_id": 2001
+    },
+    {
+      "match": "bbrRage",
+      "image_id": 2000
+    },
+    {
+      "match": "bbrWatchOut",
+      "image_id": 2002
+    },
+    {
+      "match": "bbrPhil",
+      "image_id": 5797
+    },
+    {
+      "match": "bbrYes",
+      "image_id": 15323
+    },
+    {
+      "match": "bbrPancake",
+      "image_id": 104614
+    },
+    {
+      "match": "bbrJillski",
+      "image_id": 101603
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-samgreenmedia","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sgmSimple","image_id":70247},{"match":"sgmCharles","image_id":72992}]}
+{
+  "name": "twitch-sub-samgreenmedia",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sgmSimple",
+      "image_id": 70247
+    },
+    {
+      "match": "sgmCharles",
+      "image_id": 72992
+    }
+  ]
+}

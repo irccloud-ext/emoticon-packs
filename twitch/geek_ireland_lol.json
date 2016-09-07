@@ -1,1 +1,15 @@
-{"name":"twitch-sub-geek_ireland_lol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"glanRob","image_id":83320},{"match":"glanWolfie","image_id":84169}]}
+{
+  "name": "twitch-sub-geek_ireland_lol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "glanRob",
+      "image_id": 83320
+    },
+    {
+      "match": "glanWolfie",
+      "image_id": 84169
+    }
+  ]
+}

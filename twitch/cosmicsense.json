@@ -1,1 +1,15 @@
-{"name":"twitch-sub-cosmicsense","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cosLove","image_id":33754},{"match":"cosBlack","image_id":43764}]}
+{
+  "name": "twitch-sub-cosmicsense",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cosLove",
+      "image_id": 33754
+    },
+    {
+      "match": "cosBlack",
+      "image_id": 43764
+    }
+  ]
+}

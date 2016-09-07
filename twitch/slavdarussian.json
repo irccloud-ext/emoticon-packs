@@ -1,1 +1,27 @@
-{"name":"twitch-sub-slavdarussian","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"slavGG","image_id":82939},{"match":"slavLove","image_id":82937},{"match":"slavHype","image_id":82945},{"match":"slavBooty","image_id":105358},{"match":"slavCreep","image_id":105606}]}
+{
+  "name": "twitch-sub-slavdarussian",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "slavGG",
+      "image_id": 82939
+    },
+    {
+      "match": "slavLove",
+      "image_id": 82937
+    },
+    {
+      "match": "slavHype",
+      "image_id": 82945
+    },
+    {
+      "match": "slavBooty",
+      "image_id": 105358
+    },
+    {
+      "match": "slavCreep",
+      "image_id": 105606
+    }
+  ]
+}

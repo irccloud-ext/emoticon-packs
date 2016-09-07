@@ -1,1 +1,23 @@
-{"name":"twitch-sub-andrewjrt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"andrewjrtOOPS","image_id":101988},{"match":"andrewjrtRAGE","image_id":101989},{"match":"andrewjrtTRYHARD","image_id":102073},{"match":"andrewjrtSUBHYPE","image_id":106261}]}
+{
+  "name": "twitch-sub-andrewjrt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "andrewjrtOOPS",
+      "image_id": 101988
+    },
+    {
+      "match": "andrewjrtRAGE",
+      "image_id": 101989
+    },
+    {
+      "match": "andrewjrtTRYHARD",
+      "image_id": 102073
+    },
+    {
+      "match": "andrewjrtSUBHYPE",
+      "image_id": 106261
+    }
+  ]
+}

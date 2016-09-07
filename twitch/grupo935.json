@@ -1,1 +1,15 @@
-{"name":"twitch-sub-grupo935","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"g935GG","image_id":72868},{"match":"g935Yoloberto","image_id":72864}]}
+{
+  "name": "twitch-sub-grupo935",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "g935GG",
+      "image_id": 72868
+    },
+    {
+      "match": "g935Yoloberto",
+      "image_id": 72864
+    }
+  ]
+}

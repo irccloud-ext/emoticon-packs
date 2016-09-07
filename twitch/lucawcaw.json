@@ -1,1 +1,31 @@
-{"name":"twitch-sub-lucawcaw","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"woinXray","image_id":91735},{"match":"woinLourd","image_id":91548},{"match":"woinNewSub","image_id":91549},{"match":"woinWoin","image_id":90375},{"match":"woinMVoila","image_id":104606},{"match":"woinGG","image_id":104608}]}
+{
+  "name": "twitch-sub-lucawcaw",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "woinXray",
+      "image_id": 91735
+    },
+    {
+      "match": "woinLourd",
+      "image_id": 91548
+    },
+    {
+      "match": "woinNewSub",
+      "image_id": 91549
+    },
+    {
+      "match": "woinWoin",
+      "image_id": 90375
+    },
+    {
+      "match": "woinMVoila",
+      "image_id": 104606
+    },
+    {
+      "match": "woinGG",
+      "image_id": 104608
+    }
+  ]
+}

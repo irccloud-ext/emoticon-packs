@@ -1,1 +1,39 @@
-{"name":"twitch-sub-chrisop999","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chrispWTF","image_id":22064},{"match":"chrispFullcat","image_id":47278},{"match":"chrispGO","image_id":47157},{"match":"chrispOrz","image_id":69504},{"match":"chrispRun2","image_id":69643},{"match":"chrispRun","image_id":69642},{"match":"chrispCat","image_id":69640},{"match":"chrispLol","image_id":69977}]}
+{
+  "name": "twitch-sub-chrisop999",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chrispWTF",
+      "image_id": 22064
+    },
+    {
+      "match": "chrispFullcat",
+      "image_id": 47278
+    },
+    {
+      "match": "chrispGO",
+      "image_id": 47157
+    },
+    {
+      "match": "chrispOrz",
+      "image_id": 69504
+    },
+    {
+      "match": "chrispRun2",
+      "image_id": 69643
+    },
+    {
+      "match": "chrispRun",
+      "image_id": 69642
+    },
+    {
+      "match": "chrispCat",
+      "image_id": 69640
+    },
+    {
+      "match": "chrispLol",
+      "image_id": 69977
+    }
+  ]
+}

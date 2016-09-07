@@ -1,1 +1,47 @@
-{"name":"twitch-sub-indie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"indieWIENER","image_id":7345},{"match":"indieASF","image_id":9742},{"match":"indieEYES","image_id":12090},{"match":"indieLOVE","image_id":84553},{"match":"indieHUNNIES","image_id":21094},{"match":"indieBEARD","image_id":6860},{"match":"indieDEAD","image_id":9741},{"match":"indieHYPE","image_id":26927},{"match":"indieRAGE","image_id":26928},{"match":"indieREKT","image_id":26929}]}
+{
+  "name": "twitch-sub-indie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "indieWIENER",
+      "image_id": 7345
+    },
+    {
+      "match": "indieASF",
+      "image_id": 9742
+    },
+    {
+      "match": "indieEYES",
+      "image_id": 12090
+    },
+    {
+      "match": "indieLOVE",
+      "image_id": 84553
+    },
+    {
+      "match": "indieHUNNIES",
+      "image_id": 21094
+    },
+    {
+      "match": "indieBEARD",
+      "image_id": 6860
+    },
+    {
+      "match": "indieDEAD",
+      "image_id": 9741
+    },
+    {
+      "match": "indieHYPE",
+      "image_id": 26927
+    },
+    {
+      "match": "indieRAGE",
+      "image_id": 26928
+    },
+    {
+      "match": "indieREKT",
+      "image_id": 26929
+    }
+  ]
+}

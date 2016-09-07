@@ -1,1 +1,67 @@
-{"name":"twitch-sub-pwndbyachick69","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sixHeart","image_id":53912},{"match":"sixLove","image_id":53906},{"match":"sixJax","image_id":53904},{"match":"sixHaters","image_id":46848},{"match":"sixHype","image_id":46850},{"match":"sixXP","image_id":46851},{"match":"sixBan","image_id":46845},{"match":"sixRage","image_id":47599},{"match":"sixDone","image_id":47596},{"match":"sixGG","image_id":47571},{"match":"sixCry","image_id":53907},{"match":"sixKel","image_id":53909},{"match":"sixMad","image_id":53913},{"match":"sixOne","image_id":54131},{"match":"sixShot","image_id":54016}]}
+{
+  "name": "twitch-sub-pwndbyachick69",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sixHeart",
+      "image_id": 53912
+    },
+    {
+      "match": "sixLove",
+      "image_id": 53906
+    },
+    {
+      "match": "sixJax",
+      "image_id": 53904
+    },
+    {
+      "match": "sixHaters",
+      "image_id": 46848
+    },
+    {
+      "match": "sixHype",
+      "image_id": 46850
+    },
+    {
+      "match": "sixXP",
+      "image_id": 46851
+    },
+    {
+      "match": "sixBan",
+      "image_id": 46845
+    },
+    {
+      "match": "sixRage",
+      "image_id": 47599
+    },
+    {
+      "match": "sixDone",
+      "image_id": 47596
+    },
+    {
+      "match": "sixGG",
+      "image_id": 47571
+    },
+    {
+      "match": "sixCry",
+      "image_id": 53907
+    },
+    {
+      "match": "sixKel",
+      "image_id": 53909
+    },
+    {
+      "match": "sixMad",
+      "image_id": 53913
+    },
+    {
+      "match": "sixOne",
+      "image_id": 54131
+    },
+    {
+      "match": "sixShot",
+      "image_id": 54016
+    }
+  ]
+}

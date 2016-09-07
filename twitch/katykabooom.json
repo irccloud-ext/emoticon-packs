@@ -1,1 +1,31 @@
-{"name":"twitch-sub-katykabooom","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"katyEat","image_id":77478},{"match":"katyGasm","image_id":77350},{"match":"katyWin","image_id":77358},{"match":"katyHi","image_id":74467},{"match":"katyLove","image_id":75032},{"match":"katyHype","image_id":77466}]}
+{
+  "name": "twitch-sub-katykabooom",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "katyEat",
+      "image_id": 77478
+    },
+    {
+      "match": "katyGasm",
+      "image_id": 77350
+    },
+    {
+      "match": "katyWin",
+      "image_id": 77358
+    },
+    {
+      "match": "katyHi",
+      "image_id": 74467
+    },
+    {
+      "match": "katyLove",
+      "image_id": 75032
+    },
+    {
+      "match": "katyHype",
+      "image_id": 77466
+    }
+  ]
+}

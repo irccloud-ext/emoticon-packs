@@ -1,1 +1,39 @@
-{"name":"twitch-sub-xenotek","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xenotekHeart","image_id":63823},{"match":"xenotekReaper","image_id":63821},{"match":"xenotekHype","image_id":63820},{"match":"xenotekRIP","image_id":84770},{"match":"xenotekCri","image_id":84769},{"match":"xenotekMoist","image_id":84768},{"match":"xenotekGG","image_id":108948},{"match":"xenotekHi","image_id":108949}]}
+{
+  "name": "twitch-sub-xenotek",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xenotekHeart",
+      "image_id": 63823
+    },
+    {
+      "match": "xenotekReaper",
+      "image_id": 63821
+    },
+    {
+      "match": "xenotekHype",
+      "image_id": 63820
+    },
+    {
+      "match": "xenotekRIP",
+      "image_id": 84770
+    },
+    {
+      "match": "xenotekCri",
+      "image_id": 84769
+    },
+    {
+      "match": "xenotekMoist",
+      "image_id": 84768
+    },
+    {
+      "match": "xenotekGG",
+      "image_id": 108948
+    },
+    {
+      "match": "xenotekHi",
+      "image_id": 108949
+    }
+  ]
+}

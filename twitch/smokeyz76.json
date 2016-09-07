@@ -1,1 +1,31 @@
-{"name":"twitch-sub-smokeyz76","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"smokeyzDamn2","image_id":90244},{"match":"smokeyzSub","image_id":90243},{"match":"smokeyzPoke","image_id":90242},{"match":"smokeyzGG","image_id":90241},{"match":"smokeyzDamn","image_id":88315}]}
+{
+  "name": "twitch-sub-smokeyz76",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "smokeyzPoke",
+      "image_id": 111911
+    },
+    {
+      "match": "smokeyzHey",
+      "image_id": 111910
+    },
+    {
+      "match": "smokeyzSquad",
+      "image_id": 111898
+    },
+    {
+      "match": "smokeyzGG",
+      "image_id": 111900
+    },
+    {
+      "match": "smokeyzSorry",
+      "image_id": 111908
+    },
+    {
+      "match": "smokeyzDamn",
+      "image_id": 111909
+    }
+  ]
+}

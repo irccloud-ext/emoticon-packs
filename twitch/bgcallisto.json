@@ -1,1 +1,15 @@
-{"name":"twitch-sub-bgcallisto","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"calliMiKappa","image_id":103655},{"match":"calliFierce","image_id":101500}]}
+{
+  "name": "twitch-sub-bgcallisto",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "calliMiKappa",
+      "image_id": 103655
+    },
+    {
+      "match": "calliFierce",
+      "image_id": 101500
+    }
+  ]
+}

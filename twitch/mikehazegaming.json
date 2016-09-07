@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mikehazegaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mhazeFree","image_id":53817},{"match":"mhazeW","image_id":93947},{"match":"mhazeBlend","image_id":54051},{"match":"mhazePups","image_id":66071},{"match":"mhazeNugs","image_id":76057},{"match":"mhazeVape","image_id":102941}]}
+{
+  "name": "twitch-sub-mikehazegaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mhazeFree",
+      "image_id": 53817
+    },
+    {
+      "match": "mhazeW",
+      "image_id": 93947
+    },
+    {
+      "match": "mhazeBlend",
+      "image_id": 54051
+    },
+    {
+      "match": "mhazePups",
+      "image_id": 66071
+    },
+    {
+      "match": "mhazeNugs",
+      "image_id": 76057
+    },
+    {
+      "match": "mhazeVape",
+      "image_id": 102941
+    }
+  ]
+}

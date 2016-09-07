@@ -1,1 +1,23 @@
-{"name":"twitch-sub-zuschauer99","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zlpNice","image_id":63671},{"match":"zlpCrazy","image_id":63767},{"match":"zlpRIP","image_id":65707},{"match":"zlpLoot","image_id":66109}]}
+{
+  "name": "twitch-sub-zuschauer99",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zlpNice",
+      "image_id": 63671
+    },
+    {
+      "match": "zlpCrazy",
+      "image_id": 63767
+    },
+    {
+      "match": "zlpRIP",
+      "image_id": 65707
+    },
+    {
+      "match": "zlpLoot",
+      "image_id": 66109
+    }
+  ]
+}

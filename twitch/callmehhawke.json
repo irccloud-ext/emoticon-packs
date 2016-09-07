@@ -1,1 +1,31 @@
-{"name":"twitch-sub-callmehhawke","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cawkeHawk","image_id":11320},{"match":"cawkeGg","image_id":11322},{"match":"cawkeDerp","image_id":10304},{"match":"cawkeNut","image_id":8872},{"match":"cawkeNest","image_id":9258},{"match":"cawkeRage","image_id":21886}]}
+{
+  "name": "twitch-sub-callmehhawke",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cawkeHawk",
+      "image_id": 11320
+    },
+    {
+      "match": "cawkeGg",
+      "image_id": 11322
+    },
+    {
+      "match": "cawkeDerp",
+      "image_id": 10304
+    },
+    {
+      "match": "cawkeNut",
+      "image_id": 8872
+    },
+    {
+      "match": "cawkeNest",
+      "image_id": 9258
+    },
+    {
+      "match": "cawkeRage",
+      "image_id": 21886
+    }
+  ]
+}

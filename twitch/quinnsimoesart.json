@@ -1,1 +1,15 @@
-{"name":"twitch-sub-quinnsimoesart","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"quinnartGASM","image_id":66320},{"match":"quinnartLOVE","image_id":62135}]}
+{
+  "name": "twitch-sub-quinnsimoesart",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "quinnartGASM",
+      "image_id": 66320
+    },
+    {
+      "match": "quinnartLOVE",
+      "image_id": 62135
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-aboekracity","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aboekraHat","image_id":98330},{"match":"aboekraTilt","image_id":99764},{"match":"aboekraW","image_id":99788},{"match":"aboekraDisco","image_id":101139}]}
+{
+  "name": "twitch-sub-aboekracity",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aboekraHat",
+      "image_id": 98330
+    },
+    {
+      "match": "aboekraTilt",
+      "image_id": 99764
+    },
+    {
+      "match": "aboekraW",
+      "image_id": 99788
+    },
+    {
+      "match": "aboekraDisco",
+      "image_id": 101139
+    }
+  ]
+}

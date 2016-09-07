@@ -1,1 +1,15 @@
-{"name":"twitch-sub-mmorpgesp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"whiteEz","image_id":105052},{"match":"whiteBobo","image_id":105053}]}
+{
+  "name": "twitch-sub-mmorpgesp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "whiteEz",
+      "image_id": 105052
+    },
+    {
+      "match": "whiteBobo",
+      "image_id": 105053
+    }
+  ]
+}

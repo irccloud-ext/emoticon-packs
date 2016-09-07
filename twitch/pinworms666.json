@@ -1,1 +1,47 @@
-{"name":"twitch-sub-pinworms666","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pinNo","image_id":16557},{"match":"pinRekt","image_id":16559},{"match":"pinNext","image_id":16106},{"match":"pinClutch","image_id":16495},{"match":"pinFail","image_id":17332},{"match":"pinHype","image_id":19879},{"match":"pinUgly","image_id":23695},{"match":"pinYea","image_id":23676},{"match":"pinJackpot","image_id":26999},{"match":"pinTroll","image_id":34367}]}
+{
+  "name": "twitch-sub-pinworms666",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pinNo",
+      "image_id": 16557
+    },
+    {
+      "match": "pinRekt",
+      "image_id": 16559
+    },
+    {
+      "match": "pinNext",
+      "image_id": 16106
+    },
+    {
+      "match": "pinClutch",
+      "image_id": 16495
+    },
+    {
+      "match": "pinFail",
+      "image_id": 17332
+    },
+    {
+      "match": "pinHype",
+      "image_id": 19879
+    },
+    {
+      "match": "pinUgly",
+      "image_id": 23695
+    },
+    {
+      "match": "pinYea",
+      "image_id": 23676
+    },
+    {
+      "match": "pinJackpot",
+      "image_id": 26999
+    },
+    {
+      "match": "pinTroll",
+      "image_id": 34367
+    }
+  ]
+}

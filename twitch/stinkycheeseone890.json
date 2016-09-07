@@ -1,1 +1,39 @@
-{"name":"twitch-sub-stinkycheeseone890","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cornMini","image_id":101236},{"match":"cornBlack","image_id":38620},{"match":"cornFast","image_id":44078},{"match":"cornSad","image_id":43898},{"match":"cornLove","image_id":43896},{"match":"cornDog","image_id":46559},{"match":"cornG","image_id":47477},{"match":"cornBread","image_id":102050}]}
+{
+  "name": "twitch-sub-stinkycheeseone890",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cornMini",
+      "image_id": 101236
+    },
+    {
+      "match": "cornBlack",
+      "image_id": 38620
+    },
+    {
+      "match": "cornFast",
+      "image_id": 44078
+    },
+    {
+      "match": "cornSad",
+      "image_id": 43898
+    },
+    {
+      "match": "cornLove",
+      "image_id": 43896
+    },
+    {
+      "match": "cornDog",
+      "image_id": 46559
+    },
+    {
+      "match": "cornG",
+      "image_id": 47477
+    },
+    {
+      "match": "cornBread",
+      "image_id": 102050
+    }
+  ]
+}

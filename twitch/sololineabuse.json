@@ -1,1 +1,31 @@
-{"name":"twitch-sub-sololineabuse","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pingviDeal","image_id":7005},{"match":"pingviZhiga","image_id":7004},{"match":"pingviLev","image_id":7607},{"match":"pingviPedal","image_id":7606},{"match":"pingviNul","image_id":7846},{"match":"pingviYsi","image_id":32261}]}
+{
+  "name": "twitch-sub-sololineabuse",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pingviDeal",
+      "image_id": 7005
+    },
+    {
+      "match": "pingviZhiga",
+      "image_id": 7004
+    },
+    {
+      "match": "pingviLev",
+      "image_id": 7607
+    },
+    {
+      "match": "pingviPedal",
+      "image_id": 7606
+    },
+    {
+      "match": "pingviNul",
+      "image_id": 7846
+    },
+    {
+      "match": "pingviYsi",
+      "image_id": 32261
+    }
+  ]
+}

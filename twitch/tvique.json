@@ -1,1 +1,35 @@
-{"name":"twitch-sub-tvique","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tviqueK","image_id":89119},{"match":"tviqueR","image_id":111438},{"match":"tviqueFeels","image_id":88261},{"match":"tviqueD","image_id":88260},{"match":"tviqueFeelsG","image_id":92256},{"match":"tviqueGun","image_id":107800},{"match":"tviqueA","image_id":108304}]}
+{
+  "name": "twitch-sub-tvique",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tviqueK",
+      "image_id": 89119
+    },
+    {
+      "match": "tviqueR",
+      "image_id": 111438
+    },
+    {
+      "match": "tviqueFeels",
+      "image_id": 88261
+    },
+    {
+      "match": "tviqueD",
+      "image_id": 88260
+    },
+    {
+      "match": "tviqueFeelsG",
+      "image_id": 92256
+    },
+    {
+      "match": "tviqueGun",
+      "image_id": 107800
+    },
+    {
+      "match": "tviqueC",
+      "image_id": 111799
+    }
+  ]
+}

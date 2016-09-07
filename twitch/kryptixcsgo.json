@@ -1,1 +1,19 @@
-{"name":"twitch-sub-kryptixcsgo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"krypBEANS","image_id":47148},{"match":"krypFACE","image_id":47463},{"match":"krypREKT","image_id":50779}]}
+{
+  "name": "twitch-sub-kryptixcsgo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "krypBEANS",
+      "image_id": 47148
+    },
+    {
+      "match": "krypFACE",
+      "image_id": 47463
+    },
+    {
+      "match": "krypREKT",
+      "image_id": 50779
+    }
+  ]
+}

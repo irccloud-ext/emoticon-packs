@@ -1,1 +1,23 @@
-{"name":"twitch-sub-fafnyrlol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fafDoge","image_id":9544},{"match":"fafPink","image_id":11419},{"match":"fafSalamander","image_id":11420},{"match":"fafBapho","image_id":11561}]}
+{
+  "name": "twitch-sub-fafnyrlol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fafDoge",
+      "image_id": 9544
+    },
+    {
+      "match": "fafPink",
+      "image_id": 11419
+    },
+    {
+      "match": "fafSalamander",
+      "image_id": 11420
+    },
+    {
+      "match": "fafBapho",
+      "image_id": 11561
+    }
+  ]
+}

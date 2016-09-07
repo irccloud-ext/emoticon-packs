@@ -1,1 +1,31 @@
-{"name":"twitch-sub-missmiarose","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rosePup","image_id":2689},{"match":"roseBud","image_id":2786},{"match":"roseFace","image_id":4054},{"match":"roseAfk","image_id":4053},{"match":"roseBoop","image_id":30908},{"match":"roseHorn","image_id":31910}]}
+{
+  "name": "twitch-sub-missmiarose",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rosePup",
+      "image_id": 2689
+    },
+    {
+      "match": "roseBud",
+      "image_id": 2786
+    },
+    {
+      "match": "roseFace",
+      "image_id": 4054
+    },
+    {
+      "match": "roseAfk",
+      "image_id": 4053
+    },
+    {
+      "match": "roseBoop",
+      "image_id": 30908
+    },
+    {
+      "match": "roseHorn",
+      "image_id": 31910
+    }
+  ]
+}

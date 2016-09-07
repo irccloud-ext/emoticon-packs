@@ -1,1 +1,23 @@
-{"name":"twitch-sub-joxol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"joxolDog","image_id":60879},{"match":"joxolPower","image_id":63229},{"match":"joxolGimme","image_id":62766},{"match":"joxolUp","image_id":62764}]}
+{
+  "name": "twitch-sub-joxol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "joxolDog",
+      "image_id": 60879
+    },
+    {
+      "match": "joxolPower",
+      "image_id": 63229
+    },
+    {
+      "match": "joxolGimme",
+      "image_id": 62766
+    },
+    {
+      "match": "joxolUp",
+      "image_id": 62764
+    }
+  ]
+}

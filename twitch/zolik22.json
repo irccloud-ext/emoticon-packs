@@ -1,1 +1,39 @@
-{"name":"twitch-sub-zolik22","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zoloF","image_id":58366},{"match":"zoloVAC","image_id":58395},{"match":"zoloT","image_id":58556},{"match":"zoloP","image_id":84122},{"match":"zoloW","image_id":84121},{"match":"zoloR","image_id":83271},{"match":"zoloH","image_id":93999},{"match":"zoloFBM","image_id":94000}]}
+{
+  "name": "twitch-sub-zolik22",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zoloF",
+      "image_id": 58366
+    },
+    {
+      "match": "zoloVAC",
+      "image_id": 58395
+    },
+    {
+      "match": "zoloT",
+      "image_id": 58556
+    },
+    {
+      "match": "zoloP",
+      "image_id": 84122
+    },
+    {
+      "match": "zoloW",
+      "image_id": 84121
+    },
+    {
+      "match": "zoloR",
+      "image_id": 83271
+    },
+    {
+      "match": "zoloH",
+      "image_id": 93999
+    },
+    {
+      "match": "zoloFBM",
+      "image_id": 94000
+    }
+  ]
+}

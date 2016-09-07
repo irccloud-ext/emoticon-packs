@@ -1,1 +1,15 @@
-{"name":"twitch-sub-shep689","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shepGg","image_id":41787},{"match":"shepDobby","image_id":41782}]}
+{
+  "name": "twitch-sub-shep689",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shepGg",
+      "image_id": 41787
+    },
+    {
+      "match": "shepDobby",
+      "image_id": 41782
+    }
+  ]
+}

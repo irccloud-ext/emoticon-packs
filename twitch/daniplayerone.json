@@ -1,1 +1,19 @@
-{"name":"twitch-sub-daniplayerone","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dp1Gold","image_id":35977},{"match":"dp1Taza","image_id":37201},{"match":"dp1Peewee","image_id":36217}]}
+{
+  "name": "twitch-sub-daniplayerone",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dp1Gold",
+      "image_id": 35977
+    },
+    {
+      "match": "dp1Taza",
+      "image_id": 37201
+    },
+    {
+      "match": "dp1Peewee",
+      "image_id": 36217
+    }
+  ]
+}

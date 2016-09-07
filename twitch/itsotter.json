@@ -1,1 +1,39 @@
-{"name":"twitch-sub-itsotter","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"otterKappa","image_id":34304},{"match":"otterShame","image_id":15982},{"match":"otterHeart","image_id":16179},{"match":"otterJoy","image_id":18134},{"match":"otterThump","image_id":18132},{"match":"otterAmy","image_id":19612},{"match":"otterDream","image_id":35276},{"match":"otterW","image_id":35275}]}
+{
+  "name": "twitch-sub-itsotter",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "otterKappa",
+      "image_id": 34304
+    },
+    {
+      "match": "otterShame",
+      "image_id": 15982
+    },
+    {
+      "match": "otterHeart",
+      "image_id": 16179
+    },
+    {
+      "match": "otterJoy",
+      "image_id": 18134
+    },
+    {
+      "match": "otterThump",
+      "image_id": 18132
+    },
+    {
+      "match": "otterAmy",
+      "image_id": 19612
+    },
+    {
+      "match": "otterDream",
+      "image_id": 35276
+    },
+    {
+      "match": "otterW",
+      "image_id": 35275
+    }
+  ]
+}

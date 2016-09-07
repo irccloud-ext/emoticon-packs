@@ -1,1 +1,23 @@
-{"name":"twitch-sub-blackoutgamingtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bogHL","image_id":59444},{"match":"bogScoped","image_id":97013},{"match":"bogTrash","image_id":97023},{"match":"bogSad","image_id":97024}]}
+{
+  "name": "twitch-sub-blackoutgamingtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bogHL",
+      "image_id": 59444
+    },
+    {
+      "match": "bogScoped",
+      "image_id": 97013
+    },
+    {
+      "match": "bogTrash",
+      "image_id": 97023
+    },
+    {
+      "match": "bogSad",
+      "image_id": 97024
+    }
+  ]
+}

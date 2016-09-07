@@ -1,1 +1,11 @@
-{"name":"twitch-sub-thealvaro845","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"a845SUCIO","image_id":102624}]}
+{
+  "name": "twitch-sub-thealvaro845",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "a845SUCIO",
+      "image_id": 102624
+    }
+  ]
+}

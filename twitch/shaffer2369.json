@@ -1,1 +1,47 @@
-{"name":"twitch-sub-shaffer2369","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shafferOface","image_id":10519},{"match":"shafferHype","image_id":15501},{"match":"shafferHey","image_id":63676},{"match":"shafferSmile","image_id":19038},{"match":"shafferDflop","image_id":57176},{"match":"shafferCop","image_id":63770},{"match":"shafferFail","image_id":63876},{"match":"shafferRage","image_id":63877},{"match":"shafferRolled","image_id":103782},{"match":"shafferNaish","image_id":100565}]}
+{
+  "name": "twitch-sub-shaffer2369",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shafferOface",
+      "image_id": 10519
+    },
+    {
+      "match": "shafferHype",
+      "image_id": 15501
+    },
+    {
+      "match": "shafferHey",
+      "image_id": 63676
+    },
+    {
+      "match": "shafferSmile",
+      "image_id": 19038
+    },
+    {
+      "match": "shafferDflop",
+      "image_id": 57176
+    },
+    {
+      "match": "shafferCop",
+      "image_id": 63770
+    },
+    {
+      "match": "shafferFail",
+      "image_id": 63876
+    },
+    {
+      "match": "shafferRage",
+      "image_id": 63877
+    },
+    {
+      "match": "shafferRolled",
+      "image_id": 103782
+    },
+    {
+      "match": "shafferNaish",
+      "image_id": 100565
+    }
+  ]
+}

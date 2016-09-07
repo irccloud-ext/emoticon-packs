@@ -1,1 +1,23 @@
-{"name":"twitch-sub-gde_moi_tabletki","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"psihePeka","image_id":30465},{"match":"psiheSad","image_id":31024},{"match":"psiheHype","image_id":57964},{"match":"psiheFeel","image_id":57965}]}
+{
+  "name": "twitch-sub-gde_moi_tabletki",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "psihePeka",
+      "image_id": 30465
+    },
+    {
+      "match": "psiheSad",
+      "image_id": 31024
+    },
+    {
+      "match": "psiheHype",
+      "image_id": 57964
+    },
+    {
+      "match": "psiheFeel",
+      "image_id": 57965
+    }
+  ]
+}

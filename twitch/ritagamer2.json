@@ -1,1 +1,35 @@
-{"name":"twitch-sub-ritagamer2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rghellcatHellcat","image_id":19138},{"match":"rghellcatKaput","image_id":20457},{"match":"rghellcatRekt","image_id":20458},{"match":"rghellcatGerd","image_id":27051},{"match":"rghellcatKris","image_id":59578},{"match":"rghellcatWAT","image_id":82976},{"match":"rghellcatJU","image_id":82958}]}
+{
+  "name": "twitch-sub-ritagamer2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rghellcatHellcat",
+      "image_id": 19138
+    },
+    {
+      "match": "rghellcatKaput",
+      "image_id": 20457
+    },
+    {
+      "match": "rghellcatRekt",
+      "image_id": 20458
+    },
+    {
+      "match": "rghellcatGerd",
+      "image_id": 27051
+    },
+    {
+      "match": "rghellcatKris",
+      "image_id": 59578
+    },
+    {
+      "match": "rghellcatWAT",
+      "image_id": 82976
+    },
+    {
+      "match": "rghellcatJU",
+      "image_id": 82958
+    }
+  ]
+}

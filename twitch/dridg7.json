@@ -1,1 +1,23 @@
-{"name":"twitch-sub-dridg7","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dridFacepalm","image_id":106694},{"match":"dridCONO","image_id":81733},{"match":"dridRage","image_id":106492},{"match":"dridRaported","image_id":106695}]}
+{
+  "name": "twitch-sub-dridg7",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dridFacepalm",
+      "image_id": 106694
+    },
+    {
+      "match": "dridCONO",
+      "image_id": 81733
+    },
+    {
+      "match": "dridRage",
+      "image_id": 106492
+    },
+    {
+      "match": "dridRaported",
+      "image_id": 106695
+    }
+  ]
+}

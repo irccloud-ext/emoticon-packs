@@ -1,1 +1,31 @@
-{"name":"twitch-sub-matoroignika","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"matoroThunder","image_id":99853},{"match":"matoroKerman","image_id":101608},{"match":"matoroSalt","image_id":99127},{"match":"matoroCat","image_id":99519},{"match":"matoroRade","image_id":99517},{"match":"matoroJam","image_id":98977}]}
+{
+  "name": "twitch-sub-matoroignika",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "matoroThunder",
+      "image_id": 99853
+    },
+    {
+      "match": "matoroKerman",
+      "image_id": 101608
+    },
+    {
+      "match": "matoroSalt",
+      "image_id": 99127
+    },
+    {
+      "match": "matoroCat",
+      "image_id": 99519
+    },
+    {
+      "match": "matoroRade",
+      "image_id": 99517
+    },
+    {
+      "match": "matoroJam",
+      "image_id": 98977
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-teamless2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tlsBoosted","image_id":100428},{"match":"tlsRank","image_id":100426},{"match":"tlsHype","image_id":86087},{"match":"tlsUnlucky","image_id":85950},{"match":"tlsTilt","image_id":104244},{"match":"tlsWow","image_id":105901}]}
+{
+  "name": "twitch-sub-teamless2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tlsBoosted",
+      "image_id": 100428
+    },
+    {
+      "match": "tlsRank",
+      "image_id": 100426
+    },
+    {
+      "match": "tlsHype",
+      "image_id": 86087
+    },
+    {
+      "match": "tlsUnlucky",
+      "image_id": 85950
+    },
+    {
+      "match": "tlsTilt",
+      "image_id": 104244
+    },
+    {
+      "match": "tlsWow",
+      "image_id": 105901
+    }
+  ]
+}

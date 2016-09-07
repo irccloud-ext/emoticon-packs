@@ -1,1 +1,23 @@
-{"name":"twitch-sub-luiz_miguel","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"luizUFO","image_id":90590},{"match":"luizMad","image_id":90587},{"match":"luizShaddap","image_id":92239},{"match":"luizGold","image_id":94501}]}
+{
+  "name": "twitch-sub-luiz_miguel",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "luizUFO",
+      "image_id": 90590
+    },
+    {
+      "match": "luizMad",
+      "image_id": 90587
+    },
+    {
+      "match": "luizShaddap",
+      "image_id": 92239
+    },
+    {
+      "match": "luizGold",
+      "image_id": 94501
+    }
+  ]
+}

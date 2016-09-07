@@ -1,1 +1,23 @@
-{"name":"twitch-sub-hollywoodsleep","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sleepCho","image_id":79466},{"match":"sleepMoney","image_id":79678},{"match":"sleepNaw","image_id":85077},{"match":"sleepToes","image_id":105299}]}
+{
+  "name": "twitch-sub-hollywoodsleep",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sleepCho",
+      "image_id": 79466
+    },
+    {
+      "match": "sleepMoney",
+      "image_id": 79678
+    },
+    {
+      "match": "sleepNaw",
+      "image_id": 85077
+    },
+    {
+      "match": "sleepToes",
+      "image_id": 105299
+    }
+  ]
+}

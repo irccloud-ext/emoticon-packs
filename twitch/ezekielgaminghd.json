@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ezekielgaminghd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ezeLOWER","image_id":52969},{"match":"ezeHIGHER","image_id":53078},{"match":"ezeFIRE","image_id":53934},{"match":"ezeBANG","image_id":54285}]}
+{
+  "name": "twitch-sub-ezekielgaminghd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ezeLOWER",
+      "image_id": 52969
+    },
+    {
+      "match": "ezeHIGHER",
+      "image_id": 53078
+    },
+    {
+      "match": "ezeFIRE",
+      "image_id": 53934
+    },
+    {
+      "match": "ezeBANG",
+      "image_id": 54285
+    }
+  ]
+}

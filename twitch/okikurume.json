@@ -1,1 +1,31 @@
-{"name":"twitch-sub-okikurume","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"okiWave","image_id":14802},{"match":"okiHype","image_id":14374},{"match":"okiMush","image_id":24329},{"match":"okiLewd","image_id":24330},{"match":"okiMayro","image_id":39796},{"match":"okiLuggy","image_id":39803}]}
+{
+  "name": "twitch-sub-okikurume",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "okiWave",
+      "image_id": 14802
+    },
+    {
+      "match": "okiHype",
+      "image_id": 14374
+    },
+    {
+      "match": "okiMush",
+      "image_id": 24329
+    },
+    {
+      "match": "okiLewd",
+      "image_id": 24330
+    },
+    {
+      "match": "okiMayro",
+      "image_id": 39796
+    },
+    {
+      "match": "okiLuggy",
+      "image_id": 39803
+    }
+  ]
+}

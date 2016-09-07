@@ -1,1 +1,23 @@
-{"name":"twitch-sub-properartist","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"properP","image_id":110213},{"match":"properM","image_id":110214},{"match":"properGASM","image_id":110212},{"match":"properS","image_id":110215}]}
+{
+  "name": "twitch-sub-properartist",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "properP",
+      "image_id": 110213
+    },
+    {
+      "match": "properM",
+      "image_id": 110214
+    },
+    {
+      "match": "properGASM",
+      "image_id": 110212
+    },
+    {
+      "match": "properS",
+      "image_id": 110215
+    }
+  ]
+}

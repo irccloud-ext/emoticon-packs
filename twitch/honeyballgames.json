@@ -1,1 +1,47 @@
-{"name":"twitch-sub-honeyballgames","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"honyPUPU","image_id":57867},{"match":"honyMIMIMI","image_id":30565},{"match":"honyZOCKT","image_id":30563},{"match":"honyKEKS","image_id":30562},{"match":"honyFIGHT","image_id":30561},{"match":"honyWUAHT","image_id":30560},{"match":"honyNANA","image_id":30559},{"match":"honyGRR","image_id":32731},{"match":"honyWUHU","image_id":32737},{"match":"honyLUV","image_id":34808}]}
+{
+  "name": "twitch-sub-honeyballgames",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "honyPUPU",
+      "image_id": 57867
+    },
+    {
+      "match": "honyMIMIMI",
+      "image_id": 30565
+    },
+    {
+      "match": "honyZOCKT",
+      "image_id": 30563
+    },
+    {
+      "match": "honyKEKS",
+      "image_id": 30562
+    },
+    {
+      "match": "honyFIGHT",
+      "image_id": 30561
+    },
+    {
+      "match": "honyWUAHT",
+      "image_id": 30560
+    },
+    {
+      "match": "honyNANA",
+      "image_id": 30559
+    },
+    {
+      "match": "honyGRR",
+      "image_id": 32731
+    },
+    {
+      "match": "honyWUHU",
+      "image_id": 32737
+    },
+    {
+      "match": "honyLUV",
+      "image_id": 34808
+    }
+  ]
+}

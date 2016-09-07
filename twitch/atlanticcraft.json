@@ -1,1 +1,15 @@
-{"name":"twitch-sub-atlanticcraft","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"atlantisDuck","image_id":25970},{"match":"atlantisPup","image_id":25972}]}
+{
+  "name": "twitch-sub-atlanticcraft",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "atlantisDuck",
+      "image_id": 25970
+    },
+    {
+      "match": "atlantisPup",
+      "image_id": 25972
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-ironiehelmtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ihelmGIRL","image_id":3295},{"match":"ihelmHERZ","image_id":19706},{"match":"ihelmKLASSE","image_id":19718},{"match":"ihelmTILT","image_id":33728},{"match":"ihelm30","image_id":35594},{"match":"ihelmCHEAT","image_id":71085},{"match":"ihelmHINA","image_id":88149},{"match":"ihelmTAMAM","image_id":110852}]}
+{
+  "name": "twitch-sub-ironiehelmtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ihelmGIRL",
+      "image_id": 3295
+    },
+    {
+      "match": "ihelmHERZ",
+      "image_id": 19706
+    },
+    {
+      "match": "ihelmKLASSE",
+      "image_id": 19718
+    },
+    {
+      "match": "ihelmTILT",
+      "image_id": 33728
+    },
+    {
+      "match": "ihelm30",
+      "image_id": 35594
+    },
+    {
+      "match": "ihelmCHEAT",
+      "image_id": 71085
+    },
+    {
+      "match": "ihelmHINA",
+      "image_id": 88149
+    },
+    {
+      "match": "ihelmTAMAM",
+      "image_id": 110852
+    }
+  ]
+}

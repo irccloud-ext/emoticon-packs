@@ -1,1 +1,31 @@
-{"name":"twitch-sub-gnomekpl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gnomSiusiak","image_id":9215},{"match":"gnomHype","image_id":24878},{"match":"gnomGGWP","image_id":25273},{"match":"gnomDerp","image_id":32255},{"match":"gnomKawaii","image_id":32253},{"match":"gnomKakao","image_id":32254}]}
+{
+  "name": "twitch-sub-gnomekpl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gnomSiusiak",
+      "image_id": 9215
+    },
+    {
+      "match": "gnomHype",
+      "image_id": 24878
+    },
+    {
+      "match": "gnomGGWP",
+      "image_id": 25273
+    },
+    {
+      "match": "gnomDerp",
+      "image_id": 32255
+    },
+    {
+      "match": "gnomKawaii",
+      "image_id": 32253
+    },
+    {
+      "match": "gnomKakao",
+      "image_id": 32254
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-ns_vp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nska1","image_id":42218},{"match":"nska2","image_id":42261}]}
+{
+  "name": "twitch-sub-ns_vp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nska1",
+      "image_id": 42218
+    },
+    {
+      "match": "nska2",
+      "image_id": 42261
+    }
+  ]
+}

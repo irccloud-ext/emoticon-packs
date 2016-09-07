@@ -1,1 +1,31 @@
-{"name":"twitch-sub-chicken_angel","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"onechickenHI","image_id":82488},{"match":"onechickenLEG","image_id":72522},{"match":"onechickenME","image_id":82486},{"match":"onechickenNO","image_id":90164},{"match":"onechicken18","image_id":90163},{"match":"onechickenWOW","image_id":90162}]}
+{
+  "name": "twitch-sub-chicken_angel",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "onechickenHI",
+      "image_id": 82488
+    },
+    {
+      "match": "onechickenLEG",
+      "image_id": 72522
+    },
+    {
+      "match": "onechickenME",
+      "image_id": 82486
+    },
+    {
+      "match": "onechickenNO",
+      "image_id": 90164
+    },
+    {
+      "match": "onechicken18",
+      "image_id": 90163
+    },
+    {
+      "match": "onechickenWOW",
+      "image_id": 90162
+    }
+  ]
+}

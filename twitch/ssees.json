@@ -1,1 +1,11 @@
-{"name":"twitch-sub-ssees","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dngsseesgg1","image_id":96102}]}
+{
+  "name": "twitch-sub-ssees",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dngsseesgg1",
+      "image_id": 96102
+    }
+  ]
+}

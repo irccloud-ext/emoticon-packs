@@ -1,1 +1,23 @@
-{"name":"twitch-sub-twitchmermzy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mermzyDoge","image_id":39783},{"match":"mermzyRekt","image_id":33276},{"match":"mermzyKappa","image_id":35656},{"match":"mermzySub","image_id":35898}]}
+{
+  "name": "twitch-sub-twitchmermzy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mermzyDoge",
+      "image_id": 39783
+    },
+    {
+      "match": "mermzyRekt",
+      "image_id": 33276
+    },
+    {
+      "match": "mermzyKappa",
+      "image_id": 35656
+    },
+    {
+      "match": "mermzySub",
+      "image_id": 35898
+    }
+  ]
+}

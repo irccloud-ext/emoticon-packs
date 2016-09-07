@@ -1,1 +1,31 @@
-{"name":"twitch-sub-swip3rrr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"swipHype","image_id":66774},{"match":"swipSad","image_id":66773},{"match":"swipFace","image_id":61060},{"match":"swipBig","image_id":101255},{"match":"swipChief","image_id":60887},{"match":"swipTilt","image_id":73533}]}
+{
+  "name": "twitch-sub-swip3rrr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "swipHype",
+      "image_id": 66774
+    },
+    {
+      "match": "swipSad",
+      "image_id": 66773
+    },
+    {
+      "match": "swipFace",
+      "image_id": 61060
+    },
+    {
+      "match": "swipBig",
+      "image_id": 101255
+    },
+    {
+      "match": "swipChief",
+      "image_id": 60887
+    },
+    {
+      "match": "swipTilt",
+      "image_id": 73533
+    }
+  ]
+}

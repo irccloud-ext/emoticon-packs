@@ -1,1 +1,31 @@
-{"name":"twitch-sub-thehogaty","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hogatyNiezle","image_id":38576},{"match":"hogatyKappa","image_id":81719},{"match":"hogatyRak","image_id":81377},{"match":"hogatyGimb","image_id":81717},{"match":"hogatyFacepalm","image_id":84245},{"match":"hogatySlownik","image_id":84246}]}
+{
+  "name": "twitch-sub-thehogaty",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hogatyNiezle",
+      "image_id": 38576
+    },
+    {
+      "match": "hogatyKappa",
+      "image_id": 81719
+    },
+    {
+      "match": "hogatyRak",
+      "image_id": 81377
+    },
+    {
+      "match": "hogatyGimb",
+      "image_id": 81717
+    },
+    {
+      "match": "hogatyFacepalm",
+      "image_id": 84245
+    },
+    {
+      "match": "hogatySlownik",
+      "image_id": 84246
+    }
+  ]
+}

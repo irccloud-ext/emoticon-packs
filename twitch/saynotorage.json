@@ -1,1 +1,47 @@
-{"name":"twitch-sub-saynotorage","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lonoSub","image_id":91107},{"match":"lonoHype","image_id":91109},{"match":"lonoLove","image_id":91110},{"match":"lonoWipe","image_id":91112},{"match":"lonoRage","image_id":91113},{"match":"lonoHi","image_id":92213},{"match":"lonoFail","image_id":92211},{"match":"lonoMinion","image_id":91310},{"match":"lonoAim","image_id":91338},{"match":"lonoMadam","image_id":103490}]}
+{
+  "name": "twitch-sub-saynotorage",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lonoSub",
+      "image_id": 91107
+    },
+    {
+      "match": "lonoHype",
+      "image_id": 91109
+    },
+    {
+      "match": "lonoLove",
+      "image_id": 91110
+    },
+    {
+      "match": "lonoWipe",
+      "image_id": 91112
+    },
+    {
+      "match": "lonoRage",
+      "image_id": 91113
+    },
+    {
+      "match": "lonoHi",
+      "image_id": 92213
+    },
+    {
+      "match": "lonoFail",
+      "image_id": 92211
+    },
+    {
+      "match": "lonoMinion",
+      "image_id": 91310
+    },
+    {
+      "match": "lonoAim",
+      "image_id": 91338
+    },
+    {
+      "match": "lonoMadam",
+      "image_id": 103490
+    }
+  ]
+}

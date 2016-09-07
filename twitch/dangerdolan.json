@@ -1,1 +1,15 @@
-{"name":"twitch-sub-dangerdolan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"dolanLewd","image_id":51028},{"match":"dolanEpic","image_id":51027}]}
+{
+  "name": "twitch-sub-dangerdolan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "dolanLewd",
+      "image_id": 51028
+    },
+    {
+      "match": "dolanEpic",
+      "image_id": 51027
+    }
+  ]
+}

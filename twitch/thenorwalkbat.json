@@ -1,1 +1,47 @@
-{"name":"twitch-sub-thenorwalkbat","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"thebatFORTY","image_id":52744},{"match":"thebat4Leaf","image_id":50141},{"match":"thebatSelfless","image_id":104458},{"match":"thebatFUEGO","image_id":64305},{"match":"thebatNorwalk","image_id":72740},{"match":"thebatUMR","image_id":72254},{"match":"thebatBOB","image_id":87354},{"match":"thebatW","image_id":92903},{"match":"thebatFEELS","image_id":94409},{"match":"thebatKetchum","image_id":106083}]}
+{
+  "name": "twitch-sub-thenorwalkbat",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "thebatFORTY",
+      "image_id": 52744
+    },
+    {
+      "match": "thebat4Leaf",
+      "image_id": 50141
+    },
+    {
+      "match": "thebatSelfless",
+      "image_id": 104458
+    },
+    {
+      "match": "thebatFUEGO",
+      "image_id": 64305
+    },
+    {
+      "match": "thebatNorwalk",
+      "image_id": 72740
+    },
+    {
+      "match": "thebatUMR",
+      "image_id": 72254
+    },
+    {
+      "match": "thebatBOB",
+      "image_id": 87354
+    },
+    {
+      "match": "thebatW",
+      "image_id": 92903
+    },
+    {
+      "match": "thebatFEELS",
+      "image_id": 94409
+    },
+    {
+      "match": "thebatKetchum",
+      "image_id": 106083
+    }
+  ]
+}

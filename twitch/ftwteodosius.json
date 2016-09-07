@@ -1,1 +1,15 @@
-{"name":"twitch-sub-ftwteodosius","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"teoArmy","image_id":47059},{"match":"teoFtw","image_id":47051}]}
+{
+  "name": "twitch-sub-ftwteodosius",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "teoArmy",
+      "image_id": 47059
+    },
+    {
+      "match": "teoFtw",
+      "image_id": 47051
+    }
+  ]
+}

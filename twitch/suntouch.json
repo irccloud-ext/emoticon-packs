@@ -1,1 +1,67 @@
-{"name":"twitch-sub-suntouch","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sunDevil","image_id":33089},{"match":"sunRekt","image_id":33088},{"match":"sunDeal","image_id":5916},{"match":"sunHi","image_id":33087},{"match":"sunHalo","image_id":33086},{"match":"sunKappa","image_id":5918},{"match":"sunF6","image_id":8007},{"match":"sunCat","image_id":7605},{"match":"sunPotato","image_id":11599},{"match":"sunHeart","image_id":11804},{"match":"sunFail","image_id":14597},{"match":"sunHype","image_id":14610},{"match":"sunArnia","image_id":14256},{"match":"sunOops","image_id":27002},{"match":"sunHot","image_id":37038}]}
+{
+  "name": "twitch-sub-suntouch",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sunDevil",
+      "image_id": 33089
+    },
+    {
+      "match": "sunRekt",
+      "image_id": 33088
+    },
+    {
+      "match": "sunDeal",
+      "image_id": 5916
+    },
+    {
+      "match": "sunHi",
+      "image_id": 33087
+    },
+    {
+      "match": "sunHalo",
+      "image_id": 33086
+    },
+    {
+      "match": "sunKappa",
+      "image_id": 5918
+    },
+    {
+      "match": "sunF6",
+      "image_id": 8007
+    },
+    {
+      "match": "sunCat",
+      "image_id": 7605
+    },
+    {
+      "match": "sunPotato",
+      "image_id": 11599
+    },
+    {
+      "match": "sunHeart",
+      "image_id": 11804
+    },
+    {
+      "match": "sunFail",
+      "image_id": 14597
+    },
+    {
+      "match": "sunHype",
+      "image_id": 14610
+    },
+    {
+      "match": "sunArnia",
+      "image_id": 14256
+    },
+    {
+      "match": "sunOops",
+      "image_id": 27002
+    },
+    {
+      "match": "sunHot",
+      "image_id": 37038
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-treckie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"treckShield","image_id":5050},{"match":"treckWat","image_id":9835},{"match":"treckCoke","image_id":19064},{"match":"treckRip","image_id":25219},{"match":"treckKappa","image_id":30114},{"match":"treckFridge","image_id":35593},{"match":"treckWave","image_id":35816},{"match":"treckHype","image_id":62134}]}
+{
+  "name": "twitch-sub-treckie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "treckShield",
+      "image_id": 5050
+    },
+    {
+      "match": "treckWat",
+      "image_id": 9835
+    },
+    {
+      "match": "treckCoke",
+      "image_id": 19064
+    },
+    {
+      "match": "treckRip",
+      "image_id": 25219
+    },
+    {
+      "match": "treckKappa",
+      "image_id": 30114
+    },
+    {
+      "match": "treckFridge",
+      "image_id": 35593
+    },
+    {
+      "match": "treckWave",
+      "image_id": 35816
+    },
+    {
+      "match": "treckHype",
+      "image_id": 62134
+    }
+  ]
+}

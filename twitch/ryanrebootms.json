@@ -1,1 +1,23 @@
-{"name":"twitch-sub-ryanrebootms","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rymsSpider","image_id":110458},{"match":"rymsFace","image_id":110461},{"match":"rymsSpider","image_id":110775},{"match":"rymsCop","image_id":110779}]}
+{
+  "name": "twitch-sub-ryanrebootms",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rymsSpider",
+      "image_id": 112519
+    },
+    {
+      "match": "rymsFace",
+      "image_id": 110461
+    },
+    {
+      "match": "rymsYo",
+      "image_id": 112106
+    },
+    {
+      "match": "rymsCop",
+      "image_id": 110779
+    }
+  ]
+}

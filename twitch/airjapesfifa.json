@@ -1,1 +1,43 @@
-{"name":"twitch-sub-airjapesfifa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"japesDJKitty","image_id":3570},{"match":"japesHead","image_id":3613},{"match":"japesSuper","image_id":9277},{"match":"japesREF","image_id":9276},{"match":"japesTune","image_id":9280},{"match":"japesBolt","image_id":9279},{"match":"japesR","image_id":10320},{"match":"japesChair","image_id":10321},{"match":"japesPack","image_id":26276}]}
+{
+  "name": "twitch-sub-airjapesfifa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "japesDJKitty",
+      "image_id": 3570
+    },
+    {
+      "match": "japesHead",
+      "image_id": 3613
+    },
+    {
+      "match": "japesSuper",
+      "image_id": 9277
+    },
+    {
+      "match": "japesREF",
+      "image_id": 9276
+    },
+    {
+      "match": "japesTune",
+      "image_id": 9280
+    },
+    {
+      "match": "japesBolt",
+      "image_id": 9279
+    },
+    {
+      "match": "japesR",
+      "image_id": 10320
+    },
+    {
+      "match": "japesChair",
+      "image_id": 10321
+    },
+    {
+      "match": "japesPack",
+      "image_id": 26276
+    }
+  ]
+}

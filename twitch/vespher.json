@@ -1,1 +1,39 @@
-{"name":"twitch-sub-vespher","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"getMad","image_id":86595},{"match":"getGlad","image_id":58153},{"match":"getNoScoped","image_id":86593},{"match":"getGot","image_id":86594},{"match":"getSleepy","image_id":86596},{"match":"getThoroughlyMemedUpon","image_id":86597},{"match":"getLoved","image_id":86598},{"match":"getGreeted","image_id":107937}]}
+{
+  "name": "twitch-sub-vespher",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "getMad",
+      "image_id": 86595
+    },
+    {
+      "match": "getGlad",
+      "image_id": 58153
+    },
+    {
+      "match": "getNoScoped",
+      "image_id": 86593
+    },
+    {
+      "match": "getGot",
+      "image_id": 86594
+    },
+    {
+      "match": "getSleepy",
+      "image_id": 86596
+    },
+    {
+      "match": "getThoroughlyMemedUpon",
+      "image_id": 86597
+    },
+    {
+      "match": "getLoved",
+      "image_id": 86598
+    },
+    {
+      "match": "getGreeted",
+      "image_id": 107937
+    }
+  ]
+}

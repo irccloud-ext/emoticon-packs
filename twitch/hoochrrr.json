@@ -1,1 +1,23 @@
-{"name":"twitch-sub-hoochrrr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hoochrFace","image_id":23528},{"match":"hoochrLEV","image_id":23529},{"match":"hoochrBonya","image_id":23530},{"match":"hoochrOskar","image_id":23531}]}
+{
+  "name": "twitch-sub-hoochrrr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hoochrFace",
+      "image_id": 23528
+    },
+    {
+      "match": "hoochrLEV",
+      "image_id": 23529
+    },
+    {
+      "match": "hoochrBonya",
+      "image_id": 23530
+    },
+    {
+      "match": "hoochrOskar",
+      "image_id": 23531
+    }
+  ]
+}

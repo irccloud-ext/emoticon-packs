@@ -1,1 +1,39 @@
-{"name":"twitch-sub-juliecs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"julieMolle","image_id":26173},{"match":"julieMT","image_id":25837},{"match":"julieHYPE","image_id":25838},{"match":"julieRIP","image_id":25949},{"match":"julieGASM","image_id":63185},{"match":"julieKappa","image_id":63177},{"match":"julieHi","image_id":66099},{"match":"julieLove","image_id":79817}]}
+{
+  "name": "twitch-sub-juliecs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "julieMolle",
+      "image_id": 26173
+    },
+    {
+      "match": "julieMT",
+      "image_id": 25837
+    },
+    {
+      "match": "julieHYPE",
+      "image_id": 25838
+    },
+    {
+      "match": "julieRIP",
+      "image_id": 25949
+    },
+    {
+      "match": "julieGASM",
+      "image_id": 63185
+    },
+    {
+      "match": "julieKappa",
+      "image_id": 63177
+    },
+    {
+      "match": "julieHi",
+      "image_id": 66099
+    },
+    {
+      "match": "julieLove",
+      "image_id": 79817
+    }
+  ]
+}

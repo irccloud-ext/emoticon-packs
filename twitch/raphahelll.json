@@ -1,1 +1,39 @@
-{"name":"twitch-sub-raphahelll","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"raphaOMG","image_id":59189},{"match":"raphaPaleta","image_id":57034},{"match":"raphaRIP","image_id":57036},{"match":"raphaKappa","image_id":57033},{"match":"raphaGG","image_id":57672},{"match":"raphaF","image_id":58238},{"match":"raphaCRY","image_id":59293},{"match":"raphaLATE","image_id":58635}]}
+{
+  "name": "twitch-sub-raphahelll",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "raphaOMG",
+      "image_id": 59189
+    },
+    {
+      "match": "raphaPaleta",
+      "image_id": 57034
+    },
+    {
+      "match": "raphaRIP",
+      "image_id": 57036
+    },
+    {
+      "match": "raphaKappa",
+      "image_id": 57033
+    },
+    {
+      "match": "raphaGG",
+      "image_id": 57672
+    },
+    {
+      "match": "raphaF",
+      "image_id": 58238
+    },
+    {
+      "match": "raphaCRY",
+      "image_id": 59293
+    },
+    {
+      "match": "raphaLATE",
+      "image_id": 58635
+    }
+  ]
+}

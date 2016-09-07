@@ -1,1 +1,27 @@
-{"name":"twitch-sub-skyhigh340","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"skyhiHeart","image_id":19444},{"match":"skyhiHYPE","image_id":19678},{"match":"skyhiTroll","image_id":19646},{"match":"skyhiSexy","image_id":19960},{"match":"skyhiGG","image_id":21868}]}
+{
+  "name": "twitch-sub-skyhigh340",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "skyhiHeart",
+      "image_id": 19444
+    },
+    {
+      "match": "skyhiHYPE",
+      "image_id": 19678
+    },
+    {
+      "match": "skyhiTroll",
+      "image_id": 19646
+    },
+    {
+      "match": "skyhiSexy",
+      "image_id": 19960
+    },
+    {
+      "match": "skyhiGG",
+      "image_id": 21868
+    }
+  ]
+}

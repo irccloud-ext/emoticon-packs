@@ -1,1 +1,15 @@
-{"name":"twitch-sub-lndxleo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lndxMoodaq","image_id":86030},{"match":"lndxChicken","image_id":86032}]}
+{
+  "name": "twitch-sub-lndxleo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lndxMoodaq",
+      "image_id": 86030
+    },
+    {
+      "match": "lndxChicken",
+      "image_id": 86032
+    }
+  ]
+}

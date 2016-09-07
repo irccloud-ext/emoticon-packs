@@ -1,1 +1,87 @@
-{"name":"twitch-sub-tsm_bjergsen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bjergYeah","image_id":71983},{"match":"bjergAFK","image_id":71960},{"match":"bjergTroll","image_id":5562},{"match":"bjergFeels","image_id":71973},{"match":"bjergOpenMid","image_id":72454},{"match":"bjergTSM","image_id":72453},{"match":"bjergRIP","image_id":72450},{"match":"bjergLag","image_id":72449},{"match":"bjergTilt","image_id":72451},{"match":"bjergUnlucky","image_id":72452},{"match":"bjergSad","image_id":71986},{"match":"bjergCamp","image_id":71706},{"match":"bjergW","image_id":71975},{"match":"bjergMIA","image_id":73507},{"match":"bjergNA","image_id":73506},{"match":"bjergDanish","image_id":75198},{"match":"bjergHype","image_id":75199},{"match":"bjergSoStrong","image_id":75200},{"match":"bjergPowerspike","image_id":75201},{"match":"bjergTear","image_id":75202}]}
+{
+  "name": "twitch-sub-tsm_bjergsen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bjergYeah",
+      "image_id": 71983
+    },
+    {
+      "match": "bjergAFK",
+      "image_id": 71960
+    },
+    {
+      "match": "bjergTroll",
+      "image_id": 5562
+    },
+    {
+      "match": "bjergFeels",
+      "image_id": 71973
+    },
+    {
+      "match": "bjergOpenMid",
+      "image_id": 72454
+    },
+    {
+      "match": "bjergTSM",
+      "image_id": 72453
+    },
+    {
+      "match": "bjergRIP",
+      "image_id": 72450
+    },
+    {
+      "match": "bjergLag",
+      "image_id": 72449
+    },
+    {
+      "match": "bjergTilt",
+      "image_id": 72451
+    },
+    {
+      "match": "bjergUnlucky",
+      "image_id": 72452
+    },
+    {
+      "match": "bjergSad",
+      "image_id": 71986
+    },
+    {
+      "match": "bjergCamp",
+      "image_id": 71706
+    },
+    {
+      "match": "bjergW",
+      "image_id": 71975
+    },
+    {
+      "match": "bjergMIA",
+      "image_id": 73507
+    },
+    {
+      "match": "bjergNA",
+      "image_id": 73506
+    },
+    {
+      "match": "bjergDanish",
+      "image_id": 75198
+    },
+    {
+      "match": "bjergHype",
+      "image_id": 75199
+    },
+    {
+      "match": "bjergSoStrong",
+      "image_id": 75200
+    },
+    {
+      "match": "bjergPowerspike",
+      "image_id": 75201
+    },
+    {
+      "match": "bjergTear",
+      "image_id": 75202
+    }
+  ]
+}

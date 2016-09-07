@@ -1,1 +1,31 @@
-{"name":"twitch-sub-shantao","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shantaoH","image_id":66795},{"match":"shantaoWau","image_id":67425},{"match":"shantaoHi","image_id":67559},{"match":"shantaoKappa","image_id":74144},{"match":"shantaoFeb","image_id":97982},{"match":"shantaoCry","image_id":103588}]}
+{
+  "name": "twitch-sub-shantao",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shantaoH",
+      "image_id": 66795
+    },
+    {
+      "match": "shantaoWau",
+      "image_id": 67425
+    },
+    {
+      "match": "shantaoHi",
+      "image_id": 67559
+    },
+    {
+      "match": "shantaoKappa",
+      "image_id": 74144
+    },
+    {
+      "match": "shantaoFeb",
+      "image_id": 97982
+    },
+    {
+      "match": "shantaoCry",
+      "image_id": 103588
+    }
+  ]
+}

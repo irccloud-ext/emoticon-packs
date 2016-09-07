@@ -1,1 +1,19 @@
-{"name":"twitch-sub-nelsonnater","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nelsonggRodd","image_id":101565},{"match":"nelsonggFur","image_id":101564},{"match":"nelsonggEasily","image_id":101563}]}
+{
+  "name": "twitch-sub-nelsonnater",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nelsonggRodd",
+      "image_id": 101565
+    },
+    {
+      "match": "nelsonggFur",
+      "image_id": 101564
+    },
+    {
+      "match": "nelsonggEasily",
+      "image_id": 101563
+    }
+  ]
+}

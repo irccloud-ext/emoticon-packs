@@ -1,1 +1,47 @@
-{"name":"twitch-sub-jacklifear","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jackTHULU","image_id":18211},{"match":"jackJULIA","image_id":19148},{"match":"jackNOPE","image_id":101559},{"match":"jackYUP","image_id":101558},{"match":"jackLURK","image_id":101557},{"match":"jackLOVE","image_id":101556},{"match":"jackSPAM","image_id":101555},{"match":"jackLIGHT","image_id":101554},{"match":"jackHMM","image_id":101553},{"match":"jackFAIL","image_id":101552}]}
+{
+  "name": "twitch-sub-jacklifear",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jackTHULU",
+      "image_id": 18211
+    },
+    {
+      "match": "jackJULIA",
+      "image_id": 19148
+    },
+    {
+      "match": "jackNOPE",
+      "image_id": 101559
+    },
+    {
+      "match": "jackYUP",
+      "image_id": 101558
+    },
+    {
+      "match": "jackLURK",
+      "image_id": 101557
+    },
+    {
+      "match": "jackLOVE",
+      "image_id": 101556
+    },
+    {
+      "match": "jackSPAM",
+      "image_id": 101555
+    },
+    {
+      "match": "jackLIGHT",
+      "image_id": 101554
+    },
+    {
+      "match": "jackHMM",
+      "image_id": 101553
+    },
+    {
+      "match": "jackFAIL",
+      "image_id": 101552
+    }
+  ]
+}

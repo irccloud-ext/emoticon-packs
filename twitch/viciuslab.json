@@ -1,1 +1,31 @@
-{"name":"twitch-sub-viciuslab","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"viciusDARKNECCA","image_id":54897},{"match":"viciusBRUTAINIM","image_id":54777},{"match":"viciusAMOR","image_id":60137},{"match":"viciusCAT","image_id":60136},{"match":"viciusFAIL","image_id":101417},{"match":"viciusKEBAB","image_id":101418}]}
+{
+  "name": "twitch-sub-viciuslab",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "viciusDARKNECCA",
+      "image_id": 54897
+    },
+    {
+      "match": "viciusBRUTAINIM",
+      "image_id": 54777
+    },
+    {
+      "match": "viciusAMOR",
+      "image_id": 60137
+    },
+    {
+      "match": "viciusCAT",
+      "image_id": 60136
+    },
+    {
+      "match": "viciusFAIL",
+      "image_id": 101417
+    },
+    {
+      "match": "viciusKEBAB",
+      "image_id": 101418
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-shlaya","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shlSinge","image_id":66037},{"match":"shlRekt","image_id":34676},{"match":"shlKappa","image_id":34746},{"match":"shlGenkidama","image_id":48604},{"match":"shlWoodV","image_id":48733},{"match":"shlApproved","image_id":64817}]}
+{
+  "name": "twitch-sub-shlaya",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shlSinge",
+      "image_id": 66037
+    },
+    {
+      "match": "shlRekt",
+      "image_id": 34676
+    },
+    {
+      "match": "shlKappa",
+      "image_id": 34746
+    },
+    {
+      "match": "shlGenkidama",
+      "image_id": 48604
+    },
+    {
+      "match": "shlWoodV",
+      "image_id": 48733
+    },
+    {
+      "match": "shlApproved",
+      "image_id": 64817
+    }
+  ]
+}

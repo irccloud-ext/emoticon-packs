@@ -1,1 +1,23 @@
-{"name":"twitch-sub-perpetualjordan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"perpChin","image_id":27532},{"match":"perpLove","image_id":43885},{"match":"perpIzza","image_id":46500},{"match":"perpDerp","image_id":46501}]}
+{
+  "name": "twitch-sub-perpetualjordan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "perpChin",
+      "image_id": 27532
+    },
+    {
+      "match": "perpLove",
+      "image_id": 43885
+    },
+    {
+      "match": "perpIzza",
+      "image_id": 46500
+    },
+    {
+      "match": "perpDerp",
+      "image_id": 46501
+    }
+  ]
+}

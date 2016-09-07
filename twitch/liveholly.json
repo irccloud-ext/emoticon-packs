@@ -1,1 +1,15 @@
-{"name":"twitch-sub-liveholly","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vholy999","image_id":75541},{"match":"vholyDoge","image_id":79511}]}
+{
+  "name": "twitch-sub-liveholly",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vholy999",
+      "image_id": 75541
+    },
+    {
+      "match": "vholyDoge",
+      "image_id": 79511
+    }
+  ]
+}

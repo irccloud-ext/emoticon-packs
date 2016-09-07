@@ -1,1 +1,15 @@
-{"name":"twitch-sub-brendonisaiahbengtson","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"brendonibKnowledgeBomb","image_id":96739},{"match":"brendonibLordHumph","image_id":96741}]}
+{
+  "name": "twitch-sub-brendonisaiahbengtson",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "brendonibKnowledgeBomb",
+      "image_id": 96739
+    },
+    {
+      "match": "brendonibLordHumph",
+      "image_id": 96741
+    }
+  ]
+}

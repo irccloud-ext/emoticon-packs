@@ -1,1 +1,23 @@
-{"name":"twitch-sub-gl_maitrearmand","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"emmaHypu","image_id":68718},{"match":"emmaSerious","image_id":68714},{"match":"emmaGnon","image_id":95359},{"match":"emmaNocharm","image_id":96283}]}
+{
+  "name": "twitch-sub-gl_maitrearmand",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "emmaHypu",
+      "image_id": 68718
+    },
+    {
+      "match": "emmaSerious",
+      "image_id": 68714
+    },
+    {
+      "match": "emmaGnon",
+      "image_id": 95359
+    },
+    {
+      "match": "emmaNocharm",
+      "image_id": 96283
+    }
+  ]
+}

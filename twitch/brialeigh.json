@@ -1,1 +1,39 @@
-{"name":"twitch-sub-brialeigh","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"briaHype","image_id":58380},{"match":"briaE","image_id":96454},{"match":"briaW","image_id":89852},{"match":"briaLove","image_id":37502},{"match":"briaDank","image_id":102343},{"match":"briaThump","image_id":37658},{"match":"briaGasm","image_id":102607},{"match":"briaH","image_id":109102}]}
+{
+  "name": "twitch-sub-brialeigh",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "briaHype",
+      "image_id": 58380
+    },
+    {
+      "match": "briaE",
+      "image_id": 96454
+    },
+    {
+      "match": "briaW",
+      "image_id": 89852
+    },
+    {
+      "match": "briaLove",
+      "image_id": 37502
+    },
+    {
+      "match": "briaDank",
+      "image_id": 102343
+    },
+    {
+      "match": "briaThump",
+      "image_id": 37658
+    },
+    {
+      "match": "briaGasm",
+      "image_id": 102607
+    },
+    {
+      "match": "briaH",
+      "image_id": 109102
+    }
+  ]
+}

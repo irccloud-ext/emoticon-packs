@@ -1,1 +1,27 @@
-{"name":"twitch-sub-lurtzie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lurtzTeemo","image_id":21507},{"match":"lurtzCupcake","image_id":21508},{"match":"lurtzSubhype","image_id":22778},{"match":"lurtzUmadbro","image_id":26991},{"match":"lurtzRekt","image_id":27032}]}
+{
+  "name": "twitch-sub-lurtzie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lurtzTeemo",
+      "image_id": 21507
+    },
+    {
+      "match": "lurtzCupcake",
+      "image_id": 21508
+    },
+    {
+      "match": "lurtzSubhype",
+      "image_id": 22778
+    },
+    {
+      "match": "lurtzUmadbro",
+      "image_id": 26991
+    },
+    {
+      "match": "lurtzRekt",
+      "image_id": 27032
+    }
+  ]
+}

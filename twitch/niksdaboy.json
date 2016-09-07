@@ -1,1 +1,39 @@
-{"name":"twitch-sub-niksdaboy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ndbROFL","image_id":63776},{"match":"ndbKappa","image_id":63454},{"match":"ndbHY","image_id":72697},{"match":"ndbPE","image_id":72698},{"match":"ndbElo","image_id":97441},{"match":"ndbRator","image_id":97275},{"match":"ndbNoob","image_id":97276},{"match":"ndbMoney","image_id":97277}]}
+{
+  "name": "twitch-sub-niksdaboy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ndbROFL",
+      "image_id": 63776
+    },
+    {
+      "match": "ndbKappa",
+      "image_id": 63454
+    },
+    {
+      "match": "ndbHY",
+      "image_id": 72697
+    },
+    {
+      "match": "ndbPE",
+      "image_id": 72698
+    },
+    {
+      "match": "ndbElo",
+      "image_id": 97441
+    },
+    {
+      "match": "ndbRator",
+      "image_id": 97275
+    },
+    {
+      "match": "ndbNoob",
+      "image_id": 97276
+    },
+    {
+      "match": "ndbMoney",
+      "image_id": 97277
+    }
+  ]
+}

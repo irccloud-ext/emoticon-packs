@@ -1,1 +1,39 @@
-{"name":"twitch-sub-inspekt0r","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"spekMax","image_id":13673},{"match":"spekCharlie","image_id":13632},{"match":"spekLove","image_id":13849},{"match":"spekLuna","image_id":14112},{"match":"spekNever","image_id":14164},{"match":"spekLewd","image_id":14231},{"match":"spekYuki","image_id":38160},{"match":"spekChunk","image_id":38157}]}
+{
+  "name": "twitch-sub-inspekt0r",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "spekMax",
+      "image_id": 13673
+    },
+    {
+      "match": "spekCharlie",
+      "image_id": 13632
+    },
+    {
+      "match": "spekLove",
+      "image_id": 13849
+    },
+    {
+      "match": "spekLuna",
+      "image_id": 14112
+    },
+    {
+      "match": "spekNever",
+      "image_id": 14164
+    },
+    {
+      "match": "spekLewd",
+      "image_id": 14231
+    },
+    {
+      "match": "spekYuki",
+      "image_id": 38160
+    },
+    {
+      "match": "spekChunk",
+      "image_id": 38157
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-rakyz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rakyzRIP","image_id":63592},{"match":"rakyzSwag","image_id":38432},{"match":"rakyzKappa","image_id":38988},{"match":"rakyzGasm","image_id":51531},{"match":"rakyzRage","image_id":63505},{"match":"rakyzHype","image_id":65314}]}
+{
+  "name": "twitch-sub-rakyz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rakyzRIP",
+      "image_id": 63592
+    },
+    {
+      "match": "rakyzSwag",
+      "image_id": 38432
+    },
+    {
+      "match": "rakyzKappa",
+      "image_id": 38988
+    },
+    {
+      "match": "rakyzGasm",
+      "image_id": 51531
+    },
+    {
+      "match": "rakyzRage",
+      "image_id": 63505
+    },
+    {
+      "match": "rakyzHype",
+      "image_id": 65314
+    }
+  ]
+}

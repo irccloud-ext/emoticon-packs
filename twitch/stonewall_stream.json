@@ -1,1 +1,31 @@
-{"name":"twitch-sub-stonewall_stream","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"stonewallBrick","image_id":2927},{"match":"stonewallSerious","image_id":3381},{"match":"stonewallGank","image_id":3382},{"match":"stonewallTactics","image_id":6503},{"match":"stonewallFail","image_id":6504},{"match":"stonewallOhGod","image_id":10538}]}
+{
+  "name": "twitch-sub-stonewall_stream",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "stonewallBrick",
+      "image_id": 2927
+    },
+    {
+      "match": "stonewallSerious",
+      "image_id": 3381
+    },
+    {
+      "match": "stonewallGank",
+      "image_id": 3382
+    },
+    {
+      "match": "stonewallTactics",
+      "image_id": 6503
+    },
+    {
+      "match": "stonewallFail",
+      "image_id": 6504
+    },
+    {
+      "match": "stonewallOhGod",
+      "image_id": 10538
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"name":"twitch-sub-addexio","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"adxSjokk","image_id":83949},{"match":"adxSint","image_id":83948},{"match":"adxGlad","image_id":83947}]}
+{
+  "name": "twitch-sub-addexio",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "adxSjokk",
+      "image_id": 83949
+    },
+    {
+      "match": "adxSint",
+      "image_id": 83948
+    },
+    {
+      "match": "adxGlad",
+      "image_id": 83947
+    }
+  ]
+}

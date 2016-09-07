@@ -1,1 +1,35 @@
-{"name":"twitch-sub-knekro_revenant","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"maninReveflash","image_id":46981},{"match":"maninManin","image_id":46982},{"match":"maninNeko","image_id":47299},{"match":"maninTumba","image_id":47300},{"match":"maninPaconi","image_id":47301},{"match":"maninTarja","image_id":47298},{"match":"maninMongolin","image_id":48156}]}
+{
+  "name": "twitch-sub-knekro_revenant",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "maninReveflash",
+      "image_id": 46981
+    },
+    {
+      "match": "maninManin",
+      "image_id": 46982
+    },
+    {
+      "match": "maninNeko",
+      "image_id": 47299
+    },
+    {
+      "match": "maninTumba",
+      "image_id": 47300
+    },
+    {
+      "match": "maninPaconi",
+      "image_id": 47301
+    },
+    {
+      "match": "maninTarja",
+      "image_id": 47298
+    },
+    {
+      "match": "maninMongolin",
+      "image_id": 48156
+    }
+  ]
+}

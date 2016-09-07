@@ -1,1 +1,51 @@
-{"name":"twitch-sub-robbanofficial","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"robbanTilt","image_id":52634},{"match":"robbanGun","image_id":47674},{"match":"robbanSauuaaa","image_id":47970},{"match":"robbanDoor","image_id":48554},{"match":"robbanBro","image_id":52186},{"match":"robbanDorp","image_id":52185},{"match":"robbanFail","image_id":54335},{"match":"robbanChamp","image_id":74955},{"match":"robbanEco","image_id":57291},{"match":"robbanRip","image_id":58387},{"match":"robbanPride","image_id":75262}]}
+{
+  "name": "twitch-sub-robbanofficial",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "robbanTilt",
+      "image_id": 52634
+    },
+    {
+      "match": "robbanGun",
+      "image_id": 47674
+    },
+    {
+      "match": "robbanSauuaaa",
+      "image_id": 47970
+    },
+    {
+      "match": "robbanDoor",
+      "image_id": 48554
+    },
+    {
+      "match": "robbanBro",
+      "image_id": 52186
+    },
+    {
+      "match": "robbanDorp",
+      "image_id": 52185
+    },
+    {
+      "match": "robbanFail",
+      "image_id": 54335
+    },
+    {
+      "match": "robbanChamp",
+      "image_id": 74955
+    },
+    {
+      "match": "robbanEco",
+      "image_id": 57291
+    },
+    {
+      "match": "robbanRip",
+      "image_id": 58387
+    },
+    {
+      "match": "robbanPride",
+      "image_id": 75262
+    }
+  ]
+}

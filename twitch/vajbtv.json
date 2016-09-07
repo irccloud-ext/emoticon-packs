@@ -1,1 +1,27 @@
-{"name":"twitch-sub-vajbtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vajbRage","image_id":102663},{"match":"vajbClench","image_id":102654},{"match":"vajbLub","image_id":97936},{"match":"vajbRIP","image_id":97935},{"match":"vajbHype","image_id":97934}]}
+{
+  "name": "twitch-sub-vajbtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vajbRage",
+      "image_id": 102663
+    },
+    {
+      "match": "vajbClench",
+      "image_id": 102654
+    },
+    {
+      "match": "vajbLub",
+      "image_id": 97936
+    },
+    {
+      "match": "vajbRIP",
+      "image_id": 97935
+    },
+    {
+      "match": "vajbHype",
+      "image_id": 97934
+    }
+  ]
+}

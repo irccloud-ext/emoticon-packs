@@ -1,1 +1,39 @@
-{"name":"twitch-sub-littlebearrr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bearGhost","image_id":38824},{"match":"bearTibbers","image_id":40584},{"match":"bearQueen","image_id":50320},{"match":"bearWave","image_id":74689},{"match":"bearQQ","image_id":74330},{"match":"bearLove","image_id":74332},{"match":"bearRage","image_id":74333},{"match":"bearGasm","image_id":111705}]}
+{
+  "name": "twitch-sub-littlebearrr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bearGhost",
+      "image_id": 38824
+    },
+    {
+      "match": "bearTibbers",
+      "image_id": 40584
+    },
+    {
+      "match": "bearQueen",
+      "image_id": 50320
+    },
+    {
+      "match": "bearWave",
+      "image_id": 74689
+    },
+    {
+      "match": "bearQQ",
+      "image_id": 74330
+    },
+    {
+      "match": "bearLove",
+      "image_id": 74332
+    },
+    {
+      "match": "bearRage",
+      "image_id": 74333
+    },
+    {
+      "match": "bearGasm",
+      "image_id": 111705
+    }
+  ]
+}

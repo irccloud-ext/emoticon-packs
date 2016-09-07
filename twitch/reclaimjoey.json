@@ -1,1 +1,39 @@
-{"name":"twitch-sub-reclaimjoey","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"joeyFail","image_id":33085},{"match":"joeyArmani","image_id":33084},{"match":"joeyAyyy","image_id":28413},{"match":"joeyFreddie","image_id":28487},{"match":"joeyHype","image_id":28489},{"match":"joeyFrappa","image_id":29029},{"match":"joeyCanoli","image_id":29129},{"match":"joeyMean","image_id":68428}]}
+{
+  "name": "twitch-sub-reclaimjoey",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "joeyFail",
+      "image_id": 33085
+    },
+    {
+      "match": "joeyArmani",
+      "image_id": 33084
+    },
+    {
+      "match": "joeyAyyy",
+      "image_id": 28413
+    },
+    {
+      "match": "joeyFreddie",
+      "image_id": 28487
+    },
+    {
+      "match": "joeyHype",
+      "image_id": 28489
+    },
+    {
+      "match": "joeyFrappa",
+      "image_id": 29029
+    },
+    {
+      "match": "joeyCanoli",
+      "image_id": 29129
+    },
+    {
+      "match": "joeyMean",
+      "image_id": 68428
+    }
+  ]
+}

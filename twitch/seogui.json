@@ -1,1 +1,11 @@
-{"name":"twitch-sub-seogui","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"undercitySgMurloc","image_id":110100},{"match":"undercityUnder","image_id":111522}]}
+{
+  "name": "twitch-sub-seogui",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "undercityTrophy",
+      "image_id": 112133
+    }
+  ]
+}

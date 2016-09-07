@@ -1,1 +1,39 @@
-{"name":"twitch-sub-hegemonytv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hegeBan","image_id":62035},{"match":"hegeWitch","image_id":10493},{"match":"hegeRip","image_id":10308},{"match":"hegeYovo","image_id":10292},{"match":"hegeHype","image_id":11562},{"match":"hegeKappa","image_id":23206},{"match":"hegeGasm","image_id":23209},{"match":"hegeRekt","image_id":60599}]}
+{
+  "name": "twitch-sub-hegemonytv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hegeBan",
+      "image_id": 62035
+    },
+    {
+      "match": "hegeWitch",
+      "image_id": 10493
+    },
+    {
+      "match": "hegeRip",
+      "image_id": 10308
+    },
+    {
+      "match": "hegeYovo",
+      "image_id": 10292
+    },
+    {
+      "match": "hegeHype",
+      "image_id": 11562
+    },
+    {
+      "match": "hegeKappa",
+      "image_id": 23206
+    },
+    {
+      "match": "hegeGasm",
+      "image_id": 23209
+    },
+    {
+      "match": "hegeRekt",
+      "image_id": 60599
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-zabius_wow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zabiRage","image_id":16602},{"match":"zabiGasm","image_id":16782},{"match":"zabiKappa","image_id":16285},{"match":"zabiHype","image_id":27136},{"match":"zabiEZPZ","image_id":27393},{"match":"zabiBrause","image_id":45799},{"match":"zabiRiot","image_id":46621},{"match":"zabiMoney","image_id":46646}]}
+{
+  "name": "twitch-sub-zabius_wow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zabiRage",
+      "image_id": 16602
+    },
+    {
+      "match": "zabiGasm",
+      "image_id": 16782
+    },
+    {
+      "match": "zabiKappa",
+      "image_id": 16285
+    },
+    {
+      "match": "zabiHype",
+      "image_id": 27136
+    },
+    {
+      "match": "zabiEZPZ",
+      "image_id": 27393
+    },
+    {
+      "match": "zabiBrause",
+      "image_id": 45799
+    },
+    {
+      "match": "zabiRiot",
+      "image_id": 46621
+    },
+    {
+      "match": "zabiMoney",
+      "image_id": 46646
+    }
+  ]
+}

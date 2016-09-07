@@ -1,1 +1,15 @@
-{"name":"twitch-sub-xuriluri","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xuriLuri","image_id":18766},{"match":"xuriAOO","image_id":18752}]}
+{
+  "name": "twitch-sub-xuriluri",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xuriLuri",
+      "image_id": 18766
+    },
+    {
+      "match": "xuriAOO",
+      "image_id": 18752
+    }
+  ]
+}

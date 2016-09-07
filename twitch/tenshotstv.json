@@ -1,1 +1,31 @@
-{"name":"twitch-sub-tenshotstv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tenKapple","image_id":8389},{"match":"tenSpike","image_id":15264},{"match":"tenGu","image_id":15361},{"match":"tenKid","image_id":28179},{"match":"tenLove","image_id":35883},{"match":"tenDan","image_id":35938}]}
+{
+  "name": "twitch-sub-tenshotstv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tenKapple",
+      "image_id": 8389
+    },
+    {
+      "match": "tenSpike",
+      "image_id": 15264
+    },
+    {
+      "match": "tenGu",
+      "image_id": 15361
+    },
+    {
+      "match": "tenKid",
+      "image_id": 28179
+    },
+    {
+      "match": "tenLove",
+      "image_id": 35883
+    },
+    {
+      "match": "tenDan",
+      "image_id": 35938
+    }
+  ]
+}

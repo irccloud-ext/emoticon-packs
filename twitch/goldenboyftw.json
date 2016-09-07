@@ -1,1 +1,31 @@
-{"name":"twitch-sub-goldenboyftw","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ftwHype","image_id":84330},{"match":"ftwGoldFace","image_id":31654},{"match":"ftwYes","image_id":83925},{"match":"ftwBean","image_id":83757},{"match":"ftwLove","image_id":83758},{"match":"ftwShade","image_id":84328}]}
+{
+  "name": "twitch-sub-goldenboyftw",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ftwHype",
+      "image_id": 84330
+    },
+    {
+      "match": "ftwGoldFace",
+      "image_id": 31654
+    },
+    {
+      "match": "ftwYes",
+      "image_id": 83925
+    },
+    {
+      "match": "ftwBean",
+      "image_id": 83757
+    },
+    {
+      "match": "ftwLove",
+      "image_id": 83758
+    },
+    {
+      "match": "ftwShade",
+      "image_id": 84328
+    }
+  ]
+}

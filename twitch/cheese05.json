@@ -1,1 +1,39 @@
-{"name":"twitch-sub-cheese05","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"chesBabe","image_id":100429},{"match":"chesFridge","image_id":46337},{"match":"chesMOM","image_id":45954},{"match":"chesHi","image_id":49988},{"match":"chesKiss","image_id":64823},{"match":"chesHeart","image_id":66132},{"match":"chesDerp","image_id":69175},{"match":"chesSly","image_id":67715}]}
+{
+  "name": "twitch-sub-cheese05",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "chesBabe",
+      "image_id": 100429
+    },
+    {
+      "match": "chesFridge",
+      "image_id": 46337
+    },
+    {
+      "match": "chesMOM",
+      "image_id": 45954
+    },
+    {
+      "match": "chesHi",
+      "image_id": 49988
+    },
+    {
+      "match": "chesKiss",
+      "image_id": 64823
+    },
+    {
+      "match": "chesHeart",
+      "image_id": 66132
+    },
+    {
+      "match": "chesDerp",
+      "image_id": 69175
+    },
+    {
+      "match": "chesSly",
+      "image_id": 67715
+    }
+  ]
+}

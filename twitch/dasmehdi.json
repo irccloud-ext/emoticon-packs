@@ -1,1 +1,67 @@
-{"name":"twitch-sub-dasmehdi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mehdiRAVE","image_id":51741},{"match":"mehdiH","image_id":75958},{"match":"mehdiABORT","image_id":51759},{"match":"mehdiFAIL","image_id":51855},{"match":"mehdiR","image_id":71795},{"match":"mehdiLAPPA","image_id":58965},{"match":"mehdiHYPE","image_id":56812},{"match":"mehdiUH","image_id":58263},{"match":"mehdiFEELS","image_id":60310},{"match":"mehdiA","image_id":70189},{"match":"mehdiGASM","image_id":78335},{"match":"mehdiO","image_id":79836},{"match":"mehdiW","image_id":100468},{"match":"mehdi21","image_id":100454},{"match":"mehdiLUL","image_id":100391}]}
+{
+  "name": "twitch-sub-dasmehdi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mehdiRAVE",
+      "image_id": 51741
+    },
+    {
+      "match": "mehdiH",
+      "image_id": 75958
+    },
+    {
+      "match": "mehdiABORT",
+      "image_id": 51759
+    },
+    {
+      "match": "mehdiFAIL",
+      "image_id": 51855
+    },
+    {
+      "match": "mehdiR",
+      "image_id": 71795
+    },
+    {
+      "match": "mehdiLAPPA",
+      "image_id": 58965
+    },
+    {
+      "match": "mehdiHYPE",
+      "image_id": 56812
+    },
+    {
+      "match": "mehdiUH",
+      "image_id": 58263
+    },
+    {
+      "match": "mehdiFEELS",
+      "image_id": 60310
+    },
+    {
+      "match": "mehdiA",
+      "image_id": 70189
+    },
+    {
+      "match": "mehdiGASM",
+      "image_id": 78335
+    },
+    {
+      "match": "mehdiO",
+      "image_id": 79836
+    },
+    {
+      "match": "mehdiW",
+      "image_id": 100468
+    },
+    {
+      "match": "mehdi21",
+      "image_id": 100454
+    },
+    {
+      "match": "mehdiLUL",
+      "image_id": 100391
+    }
+  ]
+}

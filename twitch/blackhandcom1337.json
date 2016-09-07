@@ -1,1 +1,23 @@
-{"name":"twitch-sub-blackhandcom1337","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bhcKing","image_id":75946},{"match":"bhcEvil","image_id":75982},{"match":"bhcImmer","image_id":75983},{"match":"bhcCaps","image_id":83119}]}
+{
+  "name": "twitch-sub-blackhandcom1337",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bhcKing",
+      "image_id": 75946
+    },
+    {
+      "match": "bhcEvil",
+      "image_id": 75982
+    },
+    {
+      "match": "bhcImmer",
+      "image_id": 75983
+    },
+    {
+      "match": "bhcCaps",
+      "image_id": 83119
+    }
+  ]
+}

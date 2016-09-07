@@ -1,1 +1,23 @@
-{"name":"twitch-sub-assarii","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"assariloveNoob","image_id":98610},{"match":"assariloveHype","image_id":98609},{"match":"assariloveHovno","image_id":107572},{"match":"assariloveRip","image_id":107573}]}
+{
+  "name": "twitch-sub-assarii",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "assariloveNoob",
+      "image_id": 98610
+    },
+    {
+      "match": "assariloveHype",
+      "image_id": 98609
+    },
+    {
+      "match": "assariloveHovno",
+      "image_id": 107572
+    },
+    {
+      "match": "assariloveRip",
+      "image_id": 107573
+    }
+  ]
+}

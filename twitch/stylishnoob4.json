@@ -1,1 +1,23 @@
-{"name":"twitch-sub-stylishnoob4","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sekiDST","image_id":61812},{"match":"sekiYRO","image_id":62136},{"match":"sekiGNR","image_id":84017},{"match":"sekiDVA","image_id":108127}]}
+{
+  "name": "twitch-sub-stylishnoob4",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sekiDST",
+      "image_id": 61812
+    },
+    {
+      "match": "sekiYRO",
+      "image_id": 62136
+    },
+    {
+      "match": "sekiGNR",
+      "image_id": 84017
+    },
+    {
+      "match": "sekiDVA",
+      "image_id": 108127
+    }
+  ]
+}

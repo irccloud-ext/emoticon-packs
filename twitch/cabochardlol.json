@@ -1,1 +1,39 @@
-{"name":"twitch-sub-cabochardlol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cabo123","image_id":67059},{"match":"caboDarien","image_id":70337},{"match":"caboSwag","image_id":66971},{"match":"caboCabane","image_id":66965},{"match":"caboW","image_id":67063},{"match":"caboDabra","image_id":67061},{"match":"caboWesh","image_id":71509},{"match":"caboLove","image_id":71502}]}
+{
+  "name": "twitch-sub-cabochardlol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cabo123",
+      "image_id": 67059
+    },
+    {
+      "match": "caboDarien",
+      "image_id": 70337
+    },
+    {
+      "match": "caboSwag",
+      "image_id": 66971
+    },
+    {
+      "match": "caboCabane",
+      "image_id": 66965
+    },
+    {
+      "match": "caboW",
+      "image_id": 67063
+    },
+    {
+      "match": "caboDabra",
+      "image_id": 67061
+    },
+    {
+      "match": "caboWesh",
+      "image_id": 71509
+    },
+    {
+      "match": "caboLove",
+      "image_id": 71502
+    }
+  ]
+}

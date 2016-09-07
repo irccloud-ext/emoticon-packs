@@ -1,1 +1,47 @@
-{"name":"twitch-sub-monotonetim","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"timGuest420","image_id":1043},{"match":"timBBQQT","image_id":1063},{"match":"timNotfound","image_id":17709},{"match":"timMrBones","image_id":17912},{"match":"timOh","image_id":17918},{"match":"timDinero","image_id":18028},{"match":"timFace","image_id":70129},{"match":"timOx","image_id":46697},{"match":"timWagon","image_id":46698},{"match":"timNofun","image_id":46684}]}
+{
+  "name": "twitch-sub-monotonetim",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "timGuest420",
+      "image_id": 1043
+    },
+    {
+      "match": "timBBQQT",
+      "image_id": 1063
+    },
+    {
+      "match": "timNotfound",
+      "image_id": 17709
+    },
+    {
+      "match": "timMrBones",
+      "image_id": 17912
+    },
+    {
+      "match": "timOh",
+      "image_id": 17918
+    },
+    {
+      "match": "timDinero",
+      "image_id": 18028
+    },
+    {
+      "match": "timFace",
+      "image_id": 70129
+    },
+    {
+      "match": "timOx",
+      "image_id": 46697
+    },
+    {
+      "match": "timWagon",
+      "image_id": 46698
+    },
+    {
+      "match": "timNofun",
+      "image_id": 46684
+    }
+  ]
+}

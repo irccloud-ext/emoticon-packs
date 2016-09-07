@@ -1,1 +1,39 @@
-{"name":"twitch-sub-themarkyb","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"markybAngry","image_id":14649},{"match":"markybKappa","image_id":81589},{"match":"markybTroll","image_id":9810},{"match":"markybInfused","image_id":79171},{"match":"markybLogo","image_id":81857},{"match":"markybLove","image_id":81854},{"match":"markybSteakd","image_id":82884},{"match":"markybSubHype","image_id":82454}]}
+{
+  "name": "twitch-sub-themarkyb",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "markybAngry",
+      "image_id": 14649
+    },
+    {
+      "match": "markybKappa",
+      "image_id": 81589
+    },
+    {
+      "match": "markybTroll",
+      "image_id": 9810
+    },
+    {
+      "match": "markybInfused",
+      "image_id": 79171
+    },
+    {
+      "match": "markybLogo",
+      "image_id": 81857
+    },
+    {
+      "match": "markybLove",
+      "image_id": 81854
+    },
+    {
+      "match": "markybSteakd",
+      "image_id": 82884
+    },
+    {
+      "match": "markybSubHype",
+      "image_id": 82454
+    }
+  ]
+}

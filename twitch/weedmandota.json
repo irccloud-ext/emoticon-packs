@@ -1,1 +1,23 @@
-{"name":"twitch-sub-weedmandota","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wmdFace","image_id":9788},{"match":"wmdPipe","image_id":11830},{"match":"wmdHook","image_id":19980},{"match":"wmdLeaf","image_id":21952}]}
+{
+  "name": "twitch-sub-weedmandota",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wmdFace",
+      "image_id": 9788
+    },
+    {
+      "match": "wmdPipe",
+      "image_id": 11830
+    },
+    {
+      "match": "wmdHook",
+      "image_id": 19980
+    },
+    {
+      "match": "wmdLeaf",
+      "image_id": 21952
+    }
+  ]
+}

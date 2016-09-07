@@ -1,1 +1,31 @@
-{"name":"twitch-sub-lufflee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"luffleeKalp","image_id":49690},{"match":"luffleeBoh","image_id":49625},{"match":"luffleeKappa","image_id":56873},{"match":"luffleeLol","image_id":56698},{"match":"luffleeOmg","image_id":69644},{"match":"luffleeHype","image_id":78884}]}
+{
+  "name": "twitch-sub-lufflee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "luffleeKalp",
+      "image_id": 49690
+    },
+    {
+      "match": "luffleeBoh",
+      "image_id": 49625
+    },
+    {
+      "match": "luffleeKappa",
+      "image_id": 56873
+    },
+    {
+      "match": "luffleeLol",
+      "image_id": 56698
+    },
+    {
+      "match": "luffleeOmg",
+      "image_id": 69644
+    },
+    {
+      "match": "luffleeHype",
+      "image_id": 78884
+    }
+  ]
+}

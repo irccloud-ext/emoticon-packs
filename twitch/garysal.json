@@ -1,1 +1,27 @@
-{"name":"twitch-sub-garysal","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"garysalR","image_id":47893},{"match":"garysalA","image_id":47892},{"match":"garysalH","image_id":47895},{"match":"garysalGoon","image_id":30346},{"match":"garysalFace","image_id":31113}]}
+{
+  "name": "twitch-sub-garysal",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "garysalR",
+      "image_id": 47893
+    },
+    {
+      "match": "garysalA",
+      "image_id": 47892
+    },
+    {
+      "match": "garysalH",
+      "image_id": 47895
+    },
+    {
+      "match": "garysalGoon",
+      "image_id": 30346
+    },
+    {
+      "match": "garysalFace",
+      "image_id": 31113
+    }
+  ]
+}

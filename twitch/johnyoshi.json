@@ -1,1 +1,31 @@
-{"name":"twitch-sub-johnyoshi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yoshiTrophy","image_id":13758},{"match":"yoshiBible","image_id":13759},{"match":"yoshiHype","image_id":13851},{"match":"yoshiChoke","image_id":13880},{"match":"yoshiFlex","image_id":13878},{"match":"yoshiMoney","image_id":14126}]}
+{
+  "name": "twitch-sub-johnyoshi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yoshiTrophy",
+      "image_id": 13758
+    },
+    {
+      "match": "yoshiBible",
+      "image_id": 13759
+    },
+    {
+      "match": "yoshiHype",
+      "image_id": 13851
+    },
+    {
+      "match": "yoshiChoke",
+      "image_id": 13880
+    },
+    {
+      "match": "yoshiFlex",
+      "image_id": 13878
+    },
+    {
+      "match": "yoshiMoney",
+      "image_id": 14126
+    }
+  ]
+}

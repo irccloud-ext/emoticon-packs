@@ -1,1 +1,39 @@
-{"name":"twitch-sub-m0m0hd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"m0m0RIP","image_id":81118},{"match":"m0m0Poop","image_id":102216},{"match":"m0m0WTF","image_id":80269},{"match":"m0m0Hey","image_id":83164},{"match":"m0m0Swag","image_id":86769},{"match":"m0m0Gasm","image_id":98122},{"match":"m0m0Love","image_id":100216},{"match":"m0m0Sad","image_id":105050}]}
+{
+  "name": "twitch-sub-m0m0hd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "m0m0RIP",
+      "image_id": 81118
+    },
+    {
+      "match": "m0m0Poop",
+      "image_id": 102216
+    },
+    {
+      "match": "m0m0WTF",
+      "image_id": 80269
+    },
+    {
+      "match": "m0m0Hey",
+      "image_id": 83164
+    },
+    {
+      "match": "m0m0Swag",
+      "image_id": 86769
+    },
+    {
+      "match": "m0m0Gasm",
+      "image_id": 98122
+    },
+    {
+      "match": "m0m0Love",
+      "image_id": 100216
+    },
+    {
+      "match": "m0m0Sad",
+      "image_id": 105050
+    }
+  ]
+}

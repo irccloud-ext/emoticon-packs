@@ -1,1 +1,23 @@
-{"name":"twitch-sub-lamabaerlol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lamabWow","image_id":71228},{"match":"lamabTroll","image_id":71341},{"match":"lamabCuteling","image_id":96966},{"match":"lamabEar","image_id":97305}]}
+{
+  "name": "twitch-sub-lamabaerlol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lamabWow",
+      "image_id": 71228
+    },
+    {
+      "match": "lamabTroll",
+      "image_id": 71341
+    },
+    {
+      "match": "lamabCuteling",
+      "image_id": 96966
+    },
+    {
+      "match": "lamabEar",
+      "image_id": 97305
+    }
+  ]
+}

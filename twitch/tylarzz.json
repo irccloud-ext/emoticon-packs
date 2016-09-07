@@ -1,1 +1,23 @@
-{"name":"twitch-sub-tylarzz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"larzzStory","image_id":96911},{"match":"larzzClipped","image_id":75996},{"match":"larzzHype","image_id":96315},{"match":"larzzCombo","image_id":96316}]}
+{
+  "name": "twitch-sub-tylarzz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "larzzStory",
+      "image_id": 96911
+    },
+    {
+      "match": "larzzClipped",
+      "image_id": 75996
+    },
+    {
+      "match": "larzzHype",
+      "image_id": 96315
+    },
+    {
+      "match": "larzzCombo",
+      "image_id": 96316
+    }
+  ]
+}

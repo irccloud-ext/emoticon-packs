@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mrnikkihdtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nkkKenny","image_id":49119},{"match":"nkkHype","image_id":49118},{"match":"nkkSlap","image_id":48718},{"match":"nkkGod","image_id":48717},{"match":"nkkRip","image_id":48716},{"match":"nkkWelcome","image_id":48715}]}
+{
+  "name": "twitch-sub-mrnikkihdtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nkkKenny",
+      "image_id": 49119
+    },
+    {
+      "match": "nkkHype",
+      "image_id": 49118
+    },
+    {
+      "match": "nkkSlap",
+      "image_id": 48718
+    },
+    {
+      "match": "nkkGod",
+      "image_id": 48717
+    },
+    {
+      "match": "nkkRip",
+      "image_id": 48716
+    },
+    {
+      "match": "nkkWelcome",
+      "image_id": 48715
+    }
+  ]
+}

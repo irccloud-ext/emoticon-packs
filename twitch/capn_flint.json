@@ -1,1 +1,39 @@
-{"name":"twitch-sub-capn_flint","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"capnHype","image_id":81534},{"match":"capnBooty","image_id":81533},{"match":"capnFeels","image_id":81532},{"match":"capnLove","image_id":81531},{"match":"capnYarr","image_id":81530},{"match":"capnHi","image_id":81912},{"match":"capnRIP","image_id":82110},{"match":"capnChamp","image_id":101941}]}
+{
+  "name": "twitch-sub-capn_flint",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "capnHype",
+      "image_id": 81534
+    },
+    {
+      "match": "capnBooty",
+      "image_id": 81533
+    },
+    {
+      "match": "capnFeels",
+      "image_id": 81532
+    },
+    {
+      "match": "capnLove",
+      "image_id": 81531
+    },
+    {
+      "match": "capnYarr",
+      "image_id": 81530
+    },
+    {
+      "match": "capnHi",
+      "image_id": 81912
+    },
+    {
+      "match": "capnRIP",
+      "image_id": 82110
+    },
+    {
+      "match": "capnChamp",
+      "image_id": 101941
+    }
+  ]
+}

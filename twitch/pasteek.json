@@ -1,1 +1,15 @@
-{"name":"twitch-sub-pasteek","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pasteekStyle","image_id":90680},{"match":"pasteekBackPack","image_id":101584}]}
+{
+  "name": "twitch-sub-pasteek",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pasteekStyle",
+      "image_id": 90680
+    },
+    {
+      "match": "pasteekBackPack",
+      "image_id": 101584
+    }
+  ]
+}

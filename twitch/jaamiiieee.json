@@ -1,1 +1,39 @@
-{"name":"twitch-sub-jaamiiieee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jmeTroll","image_id":62931},{"match":"jmeLove","image_id":64261},{"match":"jmeHello","image_id":63439},{"match":"jmeHype","image_id":63438},{"match":"jmeSad","image_id":63435},{"match":"jmeFail","image_id":86922},{"match":"jmeGasm","image_id":92097},{"match":"jmeCringe","image_id":92098}]}
+{
+  "name": "twitch-sub-jaamiiieee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jmeTroll",
+      "image_id": 62931
+    },
+    {
+      "match": "jmeLove",
+      "image_id": 64261
+    },
+    {
+      "match": "jmeHello",
+      "image_id": 63439
+    },
+    {
+      "match": "jmeHype",
+      "image_id": 63438
+    },
+    {
+      "match": "jmeSad",
+      "image_id": 63435
+    },
+    {
+      "match": "jmeFail",
+      "image_id": 86922
+    },
+    {
+      "match": "jmeGasm",
+      "image_id": 92097
+    },
+    {
+      "match": "jmeCringe",
+      "image_id": 92098
+    }
+  ]
+}

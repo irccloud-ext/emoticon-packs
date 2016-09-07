@@ -1,1 +1,23 @@
-{"name":"twitch-sub-faye14","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fayeOwl","image_id":69052},{"match":"fayeHeart","image_id":91032},{"match":"fayeWah","image_id":95154},{"match":"fayeChill","image_id":95156}]}
+{
+  "name": "twitch-sub-faye14",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fayeOwl",
+      "image_id": 69052
+    },
+    {
+      "match": "fayeHeart",
+      "image_id": 91032
+    },
+    {
+      "match": "fayeWah",
+      "image_id": 95154
+    },
+    {
+      "match": "fayeChill",
+      "image_id": 95156
+    }
+  ]
+}

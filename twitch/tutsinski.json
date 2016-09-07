@@ -1,1 +1,31 @@
-{"name":"twitch-sub-tutsinski","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tutsiGG","image_id":25374},{"match":"tutsiSELLOUT","image_id":37796},{"match":"tutsiCHOKE","image_id":41870},{"match":"tutsiSILVER","image_id":41860},{"match":"tutsiRIP","image_id":41861},{"match":"tutsiCARRYAD","image_id":41862}]}
+{
+  "name": "twitch-sub-tutsinski",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tutsiGG",
+      "image_id": 25374
+    },
+    {
+      "match": "tutsiSELLOUT",
+      "image_id": 37796
+    },
+    {
+      "match": "tutsiCHOKE",
+      "image_id": 41870
+    },
+    {
+      "match": "tutsiSILVER",
+      "image_id": 41860
+    },
+    {
+      "match": "tutsiRIP",
+      "image_id": 41861
+    },
+    {
+      "match": "tutsiCARRYAD",
+      "image_id": 41862
+    }
+  ]
+}

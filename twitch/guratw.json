@@ -1,1 +1,39 @@
-{"name":"twitch-sub-guratw","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"2323Wow","image_id":5580},{"match":"2323Me","image_id":6773},{"match":"2323Tea","image_id":15875},{"match":"2323Loser","image_id":25815},{"match":"2323SIngle","image_id":25601},{"match":"232369","image_id":111159},{"match":"2323Pao","image_id":111160},{"match":"2323What","image_id":111161}]}
+{
+  "name": "twitch-sub-guratw",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "2323Wow",
+      "image_id": 5580
+    },
+    {
+      "match": "2323Me",
+      "image_id": 6773
+    },
+    {
+      "match": "2323Tea",
+      "image_id": 15875
+    },
+    {
+      "match": "2323Loser",
+      "image_id": 25815
+    },
+    {
+      "match": "2323SIngle",
+      "image_id": 25601
+    },
+    {
+      "match": "232369",
+      "image_id": 111159
+    },
+    {
+      "match": "2323Pao",
+      "image_id": 111160
+    },
+    {
+      "match": "2323What",
+      "image_id": 111161
+    }
+  ]
+}

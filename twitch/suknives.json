@@ -1,1 +1,47 @@
-{"name":"twitch-sub-suknives","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sukTroll","image_id":15825},{"match":"sukDab","image_id":110545},{"match":"sukCash","image_id":110540},{"match":"sukRIP","image_id":58851},{"match":"sukFam","image_id":97168},{"match":"sukHype","image_id":97063},{"match":"sukStare","image_id":110547},{"match":"sukMeme","image_id":110694},{"match":"sukY","image_id":110640},{"match":"sukHi","image_id":110774}]}
+{
+  "name": "twitch-sub-suknives",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sukTroll",
+      "image_id": 15825
+    },
+    {
+      "match": "sukDab",
+      "image_id": 110545
+    },
+    {
+      "match": "sukCash",
+      "image_id": 110540
+    },
+    {
+      "match": "sukRIP",
+      "image_id": 58851
+    },
+    {
+      "match": "sukFam",
+      "image_id": 97168
+    },
+    {
+      "match": "sukHype",
+      "image_id": 97063
+    },
+    {
+      "match": "sukStare",
+      "image_id": 110547
+    },
+    {
+      "match": "sukMeme",
+      "image_id": 110694
+    },
+    {
+      "match": "sukY",
+      "image_id": 110640
+    },
+    {
+      "match": "sukHi",
+      "image_id": 110774
+    }
+  ]
+}

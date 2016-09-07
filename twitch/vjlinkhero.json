@@ -1,1 +1,39 @@
-{"name":"twitch-sub-vjlinkhero","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"topEblo","image_id":17578},{"match":"topLico","image_id":17582},{"match":"topTrash","image_id":19037},{"match":"topMoto","image_id":19039},{"match":"topMoney","image_id":37984},{"match":"topSexyboys","image_id":28680},{"match":"topFace","image_id":29243},{"match":"topDudos","image_id":35113}]}
+{
+  "name": "twitch-sub-vjlinkhero",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "topEblo",
+      "image_id": 17578
+    },
+    {
+      "match": "topLico",
+      "image_id": 17582
+    },
+    {
+      "match": "topTrash",
+      "image_id": 19037
+    },
+    {
+      "match": "topMoto",
+      "image_id": 19039
+    },
+    {
+      "match": "topMoney",
+      "image_id": 37984
+    },
+    {
+      "match": "topSexyboys",
+      "image_id": 28680
+    },
+    {
+      "match": "topFace",
+      "image_id": 29243
+    },
+    {
+      "match": "topDudos",
+      "image_id": 35113
+    }
+  ]
+}

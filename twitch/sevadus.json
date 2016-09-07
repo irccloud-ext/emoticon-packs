@@ -1,1 +1,55 @@
-{"name":"twitch-sub-sevadus","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sevAwwYeah","image_id":198},{"match":"sevDatOJ","image_id":417},{"match":"sevOtterBro","image_id":419},{"match":"sevDeerLord","image_id":724},{"match":"sevWhaleCum","image_id":8921},{"match":"sevDive","image_id":8920},{"match":"sevMC","image_id":19076},{"match":"sevDeerRage","image_id":20075},{"match":"sevGuess","image_id":33394},{"match":"sevRekt","image_id":33395},{"match":"sevDayum","image_id":33396},{"match":"sevRage","image_id":33397}]}
+{
+  "name": "twitch-sub-sevadus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sevAwwYeah",
+      "image_id": 198
+    },
+    {
+      "match": "sevDatOJ",
+      "image_id": 417
+    },
+    {
+      "match": "sevOtterBro",
+      "image_id": 419
+    },
+    {
+      "match": "sevDeerLord",
+      "image_id": 724
+    },
+    {
+      "match": "sevWhaleCum",
+      "image_id": 8921
+    },
+    {
+      "match": "sevDive",
+      "image_id": 8920
+    },
+    {
+      "match": "sevMC",
+      "image_id": 19076
+    },
+    {
+      "match": "sevDeerRage",
+      "image_id": 20075
+    },
+    {
+      "match": "sevGuess",
+      "image_id": 33394
+    },
+    {
+      "match": "sevRekt",
+      "image_id": 33395
+    },
+    {
+      "match": "sevDayum",
+      "image_id": 33396
+    },
+    {
+      "match": "sevRage",
+      "image_id": 33397
+    }
+  ]
+}

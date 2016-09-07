@@ -1,1 +1,35 @@
-{"name":"twitch-sub-htomario","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"htoKappa","image_id":75839},{"match":"htoUltra","image_id":75789},{"match":"htoGJ","image_id":87879},{"match":"htoCrap","image_id":87878},{"match":"htoFighting","image_id":87877},{"match":"htoRekt","image_id":79198},{"match":"htoGG","image_id":78040}]}
+{
+  "name": "twitch-sub-htomario",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "htoKappa",
+      "image_id": 75839
+    },
+    {
+      "match": "htoUltra",
+      "image_id": 75789
+    },
+    {
+      "match": "htoGJ",
+      "image_id": 87879
+    },
+    {
+      "match": "htoCrap",
+      "image_id": 87878
+    },
+    {
+      "match": "htoFighting",
+      "image_id": 87877
+    },
+    {
+      "match": "htoRekt",
+      "image_id": 79198
+    },
+    {
+      "match": "htoGG",
+      "image_id": 78040
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"name":"twitch-sub-jacky132qqq","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"darkturHamu","image_id":69208},{"match":"darkturBadmouse","image_id":71249},{"match":"darkturPusheen","image_id":69207}]}
+{
+  "name": "twitch-sub-jacky132qqq",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "darkturHamu",
+      "image_id": 69208
+    },
+    {
+      "match": "darkturBadmouse",
+      "image_id": 71249
+    },
+    {
+      "match": "darkturPusheen",
+      "image_id": 69207
+    }
+  ]
+}

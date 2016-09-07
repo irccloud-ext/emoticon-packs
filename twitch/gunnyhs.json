@@ -1,1 +1,31 @@
-{"name":"twitch-sub-gunnyhs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gunnyGgg","image_id":19916},{"match":"gunnyBear","image_id":19917},{"match":"gunnyHype","image_id":32107},{"match":"gunnyFace","image_id":32106},{"match":"gunnyKappa","image_id":85506},{"match":"gunnyRage","image_id":85406}]}
+{
+  "name": "twitch-sub-gunnyhs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gunnyGgg",
+      "image_id": 19916
+    },
+    {
+      "match": "gunnyBear",
+      "image_id": 19917
+    },
+    {
+      "match": "gunnyHype",
+      "image_id": 32107
+    },
+    {
+      "match": "gunnyFace",
+      "image_id": 32106
+    },
+    {
+      "match": "gunnyKappa",
+      "image_id": 85506
+    },
+    {
+      "match": "gunnyRage",
+      "image_id": 85406
+    }
+  ]
+}

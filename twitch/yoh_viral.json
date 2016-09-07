@@ -1,1 +1,15 @@
-{"name":"twitch-sub-yoh_viral","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cagouleLecagoule","image_id":88490},{"match":"cagouleTeamgh","image_id":88491}]}
+{
+  "name": "twitch-sub-yoh_viral",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cagouleLecagoule",
+      "image_id": 88490
+    },
+    {
+      "match": "cagouleTeamgh",
+      "image_id": 88491
+    }
+  ]
+}

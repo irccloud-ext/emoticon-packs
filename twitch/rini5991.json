@@ -1,1 +1,39 @@
-{"name":"twitch-sub-rini5991","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"riniGRR","image_id":62029},{"match":"riniHYPE","image_id":83843},{"match":"riniHOLY","image_id":63169},{"match":"riniDAMN","image_id":80607},{"match":"riniCOW","image_id":80614},{"match":"riniSLOTH","image_id":80880},{"match":"riniCREEP","image_id":95274},{"match":"riniSMIOE","image_id":95275}]}
+{
+  "name": "twitch-sub-rini5991",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "riniGRR",
+      "image_id": 62029
+    },
+    {
+      "match": "riniHYPE",
+      "image_id": 83843
+    },
+    {
+      "match": "riniHOLY",
+      "image_id": 63169
+    },
+    {
+      "match": "riniDAMN",
+      "image_id": 80607
+    },
+    {
+      "match": "riniCOW",
+      "image_id": 80614
+    },
+    {
+      "match": "riniSLOTH",
+      "image_id": 80880
+    },
+    {
+      "match": "riniCREEP",
+      "image_id": 95274
+    },
+    {
+      "match": "riniSMIOE",
+      "image_id": 95275
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-mitsuownes","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mitsMop","image_id":77129},{"match":"mitsGoro","image_id":107703}]}
+{
+  "name": "twitch-sub-mitsuownes",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mitsMop",
+      "image_id": 77129
+    },
+    {
+      "match": "mitsGoro",
+      "image_id": 107703
+    }
+  ]
+}

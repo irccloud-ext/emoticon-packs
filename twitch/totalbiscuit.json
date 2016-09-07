@@ -1,1 +1,147 @@
-{"name":"twitch-sub-totalbiscuit","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cynicalScandal","image_id":6450},{"match":"cynicalAndmyax","image_id":6469},{"match":"cynicalThuglife","image_id":7472},{"match":"cynicalSmug","image_id":17376},{"match":"cynicalFacepalm","image_id":23307},{"match":"cynicalArchmage","image_id":23310},{"match":"cynicalKnocks","image_id":23311},{"match":"cynicalTreadmill","image_id":59198},{"match":"cynicalFPS","image_id":59197},{"match":"cynicalBunny","image_id":60038},{"match":"cynicalWeasel","image_id":38346},{"match":"cynicalOhgodwhy","image_id":48157},{"match":"cynicalSalt","image_id":88734},{"match":"cynicalGoose","image_id":88737},{"match":"cynicalCynical","image_id":59777},{"match":"cynicalPolice","image_id":59778},{"match":"cynicalDevil","image_id":59779},{"match":"cynicalNerd","image_id":59780},{"match":"cynicalPimp","image_id":59781},{"match":"cynicalMyeyes","image_id":59782},{"match":"cynicalEyes","image_id":59693},{"match":"cynicalPrincess","image_id":59694},{"match":"cynicalWTF","image_id":59695},{"match":"cynicalHydra","image_id":59696},{"match":"cynicalDoge","image_id":59697},{"match":"cynicalGeneral","image_id":59698},{"match":"cynicalUltraviolence","image_id":59699},{"match":"cynicalSwede","image_id":88736},{"match":"cynicalStupidcat","image_id":88735},{"match":"cynicalLawyer","image_id":88733},{"match":"cynicalBRO","image_id":68279},{"match":"cynicalAward","image_id":76691},{"match":"cynicalInnocent","image_id":83594},{"match":"cynicalAnimebs","image_id":103377},{"match":"cynicalUL","image_id":109958}]}
+{
+  "name": "twitch-sub-totalbiscuit",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cynicalScandal",
+      "image_id": 6450
+    },
+    {
+      "match": "cynicalAndmyax",
+      "image_id": 6469
+    },
+    {
+      "match": "cynicalThuglife",
+      "image_id": 7472
+    },
+    {
+      "match": "cynicalSmug",
+      "image_id": 17376
+    },
+    {
+      "match": "cynicalFacepalm",
+      "image_id": 23307
+    },
+    {
+      "match": "cynicalArchmage",
+      "image_id": 23310
+    },
+    {
+      "match": "cynicalKnocks",
+      "image_id": 23311
+    },
+    {
+      "match": "cynicalTreadmill",
+      "image_id": 59198
+    },
+    {
+      "match": "cynicalFPS",
+      "image_id": 59197
+    },
+    {
+      "match": "cynicalBunny",
+      "image_id": 60038
+    },
+    {
+      "match": "cynicalWeasel",
+      "image_id": 38346
+    },
+    {
+      "match": "cynicalOhgodwhy",
+      "image_id": 48157
+    },
+    {
+      "match": "cynicalSalt",
+      "image_id": 88734
+    },
+    {
+      "match": "cynicalGoose",
+      "image_id": 88737
+    },
+    {
+      "match": "cynicalCynical",
+      "image_id": 59777
+    },
+    {
+      "match": "cynicalPolice",
+      "image_id": 59778
+    },
+    {
+      "match": "cynicalDevil",
+      "image_id": 59779
+    },
+    {
+      "match": "cynicalNerd",
+      "image_id": 59780
+    },
+    {
+      "match": "cynicalPimp",
+      "image_id": 59781
+    },
+    {
+      "match": "cynicalMyeyes",
+      "image_id": 59782
+    },
+    {
+      "match": "cynicalEyes",
+      "image_id": 59693
+    },
+    {
+      "match": "cynicalPrincess",
+      "image_id": 59694
+    },
+    {
+      "match": "cynicalWTF",
+      "image_id": 59695
+    },
+    {
+      "match": "cynicalHydra",
+      "image_id": 59696
+    },
+    {
+      "match": "cynicalDoge",
+      "image_id": 59697
+    },
+    {
+      "match": "cynicalGeneral",
+      "image_id": 59698
+    },
+    {
+      "match": "cynicalUltraviolence",
+      "image_id": 59699
+    },
+    {
+      "match": "cynicalSwede",
+      "image_id": 88736
+    },
+    {
+      "match": "cynicalStupidcat",
+      "image_id": 88735
+    },
+    {
+      "match": "cynicalLawyer",
+      "image_id": 88733
+    },
+    {
+      "match": "cynicalBRO",
+      "image_id": 68279
+    },
+    {
+      "match": "cynicalAward",
+      "image_id": 76691
+    },
+    {
+      "match": "cynicalInnocent",
+      "image_id": 83594
+    },
+    {
+      "match": "cynicalAnimebs",
+      "image_id": 103377
+    },
+    {
+      "match": "cynicalUL",
+      "image_id": 109958
+    }
+  ]
+}

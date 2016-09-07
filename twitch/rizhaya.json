@@ -1,1 +1,39 @@
-{"name":"twitch-sub-rizhaya","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rizhaya5051","image_id":101259},{"match":"rizhayaCry","image_id":101258},{"match":"rizhayaCool","image_id":102640},{"match":"rizhayaHug","image_id":101073},{"match":"rizhayaLol","image_id":101018},{"match":"rizhayaLove","image_id":101016},{"match":"rizhayaGasm","image_id":101497},{"match":"rizhayaFaceP","image_id":103278}]}
+{
+  "name": "twitch-sub-rizhaya",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rizhaya5051",
+      "image_id": 101259
+    },
+    {
+      "match": "rizhayaCry",
+      "image_id": 101258
+    },
+    {
+      "match": "rizhayaCool",
+      "image_id": 102640
+    },
+    {
+      "match": "rizhayaHug",
+      "image_id": 101073
+    },
+    {
+      "match": "rizhayaLol",
+      "image_id": 101018
+    },
+    {
+      "match": "rizhayaLove",
+      "image_id": 101016
+    },
+    {
+      "match": "rizhayaGasm",
+      "image_id": 101497
+    },
+    {
+      "match": "rizhayaFaceP",
+      "image_id": 103278
+    }
+  ]
+}

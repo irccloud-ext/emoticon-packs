@@ -1,1 +1,87 @@
-{"name":"twitch-sub-kindafunnygames","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"portilloMegaColin","image_id":34173},{"match":"portilloSlimer","image_id":36698},{"match":"portilloBane","image_id":36697},{"match":"portilloGarbage","image_id":71964},{"match":"portilloLola","image_id":103960},{"match":"portilloSeducer","image_id":33730},{"match":"portilloTeddie","image_id":34177},{"match":"portilloHotPepper","image_id":34174},{"match":"portilloJoker","image_id":35003},{"match":"portilloCheeky","image_id":55066},{"match":"portilloSexyGreg","image_id":47635},{"match":"portilloHulkamania","image_id":47631},{"match":"portilloTrueLove","image_id":47637},{"match":"portilloShu","image_id":47633},{"match":"portilloDismissed","image_id":79856},{"match":"portilloKevin","image_id":79858},{"match":"portilloNick","image_id":79859},{"match":"portilloSubHype","image_id":79860},{"match":"portilloX","image_id":79861},{"match":"portilloTim","image_id":79862}]}
+{
+  "name": "twitch-sub-kindafunnygames",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "portilloMegaColin",
+      "image_id": 34173
+    },
+    {
+      "match": "portilloSlimer",
+      "image_id": 36698
+    },
+    {
+      "match": "portilloBane",
+      "image_id": 36697
+    },
+    {
+      "match": "portilloGarbage",
+      "image_id": 71964
+    },
+    {
+      "match": "portilloLola",
+      "image_id": 103960
+    },
+    {
+      "match": "portilloSeducer",
+      "image_id": 33730
+    },
+    {
+      "match": "portilloTeddie",
+      "image_id": 34177
+    },
+    {
+      "match": "portilloHotPepper",
+      "image_id": 34174
+    },
+    {
+      "match": "portilloJoker",
+      "image_id": 35003
+    },
+    {
+      "match": "portilloCheeky",
+      "image_id": 55066
+    },
+    {
+      "match": "portilloSexyGreg",
+      "image_id": 47635
+    },
+    {
+      "match": "portilloHulkamania",
+      "image_id": 47631
+    },
+    {
+      "match": "portilloTrueLove",
+      "image_id": 47637
+    },
+    {
+      "match": "portilloShu",
+      "image_id": 47633
+    },
+    {
+      "match": "portilloDismissed",
+      "image_id": 79856
+    },
+    {
+      "match": "portilloKevin",
+      "image_id": 79858
+    },
+    {
+      "match": "portilloNick",
+      "image_id": 79859
+    },
+    {
+      "match": "portilloSubHype",
+      "image_id": 79860
+    },
+    {
+      "match": "portilloX",
+      "image_id": 79861
+    },
+    {
+      "match": "portilloTim",
+      "image_id": 79862
+    }
+  ]
+}

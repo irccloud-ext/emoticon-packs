@@ -1,1 +1,39 @@
-{"name":"twitch-sub-crispyconcords","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"crispyFace","image_id":71870},{"match":"crispyKillcam","image_id":71705},{"match":"crispyHype","image_id":74151},{"match":"crispyPine","image_id":99053},{"match":"crispyAxe","image_id":100650},{"match":"crispyL","image_id":100657},{"match":"crispyIRL","image_id":104125},{"match":"crispyCoin","image_id":104126}]}
+{
+  "name": "twitch-sub-crispyconcords",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "crispyFace",
+      "image_id": 71870
+    },
+    {
+      "match": "crispyKillcam",
+      "image_id": 71705
+    },
+    {
+      "match": "crispyHype",
+      "image_id": 74151
+    },
+    {
+      "match": "crispyPine",
+      "image_id": 99053
+    },
+    {
+      "match": "crispyAxe",
+      "image_id": 100650
+    },
+    {
+      "match": "crispyL",
+      "image_id": 100657
+    },
+    {
+      "match": "crispyIRL",
+      "image_id": 104125
+    },
+    {
+      "match": "crispyCoin",
+      "image_id": 104126
+    }
+  ]
+}

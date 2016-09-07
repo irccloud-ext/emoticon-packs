@@ -1,1 +1,23 @@
-{"name":"twitch-sub-eceg_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ofelicRage","image_id":22469},{"match":"ofelicSub","image_id":25085},{"match":"ofelicPoro","image_id":25086},{"match":"ofelicBiyik","image_id":33493}]}
+{
+  "name": "twitch-sub-eceg_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ofelicRage",
+      "image_id": 22469
+    },
+    {
+      "match": "ofelicSub",
+      "image_id": 25085
+    },
+    {
+      "match": "ofelicPoro",
+      "image_id": 25086
+    },
+    {
+      "match": "ofelicBiyik",
+      "image_id": 33493
+    }
+  ]
+}

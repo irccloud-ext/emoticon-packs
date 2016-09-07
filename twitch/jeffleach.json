@@ -1,1 +1,39 @@
-{"name":"twitch-sub-jeffleach","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"leachGAME","image_id":103221},{"match":"leachFLAME","image_id":98045},{"match":"leachGOOD","image_id":103220},{"match":"leachHUG","image_id":83158},{"match":"leachSONG","image_id":97010},{"match":"leachCAT","image_id":97012},{"match":"leachHOUSE","image_id":97104},{"match":"leachNOODLE","image_id":97107}]}
+{
+  "name": "twitch-sub-jeffleach",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "leachGAME",
+      "image_id": 103221
+    },
+    {
+      "match": "leachFLAME",
+      "image_id": 98045
+    },
+    {
+      "match": "leachGOOD",
+      "image_id": 103220
+    },
+    {
+      "match": "leachHUG",
+      "image_id": 83158
+    },
+    {
+      "match": "leachSONG",
+      "image_id": 97010
+    },
+    {
+      "match": "leachCAT",
+      "image_id": 97012
+    },
+    {
+      "match": "leachHOUSE",
+      "image_id": 97104
+    },
+    {
+      "match": "leachNOODLE",
+      "image_id": 97107
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-thedeadset","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"deadsetHype","image_id":28212},{"match":"deadsetWelcome","image_id":28211},{"match":"deadsetMagic","image_id":28214},{"match":"deadsetThump","image_id":28213}]}
+{
+  "name": "twitch-sub-thedeadset",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "deadsetHype",
+      "image_id": 28212
+    },
+    {
+      "match": "deadsetWelcome",
+      "image_id": 28211
+    },
+    {
+      "match": "deadsetMagic",
+      "image_id": 28214
+    },
+    {
+      "match": "deadsetThump",
+      "image_id": 28213
+    }
+  ]
+}

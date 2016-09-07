@@ -1,1 +1,23 @@
-{"name":"twitch-sub-omgwtfzombiebbq","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zomHeart","image_id":16564},{"match":"zomHype","image_id":16120},{"match":"zomBD","image_id":38461},{"match":"zomRekt","image_id":38460}]}
+{
+  "name": "twitch-sub-omgwtfzombiebbq",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zomHeart",
+      "image_id": 16564
+    },
+    {
+      "match": "zomHype",
+      "image_id": 16120
+    },
+    {
+      "match": "zomBD",
+      "image_id": 38461
+    },
+    {
+      "match": "zomRekt",
+      "image_id": 38460
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-gen_e_us","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"geneHype","image_id":90204},{"match":"geneCrispy","image_id":89948},{"match":"geneGainz","image_id":89287},{"match":"geneWut","image_id":89286},{"match":"geneNoice","image_id":89312},{"match":"geneLG","image_id":89476},{"match":"geneDo","image_id":90360},{"match":"geneGasm","image_id":91226},{"match":"geneNo","image_id":93138},{"match":"geneBall","image_id":93137}]}
+{
+  "name": "twitch-sub-gen_e_us",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "geneHype",
+      "image_id": 90204
+    },
+    {
+      "match": "geneCrispy",
+      "image_id": 89948
+    },
+    {
+      "match": "geneGainz",
+      "image_id": 89287
+    },
+    {
+      "match": "geneWut",
+      "image_id": 89286
+    },
+    {
+      "match": "geneNoice",
+      "image_id": 89312
+    },
+    {
+      "match": "geneLG",
+      "image_id": 89476
+    },
+    {
+      "match": "geneDo",
+      "image_id": 90360
+    },
+    {
+      "match": "geneGasm",
+      "image_id": 91226
+    },
+    {
+      "match": "geneNo",
+      "image_id": 93138
+    },
+    {
+      "match": "geneBall",
+      "image_id": 93137
+    }
+  ]
+}

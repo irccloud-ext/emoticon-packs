@@ -1,1 +1,31 @@
-{"name":"twitch-sub-murs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mursMouth","image_id":84040},{"match":"mursHype","image_id":105415},{"match":"mursAngel","image_id":84694},{"match":"mursBadge","image_id":86469},{"match":"mursYo","image_id":86468},{"match":"mursHelmet","image_id":88218}]}
+{
+  "name": "twitch-sub-murs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mursMouth",
+      "image_id": 84040
+    },
+    {
+      "match": "mursHype",
+      "image_id": 105415
+    },
+    {
+      "match": "mursAngel",
+      "image_id": 84694
+    },
+    {
+      "match": "mursBadge",
+      "image_id": 86469
+    },
+    {
+      "match": "mursYo",
+      "image_id": 86468
+    },
+    {
+      "match": "mursHelmet",
+      "image_id": 88218
+    }
+  ]
+}

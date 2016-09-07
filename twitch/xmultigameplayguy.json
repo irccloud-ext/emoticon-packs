@@ -1,1 +1,23 @@
-{"name":"twitch-sub-xmultigameplayguy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"multiLOL","image_id":4929},{"match":"multiHajs","image_id":4987},{"match":"multiBoss","image_id":5011},{"match":"multiPsycho","image_id":5583}]}
+{
+  "name": "twitch-sub-xmultigameplayguy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "multiLOL",
+      "image_id": 4929
+    },
+    {
+      "match": "multiHajs",
+      "image_id": 4987
+    },
+    {
+      "match": "multiBoss",
+      "image_id": 5011
+    },
+    {
+      "match": "multiPsycho",
+      "image_id": 5583
+    }
+  ]
+}

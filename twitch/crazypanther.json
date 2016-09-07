@@ -1,1 +1,15 @@
-{"name":"twitch-sub-crazypanther","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"crapLogo","image_id":9233},{"match":"crapDino","image_id":54244}]}
+{
+  "name": "twitch-sub-crazypanther",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "crapLogo",
+      "image_id": 9233
+    },
+    {
+      "match": "crapDino",
+      "image_id": 54244
+    }
+  ]
+}

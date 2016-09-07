@@ -1,1 +1,27 @@
-{"name":"twitch-sub-dirgesc2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"durkRIP","image_id":24582},{"match":"durkTP","image_id":23848},{"match":"durkTown","image_id":23849},{"match":"durkVacuum","image_id":24166},{"match":"durkWTF","image_id":25178}]}
+{
+  "name": "twitch-sub-dirgesc2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "durkRIP",
+      "image_id": 24582
+    },
+    {
+      "match": "durkTP",
+      "image_id": 23848
+    },
+    {
+      "match": "durkTown",
+      "image_id": 23849
+    },
+    {
+      "match": "durkVacuum",
+      "image_id": 24166
+    },
+    {
+      "match": "durkWTF",
+      "image_id": 25178
+    }
+  ]
+}

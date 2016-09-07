@@ -1,1 +1,51 @@
-{"name":"twitch-sub-lainzero","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lainTuturu","image_id":55491},{"match":"lainLewd","image_id":56400},{"match":"lainRIP","image_id":55128},{"match":"lainHey","image_id":55127},{"match":"lainLexicon","image_id":67816},{"match":"lainXD","image_id":57199},{"match":"lainQueen","image_id":55738},{"match":"lainLove","image_id":55120},{"match":"lain7","image_id":55121},{"match":"lainFetch","image_id":55122},{"match":"lainWtf","image_id":55125}]}
+{
+  "name": "twitch-sub-lainzero",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lainTuturu",
+      "image_id": 55491
+    },
+    {
+      "match": "lainLewd",
+      "image_id": 56400
+    },
+    {
+      "match": "lainRIP",
+      "image_id": 55128
+    },
+    {
+      "match": "lainHey",
+      "image_id": 55127
+    },
+    {
+      "match": "lainLexicon",
+      "image_id": 67816
+    },
+    {
+      "match": "lainXD",
+      "image_id": 57199
+    },
+    {
+      "match": "lainQueen",
+      "image_id": 55738
+    },
+    {
+      "match": "lainLove",
+      "image_id": 55120
+    },
+    {
+      "match": "lain7",
+      "image_id": 55121
+    },
+    {
+      "match": "lainFetch",
+      "image_id": 55122
+    },
+    {
+      "match": "lainWtf",
+      "image_id": 55125
+    }
+  ]
+}

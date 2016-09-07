@@ -1,1 +1,39 @@
-{"name":"twitch-sub-llarissal","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"larSUB","image_id":30747},{"match":"larOMG","image_id":30746},{"match":"larEW","image_id":30763},{"match":"larKAPPA","image_id":30918},{"match":"larBAN","image_id":32830},{"match":"larDROP","image_id":32812},{"match":"larDOGE","image_id":47252},{"match":"larRAGE","image_id":47377}]}
+{
+  "name": "twitch-sub-llarissal",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "larSUB",
+      "image_id": 30747
+    },
+    {
+      "match": "larOMG",
+      "image_id": 30746
+    },
+    {
+      "match": "larEW",
+      "image_id": 30763
+    },
+    {
+      "match": "larKAPPA",
+      "image_id": 30918
+    },
+    {
+      "match": "larBAN",
+      "image_id": 32830
+    },
+    {
+      "match": "larDROP",
+      "image_id": 32812
+    },
+    {
+      "match": "larDOGE",
+      "image_id": 47252
+    },
+    {
+      "match": "larRAGE",
+      "image_id": 47377
+    }
+  ]
+}

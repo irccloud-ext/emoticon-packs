@@ -1,1 +1,23 @@
-{"name":"twitch-sub-masterlemen","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lemenGasm","image_id":93768},{"match":"lemenLove","image_id":93767},{"match":"lemenHYPE","image_id":80600},{"match":"lemenTRIGGERED","image_id":93253}]}
+{
+  "name": "twitch-sub-masterlemen",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lemenGasm",
+      "image_id": 112384
+    },
+    {
+      "match": "lemenLove",
+      "image_id": 111730
+    },
+    {
+      "match": "lemenTRIGGERED",
+      "image_id": 111731
+    },
+    {
+      "match": "lemenHYPE",
+      "image_id": 111894
+    }
+  ]
+}

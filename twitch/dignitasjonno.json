@@ -1,1 +1,11 @@
-{"name":"twitch-sub-dignitasjonno","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jonnoSup","image_id":83632}]}
+{
+  "name": "twitch-sub-dignitasjonno",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jonnoSup",
+      "image_id": 83632
+    }
+  ]
+}

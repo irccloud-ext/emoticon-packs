@@ -1,1 +1,23 @@
-{"name":"twitch-sub-sumaildoto","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sumailSwag","image_id":47489},{"match":"sumailKappa","image_id":47487},{"match":"sumailWrong","image_id":48330},{"match":"sumailRight","image_id":48188}]}
+{
+  "name": "twitch-sub-sumaildoto",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sumailSwag",
+      "image_id": 47489
+    },
+    {
+      "match": "sumailKappa",
+      "image_id": 47487
+    },
+    {
+      "match": "sumailWrong",
+      "image_id": 48330
+    },
+    {
+      "match": "sumailRight",
+      "image_id": 48188
+    }
+  ]
+}

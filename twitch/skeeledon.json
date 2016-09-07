@@ -1,1 +1,19 @@
-{"name":"twitch-sub-skeeledon","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"skeeleBahd","image_id":97561},{"match":"skeeleW","image_id":98071},{"match":"skeeleRage","image_id":111000}]}
+{
+  "name": "twitch-sub-skeeledon",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "skeeleBahd",
+      "image_id": 97561
+    },
+    {
+      "match": "skeeleW",
+      "image_id": 98071
+    },
+    {
+      "match": "skeeleRage",
+      "image_id": 111000
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-henezini","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hnznKappa","image_id":55241},{"match":"hnznFacepalm","image_id":55240},{"match":"hnznWtf","image_id":56949},{"match":"hnznGasm","image_id":56977},{"match":"hnznPsah","image_id":61073},{"match":"hnznHnznrip","image_id":62351},{"match":"hnznRage","image_id":96893},{"match":"hnznPride","image_id":102437}]}
+{
+  "name": "twitch-sub-henezini",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hnznKappa",
+      "image_id": 55241
+    },
+    {
+      "match": "hnznFacepalm",
+      "image_id": 55240
+    },
+    {
+      "match": "hnznWtf",
+      "image_id": 56949
+    },
+    {
+      "match": "hnznGasm",
+      "image_id": 56977
+    },
+    {
+      "match": "hnznPsah",
+      "image_id": 61073
+    },
+    {
+      "match": "hnznHnznrip",
+      "image_id": 62351
+    },
+    {
+      "match": "hnznRage",
+      "image_id": 96893
+    },
+    {
+      "match": "hnznPride",
+      "image_id": 102437
+    }
+  ]
+}

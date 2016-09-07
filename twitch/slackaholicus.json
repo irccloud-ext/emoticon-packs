@@ -1,1 +1,39 @@
-{"name":"twitch-sub-slackaholicus","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"slackSmug","image_id":18161},{"match":"slackAwaii","image_id":25128},{"match":"slackLewd","image_id":109768},{"match":"slackLove","image_id":109769},{"match":"slackHype","image_id":109770},{"match":"slackHa","image_id":109771},{"match":"slackFeels","image_id":109772},{"match":"slackSpeechless","image_id":109773}]}
+{
+  "name": "twitch-sub-slackaholicus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "slackSmug",
+      "image_id": 18161
+    },
+    {
+      "match": "slackAwaii",
+      "image_id": 25128
+    },
+    {
+      "match": "slackLewd",
+      "image_id": 109768
+    },
+    {
+      "match": "slackLove",
+      "image_id": 109769
+    },
+    {
+      "match": "slackHype",
+      "image_id": 109770
+    },
+    {
+      "match": "slackHa",
+      "image_id": 109771
+    },
+    {
+      "match": "slackFeels",
+      "image_id": 109772
+    },
+    {
+      "match": "slackSpeechless",
+      "image_id": 109773
+    }
+  ]
+}

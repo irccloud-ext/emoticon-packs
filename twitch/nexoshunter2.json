@@ -1,1 +1,43 @@
-{"name":"twitch-sub-nexoshunter2","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nexosKanapka","image_id":9006},{"match":"nexosWow","image_id":20482},{"match":"nexosNub","image_id":20624},{"match":"nexosWat","image_id":22575},{"match":"nexosCebula","image_id":22576},{"match":"nexosLAG","image_id":29491},{"match":"nexosMacka","image_id":83982},{"match":"nexosMasha","image_id":78947},{"match":"nexosDeal","image_id":83988}]}
+{
+  "name": "twitch-sub-nexoshunter2",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nexosKanapka",
+      "image_id": 9006
+    },
+    {
+      "match": "nexosWow",
+      "image_id": 20482
+    },
+    {
+      "match": "nexosNub",
+      "image_id": 20624
+    },
+    {
+      "match": "nexosWat",
+      "image_id": 22575
+    },
+    {
+      "match": "nexosCebula",
+      "image_id": 22576
+    },
+    {
+      "match": "nexosLAG",
+      "image_id": 29491
+    },
+    {
+      "match": "nexosMacka",
+      "image_id": 83982
+    },
+    {
+      "match": "nexosMasha",
+      "image_id": 78947
+    },
+    {
+      "match": "nexosDeal",
+      "image_id": 83988
+    }
+  ]
+}

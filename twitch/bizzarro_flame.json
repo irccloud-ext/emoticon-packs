@@ -1,1 +1,39 @@
-{"name":"twitch-sub-bizzarro_flame","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bizzDisrespect","image_id":46392},{"match":"bizzEasymoney","image_id":38847},{"match":"bizzSmile","image_id":39010},{"match":"bizzUpTilt","image_id":43722},{"match":"bizzStomp","image_id":47171},{"match":"bizzTwentyChaChing","image_id":47000},{"match":"bizzStyle","image_id":48076},{"match":"bizzPewTwo","image_id":47455}]}
+{
+  "name": "twitch-sub-bizzarro_flame",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bizzDisrespect",
+      "image_id": 46392
+    },
+    {
+      "match": "bizzEasymoney",
+      "image_id": 38847
+    },
+    {
+      "match": "bizzSmile",
+      "image_id": 39010
+    },
+    {
+      "match": "bizzUpTilt",
+      "image_id": 43722
+    },
+    {
+      "match": "bizzStomp",
+      "image_id": 47171
+    },
+    {
+      "match": "bizzTwentyChaChing",
+      "image_id": 47000
+    },
+    {
+      "match": "bizzStyle",
+      "image_id": 48076
+    },
+    {
+      "match": "bizzPewTwo",
+      "image_id": 47455
+    }
+  ]
+}

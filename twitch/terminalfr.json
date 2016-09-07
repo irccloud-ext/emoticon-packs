@@ -1,1 +1,23 @@
-{"name":"twitch-sub-terminalfr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"terRg","image_id":85549},{"match":"terRip","image_id":85716},{"match":"terNoob","image_id":85819},{"match":"terGg","image_id":85818}]}
+{
+  "name": "twitch-sub-terminalfr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "terRg",
+      "image_id": 85549
+    },
+    {
+      "match": "terRip",
+      "image_id": 85716
+    },
+    {
+      "match": "terNoob",
+      "image_id": 85819
+    },
+    {
+      "match": "terGg",
+      "image_id": 85818
+    }
+  ]
+}

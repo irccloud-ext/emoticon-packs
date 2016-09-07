@@ -1,1 +1,15 @@
-{"name":"twitch-sub-kabalbinolive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kabalTente","image_id":26575},{"match":"kabalAceitou","image_id":26576}]}
+{
+  "name": "twitch-sub-kabalbinolive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kabalTente",
+      "image_id": 26575
+    },
+    {
+      "match": "kabalAceitou",
+      "image_id": 26576
+    }
+  ]
+}

@@ -1,1 +1,63 @@
-{"name":"twitch-sub-s0n0s","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"s00Praise","image_id":9230},{"match":"s00Dead","image_id":20762},{"match":"s00Boned","image_id":9407},{"match":"s00Rekt","image_id":20770},{"match":"s00Hype","image_id":82148},{"match":"s00Salty","image_id":82149},{"match":"s00Ruined","image_id":82150},{"match":"s00Saved","image_id":82151},{"match":"s00Good","image_id":82152},{"match":"s00Bad","image_id":82153},{"match":"s00LPraise","image_id":9629},{"match":"s00Breeki","image_id":82157},{"match":"s00Cheeki","image_id":82156},{"match":"s00Tasty","image_id":82158}]}
+{
+  "name": "twitch-sub-s0n0s",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "s00Praise",
+      "image_id": 9230
+    },
+    {
+      "match": "s00Dead",
+      "image_id": 20762
+    },
+    {
+      "match": "s00Boned",
+      "image_id": 9407
+    },
+    {
+      "match": "s00Rekt",
+      "image_id": 20770
+    },
+    {
+      "match": "s00Hype",
+      "image_id": 82148
+    },
+    {
+      "match": "s00Salty",
+      "image_id": 82149
+    },
+    {
+      "match": "s00Ruined",
+      "image_id": 82150
+    },
+    {
+      "match": "s00Saved",
+      "image_id": 82151
+    },
+    {
+      "match": "s00Good",
+      "image_id": 82152
+    },
+    {
+      "match": "s00Bad",
+      "image_id": 82153
+    },
+    {
+      "match": "s00LPraise",
+      "image_id": 9629
+    },
+    {
+      "match": "s00Breeki",
+      "image_id": 82157
+    },
+    {
+      "match": "s00Cheeki",
+      "image_id": 82156
+    },
+    {
+      "match": "s00Tasty",
+      "image_id": 82158
+    }
+  ]
+}

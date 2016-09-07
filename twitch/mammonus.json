@@ -1,1 +1,31 @@
-{"name":"twitch-sub-mammonus","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mamRose","image_id":45579},{"match":"mamRaid","image_id":42086},{"match":"mamMo","image_id":42164},{"match":"mamLove","image_id":46322},{"match":"mamAbuse","image_id":44840},{"match":"mamHeart","image_id":44839}]}
+{
+  "name": "twitch-sub-mammonus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mamRose",
+      "image_id": 45579
+    },
+    {
+      "match": "mamRaid",
+      "image_id": 42086
+    },
+    {
+      "match": "mamMo",
+      "image_id": 42164
+    },
+    {
+      "match": "mamLove",
+      "image_id": 46322
+    },
+    {
+      "match": "mamAbuse",
+      "image_id": 44840
+    },
+    {
+      "match": "mamHeart",
+      "image_id": 44839
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-cmpukahi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kumaSad","image_id":96518},{"match":"kumaGasm","image_id":89352},{"match":"kumaNo","image_id":91327},{"match":"kumaHi","image_id":94507}]}
+{
+  "name": "twitch-sub-cmpukahi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kumaSad",
+      "image_id": 96518
+    },
+    {
+      "match": "kumaGasm",
+      "image_id": 89352
+    },
+    {
+      "match": "kumaNo",
+      "image_id": 91327
+    },
+    {
+      "match": "kumaHi",
+      "image_id": 94507
+    }
+  ]
+}

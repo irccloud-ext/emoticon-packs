@@ -1,1 +1,39 @@
-{"name":"twitch-sub-killacrafter","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"killacAura","image_id":48974},{"match":"killacHYPE","image_id":48968},{"match":"killacGG","image_id":48967},{"match":"killacNDN","image_id":49011},{"match":"killacUPS","image_id":54922},{"match":"killacRIP","image_id":49104},{"match":"killacHax","image_id":49103},{"match":"killacDOOM","image_id":54926}]}
+{
+  "name": "twitch-sub-killacrafter",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "killacAura",
+      "image_id": 48974
+    },
+    {
+      "match": "killacHYPE",
+      "image_id": 48968
+    },
+    {
+      "match": "killacGG",
+      "image_id": 48967
+    },
+    {
+      "match": "killacNDN",
+      "image_id": 49011
+    },
+    {
+      "match": "killacUPS",
+      "image_id": 54922
+    },
+    {
+      "match": "killacRIP",
+      "image_id": 49104
+    },
+    {
+      "match": "killacHax",
+      "image_id": 49103
+    },
+    {
+      "match": "killacDOOM",
+      "image_id": 54926
+    }
+  ]
+}

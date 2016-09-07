@@ -1,1 +1,27 @@
-{"name":"twitch-sub-painsirt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sirtHUEIP","image_id":22614},{"match":"sirtMORDE","image_id":22615},{"match":"sirtNOPENTA","image_id":22616},{"match":"sirtTUDONOSSO","image_id":22617},{"match":"sirtLEE","image_id":22910}]}
+{
+  "name": "twitch-sub-painsirt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sirtHUEIP",
+      "image_id": 22614
+    },
+    {
+      "match": "sirtMORDE",
+      "image_id": 22615
+    },
+    {
+      "match": "sirtNOPENTA",
+      "image_id": 22616
+    },
+    {
+      "match": "sirtTUDONOSSO",
+      "image_id": 22617
+    },
+    {
+      "match": "sirtLEE",
+      "image_id": 22910
+    }
+  ]
+}

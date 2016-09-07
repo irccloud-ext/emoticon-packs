@@ -1,1 +1,39 @@
-{"name":"twitch-sub-bruceleerob","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bruceRage","image_id":39105},{"match":"bruceHYPE","image_id":44243},{"match":"bruceLove","image_id":44677},{"match":"bruceSalty","image_id":88836},{"match":"bruceFlex","image_id":88852},{"match":"brucePotato","image_id":88834},{"match":"bruceSubhype","image_id":105304},{"match":"bruceSquad","image_id":104279}]}
+{
+  "name": "twitch-sub-bruceleerob",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bruceRage",
+      "image_id": 39105
+    },
+    {
+      "match": "bruceHYPE",
+      "image_id": 44243
+    },
+    {
+      "match": "bruceLove",
+      "image_id": 44677
+    },
+    {
+      "match": "bruceSalty",
+      "image_id": 88836
+    },
+    {
+      "match": "bruceFlex",
+      "image_id": 88852
+    },
+    {
+      "match": "brucePotato",
+      "image_id": 88834
+    },
+    {
+      "match": "bruceSubhype",
+      "image_id": 105304
+    },
+    {
+      "match": "bruceSquad",
+      "image_id": 104279
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-zoeyproasheck","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zoeyFish","image_id":44013},{"match":"zoeyGoat","image_id":44010},{"match":"zoeyRIP","image_id":46231},{"match":"zoeyB","image_id":46222},{"match":"zoeyR","image_id":46221},{"match":"zoey2spky","image_id":48350},{"match":"zoeyNa","image_id":57514},{"match":"zoeySwear","image_id":94212}]}
+{
+  "name": "twitch-sub-zoeyproasheck",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zoeyFish",
+      "image_id": 44013
+    },
+    {
+      "match": "zoeyGoat",
+      "image_id": 44010
+    },
+    {
+      "match": "zoeyRIP",
+      "image_id": 46231
+    },
+    {
+      "match": "zoeyB",
+      "image_id": 46222
+    },
+    {
+      "match": "zoeyR",
+      "image_id": 46221
+    },
+    {
+      "match": "zoey2spky",
+      "image_id": 48350
+    },
+    {
+      "match": "zoeyNa",
+      "image_id": 57514
+    },
+    {
+      "match": "zoeySwear",
+      "image_id": 94212
+    }
+  ]
+}

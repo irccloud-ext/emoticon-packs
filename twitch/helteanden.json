@@ -1,1 +1,23 @@
-{"name":"twitch-sub-helteanden","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"helteDeal","image_id":45630},{"match":"helteSkaal","image_id":44838},{"match":"helteSpand","image_id":45164},{"match":"helteTrold","image_id":58237}]}
+{
+  "name": "twitch-sub-helteanden",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "helteDeal",
+      "image_id": 45630
+    },
+    {
+      "match": "helteSkaal",
+      "image_id": 44838
+    },
+    {
+      "match": "helteSpand",
+      "image_id": 45164
+    },
+    {
+      "match": "helteTrold",
+      "image_id": 58237
+    }
+  ]
+}

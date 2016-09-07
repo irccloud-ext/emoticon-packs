@@ -1,1 +1,23 @@
-{"name":"twitch-sub-letwilightcouncil","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"letwiDrogo","image_id":92332},{"match":"letwiBlink","image_id":88424},{"match":"letwiLilbow","image_id":92171},{"match":"letwiStalker","image_id":92166}]}
+{
+  "name": "twitch-sub-letwilightcouncil",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "letwiDrogo",
+      "image_id": 92332
+    },
+    {
+      "match": "letwiBlink",
+      "image_id": 88424
+    },
+    {
+      "match": "letwiLilbow",
+      "image_id": 92171
+    },
+    {
+      "match": "letwiStalker",
+      "image_id": 92166
+    }
+  ]
+}

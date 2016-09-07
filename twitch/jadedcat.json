@@ -1,1 +1,11 @@
-{"name":"twitch-sub-jadedcat","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jcwDuck","image_id":9097}]}
+{
+  "name": "twitch-sub-jadedcat",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jcwDuck",
+      "image_id": 9097
+    }
+  ]
+}

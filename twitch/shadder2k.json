@@ -1,1 +1,35 @@
-{"name":"twitch-sub-shadder2k","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shadderSMUG","image_id":108852},{"match":"shadderNLT","image_id":109548},{"match":"shadderFeels","image_id":105791},{"match":"shadderHog","image_id":105618},{"match":"shadder20","image_id":105626},{"match":"shadderChamp","image_id":105539},{"match":"shadderLUL","image_id":107968}]}
+{
+  "name": "twitch-sub-shadder2k",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shadderSMUG",
+      "image_id": 108852
+    },
+    {
+      "match": "shadderNLT",
+      "image_id": 109548
+    },
+    {
+      "match": "shadderFeels",
+      "image_id": 105791
+    },
+    {
+      "match": "shadderHog",
+      "image_id": 105618
+    },
+    {
+      "match": "shadderChamp",
+      "image_id": 105539
+    },
+    {
+      "match": "shadderLUL",
+      "image_id": 107968
+    },
+    {
+      "match": "shadderBaby",
+      "image_id": 112068
+    }
+  ]
+}

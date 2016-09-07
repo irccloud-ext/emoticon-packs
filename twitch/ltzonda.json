@@ -1,1 +1,67 @@
-{"name":"twitch-sub-ltzonda","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zondaTroll","image_id":17349},{"match":"zondaLove","image_id":19507},{"match":"zondaCry","image_id":27482},{"match":"zondaApproves","image_id":27483},{"match":"zondaCreep","image_id":31277},{"match":"zondaFail","image_id":31231},{"match":"zondaSWAG","image_id":31096},{"match":"zondaHYPE","image_id":36191},{"match":"zondaPeep","image_id":36193},{"match":"zondaRIOT","image_id":36192},{"match":"zondaBored","image_id":36189},{"match":"zondaPwetty","image_id":36188},{"match":"zondaHeyGirls","image_id":51348},{"match":"zondaThirsty","image_id":51441},{"match":"zondaSellOut","image_id":51443}]}
+{
+  "name": "twitch-sub-ltzonda",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zondaTroll",
+      "image_id": 17349
+    },
+    {
+      "match": "zondaLove",
+      "image_id": 19507
+    },
+    {
+      "match": "zondaCry",
+      "image_id": 27482
+    },
+    {
+      "match": "zondaApproves",
+      "image_id": 27483
+    },
+    {
+      "match": "zondaCreep",
+      "image_id": 31277
+    },
+    {
+      "match": "zondaFail",
+      "image_id": 31231
+    },
+    {
+      "match": "zondaSWAG",
+      "image_id": 31096
+    },
+    {
+      "match": "zondaHYPE",
+      "image_id": 36191
+    },
+    {
+      "match": "zondaPeep",
+      "image_id": 36193
+    },
+    {
+      "match": "zondaRIOT",
+      "image_id": 36192
+    },
+    {
+      "match": "zondaBored",
+      "image_id": 36189
+    },
+    {
+      "match": "zondaPwetty",
+      "image_id": 36188
+    },
+    {
+      "match": "zondaHeyGirls",
+      "image_id": 51348
+    },
+    {
+      "match": "zondaThirsty",
+      "image_id": 51441
+    },
+    {
+      "match": "zondaSellOut",
+      "image_id": 51443
+    }
+  ]
+}

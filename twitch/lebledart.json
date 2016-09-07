@@ -1,1 +1,83 @@
-{"name":"twitch-sub-lebledart","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"merguezMiam","image_id":81170},{"match":"merguezNieh","image_id":81039},{"match":"merguezSheguey","image_id":81164},{"match":"merguezSelut","image_id":81196},{"match":"merguezAnas","image_id":34938},{"match":"merguezRip","image_id":34942},{"match":"merguezSub","image_id":34941},{"match":"merguezGg","image_id":34984},{"match":"merguezMoney","image_id":36411},{"match":"merguezDigage","image_id":36410},{"match":"merguezRigole","image_id":36409},{"match":"merguezOklm","image_id":36412},{"match":"merguezSaloupard","image_id":36413},{"match":"merguezRak","image_id":80725},{"match":"merguezReptile","image_id":81981},{"match":"merguezSnif","image_id":81040},{"match":"merguezChaud","image_id":82008},{"match":"merguezChabala","image_id":81980},{"match":"merguezKader","image_id":82245}]}
+{
+  "name": "twitch-sub-lebledart",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "merguezMiam",
+      "image_id": 81170
+    },
+    {
+      "match": "merguezNieh",
+      "image_id": 81039
+    },
+    {
+      "match": "merguezSheguey",
+      "image_id": 81164
+    },
+    {
+      "match": "merguezSelut",
+      "image_id": 81196
+    },
+    {
+      "match": "merguezAnas",
+      "image_id": 34938
+    },
+    {
+      "match": "merguezRip",
+      "image_id": 34942
+    },
+    {
+      "match": "merguezSub",
+      "image_id": 34941
+    },
+    {
+      "match": "merguezGg",
+      "image_id": 34984
+    },
+    {
+      "match": "merguezMoney",
+      "image_id": 36411
+    },
+    {
+      "match": "merguezDigage",
+      "image_id": 36410
+    },
+    {
+      "match": "merguezRigole",
+      "image_id": 36409
+    },
+    {
+      "match": "merguezOklm",
+      "image_id": 36412
+    },
+    {
+      "match": "merguezSaloupard",
+      "image_id": 36413
+    },
+    {
+      "match": "merguezRak",
+      "image_id": 80725
+    },
+    {
+      "match": "merguezReptile",
+      "image_id": 81981
+    },
+    {
+      "match": "merguezSnif",
+      "image_id": 81040
+    },
+    {
+      "match": "merguezChaud",
+      "image_id": 82008
+    },
+    {
+      "match": "merguezChabala",
+      "image_id": 81980
+    },
+    {
+      "match": "merguezKader",
+      "image_id": 82245
+    }
+  ]
+}

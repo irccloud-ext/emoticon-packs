@@ -1,1 +1,15 @@
-{"name":"twitch-sub-drerhano","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"doktorTD","image_id":91241},{"match":"doktorRAGE","image_id":91240}]}
+{
+  "name": "twitch-sub-drerhano",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "doktorTD",
+      "image_id": 91241
+    },
+    {
+      "match": "doktorRAGE",
+      "image_id": 91240
+    }
+  ]
+}

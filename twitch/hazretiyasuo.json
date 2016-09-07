@@ -1,1 +1,31 @@
-{"name":"twitch-sub-hazretiyasuo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hzyTrrek","image_id":70884},{"match":"hzyMt2","image_id":70885},{"match":"hzyWow","image_id":22437},{"match":"hzyHoca","image_id":84062},{"match":"hzyMevlana","image_id":78164},{"match":"hzyKappa","image_id":70495}]}
+{
+  "name": "twitch-sub-hazretiyasuo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hzyTrrek",
+      "image_id": 70884
+    },
+    {
+      "match": "hzyMt2",
+      "image_id": 70885
+    },
+    {
+      "match": "hzyWow",
+      "image_id": 22437
+    },
+    {
+      "match": "hzyHoca",
+      "image_id": 84062
+    },
+    {
+      "match": "hzyMevlana",
+      "image_id": 78164
+    },
+    {
+      "match": "hzyKappa",
+      "image_id": 70495
+    }
+  ]
+}

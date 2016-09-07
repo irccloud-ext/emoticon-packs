@@ -1,1 +1,47 @@
-{"name":"twitch-sub-etherfast","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"etherRobn","image_id":38350},{"match":"etherVAC","image_id":38349},{"match":"etherSpray","image_id":38348},{"match":"etherFlash","image_id":38347},{"match":"etherViking","image_id":38557},{"match":"etherKnife","image_id":38556},{"match":"etherCoke","image_id":38702},{"match":"etherRigged","image_id":42127},{"match":"etherRekt","image_id":42112},{"match":"etherSpecter","image_id":42114}]}
+{
+  "name": "twitch-sub-etherfast",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "etherRobn",
+      "image_id": 38350
+    },
+    {
+      "match": "etherVAC",
+      "image_id": 38349
+    },
+    {
+      "match": "etherSpray",
+      "image_id": 38348
+    },
+    {
+      "match": "etherFlash",
+      "image_id": 38347
+    },
+    {
+      "match": "etherViking",
+      "image_id": 38557
+    },
+    {
+      "match": "etherKnife",
+      "image_id": 38556
+    },
+    {
+      "match": "etherCoke",
+      "image_id": 38702
+    },
+    {
+      "match": "etherRigged",
+      "image_id": 42127
+    },
+    {
+      "match": "etherRekt",
+      "image_id": 42112
+    },
+    {
+      "match": "etherSpecter",
+      "image_id": 42114
+    }
+  ]
+}

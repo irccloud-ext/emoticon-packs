@@ -1,1 +1,47 @@
-{"name":"twitch-sub-hcjustin","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hcjKappa","image_id":22326},{"match":"hcjSwammie","image_id":22329},{"match":"hcjDexter","image_id":22492},{"match":"hcjRIP","image_id":22812},{"match":"hcjGuys","image_id":73640},{"match":"hcj4","image_id":59759},{"match":"hcjFist","image_id":71425},{"match":"hcjCrab","image_id":71426},{"match":"hcjWOW","image_id":103429},{"match":"hcjPal","image_id":104436}]}
+{
+  "name": "twitch-sub-hcjustin",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hcjKappa",
+      "image_id": 22326
+    },
+    {
+      "match": "hcjSwammie",
+      "image_id": 22329
+    },
+    {
+      "match": "hcjDexter",
+      "image_id": 22492
+    },
+    {
+      "match": "hcjRIP",
+      "image_id": 22812
+    },
+    {
+      "match": "hcjGuys",
+      "image_id": 73640
+    },
+    {
+      "match": "hcj4",
+      "image_id": 59759
+    },
+    {
+      "match": "hcjFist",
+      "image_id": 71425
+    },
+    {
+      "match": "hcjCrab",
+      "image_id": 71426
+    },
+    {
+      "match": "hcjWOW",
+      "image_id": 103429
+    },
+    {
+      "match": "hcjPal",
+      "image_id": 104436
+    }
+  ]
+}

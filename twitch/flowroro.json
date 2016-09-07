@@ -1,1 +1,31 @@
-{"name":"twitch-sub-flowroro","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"flowH","image_id":87922},{"match":"flowHYPE","image_id":87923},{"match":"flowGASM","image_id":87919},{"match":"flowCRY","image_id":87918},{"match":"flowNO","image_id":87924},{"match":"flowGG","image_id":87920}]}
+{
+  "name": "twitch-sub-flowroro",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "flowH",
+      "image_id": 87922
+    },
+    {
+      "match": "flowHYPE",
+      "image_id": 87923
+    },
+    {
+      "match": "flowGASM",
+      "image_id": 87919
+    },
+    {
+      "match": "flowCRY",
+      "image_id": 87918
+    },
+    {
+      "match": "flowNO",
+      "image_id": 87924
+    },
+    {
+      "match": "flowGG",
+      "image_id": 87920
+    }
+  ]
+}

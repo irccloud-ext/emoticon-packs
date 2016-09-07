@@ -1,1 +1,19 @@
-{"name":"twitch-sub-sylartichot","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"medoPGM","image_id":36604},{"match":"medoBoule","image_id":36599},{"match":"medoPORC","image_id":39485}]}
+{
+  "name": "twitch-sub-sylartichot",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "medoPGM",
+      "image_id": 36604
+    },
+    {
+      "match": "medoBoule",
+      "image_id": 36599
+    },
+    {
+      "match": "medoPORC",
+      "image_id": 39485
+    }
+  ]
+}

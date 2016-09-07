@@ -1,1 +1,35 @@
-{"name":"twitch-sub-dandinh","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"leedinhLeeDinh","image_id":2226},{"match":"leedinhUsa","image_id":5617},{"match":"leedinhEu","image_id":5618},{"match":"leedinhKr","image_id":6057},{"match":"leedinhMute","image_id":7956},{"match":"leedinhDuck","image_id":28689},{"match":"leedinhPoop","image_id":29474}]}
+{
+  "name": "twitch-sub-dandinh",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "leedinhLeeDinh",
+      "image_id": 2226
+    },
+    {
+      "match": "leedinhUsa",
+      "image_id": 5617
+    },
+    {
+      "match": "leedinhEu",
+      "image_id": 5618
+    },
+    {
+      "match": "leedinhKr",
+      "image_id": 6057
+    },
+    {
+      "match": "leedinhMute",
+      "image_id": 7956
+    },
+    {
+      "match": "leedinhDuck",
+      "image_id": 28689
+    },
+    {
+      "match": "leedinhPoop",
+      "image_id": 29474
+    }
+  ]
+}

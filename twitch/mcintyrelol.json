@@ -1,1 +1,35 @@
-{"name":"twitch-sub-mcintyrelol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mcinRef","image_id":75503},{"match":"mcinKappa","image_id":46400},{"match":"mcinGasm","image_id":48246},{"match":"mcinMac","image_id":48556},{"match":"mcinNeat","image_id":61855},{"match":"mcinW","image_id":66474},{"match":"mcinBoi","image_id":103975}]}
+{
+  "name": "twitch-sub-mcintyrelol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mcinRef",
+      "image_id": 75503
+    },
+    {
+      "match": "mcinKappa",
+      "image_id": 46400
+    },
+    {
+      "match": "mcinGasm",
+      "image_id": 48246
+    },
+    {
+      "match": "mcinMac",
+      "image_id": 48556
+    },
+    {
+      "match": "mcinNeat",
+      "image_id": 61855
+    },
+    {
+      "match": "mcinW",
+      "image_id": 66474
+    },
+    {
+      "match": "mcinBoi",
+      "image_id": 103975
+    }
+  ]
+}

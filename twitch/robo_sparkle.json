@@ -1,1 +1,15 @@
-{"name":"twitch-sub-robo_sparkle","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"roboRickWAA","image_id":16365},{"match":"roboRedBatman","image_id":49371}]}
+{
+  "name": "twitch-sub-robo_sparkle",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "roboRickWAA",
+      "image_id": 16365
+    },
+    {
+      "match": "roboRedBatman",
+      "image_id": 49371
+    }
+  ]
+}

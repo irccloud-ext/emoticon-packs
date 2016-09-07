@@ -1,1 +1,35 @@
-{"name":"twitch-sub-thecourtcast","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tccFace","image_id":28806},{"match":"tccFuskajj","image_id":24287},{"match":"tccHype","image_id":24381},{"match":"tccSheep","image_id":24405},{"match":"tccHampus","image_id":26675},{"match":"tccGirl","image_id":34117},{"match":"tcc30bomb","image_id":87205}]}
+{
+  "name": "twitch-sub-thecourtcast",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tccFace",
+      "image_id": 28806
+    },
+    {
+      "match": "tccFuskajj",
+      "image_id": 24287
+    },
+    {
+      "match": "tccHype",
+      "image_id": 24381
+    },
+    {
+      "match": "tccSheep",
+      "image_id": 24405
+    },
+    {
+      "match": "tccHampus",
+      "image_id": 26675
+    },
+    {
+      "match": "tccGirl",
+      "image_id": 34117
+    },
+    {
+      "match": "tcc30bomb",
+      "image_id": 87205
+    }
+  ]
+}

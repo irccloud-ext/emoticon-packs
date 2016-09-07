@@ -1,1 +1,39 @@
-{"name":"twitch-sub-gratis150ml","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"150Rip","image_id":19128},{"match":"150Cappa","image_id":21542},{"match":"150Gg","image_id":21543},{"match":"150Cap","image_id":32727},{"match":"150Marujo","image_id":34081},{"match":"150Goys","image_id":55883},{"match":"150Kabarba","image_id":55885},{"match":"150Rage","image_id":55886}]}
+{
+  "name": "twitch-sub-gratis150ml",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "150Rip",
+      "image_id": 19128
+    },
+    {
+      "match": "150Cappa",
+      "image_id": 21542
+    },
+    {
+      "match": "150Gg",
+      "image_id": 21543
+    },
+    {
+      "match": "150Cap",
+      "image_id": 32727
+    },
+    {
+      "match": "150Marujo",
+      "image_id": 34081
+    },
+    {
+      "match": "150Goys",
+      "image_id": 55883
+    },
+    {
+      "match": "150Kabarba",
+      "image_id": 55885
+    },
+    {
+      "match": "150Rage",
+      "image_id": 55886
+    }
+  ]
+}

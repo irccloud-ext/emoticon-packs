@@ -1,1 +1,23 @@
-{"name":"twitch-sub-matumbaman","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"matuWIN","image_id":104976},{"match":"matuBased","image_id":36572},{"match":"matuCat","image_id":38409},{"match":"matuW","image_id":61751}]}
+{
+  "name": "twitch-sub-matumbaman",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "matuWIN",
+      "image_id": 104976
+    },
+    {
+      "match": "matuBased",
+      "image_id": 36572
+    },
+    {
+      "match": "matuCat",
+      "image_id": 38409
+    },
+    {
+      "match": "matuW",
+      "image_id": 61751
+    }
+  ]
+}

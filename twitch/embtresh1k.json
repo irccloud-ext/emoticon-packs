@@ -1,1 +1,23 @@
-{"name":"twitch-sub-embtresh1k","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"embPukan","image_id":33242},{"match":"embNyash","image_id":33243},{"match":"embSudaloha","image_id":33043},{"match":"embBodqa","image_id":33042}]}
+{
+  "name": "twitch-sub-embtresh1k",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "embPukan",
+      "image_id": 33242
+    },
+    {
+      "match": "embNyash",
+      "image_id": 33243
+    },
+    {
+      "match": "embSudaloha",
+      "image_id": 33043
+    },
+    {
+      "match": "embBodqa",
+      "image_id": 33042
+    }
+  ]
+}

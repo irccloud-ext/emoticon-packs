@@ -1,1 +1,67 @@
-{"name":"twitch-sub-rosieriver","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rosieKnife","image_id":99056},{"match":"rosiePray","image_id":99060},{"match":"rosieLove","image_id":99066},{"match":"rosieBiceps","image_id":99064},{"match":"rosieRage","image_id":99068},{"match":"rosieFail","image_id":99059},{"match":"rosieShy","image_id":99061},{"match":"rosieCry","image_id":99058},{"match":"rosieCreep","image_id":99062},{"match":"rosieRIP","image_id":99063},{"match":"rosieMoist","image_id":99075},{"match":"rosieCare","image_id":71344},{"match":"rosiePug","image_id":108119},{"match":"rosie321","image_id":109582},{"match":"rosieGasm","image_id":102542}]}
+{
+  "name": "twitch-sub-rosieriver",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rosieKnife",
+      "image_id": 99056
+    },
+    {
+      "match": "rosiePray",
+      "image_id": 99060
+    },
+    {
+      "match": "rosieLove",
+      "image_id": 99066
+    },
+    {
+      "match": "rosieBiceps",
+      "image_id": 99064
+    },
+    {
+      "match": "rosieRage",
+      "image_id": 99068
+    },
+    {
+      "match": "rosieFail",
+      "image_id": 99059
+    },
+    {
+      "match": "rosieShy",
+      "image_id": 99061
+    },
+    {
+      "match": "rosieCry",
+      "image_id": 99058
+    },
+    {
+      "match": "rosieCreep",
+      "image_id": 99062
+    },
+    {
+      "match": "rosieRIP",
+      "image_id": 99063
+    },
+    {
+      "match": "rosieMoist",
+      "image_id": 99075
+    },
+    {
+      "match": "rosieCare",
+      "image_id": 71344
+    },
+    {
+      "match": "rosiePug",
+      "image_id": 108119
+    },
+    {
+      "match": "rosie321",
+      "image_id": 109582
+    },
+    {
+      "match": "rosieGasm",
+      "image_id": 102542
+    }
+  ]
+}

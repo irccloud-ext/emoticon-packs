@@ -1,1 +1,19 @@
-{"name":"twitch-sub-legendofgamer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lgdBan","image_id":8355},{"match":"lgdToast","image_id":15536},{"match":"lgdJuke","image_id":16054}]}
+{
+  "name": "twitch-sub-legendofgamer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lgdBan",
+      "image_id": 8355
+    },
+    {
+      "match": "lgdToast",
+      "image_id": 15536
+    },
+    {
+      "match": "lgdJuke",
+      "image_id": 16054
+    }
+  ]
+}

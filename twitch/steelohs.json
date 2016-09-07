@@ -1,1 +1,23 @@
-{"name":"twitch-sub-steelohs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"steeloGoldrain","image_id":107856},{"match":"steeloPoopki","image_id":107838}]}
+{
+  "name": "twitch-sub-steelohs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "steeloGoldrain",
+      "image_id": 107856
+    },
+    {
+      "match": "steeloPoopki",
+      "image_id": 107838
+    },
+    {
+      "match": "steeloNmb",
+      "image_id": 112414
+    },
+    {
+      "match": "steeloSb",
+      "image_id": 112415
+    }
+  ]
+}

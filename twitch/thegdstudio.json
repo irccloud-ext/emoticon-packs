@@ -1,1 +1,71 @@
-{"name":"twitch-sub-thegdstudio","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gds2dg","image_id":899},{"match":"gds2mad","image_id":915},{"match":"gdsIsfrog","image_id":902},{"match":"gdsNuman","image_id":909},{"match":"gdsSmlr","image_id":910},{"match":"gdsSkrffz","image_id":911},{"match":"gdsTranceh","image_id":912},{"match":"gdsWps","image_id":913},{"match":"gdsBeststudio","image_id":914},{"match":"gdsSupsonr","image_id":897},{"match":"gdsSupsonl","image_id":898},{"match":"gdsAdbc","image_id":900},{"match":"gdsApollosc","image_id":901},{"match":"gdsWalterw","image_id":903},{"match":"gdsHlspwn","image_id":905},{"match":"gdsVcat","image_id":908}]}
+{
+  "name": "twitch-sub-thegdstudio",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gds2dg",
+      "image_id": 899
+    },
+    {
+      "match": "gds2mad",
+      "image_id": 915
+    },
+    {
+      "match": "gdsIsfrog",
+      "image_id": 902
+    },
+    {
+      "match": "gdsNuman",
+      "image_id": 909
+    },
+    {
+      "match": "gdsSmlr",
+      "image_id": 910
+    },
+    {
+      "match": "gdsSkrffz",
+      "image_id": 911
+    },
+    {
+      "match": "gdsTranceh",
+      "image_id": 912
+    },
+    {
+      "match": "gdsWps",
+      "image_id": 913
+    },
+    {
+      "match": "gdsBeststudio",
+      "image_id": 914
+    },
+    {
+      "match": "gdsSupsonr",
+      "image_id": 897
+    },
+    {
+      "match": "gdsSupsonl",
+      "image_id": 898
+    },
+    {
+      "match": "gdsAdbc",
+      "image_id": 900
+    },
+    {
+      "match": "gdsApollosc",
+      "image_id": 901
+    },
+    {
+      "match": "gdsWalterw",
+      "image_id": 903
+    },
+    {
+      "match": "gdsHlspwn",
+      "image_id": 905
+    },
+    {
+      "match": "gdsVcat",
+      "image_id": 908
+    }
+  ]
+}

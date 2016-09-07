@@ -1,1 +1,35 @@
-{"name":"twitch-sub-waldodude","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wchatIcream","image_id":27342},{"match":"wchatPwnrex","image_id":27330},{"match":"wchatMrita","image_id":27341},{"match":"wchatGWW","image_id":28145},{"match":"wchatDazed","image_id":28552},{"match":"wchatRip","image_id":28613},{"match":"wchatButterlegs","image_id":29169}]}
+{
+  "name": "twitch-sub-waldodude",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wchatIcream",
+      "image_id": 27342
+    },
+    {
+      "match": "wchatPwnrex",
+      "image_id": 27330
+    },
+    {
+      "match": "wchatMrita",
+      "image_id": 27341
+    },
+    {
+      "match": "wchatGWW",
+      "image_id": 28145
+    },
+    {
+      "match": "wchatDazed",
+      "image_id": 28552
+    },
+    {
+      "match": "wchatRip",
+      "image_id": 28613
+    },
+    {
+      "match": "wchatButterlegs",
+      "image_id": 29169
+    }
+  ]
+}

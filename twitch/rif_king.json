@@ -1,1 +1,23 @@
-{"name":"twitch-sub-rif_king","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rifCAN","image_id":48126},{"match":"rifCANT","image_id":60009},{"match":"rifLogic","image_id":45839},{"match":"rifConspiracy","image_id":48244}]}
+{
+  "name": "twitch-sub-rif_king",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rifCAN",
+      "image_id": 48126
+    },
+    {
+      "match": "rifCANT",
+      "image_id": 60009
+    },
+    {
+      "match": "rifLogic",
+      "image_id": 45839
+    },
+    {
+      "match": "rifConspiracy",
+      "image_id": 48244
+    }
+  ]
+}

@@ -1,1 +1,11 @@
-{"name":"twitch-sub-neodota","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"neoMustache","image_id":5228}]}
+{
+  "name": "twitch-sub-neodota",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "neoMustache",
+      "image_id": 5228
+    }
+  ]
+}

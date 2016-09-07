@@ -1,1 +1,15 @@
-{"name":"twitch-sub-shadowslive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shaPos","image_id":44101},{"match":"shaW","image_id":52503}]}
+{
+  "name": "twitch-sub-shadowslive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shaPos",
+      "image_id": 44101
+    },
+    {
+      "match": "shaW",
+      "image_id": 52503
+    }
+  ]
+}

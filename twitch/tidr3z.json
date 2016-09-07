@@ -1,1 +1,39 @@
-{"name":"twitch-sub-tidr3z","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tidr3zWurf","image_id":37981},{"match":"tidr3zSubHype","image_id":37980},{"match":"tidr3zSchmock","image_id":37979},{"match":"tidr3zBot","image_id":37429},{"match":"tidr3zGalol","image_id":39368},{"match":"tidr3zDDOS","image_id":39406},{"match":"tidr3zSubGame","image_id":39401},{"match":"tidr3zInvMaus","image_id":40423}]}
+{
+  "name": "twitch-sub-tidr3z",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tidr3zWurf",
+      "image_id": 37981
+    },
+    {
+      "match": "tidr3zSubHype",
+      "image_id": 37980
+    },
+    {
+      "match": "tidr3zSchmock",
+      "image_id": 37979
+    },
+    {
+      "match": "tidr3zBot",
+      "image_id": 37429
+    },
+    {
+      "match": "tidr3zGalol",
+      "image_id": 39368
+    },
+    {
+      "match": "tidr3zDDOS",
+      "image_id": 39406
+    },
+    {
+      "match": "tidr3zSubGame",
+      "image_id": 39401
+    },
+    {
+      "match": "tidr3zInvMaus",
+      "image_id": 40423
+    }
+  ]
+}

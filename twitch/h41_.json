@@ -1,1 +1,15 @@
-{"name":"twitch-sub-h41_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"halboysLogo","image_id":107155},{"match":"halboysJoke","image_id":108925}]}
+{
+  "name": "twitch-sub-h41_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "halboysLogo",
+      "image_id": 107155
+    },
+    {
+      "match": "halboysJoke",
+      "image_id": 108925
+    }
+  ]
+}

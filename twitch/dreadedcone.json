@@ -1,1 +1,67 @@
-{"name":"twitch-sub-dreadedcone","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"scrubRemmy","image_id":11313},{"match":"scrubRekt","image_id":4192},{"match":"scrubOkay","image_id":23135},{"match":"scrubCandy","image_id":15525},{"match":"scrubNub","image_id":15526},{"match":"scrubRum","image_id":27505},{"match":"scrubSkelly","image_id":27506},{"match":"scrubSmug","image_id":29177},{"match":"scrubSing","image_id":40288},{"match":"scrubCloud","image_id":46710},{"match":"scrubSpaghetti","image_id":46705},{"match":"scrubStretch1","image_id":48444},{"match":"scrubStretch2","image_id":48443},{"match":"scrubBandit","image_id":98775},{"match":"scrubHook","image_id":99963}]}
+{
+  "name": "twitch-sub-dreadedcone",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "scrubRemmy",
+      "image_id": 11313
+    },
+    {
+      "match": "scrubRekt",
+      "image_id": 4192
+    },
+    {
+      "match": "scrubOkay",
+      "image_id": 23135
+    },
+    {
+      "match": "scrubCandy",
+      "image_id": 15525
+    },
+    {
+      "match": "scrubNub",
+      "image_id": 15526
+    },
+    {
+      "match": "scrubRum",
+      "image_id": 27505
+    },
+    {
+      "match": "scrubSkelly",
+      "image_id": 27506
+    },
+    {
+      "match": "scrubSmug",
+      "image_id": 29177
+    },
+    {
+      "match": "scrubSing",
+      "image_id": 40288
+    },
+    {
+      "match": "scrubCloud",
+      "image_id": 46710
+    },
+    {
+      "match": "scrubSpaghetti",
+      "image_id": 46705
+    },
+    {
+      "match": "scrubStretch1",
+      "image_id": 48444
+    },
+    {
+      "match": "scrubStretch2",
+      "image_id": 48443
+    },
+    {
+      "match": "scrubBandit",
+      "image_id": 98775
+    },
+    {
+      "match": "scrubHook",
+      "image_id": 99963
+    }
+  ]
+}

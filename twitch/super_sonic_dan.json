@@ -1,1 +1,39 @@
-{"name":"twitch-sub-super_sonic_dan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"spikeyBooty","image_id":105465},{"match":"spikeyLove","image_id":68151},{"match":"spikeyKappa","image_id":65799},{"match":"spikeyHi","image_id":68358},{"match":"spikeyThump","image_id":68314},{"match":"spikeyRage","image_id":68197},{"match":"spikeyPizza","image_id":67669},{"match":"spikeyHype","image_id":67680}]}
+{
+  "name": "twitch-sub-super_sonic_dan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "spikeyBooty",
+      "image_id": 105465
+    },
+    {
+      "match": "spikeyLove",
+      "image_id": 68151
+    },
+    {
+      "match": "spikeyKappa",
+      "image_id": 65799
+    },
+    {
+      "match": "spikeyHi",
+      "image_id": 68358
+    },
+    {
+      "match": "spikeyThump",
+      "image_id": 68314
+    },
+    {
+      "match": "spikeyRage",
+      "image_id": 68197
+    },
+    {
+      "match": "spikeyPizza",
+      "image_id": 67669
+    },
+    {
+      "match": "spikeyHype",
+      "image_id": 67680
+    }
+  ]
+}

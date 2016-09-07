@@ -1,1 +1,19 @@
-{"name":"twitch-sub-peteyboo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"peteyBoo","image_id":13589},{"match":"peteySquitty","image_id":17464},{"match":"peteySD","image_id":20238}]}
+{
+  "name": "twitch-sub-peteyboo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "peteyBoo",
+      "image_id": 13589
+    },
+    {
+      "match": "peteySquitty",
+      "image_id": 17464
+    },
+    {
+      "match": "peteySD",
+      "image_id": 20238
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-hollyylive_","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"holGG","image_id":105079},{"match":"holC","image_id":105078},{"match":"holSAD","image_id":83540},{"match":"holChoke","image_id":78779},{"match":"holSub","image_id":78777},{"match":"holHoldThis","image_id":100495},{"match":"holSNORT","image_id":82996},{"match":"holLove","image_id":86099},{"match":"hol0","image_id":86100},{"match":"holRage","image_id":99374}]}
+{
+  "name": "twitch-sub-hollyylive_",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "holGG",
+      "image_id": 105079
+    },
+    {
+      "match": "holC",
+      "image_id": 105078
+    },
+    {
+      "match": "holSAD",
+      "image_id": 83540
+    },
+    {
+      "match": "holChoke",
+      "image_id": 78779
+    },
+    {
+      "match": "holSub",
+      "image_id": 78777
+    },
+    {
+      "match": "holHoldThis",
+      "image_id": 100495
+    },
+    {
+      "match": "holSNORT",
+      "image_id": 82996
+    },
+    {
+      "match": "holLove",
+      "image_id": 86099
+    },
+    {
+      "match": "hol0",
+      "image_id": 86100
+    },
+    {
+      "match": "holRage",
+      "image_id": 99374
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-commanderroot","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rootLove","image_id":59831},{"match":"rootMuhh","image_id":103866},{"match":"rootFeet","image_id":93442},{"match":"rootBusted","image_id":41429},{"match":"rootGER","image_id":44994},{"match":"rootFireWall","image_id":105510}]}
+{
+  "name": "twitch-sub-commanderroot",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rootLove",
+      "image_id": 59831
+    },
+    {
+      "match": "rootMuhh",
+      "image_id": 103866
+    },
+    {
+      "match": "rootFeet",
+      "image_id": 93442
+    },
+    {
+      "match": "rootBusted",
+      "image_id": 41429
+    },
+    {
+      "match": "rootGER",
+      "image_id": 44994
+    },
+    {
+      "match": "rootFireWall",
+      "image_id": 105510
+    }
+  ]
+}

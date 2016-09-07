@@ -1,1 +1,39 @@
-{"name":"twitch-sub-teeveeo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"teeveeTips","image_id":16640},{"match":"teeveeThirst","image_id":33132},{"match":"teeveeGOAT","image_id":33130},{"match":"teeveeLag","image_id":47017},{"match":"teeveeW","image_id":51298},{"match":"teeveeFeed","image_id":58253},{"match":"teeveeFeels","image_id":68396},{"match":"teeveeSub","image_id":72277}]}
+{
+  "name": "twitch-sub-teeveeo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "teeveeTips",
+      "image_id": 16640
+    },
+    {
+      "match": "teeveeThirst",
+      "image_id": 33132
+    },
+    {
+      "match": "teeveeGOAT",
+      "image_id": 33130
+    },
+    {
+      "match": "teeveeLag",
+      "image_id": 47017
+    },
+    {
+      "match": "teeveeW",
+      "image_id": 51298
+    },
+    {
+      "match": "teeveeFeed",
+      "image_id": 58253
+    },
+    {
+      "match": "teeveeFeels",
+      "image_id": 68396
+    },
+    {
+      "match": "teeveeSub",
+      "image_id": 72277
+    }
+  ]
+}

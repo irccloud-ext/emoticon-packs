@@ -1,1 +1,31 @@
-{"name":"twitch-sub-still_sleepy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"missuShy","image_id":39709},{"match":"missuKiss","image_id":39737},{"match":"missuHi","image_id":39850},{"match":"missuR","image_id":39968},{"match":"missuHelpless","image_id":43671},{"match":"missuCRY","image_id":43659}]}
+{
+  "name": "twitch-sub-still_sleepy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "missuShy",
+      "image_id": 39709
+    },
+    {
+      "match": "missuKiss",
+      "image_id": 39737
+    },
+    {
+      "match": "missuHi",
+      "image_id": 39850
+    },
+    {
+      "match": "missuR",
+      "image_id": 39968
+    },
+    {
+      "match": "missuHelpless",
+      "image_id": 43671
+    },
+    {
+      "match": "missuCRY",
+      "image_id": 43659
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-bananaflavourhd","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bfhdGASM","image_id":110757},{"match":"bfhdGG","image_id":110748}]}
+{
+  "name": "twitch-sub-bananaflavourhd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bfhdGASM",
+      "image_id": 110757
+    },
+    {
+      "match": "bfhdGG",
+      "image_id": 110748
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-mushmouthgaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mmgHype","image_id":32459},{"match":"mmgRage","image_id":32463},{"match":"mmgRek","image_id":53930},{"match":"mmgMush","image_id":54522}]}
+{
+  "name": "twitch-sub-mushmouthgaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mmgHype",
+      "image_id": 32459
+    },
+    {
+      "match": "mmgRage",
+      "image_id": 32463
+    },
+    {
+      "match": "mmgRek",
+      "image_id": 53930
+    },
+    {
+      "match": "mmgMush",
+      "image_id": 54522
+    }
+  ]
+}

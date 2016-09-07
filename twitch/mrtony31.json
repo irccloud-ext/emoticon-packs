@@ -1,1 +1,15 @@
-{"name":"twitch-sub-mrtony31","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tonysPOLO","image_id":22332},{"match":"tonysDANG","image_id":22349}]}
+{
+  "name": "twitch-sub-mrtony31",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tonysPOLO",
+      "image_id": 22332
+    },
+    {
+      "match": "tonysDANG",
+      "image_id": 22349
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"twitch-sub-tsm_xpecial","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xpecGIRLS","image_id":69435},{"match":"xpecTAUNTY","image_id":30517},{"match":"xpecTIBS","image_id":33880},{"match":"xpecPORO","image_id":33873},{"match":"xpecOMG","image_id":64019},{"match":"xpecUNLUCKY","image_id":70556},{"match":"xpecTILT","image_id":70557}]}
+{
+  "name": "twitch-sub-tsm_xpecial",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xpecGIRLS",
+      "image_id": 69435
+    },
+    {
+      "match": "xpecTAUNTY",
+      "image_id": 30517
+    },
+    {
+      "match": "xpecTIBS",
+      "image_id": 33880
+    },
+    {
+      "match": "xpecPORO",
+      "image_id": 33873
+    },
+    {
+      "match": "xpecOMG",
+      "image_id": 64019
+    },
+    {
+      "match": "xpecUNLUCKY",
+      "image_id": 70556
+    },
+    {
+      "match": "xpecTILT",
+      "image_id": 70557
+    }
+  ]
+}

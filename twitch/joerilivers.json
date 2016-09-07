@@ -1,1 +1,23 @@
-{"name":"twitch-sub-joerilivers","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"joeriSleep","image_id":15823},{"match":"joeriWaste","image_id":16421},{"match":"joeriFace","image_id":17751},{"match":"joeriBank","image_id":18120}]}
+{
+  "name": "twitch-sub-joerilivers",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "joeriSleep",
+      "image_id": 15823
+    },
+    {
+      "match": "joeriWaste",
+      "image_id": 16421
+    },
+    {
+      "match": "joeriFace",
+      "image_id": 17751
+    },
+    {
+      "match": "joeriBank",
+      "image_id": 18120
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-gamersmack","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gamerMario","image_id":84637},{"match":"gamerDixie","image_id":82626},{"match":"gamerKazooie","image_id":98648},{"match":"gamerMew","image_id":98651}]}
+{
+  "name": "twitch-sub-gamersmack",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gamerMario",
+      "image_id": 84637
+    },
+    {
+      "match": "gamerDixie",
+      "image_id": 82626
+    },
+    {
+      "match": "gamerKazooie",
+      "image_id": 98648
+    },
+    {
+      "match": "gamerMew",
+      "image_id": 98651
+    }
+  ]
+}

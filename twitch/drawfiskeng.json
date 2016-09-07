@@ -1,1 +1,15 @@
-{"name":"twitch-sub-drawfiskeng","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"drawBelieve","image_id":9318},{"match":"drawGasm","image_id":9319}]}
+{
+  "name": "twitch-sub-drawfiskeng",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "drawBelieve",
+      "image_id": 9318
+    },
+    {
+      "match": "drawGasm",
+      "image_id": 9319
+    }
+  ]
+}

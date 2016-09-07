@@ -1,1 +1,15 @@
-{"name":"twitch-sub-hantzbro","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hantzLewd","image_id":33172},{"match":"hantzHi","image_id":92235}]}
+{
+  "name": "twitch-sub-hantzbro",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hantzLewd",
+      "image_id": 33172
+    },
+    {
+      "match": "hantzHi",
+      "image_id": 92235
+    }
+  ]
+}

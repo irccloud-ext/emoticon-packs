@@ -1,1 +1,31 @@
-{"name":"twitch-sub-japan_fan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jpfKukuo","image_id":53678},{"match":"jpfLike","image_id":53677},{"match":"jpfNice","image_id":53438},{"match":"jpfHdsup","image_id":53437},{"match":"jpf87","image_id":90216},{"match":"jpfLol","image_id":90284}]}
+{
+  "name": "twitch-sub-japan_fan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jpfKukuo",
+      "image_id": 53678
+    },
+    {
+      "match": "jpfLike",
+      "image_id": 53677
+    },
+    {
+      "match": "jpfNice",
+      "image_id": 53438
+    },
+    {
+      "match": "jpfHdsup",
+      "image_id": 53437
+    },
+    {
+      "match": "jpf87",
+      "image_id": 90216
+    },
+    {
+      "match": "jpfLol",
+      "image_id": 90284
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-sovindictive","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vinFAM","image_id":15274},{"match":"vinBUMP","image_id":26177},{"match":"vinKISS","image_id":73983},{"match":"vinSAD","image_id":99048},{"match":"vinCAT","image_id":97356},{"match":"vinHYPE","image_id":97357},{"match":"vinLOVE","image_id":97358},{"match":"vinMAD","image_id":97359},{"match":"vinRIP","image_id":106759},{"match":"vinKAP","image_id":106760}]}
+{
+  "name": "twitch-sub-sovindictive",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vinFAM",
+      "image_id": 15274
+    },
+    {
+      "match": "vinBUMP",
+      "image_id": 26177
+    },
+    {
+      "match": "vinKISS",
+      "image_id": 73983
+    },
+    {
+      "match": "vinSAD",
+      "image_id": 99048
+    },
+    {
+      "match": "vinCAT",
+      "image_id": 97356
+    },
+    {
+      "match": "vinHYPE",
+      "image_id": 97357
+    },
+    {
+      "match": "vinLOVE",
+      "image_id": 97358
+    },
+    {
+      "match": "vinMAD",
+      "image_id": 97359
+    },
+    {
+      "match": "vinRIP",
+      "image_id": 106759
+    },
+    {
+      "match": "vinKAP",
+      "image_id": 106760
+    }
+  ]
+}

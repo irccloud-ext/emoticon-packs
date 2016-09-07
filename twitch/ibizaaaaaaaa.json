@@ -1,1 +1,39 @@
-{"name":"twitch-sub-ibizaaaaaaaa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ibiHi","image_id":83388},{"match":"ibiF","image_id":83389},{"match":"ibiH","image_id":83390},{"match":"ibiHype","image_id":83391},{"match":"ibiRekt","image_id":83392},{"match":"ibiRip","image_id":83393},{"match":"ibiT","image_id":83394},{"match":"ibiB","image_id":83398}]}
+{
+  "name": "twitch-sub-ibizaaaaaaaa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ibiHi",
+      "image_id": 83388
+    },
+    {
+      "match": "ibiF",
+      "image_id": 83389
+    },
+    {
+      "match": "ibiH",
+      "image_id": 83390
+    },
+    {
+      "match": "ibiHype",
+      "image_id": 83391
+    },
+    {
+      "match": "ibiRekt",
+      "image_id": 83392
+    },
+    {
+      "match": "ibiRip",
+      "image_id": 83393
+    },
+    {
+      "match": "ibiT",
+      "image_id": 83394
+    },
+    {
+      "match": "ibiB",
+      "image_id": 83398
+    }
+  ]
+}

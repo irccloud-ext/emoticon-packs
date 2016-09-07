@@ -1,1 +1,19 @@
-{"name":"twitch-sub-professor_milk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"milkPAPA","image_id":108780},{"match":"milkW","image_id":82739},{"match":"milkBOTTLE","image_id":81327}]}
+{
+  "name": "twitch-sub-professor_milk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "milkPAPA",
+      "image_id": 108780
+    },
+    {
+      "match": "milkW",
+      "image_id": 82739
+    },
+    {
+      "match": "milkBOTTLE",
+      "image_id": 81327
+    }
+  ]
+}

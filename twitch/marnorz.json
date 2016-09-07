@@ -1,1 +1,19 @@
-{"name":"twitch-sub-marnorz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"marnMIB","image_id":91967},{"match":"marnNUT","image_id":91978},{"match":"marnMIKA","image_id":91968}]}
+{
+  "name": "twitch-sub-marnorz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "marnMIB",
+      "image_id": 91967
+    },
+    {
+      "match": "marnNUT",
+      "image_id": 91978
+    },
+    {
+      "match": "marnMIKA",
+      "image_id": 91968
+    }
+  ]
+}

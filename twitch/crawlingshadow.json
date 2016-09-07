@@ -1,1 +1,11 @@
-{"name":"twitch-sub-crawlingshadow","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"finishhimFIHI","image_id":52035}]}
+{
+  "name": "twitch-sub-crawlingshadow",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "finishhimFIHI",
+      "image_id": 52035
+    }
+  ]
+}

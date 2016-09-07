@@ -1,1 +1,35 @@
-{"name":"twitch-sub-hoodlumscrafty","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hoodJoin","image_id":45594},{"match":"hoodHowdy","image_id":42223},{"match":"hoodHype","image_id":42032},{"match":"hoodPijah","image_id":43821},{"match":"hoodRaid","image_id":45325},{"match":"hoodRufus","image_id":47735},{"match":"hoodSnake","image_id":50434}]}
+{
+  "name": "twitch-sub-hoodlumscrafty",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hoodJoin",
+      "image_id": 45594
+    },
+    {
+      "match": "hoodHowdy",
+      "image_id": 42223
+    },
+    {
+      "match": "hoodHype",
+      "image_id": 42032
+    },
+    {
+      "match": "hoodPijah",
+      "image_id": 43821
+    },
+    {
+      "match": "hoodRaid",
+      "image_id": 45325
+    },
+    {
+      "match": "hoodRufus",
+      "image_id": 47735
+    },
+    {
+      "match": "hoodSnake",
+      "image_id": 50434
+    }
+  ]
+}

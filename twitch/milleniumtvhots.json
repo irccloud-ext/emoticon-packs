@@ -1,1 +1,23 @@
-{"name":"twitch-sub-milleniumtvhots","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mtvhotsM","image_id":57659},{"match":"mtvhotsBourbie","image_id":57660}]}
+{
+  "name": "twitch-sub-milleniumtvhots",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mtvhotsM",
+      "image_id": 57659
+    },
+    {
+      "match": "mtvhotsBourbie",
+      "image_id": 57660
+    },
+    {
+      "match": "mtvhotsCHAelind",
+      "image_id": 111778
+    },
+    {
+      "match": "mtvhotsMalgaHat",
+      "image_id": 111780
+    }
+  ]
+}

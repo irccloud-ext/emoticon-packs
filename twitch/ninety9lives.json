@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ninety9lives","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"n9lHype","image_id":107602},{"match":"n9lHeart","image_id":107601},{"match":"n9lRobot","image_id":107600},{"match":"n9lUnlock","image_id":98044},{"match":"n9lDrop","image_id":109159},{"match":"n9lKappa","image_id":109180}]}
+{
+  "name": "twitch-sub-ninety9lives",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "n9lHype",
+      "image_id": 107602
+    },
+    {
+      "match": "n9lHeart",
+      "image_id": 107601
+    },
+    {
+      "match": "n9lRobot",
+      "image_id": 107600
+    },
+    {
+      "match": "n9lUnlock",
+      "image_id": 98044
+    },
+    {
+      "match": "n9lDrop",
+      "image_id": 109159
+    },
+    {
+      "match": "n9lKappa",
+      "image_id": 109180
+    }
+  ]
+}

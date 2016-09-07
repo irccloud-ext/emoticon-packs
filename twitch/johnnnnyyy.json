@@ -1,1 +1,27 @@
-{"name":"twitch-sub-johnnnnyyy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"johnnyjWHY","image_id":91746},{"match":"johnnyjVAC","image_id":91095},{"match":"johnnyjHile","image_id":91270},{"match":"johnnyjHYPE","image_id":91268},{"match":"johnnyjKappa","image_id":91269}]}
+{
+  "name": "twitch-sub-johnnnnyyy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "johnnyjWHY",
+      "image_id": 91746
+    },
+    {
+      "match": "johnnyjVAC",
+      "image_id": 91095
+    },
+    {
+      "match": "johnnyjHile",
+      "image_id": 91270
+    },
+    {
+      "match": "johnnyjHYPE",
+      "image_id": 91268
+    },
+    {
+      "match": "johnnyjKappa",
+      "image_id": 91269
+    }
+  ]
+}

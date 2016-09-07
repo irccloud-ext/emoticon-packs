@@ -1,1 +1,15 @@
-{"name":"twitch-sub-esl_striimit","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"striimitHelppo","image_id":111401},{"match":"striimitVitu","image_id":111400}]}
+{
+  "name": "twitch-sub-esl_striimit",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "striimitHelppo",
+      "image_id": 111401
+    },
+    {
+      "match": "striimitVitu",
+      "image_id": 111400
+    }
+  ]
+}

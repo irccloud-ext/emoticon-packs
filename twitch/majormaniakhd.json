@@ -1,0 +1,39 @@
+{
+  "name": "twitch-sub-majormaniakhd",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "maniakBIG",
+      "image_id": 112220
+    },
+    {
+      "match": "maniakBEAM",
+      "image_id": 112221
+    },
+    {
+      "match": "maniakDONTMISS",
+      "image_id": 112227
+    },
+    {
+      "match": "maniakDONTLOSE",
+      "image_id": 112228
+    },
+    {
+      "match": "maniakMAVERICK",
+      "image_id": 112230
+    },
+    {
+      "match": "maniakGG",
+      "image_id": 112233
+    },
+    {
+      "match": "maniakSUBHYPE",
+      "image_id": 111896
+    },
+    {
+      "match": "maniakNASA",
+      "image_id": 112026
+    }
+  ]
+}

@@ -1,1 +1,11 @@
-{"name":"twitch-sub-lachinio","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lachOMG","image_id":110460}]}
+{
+  "name": "twitch-sub-lachinio",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lachOMG",
+      "image_id": 110460
+    }
+  ]
+}

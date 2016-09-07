@@ -1,1 +1,35 @@
-{"name":"twitch-sub-arumba07","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"arumbaFace","image_id":35487},{"match":"arumba26cents","image_id":37165},{"match":"arumbaSexy","image_id":37166},{"match":"arumbaExcel","image_id":81360},{"match":"arumbaCB","image_id":81356},{"match":"arumbaBug","image_id":81359},{"match":"arumbaFix","image_id":81358}]}
+{
+  "name": "twitch-sub-arumba07",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "arumbaFace",
+      "image_id": 35487
+    },
+    {
+      "match": "arumba26cents",
+      "image_id": 37165
+    },
+    {
+      "match": "arumbaSexy",
+      "image_id": 37166
+    },
+    {
+      "match": "arumbaExcel",
+      "image_id": 81360
+    },
+    {
+      "match": "arumbaCB",
+      "image_id": 81356
+    },
+    {
+      "match": "arumbaBug",
+      "image_id": 81359
+    },
+    {
+      "match": "arumbaFix",
+      "image_id": 81358
+    }
+  ]
+}

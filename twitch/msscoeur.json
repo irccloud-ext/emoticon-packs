@@ -1,1 +1,19 @@
-{"name":"twitch-sub-msscoeur","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"camiiW","image_id":96766},{"match":"camiiZ","image_id":99420},{"match":"camiiHYPE","image_id":106341}]}
+{
+  "name": "twitch-sub-msscoeur",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "camiiW",
+      "image_id": 96766
+    },
+    {
+      "match": "camiiZ",
+      "image_id": 99420
+    },
+    {
+      "match": "camiiHYPE",
+      "image_id": 106341
+    }
+  ]
+}

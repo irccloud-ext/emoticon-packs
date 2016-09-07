@@ -1,1 +1,15 @@
-{"name":"twitch-sub-valvenewsnetwork","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"valvenewsLec","image_id":61612},{"match":"valvenewsTyler","image_id":61613}]}
+{
+  "name": "twitch-sub-valvenewsnetwork",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "valvenewsLec",
+      "image_id": 61612
+    },
+    {
+      "match": "valvenewsTyler",
+      "image_id": 61613
+    }
+  ]
+}

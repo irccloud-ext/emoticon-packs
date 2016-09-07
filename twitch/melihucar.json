@@ -1,1 +1,67 @@
-{"name":"twitch-sub-melihucar","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jesusYunus","image_id":76091},{"match":"jesusHype","image_id":76094},{"match":"jesusOnur","image_id":76090},{"match":"jesusEngin","image_id":51598},{"match":"jesusYalarun","image_id":76098},{"match":"jesusZaa","image_id":61079},{"match":"jesusPride","image_id":76088},{"match":"jesusAta","image_id":56164},{"match":"jesusElf","image_id":65986},{"match":"jesusCan","image_id":76860},{"match":"jesusBas","image_id":85617},{"match":"jesusRage","image_id":76097},{"match":"jesusTR","image_id":76092},{"match":"jesusSinan","image_id":85060},{"match":"jesusAfk","image_id":86208}]}
+{
+  "name": "twitch-sub-melihucar",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jesusYunus",
+      "image_id": 76091
+    },
+    {
+      "match": "jesusHype",
+      "image_id": 76094
+    },
+    {
+      "match": "jesusOnur",
+      "image_id": 76090
+    },
+    {
+      "match": "jesusEngin",
+      "image_id": 51598
+    },
+    {
+      "match": "jesusYalarun",
+      "image_id": 76098
+    },
+    {
+      "match": "jesusZaa",
+      "image_id": 61079
+    },
+    {
+      "match": "jesusPride",
+      "image_id": 76088
+    },
+    {
+      "match": "jesusAta",
+      "image_id": 56164
+    },
+    {
+      "match": "jesusElf",
+      "image_id": 65986
+    },
+    {
+      "match": "jesusCan",
+      "image_id": 76860
+    },
+    {
+      "match": "jesusBas",
+      "image_id": 85617
+    },
+    {
+      "match": "jesusRage",
+      "image_id": 76097
+    },
+    {
+      "match": "jesusTR",
+      "image_id": 76092
+    },
+    {
+      "match": "jesusSinan",
+      "image_id": 85060
+    },
+    {
+      "match": "jesusAfk",
+      "image_id": 86208
+    }
+  ]
+}

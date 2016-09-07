@@ -1,1 +1,47 @@
-{"name":"twitch-sub-zeroempires","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wololoHoused","image_id":10148},{"match":"wololoWarrior","image_id":10202},{"match":"wololoHype","image_id":9913},{"match":"wololoTrush","image_id":28510},{"match":"wololoZero","image_id":28509},{"match":"wololoGG","image_id":28508},{"match":"wololoOnager","image_id":29894},{"match":"wololoHole","image_id":30050},{"match":"wololoComeback","image_id":51052},{"match":"wololoRiot","image_id":51053}]}
+{
+  "name": "twitch-sub-zeroempires",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wololoHoused",
+      "image_id": 10148
+    },
+    {
+      "match": "wololoWarrior",
+      "image_id": 10202
+    },
+    {
+      "match": "wololoHype",
+      "image_id": 9913
+    },
+    {
+      "match": "wololoTrush",
+      "image_id": 28510
+    },
+    {
+      "match": "wololoZero",
+      "image_id": 28509
+    },
+    {
+      "match": "wololoGG",
+      "image_id": 28508
+    },
+    {
+      "match": "wololoOnager",
+      "image_id": 29894
+    },
+    {
+      "match": "wololoHole",
+      "image_id": 30050
+    },
+    {
+      "match": "wololoComeback",
+      "image_id": 51052
+    },
+    {
+      "match": "wololoRiot",
+      "image_id": 51053
+    }
+  ]
+}

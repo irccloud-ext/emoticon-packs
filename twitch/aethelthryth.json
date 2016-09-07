@@ -1,1 +1,39 @@
-{"name":"twitch-sub-aethelthryth","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rekktFail","image_id":25025},{"match":"rekktAmeno","image_id":72083},{"match":"rekktRIP","image_id":72084},{"match":"rekktHype","image_id":72085},{"match":"rekktGosu","image_id":79898},{"match":"rekktPact","image_id":79899},{"match":"rekktRage","image_id":79900},{"match":"rekktDaiteNaDebeliq","image_id":79901}]}
+{
+  "name": "twitch-sub-aethelthryth",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rekktFail",
+      "image_id": 25025
+    },
+    {
+      "match": "rekktAmeno",
+      "image_id": 72083
+    },
+    {
+      "match": "rekktRIP",
+      "image_id": 72084
+    },
+    {
+      "match": "rekktHype",
+      "image_id": 72085
+    },
+    {
+      "match": "rekktGosu",
+      "image_id": 79898
+    },
+    {
+      "match": "rekktPact",
+      "image_id": 79899
+    },
+    {
+      "match": "rekktRage",
+      "image_id": 79900
+    },
+    {
+      "match": "rekktDaiteNaDebeliq",
+      "image_id": 79901
+    }
+  ]
+}

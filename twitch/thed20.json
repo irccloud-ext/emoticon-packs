@@ -1,1 +1,39 @@
-{"name":"twitch-sub-thed20","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"d20Face","image_id":25924},{"match":"d20Camp","image_id":26360},{"match":"d20Urownbro","image_id":26492},{"match":"d20Fail","image_id":27734},{"match":"d20Fish","image_id":28403},{"match":"d20Face2","image_id":28402},{"match":"d20Dream","image_id":66910},{"match":"d20Chill","image_id":49249}]}
+{
+  "name": "twitch-sub-thed20",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "d20Face",
+      "image_id": 25924
+    },
+    {
+      "match": "d20Camp",
+      "image_id": 26360
+    },
+    {
+      "match": "d20Urownbro",
+      "image_id": 26492
+    },
+    {
+      "match": "d20Fail",
+      "image_id": 27734
+    },
+    {
+      "match": "d20Fish",
+      "image_id": 28403
+    },
+    {
+      "match": "d20Face2",
+      "image_id": 28402
+    },
+    {
+      "match": "d20Dream",
+      "image_id": 66910
+    },
+    {
+      "match": "d20Chill",
+      "image_id": 49249
+    }
+  ]
+}

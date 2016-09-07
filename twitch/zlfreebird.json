@@ -1,1 +1,67 @@
-{"name":"twitch-sub-zlfreebird","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wntrFP","image_id":6848},{"match":"wntrSUP","image_id":6869},{"match":"wntrSwag","image_id":11251},{"match":"wntrMARINE","image_id":30145},{"match":"wntrLOVE","image_id":85301},{"match":"wntrLING","image_id":25989},{"match":"wntrLOT","image_id":25831},{"match":"wntrCOST","image_id":24998},{"match":"wntrBOYS","image_id":24999},{"match":"wntrLOOPY","image_id":33658},{"match":"wntrHYPE","image_id":44810},{"match":"wntrGG","image_id":44809},{"match":"wntrWALL","image_id":66443},{"match":"wntrMONEY","image_id":82623},{"match":"wntrDIRTY","image_id":82624}]}
+{
+  "name": "twitch-sub-zlfreebird",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wntrFP",
+      "image_id": 6848
+    },
+    {
+      "match": "wntrSUP",
+      "image_id": 6869
+    },
+    {
+      "match": "wntrSwag",
+      "image_id": 11251
+    },
+    {
+      "match": "wntrMARINE",
+      "image_id": 30145
+    },
+    {
+      "match": "wntrLOVE",
+      "image_id": 85301
+    },
+    {
+      "match": "wntrLING",
+      "image_id": 25989
+    },
+    {
+      "match": "wntrLOT",
+      "image_id": 25831
+    },
+    {
+      "match": "wntrCOST",
+      "image_id": 24998
+    },
+    {
+      "match": "wntrBOYS",
+      "image_id": 24999
+    },
+    {
+      "match": "wntrLOOPY",
+      "image_id": 33658
+    },
+    {
+      "match": "wntrHYPE",
+      "image_id": 44810
+    },
+    {
+      "match": "wntrGG",
+      "image_id": 44809
+    },
+    {
+      "match": "wntrWALL",
+      "image_id": 66443
+    },
+    {
+      "match": "wntrMONEY",
+      "image_id": 82623
+    },
+    {
+      "match": "wntrDIRTY",
+      "image_id": 82624
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"twitch-sub-hackychannel","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hkyHeart","image_id":25478},{"match":"hkyGrin","image_id":27752},{"match":"hkyDream","image_id":31719},{"match":"hkySquid","image_id":53378}]}
+{
+  "name": "twitch-sub-hackychannel",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hkyHeart",
+      "image_id": 25478
+    },
+    {
+      "match": "hkyGrin",
+      "image_id": 27752
+    },
+    {
+      "match": "hkyDream",
+      "image_id": 31719
+    },
+    {
+      "match": "hkySquid",
+      "image_id": 53378
+    }
+  ]
+}

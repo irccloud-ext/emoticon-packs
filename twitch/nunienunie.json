@@ -1,1 +1,39 @@
-{"name":"twitch-sub-nunienunie","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nunieG","image_id":41016},{"match":"nunieS","image_id":41044},{"match":"nunieC","image_id":50034},{"match":"nunieR","image_id":45015},{"match":"nunieM","image_id":45007},{"match":"nunieRage","image_id":49741},{"match":"nunieL","image_id":49742},{"match":"nunieH","image_id":49634}]}
+{
+  "name": "twitch-sub-nunienunie",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nunieG",
+      "image_id": 41016
+    },
+    {
+      "match": "nunieS",
+      "image_id": 41044
+    },
+    {
+      "match": "nunieC",
+      "image_id": 50034
+    },
+    {
+      "match": "nunieR",
+      "image_id": 45015
+    },
+    {
+      "match": "nunieM",
+      "image_id": 45007
+    },
+    {
+      "match": "nunieRage",
+      "image_id": 49741
+    },
+    {
+      "match": "nunieL",
+      "image_id": 49742
+    },
+    {
+      "match": "nunieH",
+      "image_id": 49634
+    }
+  ]
+}

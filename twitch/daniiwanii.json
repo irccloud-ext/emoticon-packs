@@ -1,1 +1,47 @@
-{"name":"twitch-sub-daniiwanii","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"daniiSub","image_id":47530},{"match":"daniiThirst","image_id":47684},{"match":"daniiRiot","image_id":61467},{"match":"daniiLit","image_id":61469},{"match":"daniiRage","image_id":77915},{"match":"daniiD","image_id":77916},{"match":"daniiRIP","image_id":76355},{"match":"daniiLove","image_id":76354},{"match":"daniiFail","image_id":76353},{"match":"daniiThump","image_id":79671}]}
+{
+  "name": "twitch-sub-daniiwanii",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "daniiSub",
+      "image_id": 47530
+    },
+    {
+      "match": "daniiThirst",
+      "image_id": 47684
+    },
+    {
+      "match": "daniiRiot",
+      "image_id": 61467
+    },
+    {
+      "match": "daniiLit",
+      "image_id": 61469
+    },
+    {
+      "match": "daniiRage",
+      "image_id": 77915
+    },
+    {
+      "match": "daniiD",
+      "image_id": 77916
+    },
+    {
+      "match": "daniiRIP",
+      "image_id": 76355
+    },
+    {
+      "match": "daniiLove",
+      "image_id": 76354
+    },
+    {
+      "match": "daniiFail",
+      "image_id": 76353
+    },
+    {
+      "match": "daniiThump",
+      "image_id": 79671
+    }
+  ]
+}

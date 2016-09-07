@@ -1,1 +1,23 @@
-{"name":"twitch-sub-buildguild","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bgdBG","image_id":75489},{"match":"bgdBarry","image_id":100938},{"match":"bgdRealTalk","image_id":100939},{"match":"bgdHeart","image_id":98934}]}
+{
+  "name": "twitch-sub-buildguild",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bgdBG",
+      "image_id": 75489
+    },
+    {
+      "match": "bgdBarry",
+      "image_id": 100938
+    },
+    {
+      "match": "bgdRealTalk",
+      "image_id": 100939
+    },
+    {
+      "match": "bgdHeart",
+      "image_id": 98934
+    }
+  ]
+}

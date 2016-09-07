@@ -1,1 +1,63 @@
-{"name":"twitch-sub-behkuhtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"pigPoop","image_id":1967},{"match":"pigHerp","image_id":4209},{"match":"pigCreep","image_id":10499},{"match":"pigLove","image_id":18564},{"match":"pigParty","image_id":23056},{"match":"pigNom","image_id":23057},{"match":"pigGasm","image_id":55859},{"match":"pigFail","image_id":55858},{"match":"pigHey","image_id":55860},{"match":"pigFeels","image_id":55861},{"match":"pigTilt","image_id":55862},{"match":"pigYay","image_id":55863},{"match":"pigGive","image_id":54527},{"match":"pigGo","image_id":54526}]}
+{
+  "name": "twitch-sub-behkuhtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "pigPoop",
+      "image_id": 1967
+    },
+    {
+      "match": "pigHerp",
+      "image_id": 4209
+    },
+    {
+      "match": "pigCreep",
+      "image_id": 10499
+    },
+    {
+      "match": "pigLove",
+      "image_id": 18564
+    },
+    {
+      "match": "pigParty",
+      "image_id": 23056
+    },
+    {
+      "match": "pigNom",
+      "image_id": 23057
+    },
+    {
+      "match": "pigGasm",
+      "image_id": 55859
+    },
+    {
+      "match": "pigFail",
+      "image_id": 55858
+    },
+    {
+      "match": "pigHey",
+      "image_id": 55860
+    },
+    {
+      "match": "pigFeels",
+      "image_id": 55861
+    },
+    {
+      "match": "pigTilt",
+      "image_id": 55862
+    },
+    {
+      "match": "pigYay",
+      "image_id": 55863
+    },
+    {
+      "match": "pigGive",
+      "image_id": 54527
+    },
+    {
+      "match": "pigGo",
+      "image_id": 54526
+    }
+  ]
+}

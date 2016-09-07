@@ -1,1 +1,15 @@
-{"name":"twitch-sub-esl_quadro","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"quadroGta","image_id":80259},{"match":"quadroKafasi","image_id":80260}]}
+{
+  "name": "twitch-sub-esl_quadro",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "quadroGta",
+      "image_id": 80259
+    },
+    {
+      "match": "quadroKafasi",
+      "image_id": 80260
+    }
+  ]
+}

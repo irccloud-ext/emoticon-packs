@@ -1,1 +1,31 @@
-{"name":"twitch-sub-xadftw","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xadELICIA","image_id":17301},{"match":"xadHUE","image_id":17368},{"match":"xadPPK","image_id":17459},{"match":"xadCOXINHA","image_id":19483},{"match":"xadCONE","image_id":19221},{"match":"xadPANDEIRO","image_id":16017}]}
+{
+  "name": "twitch-sub-xadftw",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xadELICIA",
+      "image_id": 17301
+    },
+    {
+      "match": "xadHUE",
+      "image_id": 17368
+    },
+    {
+      "match": "xadPPK",
+      "image_id": 17459
+    },
+    {
+      "match": "xadCOXINHA",
+      "image_id": 19483
+    },
+    {
+      "match": "xadCONE",
+      "image_id": 19221
+    },
+    {
+      "match": "xadPANDEIRO",
+      "image_id": 16017
+    }
+  ]
+}

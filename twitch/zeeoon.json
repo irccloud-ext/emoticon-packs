@@ -1,1 +1,67 @@
-{"name":"twitch-sub-zeeoon","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"necoAfk","image_id":104154},{"match":"necoRekt","image_id":104151},{"match":"necoMermi","image_id":104184},{"match":"necoAnan","image_id":104155},{"match":"necoYetenek","image_id":104150},{"match":"necoHype","image_id":104139},{"match":"necoSa","image_id":104149},{"match":"necoBaklava","image_id":104148},{"match":"necoGgwp","image_id":104138},{"match":"necoRage","image_id":104141},{"match":"necoKalp","image_id":104140},{"match":"necoTurk","image_id":104185},{"match":"necoKawaii","image_id":104152},{"match":"necoFail","image_id":104153},{"match":"necoRip","image_id":104142}]}
+{
+  "name": "twitch-sub-zeeoon",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "necoAfk",
+      "image_id": 104154
+    },
+    {
+      "match": "necoRekt",
+      "image_id": 104151
+    },
+    {
+      "match": "necoMermi",
+      "image_id": 104184
+    },
+    {
+      "match": "necoAnan",
+      "image_id": 104155
+    },
+    {
+      "match": "necoYetenek",
+      "image_id": 104150
+    },
+    {
+      "match": "necoHype",
+      "image_id": 104139
+    },
+    {
+      "match": "necoSa",
+      "image_id": 104149
+    },
+    {
+      "match": "necoBaklava",
+      "image_id": 104148
+    },
+    {
+      "match": "necoGgwp",
+      "image_id": 104138
+    },
+    {
+      "match": "necoRage",
+      "image_id": 104141
+    },
+    {
+      "match": "necoKalp",
+      "image_id": 104140
+    },
+    {
+      "match": "necoTurk",
+      "image_id": 104185
+    },
+    {
+      "match": "necoKawaii",
+      "image_id": 104152
+    },
+    {
+      "match": "necoFail",
+      "image_id": 104153
+    },
+    {
+      "match": "necoRip",
+      "image_id": 104142
+    }
+  ]
+}

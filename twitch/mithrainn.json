@@ -1,1 +1,35 @@
-{"name":"twitch-sub-mithrainn","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mitRekt","image_id":81441},{"match":"mitVac","image_id":66265},{"match":"mitOley","image_id":66688},{"match":"mitEgo","image_id":66266},{"match":"mitAim","image_id":109866},{"match":"mitRage","image_id":109872},{"match":"mitKor","image_id":109873},{"match":"mitRip","image_id":109876}]}
+{
+  "name": "twitch-sub-mithrainn",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mitVac",
+      "image_id": 66265
+    },
+    {
+      "match": "mitOley",
+      "image_id": 66688
+    },
+    {
+      "match": "mitEgo",
+      "image_id": 66266
+    },
+    {
+      "match": "mitAim",
+      "image_id": 109866
+    },
+    {
+      "match": "mitRage",
+      "image_id": 109872
+    },
+    {
+      "match": "mitRip",
+      "image_id": 109876
+    },
+    {
+      "match": "mitAgla",
+      "image_id": 112542
+    }
+  ]
+}

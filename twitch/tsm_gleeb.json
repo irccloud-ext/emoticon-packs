@@ -1,1 +1,23 @@
-{"name":"twitch-sub-tsm_gleeb","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gleebBanana","image_id":13018},{"match":"gleebHook","image_id":13019},{"match":"gleebBaby","image_id":15837},{"match":"gleebFail","image_id":77670}]}
+{
+  "name": "twitch-sub-tsm_gleeb",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gleebBanana",
+      "image_id": 13018
+    },
+    {
+      "match": "gleebHook",
+      "image_id": 13019
+    },
+    {
+      "match": "gleebBaby",
+      "image_id": 15837
+    },
+    {
+      "match": "gleebFail",
+      "image_id": 77670
+    }
+  ]
+}

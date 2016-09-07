@@ -1,1 +1,19 @@
-{"name":"twitch-sub-auntieblu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lebluGasm","image_id":87599},{"match":"lebluLama","image_id":88319},{"match":"lebluEldo","image_id":92365}]}
+{
+  "name": "twitch-sub-auntieblu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lebluGasm",
+      "image_id": 87599
+    },
+    {
+      "match": "lebluLama",
+      "image_id": 88319
+    },
+    {
+      "match": "lebluEldo",
+      "image_id": 92365
+    }
+  ]
+}

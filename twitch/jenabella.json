@@ -1,1 +1,31 @@
-{"name":"twitch-sub-jenabella","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jenaLove","image_id":2120},{"match":"jenaLol","image_id":46265},{"match":"jenaCry","image_id":44569},{"match":"jenaHi","image_id":47474},{"match":"jenaYass","image_id":47473},{"match":"jenaBae","image_id":72997}]}
+{
+  "name": "twitch-sub-jenabella",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jenaLove",
+      "image_id": 2120
+    },
+    {
+      "match": "jenaLol",
+      "image_id": 46265
+    },
+    {
+      "match": "jenaCry",
+      "image_id": 44569
+    },
+    {
+      "match": "jenaHi",
+      "image_id": 47474
+    },
+    {
+      "match": "jenaYass",
+      "image_id": 47473
+    },
+    {
+      "match": "jenaBae",
+      "image_id": 72997
+    }
+  ]
+}

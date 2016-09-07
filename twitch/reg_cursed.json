@@ -1,1 +1,15 @@
-{"name":"twitch-sub-reg_cursed","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cursBalanced","image_id":96771},{"match":"cursHype","image_id":95211}]}
+{
+  "name": "twitch-sub-reg_cursed",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cursBalanced",
+      "image_id": 96771
+    },
+    {
+      "match": "cursHype",
+      "image_id": 95211
+    }
+  ]
+}

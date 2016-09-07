@@ -1,1 +1,27 @@
-{"name":"twitch-sub-florryworry","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"florryjutsSTACKWIPE","image_id":86046},{"match":"florryjutsQUOTE","image_id":86736},{"match":"florryjutsWIG","image_id":86734},{"match":"florryjutsBIRD","image_id":86728},{"match":"florryjutsWut","image_id":98807}]}
+{
+  "name": "twitch-sub-florryworry",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "florryjutsSTACKWIPE",
+      "image_id": 86046
+    },
+    {
+      "match": "florryjutsQUOTE",
+      "image_id": 86736
+    },
+    {
+      "match": "florryjutsWIG",
+      "image_id": 86734
+    },
+    {
+      "match": "florryjutsBIRD",
+      "image_id": 86728
+    },
+    {
+      "match": "florryjutsWut",
+      "image_id": 98807
+    }
+  ]
+}

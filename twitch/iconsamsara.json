@@ -1,1 +1,23 @@
-{"name":"twitch-sub-iconsamsara","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lazeroneLazerone","image_id":22006},{"match":"lazeroneFomento","image_id":22897},{"match":"lazeroneCoach","image_id":45598},{"match":"lazeroneSmarmell","image_id":45626}]}
+{
+  "name": "twitch-sub-iconsamsara",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lazeroneLazerone",
+      "image_id": 22006
+    },
+    {
+      "match": "lazeroneFomento",
+      "image_id": 22897
+    },
+    {
+      "match": "lazeroneCoach",
+      "image_id": 45598
+    },
+    {
+      "match": "lazeroneSmarmell",
+      "image_id": 45626
+    }
+  ]
+}

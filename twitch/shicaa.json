@@ -1,1 +1,15 @@
-{"name":"twitch-sub-shicaa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shicasgtlSewinea","image_id":111715},{"match":"shicasgtlWaa","image_id":111698}]}
+{
+  "name": "twitch-sub-shicaa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shicaSewinea",
+      "image_id": 111715
+    },
+    {
+      "match": "shicaWaa",
+      "image_id": 111698
+    }
+  ]
+}

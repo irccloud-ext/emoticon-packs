@@ -1,1 +1,23 @@
-{"name":"twitch-sub-garrison_tt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"gariOcto","image_id":63111},{"match":"gariHero","image_id":63015},{"match":"gariLamp","image_id":62599},{"match":"gariLady","image_id":63116}]}
+{
+  "name": "twitch-sub-garrison_tt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "gariOcto",
+      "image_id": 63111
+    },
+    {
+      "match": "gariHero",
+      "image_id": 63015
+    },
+    {
+      "match": "gariLamp",
+      "image_id": 62599
+    },
+    {
+      "match": "gariLady",
+      "image_id": 63116
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-lucetehs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"luhs12","image_id":68359},{"match":"luhs11","image_id":68569}]}
+{
+  "name": "twitch-sub-lucetehs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "luhs12",
+      "image_id": 68359
+    },
+    {
+      "match": "luhs11",
+      "image_id": 68569
+    }
+  ]
+}

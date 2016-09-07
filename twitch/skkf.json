@@ -1,1 +1,31 @@
-{"name":"twitch-sub-skkf","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"skkfSub","image_id":29821},{"match":"skkfGrubas","image_id":6259},{"match":"skkfRip","image_id":29822},{"match":"skkfNaruto","image_id":6258},{"match":"skkfKrzeslo","image_id":29421},{"match":"skkfSloik","image_id":29420}]}
+{
+  "name": "twitch-sub-skkf",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "skkfSub",
+      "image_id": 29821
+    },
+    {
+      "match": "skkfGrubas",
+      "image_id": 6259
+    },
+    {
+      "match": "skkfRip",
+      "image_id": 29822
+    },
+    {
+      "match": "skkfNaruto",
+      "image_id": 6258
+    },
+    {
+      "match": "skkfKrzeslo",
+      "image_id": 29421
+    },
+    {
+      "match": "skkfSloik",
+      "image_id": 29420
+    }
+  ]
+}

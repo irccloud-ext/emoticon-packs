@@ -1,1 +1,47 @@
-{"name":"twitch-sub-thegreatgq","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ggqSurprise","image_id":1030},{"match":"ggqRage","image_id":1028},{"match":"ggqKart","image_id":1027},{"match":"ggqGQutie","image_id":12000},{"match":"ggqWarby","image_id":12002},{"match":"ggqShip","image_id":12004},{"match":"ggqKapMan","image_id":12005},{"match":"ggqHeart","image_id":14897},{"match":"ggqPeace","image_id":46313},{"match":"ggqBue","image_id":46314}]}
+{
+  "name": "twitch-sub-thegreatgq",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ggqSurprise",
+      "image_id": 1030
+    },
+    {
+      "match": "ggqRage",
+      "image_id": 1028
+    },
+    {
+      "match": "ggqKart",
+      "image_id": 1027
+    },
+    {
+      "match": "ggqGQutie",
+      "image_id": 12000
+    },
+    {
+      "match": "ggqWarby",
+      "image_id": 12002
+    },
+    {
+      "match": "ggqShip",
+      "image_id": 12004
+    },
+    {
+      "match": "ggqKapMan",
+      "image_id": 12005
+    },
+    {
+      "match": "ggqHeart",
+      "image_id": 14897
+    },
+    {
+      "match": "ggqPeace",
+      "image_id": 46313
+    },
+    {
+      "match": "ggqBue",
+      "image_id": 46314
+    }
+  ]
+}

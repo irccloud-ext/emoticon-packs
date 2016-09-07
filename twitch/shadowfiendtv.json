@@ -1,1 +1,23 @@
-{"name":"twitch-sub-shadowfiendtv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"shadowdeadDead","image_id":9266},{"match":"shadowdeadProfit","image_id":9993},{"match":"shadowdeadTRAP","image_id":28980},{"match":"shadowdeadPK","image_id":28979}]}
+{
+  "name": "twitch-sub-shadowfiendtv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "shadowdeadDead",
+      "image_id": 9266
+    },
+    {
+      "match": "shadowdeadProfit",
+      "image_id": 9993
+    },
+    {
+      "match": "shadowdeadTRAP",
+      "image_id": 28980
+    },
+    {
+      "match": "shadowdeadPK",
+      "image_id": 28979
+    }
+  ]
+}

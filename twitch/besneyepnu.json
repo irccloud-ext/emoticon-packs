@@ -1,1 +1,31 @@
-{"name":"twitch-sub-besneyepnu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"besT","image_id":54730},{"match":"besR","image_id":54731},{"match":"besH","image_id":54732},{"match":"besHp","image_id":54733},{"match":"besD","image_id":54734},{"match":"besB","image_id":54739}]}
+{
+  "name": "twitch-sub-besneyepnu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "besT",
+      "image_id": 54730
+    },
+    {
+      "match": "besR",
+      "image_id": 54731
+    },
+    {
+      "match": "besH",
+      "image_id": 54732
+    },
+    {
+      "match": "besHp",
+      "image_id": 54733
+    },
+    {
+      "match": "besD",
+      "image_id": 54734
+    },
+    {
+      "match": "besB",
+      "image_id": 54739
+    }
+  ]
+}

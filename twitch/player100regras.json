@@ -1,1 +1,11 @@
-{"name":"twitch-sub-player100regras","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"p100regrasStackando","image_id":54093}]}
+{
+  "name": "twitch-sub-player100regras",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "p100regrasStackando",
+      "image_id": 54093
+    }
+  ]
+}

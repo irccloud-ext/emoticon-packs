@@ -1,1 +1,39 @@
-{"name":"twitch-sub-greentea","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"greentea1","image_id":31412},{"match":"greentea2","image_id":31413},{"match":"greentea3","image_id":31681},{"match":"greentea6","image_id":31689},{"match":"greentea7","image_id":31693},{"match":"greentea8","image_id":31704},{"match":"greentea5","image_id":31890},{"match":"greentea4","image_id":31889}]}
+{
+  "name": "twitch-sub-greentea",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "greentea1",
+      "image_id": 31412
+    },
+    {
+      "match": "greentea2",
+      "image_id": 31413
+    },
+    {
+      "match": "greentea3",
+      "image_id": 31681
+    },
+    {
+      "match": "greentea6",
+      "image_id": 31689
+    },
+    {
+      "match": "greentea7",
+      "image_id": 31693
+    },
+    {
+      "match": "greentea8",
+      "image_id": 31704
+    },
+    {
+      "match": "greentea5",
+      "image_id": 31890
+    },
+    {
+      "match": "greentea4",
+      "image_id": 31889
+    }
+  ]
+}

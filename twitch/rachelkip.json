@@ -1,1 +1,31 @@
-{"name":"twitch-sub-rachelkip","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rachV","image_id":15628},{"match":"rachSolo","image_id":17312},{"match":"rachKumquat","image_id":41859},{"match":"rachAbbey","image_id":65462},{"match":"rachTriggered","image_id":65463},{"match":"rachRIP","image_id":64552}]}
+{
+  "name": "twitch-sub-rachelkip",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rachV",
+      "image_id": 15628
+    },
+    {
+      "match": "rachSolo",
+      "image_id": 17312
+    },
+    {
+      "match": "rachKumquat",
+      "image_id": 41859
+    },
+    {
+      "match": "rachAbbey",
+      "image_id": 65462
+    },
+    {
+      "match": "rachTriggered",
+      "image_id": 65463
+    },
+    {
+      "match": "rachRIP",
+      "image_id": 64552
+    }
+  ]
+}

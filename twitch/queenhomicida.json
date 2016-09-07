@@ -1,1 +1,39 @@
-{"name":"twitch-sub-queenhomicida","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kwenHI","image_id":71544},{"match":"kwenGKISS","image_id":71541},{"match":"kwen69","image_id":68779},{"match":"kwenHYPE","image_id":68783},{"match":"kwenLOL","image_id":68780},{"match":"kwenOH","image_id":68781},{"match":"kwenRIP","image_id":68782},{"match":"kwenRAGE","image_id":68784}]}
+{
+  "name": "twitch-sub-queenhomicida",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kwenHI",
+      "image_id": 71544
+    },
+    {
+      "match": "kwenGKISS",
+      "image_id": 71541
+    },
+    {
+      "match": "kwen69",
+      "image_id": 68779
+    },
+    {
+      "match": "kwenHYPE",
+      "image_id": 68783
+    },
+    {
+      "match": "kwenLOL",
+      "image_id": 68780
+    },
+    {
+      "match": "kwenOH",
+      "image_id": 68781
+    },
+    {
+      "match": "kwenRIP",
+      "image_id": 68782
+    },
+    {
+      "match": "kwenRAGE",
+      "image_id": 68784
+    }
+  ]
+}

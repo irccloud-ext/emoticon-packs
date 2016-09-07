@@ -1,1 +1,23 @@
-{"name":"twitch-sub-engrvsgaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"engSucc","image_id":82061},{"match":"engBruh","image_id":82809},{"match":"engTank","image_id":84767},{"match":"engEyes","image_id":85251}]}
+{
+  "name": "twitch-sub-engrvsgaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "engSucc",
+      "image_id": 82061
+    },
+    {
+      "match": "engBruh",
+      "image_id": 82809
+    },
+    {
+      "match": "engTank",
+      "image_id": 84767
+    },
+    {
+      "match": "engEyes",
+      "image_id": 85251
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"twitch-sub-esl_manaberry","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mbyCDLM","image_id":87745},{"match":"mbyClutch","image_id":87746}]}
+{
+  "name": "twitch-sub-esl_manaberry",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mbyCDLM",
+      "image_id": 87745
+    },
+    {
+      "match": "mbyClutch",
+      "image_id": 87746
+    }
+  ]
+}

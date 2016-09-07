@@ -1,1 +1,35 @@
-{"name":"twitch-sub-twaryna","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"twarynaTwaryna","image_id":66792},{"match":"twarynaPeka","image_id":66791},{"match":"twarynaBuhlo","image_id":70074},{"match":"twarynaSub","image_id":70887},{"match":"twarynaMad","image_id":70886},{"match":"twarynaUnlucky","image_id":70906},{"match":"twarynaMoral","image_id":66995}]}
+{
+  "name": "twitch-sub-twaryna",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "twarynaTwaryna",
+      "image_id": 66792
+    },
+    {
+      "match": "twarynaPeka",
+      "image_id": 66791
+    },
+    {
+      "match": "twarynaBuhlo",
+      "image_id": 70074
+    },
+    {
+      "match": "twarynaSub",
+      "image_id": 70887
+    },
+    {
+      "match": "twarynaMad",
+      "image_id": 70886
+    },
+    {
+      "match": "twarynaUnlucky",
+      "image_id": 70906
+    },
+    {
+      "match": "twarynaMoral",
+      "image_id": 66995
+    }
+  ]
+}

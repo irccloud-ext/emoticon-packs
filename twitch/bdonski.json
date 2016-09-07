@@ -1,1 +1,11 @@
-{"name":"twitch-sub-bdonski","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"prefixSteve","image_id":101934}]}
+{
+  "name": "twitch-sub-bdonski",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "prefixSteve",
+      "image_id": 101934
+    }
+  ]
+}

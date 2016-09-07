@@ -1,1 +1,23 @@
-{"name":"twitch-sub-glaxycsgo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"glaxyKola","image_id":56219},{"match":"glaxyMevlana","image_id":56220},{"match":"glaxy20lira","image_id":56221},{"match":"glaxyTatava","image_id":56222}]}
+{
+  "name": "twitch-sub-glaxycsgo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "glaxyKola",
+      "image_id": 56219
+    },
+    {
+      "match": "glaxyMevlana",
+      "image_id": 56220
+    },
+    {
+      "match": "glaxy20lira",
+      "image_id": 56221
+    },
+    {
+      "match": "glaxyTatava",
+      "image_id": 56222
+    }
+  ]
+}

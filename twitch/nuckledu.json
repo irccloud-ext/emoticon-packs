@@ -1,1 +1,23 @@
-{"name":"twitch-sub-nuckledu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"nuckleduKappadu","image_id":52549},{"match":"nuckleduRespek","image_id":99558},{"match":"nuckleduShrug","image_id":99305},{"match":"nuckleduDuit","image_id":99219}]}
+{
+  "name": "twitch-sub-nuckledu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "nuckleduKappadu",
+      "image_id": 52549
+    },
+    {
+      "match": "nuckleduRespek",
+      "image_id": 99558
+    },
+    {
+      "match": "nuckleduShrug",
+      "image_id": 99305
+    },
+    {
+      "match": "nuckleduDuit",
+      "image_id": 99219
+    }
+  ]
+}

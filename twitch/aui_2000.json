@@ -1,1 +1,27 @@
-{"name":"twitch-sub-aui_2000","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"auiCharChar","image_id":8459},{"match":"auiFace","image_id":8492},{"match":"auiVisage","image_id":39166},{"match":"auiPrince","image_id":39167},{"match":"auiPrincess","image_id":39168}]}
+{
+  "name": "twitch-sub-aui_2000",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "auiCharChar",
+      "image_id": 8459
+    },
+    {
+      "match": "auiFace",
+      "image_id": 8492
+    },
+    {
+      "match": "auiVisage",
+      "image_id": 39166
+    },
+    {
+      "match": "auiPrince",
+      "image_id": 39167
+    },
+    {
+      "match": "auiPrincess",
+      "image_id": 39168
+    }
+  ]
+}

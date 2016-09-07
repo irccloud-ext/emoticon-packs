@@ -1,1 +1,39 @@
-{"name":"twitch-sub-levelupyourgame","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"luygRipTrolled","image_id":2169},{"match":"luygMYKChamp","image_id":2241},{"match":"luygBoom","image_id":9677},{"match":"luygCake","image_id":34291},{"match":"luygLucky","image_id":31414},{"match":"luygRip","image_id":111114},{"match":"luygGasm","image_id":98124},{"match":"luygThug","image_id":111111}]}
+{
+  "name": "twitch-sub-levelupyourgame",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "luygRipTrolled",
+      "image_id": 2169
+    },
+    {
+      "match": "luygMYKChamp",
+      "image_id": 2241
+    },
+    {
+      "match": "luygBoom",
+      "image_id": 9677
+    },
+    {
+      "match": "luygCake",
+      "image_id": 34291
+    },
+    {
+      "match": "luygLucky",
+      "image_id": 31414
+    },
+    {
+      "match": "luygRip",
+      "image_id": 111114
+    },
+    {
+      "match": "luygGasm",
+      "image_id": 98124
+    },
+    {
+      "match": "luygThug",
+      "image_id": 111111
+    }
+  ]
+}

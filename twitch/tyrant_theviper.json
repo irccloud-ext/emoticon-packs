@@ -1,1 +1,23 @@
-{"name":"twitch-sub-tyrant_theviper","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"grassJorDan","image_id":29992},{"match":"grassRiuT","image_id":29990}]}
+{
+  "name": "twitch-sub-tyrant_theviper",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "grassViper",
+      "image_id": 112502
+    },
+    {
+      "match": "grassDaut",
+      "image_id": 112496
+    },
+    {
+      "match": "grassRiut",
+      "image_id": 112497
+    },
+    {
+      "match": "grassJordan",
+      "image_id": 112500
+    }
+  ]
+}

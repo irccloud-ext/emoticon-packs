@@ -1,1 +1,39 @@
-{"name":"twitch-sub-nixxiom","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"casualsHappy","image_id":83462},{"match":"casualsLol","image_id":83666},{"match":"casualsSad","image_id":84426},{"match":"casualsDK","image_id":82946},{"match":"casualsHead","image_id":83138},{"match":"casualsJoy","image_id":97817},{"match":"casualsWow","image_id":97818},{"match":"casualsWut","image_id":107951}]}
+{
+  "name": "twitch-sub-nixxiom",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "casualsHappy",
+      "image_id": 83462
+    },
+    {
+      "match": "casualsLol",
+      "image_id": 83666
+    },
+    {
+      "match": "casualsSad",
+      "image_id": 84426
+    },
+    {
+      "match": "casualsDK",
+      "image_id": 82946
+    },
+    {
+      "match": "casualsHead",
+      "image_id": 83138
+    },
+    {
+      "match": "casualsJoy",
+      "image_id": 97817
+    },
+    {
+      "match": "casualsWow",
+      "image_id": 97818
+    },
+    {
+      "match": "casualsWut",
+      "image_id": 107951
+    }
+  ]
+}

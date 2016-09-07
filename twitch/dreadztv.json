@@ -1,1 +1,55 @@
-{"name":"twitch-sub-dreadztv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"huiAlik","image_id":3405},{"match":"huiDread","image_id":3406},{"match":"huiSolo","image_id":3407},{"match":"huiNexus","image_id":20665},{"match":"huiSvch","image_id":20666},{"match":"huiXboct","image_id":20667},{"match":"huiCash","image_id":91473},{"match":"huiLev","image_id":45669},{"match":"huiHype","image_id":71491},{"match":"huiJir","image_id":90180},{"match":"huiBunt","image_id":87532},{"match":"huiKpac","image_id":88668}]}
+{
+  "name": "twitch-sub-dreadztv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "huiAlik",
+      "image_id": 3405
+    },
+    {
+      "match": "huiDread",
+      "image_id": 3406
+    },
+    {
+      "match": "huiSolo",
+      "image_id": 3407
+    },
+    {
+      "match": "huiNexus",
+      "image_id": 20665
+    },
+    {
+      "match": "huiSvch",
+      "image_id": 20666
+    },
+    {
+      "match": "huiXboct",
+      "image_id": 20667
+    },
+    {
+      "match": "huiCash",
+      "image_id": 91473
+    },
+    {
+      "match": "huiLev",
+      "image_id": 45669
+    },
+    {
+      "match": "huiHype",
+      "image_id": 71491
+    },
+    {
+      "match": "huiJir",
+      "image_id": 90180
+    },
+    {
+      "match": "huiBunt",
+      "image_id": 87532
+    },
+    {
+      "match": "huiKpac",
+      "image_id": 88668
+    }
+  ]
+}

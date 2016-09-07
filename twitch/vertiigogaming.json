@@ -1,1 +1,39 @@
-{"name":"twitch-sub-vertiigogaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vertRIP","image_id":61429},{"match":"vertNoob","image_id":61768},{"match":"vertSaber","image_id":61769},{"match":"vertOneofus","image_id":62171},{"match":"vertGood","image_id":62124},{"match":"vertSub","image_id":99852},{"match":"vertYoda","image_id":99851},{"match":"vertRock","image_id":64824}]}
+{
+  "name": "twitch-sub-vertiigogaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vertRIP",
+      "image_id": 61429
+    },
+    {
+      "match": "vertNoob",
+      "image_id": 61768
+    },
+    {
+      "match": "vertSaber",
+      "image_id": 61769
+    },
+    {
+      "match": "vertOneofus",
+      "image_id": 62171
+    },
+    {
+      "match": "vertGood",
+      "image_id": 62124
+    },
+    {
+      "match": "vertSub",
+      "image_id": 99852
+    },
+    {
+      "match": "vertYoda",
+      "image_id": 99851
+    },
+    {
+      "match": "vertRock",
+      "image_id": 64824
+    }
+  ]
+}

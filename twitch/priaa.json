@@ -1,1 +1,23 @@
-{"name":"twitch-sub-priaa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"priaa3","image_id":108610},{"match":"priaa2","image_id":108609},{"match":"priaaKappa","image_id":108608},{"match":"priaa1","image_id":108600}]}
+{
+  "name": "twitch-sub-priaa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "priaa3",
+      "image_id": 108610
+    },
+    {
+      "match": "priaa2",
+      "image_id": 108609
+    },
+    {
+      "match": "priaaKappa",
+      "image_id": 108608
+    },
+    {
+      "match": "priaa1",
+      "image_id": 108600
+    }
+  ]
+}

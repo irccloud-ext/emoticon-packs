@@ -1,1 +1,19 @@
-{"name":"twitch-sub-zeus","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zeusBoss","image_id":29889},{"match":"zeusHard","image_id":29892},{"match":"zeusPickup","image_id":29893}]}
+{
+  "name": "twitch-sub-zeus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zeusBoss",
+      "image_id": 29889
+    },
+    {
+      "match": "zeusHard",
+      "image_id": 29892
+    },
+    {
+      "match": "zeusPickup",
+      "image_id": 29893
+    }
+  ]
+}

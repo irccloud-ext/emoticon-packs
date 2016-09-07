@@ -1,0 +1,15 @@
+{
+  "name": "twitch-sub-cocorocaa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cocooAh",
+      "image_id": 112209
+    },
+    {
+      "match": "cocooSgtl",
+      "image_id": 112210
+    }
+  ]
+}

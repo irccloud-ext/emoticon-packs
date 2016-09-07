@@ -1,1 +1,15 @@
-{"name":"twitch-sub-sovietwaffle","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"studAnime","image_id":10420},{"match":"studMeme","image_id":45297}]}
+{
+  "name": "twitch-sub-sovietwaffle",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "studAnime",
+      "image_id": 10420
+    },
+    {
+      "match": "studMeme",
+      "image_id": 45297
+    }
+  ]
+}

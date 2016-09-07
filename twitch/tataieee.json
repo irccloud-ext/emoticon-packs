@@ -1,1 +1,15 @@
-{"name":"twitch-sub-tataieee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tataieLoser","image_id":55350},{"match":"tataiePride","image_id":56604}]}
+{
+  "name": "twitch-sub-tataieee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tataieLoser",
+      "image_id": 55350
+    },
+    {
+      "match": "tataiePride",
+      "image_id": 56604
+    }
+  ]
+}

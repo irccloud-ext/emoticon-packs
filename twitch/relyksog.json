@@ -1,1 +1,39 @@
-{"name":"twitch-sub-relyksog","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"relyksLetsgo","image_id":34239},{"match":"relyks1tap","image_id":26491},{"match":"relyksSanta","image_id":30196},{"match":"relyksGamin","image_id":29150},{"match":"relyksDweeb","image_id":70138},{"match":"relyksNutty","image_id":41207},{"match":"relyksCreep","image_id":45008},{"match":"relyksPeace","image_id":49229}]}
+{
+  "name": "twitch-sub-relyksog",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "relyksLetsgo",
+      "image_id": 34239
+    },
+    {
+      "match": "relyks1tap",
+      "image_id": 26491
+    },
+    {
+      "match": "relyksSanta",
+      "image_id": 30196
+    },
+    {
+      "match": "relyksGamin",
+      "image_id": 29150
+    },
+    {
+      "match": "relyksDweeb",
+      "image_id": 70138
+    },
+    {
+      "match": "relyksNutty",
+      "image_id": 41207
+    },
+    {
+      "match": "relyksCreep",
+      "image_id": 45008
+    },
+    {
+      "match": "relyksPeace",
+      "image_id": 49229
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"name":"twitch-sub-maxwellverdi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"verdiVerdi","image_id":16637},{"match":"verdiDog","image_id":16580},{"match":"verdiKappa","image_id":16486},{"match":"verdiBomb","image_id":17628},{"match":"verdiSub","image_id":21067},{"match":"verdiChamp","image_id":23840}]}
+{
+  "name": "twitch-sub-maxwellverdi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "verdiVerdi",
+      "image_id": 16637
+    },
+    {
+      "match": "verdiDog",
+      "image_id": 16580
+    },
+    {
+      "match": "verdiKappa",
+      "image_id": 16486
+    },
+    {
+      "match": "verdiBomb",
+      "image_id": 17628
+    },
+    {
+      "match": "verdiSub",
+      "image_id": 21067
+    },
+    {
+      "match": "verdiChamp",
+      "image_id": 23840
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-zer0doxy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"doxyPicnic","image_id":10408},{"match":"doxyRamen","image_id":9381},{"match":"doxyLove","image_id":9733},{"match":"doxyRage","image_id":9734},{"match":"doxyChat","image_id":12368},{"match":"doxyGrawlix","image_id":29609},{"match":"doxyMonstro","image_id":29610},{"match":"doxyFartslide","image_id":104576}]}
+{
+  "name": "twitch-sub-zer0doxy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "doxyPicnic",
+      "image_id": 10408
+    },
+    {
+      "match": "doxyRamen",
+      "image_id": 9381
+    },
+    {
+      "match": "doxyLove",
+      "image_id": 9733
+    },
+    {
+      "match": "doxyRage",
+      "image_id": 9734
+    },
+    {
+      "match": "doxyChat",
+      "image_id": 12368
+    },
+    {
+      "match": "doxyGrawlix",
+      "image_id": 29609
+    },
+    {
+      "match": "doxyMonstro",
+      "image_id": 29610
+    },
+    {
+      "match": "doxyFartslide",
+      "image_id": 104576
+    }
+  ]
+}

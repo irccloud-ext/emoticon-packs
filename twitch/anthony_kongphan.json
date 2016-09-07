@@ -1,1 +1,83 @@
-{"name":"twitch-sub-anthony_kongphan","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ninjaaNugget","image_id":11338},{"match":"ninjaaSLUG","image_id":11337},{"match":"ninjaaNJM","image_id":11233},{"match":"ninjaaKTN","image_id":11236},{"match":"ninjaaSHR","image_id":11235},{"match":"ninjaaRAGE","image_id":11920},{"match":"ninjaaRocks","image_id":12505},{"match":"ninjaaShrimp","image_id":12506},{"match":"ninjaaGG","image_id":20687},{"match":"ninjaaPink","image_id":35190},{"match":"ninjaaKappa","image_id":37535},{"match":"ninjaaCHUNKS","image_id":38306},{"match":"ninjaaLove","image_id":38906},{"match":"ninjaaCry","image_id":38905},{"match":"ninjaaMoney","image_id":38904},{"match":"ninjaaH","image_id":50556},{"match":"ninjaaC","image_id":50570},{"match":"ninjaaR","image_id":50738},{"match":"ninjaaB","image_id":50728}]}
+{
+  "name": "twitch-sub-anthony_kongphan",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ninjaaNugget",
+      "image_id": 11338
+    },
+    {
+      "match": "ninjaaSLUG",
+      "image_id": 11337
+    },
+    {
+      "match": "ninjaaNJM",
+      "image_id": 11233
+    },
+    {
+      "match": "ninjaaKTN",
+      "image_id": 11236
+    },
+    {
+      "match": "ninjaaSHR",
+      "image_id": 11235
+    },
+    {
+      "match": "ninjaaRAGE",
+      "image_id": 11920
+    },
+    {
+      "match": "ninjaaRocks",
+      "image_id": 12505
+    },
+    {
+      "match": "ninjaaShrimp",
+      "image_id": 12506
+    },
+    {
+      "match": "ninjaaGG",
+      "image_id": 20687
+    },
+    {
+      "match": "ninjaaPink",
+      "image_id": 35190
+    },
+    {
+      "match": "ninjaaKappa",
+      "image_id": 37535
+    },
+    {
+      "match": "ninjaaCHUNKS",
+      "image_id": 38306
+    },
+    {
+      "match": "ninjaaLove",
+      "image_id": 38906
+    },
+    {
+      "match": "ninjaaCry",
+      "image_id": 38905
+    },
+    {
+      "match": "ninjaaMoney",
+      "image_id": 38904
+    },
+    {
+      "match": "ninjaaH",
+      "image_id": 50556
+    },
+    {
+      "match": "ninjaaC",
+      "image_id": 50570
+    },
+    {
+      "match": "ninjaaR",
+      "image_id": 50738
+    },
+    {
+      "match": "ninjaaB",
+      "image_id": 50728
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"name":"twitch-sub-metaaphor","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"metaphorBoosted","image_id":107591},{"match":"metaphorLove","image_id":107353},{"match":"metaphorGasm","image_id":107052}]}
+{
+  "name": "twitch-sub-metaaphor",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "metaphorBoosted",
+      "image_id": 107591
+    },
+    {
+      "match": "metaphorLove",
+      "image_id": 107353
+    },
+    {
+      "match": "metaphorGasm",
+      "image_id": 107052
+    }
+  ]
+}

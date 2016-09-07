@@ -1,1 +1,19 @@
-{"name":"twitch-sub-mavenn","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"mavenMav","image_id":23385},{"match":"mavenTar","image_id":23389},{"match":"mavenChap","image_id":25287}]}
+{
+  "name": "twitch-sub-mavenn",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "mavenMav",
+      "image_id": 23385
+    },
+    {
+      "match": "mavenTar",
+      "image_id": 23389
+    },
+    {
+      "match": "mavenChap",
+      "image_id": 25287
+    }
+  ]
+}

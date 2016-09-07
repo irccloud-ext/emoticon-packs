@@ -1,1 +1,39 @@
-{"name":"twitch-sub-joefudge91","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"fudgeWTF","image_id":69408},{"match":"fudgeHype","image_id":69399},{"match":"fudgeKappa","image_id":72875},{"match":"fudgeRIP","image_id":72874},{"match":"fudgeThump","image_id":72872},{"match":"fudgeCarrot","image_id":73279},{"match":"fudgeLove","image_id":73139},{"match":"fudgeSundae","image_id":73137}]}
+{
+  "name": "twitch-sub-joefudge91",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "fudgeWTF",
+      "image_id": 69408
+    },
+    {
+      "match": "fudgeKappa",
+      "image_id": 72875
+    },
+    {
+      "match": "fudgeLove",
+      "image_id": 73139
+    },
+    {
+      "match": "fudgeBoris",
+      "image_id": 112041
+    },
+    {
+      "match": "fudgePfft",
+      "image_id": 112042
+    },
+    {
+      "match": "fudgeFish",
+      "image_id": 112043
+    },
+    {
+      "match": "fudgeHype",
+      "image_id": 112044
+    },
+    {
+      "match": "fudgeOmg",
+      "image_id": 112045
+    }
+  ]
+}

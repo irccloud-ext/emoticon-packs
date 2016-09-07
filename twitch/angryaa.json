@@ -1,1 +1,31 @@
-{"name":"twitch-sub-angryaa","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"angryDevo","image_id":57830},{"match":"angryBears","image_id":100272},{"match":"angryW","image_id":106396},{"match":"angryGasm","image_id":106398},{"match":"angryOPness","image_id":106401},{"match":"angryFeelsGoodMan","image_id":106402}]}
+{
+  "name": "twitch-sub-angryaa",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "angryDevo",
+      "image_id": 57830
+    },
+    {
+      "match": "angryBears",
+      "image_id": 100272
+    },
+    {
+      "match": "angryW",
+      "image_id": 106396
+    },
+    {
+      "match": "angryGasm",
+      "image_id": 106398
+    },
+    {
+      "match": "angryOPness",
+      "image_id": 106401
+    },
+    {
+      "match": "angryFeelsGoodMan",
+      "image_id": 106402
+    }
+  ]
+}

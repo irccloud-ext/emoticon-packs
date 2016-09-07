@@ -1,1 +1,31 @@
-{"name":"twitch-sub-crunchyybeast","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"crunchyGASM","image_id":72173},{"match":"crunchyPUFF","image_id":72252},{"match":"crunchyTHUMP","image_id":72241},{"match":"crunchyBOMB","image_id":72146},{"match":"crunchyLUV","image_id":72283},{"match":"crunchyTHIRST","image_id":73466}]}
+{
+  "name": "twitch-sub-crunchyybeast",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "crunchyGASM",
+      "image_id": 72173
+    },
+    {
+      "match": "crunchyPUFF",
+      "image_id": 72252
+    },
+    {
+      "match": "crunchyTHUMP",
+      "image_id": 72241
+    },
+    {
+      "match": "crunchyBOMB",
+      "image_id": 72146
+    },
+    {
+      "match": "crunchyLUV",
+      "image_id": 72283
+    },
+    {
+      "match": "crunchyTHIRST",
+      "image_id": 73466
+    }
+  ]
+}

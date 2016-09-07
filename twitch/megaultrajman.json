@@ -1,1 +1,23 @@
-{"name":"twitch-sub-megaultrajman","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"swoodJoq","image_id":29777},{"match":"swoodChop","image_id":29776},{"match":"swoodMcNabb","image_id":30585},{"match":"swoodYork","image_id":30586}]}
+{
+  "name": "twitch-sub-megaultrajman",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "swoodJoq",
+      "image_id": 29777
+    },
+    {
+      "match": "swoodChop",
+      "image_id": 29776
+    },
+    {
+      "match": "swoodMcNabb",
+      "image_id": 30585
+    },
+    {
+      "match": "swoodYork",
+      "image_id": 30586
+    }
+  ]
+}

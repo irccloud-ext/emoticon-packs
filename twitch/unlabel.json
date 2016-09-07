@@ -1,1 +1,31 @@
-{"name":"twitch-sub-unlabel","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"unlabelSanta","image_id":77555},{"match":"unlabelHYPE","image_id":77524},{"match":"unlabelNichosi","image_id":48015},{"match":"unlabelAnger","image_id":48077},{"match":"unlabel69","image_id":80907},{"match":"unlabelWOOP","image_id":81060}]}
+{
+  "name": "twitch-sub-unlabel",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "unlabelSanta",
+      "image_id": 77555
+    },
+    {
+      "match": "unlabelHYPE",
+      "image_id": 77524
+    },
+    {
+      "match": "unlabelNichosi",
+      "image_id": 48015
+    },
+    {
+      "match": "unlabelAnger",
+      "image_id": 48077
+    },
+    {
+      "match": "unlabel69",
+      "image_id": 80907
+    },
+    {
+      "match": "unlabelWOOP",
+      "image_id": 81060
+    }
+  ]
+}

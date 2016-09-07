@@ -1,1 +1,31 @@
-{"name":"twitch-sub-otofu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"otofuNATTO","image_id":33083},{"match":"otofuXmas","image_id":33226},{"match":"otofuMacho","image_id":52085},{"match":"otofuPoro","image_id":52087},{"match":"otofuMMM","image_id":50288},{"match":"otofuBard","image_id":54728}]}
+{
+  "name": "twitch-sub-otofu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "otofuNATTO",
+      "image_id": 33083
+    },
+    {
+      "match": "otofuXmas",
+      "image_id": 33226
+    },
+    {
+      "match": "otofuMacho",
+      "image_id": 52085
+    },
+    {
+      "match": "otofuPoro",
+      "image_id": 52087
+    },
+    {
+      "match": "otofuMMM",
+      "image_id": 50288
+    },
+    {
+      "match": "otofuBard",
+      "image_id": 54728
+    }
+  ]
+}

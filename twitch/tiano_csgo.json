@@ -1,1 +1,27 @@
-{"name":"twitch-sub-tiano_csgo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tianoRage","image_id":33534},{"match":"tianoReport","image_id":33736},{"match":"tianoArmy","image_id":33509},{"match":"tianoJBMNT","image_id":33497},{"match":"tianoBoycz","image_id":35599}]}
+{
+  "name": "twitch-sub-tiano_csgo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tianoRage",
+      "image_id": 33534
+    },
+    {
+      "match": "tianoReport",
+      "image_id": 33736
+    },
+    {
+      "match": "tianoArmy",
+      "image_id": 33509
+    },
+    {
+      "match": "tianoJBMNT",
+      "image_id": 33497
+    },
+    {
+      "match": "tianoBoycz",
+      "image_id": 35599
+    }
+  ]
+}

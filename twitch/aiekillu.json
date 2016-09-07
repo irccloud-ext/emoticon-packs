@@ -1,1 +1,71 @@
-{"name":"twitch-sub-aiekillu","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"aieB","image_id":5360},{"match":"aieLA","image_id":72810},{"match":"aieC","image_id":72809},{"match":"aieTRASH","image_id":86191},{"match":"aiePOTATO","image_id":86190},{"match":"aieHYPE","image_id":86189},{"match":"aieSVEN","image_id":35147},{"match":"aieLEL","image_id":35150},{"match":"aieRIP","image_id":35148},{"match":"aie10","image_id":86187},{"match":"aieRAGE","image_id":86188},{"match":"aieG","image_id":88747},{"match":"aieM","image_id":85813},{"match":"aieL","image_id":85321},{"match":"aieS","image_id":85320},{"match":"aieYO","image_id":85317}]}
+{
+  "name": "twitch-sub-aiekillu",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "aieB",
+      "image_id": 5360
+    },
+    {
+      "match": "aieLA",
+      "image_id": 72810
+    },
+    {
+      "match": "aieC",
+      "image_id": 72809
+    },
+    {
+      "match": "aieTRASH",
+      "image_id": 86191
+    },
+    {
+      "match": "aiePOTATO",
+      "image_id": 86190
+    },
+    {
+      "match": "aieHYPE",
+      "image_id": 86189
+    },
+    {
+      "match": "aieSVEN",
+      "image_id": 35147
+    },
+    {
+      "match": "aieLEL",
+      "image_id": 35150
+    },
+    {
+      "match": "aieRIP",
+      "image_id": 35148
+    },
+    {
+      "match": "aie10",
+      "image_id": 86187
+    },
+    {
+      "match": "aieRAGE",
+      "image_id": 86188
+    },
+    {
+      "match": "aieG",
+      "image_id": 88747
+    },
+    {
+      "match": "aieM",
+      "image_id": 85813
+    },
+    {
+      "match": "aieL",
+      "image_id": 85321
+    },
+    {
+      "match": "aieS",
+      "image_id": 85320
+    },
+    {
+      "match": "aieYO",
+      "image_id": 85317
+    }
+  ]
+}

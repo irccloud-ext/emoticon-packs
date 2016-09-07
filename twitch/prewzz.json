@@ -1,1 +1,23 @@
-{"name":"twitch-sub-prewzz","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"prewzzRIP","image_id":97523},{"match":"prewzzPARCEL","image_id":97996},{"match":"prewzzNICE","image_id":99492},{"match":"prewzzFACEPALM","image_id":105151}]}
+{
+  "name": "twitch-sub-prewzz",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "prewzzRIP",
+      "image_id": 97523
+    },
+    {
+      "match": "prewzzPARCEL",
+      "image_id": 97996
+    },
+    {
+      "match": "prewzzNICE",
+      "image_id": 99492
+    },
+    {
+      "match": "prewzzFACEPALM",
+      "image_id": 105151
+    }
+  ]
+}

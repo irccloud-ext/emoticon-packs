@@ -1,1 +1,39 @@
-{"name":"twitch-sub-ridgedog","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ridgedogPaco","image_id":26294},{"match":"ridgedogDaisy","image_id":26292},{"match":"ridgedogFace","image_id":26293},{"match":"ridgedogRage","image_id":41230},{"match":"ridgedogHair","image_id":41229},{"match":"ridgedogDrink","image_id":41228},{"match":"ridgedogDead","image_id":41227},{"match":"ridgedogBoss","image_id":41226}]}
+{
+  "name": "twitch-sub-ridgedog",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ridgedogPaco",
+      "image_id": 26294
+    },
+    {
+      "match": "ridgedogDaisy",
+      "image_id": 26292
+    },
+    {
+      "match": "ridgedogFace",
+      "image_id": 26293
+    },
+    {
+      "match": "ridgedogRage",
+      "image_id": 41230
+    },
+    {
+      "match": "ridgedogHair",
+      "image_id": 41229
+    },
+    {
+      "match": "ridgedogDrink",
+      "image_id": 41228
+    },
+    {
+      "match": "ridgedogDead",
+      "image_id": 41227
+    },
+    {
+      "match": "ridgedogBoss",
+      "image_id": 41226
+    }
+  ]
+}

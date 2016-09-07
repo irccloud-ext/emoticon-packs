@@ -1,1 +1,23 @@
-{"name":"twitch-sub-hackyomg","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hackyTroll","image_id":13925},{"match":"hackyPre","image_id":13927},{"match":"hackyKappa","image_id":50615},{"match":"hackyCreep","image_id":50614}]}
+{
+  "name": "twitch-sub-hackyomg",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hackyTroll",
+      "image_id": 13925
+    },
+    {
+      "match": "hackyPre",
+      "image_id": 13927
+    },
+    {
+      "match": "hackyKappa",
+      "image_id": 50615
+    },
+    {
+      "match": "hackyCreep",
+      "image_id": 50614
+    }
+  ]
+}

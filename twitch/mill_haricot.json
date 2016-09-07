@@ -1,1 +1,15 @@
-{"name":"twitch-sub-mill_haricot","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hariShiny","image_id":82406},{"match":"hariKappa","image_id":80598}]}
+{
+  "name": "twitch-sub-mill_haricot",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hariShiny",
+      "image_id": 82406
+    },
+    {
+      "match": "hariKappa",
+      "image_id": 80598
+    }
+  ]
+}

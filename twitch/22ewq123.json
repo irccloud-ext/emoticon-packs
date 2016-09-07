@@ -1,1 +1,39 @@
-{"name":"twitch-sub-22ewq123","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"takesiHelp","image_id":108125},{"match":"takesiWig","image_id":107542},{"match":"takesiSenpai","image_id":108221},{"match":"takesiPaX","image_id":107535},{"match":"takesiYo4wo","image_id":107536},{"match":"takesiNoob","image_id":107539},{"match":"takesiWiggle","image_id":107540},{"match":"takesiSprint","image_id":107541}]}
+{
+  "name": "twitch-sub-22ewq123",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "takesiHelp",
+      "image_id": 108125
+    },
+    {
+      "match": "takesiWig",
+      "image_id": 107542
+    },
+    {
+      "match": "takesiSenpai",
+      "image_id": 108221
+    },
+    {
+      "match": "takesiPaX",
+      "image_id": 107535
+    },
+    {
+      "match": "takesiYo4wo",
+      "image_id": 107536
+    },
+    {
+      "match": "takesiNoob",
+      "image_id": 107539
+    },
+    {
+      "match": "takesiWiggle",
+      "image_id": 107540
+    },
+    {
+      "match": "takesiSprint",
+      "image_id": 107541
+    }
+  ]
+}

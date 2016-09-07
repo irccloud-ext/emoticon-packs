@@ -1,1 +1,31 @@
-{"name":"twitch-sub-lawler","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lawl14GO","image_id":103178},{"match":"lawlUGOTTA","image_id":100503},{"match":"lawlTTT","image_id":100502},{"match":"lawlSUB","image_id":102461},{"match":"lawlEZ","image_id":110777},{"match":"lawlTOSS","image_id":111287}]}
+{
+  "name": "twitch-sub-lawler",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lawl14GO",
+      "image_id": 103178
+    },
+    {
+      "match": "lawlUGOTTA",
+      "image_id": 100503
+    },
+    {
+      "match": "lawlTTT",
+      "image_id": 100502
+    },
+    {
+      "match": "lawlSUB",
+      "image_id": 102461
+    },
+    {
+      "match": "lawlEZ",
+      "image_id": 110777
+    },
+    {
+      "match": "lawlTOSS",
+      "image_id": 111287
+    }
+  ]
+}

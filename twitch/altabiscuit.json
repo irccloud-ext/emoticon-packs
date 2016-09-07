@@ -1,1 +1,15 @@
-{"name":"twitch-sub-altabiscuit","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"altaBag","image_id":49530},{"match":"altaW","image_id":109490}]}
+{
+  "name": "twitch-sub-altabiscuit",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "altaBag",
+      "image_id": 49530
+    },
+    {
+      "match": "altaW",
+      "image_id": 109490
+    }
+  ]
+}

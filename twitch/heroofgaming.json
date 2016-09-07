@@ -1,1 +1,31 @@
-{"name":"twitch-sub-heroofgaming","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"crogAsm","image_id":14807},{"match":"crogPls","image_id":14806},{"match":"crogHeart","image_id":15473},{"match":"crogFire","image_id":15474},{"match":"crogStop","image_id":28318},{"match":"crogUhh","image_id":28316}]}
+{
+  "name": "twitch-sub-heroofgaming",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "crogAsm",
+      "image_id": 14807
+    },
+    {
+      "match": "crogPls",
+      "image_id": 14806
+    },
+    {
+      "match": "crogHeart",
+      "image_id": 15473
+    },
+    {
+      "match": "crogFire",
+      "image_id": 15474
+    },
+    {
+      "match": "crogStop",
+      "image_id": 28318
+    },
+    {
+      "match": "crogUhh",
+      "image_id": 28316
+    }
+  ]
+}

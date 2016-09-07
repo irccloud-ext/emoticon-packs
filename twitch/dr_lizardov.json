@@ -1,1 +1,35 @@
-{"name":"twitch-sub-dr_lizardov","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lzvHmmm","image_id":75490},{"match":"lzvWTF","image_id":76487},{"match":"lzvANGRYLOL","image_id":73843},{"match":"lzvVAC","image_id":84098},{"match":"lzvCASH","image_id":84480},{"match":"lzvOSCAR","image_id":84476},{"match":"lzvORDEN","image_id":84465}]}
+{
+  "name": "twitch-sub-dr_lizardov",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lzvHmmm",
+      "image_id": 75490
+    },
+    {
+      "match": "lzvWTF",
+      "image_id": 76487
+    },
+    {
+      "match": "lzvANGRYLOL",
+      "image_id": 73843
+    },
+    {
+      "match": "lzvVAC",
+      "image_id": 84098
+    },
+    {
+      "match": "lzvCASH",
+      "image_id": 84480
+    },
+    {
+      "match": "lzvOSCAR",
+      "image_id": 84476
+    },
+    {
+      "match": "lzvORDEN",
+      "image_id": 84465
+    }
+  ]
+}

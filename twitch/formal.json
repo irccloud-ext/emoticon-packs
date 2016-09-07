@@ -1,1 +1,35 @@
-{"name":"twitch-sub-formal","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"formalSubHype","image_id":73052},{"match":"formalJetpacker","image_id":73051},{"match":"formalLove","image_id":73054},{"match":"formalRekt","image_id":73056},{"match":"formalCash","image_id":76122},{"match":"formalKappa","image_id":76124},{"match":"formalT2p","image_id":76126}]}
+{
+  "name": "twitch-sub-formal",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "formalSubHype",
+      "image_id": 73052
+    },
+    {
+      "match": "formalJetpacker",
+      "image_id": 73051
+    },
+    {
+      "match": "formalLove",
+      "image_id": 73054
+    },
+    {
+      "match": "formalRekt",
+      "image_id": 73056
+    },
+    {
+      "match": "formalCash",
+      "image_id": 76122
+    },
+    {
+      "match": "formalKappa",
+      "image_id": 76124
+    },
+    {
+      "match": "formalT2p",
+      "image_id": 76126
+    }
+  ]
+}

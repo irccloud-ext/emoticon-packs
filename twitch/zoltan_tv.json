@@ -1,1 +1,39 @@
-{"name":"twitch-sub-zoltan_tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ztvThug","image_id":110119},{"match":"ztvJalouxine","image_id":110118},{"match":"ztvLove","image_id":107015},{"match":"ztvPLS","image_id":109803},{"match":"ztvKappa","image_id":106161},{"match":"ztvGasm","image_id":106162},{"match":"ztvRage","image_id":108931},{"match":"ztvSub","image_id":108932}]}
+{
+  "name": "twitch-sub-zoltan_tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ztvThug",
+      "image_id": 110119
+    },
+    {
+      "match": "ztvJalouxine",
+      "image_id": 110118
+    },
+    {
+      "match": "ztvLove",
+      "image_id": 107015
+    },
+    {
+      "match": "ztvPLS",
+      "image_id": 109803
+    },
+    {
+      "match": "ztvKappa",
+      "image_id": 106161
+    },
+    {
+      "match": "ztvGasm",
+      "image_id": 106162
+    },
+    {
+      "match": "ztvRage",
+      "image_id": 108931
+    },
+    {
+      "match": "ztvSub",
+      "image_id": 108932
+    }
+  ]
+}

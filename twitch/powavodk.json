@@ -1,1 +1,23 @@
-{"name":"twitch-sub-powavodk","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vodkLicorne","image_id":45802},{"match":"vodkDrol","image_id":46004},{"match":"vodkFP","image_id":44922},{"match":"vodkNP","image_id":51414}]}
+{
+  "name": "twitch-sub-powavodk",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vodkLicorne",
+      "image_id": 45802
+    },
+    {
+      "match": "vodkDrol",
+      "image_id": 46004
+    },
+    {
+      "match": "vodkFP",
+      "image_id": 44922
+    },
+    {
+      "match": "vodkNP",
+      "image_id": 51414
+    }
+  ]
+}

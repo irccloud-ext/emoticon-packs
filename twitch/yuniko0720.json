@@ -1,1 +1,47 @@
-{"name":"twitch-sub-yuniko0720","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"bearhand1","image_id":16429},{"match":"bearhandQ","image_id":68940},{"match":"bearhandNO","image_id":24882},{"match":"bearhandOMG","image_id":32551},{"match":"bearhandHA","image_id":63953},{"match":"bearhandCRY","image_id":90462},{"match":"bearhandRR","image_id":103366},{"match":"bearhandWTF","image_id":103360},{"match":"bearhandHEY","image_id":107410},{"match":"bearhandPLZ","image_id":107134}]}
+{
+  "name": "twitch-sub-yuniko0720",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "bearhand1",
+      "image_id": 16429
+    },
+    {
+      "match": "bearhandQ",
+      "image_id": 68940
+    },
+    {
+      "match": "bearhandNO",
+      "image_id": 24882
+    },
+    {
+      "match": "bearhandOMG",
+      "image_id": 32551
+    },
+    {
+      "match": "bearhandHA",
+      "image_id": 63953
+    },
+    {
+      "match": "bearhandCRY",
+      "image_id": 90462
+    },
+    {
+      "match": "bearhandRR",
+      "image_id": 103366
+    },
+    {
+      "match": "bearhandWTF",
+      "image_id": 103360
+    },
+    {
+      "match": "bearhandHEY",
+      "image_id": 107410
+    },
+    {
+      "match": "bearhandPLZ",
+      "image_id": 107134
+    }
+  ]
+}

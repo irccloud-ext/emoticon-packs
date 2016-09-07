@@ -1,1 +1,39 @@
-{"name":"twitch-sub-wahsbee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"wahsTD","image_id":19383},{"match":"wahsLove","image_id":16574},{"match":"wahsRekt","image_id":19382},{"match":"wahsHYPE","image_id":16042},{"match":"wahsRIP","image_id":16043},{"match":"wahsSloth","image_id":16313},{"match":"wahsBB","image_id":16312},{"match":"wahsTree","image_id":19435}]}
+{
+  "name": "twitch-sub-wahsbee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "wahsTD",
+      "image_id": 19383
+    },
+    {
+      "match": "wahsLove",
+      "image_id": 16574
+    },
+    {
+      "match": "wahsRekt",
+      "image_id": 19382
+    },
+    {
+      "match": "wahsHYPE",
+      "image_id": 16042
+    },
+    {
+      "match": "wahsRIP",
+      "image_id": 16043
+    },
+    {
+      "match": "wahsSloth",
+      "image_id": 16313
+    },
+    {
+      "match": "wahsBB",
+      "image_id": 16312
+    },
+    {
+      "match": "wahsTree",
+      "image_id": 19435
+    }
+  ]
+}

@@ -1,1 +1,51 @@
-{"name":"twitch-sub-lyndonfps","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lyndTato","image_id":70812},{"match":"lyndWow","image_id":69059},{"match":"lyndBeer","image_id":67947},{"match":"lyndD","image_id":68840},{"match":"lyndRev","image_id":67048},{"match":"lyndNerd","image_id":67046},{"match":"lyndL","image_id":68286},{"match":"lynd1tap","image_id":67719},{"match":"lyndGrill","image_id":70744},{"match":"lyndGg","image_id":70745},{"match":"lyndStash","image_id":70746}]}
+{
+  "name": "twitch-sub-lyndonfps",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lyndTato",
+      "image_id": 70812
+    },
+    {
+      "match": "lyndWow",
+      "image_id": 69059
+    },
+    {
+      "match": "lyndBeer",
+      "image_id": 67947
+    },
+    {
+      "match": "lyndD",
+      "image_id": 68840
+    },
+    {
+      "match": "lyndRev",
+      "image_id": 67048
+    },
+    {
+      "match": "lyndNerd",
+      "image_id": 67046
+    },
+    {
+      "match": "lyndL",
+      "image_id": 68286
+    },
+    {
+      "match": "lynd1tap",
+      "image_id": 67719
+    },
+    {
+      "match": "lyndGrill",
+      "image_id": 70744
+    },
+    {
+      "match": "lyndGg",
+      "image_id": 70745
+    },
+    {
+      "match": "lyndStash",
+      "image_id": 70746
+    }
+  ]
+}

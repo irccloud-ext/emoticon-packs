@@ -1,1 +1,15 @@
-{"name":"twitch-sub-isken7","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"iskenCam","image_id":51109},{"match":"iskenGato","image_id":51100}]}
+{
+  "name": "twitch-sub-isken7",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "iskenCam",
+      "image_id": 51109
+    },
+    {
+      "match": "iskenGato",
+      "image_id": 51100
+    }
+  ]
+}

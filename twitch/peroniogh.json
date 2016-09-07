@@ -1,1 +1,43 @@
-{"name":"twitch-sub-peroniogh","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"peronioGamer","image_id":5812},{"match":"peronioEneashappy","image_id":5811},{"match":"peronioBeard","image_id":8424},{"match":"peronioBomb","image_id":8440},{"match":"peronioC4","image_id":8473},{"match":"peronioBoralive","image_id":10592},{"match":"peronioMundinho","image_id":14067},{"match":"peronioRage","image_id":14068},{"match":"peronioBug","image_id":15610}]}
+{
+  "name": "twitch-sub-peroniogh",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "peronioGamer",
+      "image_id": 5812
+    },
+    {
+      "match": "peronioEneashappy",
+      "image_id": 5811
+    },
+    {
+      "match": "peronioBeard",
+      "image_id": 8424
+    },
+    {
+      "match": "peronioBomb",
+      "image_id": 8440
+    },
+    {
+      "match": "peronioC4",
+      "image_id": 8473
+    },
+    {
+      "match": "peronioBoralive",
+      "image_id": 10592
+    },
+    {
+      "match": "peronioMundinho",
+      "image_id": 14067
+    },
+    {
+      "match": "peronioRage",
+      "image_id": 14068
+    },
+    {
+      "match": "peronioBug",
+      "image_id": 15610
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-dqmhose","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hosePaddel","image_id":79099},{"match":"hoseRage","image_id":61523},{"match":"hoseFail","image_id":53739},{"match":"hoseGouda","image_id":53741},{"match":"hoseTee","image_id":54712},{"match":"hoseHey","image_id":61522},{"match":"hoseLove","image_id":91733},{"match":"hoseHype","image_id":91729}]}
+{
+  "name": "twitch-sub-dqmhose",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hosePaddel",
+      "image_id": 79099
+    },
+    {
+      "match": "hoseRage",
+      "image_id": 61523
+    },
+    {
+      "match": "hoseFail",
+      "image_id": 53739
+    },
+    {
+      "match": "hoseGouda",
+      "image_id": 53741
+    },
+    {
+      "match": "hoseTee",
+      "image_id": 54712
+    },
+    {
+      "match": "hoseHey",
+      "image_id": 61522
+    },
+    {
+      "match": "hoseLove",
+      "image_id": 91733
+    },
+    {
+      "match": "hoseHype",
+      "image_id": 91729
+    }
+  ]
+}

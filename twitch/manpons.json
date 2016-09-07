@@ -1,1 +1,47 @@
-{"name":"twitch-sub-manpons","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ponsLUL","image_id":108151},{"match":"ponsWUT","image_id":109638},{"match":"ponsG","image_id":68442},{"match":"ponsO","image_id":64506},{"match":"ponsW","image_id":71565},{"match":"ponsLIG","image_id":78196},{"match":"ponsH","image_id":79847},{"match":"ponsM","image_id":104676},{"match":"ponsOMG","image_id":107903},{"match":"ponsBD","image_id":107891}]}
+{
+  "name": "twitch-sub-manpons",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ponsLUL",
+      "image_id": 108151
+    },
+    {
+      "match": "ponsWUT",
+      "image_id": 109638
+    },
+    {
+      "match": "ponsG",
+      "image_id": 68442
+    },
+    {
+      "match": "ponsO",
+      "image_id": 64506
+    },
+    {
+      "match": "ponsW",
+      "image_id": 71565
+    },
+    {
+      "match": "ponsLIG",
+      "image_id": 78196
+    },
+    {
+      "match": "ponsH",
+      "image_id": 79847
+    },
+    {
+      "match": "ponsM",
+      "image_id": 104676
+    },
+    {
+      "match": "ponsOMG",
+      "image_id": 107903
+    },
+    {
+      "match": "ponsBD",
+      "image_id": 107891
+    }
+  ]
+}

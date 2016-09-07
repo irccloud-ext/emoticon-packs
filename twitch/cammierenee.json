@@ -1,1 +1,31 @@
-{"name":"twitch-sub-cammierenee","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"catHug","image_id":44348},{"match":"catHype","image_id":44353},{"match":"catLove","image_id":48676},{"match":"catGASP","image_id":67024},{"match":"catW","image_id":88208},{"match":"catWHAT","image_id":104434}]}
+{
+  "name": "twitch-sub-cammierenee",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "catHug",
+      "image_id": 44348
+    },
+    {
+      "match": "catHype",
+      "image_id": 44353
+    },
+    {
+      "match": "catLove",
+      "image_id": 48676
+    },
+    {
+      "match": "catGASP",
+      "image_id": 67024
+    },
+    {
+      "match": "catW",
+      "image_id": 88208
+    },
+    {
+      "match": "catWHAT",
+      "image_id": 104434
+    }
+  ]
+}

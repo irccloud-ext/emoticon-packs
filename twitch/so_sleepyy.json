@@ -1,1 +1,39 @@
-{"name":"twitch-sub-so_sleepyy","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yawnGOODFIGHT","image_id":30225},{"match":"yawnMo","image_id":30228},{"match":"yawnPants","image_id":35521},{"match":"yawnMau5","image_id":35183},{"match":"yawnShroom","image_id":35319},{"match":"yawnNeen","image_id":46479},{"match":"yawnTekCan","image_id":46426},{"match":"yawnBUSH","image_id":44688}]}
+{
+  "name": "twitch-sub-so_sleepyy",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yawnGOODFIGHT",
+      "image_id": 30225
+    },
+    {
+      "match": "yawnMo",
+      "image_id": 30228
+    },
+    {
+      "match": "yawnPants",
+      "image_id": 35521
+    },
+    {
+      "match": "yawnMau5",
+      "image_id": 35183
+    },
+    {
+      "match": "yawnShroom",
+      "image_id": 35319
+    },
+    {
+      "match": "yawnNeen",
+      "image_id": 46479
+    },
+    {
+      "match": "yawnTekCan",
+      "image_id": 46426
+    },
+    {
+      "match": "yawnBUSH",
+      "image_id": 44688
+    }
+  ]
+}

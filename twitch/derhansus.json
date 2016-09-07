@@ -1,1 +1,15 @@
-{"name":"twitch-sub-derhansus","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hansusWasDas","image_id":79974},{"match":"hansusOP","image_id":81344}]}
+{
+  "name": "twitch-sub-derhansus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hansusWasDas",
+      "image_id": 79974
+    },
+    {
+      "match": "hansusOP",
+      "image_id": 81344
+    }
+  ]
+}

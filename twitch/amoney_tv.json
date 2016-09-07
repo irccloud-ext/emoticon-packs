@@ -1,1 +1,47 @@
-{"name":"twitch-sub-amoney_tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"amoneyShot","image_id":86549},{"match":"amoneyGuy","image_id":98586},{"match":"amoneyFace","image_id":77152},{"match":"amoneyHype","image_id":87497},{"match":"amoneyFrown","image_id":89229},{"match":"amoneyBlind","image_id":107603},{"match":"amoneyGames","image_id":95166},{"match":"amoneyWut","image_id":101295},{"match":"amoneyKappa","image_id":101286},{"match":"amoneyDerp","image_id":101164}]}
+{
+  "name": "twitch-sub-amoney_tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "amoneyShot",
+      "image_id": 86549
+    },
+    {
+      "match": "amoneyDolla",
+      "image_id": 112463
+    },
+    {
+      "match": "amoneyGuy",
+      "image_id": 98586
+    },
+    {
+      "match": "amoneyHype",
+      "image_id": 87497
+    },
+    {
+      "match": "amoneyFrown",
+      "image_id": 89229
+    },
+    {
+      "match": "amoneyBlind",
+      "image_id": 107603
+    },
+    {
+      "match": "amoneyGames",
+      "image_id": 95166
+    },
+    {
+      "match": "amoneyWut",
+      "image_id": 101295
+    },
+    {
+      "match": "amoneyKappa",
+      "image_id": 101286
+    },
+    {
+      "match": "amoneyDerp",
+      "image_id": 101164
+    }
+  ]
+}

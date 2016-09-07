@@ -1,1 +1,31 @@
-{"name":"twitch-sub-ctooshi","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tooshVN","image_id":91972},{"match":"tooshShark","image_id":84368},{"match":"tooshAY","image_id":84367},{"match":"tooshFi","image_id":90715},{"match":"tooshBro","image_id":90863},{"match":"tooshSis","image_id":91319}]}
+{
+  "name": "twitch-sub-ctooshi",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tooshVN",
+      "image_id": 91972
+    },
+    {
+      "match": "tooshShark",
+      "image_id": 84368
+    },
+    {
+      "match": "tooshAY",
+      "image_id": 84367
+    },
+    {
+      "match": "tooshFi",
+      "image_id": 90715
+    },
+    {
+      "match": "tooshBro",
+      "image_id": 90863
+    },
+    {
+      "match": "tooshSis",
+      "image_id": 91319
+    }
+  ]
+}

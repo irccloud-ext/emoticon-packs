@@ -1,1 +1,39 @@
-{"name":"twitch-sub-zorao","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"zoraoCRY","image_id":79441},{"match":"zoraoHI","image_id":79442},{"match":"zoraoLOL","image_id":79444},{"match":"zoraoMAD","image_id":79449},{"match":"zoraoNOT","image_id":79451},{"match":"zoraoF","image_id":84028},{"match":"zoraoG","image_id":84029},{"match":"zoraoH","image_id":84273}]}
+{
+  "name": "twitch-sub-zorao",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "zoraoCRY",
+      "image_id": 79441
+    },
+    {
+      "match": "zoraoHI",
+      "image_id": 79442
+    },
+    {
+      "match": "zoraoLOL",
+      "image_id": 79444
+    },
+    {
+      "match": "zoraoMAD",
+      "image_id": 79449
+    },
+    {
+      "match": "zoraoNOT",
+      "image_id": 79451
+    },
+    {
+      "match": "zoraoF",
+      "image_id": 84028
+    },
+    {
+      "match": "zoraoG",
+      "image_id": 84029
+    },
+    {
+      "match": "zoraoH",
+      "image_id": 84273
+    }
+  ]
+}

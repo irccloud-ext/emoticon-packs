@@ -1,1 +1,23 @@
-{"name":"twitch-sub-xeleko","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"xelekoGG","image_id":49812},{"match":"xelekoTDO","image_id":49807},{"match":"xelekoBaguette","image_id":48296},{"match":"xelekoKappa","image_id":69800}]}
+{
+  "name": "twitch-sub-xeleko",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "xelekoGG",
+      "image_id": 49812
+    },
+    {
+      "match": "xelekoTDO",
+      "image_id": 49807
+    },
+    {
+      "match": "xelekoBaguette",
+      "image_id": 48296
+    },
+    {
+      "match": "xelekoKappa",
+      "image_id": 69800
+    }
+  ]
+}

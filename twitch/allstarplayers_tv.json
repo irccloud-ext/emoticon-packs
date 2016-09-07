@@ -1,1 +1,15 @@
-{"name":"twitch-sub-allstarplayers_tv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"allstarPlayers","image_id":24552},{"match":"allstarGOL","image_id":37583}]}
+{
+  "name": "twitch-sub-allstarplayers_tv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "allstarPlayers",
+      "image_id": 24552
+    },
+    {
+      "match": "allstarGOL",
+      "image_id": 37583
+    }
+  ]
+}

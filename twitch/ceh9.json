@@ -1,1 +1,67 @@
-{"name":"twitch-sub-ceh9","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cehClown","image_id":6834},{"match":"cehBatman","image_id":6835},{"match":"cehBeard","image_id":7932},{"match":"cehDuck","image_id":7933},{"match":"cehWow","image_id":10447},{"match":"cehDOG","image_id":10498},{"match":"cehRAGE","image_id":9833},{"match":"cehDeal","image_id":10398},{"match":"cehGUY","image_id":20711},{"match":"cehPooh","image_id":28013},{"match":"cehCO","image_id":70572},{"match":"cehCa","image_id":70574},{"match":"cehVac","image_id":70575},{"match":"cehHype","image_id":70576},{"match":"cehTb","image_id":70674}]}
+{
+  "name": "twitch-sub-ceh9",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cehClown",
+      "image_id": 6834
+    },
+    {
+      "match": "cehBatman",
+      "image_id": 6835
+    },
+    {
+      "match": "cehBeard",
+      "image_id": 7932
+    },
+    {
+      "match": "cehDuck",
+      "image_id": 7933
+    },
+    {
+      "match": "cehWow",
+      "image_id": 10447
+    },
+    {
+      "match": "cehDOG",
+      "image_id": 10498
+    },
+    {
+      "match": "cehRAGE",
+      "image_id": 9833
+    },
+    {
+      "match": "cehDeal",
+      "image_id": 10398
+    },
+    {
+      "match": "cehGUY",
+      "image_id": 20711
+    },
+    {
+      "match": "cehPooh",
+      "image_id": 28013
+    },
+    {
+      "match": "cehCO",
+      "image_id": 70572
+    },
+    {
+      "match": "cehCa",
+      "image_id": 70574
+    },
+    {
+      "match": "cehVac",
+      "image_id": 70575
+    },
+    {
+      "match": "cehHype",
+      "image_id": 70576
+    },
+    {
+      "match": "cehTb",
+      "image_id": 70674
+    }
+  ]
+}

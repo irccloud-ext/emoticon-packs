@@ -1,1 +1,31 @@
-{"name":"twitch-sub-frivvifox","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"frivCreep","image_id":71289},{"match":"frivLShark","image_id":39329},{"match":"frivHype","image_id":39328},{"match":"frivThump","image_id":39438},{"match":"frivRip","image_id":40104},{"match":"frivLove","image_id":71112}]}
+{
+  "name": "twitch-sub-frivvifox",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "frivCreep",
+      "image_id": 71289
+    },
+    {
+      "match": "frivLShark",
+      "image_id": 39329
+    },
+    {
+      "match": "frivHype",
+      "image_id": 39328
+    },
+    {
+      "match": "frivThump",
+      "image_id": 39438
+    },
+    {
+      "match": "frivRip",
+      "image_id": 40104
+    },
+    {
+      "match": "frivLove",
+      "image_id": 71112
+    }
+  ]
+}

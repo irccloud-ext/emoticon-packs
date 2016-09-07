@@ -1,1 +1,39 @@
-{"name":"twitch-sub-wotloltv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"torwaldKopoJlb","image_id":71153},{"match":"torwaldTTaPoJlTaHKuct","image_id":71152},{"match":"torwaldBalansVnorme","image_id":70680},{"match":"torwaldMaPIIIPytTka921","image_id":73310},{"match":"torwaldTIoJITTaH","image_id":74465}]}
+{
+  "name": "twitch-sub-wotloltv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "torwaldKopoJlb",
+      "image_id": 71153
+    },
+    {
+      "match": "torwaldTTaPoJlTaHKuct",
+      "image_id": 71152
+    },
+    {
+      "match": "torwaldOlegovna",
+      "image_id": 111970
+    },
+    {
+      "match": "torwaldBoom",
+      "image_id": 111958
+    },
+    {
+      "match": "torwaldBalansVnorme",
+      "image_id": 70680
+    },
+    {
+      "match": "torwaldMaPIIIPytTka921",
+      "image_id": 73310
+    },
+    {
+      "match": "torwaldTIoJITTaH",
+      "image_id": 74465
+    },
+    {
+      "match": "torwaldTsoi",
+      "image_id": 112131
+    }
+  ]
+}

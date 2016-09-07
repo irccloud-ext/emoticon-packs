@@ -1,1 +1,39 @@
-{"name":"twitch-sub-orionacaba","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"orionacabaWITNESS","image_id":63618},{"match":"orionacabaDraconian","image_id":73612},{"match":"orionacabaOBJECTION","image_id":75603},{"match":"orionacabaHYPE","image_id":63616},{"match":"orionacabaTiberius","image_id":63617},{"match":"orionacabaREKT","image_id":64239},{"match":"orionacabaFIREBALL","image_id":64240},{"match":"orionacabaFIREBALLED","image_id":64294}]}
+{
+  "name": "twitch-sub-orionacaba",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "orionacabaWITNESS",
+      "image_id": 63618
+    },
+    {
+      "match": "orionacabaDraconian",
+      "image_id": 73612
+    },
+    {
+      "match": "orionacabaOBJECTION",
+      "image_id": 75603
+    },
+    {
+      "match": "orionacabaHYPE",
+      "image_id": 63616
+    },
+    {
+      "match": "orionacabaTiberius",
+      "image_id": 63617
+    },
+    {
+      "match": "orionacabaREKT",
+      "image_id": 64239
+    },
+    {
+      "match": "orionacabaFIREBALL",
+      "image_id": 64240
+    },
+    {
+      "match": "orionacabaFIREBALLED",
+      "image_id": 64294
+    }
+  ]
+}

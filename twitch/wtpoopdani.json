@@ -1,1 +1,47 @@
-{"name":"twitch-sub-wtpoopdani","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"poopWut","image_id":59468},{"match":"poopThump","image_id":59824},{"match":"poopLuv","image_id":59489},{"match":"poopRip","image_id":62676},{"match":"poopHype","image_id":62681},{"match":"poopW","image_id":77037},{"match":"poopO3O","image_id":89235},{"match":"poopFly","image_id":87858},{"match":"poopLewd","image_id":90622},{"match":"poopDanu","image_id":92147}]}
+{
+  "name": "twitch-sub-wtpoopdani",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "poopWut",
+      "image_id": 59468
+    },
+    {
+      "match": "poopThump",
+      "image_id": 59824
+    },
+    {
+      "match": "poopLuv",
+      "image_id": 59489
+    },
+    {
+      "match": "poopRip",
+      "image_id": 62676
+    },
+    {
+      "match": "poopHype",
+      "image_id": 62681
+    },
+    {
+      "match": "poopW",
+      "image_id": 77037
+    },
+    {
+      "match": "poopO3O",
+      "image_id": 89235
+    },
+    {
+      "match": "poopFly",
+      "image_id": 87858
+    },
+    {
+      "match": "poopLewd",
+      "image_id": 90622
+    },
+    {
+      "match": "poopDanu",
+      "image_id": 92147
+    }
+  ]
+}

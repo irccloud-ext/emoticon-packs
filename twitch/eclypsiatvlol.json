@@ -1,1 +1,51 @@
-{"name":"twitch-sub-eclypsiatvlol","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ectvlolChauve","image_id":96776},{"match":"ectvlolAmaury","image_id":104455},{"match":"ectvlolMelon","image_id":105795},{"match":"ectvlolLRB","image_id":104454},{"match":"ectvlolChap","image_id":104453},{"match":"ectvlolAlde","image_id":104452},{"match":"ectvlolBojeu","image_id":95795},{"match":"ectvlolTaip","image_id":97240},{"match":"ectvlolGlou","image_id":96384},{"match":"ectvlolHype","image_id":96386},{"match":"ectvlolAled","image_id":96794}]}
+{
+  "name": "twitch-sub-eclypsiatvlol",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ectvlolChauve",
+      "image_id": 96776
+    },
+    {
+      "match": "ectvlolAmaury",
+      "image_id": 104455
+    },
+    {
+      "match": "ectvlolMelon",
+      "image_id": 105795
+    },
+    {
+      "match": "ectvlolLRB",
+      "image_id": 104454
+    },
+    {
+      "match": "ectvlolChap",
+      "image_id": 104453
+    },
+    {
+      "match": "ectvlolAlde",
+      "image_id": 104452
+    },
+    {
+      "match": "ectvlolBojeu",
+      "image_id": 95795
+    },
+    {
+      "match": "ectvlolTaip",
+      "image_id": 97240
+    },
+    {
+      "match": "ectvlolGlou",
+      "image_id": 96384
+    },
+    {
+      "match": "ectvlolHype",
+      "image_id": 96386
+    },
+    {
+      "match": "ectvlolAled",
+      "image_id": 96794
+    }
+  ]
+}

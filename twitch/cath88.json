@@ -1,1 +1,39 @@
-{"name":"twitch-sub-cath88","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cathHype","image_id":36746},{"match":"cathThump","image_id":38024},{"match":"cathSub","image_id":36832},{"match":"cathRaver","image_id":38312},{"match":"cathM","image_id":70102},{"match":"cathCreep","image_id":68518},{"match":"cathHey","image_id":69839},{"match":"cathGreed","image_id":101159}]}
+{
+  "name": "twitch-sub-cath88",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cathHype",
+      "image_id": 36746
+    },
+    {
+      "match": "cathThump",
+      "image_id": 38024
+    },
+    {
+      "match": "cathSub",
+      "image_id": 36832
+    },
+    {
+      "match": "cathRaver",
+      "image_id": 38312
+    },
+    {
+      "match": "cathM",
+      "image_id": 70102
+    },
+    {
+      "match": "cathCreep",
+      "image_id": 68518
+    },
+    {
+      "match": "cathHey",
+      "image_id": 69839
+    },
+    {
+      "match": "cathGreed",
+      "image_id": 101159
+    }
+  ]
+}

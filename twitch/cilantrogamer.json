@@ -1,1 +1,39 @@
-{"name":"twitch-sub-cilantrogamer","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cilGodsBePraised","image_id":1157},{"match":"cilKanda","image_id":1158},{"match":"cilSlickBacon","image_id":1156},{"match":"cilWinkyFace","image_id":1159},{"match":"cil1005","image_id":7546},{"match":"cilPicnic","image_id":8800},{"match":"cilSTUPID","image_id":8475},{"match":"cilLurker","image_id":10611}]}
+{
+  "name": "twitch-sub-cilantrogamer",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cilGodsBePraised",
+      "image_id": 1157
+    },
+    {
+      "match": "cilKanda",
+      "image_id": 1158
+    },
+    {
+      "match": "cilSlickBacon",
+      "image_id": 1156
+    },
+    {
+      "match": "cilWinkyFace",
+      "image_id": 1159
+    },
+    {
+      "match": "cil1005",
+      "image_id": 7546
+    },
+    {
+      "match": "cilPicnic",
+      "image_id": 8800
+    },
+    {
+      "match": "cilSTUPID",
+      "image_id": 8475
+    },
+    {
+      "match": "cilLurker",
+      "image_id": 10611
+    }
+  ]
+}

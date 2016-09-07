@@ -1,1 +1,43 @@
-{"name":"twitch-sub-armadaugs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ugsStitchFace","image_id":22755},{"match":"ugsSwedishSniper","image_id":110115},{"match":"ugsParty","image_id":98578},{"match":"ugsArmadaW","image_id":94326},{"match":"ugsArmadaPopOff","image_id":97752},{"match":"ugsGenesis","image_id":97921},{"match":"ugsSad","image_id":108826},{"match":"ugsArmadaShine","image_id":108935}]}
+{
+  "name": "twitch-sub-armadaugs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ugsStitchFace",
+      "image_id": 22755
+    },
+    {
+      "match": "ugsSwedishSniper",
+      "image_id": 110115
+    },
+    {
+      "match": "ugsParty",
+      "image_id": 98578
+    },
+    {
+      "match": "ugsArmadaW",
+      "image_id": 94326
+    },
+    {
+      "match": "ugsArmadaPopOff",
+      "image_id": 97752
+    },
+    {
+      "match": "ugsGenesis",
+      "image_id": 97921
+    },
+    {
+      "match": "ugsSad",
+      "image_id": 108826
+    },
+    {
+      "match": "ugsArmadaShine",
+      "image_id": 108935
+    },
+    {
+      "match": "ugsPuffHell",
+      "image_id": 112256
+    }
+  ]
+}

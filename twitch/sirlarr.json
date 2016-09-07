@@ -1,1 +1,39 @@
-{"name":"twitch-sub-sirlarr","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"larrAnimeleft","image_id":53781},{"match":"larrGrump","image_id":53779},{"match":"larrHack","image_id":38388},{"match":"larrCool","image_id":38923},{"match":"larrAnimeright","image_id":53782},{"match":"larrBits","image_id":90058},{"match":"larrFinger","image_id":90057},{"match":"larrHax","image_id":99363}]}
+{
+  "name": "twitch-sub-sirlarr",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "larrAnimeleft",
+      "image_id": 53781
+    },
+    {
+      "match": "larrGrump",
+      "image_id": 53779
+    },
+    {
+      "match": "larrHack",
+      "image_id": 38388
+    },
+    {
+      "match": "larrCool",
+      "image_id": 38923
+    },
+    {
+      "match": "larrAnimeright",
+      "image_id": 53782
+    },
+    {
+      "match": "larrBits",
+      "image_id": 90058
+    },
+    {
+      "match": "larrFinger",
+      "image_id": 90057
+    },
+    {
+      "match": "larrHax",
+      "image_id": 99363
+    }
+  ]
+}

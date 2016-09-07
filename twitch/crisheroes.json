@@ -1,1 +1,27 @@
-{"name":"twitch-sub-crisheroes","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"crisW","image_id":58420},{"match":"crisTL","image_id":82836},{"match":"crisFeels","image_id":101045},{"match":"crisHey","image_id":100738},{"match":"crisPogChen","image_id":101005},{"match":"crisLuv","image_id":100282}]}
+{
+  "name": "twitch-sub-crisheroes",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "crisW",
+      "image_id": 58420
+    },
+    {
+      "match": "crisFeels",
+      "image_id": 101045
+    },
+    {
+      "match": "crisHey",
+      "image_id": 100738
+    },
+    {
+      "match": "crisPogChen",
+      "image_id": 101005
+    },
+    {
+      "match": "crisLuv",
+      "image_id": 100282
+    }
+  ]
+}

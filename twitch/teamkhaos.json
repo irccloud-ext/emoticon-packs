@@ -1,1 +1,23 @@
-{"name":"twitch-sub-teamkhaos","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"khaosHappyDaigo","image_id":48445},{"match":"khaosAlpaca","image_id":48446},{"match":"khaosKOGChamp","image_id":48447},{"match":"khaosDaveO","image_id":48438}]}
+{
+  "name": "twitch-sub-teamkhaos",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "khaosHappyDaigo",
+      "image_id": 48445
+    },
+    {
+      "match": "khaosAlpaca",
+      "image_id": 48446
+    },
+    {
+      "match": "khaosKOGChamp",
+      "image_id": 48447
+    },
+    {
+      "match": "khaosDaveO",
+      "image_id": 48438
+    }
+  ]
+}

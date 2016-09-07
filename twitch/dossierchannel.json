@@ -1,1 +1,39 @@
-{"name":"twitch-sub-dossierchannel","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"ohmanzHotHead","image_id":102513},{"match":"ohmanzIceCool","image_id":102514},{"match":"ohmanzARFSmile","image_id":102516},{"match":"ohmanzARFmama","image_id":102515},{"match":"ohmanzARFFlower","image_id":103379},{"match":"ohmanzARFCry","image_id":103923},{"match":"ohmanzPlayOverThere","image_id":106438},{"match":"ohmanzARFHoldTheHoe","image_id":106439}]}
+{
+  "name": "twitch-sub-dossierchannel",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "ohmanzHotHead",
+      "image_id": 102513
+    },
+    {
+      "match": "ohmanzIceCool",
+      "image_id": 102514
+    },
+    {
+      "match": "ohmanzARFSmile",
+      "image_id": 102516
+    },
+    {
+      "match": "ohmanzARFmama",
+      "image_id": 102515
+    },
+    {
+      "match": "ohmanzARFFlower",
+      "image_id": 103379
+    },
+    {
+      "match": "ohmanzARFCry",
+      "image_id": 103923
+    },
+    {
+      "match": "ohmanzPlayOverThere",
+      "image_id": 106438
+    },
+    {
+      "match": "ohmanzARFHoldTheHoe",
+      "image_id": 106439
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"name":"twitch-sub-shaclone","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"cloneLappa","image_id":71075},{"match":"cloneOMG","image_id":69226},{"match":"cloneKappa","image_id":26540},{"match":"cloneBLUE","image_id":49486},{"match":"cloneBibleThump","image_id":51390},{"match":"cloneGhost","image_id":61816},{"match":"cloneKappaBro","image_id":73195},{"match":"cloneHype","image_id":103047}]}
+{
+  "name": "twitch-sub-shaclone",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "cloneLappa",
+      "image_id": 71075
+    },
+    {
+      "match": "cloneOMG",
+      "image_id": 69226
+    },
+    {
+      "match": "cloneKappa",
+      "image_id": 26540
+    },
+    {
+      "match": "cloneBLUE",
+      "image_id": 49486
+    },
+    {
+      "match": "cloneBibleThump",
+      "image_id": 51390
+    },
+    {
+      "match": "cloneGhost",
+      "image_id": 61816
+    },
+    {
+      "match": "cloneKappaBro",
+      "image_id": 73195
+    },
+    {
+      "match": "cloneHype",
+      "image_id": 103047
+    }
+  ]
+}

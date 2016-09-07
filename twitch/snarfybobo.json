@@ -1,1 +1,47 @@
-{"name":"twitch-sub-snarfybobo","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"snarfCat","image_id":23145},{"match":"snarfBoo","image_id":10318},{"match":"snarfFancy","image_id":10372},{"match":"snarfHype","image_id":9378},{"match":"snarfEZPZ","image_id":9686},{"match":"snarfLove","image_id":9758},{"match":"snarfBear","image_id":23147},{"match":"snarfHug","image_id":14472},{"match":"snarfBug","image_id":52847},{"match":"snarfUnc","image_id":96095}]}
+{
+  "name": "twitch-sub-snarfybobo",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "snarfCat",
+      "image_id": 23145
+    },
+    {
+      "match": "snarfBoo",
+      "image_id": 10318
+    },
+    {
+      "match": "snarfFancy",
+      "image_id": 10372
+    },
+    {
+      "match": "snarfHype",
+      "image_id": 9378
+    },
+    {
+      "match": "snarfEZPZ",
+      "image_id": 9686
+    },
+    {
+      "match": "snarfLove",
+      "image_id": 9758
+    },
+    {
+      "match": "snarfBear",
+      "image_id": 23147
+    },
+    {
+      "match": "snarfHug",
+      "image_id": 14472
+    },
+    {
+      "match": "snarfBug",
+      "image_id": 52847
+    },
+    {
+      "match": "snarfUnc",
+      "image_id": 96095
+    }
+  ]
+}

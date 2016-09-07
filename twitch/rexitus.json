@@ -1,1 +1,31 @@
-{"name":"twitch-sub-rexitus","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"rexiMod","image_id":50333},{"match":"rexiFace","image_id":50332},{"match":"rexiGasm","image_id":50329},{"match":"rexiSalt","image_id":50711},{"match":"rexiRage","image_id":50748},{"match":"rexiSwag","image_id":50747}]}
+{
+  "name": "twitch-sub-rexitus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "rexiMod",
+      "image_id": 50333
+    },
+    {
+      "match": "rexiFace",
+      "image_id": 50332
+    },
+    {
+      "match": "rexiGasm",
+      "image_id": 50329
+    },
+    {
+      "match": "rexiSalt",
+      "image_id": 50711
+    },
+    {
+      "match": "rexiRage",
+      "image_id": 50748
+    },
+    {
+      "match": "rexiSwag",
+      "image_id": 50747
+    }
+  ]
+}

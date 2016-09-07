@@ -1,1 +1,11 @@
-{"name":"twitch-sub-stormstudio_csgo_ru","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"stoNum","image_id":38932}]}
+{
+  "name": "twitch-sub-stormstudio_csgo_ru",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "stoNum",
+      "image_id": 38932
+    }
+  ]
+}

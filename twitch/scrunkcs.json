@@ -1,1 +1,39 @@
-{"name":"twitch-sub-scrunkcs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"scrunkBrrr","image_id":72687},{"match":"scrunkElBrocko","image_id":72362},{"match":"scrunkMP9","image_id":73990},{"match":"scrunkRucksack","image_id":79599},{"match":"scrunkPalm","image_id":100247},{"match":"scrunkLove","image_id":108542},{"match":"scrunkGOD","image_id":108541},{"match":"scrunkFeels","image_id":108349}]}
+{
+  "name": "twitch-sub-scrunkcs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "scrunkBrrr",
+      "image_id": 72687
+    },
+    {
+      "match": "scrunkElBrocko",
+      "image_id": 72362
+    },
+    {
+      "match": "scrunkMP9",
+      "image_id": 73990
+    },
+    {
+      "match": "scrunkRucksack",
+      "image_id": 79599
+    },
+    {
+      "match": "scrunkPalm",
+      "image_id": 100247
+    },
+    {
+      "match": "scrunkLove",
+      "image_id": 108542
+    },
+    {
+      "match": "scrunkGOD",
+      "image_id": 108541
+    },
+    {
+      "match": "scrunkFeels",
+      "image_id": 108349
+    }
+  ]
+}

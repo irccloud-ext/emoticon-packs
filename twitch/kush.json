@@ -1,1 +1,19 @@
-{"name":"twitch-sub-kush","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"kush420","image_id":68806},{"match":"kushNoScope","image_id":68807},{"match":"kushDedaf","image_id":68811}]}
+{
+  "name": "twitch-sub-kush",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "kush420",
+      "image_id": 68806
+    },
+    {
+      "match": "kushNoScope",
+      "image_id": 68807
+    },
+    {
+      "match": "kushDedaf",
+      "image_id": 68811
+    }
+  ]
+}

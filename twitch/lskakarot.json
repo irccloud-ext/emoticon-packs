@@ -1,1 +1,39 @@
-{"name":"twitch-sub-lskakarot","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"lskCringe","image_id":77966},{"match":"lskSuh","image_id":93927},{"match":"lskHollywood","image_id":97551},{"match":"lskLeet","image_id":93918},{"match":"lskL","image_id":97553},{"match":"lskLol","image_id":101949},{"match":"lskChamp","image_id":101948},{"match":"lskGang","image_id":106918}]}
+{
+  "name": "twitch-sub-lskakarot",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "lskCringe",
+      "image_id": 77966
+    },
+    {
+      "match": "lskSuh",
+      "image_id": 93927
+    },
+    {
+      "match": "lskHollywood",
+      "image_id": 97551
+    },
+    {
+      "match": "lskLeet",
+      "image_id": 93918
+    },
+    {
+      "match": "lskL",
+      "image_id": 97553
+    },
+    {
+      "match": "lskLol",
+      "image_id": 101949
+    },
+    {
+      "match": "lskChamp",
+      "image_id": 101948
+    },
+    {
+      "match": "lskGang",
+      "image_id": 106918
+    }
+  ]
+}

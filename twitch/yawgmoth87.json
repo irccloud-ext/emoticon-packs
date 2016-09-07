@@ -1,1 +1,23 @@
-{"name":"twitch-sub-yawgmoth87","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"yawSwag","image_id":70684},{"match":"yawReally","image_id":70685},{"match":"yawFiesta","image_id":85132},{"match":"yawSalt","image_id":85948}]}
+{
+  "name": "twitch-sub-yawgmoth87",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "yawSwag",
+      "image_id": 70684
+    },
+    {
+      "match": "yawReally",
+      "image_id": 70685
+    },
+    {
+      "match": "yawFiesta",
+      "image_id": 85132
+    },
+    {
+      "match": "yawSalt",
+      "image_id": 85948
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"name":"twitch-sub-lolnatsumiii","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"natsuKawaii","image_id":3680},{"match":"natsuSweatdrop","image_id":3753},{"match":"natsuExcite","image_id":3754},{"match":"natsuCorki","image_id":6931},{"match":"natsuRage","image_id":35922},{"match":"natsuGasm","image_id":35921},{"match":"natsuShun","image_id":60852},{"match":"natsuWave","image_id":60853},{"match":"natsuS","image_id":80797},{"match":"natsuXD","image_id":80795}]}
+{
+  "name": "twitch-sub-lolnatsumiii",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "natsuKawaii",
+      "image_id": 3680
+    },
+    {
+      "match": "natsuSweatdrop",
+      "image_id": 3753
+    },
+    {
+      "match": "natsuExcite",
+      "image_id": 3754
+    },
+    {
+      "match": "natsuCorki",
+      "image_id": 6931
+    },
+    {
+      "match": "natsuRage",
+      "image_id": 35922
+    },
+    {
+      "match": "natsuGasm",
+      "image_id": 35921
+    },
+    {
+      "match": "natsuShun",
+      "image_id": 60852
+    },
+    {
+      "match": "natsuWave",
+      "image_id": 60853
+    },
+    {
+      "match": "natsuS",
+      "image_id": 80797
+    },
+    {
+      "match": "natsuXD",
+      "image_id": 80795
+    }
+  ]
+}

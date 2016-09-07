@@ -1,1 +1,67 @@
-{"name":"twitch-sub-vgbootcamp","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"vgbcRandall","image_id":1109},{"match":"vgbcMew2Bot","image_id":1114},{"match":"vgbcPewPew","image_id":1110},{"match":"vgbcRagEQuit","image_id":1111},{"match":"vgbcShinedBlind","image_id":1112},{"match":"vgbcHypeBox","image_id":430},{"match":"vgbcTKrude","image_id":12353},{"match":"vgbc20xx","image_id":13763},{"match":"vgbcMyB","image_id":38700},{"match":"vgbcEEmote","image_id":38701},{"match":"vgbc5to0","image_id":38699},{"match":"vgbcPPMD","image_id":40854},{"match":"vgbcSoBM","image_id":40215},{"match":"vgbcGimR","image_id":53365},{"match":"vgbcToot","image_id":53395}]}
+{
+  "name": "twitch-sub-vgbootcamp",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "vgbcRandall",
+      "image_id": 1109
+    },
+    {
+      "match": "vgbcMew2Bot",
+      "image_id": 1114
+    },
+    {
+      "match": "vgbcPewPew",
+      "image_id": 1110
+    },
+    {
+      "match": "vgbcRagEQuit",
+      "image_id": 1111
+    },
+    {
+      "match": "vgbcShinedBlind",
+      "image_id": 1112
+    },
+    {
+      "match": "vgbcHypeBox",
+      "image_id": 430
+    },
+    {
+      "match": "vgbcTKrude",
+      "image_id": 12353
+    },
+    {
+      "match": "vgbc20xx",
+      "image_id": 13763
+    },
+    {
+      "match": "vgbcMyB",
+      "image_id": 38700
+    },
+    {
+      "match": "vgbcEEmote",
+      "image_id": 38701
+    },
+    {
+      "match": "vgbc5to0",
+      "image_id": 38699
+    },
+    {
+      "match": "vgbcPPMD",
+      "image_id": 40854
+    },
+    {
+      "match": "vgbcSoBM",
+      "image_id": 40215
+    },
+    {
+      "match": "vgbcGimR",
+      "image_id": 53365
+    },
+    {
+      "match": "vgbcToot",
+      "image_id": 53395
+    }
+  ]
+}

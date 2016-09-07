@@ -1,1 +1,39 @@
-{"name":"twitch-sub-theladymea","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"meaDROOL","image_id":71979},{"match":"meaL","image_id":65433},{"match":"meaCOOL","image_id":65435},{"match":"meaHUG","image_id":65436},{"match":"meaOW","image_id":71978},{"match":"meaHYPE","image_id":65438},{"match":"meaBLUSH","image_id":68501},{"match":"meaW","image_id":103494}]}
+{
+  "name": "twitch-sub-theladymea",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "meaDROOL",
+      "image_id": 71979
+    },
+    {
+      "match": "meaL",
+      "image_id": 65433
+    },
+    {
+      "match": "meaCOOL",
+      "image_id": 65435
+    },
+    {
+      "match": "meaHUG",
+      "image_id": 65436
+    },
+    {
+      "match": "meaOW",
+      "image_id": 71978
+    },
+    {
+      "match": "meaHYPE",
+      "image_id": 65438
+    },
+    {
+      "match": "meaBLUSH",
+      "image_id": 68501
+    },
+    {
+      "match": "meaW",
+      "image_id": 103494
+    }
+  ]
+}

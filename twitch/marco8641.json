@@ -1,1 +1,31 @@
-{"name":"twitch-sub-marco8641","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"marcoFace","image_id":27275},{"match":"marcoCotte","image_id":27407},{"match":"marcoBomb","image_id":29810},{"match":"marcoSpace","image_id":29811},{"match":"marcoNoBomb","image_id":30688},{"match":"marcoSwag","image_id":34889}]}
+{
+  "name": "twitch-sub-marco8641",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "marcoFace",
+      "image_id": 27275
+    },
+    {
+      "match": "marcoCotte",
+      "image_id": 27407
+    },
+    {
+      "match": "marcoBomb",
+      "image_id": 29810
+    },
+    {
+      "match": "marcoSpace",
+      "image_id": 29811
+    },
+    {
+      "match": "marcoNoBomb",
+      "image_id": 30688
+    },
+    {
+      "match": "marcoSwag",
+      "image_id": 34889
+    }
+  ]
+}

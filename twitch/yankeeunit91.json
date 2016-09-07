@@ -1,1 +1,23 @@
-{"name":"twitch-sub-yankeeunit91","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"hammergeilYU91","image_id":88558},{"match":"hammergeil91","image_id":66098},{"match":"hammergeilAtoemkraft","image_id":70646},{"match":"hammergeil91ball","image_id":88564}]}
+{
+  "name": "twitch-sub-yankeeunit91",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "hammergeilYU91",
+      "image_id": 88558
+    },
+    {
+      "match": "hammergeil91",
+      "image_id": 66098
+    },
+    {
+      "match": "hammergeilAtoemkraft",
+      "image_id": 70646
+    },
+    {
+      "match": "hammergeil91ball",
+      "image_id": 88564
+    }
+  ]
+}

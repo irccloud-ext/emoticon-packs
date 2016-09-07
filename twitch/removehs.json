@@ -1,1 +1,23 @@
-{"name":"twitch-sub-removehs","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"removehiD","image_id":79079},{"match":"removehiC","image_id":79206},{"match":"removehiA","image_id":77087},{"match":"removehiB","image_id":79432}]}
+{
+  "name": "twitch-sub-removehs",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "removehiD",
+      "image_id": 79079
+    },
+    {
+      "match": "removehiC",
+      "image_id": 79206
+    },
+    {
+      "match": "removehiA",
+      "image_id": 77087
+    },
+    {
+      "match": "removehiB",
+      "image_id": 79432
+    }
+  ]
+}

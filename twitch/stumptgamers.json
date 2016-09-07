@@ -1,1 +1,19 @@
-{"name":"twitch-sub-stumptgamers","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"stumptBikeshorts","image_id":100630},{"match":"stumptBear","image_id":99860},{"match":"stumptRipgordon","image_id":97864}]}
+{
+  "name": "twitch-sub-stumptgamers",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "stumptBikeshorts",
+      "image_id": 100630
+    },
+    {
+      "match": "stumptBear",
+      "image_id": 99860
+    },
+    {
+      "match": "stumptRipgordon",
+      "image_id": 97864
+    }
+  ]
+}

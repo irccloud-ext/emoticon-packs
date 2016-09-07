@@ -1,1 +1,35 @@
-{"name":"twitch-sub-s1rus","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"sirusMad","image_id":5752},{"match":"sirusThumb","image_id":3785},{"match":"sirusPoops","image_id":3786},{"match":"sirusFist","image_id":3788},{"match":"sirusAngry","image_id":4068},{"match":"sirusDeal","image_id":4062},{"match":"sirusBros","image_id":6185}]}
+{
+  "name": "twitch-sub-s1rus",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "sirusMad",
+      "image_id": 5752
+    },
+    {
+      "match": "sirusThumb",
+      "image_id": 3785
+    },
+    {
+      "match": "sirusPoops",
+      "image_id": 3786
+    },
+    {
+      "match": "sirusFist",
+      "image_id": 3788
+    },
+    {
+      "match": "sirusAngry",
+      "image_id": 4068
+    },
+    {
+      "match": "sirusDeal",
+      "image_id": 4062
+    },
+    {
+      "match": "sirusBros",
+      "image_id": 6185
+    }
+  ]
+}

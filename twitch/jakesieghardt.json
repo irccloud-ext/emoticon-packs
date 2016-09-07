@@ -1,1 +1,23 @@
-{"name":"twitch-sub-jakesieghardt","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"jappaJinX","image_id":101672},{"match":"jappaPig","image_id":85328},{"match":"jappa7","image_id":81240},{"match":"jappaJinx","image_id":101459}]}
+{
+  "name": "twitch-sub-jakesieghardt",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "jappaJinX",
+      "image_id": 101672
+    },
+    {
+      "match": "jappaPig",
+      "image_id": 85328
+    },
+    {
+      "match": "jappa7",
+      "image_id": 81240
+    },
+    {
+      "match": "jappaJinx",
+      "image_id": 101459
+    }
+  ]
+}

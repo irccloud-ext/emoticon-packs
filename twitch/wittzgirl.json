@@ -1,1 +1,67 @@
-{"name":"twitch-sub-wittzgirl","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"renaeFight","image_id":45641},{"match":"renaeHype","image_id":38169},{"match":"renaeRage","image_id":37304},{"match":"renaeBling","image_id":37212},{"match":"renaeLove","image_id":39038},{"match":"renaeJish","image_id":41302},{"match":"renaeZoey","image_id":59859},{"match":"renaeRekt","image_id":54670},{"match":"renaeBae","image_id":64116},{"match":"renaePls","image_id":78546},{"match":"renaeWave","image_id":80670},{"match":"renaePetch","image_id":80654},{"match":"renaeRude","image_id":81027},{"match":"renaeWorth","image_id":81028},{"match":"renaeButts","image_id":105174}]}
+{
+  "name": "twitch-sub-wittzgirl",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "renaeFight",
+      "image_id": 45641
+    },
+    {
+      "match": "renaeHype",
+      "image_id": 38169
+    },
+    {
+      "match": "renaeRage",
+      "image_id": 37304
+    },
+    {
+      "match": "renaeBling",
+      "image_id": 37212
+    },
+    {
+      "match": "renaeLove",
+      "image_id": 39038
+    },
+    {
+      "match": "renaeJish",
+      "image_id": 41302
+    },
+    {
+      "match": "renaeZoey",
+      "image_id": 59859
+    },
+    {
+      "match": "renaeRekt",
+      "image_id": 54670
+    },
+    {
+      "match": "renaeBae",
+      "image_id": 64116
+    },
+    {
+      "match": "renaePls",
+      "image_id": 78546
+    },
+    {
+      "match": "renaeWave",
+      "image_id": 80670
+    },
+    {
+      "match": "renaePetch",
+      "image_id": 80654
+    },
+    {
+      "match": "renaeRude",
+      "image_id": 81027
+    },
+    {
+      "match": "renaeWorth",
+      "image_id": 81028
+    },
+    {
+      "match": "renaeButts",
+      "image_id": 105174
+    }
+  ]
+}

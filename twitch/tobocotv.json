@@ -1,1 +1,39 @@
-{"name":"twitch-sub-tobocotv","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"tobCaster","image_id":6198},{"match":"tobLeona","image_id":7659},{"match":"tobBurstado1","image_id":9600},{"match":"tobBurstado2","image_id":9602},{"match":"tobGg","image_id":13953},{"match":"tobDogleona","image_id":20006},{"match":"tobAceita","image_id":20013},{"match":"tobDeal","image_id":26949}]}
+{
+  "name": "twitch-sub-tobocotv",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "tobCaster",
+      "image_id": 6198
+    },
+    {
+      "match": "tobLeona",
+      "image_id": 7659
+    },
+    {
+      "match": "tobBurstado1",
+      "image_id": 9600
+    },
+    {
+      "match": "tobBurstado2",
+      "image_id": 9602
+    },
+    {
+      "match": "tobGg",
+      "image_id": 13953
+    },
+    {
+      "match": "tobDogleona",
+      "image_id": 20006
+    },
+    {
+      "match": "tobAceita",
+      "image_id": 20013
+    },
+    {
+      "match": "tobDeal",
+      "image_id": 26949
+    }
+  ]
+}

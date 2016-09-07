@@ -1,1 +1,31 @@
-{"name":"twitch-sub-originpc","match":"word","template":"<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">","icons":[{"match":"originShield","image_id":40131},{"match":"originO","image_id":40130},{"match":"originThumbsup","image_id":46440},{"match":"originBEWM","image_id":48363},{"match":"originFREEPJ","image_id":50194},{"match":"origin4KIDS","image_id":70481}]}
+{
+  "name": "twitch-sub-originpc",
+  "match": "word",
+  "template": "<img src=\"//static-cdn.jtvnw.net/emoticons/v1/:image_id/1.0\" alt=\":match\" title=\":match\">",
+  "icons": [
+    {
+      "match": "originShield",
+      "image_id": 40131
+    },
+    {
+      "match": "originO",
+      "image_id": 40130
+    },
+    {
+      "match": "originThumbsup",
+      "image_id": 46440
+    },
+    {
+      "match": "originBEWM",
+      "image_id": 48363
+    },
+    {
+      "match": "originFREEPJ",
+      "image_id": 50194
+    },
+    {
+      "match": "origin4KIDS",
+      "image_id": 70481
+    }
+  ]
+}
